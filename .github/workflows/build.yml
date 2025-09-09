@@ -2,7 +2,7 @@ name: build-epl-report
 
 on:
   schedule:
-    # Every 2 hours at minute 7 (spread load)
+    # Every 2 hours at minute 7 (spreads load a bit)
     - cron: "7 */2 * * *"
   workflow_dispatch: {}
 
@@ -32,7 +32,9 @@ jobs:
           MIN_STORIES: "5"
           REGION_TZ: "America/Chicago"
           INCLUDE_RUMORS: "false"
-          # Optional: add this in repo Settings > Secrets if you want LLM-polished scripts:
+          # Use one or both of these (optional). Add them in:
+          # Settings → Secrets and variables → Actions → New repository secret
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python pipeline/main.py
@@ -41,7 +43,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/*.md || true
+          git add docs/*.md docs/*.html || true
           git commit -m "Auto: EPL report $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
           git push
-
