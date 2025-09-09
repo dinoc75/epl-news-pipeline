@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 48h)
-**Generated:** 2025-09-09 15:06 (America/Chicago)  |  2025-09-09 20:06 (UTC)
+**Generated:** 2025-09-09 15:21 (America/Chicago)  |  2025-09-09 20:21 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~4m 38s
@@ -9,8 +9,8 @@ Hey EPL fans—here are the **biggest stories from the last 48 hours**, ranked b
 
 ## TL;DR (15–25s)
 - Gerwyn Price battles to Players Championship 26 title with victory over Gian van Veen in Halle 39 final
+- Football gossip: Van de Ven, Fabianski, Mateta, Bissouma, Mainoo, Trossard, Jesus, Wharton, Bentancur,
 - Nottingham Forest: Ange Postecoglou brought in to challenge for trophies after Nuno legacy
-- Erling Haaland: What makes Manchester City striker such a good goalscorer?
 
 ---
 
@@ -73,7 +73,7 @@ Steve Coooper: Former Nottingham Forest and Leicester boss named Brondby head co
 ## Story 3: BBC Women's Football Weekly - Close contests, dream debuts & transfer records - BBC Sounds
 **Slug (lower-third):** BBC Women's Football Weekly - Close contests, dream debut…  
 **When:** 2025-09-09 10:31 (America/Chicago)  •  **Published:** 2025-09-09 15:31 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 BBC Women's Football Weekly - Close contests, dream debuts & transfer records - BBC Sounds. Olivia Smith shines for Arsenal Implications for the table and upcoming fixtures. We'll watch for official confirmation and update as new details arrive.
@@ -101,7 +101,7 @@ BBC Women's Football Weekly - Close contests, dream debuts & transfer records - 
 ## Story 4: Premier League: Clubs want clarity over Manchester City APT rules 'settlement'
 **Slug (lower-third):** Premier League: Clubs want clarity over Manchester City A…  
 **When:** 2025-09-09 09:03 (America/Chicago)  •  **Published:** 2025-09-09 14:03 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League: Clubs want clarity over Manchester City APT rules 'settlement'. Premier League clubs want more clarity about the settlement of a legal dispute with Manchester City over the rules that govern commercial deals, BBC Sport has been told. Implications for the table and upcoming fixtures.
@@ -152,7 +152,33 @@ Gerwyn Price battles to Players Championship 26 title with victory over Gian van
 
 ---
 
-## Story 6: Nottingham Forest: Ange Postecoglou brought in to challenge for trophies after Nuno legacy
+## Story 6: Football gossip: Van de Ven, Fabianski, Mateta, Bissouma, Mainoo, Trossard, Jesus, Wharton, Bentancur,
+**Slug (lower-third):** Football gossip: Van de Ven, Fabianski, Mateta, Bissouma,…  
+**When:** 2025-09-09 15:02 (America/Chicago)  •  **Published:** 2025-09-09 20:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Van de Ven, Fabianski, Mateta, Bissouma, Mainoo, Trossard, Jesus, Wharton, Bentancur,. Tottenham defender Micky van de Ven is a target for Real Madrid, Manchester United midfielder Kobbie Mainoo wants a January move, Arsenal will consider selling an attacking duo, plus more. Implications for the table and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+- High audience interest.
+
+### Context
+- Verified across reputable outlets.
+- Use generic b-roll only—no match footage.
+
+### Sources
+- bbc.com — Football gossip: Van de Ven, Fabianski, Mateta, Bissouma, Mainoo, Trossard, Jesus, Wharton, Bentancur,. https://www.bbc.com/sport/football/articles/c059p0r0qepo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Nottingham Forest: Ange Postecoglou brought in to challenge for trophies after Nuno legacy
 **Slug (lower-third):** Nottingham Forest: Ange Postecoglou brought in to challen…  
 **When:** 2025-09-09 14:56 (America/Chicago)  •  **Published:** 2025-09-09 19:56 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -178,7 +204,7 @@ Nottingham Forest: Ange Postecoglou brought in to challenge for trophies after N
 
 ---
 
-## Story 7: Erling Haaland: What makes Manchester City striker such a good goalscorer?
+## Story 8: Erling Haaland: What makes Manchester City striker such a good goalscorer?
 **Slug (lower-third):** Erling Haaland: What makes Manchester City striker such a…  
 **When:** 2025-09-09 14:41 (America/Chicago)  •  **Published:** 2025-09-09 19:41 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -204,7 +230,7 @@ Erling Haaland: What makes Manchester City striker such a good goalscorer?. BBC 
 
 ---
 
-## Story 8: Tottenham takeover latest: Majority owners, the Lewis family, totally committed to Spurs and could invest more money
+## Story 9: Tottenham takeover latest: Majority owners, the Lewis family, totally committed to Spurs and could invest more money
 **Slug (lower-third):** Tottenham takeover latest: Majority owners, the Lewis fam…  
 **When:** 2025-09-09 14:00 (America/Chicago)  •  **Published:** 2025-09-09 19:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~32s
@@ -230,7 +256,7 @@ Tottenham takeover latest: Majority owners, the Lewis family, totally committed 
 
 ---
 
-## Story 9: David Squires on ... Daniel Levy's greatest hits at Tottenham Hotspur
+## Story 10: David Squires on ... Daniel Levy's greatest hits at Tottenham Hotspur
 **Slug (lower-third):** David Squires on ... Daniel Levy's greatest hits at Totte…  
 **When:** 2025-09-09 05:30 (America/Chicago)  •  **Published:** 2025-09-09 10:30 (UTC)  
 **Virality score:** 90  •  **Estimated runtime:** ~20s
@@ -248,32 +274,6 @@ David Squires on ... Daniel Levy's greatest hits at Tottenham Hotspur. Our carto
 
 ### Sources
 - theguardian.com — David Squires on ... Daniel Levy's greatest hits at Tottenham Hotspur. https://www.theguardian.com/football/picture/2025/sep/09/david-squires-on-daniel-levy-greatest-hits-tottenham-hotspur
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Onana's United exit leaves Amorim with more questions than answers
-**Slug (lower-third):** Onana's United exit leaves Amorim with more questions tha…  
-**When:** 2025-09-09 02:00 (America/Chicago)  •  **Published:** 2025-09-09 07:00 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Onana's United exit leaves Amorim with more questions than answers. Offloading the error-prone goalkeeper has added to rather than solved the goalkeeping conundrum at Manchester United Implications for the table and upcoming fixtures. We'll watch for official confirmation and update as new details arrive.
-
-### Why It Matters
-- Impact on standings or squad.
-- High audience interest.
-
-### Context
-- Verified across reputable outlets.
-- Use generic b-roll only—no match footage.
-
-### Sources
-- theguardian.com — Onana's United exit leaves Amorim with more questions than answers. https://www.theguardian.com/football/2025/sep/09/manchester-united-ruben-amorim-derby-goalkeepers-andre-onana
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
