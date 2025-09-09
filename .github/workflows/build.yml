@@ -2,8 +2,7 @@ name: build-epl-report
 
 on:
   schedule:
-    # Every 2 hours at minute 7 (spreads load a bit)
-    - cron: "7 */2 * * *"
+    - cron: "7 */2 * * *"     # every 2 hours
   workflow_dispatch: {}
 
 permissions:
@@ -28,12 +27,11 @@ jobs:
 
       - name: Run pipeline
         env:
-          TIME_WINDOW_HOURS: "48"
-          MIN_STORIES: "5"
+          TIME_WINDOW_HOURS: "48"          # only stories from last 24–48h
+          MAX_STORIES: "7"                 # hard cap (change to 8–10 if you like)
+          SCORE_THRESHOLD: "45"            # keep solid items; lower to 40 if too few
           REGION_TZ: "America/Chicago"
           INCLUDE_RUMORS: "false"
-          # Use one or both of these (optional). Add them in:
-          # Settings → Secrets and variables → Actions → New repository secret
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
@@ -43,6 +41,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/*.md docs/*.html || true
+          git add docs/*.md docs/*.html docs/*.txt || true
           git commit -m "Auto: EPL report $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
           git push
