@@ -2,7 +2,9 @@ name: build-epl-report
 
 on:
   schedule:
-    - cron: "7 */2 * * *"   # every 2 hours
+    # every 6 hours at minute 7 (GitHub schedules run on UTC; */6 keeps it
+    # every six hours regardless of timezone)
+    - cron: "7 */6 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -25,7 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Small, safe preflight so the logs show whether the env & SDK are in place
+      # Preflight so logs clearly show if the key/SDK are available
       - name: Diagnostics (env + SDK)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -42,18 +44,23 @@ jobs:
 
       - name: Run pipeline
         env:
-          TIME_WINDOW_HOURS: "48"
+          # ← your requests
+          TIME_WINDOW_HOURS: "24"              # last 24h only
+          REGION_TZ: "America/Winnipeg"        # display times in Winnipeg
+          # tuning knobs (optional, keep as-is if happy)
           MAX_STORIES: "10"
           PER_CLUB_LIMIT: "2"
           SCORE_THRESHOLD: "45"
-          REGION_TZ: "America/Chicago"
           INCLUDE_RUMORS: "false"
+          # LLM
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          # choose the model used by the writer; default below in code is gpt-5-mini
           OPENAI_MODEL: "gpt-5-mini"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          # turn on SDK HTTP debug so you can see POST /v1/responses lines
-          OPENAI_LOG: debug
+          OPENAI_LOG: debug                    # shows POST /v1/responses in logs
+          # output size controls (optional; uncomment to use)
+          # ARCHIVE_ENABLED: "true"            # "false" to skip timestamped archives
+          # WRITE_TXT: "true"                  # "false" to skip .txt copies
+          # PRIMARY_SNIPPET_CHARS: "900"       # reduce tokens sent to LLM
         run: |
           python pipeline/main.py
 
