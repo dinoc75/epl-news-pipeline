@@ -18,20 +18,26 @@ import trafilatura
 # Config (env overrides)
 # ============================
 TIME_WINDOW_HOURS = int(os.getenv("TIME_WINDOW_HOURS", "48"))
-MAX_STORIES = int(os.getenv("MAX_STORIES", "10"))
-PER_CLUB_LIMIT = int(os.getenv("PER_CLUB_LIMIT", "2"))
-SCORE_THRESHOLD = int(os.getenv("SCORE_THRESHOLD", "45"))
+MAX_STORIES = int(os.getenv("MAX_STORIES", "10"))            # 8–12 is a good target
+PER_CLUB_LIMIT = int(os.getenv("PER_CLUB_LIMIT", "2"))       # max stories per club/topic
+SCORE_THRESHOLD = int(os.getenv("SCORE_THRESHOLD", "45"))    # quality bar (raise to 50 if noisy)
 INCLUDE_RUMORS = os.getenv("INCLUDE_RUMORS", "false").lower() == "true"
 REGION_TZ = os.getenv("REGION_TZ", "America/Chicago")
 
+# LLM controls
 OPENAI_KEY = os.getenv("OPENAI_API_KEY", "")
-OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5-mini")  # overridable via env
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5-mini")       # change via workflow env if needed
 USE_OPENAI = bool(OPENAI_KEY)
 USE_GEMINI = bool(os.getenv("GEMINI_API_KEY"))
-OUTPUT_DIR = "docs"
+PRIMARY_SNIPPET_CHARS = int(os.getenv("PRIMARY_SNIPPET_CHARS", "1000"))  # how much article text we pass to LLM
 
-UA_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EPL-Pipeline/2.1)"}
-MAX_PER_FEED = 20
+# Output controls
+OUTPUT_DIR = "docs"
+ARCHIVE_ENABLED = os.getenv("ARCHIVE_ENABLED", "true").lower() == "true"  # set to "false" to avoid archive copies
+WRITE_TXT = os.getenv("WRITE_TXT", "true").lower() == "true"              # set to "false" to skip .txt copies
+
+UA_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EPL-Pipeline/2.2)"}
+MAX_PER_FEED = 20  # cap per RSS feed to keep volume sane
 
 # ============================
 # Sources / heuristics
@@ -48,7 +54,9 @@ AGGREGATOR_DOMAINS = {
     "bing.com", "newsnow.co.uk"
 }
 
+# Virality/credibility weights
 TIER_WEIGHTS = {
+    # top-tier / official
     "premierleague.com": 5,
     "bbc.co.uk": 5, "bbc.com": 5,
     "skysports.com": 5,
@@ -56,7 +64,8 @@ TIER_WEIGHTS = {
     "reuters.com": 4,
     "apnews.com": 4,
     "espn.com": 3,
-    # club sites
+
+    # club sites (authoritative confirmations)
     "arsenal.com":4, "chelseafc.com":4, "liverpoolfc.com":4, "manutd.com":4, "mancity.com":4,
     "tottenhamhotspur.com":4, "evertonfc.com":4, "nufc.co.uk":4, "westhamunited.com":4,
     "lcfc.com":4, "cpfc.co.uk":4, "wolves.co.uk":4, "fulhamfc.com":4, "saintsfc.co.uk":4,
@@ -64,6 +73,7 @@ TIER_WEIGHTS = {
     "afcb.co.uk":4, "brentfordfc.com":4, "itfc.co.uk":4,
 }
 
+# Google News queries (concise but broad)
 GN_QUERIES = [
     "English Premier League",
     "Premier League injuries",
@@ -81,9 +91,9 @@ def google_news_rss(query: str) -> str:
 RSS_FEEDS = [google_news_rss(q) for q in GN_QUERIES] + [
     "https://feeds.bbci.co.uk/sport/football/rss.xml",
     "https://www.theguardian.com/football/rss",
-    "https://www.skysports.com/rss/12040",
-    "https://www.reuters.com/subjects/soccer/rss",
-    "https://www.espn.com/espn/rss/soccer/news",
+    "https://www.skysports.com/rss/12040",         # Sky Sports Football
+    "https://www.reuters.com/subjects/soccer/rss", # Reuters Soccer
+    "https://www.espn.com/espn/rss/soccer/news",   # ESPN Soccer
 ]
 
 # ============================
@@ -168,6 +178,9 @@ def categorize(title: str, summary: str = "") -> str:
     return "Club Updates"
 
 def fetch_meta_follow(link: str, timeout=12):
+    """
+    Follow redirects to publisher and pull OG meta.
+    """
     info = {"title":"", "description":"", "final_url":link, "final_domain":domain_of(link)}
     try:
         r = requests.get(link, timeout=timeout, headers=UA_HEADERS, allow_redirects=True)
@@ -187,6 +200,9 @@ def fetch_meta_follow(link: str, timeout=12):
     return info
 
 def extract_article_text(url: str, max_chars=1200) -> str:
+    """
+    Pull a clean text snippet from the primary article for richer LLM prompts.
+    """
     try:
         downloaded = trafilatura.fetch_url(url, no_ssl=True, user_agent=UA_HEADERS["User-Agent"])
         if not downloaded:
@@ -202,7 +218,7 @@ def extract_article_text(url: str, max_chars=1200) -> str:
 def virality_score(cluster) -> int:
     primary = cluster["primary"]
     hrs = min(48.0, hours_ago(primary["published_utc"]))
-    recency = max(0, 100 - int((hrs/48.0) * 70))
+    recency = max(0, 100 - int((hrs/48.0) * 70))  # up to 70
     count_bonus = min(20, 5 * (len(cluster["articles"]) - 1))
     weight_bonus = 0
     seen = set()
@@ -216,6 +232,7 @@ def virality_score(cluster) -> int:
     return min(100, recency + count_bonus + weight_bonus)
 
 def credible_cluster(cluster) -> bool:
+    """require ≥1 top-tier domain OR ≥2 medium-tier distinct domains"""
     tops = set()
     meds = set()
     for a in cluster["articles"]:
@@ -245,6 +262,7 @@ def collect_candidates():
             if not link or not title_feed:
                 continue
 
+            # publish time
             published = None
             for key in ("published", "updated", "pubDate"):
                 if e.get(key):
@@ -261,10 +279,12 @@ def collect_candidates():
             if not in_window(published_utc):
                 continue
 
+            # follow to publisher & get meta
             meta = fetch_meta_follow(link)
             final_url = meta["final_url"]
             dom = meta["final_domain"]
 
+            # skip aggregators as primaries
             if dom in AGGREGATOR_DOMAINS:
                 continue
 
@@ -276,6 +296,7 @@ def collect_candidates():
             if not is_epl_relevant(title, meta["description"]):
                 continue
 
+            # dedupe by final URL
             if final_url in seen_links:
                 continue
             seen_links.add(final_url)
@@ -294,7 +315,7 @@ def collect_candidates():
     return items
 
 # ============================
-# Step 2: cluster & select
+# Step 2: cluster items
 # ============================
 def cluster_items(items, sim_thresh=0.72):
     items_sorted = sorted(items, key=lambda x: x["published_utc"], reverse=True)
@@ -324,6 +345,7 @@ def cluster_items(items, sim_thresh=0.72):
         cl["category"] = categorize(cl["primary"]["title"], cl["primary"].get("summary",""))
         cl["club_key"] = cl["primary"]["club_key"]
 
+    # filter weak + enforce credibility
     clusters = [c for c in clusters if c["score"] >= SCORE_THRESHOLD and credible_cluster(c)]
     clusters.sort(key=lambda c: (c["score"], c["primary"]["published_utc"]), reverse=True)
     return clusters
@@ -356,10 +378,31 @@ def pick_sources(cluster, k=3):
     return out
 
 # ============================
-# Step 3: writers (with strong logging)
+# Step 3: writers (OpenAI → Gemini → fallback)
 # ============================
+def _parse_llm_json(text: str):
+    """Robustly parse JSON from LLM text."""
+    if not text:
+        return None
+    try:
+        return json.loads(text)
+    except Exception:
+        m = re.search(r"\{.*\}", text, re.S)
+        if not m:
+            return None
+        try:
+            return json.loads(m.group(0))
+        except Exception:
+            return None
+
 def openai_presenter_blocks(story_idx, title, summary, sources, event_time_local, published_local, primary_snippet):
-    """Use OpenAI Responses API if OPENAI_API_KEY is set. Logs every attempt."""
+    """
+    Use OpenAI Responses API. IMPORTANT: no response_format here (was causing TypeError).
+    We log outcome; on any exception we return None and the caller will fall back.
+    """
+    if not USE_OPENAI:
+        return None
+
     try:
         from openai import OpenAI
     except Exception as e:
@@ -371,7 +414,7 @@ def openai_presenter_blocks(story_idx, title, summary, sources, event_time_local
     prompt = f"""
 You are a male football news presenter. Write a presenter-ready story for a YouTube roundup.
 Be specific—names, teams, competition, dates, numbers. If a detail isn't in the source text, write: "Not specified in the source."
-Return ONLY valid JSON with keys:
+Return JSON with keys exactly:
 script (3–5 sentences, ~90–140 words),
 why (1–2 bullets),
 context (1–3 bullets),
@@ -384,30 +427,46 @@ Local event time: {event_time_local}
 Published (local shown from UTC): {published_local}
 
 Primary article snippet (for quotes/details; do NOT invent beyond this):
-{primary_snippet[:900] if primary_snippet else "No snippet available."}
+{(primary_snippet or "No snippet available.")[:PRIMARY_SNIPPET_CHARS]}
 
 Sources:
 {chr(10).join([f"- {s['domain']} — {s['link']}" for s in sources])}
 """
+
     try:
         log(f"[LLM][story {story_idx}] OpenAI call → model={OPENAI_MODEL}")
         resp = client.responses.create(
             model=OPENAI_MODEL,
             input=prompt,
-            response_format={"type": "json_object"}
+            temperature=0.2,
+            max_output_tokens=800
         )
-        # With OPENAI_LOG=debug you’ll also see http lines; this confirms success:
-        usage = getattr(resp, "usage", None)
-        if usage:
-            log(f"[LLM][story {story_idx}] OpenAI OK, usage: {usage}")
-        data = json.loads(resp.output_text)
+        # With OPENAI_LOG=debug, HTTP request lines also appear in the job log
+        text = getattr(resp, "output_text", None)
+        if not text and hasattr(resp, "output") and resp.output:
+            # extremely defensive: try to reconstruct text from content chunks
+            try:
+                chunks = []
+                for part in resp.output[0].content:
+                    if hasattr(part, "text") and part.text:
+                        chunks.append(part.text)
+                text = "\n".join(chunks) if chunks else None
+            except Exception:
+                text = None
+
+        data = _parse_llm_json(text or "")
+        if not data:
+            log(f"[LLM][story {story_idx}] OpenAI returned non-JSON or empty text → fallback to SIMPLE.")
+            return None
+
         return {
-            "script": data.get("script", "").strip(),
+            "script": (data.get("script") or "").strip(),
             "why": [clean_text(x) for x in data.get("why", [])][:2],
             "context": [clean_text(x) for x in data.get("context", [])][:3],
             "broll": [clean_text(x) for x in data.get("broll", [])][:4],
             "lower_third": clean_text(data.get("lower_third", ""))[:60],
         }
+
     except Exception as e:
         log(f"[LLM][story {story_idx}] OpenAI ERROR → fallback. {e.__class__.__name__}: {e}")
         log("[LLM] Traceback:\n" + "".join(traceback.format_exc()))
@@ -420,6 +479,7 @@ def gemini_presenter_blocks(story_idx, title, summary, sources, event_time_local
         import google.generativeai as genai
         genai.configure(api_key=os.environ["GEMINI_API_KEY"])
         model = genai.GenerativeModel("gemini-1.5-pro")
+
         prompt = f"""
 You are a male football news presenter. Write a presenter-ready story for a YouTube roundup.
 Be specific—names, teams, competition, dates, numbers. If missing, say "Not specified in the source."
@@ -431,21 +491,21 @@ Local event time: {event_time_local}
 Published (local shown from UTC): {published_local}
 
 Primary article snippet:
-{primary_snippet[:900] if primary_snippet else "No snippet available."}
+{(primary_snippet or "No snippet available.")[:PRIMARY_SNIPPET_CHARS]}
 
 Sources:
 {chr(10).join([f"- {s['domain']} — {s['link']}" for s in sources])}
 """
         log(f"[LLM][story {story_idx}] Gemini call → model=gemini-1.5-pro")
         resp = model.generate_content(prompt)
-        txt = resp.text or ""
-        m = re.search(r"\{.*\}", txt, re.S)
-        if not m:
+        txt = getattr(resp, "text", "") or ""
+        data = _parse_llm_json(txt)
+        if not data:
             log(f"[LLM][story {story_idx}] Gemini returned no JSON → fallback.")
             return None
-        data = json.loads(m.group(0))
+
         return {
-            "script": data.get("script", "").strip(),
+            "script": (data.get("script") or "").strip(),
             "why": [clean_text(x) for x in data.get("why", [])][:2],
             "context": [clean_text(x) for x in data.get("context", [])][:3],
             "broll": [clean_text(x) for x in data.get("broll", [])][:4],
@@ -456,7 +516,7 @@ Sources:
         return None
 
 def simple_presenter_blocks(title, summary, primary_snippet):
-    # stronger fallback: at least 3 sentences; try to lift a quote if found
+    """Stronger fallback: 3+ sentences; try to lift a quote if found."""
     quote = ""
     if primary_snippet:
         m = re.search(r"[“\"]([^”\"]{12,160})[”\"]", primary_snippet)
@@ -492,19 +552,6 @@ def estimate_seconds(text: str) -> int:
 # ============================
 CATEGORY_ORDER = ["Managerial Moves", "Transfers", "Injuries", "League & Regulation", "Club Updates"]
 
-def pick_sources(cluster, k=3):
-    out, seen = [], set()
-    for a in sorted(cluster["articles"],
-                    key=lambda x: (-TIER_WEIGHTS.get(x["domain"], 1), x["published_utc"]),
-                    reverse=True):
-        if a["domain"] in seen: 
-            continue
-        out.append(a)
-        seen.add(a["domain"])
-        if len(out) >= k:
-            break
-    return out
-
 def make_markdown(clusters):
     now_utc = utcnow()
     local = to_local(now_utc, REGION_TZ)
@@ -523,28 +570,26 @@ def make_markdown(clusters):
         lines.append(f"- {c['primary']['title']}")
     lines.append("\n---\n")
 
-    sorted_clusters = sorted(clusters, key=lambda c: (CATEGORY_ORDER.index(c["category"]) if c["category"] in CATEGORY_ORDER else 99,
-                                                      -c["score"]))
+    # group by category for better flow
+    sorted_clusters = sorted(
+        clusters,
+        key=lambda c: (CATEGORY_ORDER.index(c["category"]) if c["category"] in CATEGORY_ORDER else 99, -c["score"])
+    )
     current_cat = None
 
     for i, c in enumerate(sorted_clusters, start=1):
         p = c["primary"]
         event_local = to_local(p["published_utc"], REGION_TZ)
         sources = pick_sources(c, k=3)
-        primary_snippet = extract_article_text(p["link"], max_chars=1000)
+        primary_snippet = extract_article_text(p["link"], max_chars=PRIMARY_SNIPPET_CHARS)
 
-        blocks = None
-        # OpenAI first
-        if USE_OPENAI:
-            blocks = openai_presenter_blocks(
-                i, p["title"], p.get("summary",""), sources,
-                event_local.strftime('%Y-%m-%d %H:%M'),
-                event_local.strftime('%Y-%m-%d %H:%M'),
-                primary_snippet
-            )
-            if blocks is None:
-                log(f"[LLM][story {i}] Falling back from OpenAI.")
-        # Gemini next (if configured)
+        # Writer selection: OpenAI → Gemini → fallback
+        blocks = openai_presenter_blocks(
+            i, p["title"], p.get("summary",""), sources,
+            event_local.strftime('%Y-%m-%d %H:%M'),
+            event_local.strftime('%Y-%m-%d %H:%M'),
+            primary_snippet
+        ) if USE_OPENAI else None
         if blocks is None and USE_GEMINI:
             blocks = gemini_presenter_blocks(
                 i, p["title"], p.get("summary",""), sources,
@@ -552,9 +597,6 @@ def make_markdown(clusters):
                 event_local.strftime('%Y-%m-%d %H:%M'),
                 primary_snippet
             )
-            if blocks is None:
-                log(f"[LLM][story {i}] Falling back from Gemini.")
-        # Final fallback
         if blocks is None:
             log(f"[LLM][story {i}] Using SIMPLE fallback writer.")
             blocks = simple_presenter_blocks(p["title"], p.get("summary",""), primary_snippet)
@@ -603,6 +645,7 @@ def make_markdown(clusters):
     return "\n".join(lines)
 
 def render_html(md_text: str, title="EPL Viral News — Presenter Pack") -> str:
+    """Simple HTML wrapper (NotebookLM-friendly)."""
     body = md_to_html(md_text, extensions=["fenced_code", "tables", "toc"])
     return f"""<!doctype html>
 <html lang="en">
@@ -631,9 +674,9 @@ def render_html(md_text: str, title="EPL Viral News — Presenter Pack") -> str:
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # High-level env diagnostics at the top of every run
     log(f"[env] OPENAI_KEY_PRESENT={bool(OPENAI_KEY)} OPENAI_MODEL={OPENAI_MODEL} GEMINI_KEY_PRESENT={USE_GEMINI}")
-    log(f"[env] Window={TIME_WINDOW_HOURS}h MaxStories={MAX_STORIES} PerClub={PER_CLUB_LIMIT} Score≥{SCORE_THRESHOLD}")
+    log(f"[env] Window={TIME_WINDOW_HOURS}h MaxStories={MAX_STORIES} PerClub={PER_CLUB_LIMIT} Score≥{SCORE_THRESHOLD} SnippetChars={PRIMARY_SNIPPET_CHARS}")
+    log(f"[env] ARCHIVE_ENABLED={ARCHIVE_ENABLED} WRITE_TXT={WRITE_TXT}")
 
     log("Collecting candidates…")
     items = collect_candidates()
@@ -658,16 +701,29 @@ def main():
     archive_txt = archive_md.replace(".md", ".txt")
     latest_txt = os.path.join(OUTPUT_DIR, "latest.txt")
 
-    for path in (archive_md, latest_md, archive_txt, latest_txt):
-        with open(path, "w", encoding="utf-8") as f:
+    # Write latest
+    with open(latest_md, "w", encoding="utf-8") as f:
+        f.write(md)
+    if WRITE_TXT:
+        with open(latest_txt, "w", encoding="utf-8") as f:
             f.write(md)
-
     html = render_html(md)
-    for path in (archive_html, latest_html):
-        with open(path, "w", encoding="utf-8") as f:
+    with open(latest_html, "w", encoding="utf-8") as f:
+        f.write(html)
+
+    # Optionally write archive copies
+    if ARCHIVE_ENABLED:
+        with open(archive_md, "w", encoding="utf-8") as f:
+            f.write(md)
+        if WRITE_TXT:
+            with open(archive_txt, "w", encoding="utf-8") as f:
+                f.write(md)
+        with open(archive_html, "w", encoding="utf-8") as f:
             f.write(html)
 
-    log(f"Wrote {archive_md}, {archive_html}, {archive_txt}, {latest_md}, {latest_html}, {latest_txt}")
+    log(f"Wrote {latest_md}, {latest_html}" + (f", {latest_txt}" if WRITE_TXT else ""))
+    if ARCHIVE_ENABLED:
+        log(f"Wrote archives: {archive_md}, {archive_html}" + (f", {archive_txt}" if WRITE_TXT else ""))
 
 if __name__ == "__main__":
     main()
