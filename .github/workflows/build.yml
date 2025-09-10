@@ -25,17 +25,35 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Small, safe preflight so the logs show whether the env & SDK are in place
+      - name: Diagnostics (env + SDK)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python - <<'PY'
+          import os
+          print("[diag] HAS_OPENAI_KEY:", bool(os.getenv("OPENAI_API_KEY")))
+          try:
+              import openai
+              print("[diag] OPENAI_SDK_IMPORTED: True, VERSION:", getattr(openai, "__version__", "unknown"))
+          except Exception as e:
+              print("[diag] OPENAI_SDK_IMPORTED: False, ERROR:", repr(e))
+          PY
+
       - name: Run pipeline
         env:
-          TIME_WINDOW_HOURS: "24"   # last 48h
-          MAX_STORIES: "10"         # 8–12 is ideal; 10 default
-          PER_CLUB_LIMIT: "2"       # cap per club/topic
-          SCORE_THRESHOLD: "45"     # quality bar; raise to 50 if too noisy
-          REGION_TZ: "America/Winnipeg"
+          TIME_WINDOW_HOURS: "48"
+          MAX_STORIES: "10"
+          PER_CLUB_LIMIT: "2"
+          SCORE_THRESHOLD: "45"
+          REGION_TZ: "America/Chicago"
           INCLUDE_RUMORS: "false"
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # choose the model used by the writer; default below in code is gpt-5-mini
+          OPENAI_MODEL: "gpt-5-mini"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          OPENAI_LOG: debug          # openai log on
+          # turn on SDK HTTP debug so you can see POST /v1/responses lines
+          OPENAI_LOG: debug
         run: |
           python pipeline/main.py
 
