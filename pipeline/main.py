@@ -2,7 +2,7 @@ import os
 import re
 import json
 import logging
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Tuple, Union
 from datetime import datetime, timezone
 from urllib.parse import urlparse, quote_plus
 
@@ -40,7 +40,7 @@ OUTPUT_DIR = "docs"
 ARCHIVE_ENABLED = os.getenv("ARCHIVE_ENABLED", "true").lower() == "true"
 WRITE_TXT = os.getenv("WRITE_TXT", "true").lower() == "true"
 
-UA_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EPL-Pipeline/2.4)"}
+UA_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EPL-Pipeline/2.5)"}
 MAX_PER_FEED = 20
 
 # ============================
@@ -399,31 +399,71 @@ def pick_sources(cluster, k=3):
 # Step 3: LLM writers
 # ============================
 
+def _save_debug(name: str, content: str):
+    if not DEBUG_LLM:
+        return
+    try:
+        os.makedirs(os.path.join(OUTPUT_DIR, "debug"), exist_ok=True)
+        with open(os.path.join(OUTPUT_DIR, "debug", name), "w", encoding="utf-8") as f:
+            f.write(content or "")
+    except Exception:
+        pass
+
+def _dump_resp_obj(story_idx: int, resp: Any, tag: str):
+    """Save the raw response object JSON to debug for inspection."""
+    try:
+        if hasattr(resp, "model_dump_json"):
+            js = resp.model_dump_json()
+        elif hasattr(resp, "model_dump"):
+            js = json.dumps(resp.model_dump(), ensure_ascii=False)
+        else:
+            # Fallback: try to serialize via dict conversion
+            js = json.dumps(json.loads(str(resp)), ensure_ascii=False)
+    except Exception:
+        try:
+            js = json.dumps(resp, default=lambda o: str(o))
+        except Exception:
+            js = f"<<unserializable {type(resp)}>>"
+    _save_debug(f"story_{story_idx}_{tag}_obj.json", js)
+
 def _resp_to_text(resp: Any) -> str:
     """Coalesce text from Responses API across SDK shapes."""
-    # 1) Newer SDKs
+    # 1) Newer SDK helper
     t = getattr(resp, "output_text", None)
     if isinstance(t, str) and t.strip():
         return t.strip()
-    # 2) Try 'output' blocks
+    # 2) Generic traversal: look for 'parsed' or 'text' fields
     try:
-        output = getattr(resp, "output", None)
-        pieces: List[str] = []
-        if isinstance(output, list):
-            for block in output:
-                # Parsed JSON (some SDKs do this under content[0]['parsed'])
-                content = block.get("content", []) if isinstance(block, dict) else []
-                for c in content or []:
-                    if isinstance(c, dict):
-                        if "parsed" in c and isinstance(c["parsed"], (dict, list)):
-                            return json.dumps(c["parsed"], ensure_ascii=False)
-                        txt = c.get("text") or c.get("output_text")
-                        if isinstance(txt, str) and txt.strip():
-                            pieces.append(txt.strip())
-        if pieces:
-            return "\n".join(pieces).strip()
-    except Exception as e:
-        logging.warning("[LLM] Could not coalesce text: %r", e)
+        data = resp.model_dump() if hasattr(resp, "model_dump") else resp
+    except Exception:
+        data = resp
+
+    def _walk(o: Any):
+        # prefer structured 'parsed'
+        if isinstance(o, dict):
+            if "parsed" in o and isinstance(o["parsed"], (dict, list)):
+                yield json.dumps(o["parsed"], ensure_ascii=False)
+            for k, v in o.items():
+                if isinstance(v, (dict, list)):
+                    yield from _walk(v)
+                elif isinstance(v, str):
+                    yield v
+        elif isinstance(o, list):
+            for it in o:
+                yield from _walk(it)
+
+    collected: List[str] = []
+    for piece in _walk(data):
+        if isinstance(piece, str) and piece.strip():
+            collected.append(piece.strip())
+    # Prefer the first JSON-looking piece that contains our keys
+    for s in collected:
+        ss = s.strip()
+        if "{" in ss and "}" in ss and '"script"' in ss and '"lower_third"' in ss:
+            return ss
+    # Otherwise return concatenated text (may still include JSON)
+    if collected:
+        return "\n".join(collected)
     return ""
 
 def _first_json_object(s: str) -> str:
@@ -455,16 +495,6 @@ def _safe_json_parse(text: str) -> Dict[str, Any] | None:
 def _ensure_keys(d: Dict[str, Any]) -> bool:
     req = {"script","why","context","broll","lower_third"}
     return isinstance(d, dict) and req.issubset(d.keys())
-
-def _save_debug(name: str, content: str):
-    if not DEBUG_LLM:
-        return
-    try:
-        os.makedirs(os.path.join(OUTPUT_DIR, "debug"), exist_ok=True)
-        with open(os.path.join(OUTPUT_DIR, "debug", name), "w", encoding="utf-8") as f:
-            f.write(content or "")
-    except Exception:
-        pass
 
 def openai_presenter_blocks(
     story_idx: int, title: str, summary: str, sources: List[Dict[str,Any]],
@@ -531,7 +561,7 @@ Sources:
             kwargs["response_format"] = schema_payload
         return client.responses.create(**kwargs)
 
-    # 1) Try with schema; if SDK doesn’t support it (TypeError), retry w/o schema
+    # 1) Try Responses API (with schema; on TypeError retry without)
     try:
         resp = _call(use_schema=True)
     except TypeError as e:
@@ -540,45 +570,78 @@ Sources:
             resp = _call(use_schema=False)
         except Exception as ee:
             log(f"[LLM][story {story_idx}] OpenAI request error (no schema) → fallback. {ee!r}")
-            return None
+            resp = None
     except Exception as e:
         log(f"[LLM][story {story_idx}] OpenAI request error → fallback. {e!r}")
-        return None
+        resp = None
 
-    raw_text = _resp_to_text(resp)
-    _save_debug(f"story_{story_idx}_openai_raw.txt", raw_text)
+    if resp is not None:
+        _dump_resp_obj(story_idx, resp, "openai_resp")
+        raw_text = _resp_to_text(resp)
+        _save_debug(f"story_{story_idx}_openai_raw.txt", raw_text)
 
-    data = _safe_json_parse(raw_text or "")
-    if not data or not _ensure_keys(data):
+        data = _safe_json_parse(raw_text or "")
+        if data and _ensure_keys(data):
+            data["script"] = (data.get("script") or "").strip()
+            data["why"] = [clean_text(x) for x in data.get("why", [])][:2]
+            data["context"] = [clean_text(x) for x in data.get("context", [])][:3]
+            data["broll"] = [clean_text(x) for x in data.get("broll", [])][:4]
+            data["lower_third"] = clean_text(data.get("lower_third", title))[:60]
+            return data
+
         preview = (raw_text or "")[:400].replace("\n", " ")
-        log(f"[LLM][story {story_idx}] Parse failed. Preview: {preview}")
+        log(f"[LLM][story {story_idx}] Responses parse failed. Preview: {preview}")
 
-        # 2) One retry with stricter instruction (no schema, JSON-only)
-        retry_prompt = base_prompt + "\n\nIMPORTANT: Reply with ONLY valid JSON matching the keys. No prose, no code fences."
+        # 2) One retry: JSON-only instruction (Responses, no schema)
         try:
-            log(f"[LLM][story {story_idx}] Retrying once with JSON-only instruction.")
+            retry_prompt = base_prompt + "\n\nIMPORTANT: Reply with ONLY valid JSON matching the keys. No prose, no code fences."
             resp2 = client.responses.create(
                 model=OPENAI_MODEL,
                 input=retry_prompt,
                 max_output_tokens=OPENAI_MAX_TOKENS
             )
+            _dump_resp_obj(story_idx, resp2, "openai_retry_resp")
             raw2 = _resp_to_text(resp2)
             _save_debug(f"story_{story_idx}_openai_retry_raw.txt", raw2)
-            data = _safe_json_parse(raw2 or "")
+            data2 = _safe_json_parse(raw2 or "")
+            if data2 and _ensure_keys(data2):
+                data2["script"] = (data2.get("script") or "").strip()
+                data2["why"] = [clean_text(x) for x in data2.get("why", [])][:2]
+                data2["context"] = [clean_text(x) for x in data2.get("context", [])][:3]
+                data2["broll"] = [clean_text(x) for x in data2.get("broll", [])][:4]
+                data2["lower_third"] = clean_text(data2.get("lower_third", title))[:60]
+                return data2
         except Exception as e:
-            log(f"[LLM][story {story_idx}] Retry failed → fallback. {e!r}")
-            return None
+            log(f"[LLM][story {story_idx}] Responses retry error: {e!r}")
 
-    if not data or not _ensure_keys(data):
-        log(f"[LLM][story {story_idx}] OpenAI JSON still invalid → fallback.")
-        return None
+    # 3) Final fallback: Chat Completions (many SDKs still expose this plainly)
+    try:
+        from openai import OpenAI
+        client = OpenAI(api_key=OPENAI_KEY)
+        sys = "You are a male football news presenter. Reply with ONLY a single JSON object matching the required keys."
+        usr = base_prompt + "\n\nReply with ONLY JSON. No commentary, no code fences."
+        log(f"[LLM][story {story_idx}] Falling back to chat.completions")
+        chat = client.chat.completions.create(
+            model=OPENAI_MODEL,
+            messages=[{"role":"system","content":sys},{"role":"user","content":usr}],
+            max_tokens=OPENAI_MAX_TOKENS
+        )
+        content = chat.choices[0].message.content if chat and chat.choices else ""
+        _save_debug(f"story_{story_idx}_chat_raw.txt", content)
+        data3 = _safe_json_parse(content or "")
+        if data3 and _ensure_keys(data3):
+            data3["script"] = (data3.get("script") or "").strip()
+            data3["why"] = [clean_text(x) for x in data3.get("why", [])][:2]
+            data3["context"] = [clean_text(x) for x in data3.get("context", [])][:3]
+            data3["broll"] = [clean_text(x) for x in data3.get("broll", [])][:4]
+            data3["lower_third"] = clean_text(data3.get("lower_third", title))[:60]
+            return data3
+        else:
+            log(f"[LLM][story {story_idx}] Chat parse failed.")
+    except Exception as e:
+        log(f"[LLM][story {story_idx}] Chat API error → giving up. {e!r}")
 
-    data["script"] = (data.get("script") or "").strip()
-    data["why"] = [clean_text(x) for x in data.get("why", [])][:2]
-    data["context"] = [clean_text(x) for x in data.get("context", [])][:3]
-    data["broll"] = [clean_text(x) for x in data.get("broll", [])][:4]
-    data["lower_third"] = clean_text(data.get("lower_third", title))[:60]
-    return data
+    return None
 
 def gemini_presenter_blocks(story_idx, title, summary, sources, event_time_local, published_local, primary_snippet):
     if not USE_GEMINI:
