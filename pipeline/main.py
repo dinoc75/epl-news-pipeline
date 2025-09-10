@@ -397,7 +397,7 @@ def _parse_llm_json(text: str):
 
 def openai_presenter_blocks(story_idx, title, summary, sources, event_time_local, published_local, primary_snippet):
     """
-    Use OpenAI Responses API. IMPORTANT: no response_format here (was causing TypeError).
+    Use OpenAI Responses API (no 'temperature' param; gpt-5-* rejects it).
     We log outcome; on any exception we return None and the caller will fall back.
     """
     if not USE_OPENAI:
@@ -438,7 +438,6 @@ Sources:
         resp = client.responses.create(
             model=OPENAI_MODEL,
             input=prompt,
-            temperature=0.2,
             max_output_tokens=800
         )
         # With OPENAI_LOG=debug, HTTP request lines also appear in the job log
@@ -563,7 +562,7 @@ def make_markdown(clusters):
 
     total_secs = 0
     lines.append("## Host Script Intro")
-    lines.append("Hey EPL fans—here are the **biggest stories from the last 48 hours**, ranked by virality. Let’s get into it.\n")
+    lines.append("Hey EPL fans—here are the **biggest stories from the last 24–48 hours**, ranked by virality. Let’s get into it.\n")
 
     lines.append("## TL;DR (15–25s)")
     for c in clusters[:3]:
