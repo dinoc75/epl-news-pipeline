@@ -16,12 +16,12 @@ import trafilatura
 # ============================
 # Config (env overrides)
 # ============================
-TIME_WINDOW_HOURS = int(os.getenv("TIME_WINDOW_HOURS", "48"))
+TIME_WINDOW_HOURS = int(os.getenv("TIME_WINDOW_HOURS", "24"))
 MAX_STORIES = int(os.getenv("MAX_STORIES", "10"))            # balanced slate size
 PER_CLUB_LIMIT = int(os.getenv("PER_CLUB_LIMIT", "2"))       # max per club/topic
 SCORE_THRESHOLD = int(os.getenv("SCORE_THRESHOLD", "45"))    # quality bar
 INCLUDE_RUMORS = os.getenv("INCLUDE_RUMORS", "false").lower() == "true"
-REGION_TZ = os.getenv("REGION_TZ", "America/Chicago")
+REGION_TZ = os.getenv("REGION_TZ", "America/Winnipeg")
 
 USE_OPENAI = bool(os.getenv("OPENAI_API_KEY"))
 USE_GEMINI = bool(os.getenv("GEMINI_API_KEY"))
