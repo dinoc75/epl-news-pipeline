@@ -18,13 +18,14 @@ import trafilatura
 # ============================
 # Config (env overrides)
 # ============================
-TIME_WINDOW_HOURS = int(os.getenv("TIME_WINDOW_HOURS", "24"))   # 24h window
+TIME_WINDOW_HOURS = int(os.getenv("TIME_WINDOW_HOURS", "24"))
 MAX_STORIES = int(os.getenv("MAX_STORIES", "10"))
 PER_CLUB_LIMIT = int(os.getenv("PER_CLUB_LIMIT", "2"))
 SCORE_THRESHOLD = int(os.getenv("SCORE_THRESHOLD", "45"))
 INCLUDE_RUMORS = os.getenv("INCLUDE_RUMORS", "false").lower() == "true"
-REGION_TZ = os.getenv("REGION_TZ", "America/Winnipeg")          # show local times in Winnipeg
-EXCLUDE_LIVE = os.getenv("EXCLUDE_LIVE", "true").lower() == "true"  # <— NEW
+REGION_TZ = os.getenv("REGION_TZ", "America/Winnipeg")
+EXCLUDE_LIVE = os.getenv("EXCLUDE_LIVE", "true").lower() == "true"
+DEBUG_LLM = os.getenv("DEBUG_LLM", "0") == "1"
 
 # LLM controls
 OPENAI_KEY = os.getenv("OPENAI_API_KEY", "")
@@ -39,7 +40,7 @@ OUTPUT_DIR = "docs"
 ARCHIVE_ENABLED = os.getenv("ARCHIVE_ENABLED", "true").lower() == "true"
 WRITE_TXT = os.getenv("WRITE_TXT", "true").lower() == "true"
 
-UA_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EPL-Pipeline/2.3)"}
+UA_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EPL-Pipeline/2.4)"}
 MAX_PER_FEED = 20
 
 # ============================
@@ -176,20 +177,12 @@ def categorize(title: str, summary: str = "") -> str:
         return "League & Regulation"
     return "Club Updates"
 
-# ===== Live/Commentary filter (title/summary/URL) =====
+# ===== Live/Commentary filter =====
 LIVE_TITLE_PATTERNS = [
-    r"\blive commentary\b",
-    r"\blive blog\b",
-    r"\bminute[- ]by[- ]minute\b",
-    r"\bmin[- ]by[- ]min\b",
-    r"\bas it happened\b",
-    r"\blive updates?\b",
-    r"\blive text\b",
-    r"\blive coverage\b",
-    r"\bwatch live\b",
-    r"\blive stream\b",
-    r"\bmatch(?:\s|-)?centre\b",
-    r"\bmatch(?:\s|-)?center\b",
+    r"\blive commentary\b", r"\blive blog\b", r"\bminute[- ]by[- ]minute\b",
+    r"\bmin[- ]by[- ]min\b", r"\bas it happened\b", r"\blive updates?\b",
+    r"\blive text\b", r"\blive coverage\b", r"\bwatch live\b", r"\blive stream\b",
+    r"\bmatch(?:\s|-)?centre\b", r"\bmatch(?:\s|-)?center\b",
 ]
 LIVE_URL_SUBSTRINGS = [
     "/live/", "/liveblog", "/live-blog", "/live_text", "/live-text",
@@ -205,11 +198,10 @@ def looks_like_live_content(title: str, summary: str, url: str) -> bool:
     u = (url or "").lower()
     if any(x in u for x in LIVE_URL_SUBSTRINGS):
         return True
-    # common publisher path forms
     if re.search(r"/(sport|football)/live/", u):
         return True
     return False
-# ======================================================
+# ==================================
 
 def fetch_meta_follow(link: str, timeout=12):
     info = {"title":"", "description":"", "final_url":link, "final_domain":domain_of(link)}
@@ -289,7 +281,6 @@ def collect_candidates():
             if not link or not title_feed:
                 continue
 
-            # time
             published = None
             for key in ("published", "updated", "pubDate"):
                 if e.get(key):
@@ -310,7 +301,6 @@ def collect_candidates():
             final_url = meta["final_url"]
             dom = meta["final_domain"]
 
-            # skip aggregators
             if dom in AGGREGATOR_DOMAINS:
                 continue
 
@@ -318,7 +308,6 @@ def collect_candidates():
             title = clean_text(title)
             summary = meta["description"]
 
-            # drop live/commentary pages
             if EXCLUDE_LIVE and looks_like_live_content(title, summary, final_url):
                 continue
 
@@ -327,7 +316,6 @@ def collect_candidates():
             if not is_epl_relevant(title, summary):
                 continue
 
-            # dedupe by final URL
             if final_url in seen_links:
                 continue
             seen_links.add(final_url)
@@ -411,24 +399,32 @@ def pick_sources(cluster, k=3):
 # Step 3: LLM writers
 # ============================
 
-def _coalesce_openai_text(resp: Any) -> str:
-    text = getattr(resp, "output_text", None)
-    if isinstance(text, str) and text.strip():
-        return text.strip()
-    pieces: List[str] = []
+def _resp_to_text(resp: Any) -> str:
+    """Coalesce text from Responses API across SDK shapes."""
+    # 1) Newer SDKs
+    t = getattr(resp, "output_text", None)
+    if isinstance(t, str) and t.strip():
+        return t.strip()
+    # 2) Try 'output' blocks
     try:
         output = getattr(resp, "output", None)
+        pieces: List[str] = []
         if isinstance(output, list):
             for block in output:
-                if isinstance(block, dict) and block.get("type") == "message":
-                    for c in block.get("content", []) or []:
-                        if isinstance(c, dict):
-                            t = c.get("text") or c.get("output_text")
-                            if isinstance(t, str) and t.strip():
-                                pieces.append(t.strip())
+                # Parsed JSON (some SDKs do this under content[0]['parsed'])
+                content = block.get("content", []) if isinstance(block, dict) else []
+                for c in content or []:
+                    if isinstance(c, dict):
+                        if "parsed" in c and isinstance(c["parsed"], (dict, list)):
+                            return json.dumps(c["parsed"], ensure_ascii=False)
+                        txt = c.get("text") or c.get("output_text")
+                        if isinstance(txt, str) and txt.strip():
+                            pieces.append(txt.strip())
+        if pieces:
+            return "\n".join(pieces).strip()
     except Exception as e:
         logging.warning("[LLM] Could not coalesce text: %r", e)
-    return "\n".join(pieces).strip()
+    return ""
 
 def _first_json_object(s: str) -> str:
     s = s.strip()
@@ -460,8 +456,20 @@ def _ensure_keys(d: Dict[str, Any]) -> bool:
     req = {"script","why","context","broll","lower_third"}
     return isinstance(d, dict) and req.issubset(d.keys())
 
-def openai_presenter_blocks(story_idx: int, title: str, summary: str, sources: List[Dict[str,Any]],
-                            event_time_local: str, published_local: str, primary_snippet: str) -> Dict[str, Any] | None:
+def _save_debug(name: str, content: str):
+    if not DEBUG_LLM:
+        return
+    try:
+        os.makedirs(os.path.join(OUTPUT_DIR, "debug"), exist_ok=True)
+        with open(os.path.join(OUTPUT_DIR, "debug", name), "w", encoding="utf-8") as f:
+            f.write(content or "")
+    except Exception:
+        pass
+
+def openai_presenter_blocks(
+    story_idx: int, title: str, summary: str, sources: List[Dict[str,Any]],
+    event_time_local: str, published_local: str, primary_snippet: str
+) -> Dict[str, Any] | None:
     if not USE_OPENAI:
         return None
     try:
@@ -496,7 +504,7 @@ Sources:
 {os.linesep.join(f"- {d} — {u}" for d, u in src_pairs)}
 """.strip()
 
-    json_schema_payload = {
+    schema_payload = {
         "type": "json_schema",
         "json_schema": {
             "name": "Story",
@@ -520,10 +528,10 @@ Sources:
         log(f"[LLM][story {story_idx}] OpenAI call → model={OPENAI_MODEL} (schema={use_schema})")
         kwargs = dict(model=OPENAI_MODEL, input=base_prompt, max_output_tokens=OPENAI_MAX_TOKENS)
         if use_schema:
-            kwargs["response_format"] = json_schema_payload
+            kwargs["response_format"] = schema_payload
         return client.responses.create(**kwargs)
 
-    # Try with response_format first; if the SDK rejects it, retry without it.
+    # 1) Try with schema; if SDK doesn’t support it (TypeError), retry w/o schema
     try:
         resp = _call(use_schema=True)
     except TypeError as e:
@@ -537,19 +545,26 @@ Sources:
         log(f"[LLM][story {story_idx}] OpenAI request error → fallback. {e!r}")
         return None
 
-    text = _coalesce_openai_text(resp)
-    data = _safe_json_parse(text or "")
+    raw_text = _resp_to_text(resp)
+    _save_debug(f"story_{story_idx}_openai_raw.txt", raw_text)
+
+    data = _safe_json_parse(raw_text or "")
     if not data or not _ensure_keys(data):
+        preview = (raw_text or "")[:400].replace("\n", " ")
+        log(f"[LLM][story {story_idx}] Parse failed. Preview: {preview}")
+
+        # 2) One retry with stricter instruction (no schema, JSON-only)
         retry_prompt = base_prompt + "\n\nIMPORTANT: Reply with ONLY valid JSON matching the keys. No prose, no code fences."
         try:
-            log(f"[LLM][story {story_idx}] Parsing failed → retrying once without schema, JSON-only instruction.")
+            log(f"[LLM][story {story_idx}] Retrying once with JSON-only instruction.")
             resp2 = client.responses.create(
                 model=OPENAI_MODEL,
                 input=retry_prompt,
                 max_output_tokens=OPENAI_MAX_TOKENS
             )
-            text2 = _coalesce_openai_text(resp2)
-            data = _safe_json_parse(text2 or "")
+            raw2 = _resp_to_text(resp2)
+            _save_debug(f"story_{story_idx}_openai_retry_raw.txt", raw2)
+            data = _safe_json_parse(raw2 or "")
         except Exception as e:
             log(f"[LLM][story {story_idx}] Retry failed → fallback. {e!r}")
             return None
@@ -592,6 +607,7 @@ Sources:
         log(f"[LLM][story {story_idx}] Gemini call → model=gemini-1.5-pro")
         resp = model.generate_content(prompt)
         txt = getattr(resp, "text", "") or ""
+        _save_debug(f"story_{story_idx}_gemini_raw.txt", txt)
         data = _safe_json_parse(txt)
         if not data or not _ensure_keys(data):
             log(f"[LLM][story {story_idx}] Gemini returned invalid JSON → fallback.")
@@ -765,7 +781,7 @@ def main():
 
     log(f"[env] OPENAI_KEY_PRESENT={bool(OPENAI_KEY)} OPENAI_MODEL={OPENAI_MODEL} GEMINI_KEY_PRESENT={USE_GEMINI} EXCLUDE_LIVE={EXCLUDE_LIVE}")
     log(f"[env] Window={TIME_WINDOW_HOURS}h MaxStories={MAX_STORIES} PerClub={PER_CLUB_LIMIT} Score≥{SCORE_THRESHOLD} SnippetChars={PRIMARY_SNIPPET_CHARS}")
-    log(f"[env] ARCHIVE_ENABLED={ARCHIVE_ENABLED} WRITE_TXT={WRITE_TXT}")
+    log(f"[env] ARCHIVE_ENABLED={ARCHIVE_ENABLED} WRITE_TXT={WRITE_TXT} DEBUG_LLM={DEBUG_LLM}")
 
     log("Collecting candidates…")
     items = collect_candidates()
