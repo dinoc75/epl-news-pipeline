@@ -27,11 +27,11 @@ jobs:
 
       - name: Run pipeline
         env:
-          TIME_WINDOW_HOURS: "48"   # last 48h
+          TIME_WINDOW_HOURS: "24"   # last 48h
           MAX_STORIES: "10"         # 8–12 is ideal; 10 default
           PER_CLUB_LIMIT: "2"       # cap per club/topic
           SCORE_THRESHOLD: "45"     # quality bar; raise to 50 if too noisy
-          REGION_TZ: "America/Chicago"
+          REGION_TZ: "America/Winnipeg"
           INCLUDE_RUMORS: "false"
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
