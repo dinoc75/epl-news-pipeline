@@ -2,7 +2,6 @@ import os
 import re
 import json
 import logging
-import traceback
 from typing import Any, Dict, List, Tuple
 from datetime import datetime, timezone
 from urllib.parse import urlparse, quote_plus
@@ -19,12 +18,13 @@ import trafilatura
 # ============================
 # Config (env overrides)
 # ============================
-TIME_WINDOW_HOURS = int(os.getenv("TIME_WINDOW_HOURS", "24"))   # your request: 24h window
+TIME_WINDOW_HOURS = int(os.getenv("TIME_WINDOW_HOURS", "24"))   # 24h window
 MAX_STORIES = int(os.getenv("MAX_STORIES", "10"))
 PER_CLUB_LIMIT = int(os.getenv("PER_CLUB_LIMIT", "2"))
 SCORE_THRESHOLD = int(os.getenv("SCORE_THRESHOLD", "45"))
 INCLUDE_RUMORS = os.getenv("INCLUDE_RUMORS", "false").lower() == "true"
-REGION_TZ = os.getenv("REGION_TZ", "America/Winnipeg")          # your request: Winnipeg
+REGION_TZ = os.getenv("REGION_TZ", "America/Winnipeg")          # show local times in Winnipeg
+EXCLUDE_LIVE = os.getenv("EXCLUDE_LIVE", "true").lower() == "true"  # <— NEW
 
 # LLM controls
 OPENAI_KEY = os.getenv("OPENAI_API_KEY", "")
@@ -176,6 +176,41 @@ def categorize(title: str, summary: str = "") -> str:
         return "League & Regulation"
     return "Club Updates"
 
+# ===== Live/Commentary filter (title/summary/URL) =====
+LIVE_TITLE_PATTERNS = [
+    r"\blive commentary\b",
+    r"\blive blog\b",
+    r"\bminute[- ]by[- ]minute\b",
+    r"\bmin[- ]by[- ]min\b",
+    r"\bas it happened\b",
+    r"\blive updates?\b",
+    r"\blive text\b",
+    r"\blive coverage\b",
+    r"\bwatch live\b",
+    r"\blive stream\b",
+    r"\bmatch(?:\s|-)?centre\b",
+    r"\bmatch(?:\s|-)?center\b",
+]
+LIVE_URL_SUBSTRINGS = [
+    "/live/", "/liveblog", "/live-blog", "/live_text", "/live-text",
+    "/minute-by-minute", "/as-it-happened",
+    "/matchcentre", "/match-center", "/matchcenter", "/live-coverage",
+]
+LIVE_TITLE_RE = re.compile("|".join(LIVE_TITLE_PATTERNS), re.I)
+
+def looks_like_live_content(title: str, summary: str, url: str) -> bool:
+    t = f"{title} {summary or ''}"
+    if LIVE_TITLE_RE.search(t):
+        return True
+    u = (url or "").lower()
+    if any(x in u for x in LIVE_URL_SUBSTRINGS):
+        return True
+    # common publisher path forms
+    if re.search(r"/(sport|football)/live/", u):
+        return True
+    return False
+# ======================================================
+
 def fetch_meta_follow(link: str, timeout=12):
     info = {"title":"", "description":"", "final_url":link, "final_domain":domain_of(link)}
     try:
@@ -254,6 +289,7 @@ def collect_candidates():
             if not link or not title_feed:
                 continue
 
+            # time
             published = None
             for key in ("published", "updated", "pubDate"):
                 if e.get(key):
@@ -274,30 +310,37 @@ def collect_candidates():
             final_url = meta["final_url"]
             dom = meta["final_domain"]
 
+            # skip aggregators
             if dom in AGGREGATOR_DOMAINS:
                 continue
 
             title = meta["title"] or title_feed
             title = clean_text(title)
+            summary = meta["description"]
+
+            # drop live/commentary pages
+            if EXCLUDE_LIVE and looks_like_live_content(title, summary, final_url):
+                continue
+
             if len(title) < 12 or title.lower() in {"google news", "news"}:
                 continue
-
-            if not is_epl_relevant(title, meta["description"]):
+            if not is_epl_relevant(title, summary):
                 continue
 
+            # dedupe by final URL
             if final_url in seen_links:
                 continue
             seen_links.add(final_url)
 
             items.append({
                 "title": title,
-                "summary": meta["description"],
+                "summary": summary,
                 "link": final_url,
                 "published_utc": published_utc,
                 "domain": dom,
                 "norm_title": normalize_title(title),
-                "category": categorize(title, meta["description"]),
-                "club_key": first_club_key(title, meta["description"]),
+                "category": categorize(title, summary),
+                "club_key": first_club_key(title, summary),
             })
 
     return items
@@ -365,10 +408,10 @@ def pick_sources(cluster, k=3):
     return out
 
 # ============================
-# Step 3: OpenAI writer (JSON schema) → Gemini → fallback
+# Step 3: LLM writers
 # ============================
+
 def _coalesce_openai_text(resp: Any) -> str:
-    """Collect text from Responses API result, robust across SDK variants."""
     text = getattr(resp, "output_text", None)
     if isinstance(text, str) and text.strip():
         return text.strip()
@@ -388,7 +431,6 @@ def _coalesce_openai_text(resp: Any) -> str:
     return "\n".join(pieces).strip()
 
 def _first_json_object(s: str) -> str:
-    """Find the first complete JSON object in s."""
     s = s.strip()
     if s.startswith("```"):
         s = re.sub(r"^```(?:json)?\s*", "", s)
@@ -429,10 +471,7 @@ def openai_presenter_blocks(story_idx: int, title: str, summary: str, sources: L
         return None
 
     client = OpenAI(api_key=OPENAI_KEY)
-
     src_pairs: List[Tuple[str,str]] = [(s["domain"], s["link"]) for s in sources]
-    src_domain = src_pairs[0][0] if src_pairs else "Not specified"
-    src_url = src_pairs[0][1] if src_pairs else ""
 
     base_prompt = f"""
 You are a male football news presenter. Write a presenter-ready story for a YouTube roundup.
@@ -457,51 +496,60 @@ Sources:
 {os.linesep.join(f"- {d} — {u}" for d, u in src_pairs)}
 """.strip()
 
-    schema = {
-        "type": "object",
-        "properties": {
-            "script": {"type": "string"},
-            "why": {"type": "array", "items": {"type": "string"}},
-            "context": {"type": "array", "items": {"type": "string"}},
-            "broll": {"type": "array", "items": {"type": "string"}},
-            "lower_third": {"type": "string"}
-        },
-        "required": ["script","why","context","broll","lower_third"],
-        "additionalProperties": False
+    json_schema_payload = {
+        "type": "json_schema",
+        "json_schema": {
+            "name": "Story",
+            "schema": {
+                "type": "object",
+                "properties": {
+                    "script": {"type": "string"},
+                    "why": {"type": "array", "items": {"type": "string"}},
+                    "context": {"type": "array", "items": {"type": "string"}},
+                    "broll": {"type": "array", "items": {"type": "string"}},
+                    "lower_third": {"type": "string"}
+                },
+                "required": ["script","why","context","broll","lower_third"],
+                "additionalProperties": False
+            },
+            "strict": True
+        }
     }
 
-    def _call(prompt: str):
-        log(f"[LLM][story {story_idx}] OpenAI call → model={OPENAI_MODEL}")
-        return client.responses.create(
-            model=OPENAI_MODEL,
-            input=prompt,
-            max_output_tokens=OPENAI_MAX_TOKENS,
-            response_format={
-                "type": "json_schema",
-                "json_schema": {"name": "Story", "schema": schema, "strict": True}
-            },
-        )
+    def _call(use_schema: bool):
+        log(f"[LLM][story {story_idx}] OpenAI call → model={OPENAI_MODEL} (schema={use_schema})")
+        kwargs = dict(model=OPENAI_MODEL, input=base_prompt, max_output_tokens=OPENAI_MAX_TOKENS)
+        if use_schema:
+            kwargs["response_format"] = json_schema_payload
+        return client.responses.create(**kwargs)
 
-    # Attempt 1
+    # Try with response_format first; if the SDK rejects it, retry without it.
     try:
-        resp = _call(base_prompt)
+        resp = _call(use_schema=True)
+    except TypeError as e:
+        log(f"[LLM][story {story_idx}] SDK TypeError on response_format → retrying without schema. {e}")
+        try:
+            resp = _call(use_schema=False)
+        except Exception as ee:
+            log(f"[LLM][story {story_idx}] OpenAI request error (no schema) → fallback. {ee!r}")
+            return None
     except Exception as e:
         log(f"[LLM][story {story_idx}] OpenAI request error → fallback. {e!r}")
         return None
 
     text = _coalesce_openai_text(resp)
-    data = _safe_json_parse(text)
+    data = _safe_json_parse(text or "")
     if not data or not _ensure_keys(data):
-        # Log a short preview for debugging
-        preview = (text or "")[:300].replace("\n", " ")
-        log(f"[LLM][story {story_idx}] Non-JSON or missing keys (preview): {preview}")
-
-        # Attempt 2: minimal prompt that insists on JSON only
-        retry_prompt = base_prompt + "\n\nIMPORTANT: Reply with ONLY valid JSON matching the schema. No prose."
+        retry_prompt = base_prompt + "\n\nIMPORTANT: Reply with ONLY valid JSON matching the keys. No prose, no code fences."
         try:
-            resp2 = _call(retry_prompt)
+            log(f"[LLM][story {story_idx}] Parsing failed → retrying once without schema, JSON-only instruction.")
+            resp2 = client.responses.create(
+                model=OPENAI_MODEL,
+                input=retry_prompt,
+                max_output_tokens=OPENAI_MAX_TOKENS
+            )
             text2 = _coalesce_openai_text(resp2)
-            data = _safe_json_parse(text2)
+            data = _safe_json_parse(text2 or "")
         except Exception as e:
             log(f"[LLM][story {story_idx}] Retry failed → fallback. {e!r}")
             return None
@@ -510,7 +558,6 @@ Sources:
         log(f"[LLM][story {story_idx}] OpenAI JSON still invalid → fallback.")
         return None
 
-    # Final hygiene
     data["script"] = (data.get("script") or "").strip()
     data["why"] = [clean_text(x) for x in data.get("why", [])][:2]
     data["context"] = [clean_text(x) for x in data.get("context", [])][:3]
@@ -626,6 +673,7 @@ def make_markdown(clusters):
         sources = pick_sources(c, k=3)
         primary_snippet = extract_article_text(p["link"], max_chars=PRIMARY_SNIPPET_CHARS)
 
+        # Writer selection: OpenAI → Gemini → fallback
         blocks = openai_presenter_blocks(
             i, p["title"], p.get("summary",""), sources,
             event_local.strftime('%Y-%m-%d %H:%M'),
@@ -715,7 +763,7 @@ def render_html(md_text: str, title="EPL Viral News — Presenter Pack") -> str:
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    log(f"[env] OPENAI_KEY_PRESENT={bool(OPENAI_KEY)} OPENAI_MODEL={OPENAI_MODEL} GEMINI_KEY_PRESENT={USE_GEMINI}")
+    log(f"[env] OPENAI_KEY_PRESENT={bool(OPENAI_KEY)} OPENAI_MODEL={OPENAI_MODEL} GEMINI_KEY_PRESENT={USE_GEMINI} EXCLUDE_LIVE={EXCLUDE_LIVE}")
     log(f"[env] Window={TIME_WINDOW_HOURS}h MaxStories={MAX_STORIES} PerClub={PER_CLUB_LIMIT} Score≥{SCORE_THRESHOLD} SnippetChars={PRIMARY_SNIPPET_CHARS}")
     log(f"[env] ARCHIVE_ENABLED={ARCHIVE_ENABLED} WRITE_TXT={WRITE_TXT}")
 
