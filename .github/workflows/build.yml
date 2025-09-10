@@ -26,42 +26,45 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Sanity ping so logs show whether key & SDK are available
       - name: Diagnostics (env + SDK)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           python - <<'PY'
-          import os
+          import os, importlib
           print("[diag] HAS_OPENAI_KEY:", bool(os.getenv("OPENAI_API_KEY")))
           try:
               import openai
-              print("[diag] OPENAI_SDK_IMPORTED: True, VERSION:", getattr(openai, "__version__", "unknown"))
+              print("[diag] OPENAI_VERSION:", getattr(openai, "__version__", "unknown"))
           except Exception as e:
-              print("[diag] OPENAI_SDK_IMPORTED: False, ERROR:", repr(e))
+              print("[diag] OPENAI_IMPORT_ERROR:", repr(e))
           PY
 
       - name: Run pipeline
         env:
-          # Your requested behavior
-          TIME_WINDOW_HOURS: "24"                # consider only last 24h
-          REGION_TZ: "America/Winnipeg"          # display times in Winnipeg
+          # Content window / TZ
+          TIME_WINDOW_HOURS: "24"
+          REGION_TZ: "America/Winnipeg"
+
+          # Selection knobs
           MAX_STORIES: "10"
           PER_CLUB_LIMIT: "2"
           SCORE_THRESHOLD: "45"
           INCLUDE_RUMORS: "false"
+          EXCLUDE_LIVE: "true"
 
           # LLM
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: "gpt-5-mini"             # change here if you prefer gpt-4o
-          OPENAI_MAX_TOKENS: "1000"              # allow longer structured output
-          OPENAI_LOG: debug                      # shows POST /v1/responses lines
+          OPENAI_MODEL: "gpt-5-mini"
+          OPENAI_MAX_TOKENS: "1000"
+          OPENAI_LOG: debug
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DEBUG_LLM: "1"             # write raw LLM replies into docs/debug/
 
-          # Output size controls (optional toggles)
-          ARCHIVE_ENABLED: "true"                # set to "false" to skip timestamped archives
-          WRITE_TXT: "true"                      # set to "false" to skip .txt copies
-          PRIMARY_SNIPPET_CHARS: "1000"          # char budget from article to LLM
+          # Output size controls
+          ARCHIVE_ENABLED: "true"
+          WRITE_TXT: "true"
+          PRIMARY_SNIPPET_CHARS: "1000"
         run: |
           python pipeline/main.py
 
@@ -69,6 +72,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/*.md docs/*.html docs/*.txt || true
+          git add docs/*.md docs/*.html docs/*.txt docs/debug/* 2>/dev/null || true
           git commit -m "Auto: EPL report $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
           git push
