@@ -2,9 +2,8 @@ name: build-epl-report
 
 on:
   schedule:
-    # every 6 hours at minute 7 (GitHub schedules run on UTC; */6 keeps it
-    # every six hours regardless of timezone)
-    - cron: "7 */6 * * *"
+    # every 6 hours on the hour (GitHub cron is UTC)
+    - cron: "0 */6 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -27,7 +26,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Preflight so logs clearly show if the key/SDK are available
+      # Sanity ping so logs show whether key & SDK are available
       - name: Diagnostics (env + SDK)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -44,23 +43,25 @@ jobs:
 
       - name: Run pipeline
         env:
-          # ← your requests
-          TIME_WINDOW_HOURS: "24"              # last 24h only
-          REGION_TZ: "America/Winnipeg"        # display times in Winnipeg
-          # tuning knobs (optional, keep as-is if happy)
+          # Your requested behavior
+          TIME_WINDOW_HOURS: "24"                # consider only last 24h
+          REGION_TZ: "America/Winnipeg"          # display times in Winnipeg
           MAX_STORIES: "10"
           PER_CLUB_LIMIT: "2"
           SCORE_THRESHOLD: "45"
           INCLUDE_RUMORS: "false"
+
           # LLM
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: "gpt-5-mini"
+          OPENAI_MODEL: "gpt-5-mini"             # change here if you prefer gpt-4o
+          OPENAI_MAX_TOKENS: "1000"              # allow longer structured output
+          OPENAI_LOG: debug                      # shows POST /v1/responses lines
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          OPENAI_LOG: debug                    # shows POST /v1/responses in logs
-          # output size controls (optional; uncomment to use)
-          # ARCHIVE_ENABLED: "true"            # "false" to skip timestamped archives
-          # WRITE_TXT: "true"                  # "false" to skip .txt copies
-          # PRIMARY_SNIPPET_CHARS: "900"       # reduce tokens sent to LLM
+
+          # Output size controls (optional toggles)
+          ARCHIVE_ENABLED: "true"                # set to "false" to skip timestamped archives
+          WRITE_TXT: "true"                      # set to "false" to skip .txt copies
+          PRIMARY_SNIPPET_CHARS: "1000"          # char budget from article to LLM
         run: |
           python pipeline/main.py
 
