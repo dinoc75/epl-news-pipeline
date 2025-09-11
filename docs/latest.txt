@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-11 07:40 (America/Winnipeg)  |  2025-09-11 12:40 (UTC)
+**Generated:** 2025-09-11 13:25 (America/Winnipeg)  |  2025-09-11 18:25 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 54s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Manchester derby, Moldova's misery and Zohran Mamdani - Football Weekly podcast
-- Jamie Carragher interview: One Club Award from Athletic Club for Liverpool service is special honour from unique club
-- Chelsea charges: FA hand Blues 74 charges relating to agent regulations and third-party investment in players
+- Man City vs Man Utd: Has Ruben Amorim's or Pep Guardiola's rebuild shown greater promise so far this Premier League season?
+- Gianluigi Donnarumma happy to rival Trafford to be Manchester City's No 1
+- Brighton owner Tony Bloom nets another winner with Santorini Star at Doncaster
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Jack Grealish: Has ex-England midfielder found 'Aston Villa form' at Everton?
-**Slug (lower-third):** Jack Grealish: Has ex-England midfielder found 'Aston Vil…  
-**When:** 2025-09-11 02:42 (America/Winnipeg)  •  **Published:** 2025-09-11 07:42 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 1: Postecoglou targets trophies and 'true believers' at Nottingham Forest
+**Slug (lower-third):** Postecoglou targets trophies and 'true believers' at Nott…  
+**When:** 2025-09-11 12:00 (America/Winnipeg)  •  **Published:** 2025-09-11 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jack Grealish: Has ex-England midfielder found 'Aston Villa form' at Everton?. As Jack Grealish prepares to face former side Aston Villa, BBC Sport looks at his change in form and fortune since making a loan move to Everton from Manchester City. Implications for the squad and table.
+Postecoglou targets trophies and 'true believers' at Nottingham Forest. Former Spurs manager had his 60th birthday plans upended by job offer but feels 'things happen for a reason' Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Jack Grealish: Has ex-England midfielder found 'Aston Villa form' at Everton?. A
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Jack Grealish: Has ex-England midfielder found 'Aston Villa form' at Everton?. https://www.bbc.com/sport/football/videos/cp8wklppk98o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Postecoglou targets trophies and 'true believers' at Nottingham Forest. https://www.theguardian.com/football/2025/sep/11/ill-find-out-who-the-true-believers-are-postecoglou-dreams-of-trophy-joy-at-forest
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Jack Grealish: Has ex-England midfielder found 'Aston Villa form' at Everton?. A
 
 ---
 
-## Story 2: Alexander Isak: Liverpool striker gives Arne Slot challenge to maximise attacking options
-**Slug (lower-third):** Alexander Isak: Liverpool striker gives Arne Slot challen…  
-**When:** 2025-09-11 02:29 (America/Winnipeg)  •  **Published:** 2025-09-11 07:29 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~24s
+## Story 2: Ange Postecoglou ready to embrace Nottingham Forest challenge under owner Evangelos Marinakis - Reporter Notebook
+**Slug (lower-third):** Ange Postecoglou ready to embrace Nottingham Forest chall…  
+**When:** 2025-09-11 11:25 (America/Winnipeg)  •  **Published:** 2025-09-11 16:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Alexander Isak: Liverpool striker gives Arne Slot challenge to maximise attacking options. Alexander Isak will be in Liverpools squad for first time since his British-record transfer from Newcastle on Sunday; Swede still getting up to match fitness but gives Arne Slot a welcome selection dilemma; Watch Burnley vs Liverpool live on Sky Sports on Sunday from 1pm, kick off 2pm. Implications for the squad and table.
+Ange Postecoglou ready to embrace Nottingham Forest challenge under owner Evangelos Marinakis - Reporter Notebook. Ange Postecoglou gave his first press conference as Nottingham Forest boss at the City Ground on Thursday; former Spurs head coach takes charge of first game against Arsenal on Saturday having taken over from Nuno Espirito Santo Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,33 @@ Alexander Isak: Liverpool striker gives Arne Slot challenge to maximise attackin
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Alexander Isak: Liverpool striker gives Arne Slot challenge to maximise attacking options. https://www.skysports.com/football/news/12040/13426989/alexander-isak-liverpool-striker-gives-arne-slot-challenge-to-maximise-attacking-options
+- skysports.com — Ange Postecoglou ready to embrace Nottingham Forest challenge under owner Evangelos Marinakis - Reporter Notebook. https://www.skysports.com/football/news/12040/13428841/ange-postecoglou-ready-to-embrace-nottingham-forest-challenge-under-owner-evangelos-marinakis-reporter-notebook
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Man City vs Man Utd: Has Ruben Amorim's or Pep Guardiola's rebuild shown greater promise so far this Premier League season?
+**Slug (lower-third):** Man City vs Man Utd: Has Ruben Amorim's or Pep Guardiola'…  
+**When:** 2025-09-11 14:00 (America/Winnipeg)  •  **Published:** 2025-09-11 19:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Man City vs Man Utd: Has Ruben Amorim's or Pep Guardiola's rebuild shown greater promise so far this Premier League season?. Manchester City and Manchester United have a rebuild on their hands, but, despite indifferent starts, have they shown signs of promise going into the new season?;the Manchester derby takes place at the Etihad, live on Sky this Sunday, with kick-off at 4.30pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man City vs Man Utd: Has Ruben Amorim's or Pep Guardiola's rebuild shown greater promise so far this Premier League season?. https://www.skysports.com/football/news/12040/13428613/man-city-vs-man-utd-has-ruben-amorims-or-pep-guardiolas-rebuild-shown-greater-promise-so-far-this-premier-league-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +92,13 @@ Alexander Isak: Liverpool striker gives Arne Slot challenge to maximise attackin
 
 ### League & Regulation
 
-## Story 3: Chelsea charges: FA hand Blues 74 charges relating to agent regulations and third-party investment in players
-**Slug (lower-third):** Chelsea charges: FA hand Blues 74 charges relating to age…  
-**When:** 2025-09-11 06:08 (America/Winnipeg)  •  **Published:** 2025-09-11 11:08 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 4: Chelsea face 74 FA charges over agent payments
+**Slug (lower-third):** Chelsea face 74 FA charges over agent payments  
+**When:** 2025-09-11 08:56 (America/Winnipeg)  •  **Published:** 2025-09-11 13:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea charges: FA hand Blues 74 charges relating to agent regulations and third-party investment in players. Chelsea hit with 74 charges related to alleged breaches of agent regulations by the FA; charges relate to period between 2009 to 2022, when Roman Abramovich owned club; charges primarily relate to events between the 2010/11 and 2015/16 seasons; Chelsea have until September 19 to respond Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea face 74 FA charges over agent payments. Chelsea have been charged with 74 breaches of FA rules relating to agents, intermediaries and third-party player investment during the Roman Abramovich era. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +107,8 @@ Chelsea charges: FA hand Blues 74 charges relating to agent regulations and thir
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea charges: FA hand Blues 74 charges relating to agent regulations and third-party investment in players. https://www.skysports.com/football/news/12040/13428653/chelsea-charges-fa-hand-blues-74-charges-relating-to-agent-regulations-and-third-party-investment-in-players
+- espn.com — Chelsea face 74 FA charges over agent payments. https://www.espn.com/soccer/story/_/id/46222646/chelsea-face-74-fa-charges-alleged-agent-rules-breaches
+- bbc.com — Chelsea face 74 Football Association charges over agent payments. https://www.bbc.com/sport/football/articles/c8643dp5043o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +117,13 @@ Chelsea charges: FA hand Blues 74 charges relating to agent regulations and thir
 
 ---
 
-## Story 4: Chelsea hit with 74 charges for alleged breaches of FA's agent regulations
-**Slug (lower-third):** Chelsea hit with 74 charges for alleged breaches of FA's …  
-**When:** 2025-09-11 05:40 (America/Winnipeg)  •  **Published:** 2025-09-11 10:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: West Ham ban half-and-half scarves for London derby against Tottenham
+**Slug (lower-third):** West Ham ban half-and-half scarves for London derby again…  
+**When:** 2025-09-11 09:27 (America/Winnipeg)  •  **Published:** 2025-09-11 14:27 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea hit with 74 charges for alleged breaches of FA's agent regulations. Chelsea have been hit with 74 charges related to alleged breaches of agent regulations by the Football Association Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+West Ham ban half-and-half scarves for London derby against Tottenham. West Ham have taken the unusual step of banning half-and-half scarves for the London derby against Tottenham Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +132,31 @@ Chelsea hit with 74 charges for alleged breaches of FA's agent regulations. Chel
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Chelsea hit with 74 charges for alleged breaches of FA's agent regulations. https://www.theguardian.com/football/2025/sep/11/chelsea-74-charges-alleged-breaches-fa-agent-regulations
+- theguardian.com — West Ham ban half-and-half scarves for London derby against Tottenham. https://www.theguardian.com/football/2025/sep/11/west-ham-ban-half-and-half-scarves-premier-league-derby-tottenham-football
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Chelsea expect heavy fine after being hit with 74 charges related to FA agent regulations
+**Slug (lower-third):** Chelsea expect heavy fine after being hit with 74 charges…  
+**When:** 2025-09-11 09:27 (America/Winnipeg)  •  **Published:** 2025-09-11 14:27 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea expect heavy fine after being hit with 74 charges related to FA agent regulations. Chelsea have been hit with 74 charges related to alleged breaches of agent regulations by the Football Association Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Chelsea expect heavy fine after being hit with 74 charges related to FA agent regulations. https://www.theguardian.com/football/2025/sep/11/chelsea-74-charges-alleged-breaches-fa-agent-regulations
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +167,13 @@ Chelsea hit with 74 charges for alleged breaches of FA's agent regulations. Chel
 
 ### Club Updates
 
-## Story 5: Manchester derby, Moldova's misery and Zohran Mamdani - Football Weekly podcast
-**Slug (lower-third):** Manchester derby, Moldova's misery and Zohran Mamdani - F…  
-**When:** 2025-09-11 07:01 (America/Winnipeg)  •  **Published:** 2025-09-11 12:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+## Story 7: Gianluigi Donnarumma happy to rival Trafford to be Manchester City's No 1
+**Slug (lower-third):** Gianluigi Donnarumma happy to rival Trafford to be Manche…  
+**When:** 2025-09-11 12:29 (America/Winnipeg)  •  **Published:** 2025-09-11 17:29 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester derby, Moldova's misery and Zohran Mamdani - Football Weekly podcast. Max Rushden is joined by Barry Glendenning, Seb Hutchinson and Paul Watson to preview the weekend while New York's mayoral candidate Zohran Mamdani joins to discuss World Cup ticket pricing, Arsenal and more Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Gianluigi Donnarumma happy to rival Trafford to be Manchester City's No 1. Gianluigi Donnarumma has welcomed competing with James Trafford to be Manchester City's first-choice goalkeeper - 'together we can make success' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +182,7 @@ Manchester derby, Moldova's misery and Zohran Mamdani - Football Weekly podcast.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Manchester derby, Moldova's misery and Zohran Mamdani - Football Weekly podcast. https://www.theguardian.com/football/audio/2025/sep/11/manchester-united-city-derby-moldova-misery-zoran-mamdani-football-weekly-podcast
+- theguardian.com — Gianluigi Donnarumma happy to rival Trafford to be Manchester City's No 1. https://www.theguardian.com/football/2025/sep/11/gianluigi-donnarumma-happy-to-rival-trafford-to-be-manchester-citys-no-1
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +191,13 @@ Manchester derby, Moldova's misery and Zohran Mamdani - Football Weekly podcast.
 
 ---
 
-## Story 6: Jamie Carragher interview: One Club Award from Athletic Club for Liverpool service is special honour from unique club
-**Slug (lower-third):** Jamie Carragher interview: One Club Award from Athletic C…  
-**When:** 2025-09-11 07:00 (America/Winnipeg)  •  **Published:** 2025-09-11 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 8: Brighton owner Tony Bloom nets another winner with Santorini Star at Doncaster
+**Slug (lower-third):** Brighton owner Tony Bloom nets another winner with Santor…  
+**When:** 2025-09-11 12:19 (America/Winnipeg)  •  **Published:** 2025-09-11 17:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jamie Carragher interview: One Club Award from Athletic Club for Liverpool service is special honour from unique club. Jamie Carragher explains his pride in receiving the 2025 One Club Award from Athletic in Bilbao, why it highlights what Trent Alexander-Arnold is giving up, and his willingness to recommend Gary Neville for the prize - but not just yet! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Brighton owner Tony Bloom nets another winner with Santorini Star at Doncaster. Santorini Star at Doncaster was a fourth winner in the space of just six days for Brighton owner Tony Bloom Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +206,7 @@ Jamie Carragher interview: One Club Award from Athletic Club for Liverpool servi
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Jamie Carragher interview: One Club Award from Athletic Club for Liverpool service is special honour from unique club. https://www.skysports.com/football/news/12040/13423780/jamie-carragher-interview-one-club-award-from-athletic-club-for-liverpool-service-is-special-honour-from-unique-club
+- theguardian.com — Brighton owner Tony Bloom nets another winner with Santorini Star at Doncaster. https://www.theguardian.com/sport/2025/sep/11/brighton-owner-tony-bloom-nets-another-winner-with-santorini-star-at-doncaster-horse-racing
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +215,13 @@ Jamie Carragher interview: One Club Award from Athletic Club for Liverpool servi
 
 ---
 
-## Story 7: Premier League Darts 2026 dates and schedule confirmed: Antwerp replaces Exeter
-**Slug (lower-third):** Premier League Darts 2026 dates and schedule confirmed: A…  
-**When:** 2025-09-11 05:39 (America/Winnipeg)  •  **Published:** 2025-09-11 10:39 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+## Story 9: The best of RefCam so far this season in the Premier League
+**Slug (lower-third):** The best of RefCam so far this season in the Premier Leag…  
+**When:** 2025-09-11 12:12 (America/Winnipeg)  •  **Published:** 2025-09-11 17:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League Darts 2026 dates and schedule confirmed: Antwerp replaces Exeter. Premier League Darts will head to Belgium for the first time in 2026, with Antwerp replacing Exeter in the calendar. The season will begin in Newcastle on Thursday February 5, while the final will take place at the O2 Arena in London on May 28; Luke Humphries to defend his title Relevance to standings and momentum.
+The best of RefCam so far this season in the Premier League. The best of RefCam so far this season in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +230,7 @@ Premier League Darts 2026 dates and schedule confirmed: Antwerp replaces Exeter.
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League Darts 2026 dates and schedule confirmed: Antwerp replaces Exeter. https://www.skysports.com/darts/news/12040/13428630/premier-league-darts-2026-dates-and-schedule-confirmed-antwerp-replaces-exeter
+- skysports.com — The best of RefCam so far this season in the Premier League. https://www.skysports.com/watch/video/13428890/the-best-of-refcam-so-far-this-season-in-the-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +239,13 @@ Premier League Darts 2026 dates and schedule confirmed: Antwerp replaces Exeter.
 
 ---
 
-## Story 8: Sky calls for national action on girls' sport as it teams up with Arsenal forward Alessia Russo to increase participation
-**Slug (lower-third):** Sky calls for national action on girls' sport as it teams…  
-**When:** 2025-09-11 03:00 (America/Winnipeg)  •  **Published:** 2025-09-11 08:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~23s
+## Story 10: Ange Postecoglou: New Nottingham Forest boss doesn't 'have anything to prove'
+**Slug (lower-third):** Ange Postecoglou: New Nottingham Forest boss doesn't 'hav…  
+**When:** 2025-09-11 10:28 (America/Winnipeg)  •  **Published:** 2025-09-11 15:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sky calls for national action on girls' sport as it teams up with Arsenal forward Alessia Russo to increase participation. Girls in the UK are missing out on 280 million hours of sport every year - a gap that, if closed, could unlock PS6.5bn in economic and health benefits by 2035, according to a new report commissioned by Sky Relevance to standings and momentum.
+Ange Postecoglou: New Nottingham Forest boss doesn't 'have anything to prove'. Ange Postecoglou says he doesn't "have to prove anything to anyone" as he starts his reign as Nottingham Forest's new boss. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,55 +254,8 @@ Sky calls for national action on girls' sport as it teams up with Arsenal forwar
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sky calls for national action on girls' sport as it teams up with Arsenal forward Alessia Russo to increase participation. https://www.skysports.com/football/news/12040/13428114/sky-calls-for-national-action-on-girls-sport-as-it-teams-up-with-arsenal-forward-alessia-russo-to-increase-participation
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Women's Super League: Chiamaka Nnadozie's miracle year, her impact in Africa, and move to Brighton
-**Slug (lower-third):** Women's Super League: Chiamaka Nnadozie's miracle year, h…  
-**When:** 2025-09-11 02:54 (America/Winnipeg)  •  **Published:** 2025-09-11 07:54 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Women's Super League: Chiamaka Nnadozie's miracle year, her impact in Africa, and move to Brighton. This summer has been an unforgettable time for Brighton's new goalkeeper Chiamaka Nnadozie, who discusses how her recognition will have an impact on African football. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Women's Super League: Chiamaka Nnadozie's miracle year, her impact in Africa, and move to Brighton. https://www.bbc.com/sport/football/articles/c336gkl1edmo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Today on Sky Sports Racing: St Leger Festival at Doncaster begins plus action at Newcastle, Uttoxeter and Longchamp
-**Slug (lower-third):** Today on Sky Sports Racing: St Leger Festival at Doncaste…  
-**When:** 2025-09-11 02:00 (America/Winnipeg)  •  **Published:** 2025-09-11 07:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: St Leger Festival at Doncaster begins plus action at Newcastle, Uttoxeter and Longchamp. The St Leger Festival gets under way and in Thursdays feature, John and Thady Gosden seem to hold the aces in the pack with smart fillies in Danielle and Crepe Suzette; we also have competitive Flat action from Newcastle and jumps from Uttoxeter, live on Sky Sports Racing from 1.15pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: St Leger Festival at Doncaster begins plus action at Newcastle, Uttoxeter and Longchamp. https://www.skysports.com/racing/news/12040/13427728/today-on-sky-sports-racing-doncaster-newcastle-uttoxeter-and-longchamp
+- bbc.com — Ange Postecoglou: New Nottingham Forest boss doesn't 'have anything to prove'. https://www.bbc.com/sport/football/articles/cd9yqwn17qdo?at_medium=RSS&at_campaign=rss
+- skysports.com — Ange Postecoglou: New Nottingham Forest boss jokes he will have to win trophy in first season to stay in job. https://www.skysports.com/football/news/12040/13428597/ange-postecoglou-new-nottingham-forest-boss-jokes-he-will-have-to-win-trophy-in-first-season-to-stay-in-job
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
