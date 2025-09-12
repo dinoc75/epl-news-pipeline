@@ -1,28 +1,54 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-12 01:30 (America/Winnipeg)  |  2025-09-12 06:30 (UTC)
+**Generated:** 2025-09-12 07:39 (America/Winnipeg)  |  2025-09-12 12:39 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 40s
+**Estimated total video length:** ~4m 39s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Should Isak go straight in? The FPL talking point
-- Wayne Rooney v Alejandro Garnacho - Whose Man Utd goal was better?
-- Premier League: 10 things to look out for this weekend
+- Women's Rugby World Cup: Zoe Aldcroft returns to captain Red Roses in Scotland quarter-final as England make four changes
+- Chelsea reach pre-agreement for Ligue 1 Strasbourg's Emanuel Emegha
+- Nottingham Forest: Nigeria defender Ola Aina ruled out for three months
+
+---
+
+### Managerial Moves
+
+## Story 1: Arne Slot: Liverpool boss on Alexander Isak and Marc Guehi
+**Slug (lower-third):** Arne Slot: Liverpool boss on Alexander Isak and Marc Guehi  
+**When:** 2025-09-12 06:06 (America/Winnipeg)  •  **Published:** 2025-09-12 11:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arne Slot: Liverpool boss on Alexander Isak and Marc Guehi. Liverpool manager Arne Slot speaks about new signing Alexander Isak's fitness after his deadline day move from Newcastle, and about missing out on signing Crystal Palace captain Marc Guehi. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arne Slot: Liverpool boss on Alexander Isak and Marc Guehi. https://www.bbc.com/sport/football/videos/cn4w8jgkgqgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Transfers
 
-## Story 1: Football gossip: Saliba, Guehi, Olise, Silva, Maguire, Martial, Jota Silva, Diaz, Lookman
-**Slug (lower-third):** Football gossip: Saliba, Guehi, Olise, Silva, Maguire, Ma…  
-**When:** 2025-09-11 16:34 (America/Winnipeg)  •  **Published:** 2025-09-11 21:34 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 2: Florian Wirtz is a sure bet at Liverpool but Newcastle are gambling on Nick Woltemade | Philipp Lahm
+**Slug (lower-third):** Florian Wirtz is a sure bet at Liverpool but Newcastle ar…  
+**When:** 2025-09-12 05:00 (America/Winnipeg)  •  **Published:** 2025-09-12 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Saliba, Guehi, Olise, Silva, Maguire, Martial, Jota Silva, Diaz, Lookman. Arsenal make new contract offer to defender William Saliba, Benfica want Manchester City's Bernardo Silva, Liverpool plan double deal next summer, plus more. Implications for the squad and table.
+Florian Wirtz is a sure bet at Liverpool but Newcastle are gambling on Nick Woltemade | Philipp Lahm. Two of the summer's biggest transfer moves from Germany to the Premier League are starkly contrasting prospects Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,55 +57,7 @@ Football gossip: Saliba, Guehi, Olise, Silva, Maguire, Martial, Jota Silva, Diaz
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Saliba, Guehi, Olise, Silva, Maguire, Martial, Jota Silva, Diaz, Lookman. https://www.bbc.com/sport/football/articles/cq5jg11elgvo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Andre Onana: Manchester United keeper joins Trabzonspor on loan
-**Slug (lower-third):** Andre Onana: Manchester United keeper joins Trabzonspor o…  
-**When:** 2025-09-11 15:19 (America/Winnipeg)  •  **Published:** 2025-09-11 20:19 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Andre Onana: Manchester United keeper joins Trabzonspor on loan. Manchester United keeper Andre Onana joins Trabzonspor on loan for the rest of the 2025-26 season. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Andre Onana: Manchester United keeper joins Trabzonspor on loan. https://www.bbc.com/sport/football/articles/cx20yrq3e9do?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Man City vs Man Utd: Has Ruben Amorim's or Pep Guardiola's rebuild shown greater promise so far this Premier League season?
-**Slug (lower-third):** Man City vs Man Utd: Has Ruben Amorim's or Pep Guardiola'…  
-**When:** 2025-09-11 14:00 (America/Winnipeg)  •  **Published:** 2025-09-11 19:00 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Man City vs Man Utd: Has Ruben Amorim's or Pep Guardiola's rebuild shown greater promise so far this Premier League season?. Manchester City and Manchester United have a rebuild on their hands, but, despite indifferent starts, have they shown signs of promise going into the new season?;the Manchester derby takes place at the Etihad, live on Sky this Sunday, with kick-off at 4.30pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Man City vs Man Utd: Has Ruben Amorim's or Pep Guardiola's rebuild shown greater promise so far this Premier League season?. https://www.skysports.com/football/news/12040/13428613/man-city-vs-man-utd-has-ruben-amorims-or-pep-guardiolas-rebuild-shown-greater-promise-so-far-this-premier-league-season
+- theguardian.com — Florian Wirtz is a sure bet at Liverpool but Newcastle are gambling on Nick Woltemade | Philipp Lahm. https://www.theguardian.com/football/2025/sep/12/florian-wirtz-liverpool-newcastle-nick-woltemade-gambling-philipp-lahm
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +68,37 @@ Man City vs Man Utd: Has Ruben Amorim's or Pep Guardiola's rebuild shown greater
 
 ### Injuries
 
-## Story 4: Should Isak go straight in? The FPL talking point
-**Slug (lower-third):** Should Isak go straight in? The FPL talking point  
-**When:** 2025-09-12 01:22 (America/Winnipeg)  •  **Published:** 2025-09-12 06:22 (UTC)  
+## Story 3: Women's Rugby World Cup: Zoe Aldcroft returns to captain Red Roses in Scotland quarter-final as England make four changes
+**Slug (lower-third):** Women's Rugby World Cup: Zoe Aldcroft returns to captain …  
+**When:** 2025-09-12 08:30 (America/Winnipeg)  •  **Published:** 2025-09-12 13:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Women's Rugby World Cup: Zoe Aldcroft returns to captain Red Roses in Scotland quarter-final as England make four changes. Four changes to England side for World Cup quarter-final against Scotland on Sunday with Helena Rowland replacing Ellie Kildunne (head injury) at full-back; Kelsey Clifford earns start at loosehead prop after impact from bench against Australia; England have won last 25 games vs Scotland Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Women's Rugby World Cup: Zoe Aldcroft returns to captain Red Roses in Scotland quarter-final as England make four changes. https://www.skysports.com/rugby-union/news/12040/13429079/womens-rugby-world-cup-zoe-aldcroft-returns-to-captain-red-roses-in-scotland-quarter-final-as-england-make-four-changes
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Nottingham Forest: Nigeria defender Ola Aina ruled out for three months
+**Slug (lower-third):** Nottingham Forest: Nigeria defender Ola Aina ruled out fo…  
+**When:** 2025-09-12 06:14 (America/Winnipeg)  •  **Published:** 2025-09-12 11:14 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Should Isak go straight in? The FPL talking point. As the Premier League returns this weekend following the international break, is the time right to bring Alexander Isak into your FPL team, or is it too soon? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Nottingham Forest: Nigeria defender Ola Aina ruled out for three months. Nottingham Forest defender Ola Aina is out for three months with a hamstring injury sustained on international duty. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +107,7 @@ Should Isak go straight in? The FPL talking point. As the Premier League returns
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Should Isak go straight in? The FPL talking point. https://www.bbc.com/sport/football/articles/c5ykew09x8ro?at_medium=RSS&at_campaign=rss
+- bbc.com — Nottingham Forest: Nigeria defender Ola Aina ruled out for three months. https://www.bbc.com/sport/football/articles/ckgqd2eg1rlo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +116,13 @@ Should Isak go straight in? The FPL talking point. As the Premier League returns
 
 ---
 
-## Story 5: SK Brann 1-0 Man Utd: Women's Champions League qualifier sees Marc Skinner's side needing to win return leg to qualify for league phase
-**Slug (lower-third):** SK Brann 1-0 Man Utd: Women's Champions League qualifier …  
-**When:** 2025-09-11 17:26 (America/Winnipeg)  •  **Published:** 2025-09-11 22:26 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~27s
+## Story 5: Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
+**Slug (lower-third):** Premier League and FPL team news: All your injury and Fan…  
+**When:** 2025-09-12 04:46 (America/Winnipeg)  •  **Published:** 2025-09-12 09:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-SK Brann 1-0 Man Utd: Women's Champions League qualifier sees Marc Skinner's side needing to win return leg to qualify for league phase. Report as Manchester United lose Womens Champions League third-round qualifier first leg at Brann as Ingrid Stenevik nets late winner; confusion surrounded build-up to game after several first-team players boots went missing en route to Norway Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +131,7 @@ SK Brann 1-0 Man Utd: Women's Champions League qualifier sees Marc Skinner's sid
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — SK Brann 1-0 Man Utd: Women's Champions League qualifier sees Marc Skinner's side needing to win return leg to qualify for league phase. https://www.skysports.com/football/news/12040/13428999/sk-brann-1-0-man-utd-womens-champions-league-qualifier-sees-marc-skinners-side-needing-to-win-return-leg-to-qualify-for-league-phase
+- bbc.com — Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. https://www.bbc.com/sport/articles/crl5kwyzynwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +140,13 @@ SK Brann 1-0 Man Utd: Women's Champions League qualifier sees Marc Skinner's sid
 
 ---
 
-## Story 6: Premier League predictions and best bets: Mohammed Kudus to take centre stage on West Ham return, Jones Knows tips up 4/1 double
-**Slug (lower-third):** Premier League predictions and best bets: Mohammed Kudus …  
-**When:** 2025-09-11 15:45 (America/Winnipeg)  •  **Published:** 2025-09-11 20:45 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~28s
+## Story 6: Liam Delap: Chelsea striker sidelined until December with hamstring injury
+**Slug (lower-third):** Liam Delap: Chelsea striker sidelined until December with…  
+**When:** 2025-09-12 04:28 (America/Winnipeg)  •  **Published:** 2025-09-12 09:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League predictions and best bets: Mohammed Kudus to take centre stage on West Ham return, Jones Knows tips up 4/1 double. Watch 215 Premier League games live on Sky Sports this season with West Ham vs Tottenham, Brentford vs Chelsea, Burnley vs Liverpool and Manchester City vs Manchester United live this weekend; play Super 6 for a chance to win PS1m! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liam Delap: Chelsea striker sidelined until December with hamstring injury. Chelsea striker Liam Delap will be sidelined until December after picking up a hamstring injury against Fulham before the international break. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,34 +155,7 @@ Premier League predictions and best bets: Mohammed Kudus to take centre stage on
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League predictions and best bets: Mohammed Kudus to take centre stage on West Ham return, Jones Knows tips up 4/1 double. https://www.skysports.com/football/news/12040/13428844/premier-league-predictions-and-best-bets-kudus-to-take-centre-stage-on-west-ham-return-jones-knows-tips-up-4-1-double
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 7: Chelsea face 74 FA charges over agent payments
-**Slug (lower-third):** Chelsea face 74 FA charges over agent payments  
-**When:** 2025-09-11 11:52 (America/Winnipeg)  •  **Published:** 2025-09-11 16:52 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea face 74 FA charges over agent payments. Chelsea have been charged with 74 breaches of FA rules relating to agents, intermediaries and third-party player investment during the Roman Abramovich era. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- espn.com — Chelsea face 74 FA charges over agent payments. https://www.espn.com/soccer/story/_/id/46222646/chelsea-face-74-fa-charges-alleged-agent-rules-breaches
-- bbc.com — Chelsea face 74 Football Association charges over agent payments. https://www.bbc.com/sport/football/articles/c8643dp5043o?at_medium=RSS&at_campaign=rss
+- bbc.com — Liam Delap: Chelsea striker sidelined until December with hamstring injury. https://www.bbc.com/sport/football/articles/crmej3wkxw3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +166,13 @@ Chelsea face 74 FA charges over agent payments. Chelsea have been charged with 7
 
 ### Club Updates
 
-## Story 8: Wayne Rooney v Alejandro Garnacho - Whose Man Utd goal was better?
-**Slug (lower-third):** Wayne Rooney v Alejandro Garnacho - Whose Man Utd goal wa…  
-**When:** 2025-09-12 00:15 (America/Winnipeg)  •  **Published:** 2025-09-12 05:15 (UTC)  
+## Story 7: Chelsea reach pre-agreement for Ligue 1 Strasbourg's Emanuel Emegha
+**Slug (lower-third):** Chelsea reach pre-agreement for Ligue 1 Strasbourg's Eman…  
+**When:** 2025-09-12 07:24 (America/Winnipeg)  •  **Published:** 2025-09-12 12:24 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wayne Rooney v Alejandro Garnacho - Whose Man Utd goal was better?. Before the Manchester derby, Wayne Rooney, Kelly Somers, Kae Kurd and Shaun Wright-Phillips debate the better goal - Rooney's bicycle kick against Manchester City or Alejandro Garnacho's v Everton? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea reach pre-agreement for Ligue 1 Strasbourg's Emanuel Emegha. The Blues reach pre-agreement to sign 22-year-old striker Emanuel Emegha from partner club Strasbourg ahead of next season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +181,7 @@ Wayne Rooney v Alejandro Garnacho - Whose Man Utd goal was better?. Before the M
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Wayne Rooney v Alejandro Garnacho - Whose Man Utd goal was better?. https://www.bbc.com/sport/football/videos/cgrqnvr1gl1o?at_medium=RSS&at_campaign=rss
+- bbc.com — Chelsea reach pre-agreement for Ligue 1 Strasbourg's Emanuel Emegha. https://www.bbc.com/sport/football/articles/c98d49ngj4do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +190,13 @@ Wayne Rooney v Alejandro Garnacho - Whose Man Utd goal was better?. Before the M
 
 ---
 
-## Story 9: Premier League: 10 things to look out for this weekend
-**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
-**When:** 2025-09-11 18:01 (America/Winnipeg)  •  **Published:** 2025-09-11 23:01 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 8: Jack Grealish: Everton winger named Premier League player of the month for first time
+**Slug (lower-third):** Jack Grealish: Everton winger named Premier League player…  
+**When:** 2025-09-12 06:13 (America/Winnipeg)  •  **Published:** 2025-09-12 11:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: 10 things to look out for this weekend. Ange Postecoglou makes his Forest bow, a new-look forward line at Newcastle and a Manchester derby to forget Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jack Grealish: Everton winger named Premier League player of the month for first time. Everton winger Jack Grealish is named the Premier League's player of the month for the first time in his career. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,7 +205,7 @@ Premier League: 10 things to look out for this weekend. Ange Postecoglou makes h
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2025/sep/12/premier-league-10-things-to-look-out-for-this-weekend
+- bbc.com — Jack Grealish: Everton winger named Premier League player of the month for first time. https://www.bbc.com/sport/football/articles/cy04dxeyzjno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -239,13 +214,13 @@ Premier League: 10 things to look out for this weekend. Ange Postecoglou makes h
 
 ---
 
-## Story 10: Newcastle: Yoane Wissa 'never gave up' after acid attack
-**Slug (lower-third):** Newcastle: Yoane Wissa 'never gave up' after acid attack  
-**When:** 2025-09-11 16:31 (America/Winnipeg)  •  **Published:** 2025-09-11 21:31 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 9: Man City vs Man Utd: Gianluigi Donnarumma, James Trafford, Altay Bayindir and Senne Lammens give both sides shared dilemma in Manchester derby
+**Slug (lower-third):** Man City vs Man Utd: Gianluigi Donnarumma, James Trafford…  
+**When:** 2025-09-12 05:00 (America/Winnipeg)  •  **Published:** 2025-09-12 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Newcastle: Yoane Wissa 'never gave up' after acid attack. Yoane Wissa showed a "determination to succeed" after being a victim of an acid attack in 2021 - and that drive has been a constant factor in the career of Newcastle's new signing. Relevance to standings and momentum.
+Man City vs Man Utd: Gianluigi Donnarumma, James Trafford, Altay Bayindir and Senne Lammens give both sides shared dilemma in Manchester derby. Sky Sports assesses the case for each goalkeeper to start in the Manchester derby; Gianluigi Donnarumma has arrived at Man City to provide competition for James Trafford, Senne Lammens was signed by United; watch Man City vs Man Utd, live on Sky Sports this Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -254,7 +229,31 @@ Newcastle: Yoane Wissa 'never gave up' after acid attack. Yoane Wissa showed a "
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Newcastle: Yoane Wissa 'never gave up' after acid attack. https://www.bbc.com/sport/football/articles/ced5nyvjdq4o?at_medium=RSS&at_campaign=rss
+- skysports.com — Man City vs Man Utd: Gianluigi Donnarumma, James Trafford, Altay Bayindir and Senne Lammens give both sides shared dilemma in Manchester derby. https://www.skysports.com/football/news/12040/13428595/man-city-vs-man-utd-gianluigi-donnarumma-james-trafford-altay-bayindir-and-senne-lammens-give-both-sides-shared-dilemma-in-manchester-derby
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Everton women ready to call 'magic place' Goodison Park home
+**Slug (lower-third):** Everton women ready to call 'magic place' Goodison Park h…  
+**When:** 2025-09-12 03:40 (America/Winnipeg)  •  **Published:** 2025-09-12 08:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Everton women ready to call 'magic place' Goodison Park home. Before Everton women's first game with Goodison Park as their permanent home, Kenzie Weir, Brian Sorensen and Hannah Forshaw discuss what the move means. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Everton women ready to call 'magic place' Goodison Park home. https://www.bbc.com/sport/football/articles/cz69p44yx7go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
