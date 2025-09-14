@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-13 13:25 (America/Winnipeg)  |  2025-09-13 18:25 (UTC)
+**Generated:** 2025-09-13 20:40 (America/Winnipeg)  |  2025-09-14 01:40 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 20s
@@ -8,21 +8,21 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Everton 0-0 Aston Villa: 'Unai Emery's side a pale shadow of last season's European challengers'
-- West Ham vs Tottenham Hotspur: Cristian Romero header disallowed after Van de Ven push on Walker-Peters
-- Fulham 1-0 Leeds: Marco Silva happy to come away with three points
+- Match of the Day analysis: Is Nick Woltemade the man to replace Alexander Isak at Newcastle?
+- Arsenal: Can Eberechi Eze and Noni Madueke push Gunners to glory? - Match of the day analysis
+- Match of the Day analysis: How Chelsea's Cole Palmer 'nearly stole the show' against Brentford
 
 ---
 
-### Managerial Moves
+### Injuries
 
-## Story 1: Fulham 1-0 Leeds: Marco Silva happy to come away with three points
-**Slug (lower-third):** Fulham 1-0 Leeds: Marco Silva happy to come away with thr…  
-**When:** 2025-09-13 12:49 (America/Winnipeg)  •  **Published:** 2025-09-13 17:49 (UTC)  
+## Story 1: Match of the Day analysis: How Chelsea's Cole Palmer 'nearly stole the show' against Brentford
+**Slug (lower-third):** Match of the Day analysis: How Chelsea's Cole Palmer 'nea…  
+**When:** 2025-09-13 17:43 (America/Winnipeg)  •  **Published:** 2025-09-13 22:43 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham 1-0 Leeds: Marco Silva happy to come away with three points. Fulham manager Marco Silva reflects on his team's "tight" win against Leeds, following a Gabriel Gudmundsson own goal in stoppage time. Relevance to standings and momentum.
+Match of the Day analysis: How Chelsea's Cole Palmer 'nearly stole the show' against Brentford. Match of the Day's Ashley Williams looks at the impact made by Cole Palmer, who was back in action for Chelsea after an injury lay-off, and scored within minutes of returning. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,55 +31,7 @@ Fulham 1-0 Leeds: Marco Silva happy to come away with three points. Fulham manag
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Fulham 1-0 Leeds: Marco Silva happy to come away with three points. https://www.bbc.com/sport/football/videos/ce86g0p5kp3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Everton 0-0 Aston Villa: Villa 'missing something' in attack admits Unai Emery
-**Slug (lower-third):** Everton 0-0 Aston Villa: Villa 'missing something' in att…  
-**When:** 2025-09-13 12:26 (America/Winnipeg)  •  **Published:** 2025-09-13 17:26 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Everton 0-0 Aston Villa: Villa 'missing something' in attack admits Unai Emery. Aston Villa head coach Unai Emery says goals will come for his side, as they went a fourth-consecutive Premier League match without a goal following a goalless draw at Hill Dickinson Stadium. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Everton 0-0 Aston Villa: Villa 'missing something' in attack admits Unai Emery. https://www.bbc.com/sport/football/videos/cd9yldpgekpo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Ange Postecoglou says he "cannot afford to waste time" at Nottingham Forest
-**Slug (lower-third):** Ange Postecoglou says he "cannot afford to waste time" at…  
-**When:** 2025-09-13 11:57 (America/Winnipeg)  •  **Published:** 2025-09-13 16:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ange Postecoglou says he "cannot afford to waste time" at Nottingham Forest. Ange Postecoglou says his appointment at Nottingham Forest is not a "project" and he will seek to instantly implement a new style of play at the club. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Ange Postecoglou says he "cannot afford to waste time" at Nottingham Forest. https://www.bbc.com/sport/football/articles/cvgvpgpr53zo?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day analysis: How Chelsea's Cole Palmer 'nearly stole the show' against Brentford. https://www.bbc.com/sport/football/videos/ce3yv20zy3xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +42,13 @@ Ange Postecoglou says he "cannot afford to waste time" at Nottingham Forest. Ang
 
 ### Club Updates
 
-## Story 4: Everton 0-0 Aston Villa: 'Unai Emery's side a pale shadow of last season's European challengers'
-**Slug (lower-third):** Everton 0-0 Aston Villa: 'Unai Emery's side a pale shadow…  
-**When:** 2025-09-13 12:58 (America/Winnipeg)  •  **Published:** 2025-09-13 17:58 (UTC)  
+## Story 2: Match of the Day analysis: Is Nick Woltemade the man to replace Alexander Isak at Newcastle?
+**Slug (lower-third):** Match of the Day analysis: Is Nick Woltemade the man to r…  
+**When:** 2025-09-13 18:11 (America/Winnipeg)  •  **Published:** 2025-09-13 23:11 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton 0-0 Aston Villa: 'Unai Emery's side a pale shadow of last season's European challengers'. Aston Villa are yet to score in the Premier League this season and were lucky to come away with a point at Everton, says chief football writer Phil McNulty. Relevance to standings and momentum.
+Match of the Day analysis: Is Nick Woltemade the man to replace Alexander Isak at Newcastle?. Match of the Day's Shay Given analyses Nick Woltemade's debut for Newcastle, after the striker scored the winning goal against Wolves. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +57,7 @@ Everton 0-0 Aston Villa: 'Unai Emery's side a pale shadow of last season's Europ
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Everton 0-0 Aston Villa: 'Unai Emery's side a pale shadow of last season's European challengers'. https://www.bbc.com/sport/football/articles/c5yv4pw5pw1o?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day analysis: Is Nick Woltemade the man to replace Alexander Isak at Newcastle?. https://www.bbc.com/sport/football/videos/cgkngjx53p3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +66,13 @@ Everton 0-0 Aston Villa: 'Unai Emery's side a pale shadow of last season's Europ
 
 ---
 
-## Story 5: West Ham vs Tottenham Hotspur: Cristian Romero header disallowed after Van de Ven push on Walker-Peters
-**Slug (lower-third):** West Ham vs Tottenham Hotspur: Cristian Romero header dis…  
-**When:** 2025-09-13 12:57 (America/Winnipeg)  •  **Published:** 2025-09-13 17:57 (UTC)  
+## Story 3: Arsenal: Can Eberechi Eze and Noni Madueke push Gunners to glory? - Match of the day analysis
+**Slug (lower-third):** Arsenal: Can Eberechi Eze and Noni Madueke push Gunners t…  
+**When:** 2025-09-13 18:03 (America/Winnipeg)  •  **Published:** 2025-09-13 23:03 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham vs Tottenham Hotspur: Cristian Romero header disallowed after Van de Ven push on Walker-Peters. Cristian Romeros header was disallowed after Van de Ven pushed Walker-Peters in the build-up during Tottenham Hotspurs clash with West Ham in the Premier League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arsenal: Can Eberechi Eze and Noni Madueke push Gunners to glory? - Match of the day analysis. Match of the day pundits Shay Given and Ashley Williams highlight the effectiveness of Arsenal new signings, particularly Eberechi Eze and Noni Madueke. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +81,7 @@ West Ham vs Tottenham Hotspur: Cristian Romero header disallowed after Van de Ve
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — West Ham vs Tottenham Hotspur: Cristian Romero header disallowed after Van de Ven push on Walker-Peters. https://www.skysports.com/watch/video/13430376/disallowed-goal-c-romero-west-ham-0-0-tottenham-hotspur
+- bbc.com — Arsenal: Can Eberechi Eze and Noni Madueke push Gunners to glory? - Match of the day analysis. https://www.bbc.com/sport/football/videos/c4gq3p2441qo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +90,13 @@ West Ham vs Tottenham Hotspur: Cristian Romero header disallowed after Van de Ve
 
 ---
 
-## Story 6: Newcastle 1-0 Wolverhampton Wanderers | Premier League highlights
-**Slug (lower-third):** Newcastle 1-0 Wolverhampton Wanderers | Premier League hi…  
-**When:** 2025-09-13 12:20 (America/Winnipeg)  •  **Published:** 2025-09-13 17:20 (UTC)  
+## Story 4: Long throws are back - and Brentford are the masters of them
+**Slug (lower-third):** Long throws are back - and Brentford are the masters of t…  
+**When:** 2025-09-13 17:43 (America/Winnipeg)  •  **Published:** 2025-09-13 22:43 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle 1-0 Wolverhampton Wanderers | Premier League highlights. FREE TO WATCH: Highlights from Newcastle's Premier League clash with Wolverhampton Wanderers. Relevance to standings and momentum.
+Long throws are back - and Brentford are the masters of them. Brentford are the masters of the long throw and it showed again with their late equaliser against Chelsea on Saturday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +105,7 @@ Newcastle 1-0 Wolverhampton Wanderers | Premier League highlights. FREE TO WATCH
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Newcastle 1-0 Wolverhampton Wanderers | Premier League highlights. https://www.skysports.com/watch/video/13430249/newcastle-1-0-wolverhampton-wanderers-premier-league-highlights
+- bbc.com — Long throws are back - and Brentford are the masters of them. https://www.bbc.com/sport/football/articles/cvgqp6k9237o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +114,13 @@ Newcastle 1-0 Wolverhampton Wanderers | Premier League highlights. FREE TO WATCH
 
 ---
 
-## Story 7: Fulham 1-0 Leeds | Premier League highlights
-**Slug (lower-third):** Fulham 1-0 Leeds | Premier League highlights  
-**When:** 2025-09-13 12:17 (America/Winnipeg)  •  **Published:** 2025-09-13 17:17 (UTC)  
+## Story 5: Amorim: Talented Mainoo 'can do so much better'
+**Slug (lower-third):** Amorim: Talented Mainoo 'can do so much better'  
+**When:** 2025-09-13 14:25 (America/Winnipeg)  •  **Published:** 2025-09-13 19:25 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham 1-0 Leeds | Premier League highlights. FREE TO WATCH: Highlights from the Premier League clash between Fulham and Leeds. Relevance to standings and momentum.
+Amorim: Talented Mainoo 'can do so much better'. Ruben Amorim said he believes he is helping Kobbie Mainoo's long-term development despite a lack of regular game time for Manchester United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +129,8 @@ Fulham 1-0 Leeds | Premier League highlights. FREE TO WATCH: Highlights from the
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Fulham 1-0 Leeds | Premier League highlights. https://www.skysports.com/watch/video/13430242/fulham-1-0-leeds-premier-league-highlights
+- espn.com — Amorim: Talented Mainoo 'can do so much better'. https://www.espn.com/soccer/story/_/id/46247414/man-united-ruben-amorim-kobbie-mainoo-talent
+- bbc.com — Kobbie Mainoo: Ruben Amorim says midfielder 'can do so much better'. https://www.bbc.com/sport/football/articles/cd72eq34nxjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +139,13 @@ Fulham 1-0 Leeds | Premier League highlights. FREE TO WATCH: Highlights from the
 
 ---
 
-## Story 8: Bournemouth 2-1 Brighton | Premier League highlights
-**Slug (lower-third):** Bournemouth 2-1 Brighton | Premier League highlights  
-**When:** 2025-09-13 12:15 (America/Winnipeg)  •  **Published:** 2025-09-13 17:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: James Maddison: Tottenham midfielder says referees have had 'absolute shocker of a start to the season'
+**Slug (lower-third):** James Maddison: Tottenham midfielder says referees have h…  
+**When:** 2025-09-13 16:27 (America/Winnipeg)  •  **Published:** 2025-09-13 21:27 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bournemouth 2-1 Brighton | Premier League highlights. FREE TO WATCH: Highlights from the Premier League clash between Bournemouth and Brighton. Relevance to standings and momentum.
+James Maddison: Tottenham midfielder says referees have had 'absolute shocker of a start to the season'. Tottenham's James Maddison says referees and video assistant referees (VAR) have had an "absolute shocker of a start" to the Premier League season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +154,7 @@ Bournemouth 2-1 Brighton | Premier League highlights. FREE TO WATCH: Highlights 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Bournemouth 2-1 Brighton | Premier League highlights. https://www.skysports.com/watch/video/13430210/bournemouth-2-1-brighton-premier-league-highlights
+- bbc.com — James Maddison: Tottenham midfielder says referees have had 'absolute shocker of a start to the season'. https://www.bbc.com/sport/football/articles/cd63jvlzzwdo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +163,13 @@ Bournemouth 2-1 Brighton | Premier League highlights. FREE TO WATCH: Highlights 
 
 ---
 
-## Story 9: Arsenal 3-0 Nottingham Forest | Premier League highlights
-**Slug (lower-third):** Arsenal 3-0 Nottingham Forest | Premier League highlights  
-**When:** 2025-09-13 12:15 (America/Winnipeg)  •  **Published:** 2025-09-13 17:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: West Ham v Tottenham Hotspur highlights - Match of the Day
+**Slug (lower-third):** West Ham v Tottenham Hotspur highlights - Match of the Day  
+**When:** 2025-09-13 16:25 (America/Winnipeg)  •  **Published:** 2025-09-13 21:25 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal 3-0 Nottingham Forest | Premier League highlights. FREE TO WATCH: Highlights from Arsenals Premier League clash with Nottingham Forest. Relevance to standings and momentum.
+West Ham v Tottenham Hotspur highlights - Match of the Day. Watch Premier League highlights as Tottenham take advantage of Tomas Soucek's red card as Thomas Frank's side cruise to a comfortable 3-0 win over West Ham at the London Stadium. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +178,7 @@ Arsenal 3-0 Nottingham Forest | Premier League highlights. FREE TO WATCH: Highli
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal 3-0 Nottingham Forest | Premier League highlights. https://www.skysports.com/watch/video/13429971/arsenal-3-0-nottingham-forest-premier-league-highlights
+- bbc.com — West Ham v Tottenham Hotspur highlights - Match of the Day. https://www.bbc.com/sport/football/videos/c4gj2z9g335o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +187,13 @@ Arsenal 3-0 Nottingham Forest | Premier League highlights. FREE TO WATCH: Highli
 
 ---
 
-## Story 10: Newcastle 1-0 Wolves: Eddie Howe praises Nick Woltemede after debut winner
-**Slug (lower-third):** Newcastle 1-0 Wolves: Eddie Howe praises Nick Woltemede a…  
-**When:** 2025-09-13 12:09 (America/Winnipeg)  •  **Published:** 2025-09-13 17:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Arsenal v Nottingham Forest highlights - Match of the Day
+**Slug (lower-third):** Arsenal v Nottingham Forest highlights - Match of the Day  
+**When:** 2025-09-13 16:25 (America/Winnipeg)  •  **Published:** 2025-09-13 21:25 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle 1-0 Wolves: Eddie Howe praises Nick Woltemede after debut winner. Newcastle boss Eddie Howe says striker Nick Woltemade made a "very strong" debut for the club, scoring the only goal in a 1-0 win over Wolves. Relevance to standings and momentum.
+Arsenal v Nottingham Forest highlights - Match of the Day. Martin Zubimendi scores two goals in his Arsenal debut to help beat Nottingham Forest 3-0 at Emirates Stadium. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +202,55 @@ Newcastle 1-0 Wolves: Eddie Howe praises Nick Woltemede after debut winner. Newc
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Newcastle 1-0 Wolves: Eddie Howe praises Nick Woltemede after debut winner. https://www.bbc.com/sport/football/videos/c7v1zvvq908o?at_medium=RSS&at_campaign=rss
+- bbc.com — Arsenal v Nottingham Forest highlights - Match of the Day. https://www.bbc.com/sport/football/videos/cvgvp2zk785o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Newcastle United v Wolverhampton Wanderers - Match of the Day
+**Slug (lower-third):** Newcastle United v Wolverhampton Wanderers - Match of the…  
+**When:** 2025-09-13 16:24 (America/Winnipeg)  •  **Published:** 2025-09-13 21:24 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Newcastle United v Wolverhampton Wanderers - Match of the Day. Nick Woltemade scores on his debut for Newcastle United win a 1-0 win against Wolverhampton Wanderers at St James' Park. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Newcastle United v Wolverhampton Wanderers - Match of the Day. https://www.bbc.com/sport/football/videos/cj07z8818g3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Bournemouth v Brighton & Hove Albion highlights - Match of the Day
+**Slug (lower-third):** Bournemouth v Brighton & Hove Albion highlights - Match o…  
+**When:** 2025-09-13 16:24 (America/Winnipeg)  •  **Published:** 2025-09-13 21:24 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Bournemouth v Brighton & Hove Albion highlights - Match of the Day. Antoine Semenyo chips in with a goal and an assist in Bournemouth's 2-1 win against Brighton & Hove Albion at the Vitality Stadium. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Bournemouth v Brighton & Hove Albion highlights - Match of the Day. https://www.bbc.com/sport/football/videos/c1l8plz9jdyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
