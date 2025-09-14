@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-14 07:36 (America/Winnipeg)  |  2025-09-14 12:36 (UTC)
+**Generated:** 2025-09-14 13:25 (America/Winnipeg)  |  2025-09-14 18:25 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 26s
@@ -8,21 +8,21 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Sheffield United sack Ruben Selles as head coach after just three months in charge
-- Amorim: Talented Mainoo 'can do so much better'
-- Man City v Man Utd: What issues does Pep Guardiola need to fix?
+- Manchester City 3-0 Manchester United | Premier League Highlights
+- Man City 3-0 Man Utd: Erling Haaland scores twice after Phil Foden's opener as City leapfrog United with derby win
+- Ruben Amorim: Gary Neville says Manchester United head coach is now under pressure after derby defeat to City
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Sheffield United sack Ruben Selles as head coach after just three months in charge
-**Slug (lower-third):** Sheffield United sack Ruben Selles as head coach after ju…  
-**When:** 2025-09-14 04:00 (America/Winnipeg)  •  **Published:** 2025-09-14 09:00 (UTC)  
+## Story 1: Ruben Amorim: Gary Neville says Manchester United head coach is now under pressure after derby defeat to City
+**Slug (lower-third):** Ruben Amorim: Gary Neville says Manchester United head co…  
+**When:** 2025-09-14 13:17 (America/Winnipeg)  •  **Published:** 2025-09-14 18:17 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Sheffield United sack Ruben Selles as head coach after just three months in charge. Selles, 42, replaced Chris Wilder at Bramall Lane on June 18; the Blades reached the Sky Bet Championship play-off final in May but are now bottom of the table after five straight defeats; Chris Wilder is expected to be reappointed as Blades boss Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ruben Amorim: Gary Neville says Manchester United head coach is now under pressure after derby defeat to City. Gary Neville believes Ruben Amorim is now under pressure at Man Utd after a 3-0 loss to Man City; Neville believes big questions will be asked if United lose to Chelsea next week; watch Man Utd vs Chelsea on Saturday live on Sky Sports from 5pm, kick-off 5.30pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Sheffield United sack Ruben Selles as head coach after just three months in char
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sheffield United sack Ruben Selles as head coach after just three months in charge. https://www.skysports.com/football/news/12040/13429712/sheffield-united-sack-ruben-selles-as-head-coach-after-just-three-months-in-charge
+- skysports.com — Ruben Amorim: Gary Neville says Manchester United head coach is now under pressure after derby defeat to City. https://www.skysports.com/football/news/12040/13431225/ruben-amorim-gary-neville-says-manchester-united-head-coach-is-now-under-pressure-after-derby-defeat-to-city
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,13 @@ Sheffield United sack Ruben Selles as head coach after just three months in char
 
 ### Injuries
 
-## Story 2: Match of the Day analysis: How Chelsea's Cole Palmer 'nearly stole the show' against Brentford
-**Slug (lower-third):** Match of the Day analysis: How Chelsea's Cole Palmer 'nea…  
-**When:** 2025-09-13 17:43 (America/Winnipeg)  •  **Published:** 2025-09-13 22:43 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 2: Sam Kerr: Chelsea striker 'like an extra signing' as she returns after 637 days out injured
+**Slug (lower-third):** Sam Kerr: Chelsea striker 'like an extra signing' as she …  
+**When:** 2025-09-14 11:19 (America/Winnipeg)  •  **Published:** 2025-09-14 16:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day analysis: How Chelsea's Cole Palmer 'nearly stole the show' against Brentford. Match of the Day's Ashley Williams looks at the impact made by Cole Palmer, who was back in action for Chelsea after an injury lay-off, and scored within minutes of returning. Potential impact on the lineup and upcoming fixtures.
+Sam Kerr: Chelsea striker 'like an extra signing' as she returns after 637 days out injured. Chelsea goalkeeper Hannah Hampton says having Sam Kerr back after 20 months out with an injury will be "a big help for us going forward". Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,7 @@ Match of the Day analysis: How Chelsea's Cole Palmer 'nearly stole the show' aga
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the Day analysis: How Chelsea's Cole Palmer 'nearly stole the show' against Brentford. https://www.bbc.com/sport/football/videos/ce3yv20zy3xo?at_medium=RSS&at_campaign=rss
+- bbc.com — Sam Kerr: Chelsea striker 'like an extra signing' as she returns after 637 days out injured. https://www.bbc.com/sport/football/articles/clyl2dnkwleo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +68,13 @@ Match of the Day analysis: How Chelsea's Cole Palmer 'nearly stole the show' aga
 
 ### Club Updates
 
-## Story 3: Amorim: Talented Mainoo 'can do so much better'
-**Slug (lower-third):** Amorim: Talented Mainoo 'can do so much better'  
-**When:** 2025-09-14 03:06 (America/Winnipeg)  •  **Published:** 2025-09-14 08:06 (UTC)  
+## Story 3: Manchester City 3-0 Manchester United | Premier League Highlights
+**Slug (lower-third):** Manchester City 3-0 Manchester United | Premier League Hi…  
+**When:** 2025-09-14 13:43 (America/Winnipeg)  •  **Published:** 2025-09-14 18:43 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Amorim: Talented Mainoo 'can do so much better'. Ruben Amorim said he believes he is helping Kobbie Mainoo's long-term development despite a lack of regular game time for Manchester United. Relevance to standings and momentum.
+Manchester City 3-0 Manchester United | Premier League Highlights. FREE TO WATCH: Highlights from Manchester City's win against Manchester United in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,8 +83,7 @@ Amorim: Talented Mainoo 'can do so much better'. Ruben Amorim said he believes h
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Amorim: Talented Mainoo 'can do so much better'. https://www.espn.com/soccer/story/_/id/46247414/man-united-ruben-amorim-kobbie-mainoo-talent
-- bbc.com — Kobbie Mainoo: Ruben Amorim says midfielder 'can do so much better'. https://www.bbc.com/sport/football/articles/cd72eq34nxjo?at_medium=RSS&at_campaign=rss
+- skysports.com — Manchester City 3-0 Manchester United | Premier League Highlights. https://www.skysports.com/watch/video/13431253/manchester-city-3-0-manchester-united-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -93,13 +92,13 @@ Amorim: Talented Mainoo 'can do so much better'. Ruben Amorim said he believes h
 
 ---
 
-## Story 4: Man City v Man Utd: What issues does Pep Guardiola need to fix?
-**Slug (lower-third):** Man City v Man Utd: What issues does Pep Guardiola need t…  
-**When:** 2025-09-14 01:38 (America/Winnipeg)  •  **Published:** 2025-09-14 06:38 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 4: Man City 3-0 Man Utd: Erling Haaland scores twice after Phil Foden's opener as City leapfrog United with derby win
+**Slug (lower-third):** Man City 3-0 Man Utd: Erling Haaland scores twice after P…  
+**When:** 2025-09-14 13:30 (America/Winnipeg)  •  **Published:** 2025-09-14 18:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City v Man Utd: What issues does Pep Guardiola need to fix?. Manchester City head into Sunday's Manchester derby trailing United by a point in the Premier League. Relevance to standings and momentum.
+Man City 3-0 Man Utd: Erling Haaland scores twice after Phil Foden's opener as City leapfrog United with derby win. Erling Haaland scored twice as Manchester City got back on track with a 3-0 derby win over Manchester United at the Etihad Stadium. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -108,7 +107,7 @@ Man City v Man Utd: What issues does Pep Guardiola need to fix?. Manchester City
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man City v Man Utd: What issues does Pep Guardiola need to fix?. https://www.bbc.com/sport/football/articles/ce86003e415o?at_medium=RSS&at_campaign=rss
+- skysports.com — Man City 3-0 Man Utd: Erling Haaland scores twice after Phil Foden's opener as City leapfrog United with derby win. https://www.skysports.com/football/manchester-city-vs-manchester-united/report/531166
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -117,13 +116,13 @@ Man City v Man Utd: What issues does Pep Guardiola need to fix?. Manchester City
 
 ---
 
-## Story 5: From Shearer to Pogba: how 10 British record signings fared in the Premier League
-**Slug (lower-third):** From Shearer to Pogba: how 10 British record signings far…  
-**When:** 2025-09-14 02:00 (America/Winnipeg)  •  **Published:** 2025-09-14 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 5: Everton Women begin new era at Goodison Park with loss to Tottenham
+**Slug (lower-third):** Everton Women begin new era at Goodison Park with loss to…  
+**When:** 2025-09-14 12:48 (America/Winnipeg)  •  **Published:** 2025-09-14 17:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-From Shearer to Pogba: how 10 British record signings fared in the Premier League. With PS125m Alexander Isak's Liverpool debut near, we look back at five record-breakers that flew - and five who flopped Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Everton Women begin new era at Goodison Park with loss to Tottenham. Everton Women were beaten 2-0 by Tottenham in their first WSL match since making Goodison Park their permanent home Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,7 +131,7 @@ From Shearer to Pogba: how 10 British record signings fared in the Premier Leagu
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — From Shearer to Pogba: how 10 British record signings fared in the Premier League. https://www.theguardian.com/football/2025/sep/14/from-shearer-to-pogba-how-10-british-record-signings-fared-in-the-premier-league
+- theguardian.com — Everton Women begin new era at Goodison Park with loss to Tottenham. https://www.theguardian.com/football/2025/sep/14/everton-tottenham-wsl-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,13 +140,13 @@ From Shearer to Pogba: how 10 British record signings fared in the Premier Leagu
 
 ---
 
-## Story 6: Brentford 2-2 Chelsea | Premier League highlights
-**Slug (lower-third):** Brentford 2-2 Chelsea | Premier League highlights  
-**When:** 2025-09-13 17:20 (America/Winnipeg)  •  **Published:** 2025-09-13 22:20 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 6: Haaland doubles up as City sweep United aside in Manchester derby
+**Slug (lower-third):** Haaland doubles up as City sweep United aside in Manchest…  
+**When:** 2025-09-14 12:42 (America/Winnipeg)  •  **Published:** 2025-09-14 17:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brentford 2-2 Chelsea | Premier League highlights. FREE TO WATCH: Highlights from Brentford's Premier League clash with Chelsea. Relevance to standings and momentum.
+Haaland doubles up as City sweep United aside in Manchester derby. Erling Haaland scored twice in Manchester City's comfortable 3-0 win over Manchester United in the derby at the Etihad Stadium Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,8 +155,7 @@ Brentford 2-2 Chelsea | Premier League highlights. FREE TO WATCH: Highlights fro
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Brentford 2-2 Chelsea | Premier League highlights. https://www.skysports.com/watch/video/13430636/brentford-2-2-chelsea-premier-league-highlights
-- bbc.com — Premier League highlights: Brentford 2-2 Chelsea. https://www.bbc.com/sport/football/videos/c0ezl81znv0o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Haaland doubles up as City sweep United aside in Manchester derby. https://www.theguardian.com/football/2025/sep/14/manchester-city-manchester-united-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +164,13 @@ Brentford 2-2 Chelsea | Premier League highlights. FREE TO WATCH: Highlights fro
 
 ---
 
-## Story 7: Match of the day analysis: How set-piece kings Spurs cornered West Ham
-**Slug (lower-third):** Match of the day analysis: How set-piece kings Spurs corn…  
-**When:** 2025-09-13 18:21 (America/Winnipeg)  •  **Published:** 2025-09-13 23:21 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 7: Roy Keane believes Luke Shaw should do better in the build-up for Phil Foden's goal
+**Slug (lower-third):** Roy Keane believes Luke Shaw should do better in the buil…  
+**When:** 2025-09-14 12:31 (America/Winnipeg)  •  **Published:** 2025-09-14 17:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the day analysis: How set-piece kings Spurs cornered West Ham. Match of the Day's Ashley Williams and Shay Given take a look at how Thomas Frank's corner tactics played a key role to Spurs' convincing victory over West Ham at London Stadium. Relevance to standings and momentum.
+Roy Keane believes Luke Shaw should do better in the build-up for Phil Foden's goal. Roy Keane is adamant that Luke Shaw shouldve defended better against Jeremy Doku in the build-up to Phil Fodens goal which gave Man City the lead in the derby. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +179,7 @@ Match of the day analysis: How set-piece kings Spurs cornered West Ham. Match of
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the day analysis: How set-piece kings Spurs cornered West Ham. https://www.bbc.com/sport/football/videos/cn0x511z2r7o?at_medium=RSS&at_campaign=rss
+- skysports.com — Roy Keane believes Luke Shaw should do better in the build-up for Phil Foden's goal. https://www.skysports.com/watch/video/13431160/roy-keane-believes-luke-shaw-should-do-better-in-the-build-up-for-phil-fodens-goal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +188,13 @@ Match of the day analysis: How set-piece kings Spurs cornered West Ham. Match of
 
 ---
 
-## Story 8: Match of the Day analysis: Is Nick Woltemade the man to replace Alexander Isak at Newcastle?
-**Slug (lower-third):** Match of the Day analysis: Is Nick Woltemade the man to r…  
-**When:** 2025-09-13 18:11 (America/Winnipeg)  •  **Published:** 2025-09-13 23:11 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 8: Sheffield United: Inside 113 days of madness as Ruben Selles leaves
+**Slug (lower-third):** Sheffield United: Inside 113 days of madness as Ruben Sel…  
+**When:** 2025-09-14 12:24 (America/Winnipeg)  •  **Published:** 2025-09-14 17:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day analysis: Is Nick Woltemade the man to replace Alexander Isak at Newcastle?. Match of the Day's Shay Given analyses Nick Woltemade's debut for Newcastle, after the striker scored the winning goal against Wolves. Relevance to standings and momentum.
+Sheffield United: Inside 113 days of madness as Ruben Selles leaves. On 24 May, Sheffield United narrowly missed out on promotion to the Premier League. Now they are taking drastic action to avoid a Championship relegation fight. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +203,7 @@ Match of the Day analysis: Is Nick Woltemade the man to replace Alexander Isak a
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the Day analysis: Is Nick Woltemade the man to replace Alexander Isak at Newcastle?. https://www.bbc.com/sport/football/videos/cgkngjx53p3o?at_medium=RSS&at_campaign=rss
+- bbc.com — Sheffield United: Inside 113 days of madness as Ruben Selles leaves. https://www.bbc.com/sport/football/articles/cvg9qrnnem0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +212,13 @@ Match of the Day analysis: Is Nick Woltemade the man to replace Alexander Isak a
 
 ---
 
-## Story 9: Arsenal: Can Eberechi Eze and Noni Madueke push Gunners to glory? - Match of the day analysis
-**Slug (lower-third):** Arsenal: Can Eberechi Eze and Noni Madueke push Gunners t…  
-**When:** 2025-09-13 18:03 (America/Winnipeg)  •  **Published:** 2025-09-13 23:03 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 9: Liverpool's late, late shows: 'Forget Fergie time - now it's Arne Time'
+**Slug (lower-third):** Liverpool's late, late shows: 'Forget Fergie time - now i…  
+**When:** 2025-09-14 11:58 (America/Winnipeg)  •  **Published:** 2025-09-14 16:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal: Can Eberechi Eze and Noni Madueke push Gunners to glory? - Match of the day analysis. Match of the day pundits Shay Given and Ashley Williams highlight the effectiveness of Arsenal new signings, particularly Eberechi Eze and Noni Madueke. Relevance to standings and momentum.
+Liverpool's late, late shows: 'Forget Fergie time - now it's Arne Time'. Chief football writer Phil McNulty says Liverpool's last-gasp win at Burnley brings back memories of another all-conquering side. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +227,7 @@ Arsenal: Can Eberechi Eze and Noni Madueke push Gunners to glory? - Match of the
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arsenal: Can Eberechi Eze and Noni Madueke push Gunners to glory? - Match of the day analysis. https://www.bbc.com/sport/football/videos/c4gq3p2441qo?at_medium=RSS&at_campaign=rss
+- bbc.com — Liverpool's late, late shows: 'Forget Fergie time - now it's Arne Time'. https://www.bbc.com/sport/football/articles/cvg07nj09xjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +236,13 @@ Arsenal: Can Eberechi Eze and Noni Madueke push Gunners to glory? - Match of the
 
 ---
 
-## Story 10: Football gossip: Olise, Maignan, Guehi, Silva, Bouaddi, Williams, Fofana
-**Slug (lower-third):** Football gossip: Olise, Maignan, Guehi, Silva, Bouaddi, W…  
-**When:** 2025-09-13 16:52 (America/Winnipeg)  •  **Published:** 2025-09-13 21:52 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 10: WSL highlights: Everton 0-2 Tottenham Hotspur
+**Slug (lower-third):** WSL highlights: Everton 0-2 Tottenham Hotspur  
+**When:** 2025-09-14 11:53 (America/Winnipeg)  •  **Published:** 2025-09-14 16:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Olise, Maignan, Guehi, Silva, Bouaddi, Williams, Fofana. Bayern Munich set a APS100m price for Liverpool target Michael Olise, Chelsea could move for Marc Guehi and Mike Maignan next summer, Juventus are keen on Bernardo Silva, plus more. Relevance to standings and momentum.
+WSL highlights: Everton 0-2 Tottenham Hotspur. Tottenham beat Everton 2-0 with the help of a "terrific" 40-yard debut goal from Cathinka Tandberg to spoil Everton's first match at Goodison Park since it became their permanent home. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,10 +251,10 @@ Football gossip: Olise, Maignan, Guehi, Silva, Bouaddi, Williams, Fofana. Bayern
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Olise, Maignan, Guehi, Silva, Bouaddi, Williams, Fofana. https://www.bbc.com/sport/football/articles/cj3ynk2r0zjo?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL highlights: Everton 0-2 Tottenham Hotspur. https://www.bbc.com/sport/football/videos/c1dqrkqv5pno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
