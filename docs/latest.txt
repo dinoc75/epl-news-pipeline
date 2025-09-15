@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-15 01:32 (America/Winnipeg)  |  2025-09-15 06:32 (UTC)
+**Generated:** 2025-09-15 07:42 (America/Winnipeg)  |  2025-09-15 12:42 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 26s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Man Utd have 'got worse' under Ruben Amorim - Wayne Rooney
-- Premier League highlights: Manchester City 3-0 Manchester United
-- Manchester United: Is Ruben Amorim's 'shoehorned' team selection costing them?
+- 'Hierarchy still have full backing of Ruben Amorim' | Man Utd latest
+- Ref Watch: Rangers suffer 'bad luck' against Hearts, Celtic awarded controversial penalty, Dundee Utd and Dundee red cards analysed
+- Patrick Dorgu is not the wing-back to make Ruben Amorim's Man Utd formation work - and why it is a problem
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Football gossip: Nuno, Benedetti, Anderson, Yildiz, Costa, Wharton
-**Slug (lower-third):** Football gossip: Nuno, Benedetti, Anderson, Yildiz, Costa…  
-**When:** 2025-09-14 17:20 (America/Winnipeg)  •  **Published:** 2025-09-14 22:20 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 1: Ruben Amorim: Manchester United boss not going to change
+**Slug (lower-third):** Ruben Amorim: Manchester United boss not going to change  
+**When:** 2025-09-15 03:57 (America/Winnipeg)  •  **Published:** 2025-09-15 08:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Nuno, Benedetti, Anderson, Yildiz, Costa, Wharton. West Ham may move for Nuno Espirito Santo if they sack Graham Potter, Arsenal among sides interested in Luiz Gustavo Benedetti and Manchester United show interest in Elliot Anderson Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ruben Amorim: Manchester United boss not going to change. Manchester United manager Ruben Amorim repeats his commitment to his 3-4-3 formation despite their derby defeat. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,33 @@ Football gossip: Nuno, Benedetti, Anderson, Yildiz, Costa, Wharton. West Ham may
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Nuno, Benedetti, Anderson, Yildiz, Costa, Wharton. https://www.bbc.com/sport/football/articles/crrjz29848vo?at_medium=RSS&at_campaign=rss
+- bbc.com — Ruben Amorim: Manchester United boss not going to change. https://www.bbc.com/sport/football/videos/c75qd557215o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: Manchester is blue and Arsenal brush Postecoglou aside: Football Weekly - podcast
+**Slug (lower-third):** Manchester is blue and Arsenal brush Postecoglou aside: F…  
+**When:** 2025-09-15 06:12 (America/Winnipeg)  •  **Published:** 2025-09-15 11:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester is blue and Arsenal brush Postecoglou aside: Football Weekly - podcast. Max Rushden is joined by Barry Glendenning, Lars Sivertsen and Jonathan Wilson as Premier League football returns after the international break Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Manchester is blue and Arsenal brush Postecoglou aside: Football Weekly - podcast. https://www.theguardian.com/football/audio/2025/sep/15/manchester-is-blue-and-arsenal-brush-postecoglou-aside-football-weekly-podcast
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +68,13 @@ Football gossip: Nuno, Benedetti, Anderson, Yildiz, Costa, Wharton. West Ham may
 
 ### Club Updates
 
-## Story 2: Man Utd have 'got worse' under Ruben Amorim - Wayne Rooney
-**Slug (lower-third):** Man Utd have 'got worse' under Ruben Amorim - Wayne Rooney  
-**When:** 2025-09-15 00:14 (America/Winnipeg)  •  **Published:** 2025-09-15 05:14 (UTC)  
+## Story 3: 'Hierarchy still have full backing of Ruben Amorim' | Man Utd latest
+**Slug (lower-third):** 'Hierarchy still have full backing of Ruben Amorim' | Man…  
+**When:** 2025-09-15 07:23 (America/Winnipeg)  •  **Published:** 2025-09-15 12:23 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd have 'got worse' under Ruben Amorim - Wayne Rooney. Manchester United have "got worse" under Ruben Amorim and show no sign of improvement, says former club captain and record goalscorer Wayne Rooney. Relevance to standings and momentum.
+'Hierarchy still have full backing of Ruben Amorim' | Man Utd latest. Rob Dorsett delivers an update on Manchester United, saying that despite the difficult start to the season and the damning stats of Ruben Amorim, the board still fully support the Portuguese. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +83,7 @@ Man Utd have 'got worse' under Ruben Amorim - Wayne Rooney. Manchester United ha
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man Utd have 'got worse' under Ruben Amorim - Wayne Rooney. https://www.bbc.com/sport/football/articles/cevzdppdwx7o?at_medium=RSS&at_campaign=rss
+- skysports.com — 'Hierarchy still have full backing of Ruben Amorim' | Man Utd latest. https://www.skysports.com/watch/video/13431631/hierarchy-still-have-full-backing-of-ruben-amorim-manchester-utd-latest
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +92,13 @@ Man Utd have 'got worse' under Ruben Amorim - Wayne Rooney. Manchester United ha
 
 ---
 
-## Story 3: Premier League highlights: Manchester City 3-0 Manchester United
-**Slug (lower-third):** Premier League highlights: Manchester City 3-0 Manchester…  
-**When:** 2025-09-14 13:58 (America/Winnipeg)  •  **Published:** 2025-09-14 18:58 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 4: Ref Watch: Rangers suffer 'bad luck' against Hearts, Celtic awarded controversial penalty, Dundee Utd and Dundee red cards analysed
+**Slug (lower-third):** Ref Watch: Rangers suffer 'bad luck' against Hearts, Celt…  
+**When:** 2025-09-15 07:00 (America/Winnipeg)  •  **Published:** 2025-09-15 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Manchester City 3-0 Manchester United. Manchester City beat rivals Manchester United 3-0, with a goal from Phil Foden followed by two from Erling Haaland at Etihad Stadium. Relevance to standings and momentum.
+Ref Watch: Rangers suffer 'bad luck' against Hearts, Celtic awarded controversial penalty, Dundee Utd and Dundee red cards analysed. Former Premier League referee Dermot Gallagher looks at Hearts opener at Ibrox, Rangers disallowed goal and the penalty given to the visitors; Celtics spot-kick at Kilmarnock analysed; plus, were red cards to Dundee Uniteds Vicko Sevelj and Dundees Yan Dhanda correct? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,8 +107,7 @@ Premier League highlights: Manchester City 3-0 Manchester United. Manchester Cit
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Manchester City 3-0 Manchester United. https://www.bbc.com/sport/football/videos/c5y8g68y63po?at_medium=RSS&at_campaign=rss
-- skysports.com — Manchester City 3-0 Manchester United | Premier League Highlights. https://www.skysports.com/watch/video/13431253/manchester-city-3-0-manchester-united-premier-league-highlights
+- skysports.com — Ref Watch: Rangers suffer 'bad luck' against Hearts, Celtic awarded controversial penalty, Dundee Utd and Dundee red cards analysed. https://www.skysports.com/football/news/12040/13431542/ref-watch-rangers-suffer-bad-luck-against-hearts-celtic-awarded-controversial-penalty-dundee-utd-and-dundee-red-cards-analysed
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -91,13 +116,13 @@ Premier League highlights: Manchester City 3-0 Manchester United. Manchester Cit
 
 ---
 
-## Story 4: Manchester United: Is Ruben Amorim's 'shoehorned' team selection costing them?
-**Slug (lower-third):** Manchester United: Is Ruben Amorim's 'shoehorned' team se…  
-**When:** 2025-09-14 18:06 (America/Winnipeg)  •  **Published:** 2025-09-14 23:06 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 5: Patrick Dorgu is not the wing-back to make Ruben Amorim's Man Utd formation work - and why it is a problem
+**Slug (lower-third):** Patrick Dorgu is not the wing-back to make Ruben Amorim's…  
+**When:** 2025-09-15 07:00 (America/Winnipeg)  •  **Published:** 2025-09-15 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: Is Ruben Amorim's 'shoehorned' team selection costing them?. Match Of The Day pundit Danny Murphy believes Manchester United do not have the personnel needed to play Ruben Amorim's 3-4-3 system, highlighting the performances of Bruno Fernandes and Luke Shaw in their 3-0 loss to rivals Manchester City. Relevance to standings and momentum.
+Patrick Dorgu is not the wing-back to make Ruben Amorim's Man Utd formation work - and why it is a problem. The Debrief column this week focuses on Patrick Dorgus ineffectiveness despite getting in good positions for Manchester United and what that says about Ruben Amorims system. Plus: Jeremy Dokus creativity and Brentfords long throws... Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,7 +131,7 @@ Manchester United: Is Ruben Amorim's 'shoehorned' team selection costing them?. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester United: Is Ruben Amorim's 'shoehorned' team selection costing them?. https://www.bbc.com/sport/football/videos/cr708xn4n4mo?at_medium=RSS&at_campaign=rss
+- skysports.com — Patrick Dorgu is not the wing-back to make Ruben Amorim's Man Utd formation work - and why it is a problem. https://www.skysports.com/football/news/12040/13429071/patrick-dorgu-is-not-the-wing-back-to-make-ruben-amorims-man-utd-formation-work-and-why-it-is-a-problem
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,13 +140,13 @@ Manchester United: Is Ruben Amorim's 'shoehorned' team selection costing them?. 
 
 ---
 
-## Story 5: Troy Deeney's Team of the Week: Donnarumma, Timber, Sarr, Haaland
-**Slug (lower-third):** Troy Deeney's Team of the Week: Donnarumma, Timber, Sarr,…  
-**When:** 2025-09-14 15:27 (America/Winnipeg)  •  **Published:** 2025-09-14 20:27 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 6: Bruno Fernandes hits out at Manchester United's lack of control in derby loss
+**Slug (lower-third):** Bruno Fernandes hits out at Manchester United's lack of c…  
+**When:** 2025-09-15 06:10 (America/Winnipeg)  •  **Published:** 2025-09-15 11:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Troy Deeney's Team of the Week: Donnarumma, Timber, Sarr, Haaland. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
+Bruno Fernandes hits out at Manchester United's lack of control in derby loss. Bruno Fernandes has criticised Manchester United's lack of control in Sunday's 3-0 derby defeat at Manchester City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,7 +155,7 @@ Troy Deeney's Team of the Week: Donnarumma, Timber, Sarr, Haaland. After every r
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Troy Deeney's Team of the Week: Donnarumma, Timber, Sarr, Haaland. https://www.bbc.com/sport/football/articles/cqlz67elveyo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Bruno Fernandes hits out at Manchester United's lack of control in derby loss. https://www.theguardian.com/football/2025/sep/15/bruno-fernandes-hits-out-at-manchester-united-lack-of-control-in-derby-loss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -139,13 +164,13 @@ Troy Deeney's Team of the Week: Donnarumma, Timber, Sarr, Haaland. After every r
 
 ---
 
-## Story 6: WSL highlights: Aston Villa 1-3 Chelsea
-**Slug (lower-third):** WSL highlights: Aston Villa 1-3 Chelsea  
-**When:** 2025-09-14 15:19 (America/Winnipeg)  •  **Published:** 2025-09-14 20:19 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 7: WSL talking points: Kerr strikes after 634 days and Liverpool woes mount
+**Slug (lower-third):** WSL talking points: Kerr strikes after 634 days and Liver…  
+**When:** 2025-09-15 06:06 (America/Winnipeg)  •  **Published:** 2025-09-15 11:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL highlights: Aston Villa 1-3 Chelsea. Sam Kerr comes off the bench to score in her first appearance in 20 months as Chelsea hold off Aston Villa to claim a 3-1 victory in the Women's Super League. Relevance to standings and momentum.
+WSL talking points: Kerr strikes after 634 days and Liverpool woes mount. Russo shines in the No 10 role, bluntness costs Liverpool and London City struggle with juggling act Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -154,7 +179,7 @@ WSL highlights: Aston Villa 1-3 Chelsea. Sam Kerr comes off the bench to score i
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL highlights: Aston Villa 1-3 Chelsea. https://www.bbc.com/sport/football/videos/c23709xxxnyo?at_medium=RSS&at_campaign=rss
+- theguardian.com — WSL talking points: Kerr strikes after 634 days and Liverpool woes mount. https://www.theguardian.com/football/2025/sep/15/womens-super-league-talking-points-weekend-action-sam-kerr-liverpool
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -163,13 +188,13 @@ WSL highlights: Aston Villa 1-3 Chelsea. Sam Kerr comes off the bench to score i
 
 ---
 
-## Story 7: Ruben Amorim: What now for Manchester United after heavy derby loss
-**Slug (lower-third):** Ruben Amorim: What now for Manchester United after heavy …  
-**When:** 2025-09-14 15:15 (America/Winnipeg)  •  **Published:** 2025-09-14 20:15 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 8: Today on Sky Sports Racing: Worcester and Brighton host live action
+**Slug (lower-third):** Today on Sky Sports Racing: Worcester and Brighton host l…  
+**When:** 2025-09-15 04:30 (America/Winnipeg)  •  **Published:** 2025-09-15 09:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ruben Amorim: What now for Manchester United after heavy derby loss. What was Jim Ratcliffe thinking after witnessing Manchester United's latest humbling? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Today on Sky Sports Racing: Worcester and Brighton host live action. Doyen Quest seeks a hat-trick in todays feature from Worcester, live on Sky Sports Racing; Brighton also hosts a seven-race card, commencing at 2.12pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -178,7 +203,7 @@ Ruben Amorim: What now for Manchester United after heavy derby loss. What was Ji
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Ruben Amorim: What now for Manchester United after heavy derby loss. https://www.bbc.com/sport/football/articles/cdxqgd40qlqo?at_medium=RSS&at_campaign=rss
+- skysports.com — Today on Sky Sports Racing: Worcester and Brighton host live action. https://www.skysports.com/racing/news/12040/13431532/today-on-sky-sports-racing-worcester-and-brighton-host-live-action
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -187,13 +212,13 @@ Ruben Amorim: What now for Manchester United after heavy derby loss. What was Ji
 
 ---
 
-## Story 8: Man City 3-0 Man Utd: Erling Haaland displays 'complete performance'
-**Slug (lower-third):** Man City 3-0 Man Utd: Erling Haaland displays 'complete p…  
-**When:** 2025-09-14 14:37 (America/Winnipeg)  •  **Published:** 2025-09-14 19:37 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 9: Phil Foden 'struggles with criticism', admits Manchester City teammate Doku
+**Slug (lower-third):** Phil Foden 'struggles with criticism', admits Manchester …  
+**When:** 2025-09-15 03:00 (America/Winnipeg)  •  **Published:** 2025-09-15 08:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City 3-0 Man Utd: Erling Haaland displays 'complete performance'. The sight of a rampant Erling Haaland with a beaming smile on his face will be of great comfort to both Manchester City and boss Pep Guardiola after a "complete performance" against Manchester United. Relevance to standings and momentum.
+Phil Foden 'struggles with criticism', admits Manchester City teammate Doku. Jeremy Doku believes 'talent-wise you can't say a word' about Phil Foden but that his teammate struggles 'when people criticise him' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -202,7 +227,7 @@ Man City 3-0 Man Utd: Erling Haaland displays 'complete performance'. The sight 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man City 3-0 Man Utd: Erling Haaland displays 'complete performance'. https://www.bbc.com/sport/football/articles/cg421g3x743o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Phil Foden 'struggles with criticism', admits Manchester City teammate Doku. https://www.theguardian.com/football/2025/sep/15/phil-foden-manchester-city-criticism-doku-manchester-united
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -211,13 +236,13 @@ Man City 3-0 Man Utd: Erling Haaland displays 'complete performance'. The sight 
 
 ---
 
-## Story 9: Ruben Amorim accepts 'any decision' as Man Utd worries deepen after heavy defeat in Manchester derby
-**Slug (lower-third):** Ruben Amorim accepts 'any decision' as Man Utd worries de…  
-**When:** 2025-09-14 14:19 (America/Winnipeg)  •  **Published:** 2025-09-14 19:19 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~26s
+## Story 10: Mohamed Salah: Should Liverpool worry about forward's dip in form?
+**Slug (lower-third):** Mohamed Salah: Should Liverpool worry about forward's dip…  
+**When:** 2025-09-15 01:39 (America/Winnipeg)  •  **Published:** 2025-09-15 06:39 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ruben Amorim accepts 'any decision' as Man Utd worries deepen after heavy defeat in Manchester derby. Ruben Amorim forced to defend system once again as he refuses to deviate from favoured formation; Man United lost 3-0 to Man City in the derby, as Amorims side suffer worst start to a Premier League campaign for 33 years Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Mohamed Salah: Should Liverpool worry about forward's dip in form?. MOTD pundits Danny Murphy and Theo Walcott believe Mohamed Salah is showing "positive habits" despite not having been at his electric best so far this season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -226,31 +251,7 @@ Ruben Amorim accepts 'any decision' as Man Utd worries deepen after heavy defeat
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ruben Amorim accepts 'any decision' as Man Utd worries deepen after heavy defeat in Manchester derby. https://www.skysports.com/football/news/12040/13431291/ruben-amorim-accepts-any-decision-as-man-utd-worries-deepen-after-heavy-defeat-in-manchester-derby
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League highlights: Burnley 0-1 Liverpool
-**Slug (lower-third):** Premier League highlights: Burnley 0-1 Liverpool  
-**When:** 2025-09-14 13:58 (America/Winnipeg)  •  **Published:** 2025-09-14 18:58 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Burnley 0-1 Liverpool. Liverpool remain unbeaten as they win 1-0 against Burnley after Mohamed Salah's stoppage time penalty at Turf Moor. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Burnley 0-1 Liverpool. https://www.bbc.com/sport/football/videos/cy0vy9jyed5o?at_medium=RSS&at_campaign=rss
+- bbc.com — Mohamed Salah: Should Liverpool worry about forward's dip in form?. https://www.bbc.com/sport/football/videos/cx278487m8jo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
