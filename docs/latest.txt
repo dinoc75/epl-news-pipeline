@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-17 07:42 (America/Winnipeg)  |  2025-09-17 12:42 (UTC)
+**Generated:** 2025-09-17 13:29 (America/Winnipeg)  |  2025-09-17 18:29 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 38s
+**Estimated total video length:** ~4m 42s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Explained: Manchester United record revenue but still remain cautious
-- Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form
-- Manchester United finances 2024/25: Premier League club achieves record revenues but still makes PS33m loss
+- Graham Potter: Crystal Palace game not a 'must-win' but pressure building on West Ham boss after poor start
+- Wolves: Boss Vitor Pereira close to new Wolves deal despite Premier League struggles
+- Kris Boyd: Rangers should appoint Sean Dyche if Russell Martin is sacked to end toxicity around club
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Jose Mourinho: Benfica in talks to appoint former Man Utd boss after sacking Bruno Lage
-**Slug (lower-third):** Jose Mourinho: Benfica in talks to appoint former Man Utd…  
-**When:** 2025-09-17 05:49 (America/Winnipeg)  •  **Published:** 2025-09-17 10:49 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 1: Wolves: Boss Vitor Pereira close to new Wolves deal despite Premier League struggles
+**Slug (lower-third):** Wolves: Boss Vitor Pereira close to new Wolves deal despi…  
+**When:** 2025-09-17 10:44 (America/Winnipeg)  •  **Published:** 2025-09-17 15:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jose Mourinho: Benfica in talks to appoint former Man Utd boss after sacking Bruno Lage. Jose Mourinho in talks to become the new Benfica head coach; the 62-year-old was sacked last month by Fenerbahce; Benfica sacked ex-Wolves boss Bruno Lage after Tuesdays shock Champions League home defeat to Qarabag; Mourinho could return to Benfica having managed them briefly in 2000 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Wolves: Boss Vitor Pereira close to new Wolves deal despite Premier League struggles. Manager Vitor Pereira is close to a new Wolves deal despite their poor start to the season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Jose Mourinho: Benfica in talks to appoint former Man Utd boss after sacking Bru
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Jose Mourinho: Benfica in talks to appoint former Man Utd boss after sacking Bruno Lage. https://www.skysports.com/football/news/12040/13432617/jose-mourinho-benfica-in-talks-to-appoint-former-man-utd-boss-after-sacking-bruno-lage
+- bbc.com — Wolves: Boss Vitor Pereira close to new Wolves deal despite Premier League struggles. https://www.bbc.com/sport/football/articles/cy9nx05yl43o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ Jose Mourinho: Benfica in talks to appoint former Man Utd boss after sacking Bru
 
 ---
 
-### League & Regulation
-
-## Story 2: Ex-Arsenal midfielder Partey denies rape charges
-**Slug (lower-third):** Ex-Arsenal midfielder Partey denies rape charges  
-**When:** 2025-09-17 03:23 (America/Winnipeg)  •  **Published:** 2025-09-17 08:23 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Kris Boyd: Rangers should appoint Sean Dyche if Russell Martin is sacked to end toxicity around club
+**Slug (lower-third):** Kris Boyd: Rangers should appoint Sean Dyche if Russell M…  
+**When:** 2025-09-17 10:01 (America/Winnipeg)  •  **Published:** 2025-09-17 15:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Ex-Arsenal midfielder Partey denies rape charges. Former Arsenal footballer Thomas Partey pleaded not guilty to raping two women in a short hearing at Southwark Crown Court on Wednesday. Relevance to standings and momentum.
+Kris Boyd: Rangers should appoint Sean Dyche if Russell Martin is sacked to end toxicity around club. Kris Boyd has his say on Russell Martins future at Rangers and believes ex-Everton boss Sean Dyche is the person to replace Martin if he is sacked; Boyd also discusses the toxicity of Ibrox at the moment and discusses the clubs broken transfer model Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,8 +55,57 @@ Ex-Arsenal midfielder Partey denies rape charges. Former Arsenal footballer Thom
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Ex-Arsenal midfielder Partey denies rape charges. https://www.espn.com/soccer/story/_/id/46289694/thomas-partey-arsenal-midfielder-denies-rape-assault-charges
-- bbc.com — Thomas Partey: Ex-Arsenal star denies rape and assault charges. https://www.bbc.com/news/articles/c2lxe9800dko?at_medium=RSS&at_campaign=rss
+- skysports.com — Kris Boyd: Rangers should appoint Sean Dyche if Russell Martin is sacked to end toxicity around club. https://www.skysports.com/football/news/12040/13432768/kris-boyd-rangers-should-appoint-sean-dyche-if-russell-martin-is-sacked-to-end-toxicity-around-club
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Gianluigi Donnarumma says Pep Guardiola will help him improve with his feet
+**Slug (lower-third):** Gianluigi Donnarumma says Pep Guardiola will help him imp…  
+**When:** 2025-09-17 09:01 (America/Winnipeg)  •  **Published:** 2025-09-17 14:01 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Gianluigi Donnarumma says Pep Guardiola will help him improve with his feet. Gianluigi Donnarumma believes his ball-playing skills will improve at Manchester City and said their interest in him predated the summer Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Gianluigi Donnarumma says Pep Guardiola will help him improve with his feet. https://www.theguardian.com/football/2025/sep/17/gianluigi-donnarumma-pep-guardiola-improve-feet-manchester-city-napoli
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Man City v Napoli: Gianluigi Donnarumma says City were 'only option' after PSG
+**Slug (lower-third):** Man City v Napoli: Gianluigi Donnarumma says City were 'o…  
+**When:** 2025-09-17 08:11 (America/Winnipeg)  •  **Published:** 2025-09-17 13:11 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man City v Napoli: Gianluigi Donnarumma says City were 'only option' after PSG. Gianluigi Donnarumma says Man City were the "only option" he wanted to join this summer and he already feels he has been at the club "for many years". Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Man City v Napoli: Gianluigi Donnarumma says City were 'only option' after PSG. https://www.bbc.com/sport/football/articles/cd63g5dqqp3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -69,13 +116,13 @@ Ex-Arsenal midfielder Partey denies rape charges. Former Arsenal footballer Thom
 
 ### Club Updates
 
-## Story 3: Explained: Manchester United record revenue but still remain cautious
-**Slug (lower-third):** Explained: Manchester United record revenue but still rem…  
-**When:** 2025-09-17 08:03 (America/Winnipeg)  •  **Published:** 2025-09-17 13:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Graham Potter: Crystal Palace game not a 'must-win' but pressure building on West Ham boss after poor start
+**Slug (lower-third):** Graham Potter: Crystal Palace game not a 'must-win' but p…  
+**When:** 2025-09-17 11:15 (America/Winnipeg)  •  **Published:** 2025-09-17 16:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Explained: Manchester United record revenue but still remain cautious. Sky Sports senior reporter Rob Dorsett explains why Manchester United are remaining cautious despite achieving record revenue. Relevance to standings and momentum.
+Graham Potter: Crystal Palace game not a 'must-win' but pressure building on West Ham boss after poor start. The game against Crystal Palace is not a must-win for Graham Potter but pressure is building; West Ham have suffered defeats to Chelsea, Tottenham and Sunderland to start the 2025/26 season; West Ham have conceded the most shots from set pieces and are 19th in the league for recoveries Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -84,7 +131,7 @@ Explained: Manchester United record revenue but still remain cautious. Sky Sport
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Explained: Manchester United record revenue but still remain cautious. https://www.skysports.com/watch/video/13432711/explained-manchester-united-record-revenue-but-still-remain-cautious
+- skysports.com — Graham Potter: Crystal Palace game not a 'must-win' but pressure building on West Ham boss after poor start. https://www.skysports.com/football/news/12040/13432830/graham-potter-crystal-palace-game-not-a-must-win-but-pressure-building-on-west-ham-boss-after-poor-start
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -93,13 +140,61 @@ Explained: Manchester United record revenue but still remain cautious. Sky Sport
 
 ---
 
-## Story 4: Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form
-**Slug (lower-third):** Champions League: Ex-Newcastle defender Lloyd Kelly's Juv…  
-**When:** 2025-09-17 07:36 (America/Winnipeg)  •  **Published:** 2025-09-17 12:36 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: Football Daily | Aston Villa lose again: what a difference a year makes
+**Slug (lower-third):** Football Daily | Aston Villa lose again: what a differenc…  
+**When:** 2025-09-17 09:36 (America/Winnipeg)  •  **Published:** 2025-09-17 14:36 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form. English defender Lloyd Kelly is shining at Juventus after a brief spell at Newcastle United. Relevance to standings and momentum.
+Football Daily | Aston Villa lose again: what a difference a year makes. In today's Football Daily: Unai Emery is still winless, Oliver Glasner's man-management skills and an apology to Qarabag Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Football Daily | Aston Villa lose again: what a difference a year makes. https://www.theguardian.com/football/2025/sep/17/football-daily-newsletter-aston-villa-lose-again
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Man United's record revenue explained
+**Slug (lower-third):** Man United's record revenue explained  
+**When:** 2025-09-17 08:03 (America/Winnipeg)  •  **Published:** 2025-09-17 13:03 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man United's record revenue explained. Sky Sports senior reporter Rob Dorsett explains why Manchester United are remaining cautious despite achieving record revenue. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man United's record revenue explained. https://www.skysports.com/watch/video/13432711/explained-manchester-united-record-revenue-but-still-remain-cautious
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form
+**Slug (lower-third):** Champions League: Ex-Newcastle defender Lloyd Kelly's Juv…  
+**When:** 2025-09-17 07:36 (America/Winnipeg)  •  **Published:** 2025-09-17 12:36 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form. Lloyd Kelly lasted just six months at Newcastle - but is threatening to become a cult figure at European superpower Juventus. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -117,10 +212,10 @@ Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form. English def
 
 ---
 
-## Story 5: Manchester United finances 2024/25: Premier League club achieves record revenues but still makes PS33m loss
+## Story 9: Manchester United finances 2024/25: Premier League club achieves record revenues but still makes PS33m loss
 **Slug (lower-third):** Manchester United finances 2024/25: Premier League club a…  
 **When:** 2025-09-17 07:23 (America/Winnipeg)  •  **Published:** 2025-09-17 12:23 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+**Virality score:** 97  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
 Manchester United finances 2024/25: Premier League club achieves record revenues but still makes PS33m loss. Man Utd accounts for 2024/25 show record revenues of PS666.5m; total operating expenses down 4.5 per cent, and employee expenses by 14.1 per cent, or PS51.5m; more than 250 staff members made redundant in first round of cuts; net losses of PS33m down from PS113m in 2024 Relevance to standings and momentum.
@@ -141,13 +236,13 @@ Manchester United finances 2024/25: Premier League club achieves record revenues
 
 ---
 
-## Story 6: Hull KR coach Willie Peters unconcerned about energy levels as League Leaders' Shield looms
-**Slug (lower-third):** Hull KR coach Willie Peters unconcerned about energy leve…  
-**When:** 2025-09-17 07:15 (America/Winnipeg)  •  **Published:** 2025-09-17 12:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 10: Manchester United hit PS666.5m record revenue but lose PS33m amid turmoil
+**Slug (lower-third):** Manchester United hit PS666.5m record revenue but lose PS…  
+**When:** 2025-09-17 07:57 (America/Winnipeg)  •  **Published:** 2025-09-17 12:57 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Hull KR coach Willie Peters unconcerned about energy levels as League Leaders' Shield looms. Hull KR need to beat Warrington Wolves in their Super League match on Thursday night, live on Sky Sports, to clinch the League Leaders Shield; the Robins suffered a shock loss to Wakefield Trinity in Round 26; watch every Super League match live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Manchester United hit PS666.5m record revenue but lose PS33m amid turmoil. Manchester United's chief executive, Omar Berrada, said the performance 'during such a challenging year' demonstrated the club's resilience Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,103 +251,7 @@ Hull KR coach Willie Peters unconcerned about energy levels as League Leaders' S
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Hull KR coach Willie Peters unconcerned about energy levels as League Leaders' Shield looms. https://www.skysports.com/rugby-league/news/12040/13432667/hull-kr-coach-willie-peters-unconcerned-about-energy-levels-as-league-leaders-shield-looms
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Women's Super League: How to stop an in-form Alessia Russo?
-**Slug (lower-third):** Women's Super League: How to stop an in-form Alessia Russ…  
-**When:** 2025-09-17 06:33 (America/Winnipeg)  •  **Published:** 2025-09-17 11:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Women's Super League: How to stop an in-form Alessia Russo?. BBC pundits Fara Williams and Rehanne Skinner analyse Alessia Russo's "impressive" performance against West Ham. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Women's Super League: How to stop an in-form Alessia Russo?. https://www.bbc.com/sport/football/videos/cre592rpjxpo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Footballer Thomas Partey pleads not guilty to rape and sexual assault
-**Slug (lower-third):** Footballer Thomas Partey pleads not guilty to rape and se…  
-**When:** 2025-09-17 05:04 (America/Winnipeg)  •  **Published:** 2025-09-17 10:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Footballer Thomas Partey pleads not guilty to rape and sexual assault. The former Arsenal footballer Thomas Partey has pleaded not guilty to five counts of rape and one count of sexual assault at Southwark crown court Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Footballer Thomas Partey pleads not guilty to rape and sexual assault. https://www.theguardian.com/football/2025/sep/17/footballer-thomas-partey-pleads-not-guilty-to-rape-and-sexual-assault
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Barcelona: Lamine Yamal out of Champions League game at Newcastle
-**Slug (lower-third):** Barcelona: Lamine Yamal out of Champions League game at N…  
-**When:** 2025-09-17 04:53 (America/Winnipeg)  •  **Published:** 2025-09-17 09:53 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Barcelona: Lamine Yamal out of Champions League game at Newcastle. Winger Lamine Yamal is not part of Barcelona's squad for their Champions League match at Newcastle United on Thursday. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Barcelona: Lamine Yamal out of Champions League game at Newcastle. https://www.bbc.com/sport/football/articles/c0ezp44w505o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: David Luiz on 'new challenge' at Pafos & Chelsea's 2012 Champions League win
-**Slug (lower-third):** David Luiz on 'new challenge' at Pafos & Chelsea's 2012 C…  
-**When:** 2025-09-17 02:54 (America/Winnipeg)  •  **Published:** 2025-09-17 07:54 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-David Luiz on 'new challenge' at Pafos & Chelsea's 2012 Champions League win. Ex-Chelsea defender David Luiz explains why he joined Pafos in Cyprus and looks ahead to their Champions League challenge this season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — David Luiz on 'new challenge' at Pafos & Chelsea's 2012 Champions League win. https://www.bbc.com/sport/football/videos/cqlz21e1zr9o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Manchester United hit PS666.5m record revenue but lose PS33m amid turmoil. https://www.theguardian.com/football/2025/sep/17/manchester-united-hit-666m-record-revenue-but-lose-33m-amid-turmoil
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
