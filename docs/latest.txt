@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-18 07:41 (America/Winnipeg)  |  2025-09-18 12:41 (UTC)
+**Generated:** 2025-09-18 13:30 (America/Winnipeg)  |  2025-09-18 18:30 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 39s
+**Estimated total video length:** ~4m 36s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Hungarian Darts Trophy: Michael van Gerwen, Luke Littler, Luke Humphries, and Gerwyn Price headline in Budapest
-- Liverpool's late shows are a lot of fun but Slot will know it is not sustainable | Will Unwin
-- Harvey Vale interview: QPR midfielder on returning to fitness and his Chelsea upbringing
+- West Ham boss Graham Potter 'under pressure' ahead of match against Crystal Palace
+- Graham Potter future: West Ham head coach under real pressure with Hammers board expecting a response vs Crystal Palace
+- Jose Mourinho: Benfica appoint former Chelsea and Manchester United boss as new manager
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Liverpool's late shows are a lot of fun but Slot will know it is not sustainable | Will Unwin
-**Slug (lower-third):** Liverpool's late shows are a lot of fun but Slot will kno…  
-**When:** 2025-09-18 06:21 (America/Winnipeg)  •  **Published:** 2025-09-18 11:21 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+## Story 1: Graham Potter future: West Ham head coach under real pressure with Hammers board expecting a response vs Crystal Palace
+**Slug (lower-third):** Graham Potter future: West Ham head coach under real pres…  
+**When:** 2025-09-18 12:00 (America/Winnipeg)  •  **Published:** 2025-09-18 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Liverpool's late shows are a lot of fun but Slot will know it is not sustainable | Will Unwin. While they do keep finding a way to win, blowing leads and a lack of ruthlessness are not signs of a successful season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Graham Potter future: West Ham head coach under real pressure with Hammers board expecting a response vs Crystal Palace. West Ham have made a disastrous start to the season with the club sitting in the Premier League relegation zone; the Hammers face Crystal Palace at home this weekend having already lost two London Stadium derbies this term to Spurs and Chelsea, with an aggregate score of 8-1 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,55 @@ Liverpool's late shows are a lot of fun but Slot will know it is not sustainable
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool's late shows are a lot of fun but Slot will know it is not sustainable | Will Unwin. https://www.theguardian.com/football/2025/sep/18/liverpool-late-shows-arne-slot-sustainable-atletico-madrid
+- skysports.com — Graham Potter future: West Ham head coach under real pressure with Hammers board expecting a response vs Crystal Palace. https://www.skysports.com/football/news/12040/13433488/graham-potter-future-west-ham-head-coach-under-real-pressure-with-hammers-board-expecting-a-response-vs-crystal-palace
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Jose Mourinho: Benfica appoint former Chelsea and Manchester United boss as new manager
+**Slug (lower-third):** Jose Mourinho: Benfica appoint former Chelsea and Manches…  
+**When:** 2025-09-18 11:25 (America/Winnipeg)  •  **Published:** 2025-09-18 16:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Jose Mourinho: Benfica appoint former Chelsea and Manchester United boss as new manager. Benfica appoint Jose Mourinho as their new manager on a deal until the summer of 2027. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Jose Mourinho: Benfica appoint former Chelsea and Manchester United boss as new manager. https://www.bbc.com/sport/football/articles/c3w54x0qzwvo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: West Ham identify Slaven Bilic and Nuno as potential Potter replacements
+**Slug (lower-third):** West Ham identify Slaven Bilic and Nuno as potential Pott…  
+**When:** 2025-09-18 08:48 (America/Winnipeg)  •  **Published:** 2025-09-18 13:48 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+West Ham identify Slaven Bilic and Nuno as potential Potter replacements. West Ham will consider bringing back Slaven Bilic if they sack Graham Potter, who is under growing pressure after a poor start to the season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — West Ham identify Slaven Bilic and Nuno as potential Potter replacements. https://www.theguardian.com/football/2025/sep/18/slaven-bilic-nuno-west-ham-list-graham-potter-potential-replacements
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,58 +90,10 @@ Liverpool's late shows are a lot of fun but Slot will know it is not sustainable
 
 ### Injuries
 
-## Story 2: Harvey Vale interview: QPR midfielder on returning to fitness and his Chelsea upbringing
-**Slug (lower-third):** Harvey Vale interview: QPR midfielder on returning to fit…  
-**When:** 2025-09-18 05:00 (America/Winnipeg)  •  **Published:** 2025-09-18 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Harvey Vale interview: QPR midfielder on returning to fitness and his Chelsea upbringing. Harvey Vale tells Sky Sports about his desire to thrive for QPR after returning to fitness and his upbringing at Chelsea. Watch QPR vs Stoke City live on Sky Sports+ and the Sky Sports app on Saturday; kick-off 12.30pm. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Harvey Vale interview: QPR midfielder on returning to fitness and his Chelsea upbringing. https://www.skysports.com/football/news/12040/13431701/harvey-vale-interview-qpr-midfielder-on-returning-to-fitness-and-his-chelsea-upbringing
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Screamers, treble and 'let me talk': Kevin De Bruyne's memorable Etihad moments
-**Slug (lower-third):** Screamers, treble and 'let me talk': Kevin De Bruyne's me…  
-**When:** 2025-09-18 02:00 (America/Winnipeg)  •  **Published:** 2025-09-18 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Screamers, treble and 'let me talk': Kevin De Bruyne's memorable Etihad moments. As the Manchester City legend returns to face his former team, we look back at moments that will never be forgotten Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Screamers, treble and 'let me talk': Kevin De Bruyne's memorable Etihad moments. https://www.theguardian.com/football/2025/sep/18/screamers-treble-let-me-talk-kevin-de-bruyne-memorable-etihad-moments-manchester-city
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 4: Man City vs Napoli: Will Kevin de Bruyne return to haunt old club?
 **Slug (lower-third):** Man City vs Napoli: Will Kevin de Bruyne return to haunt …  
 **When:** 2025-09-18 01:30 (America/Winnipeg)  •  **Published:** 2025-09-18 06:30 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man City vs Napoli: Will Kevin de Bruyne return to haunt old club?. Kevin de Bruyne did not leave Manchester City by choice this summer - but now he is set to line up against them in the Champions League for Napoli. Relevance to standings and momentum.
@@ -116,10 +116,106 @@ Man City vs Napoli: Will Kevin de Bruyne return to haunt old club?. Kevin de Bru
 
 ### Club Updates
 
-## Story 5: Hungarian Darts Trophy: Michael van Gerwen, Luke Littler, Luke Humphries, and Gerwyn Price headline in Budapest
+## Story 5: West Ham boss Graham Potter 'under pressure' ahead of match against Crystal Palace
+**Slug (lower-third):** West Ham boss Graham Potter 'under pressure' ahead of mat…  
+**When:** 2025-09-18 12:39 (America/Winnipeg)  •  **Published:** 2025-09-18 17:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+West Ham boss Graham Potter 'under pressure' ahead of match against Crystal Palace. Kaveh Solhekol reports on Graham Potters position at West Ham after they have endured a miserable start to the season, with more pressure mounting on the Hammers boss. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — West Ham boss Graham Potter 'under pressure' ahead of match against Crystal Palace. https://www.skysports.com/watch/video/13433526/west-ham-boss-graham-potter-under-pressure-ahead-of-match-against-crystal-palace
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Atletico and Uefa to review 'spit' footage during Liverpool match
+**Slug (lower-third):** Atletico and Uefa to review 'spit' footage during Liverpo…  
+**When:** 2025-09-18 10:06 (America/Winnipeg)  •  **Published:** 2025-09-18 15:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Atletico and Uefa to review 'spit' footage during Liverpool match. Atletico Madrid will launch an investigation into the mass confrontation that marred their 3-2 Champions League loss at Anfield, with a member of their backroom team appearing to spit into the crowd. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Atletico and Uefa to review 'spit' footage during Liverpool match. https://www.bbc.com/sport/football/articles/c5y4knqz11vo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: When Newcastle beat Barcelona in the Champions League
+**Slug (lower-third):** When Newcastle beat Barcelona in the Champions League  
+**When:** 2025-09-18 08:59 (America/Winnipeg)  •  **Published:** 2025-09-18 13:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+When Newcastle beat Barcelona in the Champions League. Faustino Asprilla scores a hat-trick against Barcelona on Newcastle United's Champions League debut in 1997. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — When Newcastle beat Barcelona in the Champions League. https://www.bbc.com/sport/football/videos/cm2dm4vx2klo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Liverpool late winners: Arne Slot's team's goals analysed with data
+**Slug (lower-third):** Liverpool late winners: Arne Slot's team's goals analysed…  
+**When:** 2025-09-18 08:30 (America/Winnipeg)  •  **Published:** 2025-09-18 13:30 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool late winners: Arne Slot's team's goals analysed with data. BBC Sport examines how and why Liverpool's thrilling late winners have come about. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Liverpool late winners: Arne Slot's team's goals analysed with data. https://www.bbc.com/sport/football/articles/ce80zmpd2mpo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Hungarian Darts Trophy: Michael van Gerwen, Luke Littler, Luke Humphries, and Gerwyn Price headline in Budapest
 **Slug (lower-third):** Hungarian Darts Trophy: Michael van Gerwen, Luke Littler,…  
 **When:** 2025-09-18 07:41 (America/Winnipeg)  •  **Published:** 2025-09-18 12:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+**Virality score:** 97  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
 Hungarian Darts Trophy: Michael van Gerwen, Luke Littler, Luke Humphries, and Gerwyn Price headline in Budapest. Michael van Gerwen could begin his Hungarian Darts Trophy defence against Andrew Gilding, while Luke Littler faces potential Joe Cullen meeting; you can watch the BoyleSports World Grand Prix live on Sky Sports from October 6-12 at the Mattioli Arena, Leicester Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -140,58 +236,10 @@ Hungarian Darts Trophy: Michael van Gerwen, Luke Littler, Luke Humphries, and Ge
 
 ---
 
-## Story 6: Arne Slot salutes Liverpool character after yet another late show in dramatic win over Atletico Madrid in Champions League
-**Slug (lower-third):** Arne Slot salutes Liverpool character after yet another l…  
-**When:** 2025-09-18 03:50 (America/Winnipeg)  •  **Published:** 2025-09-18 08:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~31s
-
-### Presenter Script (3–5 sentences)
-Arne Slot salutes Liverpool character after yet another late show in dramatic win over Atletico Madrid in Champions League. Alexander Isak was given his first start of the season; Diego Simeone was shown a red card after an exchange with a fan after Liverpool scored a late winner; Atleti boss hopes Liverpool take action against the fan and says: I insulted him, but it was 90 minutes of being insulted Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Arne Slot salutes Liverpool character after yet another late show in dramatic win over Atletico Madrid in Champions League. https://www.skysports.com/football/news/12040/13433127/arne-slot-salutes-liverpool-character-after-yet-another-late-show-in-dramatic-win-over-atletico-madrid-in-champions-league
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: LAFC: Son Heung-min claims first Major League Soccer hat-trick since leaving Tottenham
-**Slug (lower-third):** LAFC: Son Heung-min claims first Major League Soccer hat-…  
-**When:** 2025-09-18 03:43 (America/Winnipeg)  •  **Published:** 2025-09-18 08:43 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-LAFC: Son Heung-min claims first Major League Soccer hat-trick since leaving Tottenham. Son Heung-min scores his first Major League Soccer hat-trick as Los Angeles FC win 4-1 at Real Salt Lake on Wednesday. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — LAFC: Son Heung-min claims first Major League Soccer hat-trick since leaving Tottenham. https://www.bbc.com/sport/football/articles/c79vqyzlx88o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: FPL gameweek five tips: Captain Mohamed Salah, pick Bryan Mbeumo and Joao Pedro
+## Story 10: FPL gameweek five tips: Captain Mohamed Salah, pick Bryan Mbeumo and Joao Pedro
 **Slug (lower-third):** FPL gameweek five tips: Captain Mohamed Salah, pick Bryan…  
 **When:** 2025-09-18 02:59 (America/Winnipeg)  •  **Published:** 2025-09-18 07:59 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 FPL gameweek five tips: Captain Mohamed Salah, pick Bryan Mbeumo and Joao Pedro. It's again a choice between Mohamed Salah and Erling Haaland, and facing Arsenal means the Norwegian misses out. Relevance to standings and momentum.
@@ -204,54 +252,6 @@ FPL gameweek five tips: Captain Mohamed Salah, pick Bryan Mbeumo and Joao Pedro.
 
 ### Sources
 - bbc.com — FPL gameweek five tips: Captain Mohamed Salah, pick Bryan Mbeumo and Joao Pedro. https://www.bbc.com/sport/football/articles/cvgj5w2w0e9o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Cole Palmer: Chelsea forward says Champions League 'not learning curve'
-**Slug (lower-third):** Cole Palmer: Chelsea forward says Champions League 'not l…  
-**When:** 2025-09-18 01:08 (America/Winnipeg)  •  **Published:** 2025-09-18 06:08 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Cole Palmer: Chelsea forward says Champions League 'not learning curve'. Cole Palmer says Chelsea do not see this season's Champions League campaign as a "learning curve" - because they want to be competitive in it straight away. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Cole Palmer: Chelsea forward says Champions League 'not learning curve'. https://www.bbc.com/sport/football/articles/c62ld0pedd8o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Newcastle v Barcelona in Champions League: The cult of Tino Asprilla
-**Slug (lower-third):** Newcastle v Barcelona in Champions League: The cult of Ti…  
-**When:** 2025-09-18 00:47 (America/Winnipeg)  •  **Published:** 2025-09-18 05:47 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Newcastle v Barcelona in Champions League: The cult of Tino Asprilla. Tino Asprilla scored a hat-trick for Newcastle United against Barcelona in 1997 and will be watching on as the teams meet at St James' Park tonight. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Newcastle v Barcelona in Champions League: The cult of Tino Asprilla. https://www.bbc.com/sport/football/articles/c0r01j810gwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
