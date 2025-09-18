@@ -1,8 +1,8 @@
-resp_0324dc26a96144600068caff7fa4748197b0638af66c2c4e58
+resp_68cb6070a60c8197a0fc4d0d7e145fd20352c33ee155d7b2
 max_output_tokens
 gpt-5-mini-2025-08-07
 response
-rs_0324dc26a96144600068caff80244c8197b32ed0024921d69f
+rs_68cb607139c0819798561b258829afc60352c33ee155d7b2
 reasoning
 auto
 medium
@@ -11,3 +11,4 @@ incomplete
 text
 medium
 disabled
+developer

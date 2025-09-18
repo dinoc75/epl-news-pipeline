@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-17 13:29 (America/Winnipeg)  |  2025-09-17 18:29 (UTC)
+**Generated:** 2025-09-17 20:26 (America/Winnipeg)  |  2025-09-18 01:26 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 42s
+**Estimated total video length:** ~4m 37s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Graham Potter: Crystal Palace game not a 'must-win' but pressure building on West Ham boss after poor start
-- Wolves: Boss Vitor Pereira close to new Wolves deal despite Premier League struggles
-- Kris Boyd: Rangers should appoint Sean Dyche if Russell Martin is sacked to end toxicity around club
+- Liverpool 3-2 Atletico Madrid: Alexander Isak samples Anfield power in Champions League win
+- Arne Slot salutes Liverpool character after yet another late show in dramatic win over Atletico Madrid in Champions League
+- Football Daily - UCL Debrief: Liverpool leave it late & Kane inspires Bayern win over Chelsea - BBC Sounds
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Wolves: Boss Vitor Pereira close to new Wolves deal despite Premier League struggles
 **Slug (lower-third):** Wolves: Boss Vitor Pereira close to new Wolves deal despi…  
 **When:** 2025-09-17 10:44 (America/Winnipeg)  •  **Published:** 2025-09-17 15:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Wolves: Boss Vitor Pereira close to new Wolves deal despite Premier League struggles. Manager Vitor Pereira is close to a new Wolves deal despite their poor start to the season. Relevance to standings and momentum.
@@ -40,13 +40,39 @@ Wolves: Boss Vitor Pereira close to new Wolves deal despite Premier League strug
 
 ---
 
-## Story 2: Kris Boyd: Rangers should appoint Sean Dyche if Russell Martin is sacked to end toxicity around club
-**Slug (lower-third):** Kris Boyd: Rangers should appoint Sean Dyche if Russell M…  
-**When:** 2025-09-17 10:01 (America/Winnipeg)  •  **Published:** 2025-09-17 15:01 (UTC)  
+### Club Updates
+
+## Story 2: Liverpool 3-2 Atletico Madrid: Alexander Isak samples Anfield power in Champions League win
+**Slug (lower-third):** Liverpool 3-2 Atletico Madrid: Alexander Isak samples Anf…  
+**When:** 2025-09-17 18:24 (America/Winnipeg)  •  **Published:** 2025-09-17 23:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool 3-2 Atletico Madrid: Alexander Isak samples Anfield power in Champions League win. Liverpool boss Arne Slot enjoys a dramatic birthday as record signing Alexander Isak samples Anfield's Champions League power, says chief football writer Phil McNulty. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Liverpool 3-2 Atletico Madrid: Alexander Isak samples Anfield power in Champions League win. https://www.bbc.com/sport/football/articles/cn76dexdgvjo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Arne Slot salutes Liverpool character after yet another late show in dramatic win over Atletico Madrid in Champions League
+**Slug (lower-third):** Arne Slot salutes Liverpool character after yet another l…  
+**When:** 2025-09-17 18:04 (America/Winnipeg)  •  **Published:** 2025-09-17 23:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Kris Boyd: Rangers should appoint Sean Dyche if Russell Martin is sacked to end toxicity around club. Kris Boyd has his say on Russell Martins future at Rangers and believes ex-Everton boss Sean Dyche is the person to replace Martin if he is sacked; Boyd also discusses the toxicity of Ibrox at the moment and discusses the clubs broken transfer model Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Arne Slot salutes Liverpool character after yet another late show in dramatic win over Atletico Madrid in Champions League. Liverpool boss Arne Slot: "If you want to beat a team like Atletico, you have to beat them with their own weapon as well and that is mentality. I think that's what we showed again, that we can beat them also by mentality. But I think we should have made it easier." Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +81,7 @@ Kris Boyd: Rangers should appoint Sean Dyche if Russell Martin is sacked to end 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Kris Boyd: Rangers should appoint Sean Dyche if Russell Martin is sacked to end toxicity around club. https://www.skysports.com/football/news/12040/13432768/kris-boyd-rangers-should-appoint-sean-dyche-if-russell-martin-is-sacked-to-end-toxicity-around-club
+- skysports.com — Arne Slot salutes Liverpool character after yet another late show in dramatic win over Atletico Madrid in Champions League. https://www.skysports.com/football/news/12040/13433127/arne-slot-salutes-liverpool-character-after-yet-another-late-show-in-dramatic-win-over-atletico-madrid-in-champions-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,15 +90,13 @@ Kris Boyd: Rangers should appoint Sean Dyche if Russell Martin is sacked to end 
 
 ---
 
-### Transfers
-
-## Story 3: Gianluigi Donnarumma says Pep Guardiola will help him improve with his feet
-**Slug (lower-third):** Gianluigi Donnarumma says Pep Guardiola will help him imp…  
-**When:** 2025-09-17 09:01 (America/Winnipeg)  •  **Published:** 2025-09-17 14:01 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 4: Football Daily - UCL Debrief: Liverpool leave it late & Kane inspires Bayern win over Chelsea - BBC Sounds
+**Slug (lower-third):** Football Daily - UCL Debrief: Liverpool leave it late & K…  
+**When:** 2025-09-17 18:02 (America/Winnipeg)  •  **Published:** 2025-09-17 23:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Gianluigi Donnarumma says Pep Guardiola will help him improve with his feet. Gianluigi Donnarumma believes his ball-playing skills will improve at Manchester City and said their interest in him predated the summer Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Football Daily - UCL Debrief: Liverpool leave it late & Kane inspires Bayern win over Chelsea - BBC Sounds. Alistair Bruce-Ball has reaction as Liverpool beat Atletico & Chelsea lose in Munich. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +105,7 @@ Gianluigi Donnarumma says Pep Guardiola will help him improve with his feet. Gia
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Gianluigi Donnarumma says Pep Guardiola will help him improve with his feet. https://www.theguardian.com/football/2025/sep/17/gianluigi-donnarumma-pep-guardiola-improve-feet-manchester-city-napoli
+- bbc.co.uk — Football Daily - UCL Debrief: Liverpool leave it late & Kane inspires Bayern win over Chelsea - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0m3gl75?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +114,13 @@ Gianluigi Donnarumma says Pep Guardiola will help him improve with his feet. Gia
 
 ---
 
-## Story 4: Man City v Napoli: Gianluigi Donnarumma says City were 'only option' after PSG
-**Slug (lower-third):** Man City v Napoli: Gianluigi Donnarumma says City were 'o…  
-**When:** 2025-09-17 08:11 (America/Winnipeg)  •  **Published:** 2025-09-17 13:11 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 5: Bayern Munich 3-1 Chelsea: Jamie Carragher labels Harry Kane as 'one of the greatest' goal scorers ever after Champions League double
+**Slug (lower-third):** Bayern Munich 3-1 Chelsea: Jamie Carragher labels Harry K…  
+**When:** 2025-09-17 17:55 (America/Winnipeg)  •  **Published:** 2025-09-17 22:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Man City v Napoli: Gianluigi Donnarumma says City were 'only option' after PSG. Gianluigi Donnarumma says Man City were the "only option" he wanted to join this summer and he already feels he has been at the club "for many years". Implications for the squad and table.
+Bayern Munich 3-1 Chelsea: Jamie Carragher labels Harry Kane as 'one of the greatest' goal scorers ever after Champions League double. Harry Kane scored twice as Bayern Munich beat Chelsea 3-1 in their opening game of the Champions League campaign; Kane has scored 10 goals in six appearances for Bayern this season; the 32-year-old has now scored 391 goal in 602 senior appearances throughout his career Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +129,8 @@ Man City v Napoli: Gianluigi Donnarumma says City were 'only option' after PSG. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man City v Napoli: Gianluigi Donnarumma says City were 'only option' after PSG. https://www.bbc.com/sport/football/articles/cd63g5dqqp3o?at_medium=RSS&at_campaign=rss
+- skysports.com — Bayern Munich 3-1 Chelsea: Jamie Carragher labels Harry Kane as 'one of the greatest' goal scorers ever after Champions League double. https://www.skysports.com/football/news/12040/13433126/bayern-munich-3-1-chelsea-jamie-carragher-labels-harry-kane-as-one-of-the-greatest-goal-scorers-ever-after-champions-league-double
+- bbc.com — Champions League Highlights: Bayern Munich 3-1 Chelsea. https://www.bbc.com/sport/football/videos/czewywl321po?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,15 +139,13 @@ Man City v Napoli: Gianluigi Donnarumma says City were 'only option' after PSG. 
 
 ---
 
-### Club Updates
-
-## Story 5: Graham Potter: Crystal Palace game not a 'must-win' but pressure building on West Ham boss after poor start
-**Slug (lower-third):** Graham Potter: Crystal Palace game not a 'must-win' but p…  
-**When:** 2025-09-17 11:15 (America/Winnipeg)  •  **Published:** 2025-09-17 16:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+## Story 6: Swansea City 3-2 Nottingham Forest | Carabao Cup highlights
+**Slug (lower-third):** Swansea City 3-2 Nottingham Forest | Carabao Cup highligh…  
+**When:** 2025-09-17 17:50 (America/Winnipeg)  •  **Published:** 2025-09-17 22:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Graham Potter: Crystal Palace game not a 'must-win' but pressure building on West Ham boss after poor start. The game against Crystal Palace is not a must-win for Graham Potter but pressure is building; West Ham have suffered defeats to Chelsea, Tottenham and Sunderland to start the 2025/26 season; West Ham have conceded the most shots from set pieces and are 19th in the league for recoveries Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Swansea City 3-2 Nottingham Forest | Carabao Cup highlights. Highlights of the Carabao Cup third round clash between Swansea City and Nottingham Forest. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +154,7 @@ Graham Potter: Crystal Palace game not a 'must-win' but pressure building on Wes
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Graham Potter: Crystal Palace game not a 'must-win' but pressure building on West Ham boss after poor start. https://www.skysports.com/football/news/12040/13432830/graham-potter-crystal-palace-game-not-a-must-win-but-pressure-building-on-west-ham-boss-after-poor-start
+- skysports.com — Swansea City 3-2 Nottingham Forest | Carabao Cup highlights. https://www.skysports.com/watch/video/13433117/swansea-city-3-2-nottingham-forest-carabao-cup-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +163,13 @@ Graham Potter: Crystal Palace game not a 'must-win' but pressure building on Wes
 
 ---
 
-## Story 6: Football Daily | Aston Villa lose again: what a difference a year makes
-**Slug (lower-third):** Football Daily | Aston Villa lose again: what a differenc…  
-**When:** 2025-09-17 09:36 (America/Winnipeg)  •  **Published:** 2025-09-17 14:36 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 7: Nottingham Forest got too 'comfortable' in shock EFL Cup loss at Swansea, says Ange Postecoglou
+**Slug (lower-third):** Nottingham Forest got too 'comfortable' in shock EFL Cup …  
+**When:** 2025-09-17 17:49 (America/Winnipeg)  •  **Published:** 2025-09-17 22:49 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | Aston Villa lose again: what a difference a year makes. In today's Football Daily: Unai Emery is still winless, Oliver Glasner's man-management skills and an apology to Qarabag Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Nottingham Forest got too 'comfortable' in shock EFL Cup loss at Swansea, says Ange Postecoglou. Ange Postecoglou says his Nottingham Forest players got too "comfortable" as Championship side Swansea knocked them out of the Carabao Cup. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +178,7 @@ Football Daily | Aston Villa lose again: what a difference a year makes. In toda
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | Aston Villa lose again: what a difference a year makes. https://www.theguardian.com/football/2025/sep/17/football-daily-newsletter-aston-villa-lose-again
+- bbc.com — Nottingham Forest got too 'comfortable' in shock EFL Cup loss at Swansea, says Ange Postecoglou. https://www.bbc.com/sport/football/articles/cx20ndgpx1wo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +187,13 @@ Football Daily | Aston Villa lose again: what a difference a year makes. In toda
 
 ---
 
-## Story 7: Man United's record revenue explained
-**Slug (lower-third):** Man United's record revenue explained  
-**When:** 2025-09-17 08:03 (America/Winnipeg)  •  **Published:** 2025-09-17 13:03 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 8: Football gossip: Bernardo Silva, Mainoo, Amorim, Rogers, Uche, Araujo
+**Slug (lower-third):** Football gossip: Bernardo Silva, Mainoo, Amorim, Rogers, …  
+**When:** 2025-09-17 17:04 (America/Winnipeg)  •  **Published:** 2025-09-17 22:04 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man United's record revenue explained. Sky Sports senior reporter Rob Dorsett explains why Manchester United are remaining cautious despite achieving record revenue. Relevance to standings and momentum.
+Football gossip: Bernardo Silva, Mainoo, Amorim, Rogers, Uche, Araujo. Juventus will make move for Manchester City's Bernardo Silva as City plot shock move for Manchester United's Kobbie Mainoo and Chelsea retain interest in Aston Villa's Morgan Rogers, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +202,7 @@ Man United's record revenue explained. Sky Sports senior reporter Rob Dorsett ex
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man United's record revenue explained. https://www.skysports.com/watch/video/13432711/explained-manchester-united-record-revenue-but-still-remain-cautious
+- bbc.com — Football gossip: Bernardo Silva, Mainoo, Amorim, Rogers, Uche, Araujo. https://www.bbc.com/sport/football/articles/crrjqzj9e0lo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +211,13 @@ Man United's record revenue explained. Sky Sports senior reporter Rob Dorsett ex
 
 ---
 
-## Story 8: Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form
-**Slug (lower-third):** Champions League: Ex-Newcastle defender Lloyd Kelly's Juv…  
-**When:** 2025-09-17 07:36 (America/Winnipeg)  •  **Published:** 2025-09-17 12:36 (UTC)  
+## Story 9: Conte leans on De Bruyne for Napoli's 'students against teachers' clash with Manchester City
+**Slug (lower-third):** Conte leans on De Bruyne for Napoli's 'students against t…  
+**When:** 2025-09-17 15:18 (America/Winnipeg)  •  **Published:** 2025-09-17 20:18 (UTC)  
 **Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form. Lloyd Kelly lasted just six months at Newcastle - but is threatening to become a cult figure at European superpower Juventus. Relevance to standings and momentum.
+Conte leans on De Bruyne for Napoli's 'students against teachers' clash with Manchester City. Antonio Conte has sought advice from Kevin De Bruyne on how to threaten Manchester City in Napoli's opening Champions League game Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +226,7 @@ Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form. Lloyd Kelly
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form. https://www.bbc.com/sport/football/articles/cly687ylvx2o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Conte leans on De Bruyne for Napoli's 'students against teachers' clash with Manchester City. https://www.theguardian.com/football/2025/sep/17/antonio-conte-napoli-manchester-city-champions-league-students-teachers
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +235,13 @@ Champions League: Ex-Newcastle defender Lloyd Kelly's Juventus form. Lloyd Kelly
 
 ---
 
-## Story 9: Manchester United finances 2024/25: Premier League club achieves record revenues but still makes PS33m loss
-**Slug (lower-third):** Manchester United finances 2024/25: Premier League club a…  
-**When:** 2025-09-17 07:23 (America/Winnipeg)  •  **Published:** 2025-09-17 12:23 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~24s
+## Story 10: Howe taps into Newcastle nostalgia for 'special game' against Barcelona
+**Slug (lower-third):** Howe taps into Newcastle nostalgia for 'special game' aga…  
+**When:** 2025-09-17 13:47 (America/Winnipeg)  •  **Published:** 2025-09-17 18:47 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United finances 2024/25: Premier League club achieves record revenues but still makes PS33m loss. Man Utd accounts for 2024/25 show record revenues of PS666.5m; total operating expenses down 4.5 per cent, and employee expenses by 14.1 per cent, or PS51.5m; more than 250 staff members made redundant in first round of cuts; net losses of PS33m down from PS113m in 2024 Relevance to standings and momentum.
+Howe taps into Newcastle nostalgia for 'special game' against Barcelona. Faustino Asprilla will be in attendance as Eddie Howe aims to prove his side are Champions League contenders Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,31 +250,7 @@ Manchester United finances 2024/25: Premier League club achieves record revenues
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Manchester United finances 2024/25: Premier League club achieves record revenues but still makes PS33m loss. https://www.skysports.com/football/news/12040/13432689/manchester-united-finances-2024-25-premier-league-club-achieves-record-revenues-but-still-makes-33m-loss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Manchester United hit PS666.5m record revenue but lose PS33m amid turmoil
-**Slug (lower-third):** Manchester United hit PS666.5m record revenue but lose PS…  
-**When:** 2025-09-17 07:57 (America/Winnipeg)  •  **Published:** 2025-09-17 12:57 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester United hit PS666.5m record revenue but lose PS33m amid turmoil. Manchester United's chief executive, Omar Berrada, said the performance 'during such a challenging year' demonstrated the club's resilience Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Manchester United hit PS666.5m record revenue but lose PS33m amid turmoil. https://www.theguardian.com/football/2025/sep/17/manchester-united-hit-666m-record-revenue-but-lose-33m-amid-turmoil
+- theguardian.com — Howe taps into Newcastle nostalgia for 'special game' against Barcelona. https://www.theguardian.com/football/2025/sep/17/howe-newcastle-barcelona-champions-league-asprilla-flick-rashford
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
