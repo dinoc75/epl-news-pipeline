@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-18 13:30 (America/Winnipeg)  |  2025-09-18 18:30 (UTC)
+**Generated:** 2025-09-18 20:28 (America/Winnipeg)  |  2025-09-19 01:28 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 36s
+**Estimated total video length:** ~4m 38s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- West Ham boss Graham Potter 'under pressure' ahead of match against Crystal Palace
-- Graham Potter future: West Ham head coach under real pressure with Hammers board expecting a response vs Crystal Palace
-- Jose Mourinho: Benfica appoint former Chelsea and Manchester United boss as new manager
+- Champions League Verdict: Newcastle vs Barcelona | Rashford double edges out Newcastle
+- Premier League predictions: Chris Sutton v The Coral, Starsailor, Picture Parlour & AI
+- Eddie Howe rues missed chances | 'The game swung on the first goal'
 
 ---
 
-### Managerial Moves
+### Transfers
 
-## Story 1: Graham Potter future: West Ham head coach under real pressure with Hammers board expecting a response vs Crystal Palace
-**Slug (lower-third):** Graham Potter future: West Ham head coach under real pres…  
-**When:** 2025-09-18 12:00 (America/Winnipeg)  •  **Published:** 2025-09-18 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+## Story 1: Marcus Rashford: Manchester United loanee praises Barcelona for help in becoming 'better player' after double against Newcastle
+**Slug (lower-third):** Marcus Rashford: Manchester United loanee praises Barcelo…  
+**When:** 2025-09-18 18:11 (America/Winnipeg)  •  **Published:** 2025-09-18 23:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Graham Potter future: West Ham head coach under real pressure with Hammers board expecting a response vs Crystal Palace. West Ham have made a disastrous start to the season with the club sitting in the Premier League relegation zone; the Hammers face Crystal Palace at home this weekend having already lost two London Stadium derbies this term to Spurs and Chelsea, with an aggregate score of 8-1 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Marcus Rashford: Manchester United loanee praises Barcelona for help in becoming 'better player' after double against Newcastle. Barcelona got their Champions League campaign off to a perfect start with a thrilling 2-1 win over Newcastle United at St James Park on Thursday, with Marcus Rashford scoring both goals; the Man Utd loanee says playing in Spain is helping him become a better player Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,81 +31,7 @@ Graham Potter future: West Ham head coach under real pressure with Hammers board
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Graham Potter future: West Ham head coach under real pressure with Hammers board expecting a response vs Crystal Palace. https://www.skysports.com/football/news/12040/13433488/graham-potter-future-west-ham-head-coach-under-real-pressure-with-hammers-board-expecting-a-response-vs-crystal-palace
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Jose Mourinho: Benfica appoint former Chelsea and Manchester United boss as new manager
-**Slug (lower-third):** Jose Mourinho: Benfica appoint former Chelsea and Manches…  
-**When:** 2025-09-18 11:25 (America/Winnipeg)  •  **Published:** 2025-09-18 16:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Jose Mourinho: Benfica appoint former Chelsea and Manchester United boss as new manager. Benfica appoint Jose Mourinho as their new manager on a deal until the summer of 2027. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Jose Mourinho: Benfica appoint former Chelsea and Manchester United boss as new manager. https://www.bbc.com/sport/football/articles/c3w54x0qzwvo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: West Ham identify Slaven Bilic and Nuno as potential Potter replacements
-**Slug (lower-third):** West Ham identify Slaven Bilic and Nuno as potential Pott…  
-**When:** 2025-09-18 08:48 (America/Winnipeg)  •  **Published:** 2025-09-18 13:48 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-West Ham identify Slaven Bilic and Nuno as potential Potter replacements. West Ham will consider bringing back Slaven Bilic if they sack Graham Potter, who is under growing pressure after a poor start to the season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — West Ham identify Slaven Bilic and Nuno as potential Potter replacements. https://www.theguardian.com/football/2025/sep/18/slaven-bilic-nuno-west-ham-list-graham-potter-potential-replacements
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 4: Man City vs Napoli: Will Kevin de Bruyne return to haunt old club?
-**Slug (lower-third):** Man City vs Napoli: Will Kevin de Bruyne return to haunt …  
-**When:** 2025-09-18 01:30 (America/Winnipeg)  •  **Published:** 2025-09-18 06:30 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man City vs Napoli: Will Kevin de Bruyne return to haunt old club?. Kevin de Bruyne did not leave Manchester City by choice this summer - but now he is set to line up against them in the Champions League for Napoli. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Man City vs Napoli: Will Kevin de Bruyne return to haunt old club?. https://www.bbc.com/sport/football/articles/cx20ql96dx5o?at_medium=RSS&at_campaign=rss
+- skysports.com — Marcus Rashford: Manchester United loanee praises Barcelona for help in becoming 'better player' after double against Newcastle. https://www.skysports.com/football/news/12040/13433730/marcus-rashford-manchester-united-loanee-praises-barcelona-for-help-in-becoming-better-player-after-double-against-newcastle
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +42,13 @@ Man City vs Napoli: Will Kevin de Bruyne return to haunt old club?. Kevin de Bru
 
 ### Club Updates
 
-## Story 5: West Ham boss Graham Potter 'under pressure' ahead of match against Crystal Palace
-**Slug (lower-third):** West Ham boss Graham Potter 'under pressure' ahead of mat…  
-**When:** 2025-09-18 12:39 (America/Winnipeg)  •  **Published:** 2025-09-18 17:39 (UTC)  
+## Story 2: Champions League Verdict: Newcastle vs Barcelona | Rashford double edges out Newcastle
+**Slug (lower-third):** Champions League Verdict: Newcastle vs Barcelona | Rashfo…  
+**When:** 2025-09-18 18:52 (America/Winnipeg)  •  **Published:** 2025-09-18 23:52 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham boss Graham Potter 'under pressure' ahead of match against Crystal Palace. Kaveh Solhekol reports on Graham Potters position at West Ham after they have endured a miserable start to the season, with more pressure mounting on the Hammers boss. Relevance to standings and momentum.
+Champions League Verdict: Newcastle vs Barcelona | Rashford double edges out Newcastle. Keith Downie reviews Newcastles 2-1 defeat to Barcelona in the Champions League at St James Park. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +57,7 @@ West Ham boss Graham Potter 'under pressure' ahead of match against Crystal Pala
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — West Ham boss Graham Potter 'under pressure' ahead of match against Crystal Palace. https://www.skysports.com/watch/video/13433526/west-ham-boss-graham-potter-under-pressure-ahead-of-match-against-crystal-palace
+- skysports.com — Champions League Verdict: Newcastle vs Barcelona | Rashford double edges out Newcastle. https://www.skysports.com/watch/video/13433736/champions-league-verdict-newcastle-vs-barcelona-rashford-double-edges-out-newcastle
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +66,13 @@ West Ham boss Graham Potter 'under pressure' ahead of match against Crystal Pala
 
 ---
 
-## Story 6: Atletico and Uefa to review 'spit' footage during Liverpool match
-**Slug (lower-third):** Atletico and Uefa to review 'spit' footage during Liverpo…  
-**When:** 2025-09-18 10:06 (America/Winnipeg)  •  **Published:** 2025-09-18 15:06 (UTC)  
+## Story 3: Premier League predictions: Chris Sutton v The Coral, Starsailor, Picture Parlour & AI
+**Slug (lower-third):** Premier League predictions: Chris Sutton v The Coral, Sta…  
+**When:** 2025-09-18 18:25 (America/Winnipeg)  •  **Published:** 2025-09-18 23:25 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Atletico and Uefa to review 'spit' footage during Liverpool match. Atletico Madrid will launch an investigation into the mass confrontation that marred their 3-2 Champions League loss at Anfield, with a member of their backroom team appearing to spit into the crowd. Relevance to standings and momentum.
+Premier League predictions: Chris Sutton v The Coral, Starsailor, Picture Parlour & AI. BBC Sport football expert Chris Sutton takes on celebrity fans of Liverpool and Everton with his predictions for this weekend's Premier League fixtures. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +81,7 @@ Atletico and Uefa to review 'spit' footage during Liverpool match. Atletico Madr
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Atletico and Uefa to review 'spit' footage during Liverpool match. https://www.bbc.com/sport/football/articles/c5y4knqz11vo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League predictions: Chris Sutton v The Coral, Starsailor, Picture Parlour & AI. https://www.bbc.com/sport/football/articles/cvg98pv6vnvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +90,13 @@ Atletico and Uefa to review 'spit' footage during Liverpool match. Atletico Madr
 
 ---
 
-## Story 7: When Newcastle beat Barcelona in the Champions League
-**Slug (lower-third):** When Newcastle beat Barcelona in the Champions League  
-**When:** 2025-09-18 08:59 (America/Winnipeg)  •  **Published:** 2025-09-18 13:59 (UTC)  
+## Story 4: Eddie Howe rues missed chances | 'The game swung on the first goal'
+**Slug (lower-third):** Eddie Howe rues missed chances | 'The game swung on the f…  
+**When:** 2025-09-18 18:14 (America/Winnipeg)  •  **Published:** 2025-09-18 23:14 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-When Newcastle beat Barcelona in the Champions League. Faustino Asprilla scores a hat-trick against Barcelona on Newcastle United's Champions League debut in 1997. Relevance to standings and momentum.
+Eddie Howe rues missed chances | 'The game swung on the first goal'. Speaking after Newcastles 2-1 defeat to Barcelona in the Champions League, Eddie Howe rued two missed chances in the first-half and suggested the game changed after Marcus Rashford gave the Catalan side the lead in the second-half. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +105,7 @@ When Newcastle beat Barcelona in the Champions League. Faustino Asprilla scores 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — When Newcastle beat Barcelona in the Champions League. https://www.bbc.com/sport/football/videos/cm2dm4vx2klo?at_medium=RSS&at_campaign=rss
+- skysports.com — Eddie Howe rues missed chances | 'The game swung on the first goal'. https://www.skysports.com/watch/video/13433732/eddie-howe-rues-missed-chances-the-game-swung-on-the-first-goal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +114,13 @@ When Newcastle beat Barcelona in the Champions League. Faustino Asprilla scores 
 
 ---
 
-## Story 8: Liverpool late winners: Arne Slot's team's goals analysed with data
-**Slug (lower-third):** Liverpool late winners: Arne Slot's team's goals analysed…  
-**When:** 2025-09-18 08:30 (America/Winnipeg)  •  **Published:** 2025-09-18 13:30 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 5: Premier League: 10 things to look out for this weekend
+**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
+**When:** 2025-09-18 18:00 (America/Winnipeg)  •  **Published:** 2025-09-18 23:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool late winners: Arne Slot's team's goals analysed with data. BBC Sport examines how and why Liverpool's thrilling late winners have come about. Relevance to standings and momentum.
+Premier League: 10 things to look out for this weekend. Robertson looks a better bet for Merseyside derby, a fresh test for Bournemouth, protests at West Ham and more Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +129,7 @@ Liverpool late winners: Arne Slot's team's goals analysed with data. BBC Sport e
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool late winners: Arne Slot's team's goals analysed with data. https://www.bbc.com/sport/football/articles/ce80zmpd2mpo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2025/sep/19/premier-league-10-things-to-look-out-for-this-weekend
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +138,13 @@ Liverpool late winners: Arne Slot's team's goals analysed with data. BBC Sport e
 
 ---
 
-## Story 9: Hungarian Darts Trophy: Michael van Gerwen, Luke Littler, Luke Humphries, and Gerwyn Price headline in Budapest
-**Slug (lower-third):** Hungarian Darts Trophy: Michael van Gerwen, Luke Littler,…  
-**When:** 2025-09-18 07:41 (America/Winnipeg)  •  **Published:** 2025-09-18 12:41 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~26s
+## Story 6: Football Daily - Rashford shines for Barcelona & Haaland breaks more records - BBC Sounds
+**Slug (lower-third):** Football Daily - Rashford shines for Barcelona & Haaland …  
+**When:** 2025-09-18 17:39 (America/Winnipeg)  •  **Published:** 2025-09-18 22:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Hungarian Darts Trophy: Michael van Gerwen, Luke Littler, Luke Humphries, and Gerwyn Price headline in Budapest. Michael van Gerwen could begin his Hungarian Darts Trophy defence against Andrew Gilding, while Luke Littler faces potential Joe Cullen meeting; you can watch the BoyleSports World Grand Prix live on Sky Sports from October 6-12 at the Mattioli Arena, Leicester Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football Daily - Rashford shines for Barcelona & Haaland breaks more records - BBC Sounds. Mark Chapman has reaction as Newcastle lose to Barcelona & Manchester City beat Napoli Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +153,7 @@ Hungarian Darts Trophy: Michael van Gerwen, Luke Littler, Luke Humphries, and Ge
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Hungarian Darts Trophy: Michael van Gerwen, Luke Littler, Luke Humphries, and Gerwyn Price headline in Budapest. https://www.skysports.com/darts/news/12040/13433303/hungarian-darts-trophy-michael-van-gerwen-luke-littler-luke-humphries-and-gerwyn-price-headline-in-budapest
+- bbc.co.uk — Football Daily - Rashford shines for Barcelona & Haaland breaks more records - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0m3qv6s?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +162,13 @@ Hungarian Darts Trophy: Michael van Gerwen, Luke Littler, Luke Humphries, and Ge
 
 ---
 
-## Story 10: FPL gameweek five tips: Captain Mohamed Salah, pick Bryan Mbeumo and Joao Pedro
-**Slug (lower-third):** FPL gameweek five tips: Captain Mohamed Salah, pick Bryan…  
-**When:** 2025-09-18 02:59 (America/Winnipeg)  •  **Published:** 2025-09-18 07:59 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 7: Hull KR coach Willie Peters bullish after League Leaders' Shield triumph and 'relaxed' over form ahead of Super League play-off semi-final
+**Slug (lower-third):** Hull KR coach Willie Peters bullish after League Leaders'…  
+**When:** 2025-09-18 17:30 (America/Winnipeg)  •  **Published:** 2025-09-18 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-FPL gameweek five tips: Captain Mohamed Salah, pick Bryan Mbeumo and Joao Pedro. It's again a choice between Mohamed Salah and Erling Haaland, and facing Arsenal means the Norwegian misses out. Relevance to standings and momentum.
+Hull KR coach Willie Peters bullish after League Leaders' Shield triumph and 'relaxed' over form ahead of Super League play-off semi-final. Hull KR clinched the League Leaders Shield for the first time in the clubs history with a tense 28-0 win over Warrington Wolves; it means they now have the double following their Challenge Cup victory; watch every Super League match live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +177,79 @@ FPL gameweek five tips: Captain Mohamed Salah, pick Bryan Mbeumo and Joao Pedro.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FPL gameweek five tips: Captain Mohamed Salah, pick Bryan Mbeumo and Joao Pedro. https://www.bbc.com/sport/football/articles/cvgj5w2w0e9o?at_medium=RSS&at_campaign=rss
+- skysports.com — Hull KR coach Willie Peters bullish after League Leaders' Shield triumph and 'relaxed' over form ahead of Super League play-off semi-final. https://www.skysports.com/rugby-league/news/12040/13432922/hull-kr-coach-willie-peters-bullish-after-league-leaders-shield-triumph-and-relaxed-over-form-ahead-of-super-league-play-off-semi-final
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Hull KR vs Warrington Wolves: Craven Park ERUPTS as Hull KR crowned League Leaders' Shield winners
+**Slug (lower-third):** Hull KR vs Warrington Wolves: Craven Park ERUPTS as Hull …  
+**When:** 2025-09-18 17:30 (America/Winnipeg)  •  **Published:** 2025-09-18 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Hull KR vs Warrington Wolves: Craven Park ERUPTS as Hull KR crowned League Leaders' Shield winners. Craven Park erupted as Hull KR lifted the trophy after being crowned League Leaders Shield winners Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Hull KR vs Warrington Wolves: Craven Park ERUPTS as Hull KR crowned League Leaders' Shield winners. https://www.skysports.com/watch/video/13433704/hull-kr-vs-warrington-wolves-craven-park-eurupts-as-hull-kr-crowned-league-leaders-shield-winners
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Man City 2-0 Napoli: Erling Haaland's numbers 'unheard of'
+**Slug (lower-third):** Man City 2-0 Napoli: Erling Haaland's numbers 'unheard of'  
+**When:** 2025-09-18 17:27 (America/Winnipeg)  •  **Published:** 2025-09-18 22:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man City 2-0 Napoli: Erling Haaland's numbers 'unheard of'. Erling Haaland became the quickest player to reach 50 goals in the Champions League and his numbers are described as "unheard of" by Phil Foden. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Man City 2-0 Napoli: Erling Haaland's numbers 'unheard of'. https://www.bbc.com/sport/football/articles/cd07dzjdk24o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Football gossip: Casemiro, Vlahovic, Van de Ven, Messi, Chiesa
+**Slug (lower-third):** Football gossip: Casemiro, Vlahovic, Van de Ven, Messi, C…  
+**When:** 2025-09-18 17:17 (America/Winnipeg)  •  **Published:** 2025-09-18 22:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Casemiro, Vlahovic, Van de Ven, Messi, Chiesa. Al-Nassr keen on Casemiro, Manchester United in fight to sign Dusan Vlahovic and Real Madrid interested in Micky van de Ven. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Casemiro, Vlahovic, Van de Ven, Messi, Chiesa. https://www.bbc.com/sport/football/articles/clyq8epyg07o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
