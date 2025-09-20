@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-20 07:38 (America/Winnipeg)  |  2025-09-20 12:38 (UTC)
+**Generated:** 2025-09-20 13:25 (America/Winnipeg)  |  2025-09-20 18:25 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 21s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- West Ham fans protest and call for board changes
-- Newcastle United: Can they win promotion to the WSL this season?
-- Manchester United vs Chelsea: Can you name the XIs from the 2008 Champions League final?
+- 'Vultures are circling' for Graham Potter at West Ham - Shay Given
+- Premier League: Burnley 1-1 Nottingham Forest - Scott Parker reaction
+- Graham Potter future: West Ham boss 'feeling the pressure' after defeat to Crystal Palace
 
 ---
 
-### League & Regulation
+### Managerial Moves
 
-## Story 1: A year on, Manchester City's legal experts have the Premier League in a corner | Barney Ronay
-**Slug (lower-third):** A year on, Manchester City's legal experts have the Premi…  
-**When:** 2025-09-20 02:00 (America/Winnipeg)  •  **Published:** 2025-09-20 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 1: 'Vultures are circling' for Graham Potter at West Ham - Shay Given
+**Slug (lower-third):** 'Vultures are circling' for Graham Potter at West Ham - S…  
+**When:** 2025-09-20 13:09 (America/Winnipeg)  •  **Published:** 2025-09-20 18:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-A year on, Manchester City's legal experts have the Premier League in a corner | Barney Ronay. The charges tribunal is still to report on rule breaches, but does the league really want to discredit its eight-time champions anyway? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+'Vultures are circling' for Graham Potter at West Ham - Shay Given. Final Score's Dion Dublin and Shay Given discuss the "severe pressure" facing West Ham United manager Graham Potter after their 2-1 defeat to Crystal Palace on Saturday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,156 @@ A year on, Manchester City's legal experts have the Premier League in a corner |
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — A year on, Manchester City's legal experts have the Premier League in a corner | Barney Ronay. https://www.theguardian.com/football/2025/sep/20/manchester-city-legal-experts-have-premier-league-in-corner-rules-breaches-charges
+- bbc.com — 'Vultures are circling' for Graham Potter at West Ham - Shay Given. https://www.bbc.com/sport/football/videos/c15kk9nv1pko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Premier League: Burnley 1-1 Nottingham Forest - Scott Parker reaction
+**Slug (lower-third):** Premier League: Burnley 1-1 Nottingham Forest - Scott Par…  
+**When:** 2025-09-20 13:05 (America/Winnipeg)  •  **Published:** 2025-09-20 18:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Burnley 1-1 Nottingham Forest - Scott Parker reaction. Burnley manager Scott Parker praised his side's character and said they produced their "best performance so far" following their 1-1 draw with Nottingham Forest at Turf Moor in the Premier League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Burnley 1-1 Nottingham Forest - Scott Parker reaction. https://www.bbc.com/sport/football/videos/crl553k5847o?at_medium=RSS&at_campaign=rss
+- skysports.com — Burnley 1-1 Nottingham Forest | Premier League highlights. https://www.skysports.com/watch/video/13434961/burnley-1-1-nottingham-forest-premier-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Graham Potter: West Ham head coach facing exit
+**Slug (lower-third):** Graham Potter: West Ham head coach facing exit  
+**When:** 2025-09-20 12:16 (America/Winnipeg)  •  **Published:** 2025-09-20 17:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Graham Potter: West Ham head coach facing exit. West Ham head coach Graham Potter's position is under significant internal scrutiny with the club now considering managerial alternatives. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Graham Potter: West Ham head coach facing exit. https://www.bbc.com/sport/football/articles/cqlzzv1gdlwo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Premier League: Wolves 1-3 Leeds United - Vitor Pereira Match of the Day interview
+**Slug (lower-third):** Premier League: Wolves 1-3 Leeds United - Vitor Pereira M…  
+**When:** 2025-09-20 12:09 (America/Winnipeg)  •  **Published:** 2025-09-20 17:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Premier League: Wolves 1-3 Leeds United - Vitor Pereira Match of the Day interview. Wolverhampton Wanderers' head coach Vitor Pereira was critical of his side's first half performance after they lost 3-1 at home to Leeds United; a defeat that leaves Wolves bottom of the Premier League, with five defeats from five. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Wolves 1-3 Leeds United - Vitor Pereira Match of the Day interview. https://www.bbc.com/sport/football/videos/cx2007e6y0lo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Brighton 2-2 Tottenham: Draw 'best performance of the season' - Thomas Frank
+**Slug (lower-third):** Brighton 2-2 Tottenham: Draw 'best performance of the sea…  
+**When:** 2025-09-20 12:06 (America/Winnipeg)  •  **Published:** 2025-09-20 17:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Brighton 2-2 Tottenham: Draw 'best performance of the season' - Thomas Frank. Tottenham manager Thomas Frank rates a 2-2 Premier League draw with Brighton as his side's "best performance of the season" after they trailed by two goals at the Amex. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Brighton 2-2 Tottenham: Draw 'best performance of the season' - Thomas Frank. https://www.bbc.com/sport/football/videos/cx2ppl4e1ego?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 6: Graham Potter future: West Ham boss 'feeling the pressure' after defeat to Crystal Palace
+**Slug (lower-third):** Graham Potter future: West Ham boss 'feeling the pressure…  
+**When:** 2025-09-20 13:01 (America/Winnipeg)  •  **Published:** 2025-09-20 18:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Graham Potter future: West Ham boss 'feeling the pressure' after defeat to Crystal Palace. West Ham boss Graham Potter has won just three of his last 16 games and the Hammers are winless in eight home matches; Potter said the whole club is feeling the pressure of the situation after Crystal Palace won 2-1 at the London Stadium Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Graham Potter future: West Ham boss 'feeling the pressure' after defeat to Crystal Palace. https://www.skysports.com/football/news/12040/13435087/graham-potter-future-west-ham-boss-feeling-the-pressure-after-defeat-to-crystal-palace
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 7: Burnley 1-1 Nottingham Forest: Ange Postecoglou still in search of first win in charge after Premier League draw at Turf Moor
+**Slug (lower-third):** Burnley 1-1 Nottingham Forest: Ange Postecoglou still in …  
+**When:** 2025-09-20 12:05 (America/Winnipeg)  •  **Published:** 2025-09-20 17:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Burnley 1-1 Nottingham Forest: Ange Postecoglou still in search of first win in charge after Premier League draw at Turf Moor. Ange Postecoglou remains in search of his first win as Nottingham Forest boss after his side were held to a 1-1 draw by Burnley at Turf Moor. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Burnley 1-1 Nottingham Forest: Ange Postecoglou still in search of first win in charge after Premier League draw at Turf Moor. https://www.skysports.com/football/burnley-vs-nottingham-forest/report/531172
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +191,13 @@ A year on, Manchester City's legal experts have the Premier League in a corner |
 
 ### Club Updates
 
-## Story 2: West Ham fans protest and call for board changes
-**Slug (lower-third):** West Ham fans protest and call for board changes  
-**When:** 2025-09-20 07:14 (America/Winnipeg)  •  **Published:** 2025-09-20 12:14 (UTC)  
+## Story 8: Calm at Wolves despite five straight league defeats
+**Slug (lower-third):** Calm at Wolves despite five straight league defeats  
+**When:** 2025-09-20 12:48 (America/Winnipeg)  •  **Published:** 2025-09-20 17:48 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham fans protest and call for board changes. Thousands of West Ham fans protest against how the club is run and call for chairman David Sullivan and vice-chair Karren Brady to leave the Hammers. Relevance to standings and momentum.
+Calm at Wolves despite five straight league defeats. There remains a calm around Wolves, despite losing their opening five Premier League games of the season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +206,7 @@ West Ham fans protest and call for board changes. Thousands of West Ham fans pro
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — West Ham fans protest and call for board changes. https://www.bbc.com/sport/football/articles/cqjeyxe9d1lo?at_medium=RSS&at_campaign=rss
+- bbc.com — Calm at Wolves despite five straight league defeats. https://www.bbc.com/sport/football/articles/c701re41kj8o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +215,13 @@ West Ham fans protest and call for board changes. Thousands of West Ham fans pro
 
 ---
 
-## Story 3: Newcastle United: Can they win promotion to the WSL this season?
-**Slug (lower-third):** Newcastle United: Can they win promotion to the WSL this …  
-**When:** 2025-09-20 03:05 (America/Winnipeg)  •  **Published:** 2025-09-20 08:05 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~21s
+## Story 9: Brighton 2-2 Tottenham: Jan Paul van Hecke's own goal rescues point for Spurs in comeback draw
+**Slug (lower-third):** Brighton 2-2 Tottenham: Jan Paul van Hecke's own goal res…  
+**When:** 2025-09-20 12:00 (America/Winnipeg)  •  **Published:** 2025-09-20 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle United: Can they win promotion to the WSL this season?. From the obscurity of the fourth tier in English football to pushing for a place in the Women's Super League - can Newcastle cap off an eventful few years with promotion? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Brighton 2-2 Tottenham: Jan Paul van Hecke's own goal rescues point for Spurs in comeback draw. Jan Paul van Hecke's late own goal rescued a point for Tottenham as they came from 2-0 down to draw 2-2 at Brighton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +230,7 @@ Newcastle United: Can they win promotion to the WSL this season?. From the obscu
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Newcastle United: Can they win promotion to the WSL this season?. https://www.bbc.com/sport/football/articles/c77drp6z0m7o?at_medium=RSS&at_campaign=rss
+- skysports.com — Brighton 2-2 Tottenham: Jan Paul van Hecke's own goal rescues point for Spurs in comeback draw. https://www.skysports.com/football/brighton-and-hove-albion-vs-tottenham-hotspur/report/531171
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +239,13 @@ Newcastle United: Can they win promotion to the WSL this season?. From the obscu
 
 ---
 
-## Story 4: Manchester United vs Chelsea: Can you name the XIs from the 2008 Champions League final?
-**Slug (lower-third):** Manchester United vs Chelsea: Can you name the XIs from t…  
-**When:** 2025-09-20 01:35 (America/Winnipeg)  •  **Published:** 2025-09-20 06:35 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 10: Kiernan Dewsbury-Hall: Why was Everton midfielder booked in Merseyside derby?
+**Slug (lower-third):** Kiernan Dewsbury-Hall: Why was Everton midfielder booked …  
+**When:** 2025-09-20 11:50 (America/Winnipeg)  •  **Published:** 2025-09-20 16:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United vs Chelsea: Can you name the XIs from the 2008 Champions League final?. Manchester United and Chelsea meet in the Premier League on Saturday, but can you name the line-ups from United's 2008 Champions League final win? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Kiernan Dewsbury-Hall: Why was Everton midfielder booked in Merseyside derby?. BBC Sport's Ask Me Anything team look at why Kiernan Dewsbury-Hall was booked in the Merseyside derby for taking a quick free-kick. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,151 +254,7 @@ Manchester United vs Chelsea: Can you name the XIs from the 2008 Champions Leagu
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester United vs Chelsea: Can you name the XIs from the 2008 Champions League final?. https://www.bbc.com/sport/football/articles/cz69gdeelqvo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Isobel Goodwin shows London City Lionesses can thrive in WSL after liftoff
-**Slug (lower-third):** Isobel Goodwin shows London City Lionesses can thrive in …  
-**When:** 2025-09-20 02:00 (America/Winnipeg)  •  **Published:** 2025-09-20 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Isobel Goodwin shows London City Lionesses can thrive in WSL after liftoff. A first Women's Super League victory at Everton suggests Michele Kang's big-spending club can bridge the gap after their promotion Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Isobel Goodwin shows London City Lionesses can thrive in WSL after liftoff. https://www.theguardian.com/football/2025/sep/20/everton-london-city-lionesses-wsl-womens-football
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Arsenal: Who is new board member Ben Winston?
-**Slug (lower-third):** Arsenal: Who is new board member Ben Winston?  
-**When:** 2025-09-20 01:14 (America/Winnipeg)  •  **Published:** 2025-09-20 06:14 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal: Who is new board member Ben Winston?. The film producer who is friends with James Corden - who is Arsenal's new board member? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Arsenal: Who is new board member Ben Winston?. https://www.bbc.com/sport/football/articles/cj4ywlnr90jo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Alessia Russo: Arsenal and England striker discusses her career and life
-**Slug (lower-third):** Alessia Russo: Arsenal and England striker discusses her …  
-**When:** 2025-09-20 00:26 (America/Winnipeg)  •  **Published:** 2025-09-20 05:26 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Alessia Russo: Arsenal and England striker discusses her career and life. Arsenal and England striker Alessia Russo tells BBC Sport about her time at college, friendships and her retirement dreams. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Alessia Russo: Arsenal and England striker discusses her career and life. https://www.bbc.com/sport/football/videos/cly0jkdevjgo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: WSL highlights: Everton 0-2 London City Lionesses - Isobel Goodwin scores twice
-**Slug (lower-third):** WSL highlights: Everton 0-2 London City Lionesses - Isobe…  
-**When:** 2025-09-20 00:08 (America/Winnipeg)  •  **Published:** 2025-09-20 05:08 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL highlights: Everton 0-2 London City Lionesses - Isobel Goodwin scores twice. Two goals from Isobel Goodwin gives London City Lionesses their first Women's Super League victory as they beat Everton 2-1 at Goodison Park. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — WSL highlights: Everton 0-2 London City Lionesses - Isobel Goodwin scores twice. https://www.bbc.com/sport/videos/c4gvzxl9wrlo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: WSL highlights: Tottenham Hotspur 1-5 Manchester City - Grace Clinton scores on debut
-**Slug (lower-third):** WSL highlights: Tottenham Hotspur 1-5 Manchester City - G…  
-**When:** 2025-09-20 00:06 (America/Winnipeg)  •  **Published:** 2025-09-20 05:06 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL highlights: Tottenham Hotspur 1-5 Manchester City - Grace Clinton scores on debut. New signing Grace Clinton scored on her Manchester City debut as they thrashed Tottenham 5-1 in the Women's Super League, ending the home side's perfect start to the new season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — WSL highlights: Tottenham Hotspur 1-5 Manchester City - Grace Clinton scores on debut. https://www.bbc.com/sport/videos/c20e640kdm4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Ruben Amorim: Not even pope could make me change tactics
-**Slug (lower-third):** Ruben Amorim: Not even pope could make me change tactics  
-**When:** 2025-09-19 16:38 (America/Winnipeg)  •  **Published:** 2025-09-19 21:38 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ruben Amorim: Not even pope could make me change tactics. Manchester United boss Ruben Amorim defended his system at Manchester United in a press conference. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Ruben Amorim: Not even pope could make me change tactics. https://www.bbc.com/sport/videos/czewr642883o?at_medium=RSS&at_campaign=rss
+- bbc.com — Kiernan Dewsbury-Hall: Why was Everton midfielder booked in Merseyside derby?. https://www.bbc.com/sport/football/articles/c23778g02dmo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
