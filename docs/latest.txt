@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-21 07:37 (America/Winnipeg)  |  2025-09-21 12:37 (UTC)
+**Generated:** 2025-09-21 13:26 (America/Winnipeg)  |  2025-09-21 18:26 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 33s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Jamie Carragher: Arsenal can't afford to drop points with Liverpool's form
-- WSL: Smooth one-two puts Brighton up by two against West Ham!
-- WSL Chelsea vs Leicester: Aggie Beever-Jones fires Chelsea ahead
+- Arsenal 1-1 Man City: Gabriel Martinelli cancels out Erling Haaland goal in stoppage time to salvage point
+- 'They're not the team they were' - should Aston Villa be worried after winless start?
+- Newcastle must add goals to clean sheets after another stalemate
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Liverpool's WSL match at Aston Villa postponed after Matt Beard's death
-**Slug (lower-third):** Liverpool's WSL match at Aston Villa postponed after Matt…  
-**When:** 2025-09-21 05:15 (America/Winnipeg)  •  **Published:** 2025-09-21 10:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Matt Beard: Fara Williams and Alex Scott pay tribute to former Liverpool manager
+**Slug (lower-third):** Matt Beard: Fara Williams and Alex Scott pay tribute to f…  
+**When:** 2025-09-21 09:17 (America/Winnipeg)  •  **Published:** 2025-09-21 14:17 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool's WSL match at Aston Villa postponed after Matt Beard's death. Liverpool have postponed their Women's Super League fixture against Aston Villa following the death of former manager Matt Beard on Saturday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Matt Beard: Fara Williams and Alex Scott pay tribute to former Liverpool manager. Fara Williams, who was part of Matt Beard's Liverpool side that won back-to-back Women's Super League titles, pays tribute to the former Liverpool manager after his death aged 47. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Liverpool's WSL match at Aston Villa postponed after Matt Beard's death. Liverpo
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool's WSL match at Aston Villa postponed after Matt Beard's death. https://www.theguardian.com/football/2025/sep/21/liverpool-wsl-match-aston-villa-postponed-matt-beard-death-chelsea-leicester-brighton-west-ham
+- bbc.com — Matt Beard: Fara Williams and Alex Scott pay tribute to former Liverpool manager. https://www.bbc.com/sport/football/videos/crmee8x9d1xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Liverpool's WSL match at Aston Villa postponed after Matt Beard's death. Liverpo
 
 ---
 
-## Story 2: Aston Villa v Liverpool: Women's Super League match postponed following Matt Beard's death
-**Slug (lower-third):** Aston Villa v Liverpool: Women's Super League match postp…  
-**When:** 2025-09-21 04:10 (America/Winnipeg)  •  **Published:** 2025-09-21 09:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Matt Beard: Former Liverpool manager was 'one of a kind', says Fara Williams
+**Slug (lower-third):** Matt Beard: Former Liverpool manager was 'one of a kind',…  
+**When:** 2025-09-21 08:43 (America/Winnipeg)  •  **Published:** 2025-09-21 13:43 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa v Liverpool: Women's Super League match postponed following Matt Beard's death. Liverpool's Women's Super League match at Aston Villa on Sunday is postponed following the death of former manager Matt Beard. Relevance to standings and momentum.
+Matt Beard: Former Liverpool manager was 'one of a kind', says Fara Williams. Fara Williams says Matt Beard was "one of a kind and had the purest of souls" after the former Liverpool manager died on Saturday at the age 47. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Aston Villa v Liverpool: Women's Super League match postponed following Matt Bea
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa v Liverpool: Women's Super League match postponed following Matt Beard's death. https://www.bbc.com/sport/football/articles/ckgee1yd46ko?at_medium=RSS&at_campaign=rss
+- bbc.com — Matt Beard: Former Liverpool manager was 'one of a kind', says Fara Williams. https://www.bbc.com/sport/football/articles/ckgee1yd46ko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -69,7 +69,7 @@ Aston Villa v Liverpool: Women's Super League match postponed following Matt Bea
 ## Story 3: Football gossip: Marc Guehi eyeing up a move to Real Madrid
 **Slug (lower-third):** Football gossip: Marc Guehi eyeing up a move to Real Madr…  
 **When:** 2025-09-20 17:29 (America/Winnipeg)  •  **Published:** 2025-09-20 22:29 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+**Virality score:** 76  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Marc Guehi eyeing up a move to Real Madrid. Crystal Palace defender eyes move to Spanish champions Real Madrid after a potential transfer to Liverpool fell through. Implications for the squad and table.
@@ -84,32 +84,6 @@ Football gossip: Marc Guehi eyeing up a move to Real Madrid. Crystal Palace defe
 - bbc.com — Football gossip: Marc Guehi eyeing up a move to Real Madrid. https://www.bbc.com/sport/football/articles/c4gjjl598p9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 4: Man Utd 2-1 Chelsea: Cole Palmer injured & Robert Sanchez sent off in chaotic first half
-**Slug (lower-third):** Man Utd 2-1 Chelsea: Cole Palmer injured & Robert Sanchez…  
-**When:** 2025-09-20 16:47 (America/Winnipeg)  •  **Published:** 2025-09-20 21:47 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man Utd 2-1 Chelsea: Cole Palmer injured & Robert Sanchez sent off in chaotic first half. One player sent off, two goals conceded, three substitutions and the recurrence of a groin injury for Cole Palmer - how Chelsea's chaotic first half at Old Trafford played out. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Man Utd 2-1 Chelsea: Cole Palmer injured & Robert Sanchez sent off in chaotic first half. https://www.bbc.com/sport/football/articles/cm2zv23g7gko?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
@@ -118,13 +92,13 @@ Man Utd 2-1 Chelsea: Cole Palmer injured & Robert Sanchez sent off in chaotic fi
 
 ### Club Updates
 
-## Story 5: Jamie Carragher: Arsenal can't afford to drop points with Liverpool's form
-**Slug (lower-third):** Jamie Carragher: Arsenal can't afford to drop points with…  
-**When:** 2025-09-21 08:27 (America/Winnipeg)  •  **Published:** 2025-09-21 13:27 (UTC)  
+## Story 4: Arsenal 1-1 Man City: Gabriel Martinelli cancels out Erling Haaland goal in stoppage time to salvage point
+**Slug (lower-third):** Arsenal 1-1 Man City: Gabriel Martinelli cancels out Erli…  
+**When:** 2025-09-21 13:47 (America/Winnipeg)  •  **Published:** 2025-09-21 18:47 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jamie Carragher: Arsenal can't afford to drop points with Liverpool's form. Jamie Carragher believes Arsenals fixture against Man City is huge for their title chances with Liverpools perfect record. Relevance to standings and momentum.
+Arsenal 1-1 Man City: Gabriel Martinelli cancels out Erling Haaland goal in stoppage time to salvage point. Gabriel Martinelli came off the bench and scored a 93rd-minute equaliser to salvage a 1-1 draw for Arsenal against Manchester City at the Emirates Stadium. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +107,7 @@ Jamie Carragher: Arsenal can't afford to drop points with Liverpool's form. Jami
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Jamie Carragher: Arsenal can't afford to drop points with Liverpool's form. https://www.skysports.com/watch/video/13435534/jamie-carragher-arsenal-cant-afford-to-drop-points-with-liverpools-form
+- skysports.com — Arsenal 1-1 Man City: Gabriel Martinelli cancels out Erling Haaland goal in stoppage time to salvage point. https://www.skysports.com/football/arsenal-vs-manchester-city/report/531169
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +116,13 @@ Jamie Carragher: Arsenal can't afford to drop points with Liverpool's form. Jami
 
 ---
 
-## Story 6: WSL: Smooth one-two puts Brighton up by two against West Ham!
-**Slug (lower-third):** WSL: Smooth one-two puts Brighton up by two against West …  
-**When:** 2025-09-21 07:45 (America/Winnipeg)  •  **Published:** 2025-09-21 12:45 (UTC)  
+## Story 5: 'They're not the team they were' - should Aston Villa be worried after winless start?
+**Slug (lower-third):** 'They're not the team they were' - should Aston Villa be …  
+**When:** 2025-09-21 13:13 (America/Winnipeg)  •  **Published:** 2025-09-21 18:13 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL: Smooth one-two puts Brighton up by two against West Ham!. Neat give-and-go football gives Brighton a 2-0 lead against West Ham in the WSL. Relevance to standings and momentum.
+'They're not the team they were' - should Aston Villa be worried after winless start?. No wins, one Premier League goal, and out of the Carabao Cup before the end of September. What has gone wrong at Aston Villa? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +131,7 @@ WSL: Smooth one-two puts Brighton up by two against West Ham!. Neat give-and-go 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — WSL: Smooth one-two puts Brighton up by two against West Ham!. https://www.skysports.com/watch/video/13435478/wsl-smooth-one-two-puts-brighton-up-by-two-against-west-ham
+- bbc.com — 'They're not the team they were' - should Aston Villa be worried after winless start?. https://www.bbc.com/sport/football/articles/cz7rr8y3xv9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +140,13 @@ WSL: Smooth one-two puts Brighton up by two against West Ham!. Neat give-and-go 
 
 ---
 
-## Story 7: WSL Chelsea vs Leicester: Aggie Beever-Jones fires Chelsea ahead
-**Slug (lower-third):** WSL Chelsea vs Leicester: Aggie Beever-Jones fires Chelse…  
-**When:** 2025-09-21 07:13 (America/Winnipeg)  •  **Published:** 2025-09-21 12:13 (UTC)  
+## Story 6: Newcastle must add goals to clean sheets after another stalemate
+**Slug (lower-third):** Newcastle must add goals to clean sheets after another st…  
+**When:** 2025-09-21 13:02 (America/Winnipeg)  •  **Published:** 2025-09-21 18:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL Chelsea vs Leicester: Aggie Beever-Jones fires Chelsea ahead. Aggie Beever-Jones gets Chelsea off to a flying start making it 1-0 at home to Leicester in the WSL. Relevance to standings and momentum.
+Newcastle must add goals to clean sheets after another stalemate. Newcastle United kept a third successive clean sheet on the road against Bournemouth but Eddie Howe's side failed to score in any of those matches. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +155,7 @@ WSL Chelsea vs Leicester: Aggie Beever-Jones fires Chelsea ahead. Aggie Beever-J
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — WSL Chelsea vs Leicester: Aggie Beever-Jones fires Chelsea ahead. https://www.skysports.com/watch/video/13435453/wsl-chelsea-vs-leicester-aggie-beever-jones-fires-chelsea-ahead
+- bbc.com — Newcastle must add goals to clean sheets after another stalemate. https://www.bbc.com/sport/football/articles/cn7668znn1po?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +164,13 @@ WSL Chelsea vs Leicester: Aggie Beever-Jones fires Chelsea ahead. Aggie Beever-J
 
 ---
 
-## Story 8: Viktor Gyokeres: Arsenal striker on his critics and THAT celebration as he prepares to face Manchester City
-**Slug (lower-third):** Viktor Gyokeres: Arsenal striker on his critics and THAT …  
-**When:** 2025-09-21 03:00 (America/Winnipeg)  •  **Published:** 2025-09-21 08:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~25s
+## Story 7: Arsenal vs Man City: David Raya saves another shot from Erling Haaland
+**Slug (lower-third):** Arsenal vs Man City: David Raya saves another shot from E…  
+**When:** 2025-09-21 12:54 (America/Winnipeg)  •  **Published:** 2025-09-21 17:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Viktor Gyokeres: Arsenal striker on his critics and THAT celebration as he prepares to face Manchester City. Arsenals Viktor Gyokeres speaks exclusively to Sky Sports about his start to life with the Gunners; the Swedish striker has three goals in four Premier League games - but still has his critics; watch Arsenal vs Man City live on Sky Sports Super Sunday, kick-off 4.30pm Relevance to standings and momentum.
+Arsenal vs Man City: David Raya saves another shot from Erling Haaland. Erling Haaland takes another shot for Man City but Arsenal stopper David Raya makes the save. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +179,7 @@ Viktor Gyokeres: Arsenal striker on his critics and THAT celebration as he prepa
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Viktor Gyokeres: Arsenal striker on his critics and THAT celebration as he prepares to face Manchester City. https://www.skysports.com/football/news/12040/13434177/viktor-gyokeres-arsenal-striker-on-his-critics-and-that-celebration-as-he-prepares-to-face-manchester-city
+- skysports.com — Arsenal vs Man City: David Raya saves another shot from Erling Haaland. https://www.skysports.com/watch/video/13435862/save-d-raya-57-arsenal-0-1-manchester-city
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +188,13 @@ Viktor Gyokeres: Arsenal striker on his critics and THAT celebration as he prepa
 
 ---
 
-## Story 9: Fulham 3-1 Brentford: Harry Wilson stars again as Cottagers win third straight west London derby
-**Slug (lower-third):** Fulham 3-1 Brentford: Harry Wilson stars again as Cottage…  
-**When:** 2025-09-20 17:03 (America/Winnipeg)  •  **Published:** 2025-09-20 22:03 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 8: Newcastle's Woltemade denied 'clear' penalty at Bournemouth, says Howe
+**Slug (lower-third):** Newcastle's Woltemade denied 'clear' penalty at Bournemou…  
+**When:** 2025-09-21 12:38 (America/Winnipeg)  •  **Published:** 2025-09-21 17:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham 3-1 Brentford: Harry Wilson stars again as Cottagers win third straight west London derby. Harry Wilson once again helped Fulham to come from behind to beat Brentford at Craven Cottage with the hosts' 3-1 victory setting up a second win in a week. Relevance to standings and momentum.
+Newcastle's Woltemade denied 'clear' penalty at Bournemouth, says Howe. Eddie Howe said Robert Jones should have penalised Bafode Diakite for pulling Nick Woltemade as his Newcastle side were held 0-0 at Bournemouth Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,22 +203,22 @@ Fulham 3-1 Brentford: Harry Wilson stars again as Cottagers win third straight w
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Fulham 3-1 Brentford: Harry Wilson stars again as Cottagers win third straight west London derby. https://www.skysports.com/football/fulham-vs-brentford/report/531173
+- theguardian.com — Newcastle's Woltemade denied 'clear' penalty at Bournemouth, says Howe. https://www.theguardian.com/football/2025/sep/21/bournemouth-newcastle-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 10: Bruno Fernandes shows he is Man Utd's leader against Chelsea as Enzo Maresca's decisions raise questions - Premier League hits and misses
-**Slug (lower-third):** Bruno Fernandes shows he is Man Utd's leader against Chel…  
-**When:** 2025-09-20 16:40 (America/Winnipeg)  •  **Published:** 2025-09-20 21:40 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~28s
+## Story 9: Unai Emery calls Aston Villa 'lazy' and calls on them to recover identity after winless run continues at Sunderland
+**Slug (lower-third):** Unai Emery calls Aston Villa 'lazy' and calls on them to …  
+**When:** 2025-09-21 12:35 (America/Winnipeg)  •  **Published:** 2025-09-21 17:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Bruno Fernandes shows he is Man Utd's leader against Chelsea as Enzo Maresca's decisions raise questions - Premier League hits and misses. Plus: Crystal Palace boss Oliver Glasner leaves Graham Potter on the brink at West Ham; Spurs show fight in Brighton comeback; Noah Okafor inspires Leeds victory over winless Wolves; Nottingham Forest see the good and the bad of Ange Postecoglou Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Unai Emery calls Aston Villa 'lazy' and calls on them to recover identity after winless run continues at Sunderland. Unai Emerys Aston Villa side drew 1-1 with Sunderland at the Stadium of Light on Super Sunday; the Spaniards side ended their 427-minute drought without a league goal, but are still winless since 2-0 victory over Spurs on May 16 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,10 +227,34 @@ Bruno Fernandes shows he is Man Utd's leader against Chelsea as Enzo Maresca's d
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Bruno Fernandes shows he is Man Utd's leader against Chelsea as Enzo Maresca's decisions raise questions - Premier League hits and misses. https://www.skysports.com/football/news/12040/13435136/bruno-fernandes-shows-he-is-man-utds-leader-against-chelsea-as-enzo-marescas-decisions-raise-questions-premier-league-hits-and-misses
+- skysports.com — Unai Emery calls Aston Villa 'lazy' and calls on them to recover identity after winless run continues at Sunderland. https://www.skysports.com/football/news/12040/13435831/unai-emery
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: WSL highlights: Chelsea 1-0 Leicester City
+**Slug (lower-third):** WSL highlights: Chelsea 1-0 Leicester City  
+**When:** 2025-09-21 12:00 (America/Winnipeg)  •  **Published:** 2025-09-21 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+WSL highlights: Chelsea 1-0 Leicester City. Chelsea's Aggie Beever-Jones scores the only goal in a 1-0 victory against Leicester City in the Women's Super League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — WSL highlights: Chelsea 1-0 Leicester City. https://www.bbc.com/sport/football/videos/cd722zjpje9o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
