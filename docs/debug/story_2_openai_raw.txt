@@ -1,14 +1,2 @@
-resp_68d4e1fedc748197880d6fff974f0db4079058fe0d593029
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_68d4e1ff91f48197b7eb16414c0a74ec079058fe0d593029
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Good morning —

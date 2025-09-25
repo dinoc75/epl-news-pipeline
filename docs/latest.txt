@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-25 01:31 (America/Winnipeg)  |  2025-09-25 06:31 (UTC)
+**Generated:** 2025-09-25 07:43 (America/Winnipeg)  |  2025-09-25 12:43 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 31s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Today on Sky Sports Racing: Newcastle host eight races
-- Manchester United: When will Senne Lammens get his chance?
-- Liverpool: Ryan Gravenberch's rise to 'one of best midfielders in Europe'
+- William Saliba: Arsenal defender agrees new five-year contract with club until 2030
+- Football - latest news today, results & video highlights - BBC Sport
+- Crystal Palace: Why do the Eagles have triangular corner flags?
 
 ---
 
-### Managerial Moves
+### Transfers
 
-## Story 1: Aston Villa: Villa head into a new era but Unai Emery's position at Premier League club remains strong
-**Slug (lower-third):** Aston Villa: Villa head into a new era but Unai Emery's p…  
-**When:** 2025-09-25 00:13 (America/Winnipeg)  •  **Published:** 2025-09-25 05:13 (UTC)  
+## Story 1: William Saliba: Arsenal defender agrees new five-year contract with club until 2030
+**Slug (lower-third):** William Saliba: Arsenal defender agrees new five-year con…  
+**When:** 2025-09-25 06:54 (America/Winnipeg)  •  **Published:** 2025-09-25 11:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa: Villa head into a new era but Unai Emery's position at Premier League club remains strong. Why Unai Emery's position at Aston Villa remains strong despite the club appointing a new president of football operations. Relevance to standings and momentum.
+William Saliba: Arsenal defender agrees new five-year contract with club until 2030. France defender William Saliba agrees a new five-year contract with Arsenal. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,33 +31,7 @@ Aston Villa: Villa head into a new era but Unai Emery's position at Premier Leag
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa: Villa head into a new era but Unai Emery's position at Premier League club remains strong. https://www.bbc.com/sport/football/articles/cx2301l11d6o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 2: 'Wood has to watch his back'
-**Slug (lower-third):** 'Wood has to watch his back'  
-**When:** 2025-09-24 18:01 (America/Winnipeg)  •  **Published:** 2025-09-24 23:01 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-'Wood has to watch his back'. Are Chris Wood's days as a permanent starter at Nottingham Forest over after Igor Jesus scores two on the club's return to the European stage. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — 'Wood has to watch his back'. https://www.bbc.com/sport/football/articles/cvg911g0q6zo?at_medium=RSS&at_campaign=rss
+- bbc.com — William Saliba: Arsenal defender agrees new five-year contract with club until 2030. https://www.bbc.com/sport/football/articles/cpvldg7rzlpo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +42,13 @@ Aston Villa: Villa head into a new era but Unai Emery's position at Premier Leag
 
 ### Club Updates
 
-## Story 3: Today on Sky Sports Racing: Newcastle host eight races
-**Slug (lower-third):** Today on Sky Sports Racing: Newcastle host eight races  
-**When:** 2025-09-25 02:00 (America/Winnipeg)  •  **Published:** 2025-09-25 07:00 (UTC)  
+## Story 2: Football - latest news today, results & video highlights - BBC Sport
+**Slug (lower-third):** Football - latest news today, results & video highlights …  
+**When:** 2025-09-25 06:21 (America/Winnipeg)  •  **Published:** 2025-09-25 11:21 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Newcastle host eight races. In today's feature, last-time-out scorers Malachy's Wish and Tiger Power will be hoping to double up in an intriguing Novice event at Newcastle. We have eight contests in total from Gosforth Park, live on Sky Sports Racing from 5.00pm. Relevance to standings and momentum.
+Football - latest news today, results & video highlights - BBC Sport. Football news, scores, results, fixtures and videos from the Premier League, Championship, European and World Football from the BBC. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +57,7 @@ Today on Sky Sports Racing: Newcastle host eight races. In today's feature, last
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Newcastle host eight races. https://www.skysports.com/racing/news/12040/13436798/today-on-sky-sports-racing-newcastle-host-eight-races
+- bbc.co.uk — Football - latest news today, results & video highlights - BBC Sport. https://www.bbc.co.uk/sport/football
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +66,13 @@ Today on Sky Sports Racing: Newcastle host eight races. In today's feature, last
 
 ---
 
-## Story 4: Manchester United: When will Senne Lammens get his chance?
-**Slug (lower-third):** Manchester United: When will Senne Lammens get his chance?  
-**When:** 2025-09-25 01:16 (America/Winnipeg)  •  **Published:** 2025-09-25 06:16 (UTC)  
+## Story 3: Crystal Palace: Why do the Eagles have triangular corner flags?
+**Slug (lower-third):** Crystal Palace: Why do the Eagles have triangular corner …  
+**When:** 2025-09-25 06:09 (America/Winnipeg)  •  **Published:** 2025-09-25 11:09 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: When will Senne Lammens get his chance?. Manchester United's APS18.1m signing Senne Lammens is still waiting for his debut, BBC Sport's Simon Stone takes a closer look at when his chance might come. Relevance to standings and momentum.
+Crystal Palace: Why do the Eagles have triangular corner flags?. BBC Sport's Ask Me Anything team looks at why Crystal Palace are using triangle-shaped corner flags this season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +81,7 @@ Manchester United: When will Senne Lammens get his chance?. Manchester United's 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester United: When will Senne Lammens get his chance?. https://www.bbc.com/sport/football/articles/ce9r1x9148ro?at_medium=RSS&at_campaign=rss
+- bbc.com — Crystal Palace: Why do the Eagles have triangular corner flags?. https://www.bbc.com/sport/football/articles/c78nv3j9ll4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +90,13 @@ Manchester United: When will Senne Lammens get his chance?. Manchester United's 
 
 ---
 
-## Story 5: Liverpool: Ryan Gravenberch's rise to 'one of best midfielders in Europe'
-**Slug (lower-third):** Liverpool: Ryan Gravenberch's rise to 'one of best midfie…  
-**When:** 2025-09-25 01:01 (America/Winnipeg)  •  **Published:** 2025-09-25 06:01 (UTC)  
+## Story 4: What makes a good women's football stadium? Everton point the way
+**Slug (lower-third):** What makes a good women's football stadium? Everton point…  
+**When:** 2025-09-25 05:37 (America/Winnipeg)  •  **Published:** 2025-09-25 10:37 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool: Ryan Gravenberch's rise to 'one of best midfielders in Europe'. Midfielder Ryan Gravenberch has played a starring role for Liverpool this season. BBC Sport's chief football writer Phil McNulty charts his rise. Relevance to standings and momentum.
+What makes a good women's football stadium? Everton point the way. Stadiums have traditionally catered for men but the growth of the women's game is rapidly changing the landscape Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +105,7 @@ Liverpool: Ryan Gravenberch's rise to 'one of best midfielders in Europe'. Midfi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool: Ryan Gravenberch's rise to 'one of best midfielders in Europe'. https://www.bbc.com/sport/football/articles/crmedk29jzwo?at_medium=RSS&at_campaign=rss
+- theguardian.com — What makes a good women's football stadium? Everton point the way. https://www.theguardian.com/football/2025/sep/25/womens-football-stadiums-goodison-park-everton
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,35 +114,10 @@ Liverpool: Ryan Gravenberch's rise to 'one of best midfielders in Europe'. Midfi
 
 ---
 
-## Story 6: Tottenham 'disgusted' by racist abuse on social media of England's Jessica Naz
-**Slug (lower-third):** Tottenham 'disgusted' by racist abuse on social media of …  
-**When:** 2025-09-24 17:30 (America/Winnipeg)  •  **Published:** 2025-09-24 22:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham 'disgusted' by racist abuse on social media of England's Jessica Naz. Tottenham condemned a 'cowardly act' after their winger Jessica Naz said on Instagram that she 'was subjected to racial abuse in my DMs' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Tottenham 'disgusted' by racist abuse on social media of England's Jessica Naz. https://www.theguardian.com/football/2025/sep/24/tottenham-women-disgusted-by-racist-abuse-on-social-media-of-jessica-naz
-- bbc.com — Jessica Naz: Tottenham forward condemns racist abuse on social media. https://www.bbc.com/sport/football/articles/clyd5187r8po?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Huddersfield 0-2 Man City: Heskey brothers make their debuts
+## Story 5: Huddersfield 0-2 Man City: Heskey brothers make their debuts
 **Slug (lower-third):** Huddersfield 0-2 Man City: Heskey brothers make their deb…  
-**When:** 2025-09-24 18:41 (America/Winnipeg)  •  **Published:** 2025-09-24 23:41 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**When:** 2025-09-25 05:09 (America/Winnipeg)  •  **Published:** 2025-09-25 10:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Huddersfield 0-2 Man City: Heskey brothers make their debuts. Brothers Reigan and Jaden Heskey make their debuts in Manchester City's Carabao Cup third-round victory at Huddersfield. Relevance to standings and momentum.
@@ -189,13 +138,13 @@ Huddersfield 0-2 Man City: Heskey brothers make their debuts. Brothers Reigan an
 
 ---
 
-## Story 8: Carabao Cup: Newcastle boss Eddie Howe says players will be 'looking over their shoulders'
-**Slug (lower-third):** Carabao Cup: Newcastle boss Eddie Howe says players will …  
-**When:** 2025-09-24 18:01 (America/Winnipeg)  •  **Published:** 2025-09-24 23:01 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 6: Newcastle: Lewis Miley backed by Joelinton and Eddie Howe after 'stick' from online critics
+**Slug (lower-third):** Newcastle: Lewis Miley backed by Joelinton and Eddie Howe…  
+**When:** 2025-09-25 05:01 (America/Winnipeg)  •  **Published:** 2025-09-25 10:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Carabao Cup: Newcastle boss Eddie Howe says players will be 'looking over their shoulders'. Newcastle United's strength and depth was on show as the Carabao Cup holders beat Bradford City 4-1 at St James' Park Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Newcastle: Lewis Miley backed by Joelinton and Eddie Howe after 'stick' from online critics. Newcastle United youngster Lewis Miley is backed by Joelinton and Eddie Howe after criticism from small minority of social media users. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -204,7 +153,7 @@ Carabao Cup: Newcastle boss Eddie Howe says players will be 'looking over their 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Carabao Cup: Newcastle boss Eddie Howe says players will be 'looking over their shoulders'. https://www.bbc.com/sport/football/articles/c99g77z4l8xo?at_medium=RSS&at_campaign=rss
+- bbc.com — Newcastle: Lewis Miley backed by Joelinton and Eddie Howe after 'stick' from online critics. https://www.bbc.com/sport/football/articles/c20v8l4vgr0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -213,13 +162,13 @@ Carabao Cup: Newcastle boss Eddie Howe says players will be 'looking over their 
 
 ---
 
-## Story 9: Kobbie Mainoo is still prepared to leave Manchester United despite fresh talks with Ruben Amorim - Paper Talk
-**Slug (lower-third):** Kobbie Mainoo is still prepared to leave Manchester Unite…  
-**When:** 2025-09-24 17:55 (America/Winnipeg)  •  **Published:** 2025-09-24 22:55 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~23s
+## Story 7: Mikel Arteta can use Eberechi Eze to solve Arsenal's creativity issue amid accusations of caution - The Radar
+**Slug (lower-third):** Mikel Arteta can use Eberechi Eze to solve Arsenal's crea…  
+**When:** 2025-09-25 04:38 (America/Winnipeg)  •  **Published:** 2025-09-25 09:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Kobbie Mainoo is still prepared to leave Manchester United despite fresh talks with Ruben Amorim - Paper Talk. Plus: Casemiro among names that are set to leave Manchester United while Harry Maguire is set to prolong his stay at Old Trafford; Man Utd reportedly agree to sign Colombian wonderkid Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Mikel Arteta can use Eberechi Eze to solve Arsenal's creativity issue amid accusations of caution - The Radar. Eberechi Eze scored his first goal for Arsenal against Port Vale so will Mikel Arteta unleash him from the start against Newcastle on Super Sunday? The Radar column assesses the accusations of cautiousness aimed at the Gunners boss and his sides creativity issue Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -228,7 +177,7 @@ Kobbie Mainoo is still prepared to leave Manchester United despite fresh talks w
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Kobbie Mainoo is still prepared to leave Manchester United despite fresh talks with Ruben Amorim - Paper Talk. https://www.skysports.com/football/news/12040/13437624/kobbie-mainoo-is-still-prepared-to-leave-manchester-united-despite-fresh-talks-with-ruben-amorim-paper-talk
+- skysports.com — Mikel Arteta can use Eberechi Eze to solve Arsenal's creativity issue amid accusations of caution - The Radar. https://www.skysports.com/football/news/12040/13437749/mikel-arteta-can-use-eberechi-eze-to-solve-arsenals-creativity-issue-amid-accusations-of-caution-the-radar
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -237,13 +186,13 @@ Kobbie Mainoo is still prepared to leave Manchester United despite fresh talks w
 
 ---
 
-## Story 10: Carabao Cup fourth-round draw: Newcastle vs Tottenham, Arsenal vs Brighton, Liverpool vs Crystal Palace, Chelsea vs Wolves among ties
-**Slug (lower-third):** Carabao Cup fourth-round draw: Newcastle vs Tottenham, Ar…  
-**When:** 2025-09-24 17:40 (America/Winnipeg)  •  **Published:** 2025-09-24 22:40 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~28s
+## Story 8: FPL gameweek six tips: Captain Erling Haaland and go all in on Manchester City
+**Slug (lower-third):** FPL gameweek six tips: Captain Erling Haaland and go all …  
+**When:** 2025-09-25 02:56 (America/Winnipeg)  •  **Published:** 2025-09-25 07:56 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Carabao Cup fourth-round draw: Newcastle vs Tottenham, Arsenal vs Brighton, Liverpool vs Crystal Palace, Chelsea vs Wolves among ties. Four all-Premier League ties as Newcastle take on Spurs, Arsenal host Brighton, Liverpool face Palace and Wolves welcome Chelsea; three Welsh teams have reached the fourth round for first time; Round Four ties will take place during the week commencing October 27 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+FPL gameweek six tips: Captain Erling Haaland and go all in on Manchester City. With a juicy fixture at home to Burnley, it's time to load up on Manchester City players and perhaps use the Triple Captain chip on Erling Haaland. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -252,7 +201,55 @@ Carabao Cup fourth-round draw: Newcastle vs Tottenham, Arsenal vs Brighton, Live
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Carabao Cup fourth-round draw: Newcastle vs Tottenham, Arsenal vs Brighton, Liverpool vs Crystal Palace, Chelsea vs Wolves among ties. https://www.skysports.com/football/news/12040/13437346/carabao-cup-fourth-round-draw-newcastle-vs-tottenham-arsenal-vs-brighton-liverpool-vs-crystal-palace-chelsea-vs-wolves-among-ties
+- bbc.com — FPL gameweek six tips: Captain Erling Haaland and go all in on Manchester City. https://www.bbc.com/sport/football/articles/c5y4pn97z5go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Today on Sky Sports Racing: Newcastle host eight races
+**Slug (lower-third):** Today on Sky Sports Racing: Newcastle host eight races  
+**When:** 2025-09-25 02:00 (America/Winnipeg)  •  **Published:** 2025-09-25 07:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Today on Sky Sports Racing: Newcastle host eight races. In today's feature, last-time-out scorers Malachy's Wish and Tiger Power will be hoping to double up in an intriguing Novice event at Newcastle. We have eight contests in total from Gosforth Park, live on Sky Sports Racing from 5.00pm. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Today on Sky Sports Racing: Newcastle host eight races. https://www.skysports.com/racing/news/12040/13436798/today-on-sky-sports-racing-newcastle-host-eight-races
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Manchester United: When will Senne Lammens get his chance?
+**Slug (lower-third):** Manchester United: When will Senne Lammens get his chance?  
+**When:** 2025-09-25 01:16 (America/Winnipeg)  •  **Published:** 2025-09-25 06:16 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United: When will Senne Lammens get his chance?. Manchester United's APS18.1m signing Senne Lammens is still waiting for his debut, BBC Sport's Simon Stone takes a closer look at when his chance might come. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester United: When will Senne Lammens get his chance?. https://www.bbc.com/sport/football/articles/ce9r1x9148ro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
