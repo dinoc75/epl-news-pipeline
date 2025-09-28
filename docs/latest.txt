@@ -1,25 +1,49 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-28 07:37 (America/Winnipeg)  |  2025-09-28 12:37 (UTC)
+**Generated:** 2025-09-28 13:26 (America/Winnipeg)  |  2025-09-28 18:26 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 26s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Ruben Amorim: Man Utd boss still has support and 'not concerned' about future
-- WSL FREE STREAMS: Watch Leicester vs Tottenham Hotspur, Man City vs London City Lionesses and Brighton vs Everton
-- Today on Sky Sports Racing: Ffos Las, Newcastle and Craon
+- Newcastle 1-2 Arsenal | Premier League highlights
+- Newcastle vs Arsenal: Gabriel heads in 90+6 minute winner for Gunners!
+- VAR: Fulham boss Marco Silva criticises 'impossible' calls
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Ruben Amorim: Man Utd boss still has support and 'not concerned' about future
+## Story 1: West Ham: The inside story on Graham Potter's sacking and Nuno Espirito Santo's swift appointment
+**Slug (lower-third):** West Ham: The inside story on Graham Potter's sacking and…  
+**When:** 2025-09-28 07:39 (America/Winnipeg)  •  **Published:** 2025-09-28 12:39 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+West Ham: The inside story on Graham Potter's sacking and Nuno Espirito Santo's swift appointment. Nuno Espirito Santo was appointed West Ham boss just 18 days after Nottingham Forest axe; Hammers sacked Graham Potter after nine months in charge with club second bottom of Premier League; Watch Everton vs West Ham live on Sky Sports on Monday Night Football; kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — West Ham: The inside story on Graham Potter's sacking and Nuno Espirito Santo's swift appointment. https://www.skysports.com/football/news/12040/13440165/west-ham-the-inside-story-on-graham-potters-sacking-and-nuno-espirito-santos-swift-appointment
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Ruben Amorim: Man Utd boss still has support and 'not concerned' about future
 **Slug (lower-third):** Ruben Amorim: Man Utd boss still has support and 'not con…  
 **When:** 2025-09-28 07:04 (America/Winnipeg)  •  **Published:** 2025-09-28 12:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Ruben Amorim: Man Utd boss still has support and 'not concerned' about future. Manchester United head coach Ruben Amorim sees a step forward followed by another one back with defeat at Brentford. Relevance to standings and momentum.
@@ -40,13 +64,15 @@ Ruben Amorim: Man Utd boss still has support and 'not concerned' about future. M
 
 ---
 
-## Story 2: Graham Potter: Where next for ex-England contender after West Ham sacking?
-**Slug (lower-third):** Graham Potter: Where next for ex-England contender after …  
-**When:** 2025-09-28 00:39 (America/Winnipeg)  •  **Published:** 2025-09-28 05:39 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+### Club Updates
+
+## Story 3: Newcastle 1-2 Arsenal | Premier League highlights
+**Slug (lower-third):** Newcastle 1-2 Arsenal | Premier League highlights  
+**When:** 2025-09-28 13:49 (America/Winnipeg)  •  **Published:** 2025-09-28 18:49 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Graham Potter: Where next for ex-England contender after West Ham sacking?. Graham Potter's sacking by West Ham caps a spectacular fall from grace for a man once touted as a future England manager, writes Phil McNulty. Relevance to standings and momentum.
+Newcastle 1-2 Arsenal | Premier League highlights. FREE TO WATCH: Highlights from Newcastle United's match against Arsenal in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +81,7 @@ Graham Potter: Where next for ex-England contender after West Ham sacking?. Grah
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Graham Potter: Where next for ex-England contender after West Ham sacking?. https://www.bbc.com/sport/football/articles/cd63zv6y77lo?at_medium=RSS&at_campaign=rss
+- skysports.com — Newcastle 1-2 Arsenal | Premier League highlights. https://www.skysports.com/watch/video/13440575/newcastle-1-2-arsenal-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +90,13 @@ Graham Potter: Where next for ex-England contender after West Ham sacking?. Grah
 
 ---
 
-## Story 3: Premier League Highlights: Nottingham Forest 0-1 Sunderland
-**Slug (lower-third):** Premier League Highlights: Nottingham Forest 0-1 Sunderla…  
-**When:** 2025-09-27 16:30 (America/Winnipeg)  •  **Published:** 2025-09-27 21:30 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
+## Story 4: Newcastle vs Arsenal: Gabriel heads in 90+6 minute winner for Gunners!
+**Slug (lower-third):** Newcastle vs Arsenal: Gabriel heads in 90+6 minute winner…  
+**When:** 2025-09-28 13:39 (America/Winnipeg)  •  **Published:** 2025-09-28 18:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League Highlights: Nottingham Forest 0-1 Sunderland. Ange Postecoglou's difficult start to life as Nottingham Forest head coach continues as Omar Alderete's first-half goal gives Sunderland victory at the City Ground. Relevance to standings and momentum.
+Newcastle vs Arsenal: Gabriel heads in 90+6 minute winner for Gunners!. Gabriel scored a stoppage-time winner for Arsenal following a brilliant corner from Martin Odegaard in the Gunners Premier League clash with Newcastle. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,24 +105,22 @@ Premier League Highlights: Nottingham Forest 0-1 Sunderland. Ange Postecoglou's 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League Highlights: Nottingham Forest 0-1 Sunderland. https://www.bbc.com/sport/football/videos/cn0re43ex18o?at_medium=RSS&at_campaign=rss
+- skysports.com — Newcastle vs Arsenal: Gabriel heads in 90+6 minute winner for Gunners!. https://www.skysports.com/watch/video/13440562/goal-gabriel-906-newcastle-1-2-arsenal
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### Injuries
-
-## Story 4: Premier League Highlights: Tottenham Hotspur 1-1 Wolverhampton Wanderers
-**Slug (lower-third):** Premier League Highlights: Tottenham Hotspur 1-1 Wolverha…  
-**When:** 2025-09-27 16:33 (America/Winnipeg)  •  **Published:** 2025-09-27 21:33 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 5: VAR: Fulham boss Marco Silva criticises 'impossible' calls
+**Slug (lower-third):** VAR: Fulham boss Marco Silva criticises 'impossible' calls  
+**When:** 2025-09-28 12:47 (America/Winnipeg)  •  **Published:** 2025-09-28 17:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League Highlights: Tottenham Hotspur 1-1 Wolverhampton Wanderers. Joao Palhinha rescues a point for Tottenham Hotspur with an injury-time equaliser against Wolves. Potential impact on the lineup and upcoming fixtures.
+VAR: Fulham boss Marco Silva criticises 'impossible' calls. Fulham boss Marco Silva said it is "impossible" to understand the video assistant referee decisions that went against his side during Sunday's 3-1 loss at Aston Villa. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,21 +129,115 @@ Premier League Highlights: Tottenham Hotspur 1-1 Wolverhampton Wanderers. Joao P
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League Highlights: Tottenham Hotspur 1-1 Wolverhampton Wanderers. https://www.bbc.com/sport/football/videos/c5yv50xej0eo?at_medium=RSS&at_campaign=rss
+- bbc.com — VAR: Fulham boss Marco Silva criticises 'impossible' calls. https://www.bbc.com/sport/football/articles/c20vzyd105ro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### Club Updates
+## Story 6: Aston Villa: Unai Emery's side up and running in Premier League after Ollie Watkins ends goal drought
+**Slug (lower-third):** Aston Villa: Unai Emery's side up and running in Premier …  
+**When:** 2025-09-28 12:33 (America/Winnipeg)  •  **Published:** 2025-09-28 17:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
-## Story 5: WSL FREE STREAMS: Watch Leicester vs Tottenham Hotspur, Man City vs London City Lionesses and Brighton vs Everton
+### Presenter Script (3–5 sentences)
+Aston Villa: Unai Emery's side up and running in Premier League after Ollie Watkins ends goal drought. Ollie Watkins ends a goal drought and Unai Emery ends a league victory drought. For Villa, there is hope that they might just have found a way out of their slump. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Aston Villa: Unai Emery's side up and running in Premier League after Ollie Watkins ends goal drought. https://www.bbc.com/sport/football/articles/cwyw828r298o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: WSL roundup: Chelsea stay unbeaten as Agyemang helps Brighton to narrow win
+**Slug (lower-third):** WSL roundup: Chelsea stay unbeaten as Agyemang helps Brig…  
+**When:** 2025-09-28 12:03 (America/Winnipeg)  •  **Published:** 2025-09-28 17:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+WSL roundup: Chelsea stay unbeaten as Agyemang helps Brighton to narrow win. Chelsea maintained their winning start to the WSL season as they scored three times in the space of seven first-half minutes to blow away West Ham Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — WSL roundup: Chelsea stay unbeaten as Agyemang helps Brighton to narrow win. https://www.theguardian.com/football/2025/sep/28/wsl-roundup-chelsea-west-ham-brighton-everton
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: WSL Highlights: West Ham 0-4 Chelsea
+**Slug (lower-third):** WSL Highlights: West Ham 0-4 Chelsea  
+**When:** 2025-09-28 10:55 (America/Winnipeg)  •  **Published:** 2025-09-28 15:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+WSL Highlights: West Ham 0-4 Chelsea. Chelsea maintain their winning start to the WSL season with a convincing 4-0 win against 10-player West Ham to move back to the top of the table. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — WSL Highlights: West Ham 0-4 Chelsea. https://www.bbc.com/sport/football/videos/cvg48lp1809o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Ella Toone leads Manchester United to WSL win over lowly Liverpool
+**Slug (lower-third):** Ella Toone leads Manchester United to WSL win over lowly …  
+**When:** 2025-09-28 08:24 (America/Winnipeg)  •  **Published:** 2025-09-28 13:24 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ella Toone leads Manchester United to WSL win over lowly Liverpool. Ella Toone struck Manchester United's second goal in St Helens after Hinata Miyazawa's opener to leave their rivals with no points from three games Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Ella Toone leads Manchester United to WSL win over lowly Liverpool. https://www.theguardian.com/football/2025/sep/28/liverpool-manchester-united-wsl-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: WSL FREE STREAMS: Watch Leicester vs Tottenham Hotspur, Man City vs London City Lionesses and Brighton vs Everton
 **Slug (lower-third):** WSL FREE STREAMS: Watch Leicester vs Tottenham Hotspur, M…  
 **When:** 2025-09-28 06:50 (America/Winnipeg)  •  **Published:** 2025-09-28 11:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+**Virality score:** 96  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
 WSL FREE STREAMS: Watch Leicester vs Tottenham Hotspur, Man City vs London City Lionesses and Brighton vs Everton. Watch Leicester vs Tottenham Hotspur, Man City vs London City Lionesses and Brighton vs Everton via free live streams below; Liverpool vs Man Utd is available on Sky Sports Main Event, Sky Sports Football and Sky Showcase Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -135,126 +253,6 @@ WSL FREE STREAMS: Watch Leicester vs Tottenham Hotspur, Man City vs London City 
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Today on Sky Sports Racing: Ffos Las, Newcastle and Craon
-**Slug (lower-third):** Today on Sky Sports Racing: Ffos Las, Newcastle and Craon  
-**When:** 2025-09-28 02:00 (America/Winnipeg)  •  **Published:** 2025-09-28 07:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Ffos Las, Newcastle and Craon. In today's feature, Newcastle is the scene for a competitive seven-furlong handicap where Oliver Show and Golden Mind are chasing more course and distance success. We also have competitive flat action from Ffos Las and Craon, live on Sky Sports Racing from 11.30am. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Ffos Las, Newcastle and Craon. https://www.skysports.com/racing/news/12040/13438707/today-on-sky-sports-racing-ffos-las-newcastle-and-craon
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Newcastle v Arsenal: What's happening with giants?
-**Slug (lower-third):** Newcastle v Arsenal: What's happening with giants?  
-**When:** 2025-09-28 00:26 (America/Winnipeg)  •  **Published:** 2025-09-28 05:26 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Newcastle v Arsenal: What's happening with giants?. Newcastle United have only scored one goal from set-plays this season and boss Eddie Howe knows his towering side have "work to do". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Newcastle v Arsenal: What's happening with giants?. https://www.bbc.com/sport/football/articles/c04qv0x010ro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Palhinha to Spurs rescue in the 94th minute!
-**Slug (lower-third):** Palhinha to Spurs rescue in the 94th minute!  
-**When:** 2025-09-27 16:58 (America/Winnipeg)  •  **Published:** 2025-09-27 21:58 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Palhinha to Spurs rescue in the 94th minute!. Joao Palhinha scores a late equaliser for Tottenham against Wolves! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Palhinha to Spurs rescue in the 94th minute!. https://www.skysports.com/watch/video/13439915/palhinha-to-spurs-rescue-in-the-94th-minute
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League Highlights: Leeds 2-2 Bournemouth
-**Slug (lower-third):** Premier League Highlights: Leeds 2-2 Bournemouth  
-**When:** 2025-09-27 16:30 (America/Winnipeg)  •  **Published:** 2025-09-27 21:30 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League Highlights: Leeds 2-2 Bournemouth. Eli Kroupi scores a stoppage-time equaliser to salvage a Premier League point for Bournemouth at Leeds United. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League Highlights: Leeds 2-2 Bournemouth. https://www.bbc.com/sport/football/videos/czxw7dp5y0wo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League Highlights: Manchester City 5-1 Burnley
-**Slug (lower-third):** Premier League Highlights: Manchester City 5-1 Burnley  
-**When:** 2025-09-27 16:30 (America/Winnipeg)  •  **Published:** 2025-09-27 21:30 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League Highlights: Manchester City 5-1 Burnley. Erling Haaland scores twice late on and Maxime Esteve inadvertently scores two own goals to help Manchester City to a thumping Premier League victory over Burnley. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League Highlights: Manchester City 5-1 Burnley. https://www.bbc.com/sport/football/videos/cd63z0xgz1jo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
