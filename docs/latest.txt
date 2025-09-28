@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-27 13:26 (America/Winnipeg)  |  2025-09-27 18:26 (UTC)
+**Generated:** 2025-09-27 20:43 (America/Winnipeg)  |  2025-09-28 01:43 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 20s
@@ -8,21 +8,21 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Alderete silences City Ground with Sunderland opener!
-- Leeds United 2-2 Bournemouth: Andoni Iraola post-match interview and reaction
-- Man City 5-1 Burnley: How have Pep Guardiola's side turned form around?
+- Match of the Day: Micah Richards analyses how Jeremy Doku's performance against Burnley
+- Match of the Day: Micah Richards analyses how Brentford targeted Manchester United's 'defensive weaknesses'
+- Match of the Day analysis: How Crystal Palace impressed against Liverpool
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Leeds United 2-2 Bournemouth: Andoni Iraola post-match interview and reaction
-**Slug (lower-third):** Leeds United 2-2 Bournemouth: Andoni Iraola post-match in…  
-**When:** 2025-09-27 12:47 (America/Winnipeg)  •  **Published:** 2025-09-27 17:47 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Premier League Highlights: Nottingham Forest 0-1 Sunderland
+**Slug (lower-third):** Premier League Highlights: Nottingham Forest 0-1 Sunderla…  
+**When:** 2025-09-27 16:30 (America/Winnipeg)  •  **Published:** 2025-09-27 21:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leeds United 2-2 Bournemouth: Andoni Iraola post-match interview and reaction. Bournemouth manager Adoni Iraola says Eli Kroupi is "technically a lovely player" after the 19-year-old came off the bench to salvage a draw for The Cherries in an "uncomfortable" game against Leeds at Elland Road. Relevance to standings and momentum.
+Premier League Highlights: Nottingham Forest 0-1 Sunderland. Ange Postecoglou's difficult start to life as Nottingham Forest head coach continues as Omar Alderete's first-half goal gives Sunderland victory at the City Ground. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Leeds United 2-2 Bournemouth: Andoni Iraola post-match interview and reaction. B
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Leeds United 2-2 Bournemouth: Andoni Iraola post-match interview and reaction. https://www.bbc.com/sport/football/videos/cly1g29ey11o?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League Highlights: Nottingham Forest 0-1 Sunderland. https://www.bbc.com/sport/football/videos/cn0re43ex18o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,15 @@ Leeds United 2-2 Bournemouth: Andoni Iraola post-match interview and reaction. B
 
 ---
 
-## Story 2: Man City 5-1 Burnley: How have Pep Guardiola's side turned form around?
-**Slug (lower-third):** Man City 5-1 Burnley: How have Pep Guardiola's side turne…  
-**When:** 2025-09-27 12:47 (America/Winnipeg)  •  **Published:** 2025-09-27 17:47 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+### League & Regulation
+
+## Story 2: Premier League Highlights: Chelsea 1-3 Brighton
+**Slug (lower-third):** Premier League Highlights: Chelsea 1-3 Brighton  
+**When:** 2025-09-27 16:30 (America/Winnipeg)  •  **Published:** 2025-09-27 21:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City 5-1 Burnley: How have Pep Guardiola's side turned form around?. After the disappointing end to August, September had the potential to turn into a crisis for Manchester City and manager Pep Guardiola, but they have turned their form around. Relevance to standings and momentum.
+Premier League Highlights: Chelsea 1-3 Brighton. Danny Welbeck scores twice as Brighton come from behind to beat an ill-disciplined Chelsea side who have a player sent off for the second Saturday running. Disciplinary outcome could affect availability.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,31 +57,7 @@ Man City 5-1 Burnley: How have Pep Guardiola's side turned form around?. After t
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man City 5-1 Burnley: How have Pep Guardiola's side turned form around?. https://www.bbc.com/sport/football/articles/c784xw4glz0o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Chelsea 1-3 Brighton: Enzo Maresca post-match interview and reaction
-**Slug (lower-third):** Chelsea 1-3 Brighton: Enzo Maresca post-match interview a…  
-**When:** 2025-09-27 12:37 (America/Winnipeg)  •  **Published:** 2025-09-27 17:37 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea 1-3 Brighton: Enzo Maresca post-match interview and reaction. Chelsea manager Enzo Maresca says his side gave away "presents" against in their 3-1 defeat to Brighton in addition to last week's defeat to Manchester United, as his side went down to 10 men after "mistakes" in both games. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Chelsea 1-3 Brighton: Enzo Maresca post-match interview and reaction. https://www.bbc.com/sport/football/videos/cpq5wln3wzqo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League Highlights: Chelsea 1-3 Brighton. https://www.bbc.com/sport/football/videos/cjedn918dpeo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +68,13 @@ Chelsea 1-3 Brighton: Enzo Maresca post-match interview and reaction. Chelsea ma
 
 ### Club Updates
 
-## Story 4: Alderete silences City Ground with Sunderland opener!
-**Slug (lower-third):** Alderete silences City Ground with Sunderland opener!  
-**When:** 2025-09-27 13:13 (America/Winnipeg)  •  **Published:** 2025-09-27 18:13 (UTC)  
+## Story 3: Match of the Day: Micah Richards analyses how Jeremy Doku's performance against Burnley
+**Slug (lower-third):** Match of the Day: Micah Richards analyses how Jeremy Doku…  
+**When:** 2025-09-27 18:16 (America/Winnipeg)  •  **Published:** 2025-09-27 23:16 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Alderete silences City Ground with Sunderland opener!. Omar Alderete gives Sunderland the lead against Nottingham Forest. Relevance to standings and momentum.
+Match of the Day: Micah Richards analyses how Jeremy Doku's performance against Burnley. Match of the Day's Micah Richards discusses how Jeremy Doku's "positive" influence and decision making "made the difference" in Manchester City's 5-1 victory against Burnley. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +83,7 @@ Alderete silences City Ground with Sunderland opener!. Omar Alderete gives Sunde
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Alderete silences City Ground with Sunderland opener!. https://www.skysports.com/watch/video/13439703/alderete-silences-city-ground-with-sunderland-opener
+- bbc.com — Match of the Day: Micah Richards analyses how Jeremy Doku's performance against Burnley. https://www.bbc.com/sport/football/videos/ced5z2dy0w9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +92,13 @@ Alderete silences City Ground with Sunderland opener!. Omar Alderete gives Sunde
 
 ---
 
-## Story 5: Crystal Palace 2-1 Liverpool | Premier League highlights
-**Slug (lower-third):** Crystal Palace 2-1 Liverpool | Premier League highlights  
-**When:** 2025-09-27 12:36 (America/Winnipeg)  •  **Published:** 2025-09-27 17:36 (UTC)  
+## Story 4: Match of the Day: Micah Richards analyses how Brentford targeted Manchester United's 'defensive weaknesses'
+**Slug (lower-third):** Match of the Day: Micah Richards analyses how Brentford t…  
+**When:** 2025-09-27 18:01 (America/Winnipeg)  •  **Published:** 2025-09-27 23:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace 2-1 Liverpool | Premier League highlights. FREE TO WATCH: Highlights from Crystal Palace's match against Liverpool in the Premier League. Relevance to standings and momentum.
+Match of the Day: Micah Richards analyses how Brentford targeted Manchester United's 'defensive weaknesses'. Match of the Day's Micah Richards analyses how Brentford targeted Manchester United's "defensive weaknesses" as The Bees secured a "fantastic" 3-1 victory to pile more pressure on Ruben Amorim. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +107,7 @@ Crystal Palace 2-1 Liverpool | Premier League highlights. FREE TO WATCH: Highlig
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Crystal Palace 2-1 Liverpool | Premier League highlights. https://www.skysports.com/watch/video/13439595/crystal-palace-2-1-liverpool-premier-league-highlights
+- bbc.com — Match of the Day: Micah Richards analyses how Brentford targeted Manchester United's 'defensive weaknesses'. https://www.bbc.com/sport/football/videos/cgq4g3g513zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +116,13 @@ Crystal Palace 2-1 Liverpool | Premier League highlights. FREE TO WATCH: Highlig
 
 ---
 
-## Story 6: Manchester City 5-1 Burnley: Pep Guardiola post-match interview and reaction
-**Slug (lower-third):** Manchester City 5-1 Burnley: Pep Guardiola post-match int…  
-**When:** 2025-09-27 12:34 (America/Winnipeg)  •  **Published:** 2025-09-27 17:34 (UTC)  
+## Story 5: Match of the Day analysis: How Crystal Palace impressed against Liverpool
+**Slug (lower-third):** Match of the Day analysis: How Crystal Palace impressed a…  
+**When:** 2025-09-27 18:00 (America/Winnipeg)  •  **Published:** 2025-09-27 23:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester City 5-1 Burnley: Pep Guardiola post-match interview and reaction. Manchester City boss Pep Guardiola praises Jeremy Doku who is "so important against a low block" after the Belgian played a key part in the Blues 5-1 victory over Burnley. Relevance to standings and momentum.
+Match of the Day analysis: How Crystal Palace impressed against Liverpool. Match of the Day's Alan Shearer looks at why Crystal Palace's players being comfortable in their system helped them beat Liverpool in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +131,7 @@ Manchester City 5-1 Burnley: Pep Guardiola post-match interview and reaction. Ma
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester City 5-1 Burnley: Pep Guardiola post-match interview and reaction. https://www.bbc.com/sport/football/videos/c4gj8p57471o?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day analysis: How Crystal Palace impressed against Liverpool. https://www.bbc.com/sport/football/videos/cn83z416wqeo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +140,13 @@ Manchester City 5-1 Burnley: Pep Guardiola post-match interview and reaction. Ma
 
 ---
 
-## Story 7: Leeds 2-2 Bournemouth: Eli Junior Kroupi nets equaliser as Cherries snatch late draw at Elland Road
-**Slug (lower-third):** Leeds 2-2 Bournemouth: Eli Junior Kroupi nets equaliser a…  
-**When:** 2025-09-27 12:10 (America/Winnipeg)  •  **Published:** 2025-09-27 17:10 (UTC)  
+## Story 6: Match of the Day: Micah Richards on how Ruben Amorim's changes made it hard for Man Utd at Brentford
+**Slug (lower-third):** Match of the Day: Micah Richards on how Ruben Amorim's ch…  
+**When:** 2025-09-27 17:34 (America/Winnipeg)  •  **Published:** 2025-09-27 22:34 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leeds 2-2 Bournemouth: Eli Junior Kroupi nets equaliser as Cherries snatch late draw at Elland Road. Eli Junior Kroupi scored a late equaliser for Bournemouth as they snatched a 2-2 draw at Leeds in the Premier League. Relevance to standings and momentum.
+Match of the Day: Micah Richards on how Ruben Amorim's changes made it hard for Man Utd at Brentford. Micah Richards looks at the mid-game changes made by Ruben Amorim and how they may have only made things more difficult for Manchester United at Brentford. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +155,7 @@ Leeds 2-2 Bournemouth: Eli Junior Kroupi nets equaliser as Cherries snatch late 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Leeds 2-2 Bournemouth: Eli Junior Kroupi nets equaliser as Cherries snatch late draw at Elland Road. https://www.skysports.com/football/leeds-united-vs-bournemouth/report/531184
+- bbc.com — Match of the Day: Micah Richards on how Ruben Amorim's changes made it hard for Man Utd at Brentford. https://www.bbc.com/sport/football/videos/c4g9e3yd2peo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +164,13 @@ Leeds 2-2 Bournemouth: Eli Junior Kroupi nets equaliser as Cherries snatch late 
 
 ---
 
-## Story 8: Crystal Palace 2-1 Liverpool: Oliver Glasner post-match interview and reaction
-**Slug (lower-third):** Crystal Palace 2-1 Liverpool: Oliver Glasner post-match i…  
-**When:** 2025-09-27 12:09 (America/Winnipeg)  •  **Published:** 2025-09-27 17:09 (UTC)  
+## Story 7: Tottenham Hotspur 1-1 Wolves | Premier League highlights
+**Slug (lower-third):** Tottenham Hotspur 1-1 Wolves | Premier League highlights  
+**When:** 2025-09-27 17:17 (America/Winnipeg)  •  **Published:** 2025-09-27 22:17 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace 2-1 Liverpool: Oliver Glasner post-match interview and reaction. Crystal Palace boss Oliver Glasner says his side will "always go for the win" after Eddie Nketiah scored in the 97th minute to give them victory over Liverpool at Selhurst Park. Relevance to standings and momentum.
+Tottenham Hotspur 1-1 Wolves | Premier League highlights. FREE TO WATCH: Highlights from Tottenham Hotspurs' match against Wolves in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +179,8 @@ Crystal Palace 2-1 Liverpool: Oliver Glasner post-match interview and reaction. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Crystal Palace 2-1 Liverpool: Oliver Glasner post-match interview and reaction. https://www.bbc.com/sport/football/videos/c5ygjv33v3zo?at_medium=RSS&at_campaign=rss
+- skysports.com — Tottenham Hotspur 1-1 Wolves | Premier League highlights. https://www.skysports.com/watch/video/13439932/tottenham-hotspur-1-1-wolves-premier-league-highlights
+- bbc.com — Premier League Highlights: Tottenham Hotspur 1-1 Wolverhampton Wanderers. https://www.bbc.com/sport/football/videos/c5yv50xej0eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +189,13 @@ Crystal Palace 2-1 Liverpool: Oliver Glasner post-match interview and reaction. 
 
 ---
 
-## Story 9: Chelsea 1-3 Brighton: Trevoh Chalobah red card proves costly as Fabian Hurzeler's side stage dramatic comeback
-**Slug (lower-third):** Chelsea 1-3 Brighton: Trevoh Chalobah red card proves cos…  
-**When:** 2025-09-27 12:00 (America/Winnipeg)  •  **Published:** 2025-09-27 17:00 (UTC)  
+## Story 8: Palhinha to Spurs rescue in the 94th minute!
+**Slug (lower-third):** Palhinha to Spurs rescue in the 94th minute!  
+**When:** 2025-09-27 16:58 (America/Winnipeg)  •  **Published:** 2025-09-27 21:58 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea 1-3 Brighton: Trevoh Chalobah red card proves costly as Fabian Hurzeler's side stage dramatic comeback. Trevoh Chalobah's 53rd-minute red card proved costly for Chelsea as Brighton came from behind to secure a dramatic 3-1 victory at Stamford Bridge. Relevance to standings and momentum.
+Palhinha to Spurs rescue in the 94th minute!. Joao Palhinha scores a late equaliser for Tottenham against Wolves! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +204,7 @@ Chelsea 1-3 Brighton: Trevoh Chalobah red card proves costly as Fabian Hurzeler'
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea 1-3 Brighton: Trevoh Chalobah red card proves costly as Fabian Hurzeler's side stage dramatic comeback. https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/report/531181
+- skysports.com — Palhinha to Spurs rescue in the 94th minute!. https://www.skysports.com/watch/video/13439915/palhinha-to-spurs-rescue-in-the-94th-minute
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +213,13 @@ Chelsea 1-3 Brighton: Trevoh Chalobah red card proves costly as Fabian Hurzeler'
 
 ---
 
-## Story 10: Man City 5-1 Burnley: Maxime Esteve scores two own goals before Erling Haaland's brace takes City up to fourth
-**Slug (lower-third):** Man City 5-1 Burnley: Maxime Esteve scores two own goals …  
-**When:** 2025-09-27 12:00 (America/Winnipeg)  •  **Published:** 2025-09-27 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Premier League Highlights: Leeds 2-2 Bournemouth
+**Slug (lower-third):** Premier League Highlights: Leeds 2-2 Bournemouth  
+**When:** 2025-09-27 16:30 (America/Winnipeg)  •  **Published:** 2025-09-27 21:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City 5-1 Burnley: Maxime Esteve scores two own goals before Erling Haaland's brace takes City up to fourth. Maxime Esteve scored two own goals before a late Erling Haaland double took Manchester City to a 5-1 win over Burnley at the Etihad Stadium. Relevance to standings and momentum.
+Premier League Highlights: Leeds 2-2 Bournemouth. Eli Kroupi scores a stoppage-time equaliser to salvage a Premier League point for Bournemouth at Leeds United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +228,31 @@ Man City 5-1 Burnley: Maxime Esteve scores two own goals before Erling Haaland's
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man City 5-1 Burnley: Maxime Esteve scores two own goals before Erling Haaland's brace takes City up to fourth. https://www.skysports.com/football/manchester-city-vs-burnley/report/531185
+- bbc.com — Premier League Highlights: Leeds 2-2 Bournemouth. https://www.bbc.com/sport/football/videos/czxw7dp5y0wo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Premier League Highlights: Manchester City 5-1 Burnley
+**Slug (lower-third):** Premier League Highlights: Manchester City 5-1 Burnley  
+**When:** 2025-09-27 16:30 (America/Winnipeg)  •  **Published:** 2025-09-27 21:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League Highlights: Manchester City 5-1 Burnley. Erling Haaland scores twice late on and Maxime Esteve inadvertently scores two own goals to help Manchester City to a thumping Premier League victory over Burnley. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League Highlights: Manchester City 5-1 Burnley. https://www.bbc.com/sport/football/videos/cd63z0xgz1jo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
