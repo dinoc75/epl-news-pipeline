@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-29 01:33 (America/Winnipeg)  |  2025-09-29 06:33 (UTC)
+**Generated:** 2025-09-29 07:44 (America/Winnipeg)  |  2025-09-29 12:44 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~4m 50s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Nuno Espirito Santo: Is new West Ham manager the right man for Hammers?
-- NFL: Green Bay Packers snatch 40-40 draw with Dallas Cowboys in overtime for second-highest-scoring draw ever
-- Today on Sky Sports Racing: Darvel chases hat-trick at Brighton
+- WSL goals of the week: Aggie Beaver-Jones & Michelle Agyemang star
+- Women's Super League: talking points from the weekend's action
+- Alex Scott: Bournemouth midfielder targets senior England call-up
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Nuno Espirito Santo: Is new West Ham manager the right man for Hammers?
-**Slug (lower-third):** Nuno Espirito Santo: Is new West Ham manager the right ma…  
-**When:** 2025-09-29 01:23 (America/Winnipeg)  •  **Published:** 2025-09-29 06:23 (UTC)  
+## Story 1: Nuno Espirito Santo: What do West Ham fans want from new manager?
+**Slug (lower-third):** Nuno Espirito Santo: What do West Ham fans want from new …  
+**When:** 2025-09-29 04:06 (America/Winnipeg)  •  **Published:** 2025-09-29 09:06 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nuno Espirito Santo: Is new West Ham manager the right man for Hammers?. BBC Sport looks at how Nuno Espirito Santo might fit in as West Ham manager, based on his recent experience with Nottingham Forest. Relevance to standings and momentum.
+Nuno Espirito Santo: What do West Ham fans want from new manager?. Match of the Day presenter Gabby Logan and ex-England manager Ellen White discuss the appointment of Nuno Espirito Santo as the new West Ham United manager. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Nuno Espirito Santo: Is new West Ham manager the right man for Hammers?. BBC Spo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Nuno Espirito Santo: Is new West Ham manager the right man for Hammers?. https://www.bbc.com/sport/football/articles/cpq5w0rp8n1o?at_medium=RSS&at_campaign=rss
+- bbc.com — Nuno Espirito Santo: What do West Ham fans want from new manager?. https://www.bbc.com/sport/football/videos/cd9yvq8zp23o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Nuno Espirito Santo: Is new West Ham manager the right man for Hammers?. BBC Spo
 
 ---
 
-## Story 2: The Wayne Rooney Show: Ex-Manchester United striker says he has 'no faith' in Ruben Amorim
-**Slug (lower-third):** The Wayne Rooney Show: Ex-Manchester United striker says …  
-**When:** 2025-09-29 00:29 (America/Winnipeg)  •  **Published:** 2025-09-29 05:29 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Jose Mourinho: Benfica boss will want to show Chelsea 'I am here'
+**Slug (lower-third):** Jose Mourinho: Benfica boss will want to show Chelsea 'I …  
+**When:** 2025-09-29 01:34 (America/Winnipeg)  •  **Published:** 2025-09-29 06:34 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-The Wayne Rooney Show: Ex-Manchester United striker says he has 'no faith' in Ruben Amorim. Ex-England captain Wayne Rooney believes the soul has gone from his former club Manchester United and says he has no faith in manager Ruben Amorim. Relevance to standings and momentum.
+Jose Mourinho: Benfica boss will want to show Chelsea 'I am here'. Benfica manager Jose Mourinho returns to Stamford Bridge to face Chelsea in the Champions League on Tuesday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,31 +55,7 @@ The Wayne Rooney Show: Ex-Manchester United striker says he has 'no faith' in Ru
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — The Wayne Rooney Show: Ex-Manchester United striker says he has 'no faith' in Ruben Amorim. https://www.bbc.com/sport/football/articles/c147m6jlz50o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Enzo Maresca: Chelsea boss retains backing of the board
-**Slug (lower-third):** Enzo Maresca: Chelsea boss retains backing of the board  
-**When:** 2025-09-28 16:05 (America/Winnipeg)  •  **Published:** 2025-09-28 21:05 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Enzo Maresca: Chelsea boss retains backing of the board. Chelsea manager Enzo Maresca retains the backing of the board despite the team's indifferent start to the campaign. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Enzo Maresca: Chelsea boss retains backing of the board. https://www.bbc.com/sport/football/articles/c147m6zg0z6o?at_medium=RSS&at_campaign=rss
+- bbc.com — Jose Mourinho: Benfica boss will want to show Chelsea 'I am here'. https://www.bbc.com/sport/football/articles/cyv65jdvq08o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,61 +66,13 @@ Enzo Maresca: Chelsea boss retains backing of the board. Chelsea manager Enzo Ma
 
 ### Club Updates
 
-## Story 4: NFL: Green Bay Packers snatch 40-40 draw with Dallas Cowboys in overtime for second-highest-scoring draw ever
-**Slug (lower-third):** NFL: Green Bay Packers snatch 40-40 draw with Dallas Cowb…  
-**When:** 2025-09-29 01:18 (America/Winnipeg)  •  **Published:** 2025-09-29 06:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
-
-### Presenter Script (3–5 sentences)
-NFL: Green Bay Packers snatch 40-40 draw with Dallas Cowboys in overtime for second-highest-scoring draw ever. Green Bay Packers and Dallas Cowboys play out the second-highest-scoring draw in NFL history, as stunningly entertaining match finishes 40-40; Packers Brandon McManus found the target from 34 yards, replying to Brandon Aubreys effort from 22 yards earlier in overtime Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — NFL: Green Bay Packers snatch 40-40 draw with Dallas Cowboys in overtime for second-highest-scoring draw ever. https://www.skysports.com/nfl/news/12040/13440751/nfl-green-bay-packers-snatch-40-40-draw-with-dallas-cowboys-in-overtime-for-second-highest-scoring-draw-ever
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Today on Sky Sports Racing: Darvel chases hat-trick at Brighton
-**Slug (lower-third):** Today on Sky Sports Racing: Darvel chases hat-trick at Br…  
-**When:** 2025-09-29 01:00 (America/Winnipeg)  •  **Published:** 2025-09-29 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Darvel chases hat-trick at Brighton. Darvel is set to lock horns with Oj Lifestyle and Uncle Dick as he bids for a hat-trick in the headline race on Brightons seven-race card - live on Sky Sports Racing; Elsewhere, Newton Abbot hosts National Hunt action before evening racing on the all-weather from Southwell. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Darvel chases hat-trick at Brighton. https://www.skysports.com/racing/news/12040/13440120/today-on-sky-sports-racing-darvel-chases-hat-trick-at-brighton
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: The Wayne Rooney Show - Man United 'Have Lost Their Soul', Arsenal's Win & Wirtz Doubts - BBC Sounds
-**Slug (lower-third):** The Wayne Rooney Show - Man United 'Have Lost Their Soul'…  
-**When:** 2025-09-29 00:48 (America/Winnipeg)  •  **Published:** 2025-09-29 05:48 (UTC)  
+## Story 3: WSL goals of the week: Aggie Beaver-Jones & Michelle Agyemang star
+**Slug (lower-third):** WSL goals of the week: Aggie Beaver-Jones & Michelle Agye…  
+**When:** 2025-09-29 07:30 (America/Winnipeg)  •  **Published:** 2025-09-29 12:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-The Wayne Rooney Show - Man United 'Have Lost Their Soul', Arsenal's Win & Wirtz Doubts - BBC Sounds. Wayne Rooney speaks from the heart about the decline he's seen at Manchester United. Relevance to standings and momentum.
+WSL goals of the week: Aggie Beaver-Jones & Michelle Agyemang star. Watch the best goals of the Women's Super League weekend, including a free-kick from Chelsea's Aggie Beever-Jones and a first of the season for Brighton's Michelle Agyemang. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +81,7 @@ The Wayne Rooney Show - Man United 'Have Lost Their Soul', Arsenal's Win & Wirtz
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — The Wayne Rooney Show - Man United 'Have Lost Their Soul', Arsenal's Win & Wirtz Doubts - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0m4yr25?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL goals of the week: Aggie Beaver-Jones & Michelle Agyemang star. https://www.bbc.com/sport/football/videos/cewn7kw4xpyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +90,13 @@ The Wayne Rooney Show - Man United 'Have Lost Their Soul', Arsenal's Win & Wirtz
 
 ---
 
-## Story 7: Wayne Rooney on Manchester United: 'I don't recognise the football club'
-**Slug (lower-third):** Wayne Rooney on Manchester United: 'I don't recognise the…  
-**When:** 2025-09-29 00:16 (America/Winnipeg)  •  **Published:** 2025-09-29 05:16 (UTC)  
+## Story 4: Women's Super League: talking points from the weekend's action
+**Slug (lower-third):** Women's Super League: talking points from the weekend's a…  
+**When:** 2025-09-29 06:58 (America/Winnipeg)  •  **Published:** 2025-09-29 11:58 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wayne Rooney on Manchester United: 'I don't recognise the football club'. Wayne Rooney says there needs to be "a clear message from the owners" about Manchester United's direction because "at the minute we're all sitting here waiting for it to crumble". Relevance to standings and momentum.
+Women's Super League: talking points from the weekend's action. Michelle Agyemang gets off the mark for Brighton while Liverpool struggle to adopt to Gareth Taylor's methods Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +105,7 @@ Wayne Rooney on Manchester United: 'I don't recognise the football club'. Wayne 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Wayne Rooney on Manchester United: 'I don't recognise the football club'. https://www.bbc.com/sport/football/videos/cwyn690d1xko?at_medium=RSS&at_campaign=rss
+- theguardian.com — Women's Super League: talking points from the weekend's action. https://www.theguardian.com/football/2025/sep/29/womens-super-league-talking-points-from-the-weekends-action
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +114,13 @@ Wayne Rooney on Manchester United: 'I don't recognise the football club'. Wayne 
 
 ---
 
-## Story 8: Premier League Highlights: Newcastle 1-2 Arsenal
-**Slug (lower-third):** Premier League Highlights: Newcastle 1-2 Arsenal  
-**When:** 2025-09-28 14:00 (America/Winnipeg)  •  **Published:** 2025-09-28 19:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 5: Alex Scott: Bournemouth midfielder targets senior England call-up
+**Slug (lower-third):** Alex Scott: Bournemouth midfielder targets senior England…  
+**When:** 2025-09-29 06:52 (America/Winnipeg)  •  **Published:** 2025-09-29 11:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League Highlights: Newcastle 1-2 Arsenal. Gabriel scores a 96th-minute winner as Arsenal come from behind to beat Newcastle United in the Premier League at St James' Park. Relevance to standings and momentum.
+Alex Scott: Bournemouth midfielder targets senior England call-up. Bournemouth's Alex Scott says being called up by England is his "ultimate goal" as he reflects on a "whirlwind" 2025. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,8 +129,7 @@ Premier League Highlights: Newcastle 1-2 Arsenal. Gabriel scores a 96th-minute w
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League Highlights: Newcastle 1-2 Arsenal. https://www.bbc.com/sport/football/videos/cjedng0dn39o?at_medium=RSS&at_campaign=rss
-- skysports.com — Newcastle 1-2 Arsenal | Premier League highlights. https://www.skysports.com/watch/video/13440575/newcastle-1-2-arsenal-premier-league-highlights
+- bbc.com — Alex Scott: Bournemouth midfielder targets senior England call-up. https://www.bbc.com/sport/football/articles/czxw982jr9yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -211,13 +138,13 @@ Premier League Highlights: Newcastle 1-2 Arsenal. Gabriel scores a 96th-minute w
 
 ---
 
-## Story 9: Match of the Day analysis: How 'forgotten man' Buendia inspired Villa's comeback
-**Slug (lower-third):** Match of the Day analysis: How 'forgotten man' Buendia in…  
-**When:** 2025-09-28 18:23 (America/Winnipeg)  •  **Published:** 2025-09-28 23:23 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 6: E1 Series: Didier Drogba, Virat Kohli and LeBron James among big names investing in powerboat racing
+**Slug (lower-third):** E1 Series: Didier Drogba, Virat Kohli and LeBron James am…  
+**When:** 2025-09-29 06:35 (America/Winnipeg)  •  **Published:** 2025-09-29 11:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day analysis: How 'forgotten man' Buendia inspired Villa's comeback. Former England number one Joe Hart analyses how "forgotten man" Emi Buendia's key role in helping Aston Villa's to come from behind to claim first victory of the season. Relevance to standings and momentum.
+E1 Series: Didier Drogba, Virat Kohli and LeBron James among big names investing in powerboat racing. Former Chelsea striker Didier Drogba is among several sporting greats who have invested in E1 Series, a globe-trotting powerboat racing competition about to land in Africa. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -226,7 +153,7 @@ Match of the Day analysis: How 'forgotten man' Buendia inspired Villa's comeback
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the Day analysis: How 'forgotten man' Buendia inspired Villa's comeback. https://www.bbc.com/sport/football/videos/cj3y2ky5ypzo?at_medium=RSS&at_campaign=rss
+- bbc.com — E1 Series: Didier Drogba, Virat Kohli and LeBron James among big names investing in powerboat racing. https://www.bbc.com/sport/articles/cj6xn553j5no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -235,13 +162,13 @@ Match of the Day analysis: How 'forgotten man' Buendia inspired Villa's comeback
 
 ---
 
-## Story 10: Football gossip: Vlahovic, Silva, Neves, Alvarez, Fernandez, Caicedo, Southgate
-**Slug (lower-third):** Football gossip: Vlahovic, Silva, Neves, Alvarez, Fernand…  
-**When:** 2025-09-28 17:02 (America/Winnipeg)  •  **Published:** 2025-09-28 22:02 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 7: Arsenal's late heroics at Newcastle and peerless Palace beat Liverpool - Football Weekly
+**Slug (lower-third):** Arsenal's late heroics at Newcastle and peerless Palace b…  
+**When:** 2025-09-29 06:19 (America/Winnipeg)  •  **Published:** 2025-09-29 11:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Vlahovic, Silva, Neves, Alvarez, Fernandez, Caicedo, Southgate. Manchester United want Dusan Vlahovic, Bernardo Silva considers Saudi Arabia move, Real Madrid keep tabs on Chelsea midfielders, plus more. Relevance to standings and momentum.
+Arsenal's late heroics at Newcastle and peerless Palace beat Liverpool - Football Weekly. Max Rushden is joined by Barry Glendenning, Will Unwin and Nedum Onuoha and there's plenty to squeeze in as the panel review an eventful Premier League weekend, including Liverpool's first dropped points of the season, Arsenal's late win against Newcastle and also discuss Graham Potter's departure from West Ham Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -250,7 +177,79 @@ Football gossip: Vlahovic, Silva, Neves, Alvarez, Fernandez, Caicedo, Southgate.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Vlahovic, Silva, Neves, Alvarez, Fernandez, Caicedo, Southgate. https://www.bbc.com/sport/football/articles/c931jxyny1yo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Arsenal's late heroics at Newcastle and peerless Palace beat Liverpool - Football Weekly. https://www.theguardian.com/football/audio/2025/sep/29/arsenals-late-heroics-at-newcastle-and-peerless-palace-beat-liverpool-football-weekly
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Why Granit Xhaka is the signing of the season, Nico O'Reilly's impact, Ruben Amorim's inflexibility in The Debrief
+**Slug (lower-third):** Why Granit Xhaka is the signing of the season, Nico O'Rei…  
+**When:** 2025-09-29 05:55 (America/Winnipeg)  •  **Published:** 2025-09-29 10:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+Why Granit Xhaka is the signing of the season, Nico O'Reilly's impact, Ruben Amorim's inflexibility in The Debrief. The Debrief column this week focuses on Granit Xhakas superb start to life at Sunderland, Nico OReillys impact on Manchester Citys results and why a Vitor Pereira quote highlights the problem with Ruben Amorims approach at Manchester United... Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Why Granit Xhaka is the signing of the season, Nico O'Reilly's impact, Ruben Amorim's inflexibility in The Debrief. https://www.skysports.com/football/news/12040/13440221/why-granit-xhaka-is-the-signing-of-the-season-nico-oreillys-impact-ruben-amorims-inflexibility-in-the-debrief
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: NFL Winners and Losers: Lamar Jackson cannot beat the Kansas City Chiefs again while Puka Nacua and Jaxson Dart shine
+**Slug (lower-third):** NFL Winners and Losers: Lamar Jackson cannot beat the Kan…  
+**When:** 2025-09-29 05:30 (America/Winnipeg)  •  **Published:** 2025-09-29 10:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
+
+### Presenter Script (3–5 sentences)
+NFL Winners and Losers: Lamar Jackson cannot beat the Kansas City Chiefs again while Puka Nacua and Jaxson Dart shine. Lamar Jacksons Kansas City Chiefs misery and fresh hope for the New York Giants behind Jaxson Dart - here are some of the winners and losers from Sunday in the NFL; watch Minnesota Vikings against Cleveland Browns at Tottenham Hotspur Stadium live on Sky Sports NFL this Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — NFL Winners and Losers: Lamar Jackson cannot beat the Kansas City Chiefs again while Puka Nacua and Jaxson Dart shine. https://www.skysports.com/nfl/news/12040/13440635/nfl-winners-and-losers-lamar-jackson-cannot-beat-the-kansas-city-chiefs-again-while-puka-nacua-and-jaxson-dart-shine
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Brentford's Nathan Collins 'should have seen red' vs Man Utd as Dermot Gallagher analyses Viktor Gyokeres 'penalty' and more on Ref Watch
+**Slug (lower-third):** Brentford's Nathan Collins 'should have seen red' vs Man …  
+**When:** 2025-09-29 05:10 (America/Winnipeg)  •  **Published:** 2025-09-29 10:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
+
+### Presenter Script (3–5 sentences)
+Brentford's Nathan Collins 'should have seen red' vs Man Utd as Dermot Gallagher analyses Viktor Gyokeres 'penalty' and more on Ref Watch. Arsenal defender Gabriels handball and his collision with Newcastles Nick Woltemade also analysed on Ref Watch; other incidents include Mo Salahs handball and an incorrect award of a corner that led to a Crystal Palace goal, plus Malo Gustos high boot and Trevoh Chalobahs red card Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Brentford's Nathan Collins 'should have seen red' vs Man Utd as Dermot Gallagher analyses Viktor Gyokeres 'penalty' and more on Ref Watch. https://www.skysports.com/football/news/12040/13440789/brentfords-nathan-collins-should-have-seen-red-vs-man-utd-as-dermot-gallagher-analyses-viktor-gyokeres-penalty-and-more-on-ref-watch
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
