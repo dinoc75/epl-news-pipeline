@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-09-30 01:32 (America/Winnipeg)  |  2025-09-30 06:32 (UTC)
+**Generated:** 2025-09-30 07:44 (America/Winnipeg)  |  2025-09-30 12:44 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 26s
+**Estimated total video length:** ~4m 40s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Kairat in the Champions League: 13-hour flights, Chelsea's wonderkid and Real Madrid
-- Championship: World Cup memories, Chelsea youngsters and play-off heroics | Five EFL stories ahead of the midweek matches
-- Brazil: The Premier League scramble to be Brazil's number nine
+- NFL live on Sky Sports: Fixtures, kickoff times, TV channel for games this week and weekend
+- Lamar Jackson's Baltimore Ravens hanging on in Super Bowl charge as Philadelphia Eagles prove why they are champions, says Neil Reynolds
+- Bunny Shaw is back and Chelsea stay perfect - Women's Football Weekly podcast
 
 ---
 
 ### Transfers
 
-## Story 1: Spurs head past the Arctic Circle in search of added creativity
-**Slug (lower-third):** Spurs head past the Arctic Circle in search of added crea…  
-**When:** 2025-09-29 15:24 (America/Winnipeg)  •  **Published:** 2025-09-29 20:24 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 1: William Saliba: Arsenal defender signs new long-term contract to stay with club until summer of 2030
+**Slug (lower-third):** William Saliba: Arsenal defender signs new long-term cont…  
+**When:** 2025-09-30 05:00 (America/Winnipeg)  •  **Published:** 2025-09-30 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Spurs head past the Arctic Circle in search of added creativity. Thomas Frank says 'the right signs are there' for Spurs and played down the significance of Bodo/Glimt's artificial pitch Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+William Saliba: Arsenal defender signs new long-term contract to stay with club until summer of 2030. William Saliba has signed a new five-year contract with Arsenal; The 24-year-old centre-back had entered the final two years but now joins fellow defender Gabriel Magalhaes plus academy products Ethan Nwaneri and Myles Lewis-Skelly in committing to new Arsenal contracts Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,8 @@ Spurs head past the Arctic Circle in search of added creativity. Thomas Frank sa
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Spurs head past the Arctic Circle in search of added creativity. https://www.theguardian.com/football/2025/sep/29/spurs-past-arctic-circle-added-creativity-bodo-glimt-champions-league
+- skysports.com — William Saliba: Arsenal defender signs new long-term contract to stay with club until summer of 2030. https://www.skysports.com/football/news/12040/13441383/william-saliba-arsenal-defender-signs-new-long-term-contract-to-stay-with-club-until-summer-of-2030
+- bbc.com — William Saliba signs new five-year Arsenal contract. https://www.bbc.com/sport/football/articles/crl51w35xd2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +41,15 @@ Spurs head past the Arctic Circle in search of added creativity. Thomas Frank sa
 
 ---
 
-## Story 2: Liverpool: Alexander Isak competition good for me says Hugo Ekitike
-**Slug (lower-third):** Liverpool: Alexander Isak competition good for me says Hu…  
-**When:** 2025-09-29 15:06 (America/Winnipeg)  •  **Published:** 2025-09-29 20:06 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+### Injuries
+
+## Story 2: David Squires on ... Jose Mourinho's special return to Chelsea
+**Slug (lower-third):** David Squires on ... Jose Mourinho's special return to Ch…  
+**When:** 2025-09-30 06:24 (America/Winnipeg)  •  **Published:** 2025-09-30 11:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool: Alexander Isak competition good for me says Hugo Ekitike. Liverpool forward Hugo Ekitike says the arrival of British record transfer Alexander Isak at Anfield will help him develop as a player. Implications for the squad and table.
+David Squires on ... Jose Mourinho's special return to Chelsea. Our cartoonist looks at the visit of another polarising figure ... this time in the Champions League Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +58,33 @@ Liverpool: Alexander Isak competition good for me says Hugo Ekitike. Liverpool f
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool: Alexander Isak competition good for me says Hugo Ekitike. https://www.bbc.com/sport/football/articles/c04qxq996e5o?at_medium=RSS&at_campaign=rss
+- theguardian.com — David Squires on ... Jose Mourinho's special return to Chelsea. https://www.theguardian.com/football/picture/2025/sep/30/david-squires-on-jose-mourinho-special-return-to-chelsea-benfica-cartoon
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 3: Lamar Jackson's Baltimore Ravens hanging on in Super Bowl charge as Philadelphia Eagles prove why they are champions, says Neil Reynolds
+**Slug (lower-third):** Lamar Jackson's Baltimore Ravens hanging on in Super Bowl…  
+**When:** 2025-09-30 07:30 (America/Winnipeg)  •  **Published:** 2025-09-30 12:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Lamar Jackson's Baltimore Ravens hanging on in Super Bowl charge as Philadelphia Eagles prove why they are champions, says Neil Reynolds. Can the Philadelphia Eagles be stopped? Are the Baltimore Ravens in danger? Get the thoughts of Sky Sports NFL presenter Neil Reynolds in his weekly column The Final Word; watch the Minnesota Vikings against Cleveland Browns at Tottenham from 2.30pm live on Sky Sports NFL this Sunday Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Lamar Jackson's Baltimore Ravens hanging on in Super Bowl charge as Philadelphia Eagles prove why they are champions, says Neil Reynolds. https://www.skysports.com/nfl/news/12040/13441485/lamar-jacksons-baltimore-ravens-hanging-on-in-super-bowl-charge-as-philadelphia-eagles-prove-why-they-are-champions-says-neil-reynolds
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +95,37 @@ Liverpool: Alexander Isak competition good for me says Hugo Ekitike. Liverpool f
 
 ### Club Updates
 
-## Story 3: Kairat in the Champions League: 13-hour flights, Chelsea's wonderkid and Real Madrid
-**Slug (lower-third):** Kairat in the Champions League: 13-hour flights, Chelsea'…  
-**When:** 2025-09-30 01:10 (America/Winnipeg)  •  **Published:** 2025-09-30 06:10 (UTC)  
+## Story 4: NFL live on Sky Sports: Fixtures, kickoff times, TV channel for games this week and weekend
+**Slug (lower-third):** NFL live on Sky Sports: Fixtures, kickoff times, TV chann…  
+**When:** 2025-09-30 08:00 (America/Winnipeg)  •  **Published:** 2025-09-30 13:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+NFL live on Sky Sports: Fixtures, kickoff times, TV channel for games this week and weekend. Watch the Minnesota Vikings against the Cleveland Browns at Tottenham Hotspur Stadium live on Sky Sports NFL from 2.30pm Sunday, followed by the Philadelphia Eagles against the Denver Broncos and the Tampa Bay Buccaneers versus the Seattle Seahawks in Week Five of the campaign Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — NFL live on Sky Sports: Fixtures, kickoff times, TV channel for games this week and weekend. https://www.skysports.com/nfl/news/12040/13421960/nfl-live-on-sky-sports-fixtures-kickoff-times-tv-channel-for-games-this-week-and-weekend
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Bunny Shaw is back and Chelsea stay perfect - Women's Football Weekly podcast
+**Slug (lower-third):** Bunny Shaw is back and Chelsea stay perfect - Women's Foo…  
+**When:** 2025-09-30 07:04 (America/Winnipeg)  •  **Published:** 2025-09-30 12:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Kairat in the Champions League: 13-hour flights, Chelsea's wonderkid and Real Madrid. Kairat Almaty welcome European football's most successful club side, Real Madrid, in a historic Champions League night on Tuesday. Relevance to standings and momentum.
+Bunny Shaw is back and Chelsea stay perfect - Women's Football Weekly podcast. Faye Carruthers is joined by Sophie Downey, Tom Garry and Sanny Rudravajhala to review the weekend's WSL action Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +134,7 @@ Kairat in the Champions League: 13-hour flights, Chelsea's wonderkid and Real Ma
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Kairat in the Champions League: 13-hour flights, Chelsea's wonderkid and Real Madrid. https://www.bbc.com/sport/football/articles/czjvekl4ewno?at_medium=RSS&at_campaign=rss
+- theguardian.com — Bunny Shaw is back and Chelsea stay perfect - Women's Football Weekly podcast. https://www.theguardian.com/football/audio/2025/sep/30/bunny-shaw-is-back-who-will-challenge-chelsea-womens-football-weekly-wsl-podcast
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +143,13 @@ Kairat in the Champions League: 13-hour flights, Chelsea's wonderkid and Real Ma
 
 ---
 
-## Story 4: Championship: World Cup memories, Chelsea youngsters and play-off heroics | Five EFL stories ahead of the midweek matches
-**Slug (lower-third):** Championship: World Cup memories, Chelsea youngsters and …  
-**When:** 2025-09-30 01:00 (America/Winnipeg)  •  **Published:** 2025-09-30 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 6: Mika Biereth profile: Former Arsenal striker starring for Monaco after big break at Motherwell is a 'dying breed'
+**Slug (lower-third):** Mika Biereth profile: Former Arsenal striker starring for…  
+**When:** 2025-09-30 05:00 (America/Winnipeg)  •  **Published:** 2025-09-30 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Championship: World Cup memories, Chelsea youngsters and play-off heroics | Five EFL stories ahead of the midweek matches. Sky Sports+ brings you every Championship game live on Tuesday and Wednesday night; Norwichs Josh Sargent, Derbys Patrick Agyemang, QPRs Harvey Vale, Charltons Lloyd Jones and Leicesters Jakub Stolarczyk all featured on the Sky Sports Essential EFL podcast Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Mika Biereth profile: Former Arsenal striker starring for Monaco after big break at Motherwell is a 'dying breed'. Mika Biereth is the former Arsenal striker plundering hat-tricks with Monaco and now out to down Manchester City in the Champions League. Adam Bate speaks to Stuart Kettlewell to find out how this English-born Dane made his big breakthrough at Motherwell... Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +158,7 @@ Championship: World Cup memories, Chelsea youngsters and play-off heroics | Five
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Championship: World Cup memories, Chelsea youngsters and play-off heroics | Five EFL stories ahead of the midweek matches. https://www.skysports.com/football/news/12040/13438513/championship-world-cup-memories-chelsea-youngsters-and-play-off-heroics-five-efl-stories-ahead-of-the-midweek-matches
+- skysports.com — Mika Biereth profile: Former Arsenal striker starring for Monaco after big break at Motherwell is a 'dying breed'. https://www.skysports.com/football/news/12040/13437626/mika-biereth-profile-former-arsenal-striker-starring-for-monaco-after-big-break-at-motherwell-is-a-dying-breed
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,10 +167,34 @@ Championship: World Cup memories, Chelsea youngsters and play-off heroics | Five
 
 ---
 
-## Story 5: Brazil: The Premier League scramble to be Brazil's number nine
+## Story 7: Kiernan Dewsbury-Hall says his yellow card count is 'mind-boggling'
+**Slug (lower-third):** Kiernan Dewsbury-Hall says his yellow card count is 'mind…  
+**When:** 2025-09-30 03:45 (America/Winnipeg)  •  **Published:** 2025-09-30 08:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Kiernan Dewsbury-Hall says his yellow card count is 'mind-boggling'. Everton midfielder Kiernan Dewsbury-Hall says it's "mind-boggling" that he has already received a suspension after picking up five yellow cards in six Premier League appearances this season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Kiernan Dewsbury-Hall says his yellow card count is 'mind-boggling'. https://www.bbc.com/sport/football/articles/cz7r822yywzo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Brazil: The Premier League scramble to be Brazil's number nine
 **Slug (lower-third):** Brazil: The Premier League scramble to be Brazil's number…  
 **When:** 2025-09-30 00:25 (America/Winnipeg)  •  **Published:** 2025-09-30 05:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Brazil: The Premier League scramble to be Brazil's number nine. BBC Sport looks at the striker candidates to be Brazil's number nine, with the majority of them from the Premier League. Relevance to standings and momentum.
@@ -138,35 +215,10 @@ Brazil: The Premier League scramble to be Brazil's number nine. BBC Sport looks 
 
 ---
 
-## Story 6: Everton 1-1 West Ham | Premier League Highlights
-**Slug (lower-third):** Everton 1-1 West Ham | Premier League Highlights  
-**When:** 2025-09-29 17:02 (America/Winnipeg)  •  **Published:** 2025-09-29 22:02 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Everton 1-1 West Ham | Premier League Highlights. FREE TO WATCH: Highlights from Everton's match against West Ham in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Everton 1-1 West Ham | Premier League Highlights. https://www.skysports.com/watch/video/13441287/everton-1-1-west-ham-premier-league-highlights
-- bbc.com — Premier League highlights: Everton 1-1 West Ham United - Bowen equaliser earns Nuno point. https://www.bbc.com/sport/football/videos/c9qndny4534o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Troy Deeney's team of the week: Tyrick Mitchell, Granit Xhaka, Erling Haaland
+## Story 9: Troy Deeney's team of the week: Tyrick Mitchell, Granit Xhaka, Erling Haaland
 **Slug (lower-third):** Troy Deeney's team of the week: Tyrick Mitchell, Granit X…  
 **When:** 2025-09-29 18:03 (America/Winnipeg)  •  **Published:** 2025-09-29 23:03 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+**Virality score:** 86  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Troy Deeney's team of the week: Tyrick Mitchell, Granit Xhaka, Erling Haaland. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
@@ -187,10 +239,10 @@ Troy Deeney's team of the week: Tyrick Mitchell, Granit Xhaka, Erling Haaland. A
 
 ---
 
-## Story 8: Everton 1-1 West Ham: Nuno Espirito Santo says getting fans onside is "main priority"
+## Story 10: Everton 1-1 West Ham: Nuno Espirito Santo says getting fans onside is "main priority"
 **Slug (lower-third):** Everton 1-1 West Ham: Nuno Espirito Santo says getting fa…  
 **When:** 2025-09-29 17:54 (America/Winnipeg)  •  **Published:** 2025-09-29 22:54 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+**Virality score:** 85  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Everton 1-1 West Ham: Nuno Espirito Santo says getting fans onside is "main priority". New West Ham boss Nuno Espirito Santo said becoming closer to the supporters is the "main priority" for his side. Relevance to standings and momentum.
@@ -203,54 +255,6 @@ Everton 1-1 West Ham: Nuno Espirito Santo says getting fans onside is "main prio
 
 ### Sources
 - bbc.com — Everton 1-1 West Ham: Nuno Espirito Santo says getting fans onside is "main priority". https://www.bbc.com/sport/football/articles/czjvwpmrgj7o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Semenyo, Saka, Trippier, Guler, Upamecano, Rayan
-**Slug (lower-third):** Football gossip: Semenyo, Saka, Trippier, Guler, Upamecan…  
-**When:** 2025-09-29 17:15 (America/Winnipeg)  •  **Published:** 2025-09-29 22:15 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Semenyo, Saka, Trippier, Guler, Upamecano, Rayan. Bournemouth's Antoine Semenyo is wanted by a host of Premier League clubs, England internationals Bukayo Saka and Kieran Trippier are offered new deals, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Semenyo, Saka, Trippier, Guler, Upamecano, Rayan. https://www.bbc.com/sport/football/articles/c1kwr8pv3x2o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Liverpool are a 'work in progress' defensively - Sutton
-**Slug (lower-third):** Liverpool are a 'work in progress' defensively - Sutton  
-**When:** 2025-09-29 16:21 (America/Winnipeg)  •  **Published:** 2025-09-29 21:21 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool are a 'work in progress' defensively - Sutton. Former Premier League striker Chris Sutton discusses Liverpool's defensive frailties at the start of this season and why there are some worries. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Liverpool are a 'work in progress' defensively - Sutton. https://www.bbc.com/sport/football/videos/c0q797kge9xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
