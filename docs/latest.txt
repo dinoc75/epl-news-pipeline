@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-01 01:31 (America/Winnipeg)  |  2025-10-01 06:31 (UTC)
+**Generated:** 2025-10-01 07:44 (America/Winnipeg)  |  2025-10-01 12:44 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 28s
+**Estimated total video length:** ~4m 30s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Kevin O'Connell: Minnesota Vikings head coach talks Justin Jefferson, Brian Flores and becoming NFL quarterback whisperer
-- Cricket Tables - Cricket League Tables & Standings | Sky Sports
-- Union Saint-Gilloise v Newcastle: Christian Burgess and Ross Sykes overcome odds
+- 'You can see the creativity': Van de Ven says Simons can spark Spurs revival
+- Liverpool below Man Utd in the Sky Sports 'expected' table with set-pieces and Mohamed Salah's dip among issues - Between the Lines
+- Carragher: Liverpool don't look like a 'top team'
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Kevin O'Connell: Minnesota Vikings head coach talks Justin Jefferson, Brian Flores and becoming NFL quarterback whisperer
 **Slug (lower-third):** Kevin O'Connell: Minnesota Vikings head coach talks Justi…  
 **When:** 2025-10-01 02:00 (America/Winnipeg)  •  **Published:** 2025-10-01 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+**Virality score:** 97  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 Kevin O'Connell: Minnesota Vikings head coach talks Justin Jefferson, Brian Flores and becoming NFL quarterback whisperer. Minnesota Vikings head coach Kevin OConnell discusses quarterbacks, Justin Jefferson and organised chaos with defensive coordinator Brian Flores; watch the Vikings against the Cleveland Browns at Tottenham Hotspur Stadium live on Sky Sports NFL from 2.30pm Sunday Relevance to standings and momentum.
@@ -40,15 +40,13 @@ Kevin O'Connell: Minnesota Vikings head coach talks Justin Jefferson, Brian Flor
 
 ---
 
-### Injuries
-
-## Story 2: Chelsea 1-0 Benfica: Jose Mourinho defeated but still loved on Stamford Bridge return
-**Slug (lower-third):** Chelsea 1-0 Benfica: Jose Mourinho defeated but still lov…  
-**When:** 2025-09-30 18:24 (America/Winnipeg)  •  **Published:** 2025-09-30 23:24 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 2: Which Premier League manager has the highest low-possession record in a game? | The Knowledge
+**Slug (lower-third):** Which Premier League manager has the highest low-possessi…  
+**When:** 2025-10-01 02:00 (America/Winnipeg)  •  **Published:** 2025-10-01 07:00 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea 1-0 Benfica: Jose Mourinho defeated but still loved on Stamford Bridge return. The Special One's name is chanted by Chelsea fans during his new club Benfica's 1-0 Champions League defeat at Stamford Bridge, where there will always be mutual respect. Relevance to standings and momentum.
+Which Premier League manager has the highest low-possession record in a game? | The Knowledge. Plus: teams on epic draw streaks, early season pitch invasions and long-throw world records Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,33 @@ Chelsea 1-0 Benfica: Jose Mourinho defeated but still loved on Stamford Bridge r
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Chelsea 1-0 Benfica: Jose Mourinho defeated but still loved on Stamford Bridge return. https://www.bbc.com/sport/football/articles/c39r2nj8d94o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Which Premier League manager has the highest low-possession record in a game? | The Knowledge. https://www.theguardian.com/football/2025/oct/01/which-premier-league-manager-has-the-highest-low-possession-record-in-a-game-knowledge
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Manchester City: Mary Fowler signs new contract until 2027
+**Slug (lower-third):** Manchester City: Mary Fowler signs new contract until 2027  
+**When:** 2025-10-01 03:00 (America/Winnipeg)  •  **Published:** 2025-10-01 08:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City: Mary Fowler signs new contract until 2027. Manchester City forward Mary Fowler signs a new contract until the summer of 2027. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester City: Mary Fowler signs new contract until 2027. https://www.bbc.com/sport/football/articles/cp8jpv03134o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,10 +92,83 @@ Chelsea 1-0 Benfica: Jose Mourinho defeated but still loved on Stamford Bridge r
 
 ### Club Updates
 
-## Story 3: Cricket Tables - Cricket League Tables & Standings | Sky Sports
+## Story 4: 'You can see the creativity': Van de Ven says Simons can spark Spurs revival
+**Slug (lower-third):** 'You can see the creativity': Van de Ven says Simons can …  
+**When:** 2025-10-01 06:00 (America/Winnipeg)  •  **Published:** 2025-10-01 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'You can see the creativity': Van de Ven says Simons can spark Spurs revival. Micky van de Ven believes Xavi Simons could be the solution to the creative flatness threatening to undermine Tottenham's start to the season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'You can see the creativity': Van de Ven says Simons can spark Spurs revival. https://www.theguardian.com/football/2025/oct/01/micky-van-de-ven-xavi-simons-tottenham
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Liverpool below Man Utd in the Sky Sports 'expected' table with set-pieces and Mohamed Salah's dip among issues - Between the Lines
+**Slug (lower-third):** Liverpool below Man Utd in the Sky Sports 'expected' tabl…  
+**When:** 2025-10-01 06:00 (America/Winnipeg)  •  **Published:** 2025-10-01 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Liverpool below Man Utd in the Sky Sports 'expected' table with set-pieces and Mohamed Salah's dip among issues - Between the Lines. Liverpool suffered their first Premier League defeat of the season against Crystal Palace and were beaten by Galatasaray on Tuesday; as Reds prepare to face Chelsea, live on Sky Sports on Saturday, Between the Lines assesses their true performance levels this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Liverpool below Man Utd in the Sky Sports 'expected' table with set-pieces and Mohamed Salah's dip among issues - Between the Lines. https://www.skysports.com/football/news/12040/13441445/liverpool-below-man-utd-in-the-sky-sports-expected-table-with-set-pieces-and-mohamed-salahs-dip-among-issues-between-the-lines
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Carragher: Liverpool don't look like a 'top team'
+**Slug (lower-third):** Carragher: Liverpool don't look like a 'top team'  
+**When:** 2025-10-01 03:20 (America/Winnipeg)  •  **Published:** 2025-10-01 08:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Carragher: Liverpool don't look like a 'top team'. Former Liverpool and England defender Jamie Carragher has likened his former side to a basketball team after their Champions League defeat to Galatasaray. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- espn.com — Carragher: Liverpool don't look like a 'top team'. https://www.espn.com/soccer/story/_/id/46446135/liverpool-playing-basketball-look-top-team-jamie-carragher
+- skysports.com — Galatasaray 1-0 Liverpool: Jamie Carragher says Arne Slot's side are not playing like a top team and calls for Florian Wirtz to come out of the side. https://www.skysports.com/football/news/12040/13441995/galatasaray-1-0-liverpool-jamie-carragher-says-arne-slots-side-are-not-playing-like-a-top-team-and-calls-for-florian-wirtz-to-come-out-of-the-side
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Cricket Tables - Cricket League Tables & Standings | Sky Sports
 **Slug (lower-third):** Cricket Tables - Cricket League Tables & Standings | Sky …  
 **When:** 2025-10-01 02:00 (America/Winnipeg)  •  **Published:** 2025-10-01 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Cricket Tables - Cricket League Tables & Standings | Sky Sports. Up to the minute Cricket Tables by league - stats for County, International and Indian Premier League Cricket teams on Sky Sports. Relevance to standings and momentum.
@@ -92,10 +189,34 @@ Cricket Tables - Cricket League Tables & Standings | Sky Sports. Up to the minut
 
 ---
 
-## Story 4: Union Saint-Gilloise v Newcastle: Christian Burgess and Ross Sykes overcome odds
+## Story 8: FC Midtjylland: How set-pieces give Nottingham Forest's Europa League opponents the edge
+**Slug (lower-third):** FC Midtjylland: How set-pieces give Nottingham Forest's E…  
+**When:** 2025-10-01 01:27 (America/Winnipeg)  •  **Published:** 2025-10-01 06:27 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+FC Midtjylland: How set-pieces give Nottingham Forest's Europa League opponents the edge. Set-piece coaches are in fashion in football at the moment, but FC Midtjylland were ahead of the curve. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — FC Midtjylland: How set-pieces give Nottingham Forest's Europa League opponents the edge. https://www.bbc.com/sport/football/articles/cvg91gzpzl5o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Union Saint-Gilloise v Newcastle: Christian Burgess and Ross Sykes overcome odds
 **Slug (lower-third):** Union Saint-Gilloise v Newcastle: Christian Burgess and R…  
 **When:** 2025-10-01 00:33 (America/Winnipeg)  •  **Published:** 2025-10-01 05:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Union Saint-Gilloise v Newcastle: Christian Burgess and Ross Sykes overcome odds. Christian Burgess and Ross Sykes were both released as youngsters. Now they are set to feature for Union Saint-Gilloise against Newcastle United in the Champions League. Relevance to standings and momentum.
@@ -116,58 +237,10 @@ Union Saint-Gilloise v Newcastle: Christian Burgess and Ross Sykes overcome odds
 
 ---
 
-## Story 5: Galatasaray 1-0 Liverpool: Jamie Carragher says Arne Slot's side are not playing like a top team and calls for Florian Wirtz to come out of the side
-**Slug (lower-third):** Galatasaray 1-0 Liverpool: Jamie Carragher says Arne Slot…  
-**When:** 2025-09-30 18:38 (America/Winnipeg)  •  **Published:** 2025-09-30 23:38 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Galatasaray 1-0 Liverpool: Jamie Carragher says Arne Slot's side are not playing like a top team and calls for Florian Wirtz to come out of the side. Liverpool have suffered back-to-back defeats after losing to Galatasaray; Jamie Carragher says the Reds are not playing like a top team - and he warned Arne Slot about this; watch Chelsea vs Liverpool live on Sky Sports this Saturday from 5pm, kick-off 5.30pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Galatasaray 1-0 Liverpool: Jamie Carragher says Arne Slot's side are not playing like a top team and calls for Florian Wirtz to come out of the side. https://www.skysports.com/football/news/12040/13441995/galatasaray-1-0-liverpool-jamie-carragher-says-arne-slots-side-are-not-playing-like-a-top-team-and-calls-for-florian-wirtz-to-come-out-of-the-side
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Champions League Verdict: Galatasaray vs Liverpool | Ekitike and Alisson off injured during defeat
-**Slug (lower-third):** Champions League Verdict: Galatasaray vs Liverpool | Ekit…  
-**When:** 2025-09-30 18:38 (America/Winnipeg)  •  **Published:** 2025-09-30 23:38 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League Verdict: Galatasaray vs Liverpool | Ekitike and Alisson off injured during defeat. Vinny OConnor and James Pearce discuss Liverpools defeat against Galatasaray in the Champions League. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Champions League Verdict: Galatasaray vs Liverpool | Ekitike and Alisson off injured during defeat. https://www.skysports.com/watch/video/13441992/champions-league-verdict-galatasaray-vs-liverpool-ekitike-and-alisson-off-injured-during-defeat
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Liverpool news: Arne Slot hits first bumps in the road as Reds boss
+## Story 10: Liverpool news: Arne Slot hits first bumps in the road as Reds boss
 **Slug (lower-third):** Liverpool news: Arne Slot hits first bumps in the road as…  
 **When:** 2025-09-30 18:28 (America/Winnipeg)  •  **Published:** 2025-09-30 23:28 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+**Virality score:** 86  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Liverpool news: Arne Slot hits first bumps in the road as Reds boss. After hitting the ground running 12 months ago, Arne Slot's experiencing his first bumps in the road as Liverpool boss, writes Phil McNulty. Relevance to standings and momentum.
@@ -180,78 +253,6 @@ Liverpool news: Arne Slot hits first bumps in the road as Reds boss. After hitti
 
 ### Sources
 - bbc.com — Liverpool news: Arne Slot hits first bumps in the road as Reds boss. https://www.bbc.com/sport/football/articles/cjr5p4dery5o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Bodo/Glimt 2-2 Tottenham: Spurs avoid Champions League upset in Norway with another comeback draw
-**Slug (lower-third):** Bodo/Glimt 2-2 Tottenham: Spurs avoid Champions League up…  
-**When:** 2025-09-30 17:00 (America/Winnipeg)  •  **Published:** 2025-09-30 22:00 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bodo/Glimt 2-2 Tottenham: Spurs avoid Champions League upset in Norway with another comeback draw. Tottenham survived an upset at Bodo/Glimt in the Champions League as they came from two goals down to snatch a late 2-2 draw. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Bodo/Glimt 2-2 Tottenham: Spurs avoid Champions League upset in Norway with another comeback draw. https://www.skysports.com/football/bodo-glimt-vs-tottenham-hotspur/report/547931
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Guehi, Collins, Bentancur, Valverde, Hackney, Fernandez
-**Slug (lower-third):** Football gossip: Guehi, Collins, Bentancur, Valverde, Hac…  
-**When:** 2025-09-30 16:46 (America/Winnipeg)  •  **Published:** 2025-09-30 21:46 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Guehi, Collins, Bentancur, Valverde, Hackney, Fernandez. Tottenham are interested in Marc Guehi and Nathan Collins, Manchester United target Real Madrid's Federico Valverde, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Guehi, Collins, Bentancur, Valverde, Hackney, Fernandez. https://www.bbc.com/sport/football/articles/c1472zv7j2yo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Championship: Wilder sent off for kicking ball into crowd as Saints blunt Blades
-**Slug (lower-third):** Championship: Wilder sent off for kicking ball into crowd…  
-**When:** 2025-09-30 17:16 (America/Winnipeg)  •  **Published:** 2025-09-30 22:16 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Championship: Wilder sent off for kicking ball into crowd as Saints blunt Blades. Ross Stewart's second-half double sealed Southampton a 2-1 comeback win at Bramall Lane and consigned Sheffield United to a seventh league defeat of the season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Championship: Wilder sent off for kicking ball into crowd as Saints blunt Blades. https://www.theguardian.com/football/2025/sep/30/championship-roundup-sheffield-united-stay-rock-bottom-after-southampton-comeback
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
