@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-01 20:26 (America/Winnipeg)  |  2025-10-02 01:26 (UTC)
+**Generated:** 2025-10-02 01:30 (America/Winnipeg)  |  2025-10-02 06:30 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~3m 21s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Martin Odegaard: Creativity in 'phenomenal' Arsenal captain's nature - Mikel Arteta
-- Odegaard and Gyokeres on centre stage as Arteta's Arsenal plan takes shape | Barney Ronay
-- Monaco 2-2 Man City: Erling Haaland says 'it's not good enough'
+- Today on Sky Sports Racing: Newcastle, Southwell and Chantilly
+- Is Aggie Beever-Jones making case to be Chelsea & England number nine?
+- Monaco 2-2 Man City: Eric Dier punishes wasteful City as Erling Haaland scores twice from seven first-half touches in Champions League clash
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Champions League Highlights: Chelsea 1-0 Benfica
 **Slug (lower-third):** Champions League Highlights: Chelsea 1-0 Benfica  
 **When:** 2025-10-01 16:00 (America/Winnipeg)  •  **Published:** 2025-10-01 21:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Champions League Highlights: Chelsea 1-0 Benfica. Jose Mourinho's latest return to Stamford Bridge ends in frustration as Chelsea secure a narrow Champions League victory over his new club Benfica thanks to Richard Rios' first-half own goal. Relevance to standings and momentum.
@@ -42,13 +42,13 @@ Champions League Highlights: Chelsea 1-0 Benfica. Jose Mourinho's latest return 
 
 ### Club Updates
 
-## Story 2: Martin Odegaard: Creativity in 'phenomenal' Arsenal captain's nature - Mikel Arteta
-**Slug (lower-third):** Martin Odegaard: Creativity in 'phenomenal' Arsenal capta…  
-**When:** 2025-10-01 18:01 (America/Winnipeg)  •  **Published:** 2025-10-01 23:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Today on Sky Sports Racing: Newcastle, Southwell and Chantilly
+**Slug (lower-third):** Today on Sky Sports Racing: Newcastle, Southwell and Chan…  
+**When:** 2025-10-02 02:00 (America/Winnipeg)  •  **Published:** 2025-10-02 07:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Martin Odegaard: Creativity in 'phenomenal' Arsenal captain's nature - Mikel Arteta. Martin Odegaard shows why he is still the key creative figure for Arsenal boss Mikel Arteta and why he has been given "total freedom". Relevance to standings and momentum.
+Today on Sky Sports Racing: Newcastle, Southwell and Chantilly. In today's feature, productive sprinter Alzahir makes the trip to Chantilly to contest a warm Listed contest for the Jennie Candlish team but faces a solid home contingent. We also have competitive domestic action from Newcastle and Southwell, live on Sky Sports Racing from 10.48am. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,7 @@ Martin Odegaard: Creativity in 'phenomenal' Arsenal captain's nature - Mikel Art
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Martin Odegaard: Creativity in 'phenomenal' Arsenal captain's nature - Mikel Arteta. https://www.bbc.com/sport/football/articles/cvgqz0d3nndo?at_medium=RSS&at_campaign=rss
+- skysports.com — Today on Sky Sports Racing: Newcastle, Southwell and Chantilly. https://www.skysports.com/racing/news/12040/13441536/today-on-sky-sports-racing-newcastle-southwell-and-chantilly
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +66,13 @@ Martin Odegaard: Creativity in 'phenomenal' Arsenal captain's nature - Mikel Art
 
 ---
 
-## Story 3: Odegaard and Gyokeres on centre stage as Arteta's Arsenal plan takes shape | Barney Ronay
-**Slug (lower-third):** Odegaard and Gyokeres on centre stage as Arteta's Arsenal…  
-**When:** 2025-10-01 17:56 (America/Winnipeg)  •  **Published:** 2025-10-01 22:56 (UTC)  
+## Story 3: Is Aggie Beever-Jones making case to be Chelsea & England number nine?
+**Slug (lower-third):** Is Aggie Beever-Jones making case to be Chelsea & England…  
+**When:** 2025-10-02 00:30 (America/Winnipeg)  •  **Published:** 2025-10-02 05:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Odegaard and Gyokeres on centre stage as Arteta's Arsenal plan takes shape | Barney Ronay. With an enticing run of fixtures coming up and the captain back to his best, an enjoyable autumn seems on the cards Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Is Aggie Beever-Jones making case to be Chelsea & England number nine?. Chelsea striker Aggie Beever-Jones has four goals in four WSL games and is making a strong case for an England starting place. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +81,7 @@ Odegaard and Gyokeres on centre stage as Arteta's Arsenal plan takes shape | Bar
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Odegaard and Gyokeres on centre stage as Arteta's Arsenal plan takes shape | Barney Ronay. https://www.theguardian.com/football/2025/oct/01/degaard-and-gyokeres-on-centre-stage-as-artetas-arsenal-plan-takes-shape
+- bbc.com — Is Aggie Beever-Jones making case to be Chelsea & England number nine?. https://www.bbc.com/sport/football/articles/ckgqrn2r3d1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,31 +90,7 @@ Odegaard and Gyokeres on centre stage as Arteta's Arsenal plan takes shape | Bar
 
 ---
 
-## Story 4: Monaco 2-2 Man City: Erling Haaland says 'it's not good enough'
-**Slug (lower-third):** Monaco 2-2 Man City: Erling Haaland says 'it's not good e…  
-**When:** 2025-10-01 17:33 (America/Winnipeg)  •  **Published:** 2025-10-01 22:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Monaco 2-2 Man City: Erling Haaland says 'it's not good enough'. Pep Guardiola said he was not concerned about the late goals being conceded by Manchester City, but his side let in a 90th-minute penalty against Monaco in the Champions League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Monaco 2-2 Man City: Erling Haaland says 'it's not good enough'. https://www.bbc.com/sport/football/articles/c62zeg18py3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Monaco 2-2 Man City: Eric Dier punishes wasteful City as Erling Haaland scores twice from seven first-half touches in Champions League clash
+## Story 4: Monaco 2-2 Man City: Eric Dier punishes wasteful City as Erling Haaland scores twice from seven first-half touches in Champions League clash
 **Slug (lower-third):** Monaco 2-2 Man City: Eric Dier punishes wasteful City as …  
 **When:** 2025-10-01 17:12 (America/Winnipeg)  •  **Published:** 2025-10-01 22:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -139,31 +115,7 @@ Monaco 2-2 Man City: Eric Dier punishes wasteful City as Erling Haaland scores t
 
 ---
 
-## Story 6: Newcastle v Union Saint-Gilloise: Eddie Howe's side belong in Champions League
-**Slug (lower-third):** Newcastle v Union Saint-Gilloise: Eddie Howe's side belon…  
-**When:** 2025-10-01 16:44 (America/Winnipeg)  •  **Published:** 2025-10-01 21:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Newcastle v Union Saint-Gilloise: Eddie Howe's side belong in Champions League. Newcastle United record their biggest Champions League win against Union Saint-Gilloise and show they belong at Europe's top table. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Newcastle v Union Saint-Gilloise: Eddie Howe's side belong in Champions League. https://www.bbc.com/sport/football/articles/crmep8v43pgo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Champions League Highlights: Union Saint-Gilloise 0-4 Newcastle
+## Story 5: Champions League Highlights: Union Saint-Gilloise 0-4 Newcastle
 **Slug (lower-third):** Champions League Highlights: Union Saint-Gilloise 0-4 New…  
 **When:** 2025-10-01 16:00 (America/Winnipeg)  •  **Published:** 2025-10-01 21:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -188,10 +140,106 @@ Champions League Highlights: Union Saint-Gilloise 0-4 Newcastle. Anthony Gordon 
 
 ---
 
-## Story 8: Champions League: Eric Dier scores a late penalty for AS Monaco to snatch a draw against Manchester City
+## Story 6: Football Daily - UCL Debrief: City denied win in Monaco - BBC Sounds
+**Slug (lower-third):** Football Daily - UCL Debrief: City denied win in Monaco -…  
+**When:** 2025-10-01 18:16 (America/Winnipeg)  •  **Published:** 2025-10-01 23:16 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football Daily - UCL Debrief: City denied win in Monaco - BBC Sounds. Reaction to Manchester City's draw in Monaco, plus wins for Newcastle and Arsenal. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Football Daily - UCL Debrief: City denied win in Monaco - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0m65jzs?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Martin Odegaard: Creativity in 'phenomenal' Arsenal captain's nature - Mikel Arteta
+**Slug (lower-third):** Martin Odegaard: Creativity in 'phenomenal' Arsenal capta…  
+**When:** 2025-10-01 18:01 (America/Winnipeg)  •  **Published:** 2025-10-01 23:01 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Martin Odegaard: Creativity in 'phenomenal' Arsenal captain's nature - Mikel Arteta. Martin Odegaard shows why he is still the key creative figure for Arsenal boss Mikel Arteta and why he has been given "total freedom". Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Martin Odegaard: Creativity in 'phenomenal' Arsenal captain's nature - Mikel Arteta. https://www.bbc.com/sport/football/articles/cvgqz0d3nndo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Monaco 2-2 Man City: Erling Haaland says 'it's not good enough'
+**Slug (lower-third):** Monaco 2-2 Man City: Erling Haaland says 'it's not good e…  
+**When:** 2025-10-01 17:33 (America/Winnipeg)  •  **Published:** 2025-10-01 22:33 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Monaco 2-2 Man City: Erling Haaland says 'it's not good enough'. Pep Guardiola said he was not concerned about the late goals being conceded by Manchester City, but his side let in a 90th-minute penalty against Monaco in the Champions League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Monaco 2-2 Man City: Erling Haaland says 'it's not good enough'. https://www.bbc.com/sport/football/articles/c62zeg18py3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Pep Guardiola makes 'Spanish referees' remark after Manchester City held to draw
+**Slug (lower-third):** Pep Guardiola makes 'Spanish referees' remark after Manch…  
+**When:** 2025-10-01 17:26 (America/Winnipeg)  •  **Published:** 2025-10-01 22:26 (UTC)  
+**Virality score:** 93  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Pep Guardiola makes 'Spanish referees' remark after Manchester City held to draw. Pep Guardiola said he had 'nothing to say to Spanish referees' after a late Monaco penalty pegged Manchester City back to a 2-2 draw in the principality Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Pep Guardiola makes 'Spanish referees' remark after Manchester City held to draw. https://www.theguardian.com/football/2025/oct/01/pep-guardiola-makes-spanish-referees-remark-after-manchester-city-held-to-draw
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Champions League: Eric Dier scores a late penalty for AS Monaco to snatch a draw against Manchester City
 **Slug (lower-third):** Champions League: Eric Dier scores a late penalty for AS …  
 **When:** 2025-10-01 16:19 (America/Winnipeg)  •  **Published:** 2025-10-01 21:19 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Champions League: Eric Dier scores a late penalty for AS Monaco to snatch a draw against Manchester City. Former Tottenham Hotspur defender Eric Dier wins a dramatic late penalty before converting to seal a 2-2 draw for Monaco against Manchester City in the Champions League. Relevance to standings and momentum.
@@ -204,54 +252,6 @@ Champions League: Eric Dier scores a late penalty for AS Monaco to snatch a draw
 
 ### Sources
 - bbc.com — Champions League: Eric Dier scores a late penalty for AS Monaco to snatch a draw against Manchester City. https://www.bbc.com/sport/football/videos/c0m42gy8xmyo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Champions League Analysis: How Liverpool caused their own problems against Galatasaray
-**Slug (lower-third):** Champions League Analysis: How Liverpool caused their own…  
-**When:** 2025-10-01 16:00 (America/Winnipeg)  •  **Published:** 2025-10-01 21:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League Analysis: How Liverpool caused their own problems against Galatasaray. Champions League analyst Nedum Onuoha looks at how Liverpool's errors in their defeat to Galatasaray in the Champions League were mostly "self inflicted". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League Analysis: How Liverpool caused their own problems against Galatasaray. https://www.bbc.com/sport/football/videos/cx251yg9v85o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Erling Haaland: Manchester City striker scores twice against Monaco in the Champions League
-**Slug (lower-third):** Erling Haaland: Manchester City striker scores twice agai…  
-**When:** 2025-10-01 16:00 (America/Winnipeg)  •  **Published:** 2025-10-01 21:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Erling Haaland: Manchester City striker scores twice against Monaco in the Champions League. Erling Haaland scores twice for Manchester City against Monaco, taking the Norwegian's tally to 52 goals in 50 games in the Champions League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Erling Haaland: Manchester City striker scores twice against Monaco in the Champions League. https://www.bbc.com/sport/football/videos/c0jq2v6x444o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
