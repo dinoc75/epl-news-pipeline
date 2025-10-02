@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-02 07:40 (America/Winnipeg)  |  2025-10-02 12:40 (UTC)
+**Generated:** 2025-10-02 13:29 (America/Winnipeg)  |  2025-10-02 18:29 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 35s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Masters denies Premier League transfer spending is damaging European football
-- WSL: Manchester United's Ella Toone and Millie Turner on Confession Cam
-- New signings lighting up the Premier League - and those yet to shine
+- Premier League predictions: Chris Sutton v Idlewild guitarist Rod Jones and AI
+- England: Thomas Tuchel could call Jack Grealish and Phil Foden for Wales and Latvia fixtures as big stars return to form
+- Phil Foden pushing for England recall after return to form for Manchester City
 
 ---
 
 ### Transfers
 
-## Story 1: Masters denies Premier League transfer spending is damaging European football
-**Slug (lower-third):** Masters denies Premier League transfer spending is damagi…  
-**When:** 2025-10-02 07:28 (America/Winnipeg)  •  **Published:** 2025-10-02 12:28 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: West Ham tumble in modern football's vortex, with home now a distant memory | Jonathan Liew
+**Slug (lower-third):** West Ham tumble in modern football's vortex, with home no…  
+**When:** 2025-10-02 02:00 (America/Winnipeg)  •  **Published:** 2025-10-02 07:00 (UTC)  
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Masters denies Premier League transfer spending is damaging European football. Richard Masters, the Premier League's chief executive, has denied that the top flight's transfer spending is damaging European football Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+West Ham tumble in modern football's vortex, with home now a distant memory | Jonathan Liew. A feeling of loss and dislocation surrounds the East End club, which has never been part of tourist or establishment London Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,83 @@ Masters denies Premier League transfer spending is damaging European football. R
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Masters denies Premier League transfer spending is damaging European football. https://www.theguardian.com/football/2025/oct/02/masters-denies-premier-league-transfer-spending-is-damaging-european-football
+- theguardian.com — West Ham tumble in modern football's vortex, with home now a distant memory | Jonathan Liew. https://www.theguardian.com/football/2025/oct/02/west-ham-modern-football-home-distant-memory-upton-park-london-stadium
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: England: Thomas Tuchel could call Jack Grealish and Phil Foden for Wales and Latvia fixtures as big stars return to form
+**Slug (lower-third):** England: Thomas Tuchel could call Jack Grealish and Phil …  
+**When:** 2025-10-02 12:06 (America/Winnipeg)  •  **Published:** 2025-10-02 17:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+England: Thomas Tuchel could call Jack Grealish and Phil Foden for Wales and Latvia fixtures as big stars return to form. Jack Grealish hasnt featured for England during Thomas Tuchels reign, last playing for Three Lions in October 2024; winger is shining for Everton, while Phil Fodens in form for Man City and could be recalled; Crystal Palaces Tyrick Mitchell also in contention for long-awaited recall Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — England: Thomas Tuchel could call Jack Grealish and Phil Foden for Wales and Latvia fixtures as big stars return to form. https://www.skysports.com/football/news/12040/13442975/england-thomas-tuchel-could-call-jack-grealish-and-phil-foden-for-wales-and-latvia-fixtures-as-big-stars-return-to-form
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Phil Foden pushing for England recall after return to form for Manchester City
+**Slug (lower-third):** Phil Foden pushing for England recall after return to for…  
+**When:** 2025-10-02 11:52 (America/Winnipeg)  •  **Published:** 2025-10-02 16:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Phil Foden pushing for England recall after return to form for Manchester City. Manchester City attacker has been in fine form, while Jude Bellingham and Bukayo Saka could also return for the Wales and Latvia matches Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Phil Foden pushing for England recall after return to form for Manchester City. https://www.theguardian.com/football/2025/oct/02/phil-foden-pushing-for-england-recall-after-return-to-form-for-manchester-city
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 4: Premier League decision on PSR changes 'coming up' - Richard Masters
+**Slug (lower-third):** Premier League decision on PSR changes 'coming up' - Rich…  
+**When:** 2025-10-02 11:06 (America/Winnipeg)  •  **Published:** 2025-10-02 16:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League decision on PSR changes 'coming up' - Richard Masters. A decision on whether to scrap the Premier League's profit and sustainability rules and adopt an "alternative system" is "coming up", says Richard Masters. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League decision on PSR changes 'coming up' - Richard Masters. https://www.bbc.com/sport/football/articles/cvg4lxdlmgjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,10 +118,58 @@ Masters denies Premier League transfer spending is damaging European football. R
 
 ### Club Updates
 
-## Story 2: WSL: Manchester United's Ella Toone and Millie Turner on Confession Cam
+## Story 5: Premier League predictions: Chris Sutton v Idlewild guitarist Rod Jones and AI
+**Slug (lower-third):** Premier League predictions: Chris Sutton v Idlewild guita…  
+**When:** 2025-10-02 12:28 (America/Winnipeg)  •  **Published:** 2025-10-02 17:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League predictions: Chris Sutton v Idlewild guitarist Rod Jones and AI. BBC Sport football expert Chris Sutton takes on Idlewild guitarist Rod Jones with his predictions for this weekend's Premier League fixtures. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League predictions: Chris Sutton v Idlewild guitarist Rod Jones and AI. https://www.bbc.com/sport/football/articles/czxw9q7pex1o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Women's Champions Cup: London to host inaugural inter-continental championship
+**Slug (lower-third):** Women's Champions Cup: London to host inaugural inter-con…  
+**When:** 2025-10-02 09:58 (America/Winnipeg)  •  **Published:** 2025-10-02 14:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Women's Champions Cup: London to host inaugural inter-continental championship. London will host the final matches in the new Women's Champions Cup early next year, with European champions Arsenal among the four competing teams. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Women's Champions Cup: London to host inaugural inter-continental championship. https://www.bbc.com/sport/football/articles/c749y80x9exo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: WSL: Manchester United's Ella Toone and Millie Turner on Confession Cam
 **Slug (lower-third):** WSL: Manchester United's Ella Toone and Millie Turner on …  
 **When:** 2025-10-02 07:22 (America/Winnipeg)  •  **Published:** 2025-10-02 12:22 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 WSL: Manchester United's Ella Toone and Millie Turner on Confession Cam. Manchester United players including Ella Toone, Millie Turner, Phallon Tullis-Joyce and Gabby George get a few things off their chests about their team-mates in Confession Cam. Relevance to standings and momentum.
@@ -66,82 +190,10 @@ WSL: Manchester United's Ella Toone and Millie Turner on Confession Cam. Manches
 
 ---
 
-## Story 3: New signings lighting up the Premier League - and those yet to shine
-**Slug (lower-third):** New signings lighting up the Premier League - and those y…  
-**When:** 2025-10-02 07:06 (America/Winnipeg)  •  **Published:** 2025-10-02 12:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-New signings lighting up the Premier League - and those yet to shine. Nordi Mukiele, Mohammed Kudus and Hugo Ekitike have started quickly, unlike Florian Wirtz, Anthony Elanga and Benjamin Sesko Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — New signings lighting up the Premier League - and those yet to shine. https://www.theguardian.com/football/who-scored-blog/2025/oct/02/new-signings-premier-league-mohammed-kudus-hugo-ekitike-florian-wirtz-anthony-elanga-benjamin-sesko
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Paul Merson's warning for Man Utd over Crystal Palace boss Oliver Glasner: 'He's not the right fit for United'
-**Slug (lower-third):** Paul Merson's warning for Man Utd over Crystal Palace bos…  
-**When:** 2025-10-02 07:00 (America/Winnipeg)  •  **Published:** 2025-10-02 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
-
-### Presenter Script (3–5 sentences)
-Paul Merson's warning for Man Utd over Crystal Palace boss Oliver Glasner: 'He's not the right fit for United'. Sky Sports Paul Merson on Oliver Glasner being linked to the Man Utd job: Id be concerned about Glasner going to Man Utd. Hes a three at the back man and it is being proven that it is a system that just doesnt fit the players at Man Utd. Glasner is not a good fit for Man Utd. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Paul Merson's warning for Man Utd over Crystal Palace boss Oliver Glasner: 'He's not the right fit for United'. https://www.skysports.com/football/news/12040/13442142/paul-mersons-warning-for-crystal-palace-boss-oliver-glasner-hes-not-the-right-fit-for-man-utd
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Martinelli welcomes competition for places as Arsenal's squad depth fuels belief
-**Slug (lower-third):** Martinelli welcomes competition for places as Arsenal's s…  
-**When:** 2025-10-02 06:34 (America/Winnipeg)  •  **Published:** 2025-10-02 11:34 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Martinelli welcomes competition for places as Arsenal's squad depth fuels belief. Arsenal substitutes have scored in five consecutive games and a sense of purpose is growing in Arteta's side Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Martinelli welcomes competition for places as Arsenal's squad depth fuels belief. https://www.theguardian.com/football/2025/oct/02/martinelli-welcomes-competition-for-places-as-arsenal-squad-depth-fuels-belief
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Chelsea fan relations flare-up over ticket prices and touting
+## Story 8: Chelsea fan relations flare-up over ticket prices and touting
 **Slug (lower-third):** Chelsea fan relations flare-up over ticket prices and tou…  
 **When:** 2025-10-02 06:27 (America/Winnipeg)  •  **Published:** 2025-10-02 11:27 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Chelsea fan relations flare-up over ticket prices and touting. Chelsea are back in the Champions League, but relations between parts of the fanbase and the club hierarchy have turned sour. Relevance to standings and momentum.
@@ -162,13 +214,13 @@ Chelsea fan relations flare-up over ticket prices and touting. Chelsea are back 
 
 ---
 
-## Story 7: Rodri replacements in short supply with Manchester City's metronome lacking rhythm | Will Unwin
-**Slug (lower-third):** Rodri replacements in short supply with Manchester City's…  
-**When:** 2025-10-02 06:10 (America/Winnipeg)  •  **Published:** 2025-10-02 11:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Martinelli welcomes competition for places as Arsenal's squad depth fuels belief
+**Slug (lower-third):** Martinelli welcomes competition for places as Arsenal's s…  
+**When:** 2025-10-02 06:34 (America/Winnipeg)  •  **Published:** 2025-10-02 11:34 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Rodri replacements in short supply with Manchester City's metronome lacking rhythm | Will Unwin. Nico Gonzalez's error against Monaco highlighted the glaring need for a succession plan in midfield Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Martinelli welcomes competition for places as Arsenal's squad depth fuels belief. Arsenal substitutes have scored in five consecutive games and a sense of purpose is growing in Arteta's side Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +229,7 @@ Rodri replacements in short supply with Manchester City's metronome lacking rhyt
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Rodri replacements in short supply with Manchester City's metronome lacking rhythm | Will Unwin. https://www.theguardian.com/football/2025/oct/02/rodri-replacements-in-short-supply-with-manchester-city-midfield-metronome-lacking-rhythm
+- theguardian.com — Martinelli welcomes competition for places as Arsenal's squad depth fuels belief. https://www.theguardian.com/football/2025/oct/02/martinelli-welcomes-competition-for-places-as-arsenal-squad-depth-fuels-belief
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,34 +238,10 @@ Rodri replacements in short supply with Manchester City's metronome lacking rhyt
 
 ---
 
-## Story 8: A Dier finish for Manchester City in Monaco and a Premier League preview: Football Weekly Extra - podcast
-**Slug (lower-third):** A Dier finish for Manchester City in Monaco and a Premier…  
-**When:** 2025-10-02 05:34 (America/Winnipeg)  •  **Published:** 2025-10-02 10:34 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-A Dier finish for Manchester City in Monaco and a Premier League preview: Football Weekly Extra - podcast. Max Rushden is joined by Barry Glendenning, Lars Sivertsen and Mark Langdon, as Monaco score a late penalty against City in Europe and there are straightforward wins for Arsenal and Newcastle Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — A Dier finish for Manchester City in Monaco and a Premier League preview: Football Weekly Extra - podcast. https://www.theguardian.com/football/audio/2025/oct/02/a-dier-finish-for-manchester-city-in-monaco-and-a-premier-league-preview-football-weekly-extra-podcast
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: 'Unbeatable unity': the Holmesdale Fanatics on art and activism at Crystal Palace
+## Story 10: 'Unbeatable unity': the Holmesdale Fanatics on art and activism at Crystal Palace
 **Slug (lower-third):** 'Unbeatable unity': the Holmesdale Fanatics on art and ac…  
 **When:** 2025-10-02 04:00 (America/Winnipeg)  •  **Published:** 2025-10-02 09:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'Unbeatable unity': the Holmesdale Fanatics on art and activism at Crystal Palace. The ultras are celebrating 20 years of bringing tifos, noise and passion to the terraces at Selhurst Park Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -226,30 +254,6 @@ A Dier finish for Manchester City in Monaco and a Premier League preview: Footba
 
 ### Sources
 - theguardian.com — 'Unbeatable unity': the Holmesdale Fanatics on art and activism at Crystal Palace. https://www.theguardian.com/football/2025/oct/02/unbeatable-unity-holmesdale-fanatics-art-activism-crystal-palace-tifos-noise-selhurst-park
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: John McGovern interview: Nottingham Forest's European Cup winning captain still happy 'chasing balls' in training
-**Slug (lower-third):** John McGovern interview: Nottingham Forest's European Cup…  
-**When:** 2025-10-02 03:00 (America/Winnipeg)  •  **Published:** 2025-10-02 08:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-John McGovern interview: Nottingham Forest's European Cup winning captain still happy 'chasing balls' in training. In this exclusive interview with Sky Sports, Nottingham Forest legend John McGovern explains why he continues to attend first-team training at the age of 75, discusses the changes that he has seen and reveals why Brian Clough never intimidated him... Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — John McGovern interview: Nottingham Forest's European Cup winning captain still happy 'chasing balls' in training. https://www.skysports.com/football/news/12040/13429399/john-mcgovern-interview-nottingham-forests-european-cup-winning-captain-still-happy-chasing-balls-in-training
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
