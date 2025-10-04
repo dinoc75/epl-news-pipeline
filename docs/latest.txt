@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-03 20:24 (America/Winnipeg)  |  2025-10-04 01:24 (UTC)
+**Generated:** 2025-10-04 01:28 (America/Winnipeg)  |  2025-10-04 06:28 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 26s
@@ -8,9 +8,9 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Women's Super League: Manchester United left wanting more despite 'statement' draw against Chelsea
-- Antoine Semenyo: Bournemouth's world class winger fires them to 'unthinkable' heights
-- Ruben Amorim: Manchester United head coach says he will not resign and insists his system is not the problem as pressure builds
+- Hugo Ekitike: Winning Premier League with Liverpool would be 'class'
+- Hugo Ekitike: Liverpool forward in his own words
+- Bournemouth 3-1 Fulham | Premier League highlights
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Ruben Amorim: Manchester United head coach says he will not resign and insists his system is not the problem as pressure builds
 **Slug (lower-third):** Ruben Amorim: Manchester United head coach says he will n…  
 **When:** 2025-10-03 17:30 (America/Winnipeg)  •  **Published:** 2025-10-03 22:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+**Virality score:** 94  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
 Ruben Amorim: Manchester United head coach says he will not resign and insists his system is not the problem as pressure builds. Ruben Amorim: What makes me suffer is to lose games, not to lose my job; Man Utd are 14th in the Premier League; watch free highlights from Man Utds Premier League meeting with Sunderland on the Sky Sports website and app from 5.15pm on Saturday Relevance to standings and momentum.
@@ -43,7 +43,7 @@ Ruben Amorim: Manchester United head coach says he will not resign and insists h
 ## Story 2: Ruben Amorim: Under-fire Man Utd boss says 'you can't run away from results'
 **Slug (lower-third):** Ruben Amorim: Under-fire Man Utd boss says 'you can't run…  
 **When:** 2025-10-03 16:30 (America/Winnipeg)  •  **Published:** 2025-10-03 21:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Ruben Amorim: Under-fire Man Utd boss says 'you can't run away from results'. Manchester United head coach Ruben Amorim admits he cannot hide from his dire record and it is 'normal' that Old Trafford legends criticise him. Relevance to standings and momentum.
@@ -64,39 +64,15 @@ Ruben Amorim: Under-fire Man Utd boss says 'you can't run away from results'. Ma
 
 ---
 
-## Story 3: Liverpool out of tune but Arne Slot working on finding better rhythm
-**Slug (lower-third):** Liverpool out of tune but Arne Slot working on finding be…  
-**When:** 2025-10-03 16:30 (America/Winnipeg)  •  **Published:** 2025-10-03 21:30 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool out of tune but Arne Slot working on finding better rhythm. More defensive opponents making life hard for champions but manager says Wirtz and different tactics will bear fruit Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Liverpool out of tune but Arne Slot working on finding better rhythm. https://www.theguardian.com/football/2025/oct/03/liverpool-arne-slot-rhythm-florian-wirtz
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 4: Women's Super League: Manchester United left wanting more despite 'statement' draw against Chelsea
-**Slug (lower-third):** Women's Super League: Manchester United left wanting more…  
-**When:** 2025-10-03 17:49 (America/Winnipeg)  •  **Published:** 2025-10-03 22:49 (UTC)  
+## Story 3: Hugo Ekitike: Winning Premier League with Liverpool would be 'class'
+**Slug (lower-third):** Hugo Ekitike: Winning Premier League with Liverpool would…  
+**When:** 2025-10-04 00:07 (America/Winnipeg)  •  **Published:** 2025-10-04 05:07 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Women's Super League: Manchester United left wanting more despite 'statement' draw against Chelsea. Manchester United end Chelsea's 100% start to the Women's Super League season in a "statement" draw, but they were left wanting more. Relevance to standings and momentum.
+Hugo Ekitike: Winning Premier League with Liverpool would be 'class'. Liverpool striker Hugo Ekitike tells Kelly Somers about his "pride" to play for the Reds and his hopes and ambitions for the future at Anfield. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +81,7 @@ Women's Super League: Manchester United left wanting more despite 'statement' dr
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Women's Super League: Manchester United left wanting more despite 'statement' draw against Chelsea. https://www.bbc.com/sport/football/articles/cpvl3p94107o?at_medium=RSS&at_campaign=rss
+- bbc.com — Hugo Ekitike: Winning Premier League with Liverpool would be 'class'. https://www.bbc.com/sport/football/videos/cgrqk02jwp2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +90,13 @@ Women's Super League: Manchester United left wanting more despite 'statement' dr
 
 ---
 
-## Story 5: Antoine Semenyo: Bournemouth's world class winger fires them to 'unthinkable' heights
-**Slug (lower-third):** Antoine Semenyo: Bournemouth's world class winger fires t…  
-**When:** 2025-10-03 17:45 (America/Winnipeg)  •  **Published:** 2025-10-03 22:45 (UTC)  
+## Story 4: Hugo Ekitike: Liverpool forward in his own words
+**Slug (lower-third):** Hugo Ekitike: Liverpool forward in his own words  
+**When:** 2025-10-04 00:06 (America/Winnipeg)  •  **Published:** 2025-10-04 05:06 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Antoine Semenyo: Bournemouth's world class winger fires them to 'unthinkable' heights. While Bournemouth stars were leaving left, right and centre in the summer, one stayed - Antoine Semenyo - and he has taken the team up to second spot. Relevance to standings and momentum.
+Hugo Ekitike: Liverpool forward in his own words. Hugo Ekitike sits down with Kelly Somers to discuss playing for Liverpool and being a private person. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +105,7 @@ Antoine Semenyo: Bournemouth's world class winger fires them to 'unthinkable' he
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Antoine Semenyo: Bournemouth's world class winger fires them to 'unthinkable' heights. https://www.bbc.com/sport/football/articles/cly18xx7rnno?at_medium=RSS&at_campaign=rss
+- bbc.com — Hugo Ekitike: Liverpool forward in his own words. https://www.bbc.com/sport/football/articles/cly18ld7zvyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,7 +114,7 @@ Antoine Semenyo: Bournemouth's world class winger fires them to 'unthinkable' he
 
 ---
 
-## Story 6: Bournemouth 3-1 Fulham | Premier League highlights
+## Story 5: Bournemouth 3-1 Fulham | Premier League highlights
 **Slug (lower-third):** Bournemouth 3-1 Fulham | Premier League highlights  
 **When:** 2025-10-03 17:26 (America/Winnipeg)  •  **Published:** 2025-10-03 22:26 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -163,10 +139,58 @@ Bournemouth 3-1 Fulham | Premier League highlights. FREE TO WATCH: Highlights fr
 
 ---
 
-## Story 7: 'Let's embrace change': Nuno believes West Ham can turn season around
+## Story 6: Women's Super League: Manchester United left wanting more despite 'statement' draw against Chelsea
+**Slug (lower-third):** Women's Super League: Manchester United left wanting more…  
+**When:** 2025-10-03 17:49 (America/Winnipeg)  •  **Published:** 2025-10-03 22:49 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Women's Super League: Manchester United left wanting more despite 'statement' draw against Chelsea. Manchester United end Chelsea's 100% start to the Women's Super League season in a "statement" draw, but they were left wanting more. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Women's Super League: Manchester United left wanting more despite 'statement' draw against Chelsea. https://www.bbc.com/sport/football/articles/cpvl3p94107o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Antoine Semenyo: Bournemouth's world class winger fires them to 'unthinkable' heights
+**Slug (lower-third):** Antoine Semenyo: Bournemouth's world class winger fires t…  
+**When:** 2025-10-03 17:45 (America/Winnipeg)  •  **Published:** 2025-10-03 22:45 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Antoine Semenyo: Bournemouth's world class winger fires them to 'unthinkable' heights. While Bournemouth stars were leaving left, right and centre in the summer, one stayed - Antoine Semenyo - and he has taken the team up to second spot. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Antoine Semenyo: Bournemouth's world class winger fires them to 'unthinkable' heights. https://www.bbc.com/sport/football/articles/cly18xx7rnno?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: 'Let's embrace change': Nuno believes West Ham can turn season around
 **Slug (lower-third):** 'Let's embrace change': Nuno believes West Ham can turn s…  
 **When:** 2025-10-03 17:11 (America/Winnipeg)  •  **Published:** 2025-10-03 22:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'Let's embrace change': Nuno believes West Ham can turn season around. Nuno Espirito Santo said of West Ham's players: 'They are willing to change. I can see it. So let's embrace it and let's change it' Relevance to standings and momentum.
@@ -187,10 +211,10 @@ Bournemouth 3-1 Fulham | Premier League highlights. FREE TO WATCH: Highlights fr
 
 ---
 
-## Story 8: Ange Postecoglou retains support from Nottingham Forest hierarchy
+## Story 9: Ange Postecoglou retains support from Nottingham Forest hierarchy
 **Slug (lower-third):** Ange Postecoglou retains support from Nottingham Forest h…  
 **When:** 2025-10-03 16:31 (America/Winnipeg)  •  **Published:** 2025-10-03 21:31 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Ange Postecoglou retains support from Nottingham Forest hierarchy. Ange Postecoglou retains the immediate support of the Nottingham Forest hierarchy but pressure is growing following a winless start to his reign. Relevance to standings and momentum.
@@ -211,10 +235,10 @@ Ange Postecoglou retains support from Nottingham Forest hierarchy. Ange Postecog
 
 ---
 
-## Story 9: Man Utd Women 1-1 Chelsea Women: Blues' 100 per cent WSL record this season ended with entertaining draw
+## Story 10: Man Utd Women 1-1 Chelsea Women: Blues' 100 per cent WSL record this season ended with entertaining draw
 **Slug (lower-third):** Man Utd Women 1-1 Chelsea Women: Blues' 100 per cent WSL …  
 **When:** 2025-10-03 16:30 (America/Winnipeg)  •  **Published:** 2025-10-03 21:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man Utd Women 1-1 Chelsea Women: Blues' 100 per cent WSL record this season ended with entertaining draw. Chelsea's 100 per cent record in the Barclays WSL this season has come to an end as they played out an entertaining 1-1 draw against Manchester United. Relevance to standings and momentum.
@@ -227,30 +251,6 @@ Man Utd Women 1-1 Chelsea Women: Blues' 100 per cent WSL record this season ende
 
 ### Sources
 - skysports.com — Man Utd Women 1-1 Chelsea Women: Blues' 100 per cent WSL record this season ended with entertaining draw. https://www.skysports.com/football/manchester-united-women-vs-chelsea-women/report/545629
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Football gossip: Fernandes, Mainoo, Upamecano, Jesus, Molina, Smit, Ten Hag, Chiesa, Timber, Kamada
-**Slug (lower-third):** Football gossip: Fernandes, Mainoo, Upamecano, Jesus, Mol…  
-**When:** 2025-10-03 15:24 (America/Winnipeg)  •  **Published:** 2025-10-03 20:24 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Fernandes, Mainoo, Upamecano, Jesus, Molina, Smit, Ten Hag, Chiesa, Timber, Kamada. Manchester United's desire to hold to captain Bruno Fenandes in January is set to be tested, Liverpool keen on Bayern Munich defender Dayot Upamecano and more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Fernandes, Mainoo, Upamecano, Jesus, Molina, Smit, Ten Hag, Chiesa, Timber, Kamada. https://www.bbc.com/sport/football/articles/cr70x373m47o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
