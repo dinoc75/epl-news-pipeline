@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-05 13:26 (America/Winnipeg)  |  2025-10-05 18:26 (UTC)
+**Generated:** 2025-10-05 20:28 (America/Winnipeg)  |  2025-10-06 01:28 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 27s
+**Estimated total video length:** ~4m 32s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Brentford 0-1 Manchester City | Premier League highlights
-- World Grand Prix Darts: Luke Littler on preparing for 'one of the toughest tournaments to win'
-- Jack Grealish: Everton loanee giving England boss Thomas Tuchel a 'headache'
+- Joe Hart explains why Ange Postecoglou needs time at Nottingham Forest
+- MOTD analysis: Is Newcastle's Nick Woltemade proving his worth?
+- Why Mohamed Salah has become a 'little problem' for LiverpoolA - Danny Murphy analysis
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Jack Grealish: Everton loanee giving England boss Thomas Tuchel a 'headache'
-**Slug (lower-third):** Jack Grealish: Everton loanee giving England boss Thomas …  
-**When:** 2025-10-05 12:43 (America/Winnipeg)  •  **Published:** 2025-10-05 17:43 (UTC)  
+## Story 1: Match of the Day Thomas Tuchel will have eyes on Jack Grealish - Danny Murphy
+**Slug (lower-third):** Match of the Day Thomas Tuchel will have eyes on Jack Gre…  
+**When:** 2025-10-05 17:27 (America/Winnipeg)  •  **Published:** 2025-10-05 22:27 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jack Grealish: Everton loanee giving England boss Thomas Tuchel a 'headache'. Two days after being left out of the England squad, has Jack Grealish given manager Thomas Tuchel "a headache"? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Match of the Day Thomas Tuchel will have eyes on Jack Grealish - Danny Murphy. Match of the Day's Danny Murphy says England manager Thomas Tuchel having his eyes on Jack Grealish for international duty is "inevitable" if he keeps up his strong performances for Everton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Jack Grealish: Everton loanee giving England boss Thomas Tuchel a 'headache'. Tw
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Jack Grealish: Everton loanee giving England boss Thomas Tuchel a 'headache'. https://www.bbc.com/sport/football/articles/cpd9701jnylo?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day Thomas Tuchel will have eyes on Jack Grealish - Danny Murphy. https://www.bbc.com/sport/football/videos/c20ej0jzk57o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,7 +40,56 @@ Jack Grealish: Everton loanee giving England boss Thomas Tuchel a 'headache'. Tw
 
 ---
 
-## Story 2: Ange Postecoglou: Nottingham Forest boss 'expects' talks with owner
+## Story 2: Russell Martin sacked by Rangers: Ibrox side dismiss head coach following Falkirk draw after 123 days in charge
+**Slug (lower-third):** Russell Martin sacked by Rangers: Ibrox side dismiss head…  
+**When:** 2025-10-05 16:30 (America/Winnipeg)  •  **Published:** 2025-10-05 21:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Russell Martin sacked by Rangers: Ibrox side dismiss head coach following Falkirk draw after 123 days in charge. Rangers have sacked their fourth manager in under three years; ex-Southampton manager won one of his seven league games in charge and lost both Europa League ties, although did progress in the League Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Russell Martin sacked by Rangers: Ibrox side dismiss head coach following Falkirk draw after 123 days in charge. https://www.skysports.com/football/news/12040/13437914/russell-martin-sacked-by-rangers-ibrox-side-dismiss-head-coach-following-falkirk-draw-after-123-days-in-charge
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Premier League highlights: Brentford 0-1 Man City
+**Slug (lower-third):** Premier League highlights: Brentford 0-1 Man City  
+**When:** 2025-10-05 13:59 (America/Winnipeg)  •  **Published:** 2025-10-05 18:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League highlights: Brentford 0-1 Man City. Watch highlights as Erling Haaland's early goal gives manager Pep Guardiola his 250th Premier League victory, with Manchester City scraping a win at Brentford. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League highlights: Brentford 0-1 Man City. https://www.bbc.com/sport/football/videos/c78ngp4j1y4o?at_medium=RSS&at_campaign=rss
+- skysports.com — Brentford 0-1 Manchester City | Premier League highlights. https://www.skysports.com/watch/video/13445550/brentford-0-1-manchester-city-premier-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Ange Postecoglou: Nottingham Forest boss 'expects' talks with owner
 **Slug (lower-third):** Ange Postecoglou: Nottingham Forest boss 'expects' talks …  
 **When:** 2025-10-05 12:21 (America/Winnipeg)  •  **Published:** 2025-10-05 17:21 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -67,13 +116,13 @@ Ange Postecoglou: Nottingham Forest boss 'expects' talks with owner. Ange Postec
 
 ### Club Updates
 
-## Story 3: Brentford 0-1 Manchester City | Premier League highlights
-**Slug (lower-third):** Brentford 0-1 Manchester City | Premier League highlights  
-**When:** 2025-10-05 13:38 (America/Winnipeg)  •  **Published:** 2025-10-05 18:38 (UTC)  
+## Story 5: Joe Hart explains why Ange Postecoglou needs time at Nottingham Forest
+**Slug (lower-third):** Joe Hart explains why Ange Postecoglou needs time at Nott…  
+**When:** 2025-10-05 18:10 (America/Winnipeg)  •  **Published:** 2025-10-05 23:10 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brentford 0-1 Manchester City | Premier League highlights. FREE TO WATCH: Highlights from Brentford's match against Manchester City in the Premier League. Relevance to standings and momentum.
+Joe Hart explains why Ange Postecoglou needs time at Nottingham Forest. Match of the Day's Joe Hart talks about his experience playing under Ange Postecoglou at Celtic to explain why he should be given more time at Nottingham Forest. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -82,7 +131,7 @@ Brentford 0-1 Manchester City | Premier League highlights. FREE TO WATCH: Highli
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Brentford 0-1 Manchester City | Premier League highlights. https://www.skysports.com/watch/video/13445550/brentford-0-1-manchester-city-premier-league-highlights
+- bbc.com — Joe Hart explains why Ange Postecoglou needs time at Nottingham Forest. https://www.bbc.com/sport/football/videos/cx2rzg05eweo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -91,13 +140,13 @@ Brentford 0-1 Manchester City | Premier League highlights. FREE TO WATCH: Highli
 
 ---
 
-## Story 4: World Grand Prix Darts: Luke Littler on preparing for 'one of the toughest tournaments to win'
-**Slug (lower-third):** World Grand Prix Darts: Luke Littler on preparing for 'on…  
-**When:** 2025-10-05 12:53 (America/Winnipeg)  •  **Published:** 2025-10-05 17:53 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 6: MOTD analysis: Is Newcastle's Nick Woltemade proving his worth?
+**Slug (lower-third):** MOTD analysis: Is Newcastle's Nick Woltemade proving his …  
+**When:** 2025-10-05 17:53 (America/Winnipeg)  •  **Published:** 2025-10-05 22:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-World Grand Prix Darts: Luke Littler on preparing for 'one of the toughest tournaments to win'. Luke Littler on why the unique World Grand Prix format is so hard for him: Ill be honest, I didnt like it; you can watch the BoyleSports World Grand Prix live on Sky Sports from October 6-12 at the Mattioli Arena, Leicester Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+MOTD analysis: Is Newcastle's Nick Woltemade proving his worth?. Match of the Day's Kelly Cates, Joe Hart and Danny Murphy discuss whether Nick Woltemade is proving he is worth the APS69m Newcastle paid for him in the summer. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,7 +155,7 @@ World Grand Prix Darts: Luke Littler on preparing for 'one of the toughest tourn
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — World Grand Prix Darts: Luke Littler on preparing for 'one of the toughest tournaments to win'. https://www.skysports.com/darts/news/12040/13445511/world-grand-prix-darts-luke-littler-on-preparing-for-one-of-the-toughest-tournaments-to-win
+- bbc.com — MOTD analysis: Is Newcastle's Nick Woltemade proving his worth?. https://www.bbc.com/sport/football/videos/cpvleyn4nw3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,13 +164,13 @@ World Grand Prix Darts: Luke Littler on preparing for 'one of the toughest tourn
 
 ---
 
-## Story 5: Erling Haaland powers in early goal to earn Manchester City victory at Brentford
-**Slug (lower-third):** Erling Haaland powers in early goal to earn Manchester Ci…  
-**When:** 2025-10-05 12:34 (America/Winnipeg)  •  **Published:** 2025-10-05 17:34 (UTC)  
+## Story 7: Why Mohamed Salah has become a 'little problem' for LiverpoolA - Danny Murphy analysis
+**Slug (lower-third):** Why Mohamed Salah has become a 'little problem' for Liver…  
+**When:** 2025-10-05 17:27 (America/Winnipeg)  •  **Published:** 2025-10-05 22:27 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Erling Haaland powers in early goal to earn Manchester City victory at Brentford. The Norway forward scored in the ninth minute from a Josko Gvardiol pass to earn Manchester City a 1-0 away victory at Brentford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Why Mohamed Salah has become a 'little problem' for LiverpoolA - Danny Murphy analysis. MOTD pundit Danny Murphy explains why Mohamed Salah's lack of defensive work has become an issue for Liverpool down their right flank. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,7 +179,7 @@ Erling Haaland powers in early goal to earn Manchester City victory at Brentford
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Erling Haaland powers in early goal to earn Manchester City victory at Brentford. https://www.theguardian.com/football/2025/oct/05/brentford-manchester-city-premier-league-match-report
+- bbc.com — Why Mohamed Salah has become a 'little problem' for LiverpoolA - Danny Murphy analysis. https://www.bbc.com/sport/football/articles/c79vgyyx0vdo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -139,13 +188,13 @@ Erling Haaland powers in early goal to earn Manchester City victory at Brentford
 
 ---
 
-## Story 6: WSL highlights: Villa beat West Ham with two stunning strikes
-**Slug (lower-third):** WSL highlights: Villa beat West Ham with two stunning str…  
-**When:** 2025-10-05 12:27 (America/Winnipeg)  •  **Published:** 2025-10-05 17:27 (UTC)  
+## Story 8: Troy Deeney's Team of the Week: Lammens, Saliba, Caicedo, Semenyo, Haaland
+**Slug (lower-third):** Troy Deeney's Team of the Week: Lammens, Saliba, Caicedo,…  
+**When:** 2025-10-05 16:37 (America/Winnipeg)  •  **Published:** 2025-10-05 21:37 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL highlights: Villa beat West Ham with two stunning strikes. Aston Villa claim their first WSL win of the season with two impressive goals and inflict a seventh successive league loss on West Ham. Relevance to standings and momentum.
+Troy Deeney's Team of the Week: Lammens, Saliba, Caicedo, Semenyo, Haaland. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -154,7 +203,7 @@ WSL highlights: Villa beat West Ham with two stunning strikes. Aston Villa claim
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL highlights: Villa beat West Ham with two stunning strikes. https://www.bbc.com/sport/football/videos/c4gk31z6ee6o?at_medium=RSS&at_campaign=rss
+- bbc.com — Troy Deeney's Team of the Week: Lammens, Saliba, Caicedo, Semenyo, Haaland. https://www.bbc.com/sport/football/articles/ce84l8467pgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -163,13 +212,13 @@ WSL highlights: Villa beat West Ham with two stunning strikes. Aston Villa claim
 
 ---
 
-## Story 7: WSL: Tottenham 1-0 Brighton - Cathinka Tandberg scores winner
-**Slug (lower-third):** WSL: Tottenham 1-0 Brighton - Cathinka Tandberg scores wi…  
-**When:** 2025-10-05 12:07 (America/Winnipeg)  •  **Published:** 2025-10-05 17:07 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Erling Haaland: Man City striker is English football's 'greatest goalscorer' ever, says Jamie Carragher
+**Slug (lower-third):** Erling Haaland: Man City striker is English football's 'g…  
+**When:** 2025-10-05 16:31 (America/Winnipeg)  •  **Published:** 2025-10-05 21:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-WSL: Tottenham 1-0 Brighton - Cathinka Tandberg scores winner. Watch highlights as Cathinka Tandberg scores her third Women's Super League goal of the season as Tottenham beat Brighton 1-0 to move third in the table. Relevance to standings and momentum.
+Erling Haaland: Man City striker is English football's 'greatest goalscorer' ever, says Jamie Carragher. Erling Haaland scored for the ninth game in a row to fire Man City to a 1-0 win at Brentford on Sunday; Norway striker has 18 goals in 11 appearances this season; Sky Sports pundit Jamie Carragher says weve never seen before the goalscoring ability of Haaland Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -178,7 +227,7 @@ WSL: Tottenham 1-0 Brighton - Cathinka Tandberg scores winner. Watch highlights 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL: Tottenham 1-0 Brighton - Cathinka Tandberg scores winner. https://www.bbc.com/sport/football/videos/c0r0dyrw7d1o?at_medium=RSS&at_campaign=rss
+- skysports.com — Erling Haaland: Man City striker is English football's 'greatest goalscorer' ever, says Jamie Carragher. https://www.skysports.com/football/news/12040/13445690/erling-haaland-man-city-striker-is-english-footballs-greatest-goalscorer-ever-says-jamie-carragher
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -187,13 +236,13 @@ WSL: Tottenham 1-0 Brighton - Cathinka Tandberg scores winner. Watch highlights 
 
 ---
 
-## Story 8: Liverpool and West Ham: Nine games, nine losses for dire WSL bottom two
-**Slug (lower-third):** Liverpool and West Ham: Nine games, nine losses for dire …  
-**When:** 2025-10-05 11:17 (America/Winnipeg)  •  **Published:** 2025-10-05 16:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Football gossip: Reguilon, Semenyo, Yildiz, Guehi, Zirkzee, Endrick, Ward-Prowse, Araujo, Saka, Konate
+**Slug (lower-third):** Football gossip: Reguilon, Semenyo, Yildiz, Guehi, Zirkze…  
+**When:** 2025-10-05 16:04 (America/Winnipeg)  •  **Published:** 2025-10-05 21:04 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool and West Ham: Nine games, nine losses for dire WSL bottom two. Nine games, nine defeats. Three goals scored, 24 conceded. The combined records of Liverpool and West Ham United in the Women's Super League make very bleak reading. Relevance to standings and momentum.
+Football gossip: Reguilon, Semenyo, Yildiz, Guehi, Zirkzee, Endrick, Ward-Prowse, Araujo, Saka, Konate. Sergio Reguilon is in talks with Inter Miami, Chelsea want Bournemouth's Antoine Semenyo, Arsenal send scouts to watch Kenan Yildiz, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -202,56 +251,7 @@ Liverpool and West Ham: Nine games, nine losses for dire WSL bottom two. Nine ga
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool and West Ham: Nine games, nine losses for dire WSL bottom two. https://www.bbc.com/sport/football/articles/c20zeek4pe7o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Newcastle United 2-0 Nottingham Forest | Premier League highlights
-**Slug (lower-third):** Newcastle United 2-0 Nottingham Forest | Premier League h…  
-**When:** 2025-10-05 11:14 (America/Winnipeg)  •  **Published:** 2025-10-05 16:14 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Newcastle United 2-0 Nottingham Forest | Premier League highlights. FREE TO WATCH: Highlights from Newcastle United's match against Nottingham Forest in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Newcastle United 2-0 Nottingham Forest | Premier League highlights. https://www.skysports.com/watch/video/13445372/newcastle-united-2-0-nottingham-forest-premier-league-highlights
-- bbc.com — Premier League highlights: Manchester United 2-0 Sunderland. https://www.bbc.com/sport/football/videos/cy85e9d3ld5o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Newcastle 2-0 Nottingham Forest: Nick Woltemade and Bruno Guimaraes goals pile pressure on Ange Postecoglou
-**Slug (lower-third):** Newcastle 2-0 Nottingham Forest: Nick Woltemade and Bruno…  
-**When:** 2025-10-05 11:06 (America/Winnipeg)  •  **Published:** 2025-10-05 16:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Newcastle 2-0 Nottingham Forest: Nick Woltemade and Bruno Guimaraes goals pile pressure on Ange Postecoglou. Second-half goals from Nick Woltemade and Bruno Guimaraes sealed a 2-0 win for Newcastle over Nottingham Forest to pile the pressure on winless Ange Postecoglou. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Newcastle 2-0 Nottingham Forest: Nick Woltemade and Bruno Guimaraes goals pile pressure on Ange Postecoglou. https://www.skysports.com/football/newcastle-united-vs-nottingham-forest/report/531197
+- bbc.com — Football gossip: Reguilon, Semenyo, Yildiz, Guehi, Zirkzee, Endrick, Ward-Prowse, Araujo, Saka, Konate. https://www.bbc.com/sport/football/articles/c78ngyyg0lyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
