@@ -1,25 +1,51 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-06 20:27 (America/Winnipeg)  |  2025-10-07 01:27 (UTC)
+**Generated:** 2025-10-07 01:30 (America/Winnipeg)  |  2025-10-07 06:30 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 28s
+**Estimated total video length:** ~4m 34s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- World Grand Prix: Nathan Aspinall sends the crowd WILD with Big Fish finish!
-- Harry Kane open to Bayern Munich stay and unsure of Premier League return
-- Leverkusen's Jarell Quansah keeps calm and carries on in his steady rise to stardom
+- Today on Sky Sports Racing: Brighton and Southwell
+- Arizona Cardinals head coach Jonathan Gannon apologises to Emari Demercado for sideline confrontation
+- Kansas City Chiefs beaten by Jacksonville Jaguars in thriller after comical Trevor Lawrence touchdown in final seconds
+
+---
+
+### Managerial Moves
+
+## Story 1: Arizona Cardinals head coach Jonathan Gannon apologises to Emari Demercado for sideline confrontation
+**Slug (lower-third):** Arizona Cardinals head coach Jonathan Gannon apologises t…  
+**When:** 2025-10-07 01:53 (America/Winnipeg)  •  **Published:** 2025-10-07 06:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Arizona Cardinals head coach Jonathan Gannon apologises to Emari Demercado for sideline confrontation. Arizona Cardinals head coach Jonathan Gannon appeared to make contact with Emari Demercado after the running backs costly blunder against Tennessee Titans; watch Denver Broncos face New York Jets at Tottenham Hotspur Stadium live on Sky Sports NFL on Sunday from 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arizona Cardinals head coach Jonathan Gannon apologises to Emari Demercado for sideline confrontation. https://www.skysports.com/nfl/news/12040/13446309/arizona-cardinals-head-coach-jonathan-gannon-apologises-to-emari-demercado-for-sideline-confrontation
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Transfers
 
-## Story 1: Football gossip: Guehi, Wharton, Mainoo, Guler, Rodri, Postecoglou
+## Story 2: Football gossip: Guehi, Wharton, Mainoo, Guler, Rodri, Postecoglou
 **Slug (lower-third):** Football gossip: Guehi, Wharton, Mainoo, Guler, Rodri, Po…  
 **When:** 2025-10-06 16:14 (America/Winnipeg)  •  **Published:** 2025-10-06 21:14 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Guehi, Wharton, Mainoo, Guler, Rodri, Postecoglou. Bayern Munich might join the race for Marc Guehi, Crystal Palace plan to offer Adam Wharton a new contract, Napoli target loan move for Kobbie Mainoo, plus more. Implications for the squad and table.
@@ -42,7 +68,55 @@ Football gossip: Guehi, Wharton, Mainoo, Guler, Rodri, Postecoglou. Bayern Munic
 
 ### Injuries
 
-## Story 2: Harry Kane open to Bayern Munich stay and unsure of Premier League return
+## Story 3: Today on Sky Sports Racing: Brighton and Southwell
+**Slug (lower-third):** Today on Sky Sports Racing: Brighton and Southwell  
+**When:** 2025-10-07 02:00 (America/Winnipeg)  •  **Published:** 2025-10-07 07:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Today on Sky Sports Racing: Brighton and Southwell. The progressive filly Universal Story and the returning Tamaris both look to complete hat-trick bids in a competitive heat at Southwell. We also have competitive flat action Brighton, live on Sky Sports Racing from 2.15pm. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Today on Sky Sports Racing: Brighton and Southwell. https://www.skysports.com/racing/news/12040/13446165/today-on-sky-sports-racing-brighton-and-southwell
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: John Stones: England and Man City defender considered retiring because of injury
+**Slug (lower-third):** John Stones: England and Man City defender considered ret…  
+**When:** 2025-10-07 00:22 (America/Winnipeg)  •  **Published:** 2025-10-07 05:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+John Stones: England and Man City defender considered retiring because of injury. England and Manchester City defender John Stones is in England's squad for Thursday's friendly against Wales and next week's World Cup qualifier against Latvia. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — John Stones: England and Man City defender considered retiring because of injury. https://www.bbc.com/sport/football/articles/cr70d0p49kro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Harry Kane open to Bayern Munich stay and unsure of Premier League return
 **Slug (lower-third):** Harry Kane open to Bayern Munich stay and unsure of Premi…  
 **When:** 2025-10-06 16:30 (America/Winnipeg)  •  **Published:** 2025-10-06 21:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -68,15 +142,15 @@ Harry Kane open to Bayern Munich stay and unsure of Premier League return. The E
 
 ---
 
-### League & Regulation
+### Club Updates
 
-## Story 3: Tottenham: American tech entrepreneur Brooklyn Earick rules out formal takeover bid
-**Slug (lower-third):** Tottenham: American tech entrepreneur Brooklyn Earick rul…  
-**When:** 2025-10-06 13:29 (America/Winnipeg)  •  **Published:** 2025-10-06 18:29 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 6: Kansas City Chiefs beaten by Jacksonville Jaguars in thriller after comical Trevor Lawrence touchdown in final seconds
+**Slug (lower-third):** Kansas City Chiefs beaten by Jacksonville Jaguars in thri…  
+**When:** 2025-10-07 01:16 (America/Winnipeg)  •  **Published:** 2025-10-07 06:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Tottenham: American tech entrepreneur Brooklyn Earick rules out formal takeover bid. American tech entrepreneur Brooklyn Earick announces he will not make a formal takeover bid for Tottenham. Relevance to standings and momentum.
+Kansas City Chiefs beaten by Jacksonville Jaguars in thriller after comical Trevor Lawrence touchdown in final seconds. Kansas City Chiefs suffer a 31-28 defeat to the Jacksonville Jaguars as birthday boy Trevor Lawrence overcomes a comical stumble to score the game-winning touchdown in the final seconds; watch the Denver Broncos face the New York Jets at Tottenham live on Sky Sports NFL from 2pm on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -85,7 +159,7 @@ Tottenham: American tech entrepreneur Brooklyn Earick rules out formal takeover 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tottenham: American tech entrepreneur Brooklyn Earick rules out formal takeover bid. https://www.bbc.com/sport/football/articles/c99gdgdjegeo?at_medium=RSS&at_campaign=rss
+- skysports.com — Kansas City Chiefs beaten by Jacksonville Jaguars in thriller after comical Trevor Lawrence touchdown in final seconds. https://www.skysports.com/nfl/news/12040/13446300/kansas-city-chiefs-beaten-by-jacksonville-jaguars-in-thriller-after-comical-trevor-lawrence-touchdown-in-final-seconds
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -94,12 +168,10 @@ Tottenham: American tech entrepreneur Brooklyn Earick rules out formal takeover 
 
 ---
 
-### Club Updates
-
-## Story 4: World Grand Prix: Nathan Aspinall sends the crowd WILD with Big Fish finish!
+## Story 7: World Grand Prix: Nathan Aspinall sends the crowd WILD with Big Fish finish!
 **Slug (lower-third):** World Grand Prix: Nathan Aspinall sends the crowd WILD wi…  
 **When:** 2025-10-06 16:42 (America/Winnipeg)  •  **Published:** 2025-10-06 21:42 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 World Grand Prix: Nathan Aspinall sends the crowd WILD with Big Fish finish!. Nathan Aspinall hits the big fish during his World Grand Prix match with Luke Humphries, sending the Leicester crowd wild! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -120,10 +192,10 @@ World Grand Prix: Nathan Aspinall sends the crowd WILD with Big Fish finish!. Na
 
 ---
 
-## Story 5: Leverkusen's Jarell Quansah keeps calm and carries on in his steady rise to stardom
+## Story 8: Leverkusen's Jarell Quansah keeps calm and carries on in his steady rise to stardom
 **Slug (lower-third):** Leverkusen's Jarell Quansah keeps calm and carries on in …  
 **When:** 2025-10-06 16:30 (America/Winnipeg)  •  **Published:** 2025-10-06 21:30 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Leverkusen's Jarell Quansah keeps calm and carries on in his steady rise to stardom. Defender is thriving after swapping bit-part role at Liverpool to become a key player for the Bundesliga side Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -144,10 +216,10 @@ Leverkusen's Jarell Quansah keeps calm and carries on in his steady rise to star
 
 ---
 
-## Story 6: Senne Lammens: Peter Schmeichel praises Man Utd debutant goalkeeper
+## Story 9: Senne Lammens: Peter Schmeichel praises Man Utd debutant goalkeeper
 **Slug (lower-third):** Senne Lammens: Peter Schmeichel praises Man Utd debutant …  
 **When:** 2025-10-06 15:48 (America/Winnipeg)  •  **Published:** 2025-10-06 20:48 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Senne Lammens: Peter Schmeichel praises Man Utd debutant goalkeeper. Former Manchester United goalkeeper Peter Schmeichel praises 23-year-old Senne Lammens' performance for the Red Devils in their 2-0 victory over Sunderland. Relevance to standings and momentum.
@@ -168,10 +240,10 @@ Senne Lammens: Peter Schmeichel praises Man Utd debutant goalkeeper. Former Manc
 
 ---
 
-## Story 7: Sustainability in sport: Hector Bellerin wins BBC Green Sports Award
+## Story 10: Sustainability in sport: Hector Bellerin wins BBC Green Sports Award
 **Slug (lower-third):** Sustainability in sport: Hector Bellerin wins BBC Green S…  
 **When:** 2025-10-06 14:32 (America/Winnipeg)  •  **Published:** 2025-10-06 19:32 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Sustainability in sport: Hector Bellerin wins BBC Green Sports Award. Former Arsenal defender Hector Bellerin talks to Elizabeth Conway about his attempts to live a more sustainable life after being named global champion at the BBC Green Sport Awards. Relevance to standings and momentum.
@@ -184,78 +256,6 @@ Sustainability in sport: Hector Bellerin wins BBC Green Sports Award. Former Ars
 
 ### Sources
 - bbc.com — Sustainability in sport: Hector Bellerin wins BBC Green Sports Award. https://www.bbc.com/sport/football/videos/cx2jzj1vnwgo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: 'With power comes responsibility' - Hector Bellerin wins BBC Green Sports Award
-**Slug (lower-third):** 'With power comes responsibility' - Hector Bellerin wins …  
-**When:** 2025-10-06 14:30 (America/Winnipeg)  •  **Published:** 2025-10-06 19:30 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-'With power comes responsibility' - Hector Bellerin wins BBC Green Sports Award. Former Arsenal defender Hector Bellerin talks about his attempts to live a more sustainable life as he wins the BBC Green Sports Award. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — 'With power comes responsibility' - Hector Bellerin wins BBC Green Sports Award. https://www.bbc.com/sport/football/articles/cly17g1yp09o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Tottenham takeover: Spurs not for sale after third prospective buyer confirms no intention to bid
-**Slug (lower-third):** Tottenham takeover: Spurs not for sale after third prospe…  
-**When:** 2025-10-06 14:18 (America/Winnipeg)  •  **Published:** 2025-10-06 19:18 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Tottenham takeover: Spurs not for sale after third prospective buyer confirms no intention to bid. Tottenham are not for sale after a third prospective bidder - an American consortium led by former DJ Brooklyn Earick - confirmed they will not make an offer for the club; Firehawk and Amanda Staveleys PCP International Finance have both previously confirmed their intentions not to bid Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Tottenham takeover: Spurs not for sale after third prospective buyer confirms no intention to bid. https://www.skysports.com/football/news/12040/13446206/tottenham-takeover-spurs-not-for-sale-after-third-prospective-buyer-confirms-no-intention-to-bid
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Air raids are the new trend as Premier League goes back to the future
-**Slug (lower-third):** Air raids are the new trend as Premier League goes back t…  
-**When:** 2025-10-06 14:55 (America/Winnipeg)  •  **Published:** 2025-10-06 19:55 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Air raids are the new trend as Premier League goes back to the future. Set pieces, long throws and generally getting it launched are back with a vengeance amid a notable tactical shift Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Air raids are the new trend as Premier League goes back to the future. https://www.theguardian.com/football/2025/oct/06/premier-league-tactics-analysis-long-balls-set-pieces-throw-ins-arsenal-liverpool
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
