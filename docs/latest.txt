@@ -1,54 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-06 13:30 (America/Winnipeg)  |  2025-10-06 18:30 (UTC)
+**Generated:** 2025-10-06 20:27 (America/Winnipeg)  |  2025-10-07 01:27 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 41s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Liverpool's struggles show that Trent Alexander-Arnold is not easily replaced
-- Women's Super League: talking points from the weekend's action
-- Erling Haaland projected to smash Alan Shearer's record with 389 Premier League goals - Between the Lines
-
----
-
-### Managerial Moves
-
-## Story 1: Guardiola hails 'incredible' Haaland and Donnarumma after City's win at Brentford
-**Slug (lower-third):** Guardiola hails 'incredible' Haaland and Donnarumma after…  
-**When:** 2025-10-05 14:35 (America/Winnipeg)  •  **Published:** 2025-10-05 19:35 (UTC)  
-**Virality score:** 71  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Guardiola hails 'incredible' Haaland and Donnarumma after City's win at Brentford. The Manchester City manager thanked his striker and his goalkeeper after his side claimed a 1-0 victory over Brentford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Guardiola hails 'incredible' Haaland and Donnarumma after City's win at Brentford. https://www.theguardian.com/football/2025/oct/05/guardiola-hails-donnarumma-and-haaland-after-man-city-win-at-brentford
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- World Grand Prix: Nathan Aspinall sends the crowd WILD with Big Fish finish!
+- Harry Kane open to Bayern Munich stay and unsure of Premier League return
+- Leverkusen's Jarell Quansah keeps calm and carries on in his steady rise to stardom
 
 ---
 
 ### Transfers
 
-## Story 2: #202020: Who have been your club's three best Premier League signings since the turn of the decade?
-**Slug (lower-third):** #202020: Who have been your club's three best Premier Lea…  
-**When:** 2025-10-06 04:53 (America/Winnipeg)  •  **Published:** 2025-10-06 09:53 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~29s
+## Story 1: Football gossip: Guehi, Wharton, Mainoo, Guler, Rodri, Postecoglou
+**Slug (lower-third):** Football gossip: Guehi, Wharton, Mainoo, Guler, Rodri, Po…  
+**When:** 2025-10-06 16:14 (America/Winnipeg)  •  **Published:** 2025-10-06 21:14 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-#202020: Who have been your club's three best Premier League signings since the turn of the decade?. Sky Sports is asking the big question: who has been your clubs best signing since the start of 2020? Sky Sports News are debating the topic on Sky Sports FC at 10am on Tuesday, with the picks revealed in special Transfer Shows at 12 noon, 4pm and 7pm Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Football gossip: Guehi, Wharton, Mainoo, Guler, Rodri, Postecoglou. Bayern Munich might join the race for Marc Guehi, Crystal Palace plan to offer Adam Wharton a new contract, Napoli target loan move for Kobbie Mainoo, plus more. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +31,61 @@ Guardiola hails 'incredible' Haaland and Donnarumma after City's win at Brentfor
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — #202020: Who have been your club's three best Premier League signings since the turn of the decade?. https://www.skysports.com/football/news/12040/13445837/202020-who-have-been-your-clubs-three-best-premier-league-signings-since-the-turn-of-the-decade
+- bbc.com — Football gossip: Guehi, Wharton, Mainoo, Guler, Rodri, Postecoglou. https://www.bbc.com/sport/football/articles/c0m4382jpdeo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: Harry Kane open to Bayern Munich stay and unsure of Premier League return
+**Slug (lower-third):** Harry Kane open to Bayern Munich stay and unsure of Premi…  
+**When:** 2025-10-06 16:30 (America/Winnipeg)  •  **Published:** 2025-10-06 21:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Harry Kane open to Bayern Munich stay and unsure of Premier League return. The England captain, whose current deal at Bayern Munich expires in 2027, said: 'In terms of staying longer I could definitely see that' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Harry Kane open to Bayern Munich stay and unsure of Premier League return. https://www.theguardian.com/football/2025/oct/06/harry-kane-bayern-munich-stay-premier-league-return-england-world-cup-qualifiers
+- skysports.com — Harry Kane: Ex-Tottenham striker dampens idea of Premier League return and is open to new Bayern Munich deal. https://www.skysports.com/football/news/12040/13446270/harry-kane-ex-tottenham-striker-dampens-idea-of-premier-league-return-and-is-open-to-new-bayern-munich-deal
+- bbc.com — Bayern Munich: Harry Kane says he is open to new contract. https://www.bbc.com/sport/football/articles/c5ykj956yx5o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 3: Tottenham: American tech entrepreneur Brooklyn Earick rules out formal takeover bid
+**Slug (lower-third):** Tottenham: American tech entrepreneur Brooklyn Earick rul…  
+**When:** 2025-10-06 13:29 (America/Winnipeg)  •  **Published:** 2025-10-06 18:29 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham: American tech entrepreneur Brooklyn Earick rules out formal takeover bid. American tech entrepreneur Brooklyn Earick announces he will not make a formal takeover bid for Tottenham. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tottenham: American tech entrepreneur Brooklyn Earick rules out formal takeover bid. https://www.bbc.com/sport/football/articles/c99gdgdjegeo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +96,37 @@ Guardiola hails 'incredible' Haaland and Donnarumma after City's win at Brentfor
 
 ### Club Updates
 
-## Story 3: Liverpool's struggles show that Trent Alexander-Arnold is not easily replaced
-**Slug (lower-third):** Liverpool's struggles show that Trent Alexander-Arnold is…  
-**When:** 2025-10-06 10:05 (America/Winnipeg)  •  **Published:** 2025-10-06 15:05 (UTC)  
+## Story 4: World Grand Prix: Nathan Aspinall sends the crowd WILD with Big Fish finish!
+**Slug (lower-third):** World Grand Prix: Nathan Aspinall sends the crowd WILD wi…  
+**When:** 2025-10-06 16:42 (America/Winnipeg)  •  **Published:** 2025-10-06 21:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+World Grand Prix: Nathan Aspinall sends the crowd WILD with Big Fish finish!. Nathan Aspinall hits the big fish during his World Grand Prix match with Luke Humphries, sending the Leicester crowd wild! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — World Grand Prix: Nathan Aspinall sends the crowd WILD with Big Fish finish!. https://www.skysports.com/watch/video/13446251/world-grand-prix-nathan-aspinall-sends-the-crowd-wild-with-big-fish-finish
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Leverkusen's Jarell Quansah keeps calm and carries on in his steady rise to stardom
+**Slug (lower-third):** Leverkusen's Jarell Quansah keeps calm and carries on in …  
+**When:** 2025-10-06 16:30 (America/Winnipeg)  •  **Published:** 2025-10-06 21:30 (UTC)  
 **Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool's struggles show that Trent Alexander-Arnold is not easily replaced. Three straight defeats laid bare the issues with Arne Slot's offseason makeover, with one departure looming particularly large Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Leverkusen's Jarell Quansah keeps calm and carries on in his steady rise to stardom. Defender is thriving after swapping bit-part role at Liverpool to become a key player for the Bundesliga side Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +135,7 @@ Liverpool's struggles show that Trent Alexander-Arnold is not easily replaced. T
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool's struggles show that Trent Alexander-Arnold is not easily replaced. https://www.theguardian.com/football/2025/oct/06/liverpools-struggles-show-that-trent-alexander-arnold-is-not-easily-replaced
+- theguardian.com — Leverkusen's Jarell Quansah keeps calm and carries on in his steady rise to stardom. https://www.theguardian.com/football/2025/oct/06/jarrell-quansah-liverpool-england-bayer-leverkusen-world-cup-2026-qualifiers
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +144,13 @@ Liverpool's struggles show that Trent Alexander-Arnold is not easily replaced. T
 
 ---
 
-## Story 4: Women's Super League: talking points from the weekend's action
-**Slug (lower-third):** Women's Super League: talking points from the weekend's a…  
-**When:** 2025-10-06 06:20 (America/Winnipeg)  •  **Published:** 2025-10-06 11:20 (UTC)  
+## Story 6: Senne Lammens: Peter Schmeichel praises Man Utd debutant goalkeeper
+**Slug (lower-third):** Senne Lammens: Peter Schmeichel praises Man Utd debutant …  
+**When:** 2025-10-06 15:48 (America/Winnipeg)  •  **Published:** 2025-10-06 20:48 (UTC)  
 **Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Women's Super League: talking points from the weekend's action. Anna Sandberg is on an upward curve at Manchester United while Arsenal must tighten up defending set pieces Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Senne Lammens: Peter Schmeichel praises Man Utd debutant goalkeeper. Former Manchester United goalkeeper Peter Schmeichel praises 23-year-old Senne Lammens' performance for the Red Devils in their 2-0 victory over Sunderland. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +159,7 @@ Women's Super League: talking points from the weekend's action. Anna Sandberg is
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Women's Super League: talking points from the weekend's action. https://www.theguardian.com/football/2025/oct/06/womens-super-league-talking-points-arsenal-tottenham-west-ham
+- bbc.com — Senne Lammens: Peter Schmeichel praises Man Utd debutant goalkeeper. https://www.bbc.com/sport/football/videos/c62zk5l65k7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +168,13 @@ Women's Super League: talking points from the weekend's action. Anna Sandberg is
 
 ---
 
-## Story 5: Erling Haaland projected to smash Alan Shearer's record with 389 Premier League goals - Between the Lines
-**Slug (lower-third):** Erling Haaland projected to smash Alan Shearer's record w…  
-**When:** 2025-10-06 08:39 (America/Winnipeg)  •  **Published:** 2025-10-06 13:39 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~24s
+## Story 7: Sustainability in sport: Hector Bellerin wins BBC Green Sports Award
+**Slug (lower-third):** Sustainability in sport: Hector Bellerin wins BBC Green S…  
+**When:** 2025-10-06 14:32 (America/Winnipeg)  •  **Published:** 2025-10-06 19:32 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Erling Haaland projected to smash Alan Shearer's record with 389 Premier League goals - Between the Lines. Between the Lines, the weekly Sky Sports strand breaking down the data behind footballs biggest talking points, puts Erling Haalands astonishing scoring feats in context and asks: is the Manchester City striker getting even better? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sustainability in sport: Hector Bellerin wins BBC Green Sports Award. Former Arsenal defender Hector Bellerin talks to Elizabeth Conway about his attempts to live a more sustainable life after being named global champion at the BBC Green Sport Awards. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +183,7 @@ Erling Haaland projected to smash Alan Shearer's record with 389 Premier League 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Erling Haaland projected to smash Alan Shearer's record with 389 Premier League goals - Between the Lines. https://www.skysports.com/football/news/12040/13446047/erling-haaland-projected-to-smash-alan-shearers-record-with-389-premier-league-goals-between-the-lines
+- bbc.com — Sustainability in sport: Hector Bellerin wins BBC Green Sports Award. https://www.bbc.com/sport/football/videos/cx2jzj1vnwgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +192,13 @@ Erling Haaland projected to smash Alan Shearer's record with 389 Premier League 
 
 ---
 
-## Story 6: Nico O'Reilly replaces injured Reece James in England squad
-**Slug (lower-third):** Nico O'Reilly replaces injured Reece James in England squ…  
-**When:** 2025-10-06 05:57 (America/Winnipeg)  •  **Published:** 2025-10-06 10:57 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 8: 'With power comes responsibility' - Hector Bellerin wins BBC Green Sports Award
+**Slug (lower-third):** 'With power comes responsibility' - Hector Bellerin wins …  
+**When:** 2025-10-06 14:30 (America/Winnipeg)  •  **Published:** 2025-10-06 19:30 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nico O'Reilly replaces injured Reece James in England squad. Manchester City defender Nico O'Reilly receives his first call-up to the England squad following the withdrawal of Reece James. Potential impact on the lineup and upcoming fixtures.
+'With power comes responsibility' - Hector Bellerin wins BBC Green Sports Award. Former Arsenal defender Hector Bellerin talks about his attempts to live a more sustainable life as he wins the BBC Green Sports Award. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +207,7 @@ Nico O'Reilly replaces injured Reece James in England squad. Manchester City def
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Nico O'Reilly replaces injured Reece James in England squad. https://www.bbc.com/sport/football/articles/c9wd4848nrxo?at_medium=RSS&at_campaign=rss
+- bbc.com — 'With power comes responsibility' - Hector Bellerin wins BBC Green Sports Award. https://www.bbc.com/sport/football/articles/cly17g1yp09o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +216,13 @@ Nico O'Reilly replaces injured Reece James in England squad. Manchester City def
 
 ---
 
-## Story 7: Chelsea: How Enzo Maresca responded to pressure building at Stamford Bridge with Jose Mourinho masterclass and late Liverpool drama
-**Slug (lower-third):** Chelsea: How Enzo Maresca responded to pressure building …  
-**When:** 2025-10-06 03:00 (America/Winnipeg)  •  **Published:** 2025-10-06 08:00 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~28s
+## Story 9: Tottenham takeover: Spurs not for sale after third prospective buyer confirms no intention to bid
+**Slug (lower-third):** Tottenham takeover: Spurs not for sale after third prospe…  
+**When:** 2025-10-06 14:18 (America/Winnipeg)  •  **Published:** 2025-10-06 19:18 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Chelsea: How Enzo Maresca responded to pressure building at Stamford Bridge with Jose Mourinho masterclass and late Liverpool drama. Pressure had been building on Chelsea boss Enzo Maresca after three defeats in four games; the Blues responded by beating Benfica in the Champions League and Premier League champions Liverpool; Maresca had the full backing of the club throughout their dip in form Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Tottenham takeover: Spurs not for sale after third prospective buyer confirms no intention to bid. Tottenham are not for sale after a third prospective bidder - an American consortium led by former DJ Brooklyn Earick - confirmed they will not make an offer for the club; Firehawk and Amanda Staveleys PCP International Finance have both previously confirmed their intentions not to bid Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +231,7 @@ Chelsea: How Enzo Maresca responded to pressure building at Stamford Bridge with
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea: How Enzo Maresca responded to pressure building at Stamford Bridge with Jose Mourinho masterclass and late Liverpool drama. https://www.skysports.com/football/news/12040/13445754/chelsea-how-enzo-maresca-responded-to-pressure-building-at-stamford-bridge-with-jose-mourinho-masterclass-and-late-liverpool-drama
+- skysports.com — Tottenham takeover: Spurs not for sale after third prospective buyer confirms no intention to bid. https://www.skysports.com/football/news/12040/13446206/tottenham-takeover-spurs-not-for-sale-after-third-prospective-buyer-confirms-no-intention-to-bid
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +240,13 @@ Chelsea: How Enzo Maresca responded to pressure building at Stamford Bridge with
 
 ---
 
-## Story 8: MOTD Analysis: Joe Hart breaks down crucial Donnarumma save
-**Slug (lower-third):** MOTD Analysis: Joe Hart breaks down crucial Donnarumma sa…  
-**When:** 2025-10-06 02:35 (America/Winnipeg)  •  **Published:** 2025-10-06 07:35 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 10: Air raids are the new trend as Premier League goes back to the future
+**Slug (lower-third):** Air raids are the new trend as Premier League goes back t…  
+**When:** 2025-10-06 14:55 (America/Winnipeg)  •  **Published:** 2025-10-06 19:55 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-MOTD Analysis: Joe Hart breaks down crucial Donnarumma save. Joe Hart breaks down a crucial save from Manchester City goalkeeper Gianluigi Donnarumma that denied Igor Thiago in their 1-0 win against Brentford. Relevance to standings and momentum.
+Air raids are the new trend as Premier League goes back to the future. Set pieces, long throws and generally getting it launched are back with a vengeance amid a notable tactical shift Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,58 +255,10 @@ MOTD Analysis: Joe Hart breaks down crucial Donnarumma save. Joe Hart breaks dow
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — MOTD Analysis: Joe Hart breaks down crucial Donnarumma save. https://www.bbc.com/sport/football/videos/cn95wly8317o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Air raids are the new trend as Premier League goes back to the future. https://www.theguardian.com/football/2025/oct/06/premier-league-tactics-analysis-long-balls-set-pieces-throw-ins-arsenal-liverpool
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Mohamed Salah: Wayne Rooney questions work ethic of 'lost' Liverpool forward
-**Slug (lower-third):** Mohamed Salah: Wayne Rooney questions work ethic of 'lost…  
-**When:** 2025-10-06 00:19 (America/Winnipeg)  •  **Published:** 2025-10-06 05:19 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Mohamed Salah: Wayne Rooney questions work ethic of 'lost' Liverpool forward. Wayne Rooney, Kelly Somers, Kae Kurd and John Gibbons from The Anfield Wrap discuss Liverpool's loss of form, and why their talisman Mohamed Salah looks "lost". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Mohamed Salah: Wayne Rooney questions work ethic of 'lost' Liverpool forward. https://www.bbc.com/sport/football/videos/ckg3evgn521o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League highlights: Everton 2-1 Crystal Palace
-**Slug (lower-third):** Premier League highlights: Everton 2-1 Crystal Palace  
-**When:** 2025-10-05 13:58 (America/Winnipeg)  •  **Published:** 2025-10-05 18:58 (UTC)  
-**Virality score:** 71  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Everton 2-1 Crystal Palace. Watch highlights as Jack Grealish scores a dramatic 93rd-minute winner to end Crystal Palace's club-record 19-match unbeaten run. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Everton 2-1 Crystal Palace. https://www.bbc.com/sport/football/videos/c8rvnnj2m84o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
