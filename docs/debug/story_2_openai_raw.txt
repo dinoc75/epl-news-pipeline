@@ -1,14 +1,8 @@
-resp_00710aa998a834260068e5be39ff3881908509d22d2dae6983
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_00710aa998a834260068e5be3a9f8881908a0def9fecf8dd9e
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Tonight on the round‑up: BBC Sport has published an in‑depth feature titled \"Jordan Pickford: Why Everton goalkeeper is England's undisputed number one\", released locally on 2025-10-08 at 00:33. The film dissects Pickford's game with expert analysis from former Three Lions shot‑stoppers Paul Robinson and Rob Green, plus insight from his ex‑Toffees team‑mates Wayne Rooney and Theo Walcott. The piece argues Pickford is England's No. 1, though specific match performances, clean‑sheet totals, cap numbers and exact dates for the claims are Not specified in the source. Watch the full feature on BBC Sport — link in the description.",
+  "why": [
+    "Explains why Pickford is seen as England's first choice using expert testimony.",
+    "Features perspectives from former England keepers and Everton team‑mates to add credibility."
+  ],
+  "context": [
+    "Subject
