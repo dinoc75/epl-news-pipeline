@@ -1,49 +1,25 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-10 13:29 (America/Winnipeg)  |  2025-10-10 18:29 (UTC)
-**Stories in this rundown:** 7  |  **Style:** conversational broadcast
+**Generated:** 2025-10-10 20:25 (America/Winnipeg)  |  2025-10-11 01:25 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 20s
+**Estimated total video length:** ~3m 21s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Liverpool Women's head coach Gareth Taylor: My coaching style is like my religion - 'There is no other way of playing'
-- Rick Passmoor: Former interim named permanent Leicester City manager
-- Ross Wilson nears Newcastle switch from Forest to end sporting director saga
+- 'Have you spoken to Eddie Howe? No' | Alexander Isak: Let's leave Newcastle ending unsaid
+- Football gossip: Schade, Guehi, Konate, Upamecano, Murillo, Lukeba, Sulueiman, Phillips, Wilson, Tonali, Wharton
+- Kyle Walker: Should I have left Man City? No - 'I wasn't happy sitting on the bench'
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Liverpool Women's head coach Gareth Taylor: My coaching style is like my religion - 'There is no other way of playing'
-**Slug (lower-third):** Liverpool Women's head coach Gareth Taylor: My coaching s…  
-**When:** 2025-10-10 12:53 (America/Winnipeg)  •  **Published:** 2025-10-10 17:53 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool Women's head coach Gareth Taylor: My coaching style is like my religion - 'There is no other way of playing'. Liverpool Womens head coach Gareth Taylor says his coaching style is like his religion as he looks ahead to the game against Manchester City. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Liverpool Women's head coach Gareth Taylor: My coaching style is like my religion - 'There is no other way of playing'. https://www.skysports.com/watch/video/13448225/liverpool-womens-head-coach-gareth-taylor-my-coaching-style-is-like-my-religion-there-is-no-other-way-of-playing
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Rick Passmoor: Former interim named permanent Leicester City manager
+## Story 1: Rick Passmoor: Former interim named permanent Leicester City manager
 **Slug (lower-third):** Rick Passmoor: Former interim named permanent Leicester C…  
 **When:** 2025-10-10 11:00 (America/Winnipeg)  •  **Published:** 2025-10-10 16:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Rick Passmoor: Former interim named permanent Leicester City manager. Leicester City announce former interim manager Rick Passmoor as their head coach on a permanent basis on a three-year deal. Relevance to standings and momentum.
@@ -66,10 +42,10 @@ Rick Passmoor: Former interim named permanent Leicester City manager. Leicester 
 
 ### Injuries
 
-## Story 3: Long throw-in pioneer Dave Challinor salutes return of successful launch
+## Story 2: Long throw-in pioneer Dave Challinor salutes return of successful launch
 **Slug (lower-third):** Long throw-in pioneer Dave Challinor salutes return of su…  
 **When:** 2025-10-10 07:55 (America/Winnipeg)  •  **Published:** 2025-10-10 12:55 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**Virality score:** 86  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Long throw-in pioneer Dave Challinor salutes return of successful launch. The original throw-in specialist analyses how Premier League teams are reaping the rewards from set pieces Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -92,10 +68,154 @@ Long throw-in pioneer Dave Challinor salutes return of successful launch. The or
 
 ### Club Updates
 
-## Story 4: Ross Wilson nears Newcastle switch from Forest to end sporting director saga
+## Story 3: 'Have you spoken to Eddie Howe? No' | Alexander Isak: Let's leave Newcastle ending unsaid
+**Slug (lower-third):** 'Have you spoken to Eddie Howe? No' | Alexander Isak: Let…  
+**When:** 2025-10-10 15:55 (America/Winnipeg)  •  **Published:** 2025-10-10 20:55 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'Have you spoken to Eddie Howe? No' | Alexander Isak: Let's leave Newcastle ending unsaid. Alexander Isak remained coy when asked about his Newcastle departure and conversations with Eddie Howe. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — 'Have you spoken to Eddie Howe? No' | Alexander Isak: Let's leave Newcastle ending unsaid. https://www.skysports.com/watch/video/13448322/have-you-spoken-to-eddie-howe-no-alexander-isak-lets-leave-newcastle-ending-unsaid
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Football gossip: Schade, Guehi, Konate, Upamecano, Murillo, Lukeba, Sulueiman, Phillips, Wilson, Tonali, Wharton
+**Slug (lower-third):** Football gossip: Schade, Guehi, Konate, Upamecano, Murill…  
+**When:** 2025-10-10 15:42 (America/Winnipeg)  •  **Published:** 2025-10-10 20:42 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Schade, Guehi, Konate, Upamecano, Murillo, Lukeba, Sulueiman, Phillips, Wilson, Tonali, Wharton. Brentford forward Kevin Schade a target for Spurs, Real Madrid prefer Crystal Palace centre-back Marc Guehi to Liverpool defender Ibrahima Konate while the Merseyside club eye Bayern Munich defender Dayot Upamecano, plus more. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Schade, Guehi, Konate, Upamecano, Murillo, Lukeba, Sulueiman, Phillips, Wilson, Tonali, Wharton. https://www.bbc.com/sport/football/articles/cre5gplvdeeo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Kyle Walker: Should I have left Man City? No - 'I wasn't happy sitting on the bench'
+**Slug (lower-third):** Kyle Walker: Should I have left Man City? No - 'I wasn't …  
+**When:** 2025-10-10 15:39 (America/Winnipeg)  •  **Published:** 2025-10-10 20:39 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Kyle Walker: Should I have left Man City? No - 'I wasn't happy sitting on the bench'. Kyle Walker says asking to leave Manchester City may have been a mistake, but he still believed he had more to give on the pitch. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Kyle Walker: Should I have left Man City? No - 'I wasn't happy sitting on the bench'. https://www.skysports.com/watch/video/13448309/kyle-walker-should-i-have-left-man-city-no-8211-i-wasnt-happy-sitting-on-the-bench
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Cody Gakpo explains why he ended up at Liverpool and not Man Utd!
+**Slug (lower-third):** Cody Gakpo explains why he ended up at Liverpool and not …  
+**When:** 2025-10-10 15:11 (America/Winnipeg)  •  **Published:** 2025-10-10 20:11 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Cody Gakpo explains why he ended up at Liverpool and not Man Utd!. Liverpools Cody Gakpo explains what stopped him from signing for Manchester United. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Cody Gakpo explains why he ended up at Liverpool and not Man Utd!. https://www.skysports.com/watch/video/13448297/cody-gakpo-explains-why-he-ended-up-at-liverpool-and-not-man-utd
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Martin Zubimendi: 'I have to adapt but Arsenal signed me because they like what I do'
+**Slug (lower-third):** Martin Zubimendi: 'I have to adapt but Arsenal signed me …  
+**When:** 2025-10-10 14:00 (America/Winnipeg)  •  **Published:** 2025-10-10 19:00 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Martin Zubimendi: 'I have to adapt but Arsenal signed me because they like what I do'. From replacing Rodri in the Euro 2024 final to leaving his hometown club, the calm Spain midfielder is taking everything in his stride, he tells Sid Lowe Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Martin Zubimendi: 'I have to adapt but Arsenal signed me because they like what I do'. https://www.theguardian.com/football/2025/oct/10/martin-zubimendi-arsenal-spain-interview
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Premier League: Granit Xhaka ranks midfielders to watch this season!
+**Slug (lower-third):** Premier League: Granit Xhaka ranks midfielders to watch t…  
+**When:** 2025-10-10 11:00 (America/Winnipeg)  •  **Published:** 2025-10-10 16:00 (UTC)  
+**Virality score:** 92  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Granit Xhaka ranks midfielders to watch this season!. Sunderlands Granit Xhaka ranks footballs greatest creative midfielders and the playmakers to watch this season in the Premier League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Premier League: Granit Xhaka ranks midfielders to watch this season!. https://www.skysports.com/watch/video/13448083/premier-league-granit-xhaka-ranks-midfielders-to-watch-this-season
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Ross Wilson nears Newcastle switch from Forest to end sporting director saga
 **Slug (lower-third):** Ross Wilson nears Newcastle switch from Forest to end spo…  
 **When:** 2025-10-10 09:02 (America/Winnipeg)  •  **Published:** 2025-10-10 14:02 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Ross Wilson nears Newcastle switch from Forest to end sporting director saga. Eddie Howe has been keen to link up with Ross Wilson at Newcastle, who hope to agree a compensation deal with Forest soon Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -116,34 +236,10 @@ Ross Wilson nears Newcastle switch from Forest to end sporting director saga. Ed
 
 ---
 
-## Story 5: If you know your Lucas Neill and Mo Salah, the Guardian's new football game is just for you
-**Slug (lower-third):** If you know your Lucas Neill and Mo Salah, the Guardian's…  
-**When:** 2025-10-10 06:34 (America/Winnipeg)  •  **Published:** 2025-10-10 11:34 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-If you know your Lucas Neill and Mo Salah, the Guardian's new football game is just for you. Our new puzzle, On the ball, involves guessing the identity of the Premier League footballers, past and present Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — If you know your Lucas Neill and Mo Salah, the Guardian's new football game is just for you. https://www.theguardian.com/football/2025/oct/10/guardian-new-football-game-on-the-ball-daily-puzzle-premier-league
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Declan Rice: England and Arsenal midfielder on his playing position
+## Story 10: Declan Rice: England and Arsenal midfielder on his playing position
 **Slug (lower-third):** Declan Rice: England and Arsenal midfielder on his playin…  
 **When:** 2025-10-10 05:19 (America/Winnipeg)  •  **Published:** 2025-10-10 10:19 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+**Virality score:** 83  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Declan Rice: England and Arsenal midfielder on his playing position. England and Arsenal midfielder Declan Rice talks to BBC Sport about his preferred playing position following England's 3-0 win over Wales. Relevance to standings and momentum.
@@ -158,31 +254,7 @@ Declan Rice: England and Arsenal midfielder on his playing position. England and
 - bbc.com — Declan Rice: England and Arsenal midfielder on his playing position. https://www.bbc.com/sport/football/videos/c0q7j31q1jyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Mental health: Everton fan Sam talks about support from club
-**Slug (lower-third):** Mental health: Everton fan Sam talks about support from c…  
-**When:** 2025-10-10 00:56 (America/Winnipeg)  •  **Published:** 2025-10-10 05:56 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Mental health: Everton fan Sam talks about support from club. Everton defender James Tarkowski speaks with lifelong fan Sam to discuss how the club are supporting members of the community with mental health challenges. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Mental health: Everton fan Sam talks about support from club. https://www.bbc.com/sport/football/videos/cp3qvw5z2vdo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
