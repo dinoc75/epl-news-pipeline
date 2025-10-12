@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-12 07:37 (America/Winnipeg)  |  2025-10-12 12:37 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2025-10-12 13:26 (America/Winnipeg)  |  2025-10-12 18:26 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 25s
+**Estimated total video length:** ~3m 20s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- WSL: Everton Women score their first goal at Hill Dickinson Stadium against Man Utd!
-- Best goals, biggest gaffes: Premier League fans assess the season so far
-- Fran Kirby: Brighton star recalls England call-up and breakthrough
+- Liverpool 1-2 Man City | WSL highlights
+- Liverpool vs Man City: Aoba Fujino fires City in front with fizzing strike!
+- WSL: Man Utd score four against Everton to maintain unbeaten start
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Best goals, biggest gaffes: Premier League fans assess the season so far
-**Slug (lower-third):** Best goals, biggest gaffes: Premier League fans assess th…  
-**When:** 2025-10-12 02:00 (America/Winnipeg)  •  **Published:** 2025-10-12 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 1: Crystal Palace must match Glasner's ambition to keep him, warns Parish
+**Slug (lower-third):** Crystal Palace must match Glasner's ambition to keep him,…  
+**When:** 2025-10-12 10:49 (America/Winnipeg)  •  **Published:** 2025-10-12 15:49 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Best goals, biggest gaffes: Premier League fans assess the season so far. The Guardian's fans' network on the opening stages of 2025-26: their toughest opponents, biggest setbacks and tips for the next manager sacked Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Crystal Palace must match Glasner's ambition to keep him, warns Parish. Crystal Palace chair Steve Parish said the club must win things if they are to keep manager Oliver Glasner Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,84 +31,10 @@ Best goals, biggest gaffes: Premier League fans assess the season so far. The Gu
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Best goals, biggest gaffes: Premier League fans assess the season so far. https://www.theguardian.com/football/2025/oct/12/best-goals-biggest-gaffes-premier-league-fans-assess-the-season-so-far
+- theguardian.com — Crystal Palace must match Glasner's ambition to keep him, warns Parish. https://www.theguardian.com/football/2025/oct/12/crystal-palace-must-match-oliver-glasner-ambition-to-keep-him-warns-parish
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Nottingham Forest: Sean Dyche considered if Ange Postecoglou sacked
-**Slug (lower-third):** Nottingham Forest: Sean Dyche considered if Ange Postecog…  
-**When:** 2025-10-11 15:05 (America/Winnipeg)  •  **Published:** 2025-10-11 20:05 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Nottingham Forest: Sean Dyche considered if Ange Postecoglou sacked. Nottingham Forest could turn to former Everton and Burnley boss Sean Dyche if Ange Postecoglou leaves the club. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Nottingham Forest: Sean Dyche considered if Ange Postecoglou sacked. https://www.bbc.com/sport/football/articles/czdjdj1340qo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Former Arsenal midfielder Jack Wilshere in the frame for Luton job
-**Slug (lower-third):** Former Arsenal midfielder Jack Wilshere in the frame for …  
-**When:** 2025-10-11 12:38 (America/Winnipeg)  •  **Published:** 2025-10-11 17:38 (UTC)  
-**Virality score:** 77  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Former Arsenal midfielder Jack Wilshere in the frame for Luton job. Jack Wilshere is the first choice to replace the sacked Matt Bloomfield at Luton, while there were wins for Rotherham and Leyton Orient in League One Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Former Arsenal midfielder Jack Wilshere in the frame for Luton job. https://www.theguardian.com/football/2025/oct/11/jack-wilshere-luton-manager-job-league-one-two-roundup
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 4: Gallagher Prem: Finn Russell leads Bath to victory over Gloucester as Bristol take derby honours over Exeter
-**Slug (lower-third):** Gallagher Prem: Finn Russell leads Bath to victory over G…  
-**When:** 2025-10-11 11:30 (America/Winnipeg)  •  **Published:** 2025-10-11 16:30 (UTC)  
-**Virality score:** 76  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Gallagher Prem: Finn Russell leads Bath to victory over Gloucester as Bristol take derby honours over Exeter. Finn Russell makes winning return to Bath duty with 38-17 derby win over Gloucester; Bristol secure 18-14 victory over Exeter despite red card for Scotland international Tom Jordan; Anthony Belleau scores two tries off the bench as Northampton Saints beat Leicester Tigers 32-26 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Gallagher Prem: Finn Russell leads Bath to victory over Gloucester as Bristol take derby honours over Exeter. https://www.skysports.com/rugby-union/news/12040/13448620/gallagher-prem-tom-jordan-sees-red-but-bristol-take-derby-honours-over-exeter
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -116,13 +42,13 @@ Gallagher Prem: Finn Russell leads Bath to victory over Gloucester as Bristol ta
 
 ### League & Regulation
 
-## Story 5: Aston Villa must stop crying foul and focus on the Europa League instead | Jonathan Wilson
-**Slug (lower-third):** Aston Villa must stop crying foul and focus on the Europa…  
-**When:** 2025-10-11 14:00 (America/Winnipeg)  •  **Published:** 2025-10-11 19:00 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
+## Story 2: Uefa plans to relax multi-club ownership declaration rules after Crystal Palace furore
+**Slug (lower-third):** Uefa plans to relax multi-club ownership declaration rule…  
+**When:** 2025-10-12 10:17 (America/Winnipeg)  •  **Published:** 2025-10-12 15:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa must stop crying foul and focus on the Europa League instead | Jonathan Wilson. There is no grand PSR conspiracy against Unai Emery's side. They should be challenging Newcastle or Tottenham for fifth Relevance to standings and momentum.
+Uefa plans to relax multi-club ownership declaration rules after Crystal Palace furore. Uefa is planning to give clubs more time to resolve potential multi-club ownership (MCO) issues next season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,10 +57,10 @@ Aston Villa must stop crying foul and focus on the Europa League instead | Jonat
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Aston Villa must stop crying foul and focus on the Europa League instead | Jonathan Wilson. https://www.theguardian.com/football/2025/oct/11/aston-villa-psr-premier-league-europa-league
+- theguardian.com — Uefa plans to relax multi-club ownership declaration rules after Crystal Palace furore. https://www.theguardian.com/football/2025/oct/12/uefa-plans-to-relex-multi-club-ownership-declaration-rules-crystal-palace-lyon-europa-conference-league
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -142,13 +68,13 @@ Aston Villa must stop crying foul and focus on the Europa League instead | Jonat
 
 ### Club Updates
 
-## Story 6: WSL: Everton Women score their first goal at Hill Dickinson Stadium against Man Utd!
-**Slug (lower-third):** WSL: Everton Women score their first goal at Hill Dickins…  
-**When:** 2025-10-12 07:21 (America/Winnipeg)  •  **Published:** 2025-10-12 12:21 (UTC)  
+## Story 3: Liverpool 1-2 Man City | WSL highlights
+**Slug (lower-third):** Liverpool 1-2 Man City | WSL highlights  
+**When:** 2025-10-12 13:58 (America/Winnipeg)  •  **Published:** 2025-10-12 18:58 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL: Everton Women score their first goal at Hill Dickinson Stadium against Man Utd!. Honoka Hayashi powers Everton Womens first goal at Hill Dickinson Stadium against Man Utd! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liverpool 1-2 Man City | WSL highlights. Highlights of the Womens Super League match between Liverpool and Manchester City. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +83,7 @@ WSL: Everton Women score their first goal at Hill Dickinson Stadium against Man 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — WSL: Everton Women score their first goal at Hill Dickinson Stadium against Man Utd!. https://www.skysports.com/watch/video/13448962/wsl-everton-women-score-their-first-goal-at-hill-dickinson-stadium-against-man-utd
+- skysports.com — Liverpool 1-2 Man City | WSL highlights. https://www.skysports.com/watch/video/13449155/liverpool-1-2-man-city-wsl-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +92,13 @@ WSL: Everton Women score their first goal at Hill Dickinson Stadium against Man 
 
 ---
 
-## Story 7: Fran Kirby: Brighton star recalls England call-up and breakthrough
-**Slug (lower-third):** Fran Kirby: Brighton star recalls England call-up and bre…  
-**When:** 2025-10-12 00:38 (America/Winnipeg)  •  **Published:** 2025-10-12 05:38 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 4: Liverpool vs Man City: Aoba Fujino fires City in front with fizzing strike!
+**Slug (lower-third):** Liverpool vs Man City: Aoba Fujino fires City in front wi…  
+**When:** 2025-10-12 13:36 (America/Winnipeg)  •  **Published:** 2025-10-12 18:36 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fran Kirby: Brighton star recalls England call-up and breakthrough. Former England star Fran Kirby reflects on the moment she received her first England call-up while playing for Reading in WSL2, which led to her breakthrough and being nicknamed 'Mini Messi'. Relevance to standings and momentum.
+Liverpool vs Man City: Aoba Fujino fires City in front with fizzing strike!. Manchester City increased the pressure on the Liverpool defence and were rewarded with a fine goal from Aoba Fujino. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +107,7 @@ Fran Kirby: Brighton star recalls England call-up and breakthrough. Former Engla
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Fran Kirby: Brighton star recalls England call-up and breakthrough. https://www.bbc.com/sport/football/videos/c0kn6mlre48o?at_medium=RSS&at_campaign=rss
+- skysports.com — Liverpool vs Man City: Aoba Fujino fires City in front with fizzing strike!. https://www.skysports.com/watch/video/13449141/aoba-fujino-fires-city-in-front-with-fizzing-strike
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +116,13 @@ Fran Kirby: Brighton star recalls England call-up and breakthrough. Former Engla
 
 ---
 
-## Story 8: Luke Litter vs Luke Humphries: Head-to-head record, past darts matches in TV finals and who has the edge in darts' battle for world No 1?
-**Slug (lower-third):** Luke Litter vs Luke Humphries: Head-to-head record, past …  
-**When:** 2025-10-11 19:05 (America/Winnipeg)  •  **Published:** 2025-10-12 00:05 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~30s
+## Story 5: WSL: Man Utd score four against Everton to maintain unbeaten start
+**Slug (lower-third):** WSL: Man Utd score four against Everton to maintain unbea…  
+**When:** 2025-10-12 12:22 (America/Winnipeg)  •  **Published:** 2025-10-12 17:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Luke Litter vs Luke Humphries: Head-to-head record, past darts matches in TV finals and who has the edge in darts' battle for world No 1?. Luke Littler and Luke Humphries will face each other in the World Grand Prix final, having previously met in the World Championship and Premier League finals; Watch the final live on Sunday from 8pm on Sky Sports+ and Sky Sports Main Event Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+WSL: Man Utd score four against Everton to maintain unbeaten start. Substitute Jess Park scored a late double to help Manchester United secure a 4-1 win over Everton, carrying on their unbeaten start. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +131,7 @@ Luke Litter vs Luke Humphries: Head-to-head record, past darts matches in TV fin
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Luke Litter vs Luke Humphries: Head-to-head record, past darts matches in TV finals and who has the edge in darts' battle for world No 1?. https://www.skysports.com/darts/news/12040/13448555/luke-litter-vs-luke-humphries-head-to-head-record-past-darts-matches-in-tv-finals-and-who-has-the-edge-in-darts-battle-for-world-no-1
+- bbc.com — WSL: Man Utd score four against Everton to maintain unbeaten start. https://www.bbc.com/sport/football/videos/c20v05dd08do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +140,13 @@ Luke Litter vs Luke Humphries: Head-to-head record, past darts matches in TV fin
 
 ---
 
-## Story 9: World Grand Prix darts: Luke Littler beats Jonny Clayton to book another final showdown with Luke Humphries
-**Slug (lower-third):** World Grand Prix darts: Luke Littler beats Jonny Clayton …  
-**When:** 2025-10-11 18:10 (America/Winnipeg)  •  **Published:** 2025-10-11 23:10 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~28s
+## Story 6: Jess Park's explosive start at Man Utd as move from City pays off
+**Slug (lower-third):** Jess Park's explosive start at Man Utd as move from City …  
+**When:** 2025-10-12 12:21 (America/Winnipeg)  •  **Published:** 2025-10-12 17:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-World Grand Prix darts: Luke Littler beats Jonny Clayton to book another final showdown with Luke Humphries. Luke Littler thrashed Jonny Clayton 5-1 after Luke Humphries beat Danny Noppert 5-3 in Leicester; Littler vs Humphries is a repeat of the Premier League final; Watch the World Grand Prix final live on Sunday from 8pm on Sky Sports+ and Sky Sports Main Event Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jess Park's explosive start at Man Utd as move from City pays off. When Jess Park switched Manchester City for Manchester United some considered it a sideways step - but she is already showing why it was a good decision. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +155,103 @@ World Grand Prix darts: Luke Littler beats Jonny Clayton to book another final s
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — World Grand Prix darts: Luke Littler beats Jonny Clayton to book another final showdown with Luke Humphries. https://www.skysports.com/darts/news/12040/13448556/world-grand-prix-darts-luke-littler-beats-jonny-clayton-to-book-another-final-showdown-with-luke-humphries
+- bbc.com — Jess Park's explosive start at Man Utd as move from City pays off. https://www.bbc.com/sport/football/articles/cy7p7zxx22zo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: WSL: Walsh strike extends Chelsea unbeaten league run
+**Slug (lower-third):** WSL: Walsh strike extends Chelsea unbeaten league run  
+**When:** 2025-10-12 12:15 (America/Winnipeg)  •  **Published:** 2025-10-12 17:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+WSL: Walsh strike extends Chelsea unbeaten league run. Keira Walsh delivers an incredible strike to break Chelsea's deadlock against Tottenham to win 1-0 and maintain their unbeaten WSL run. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — WSL: Walsh strike extends Chelsea unbeaten league run. https://www.bbc.com/sport/football/videos/cly7ydr8n6ro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Maelys Mpome: Brighton defender 'up and about' after being knocked out at Arsenal
+**Slug (lower-third):** Maelys Mpome: Brighton defender 'up and about' after bein…  
+**When:** 2025-10-12 12:07 (America/Winnipeg)  •  **Published:** 2025-10-12 17:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Maelys Mpome: Brighton defender 'up and about' after being knocked out at Arsenal. Brighton defender Maelys Mpome is "up and about" after being taken off the field on a stretcher, with her head in a brace and receiving oxygen during their WSL defeat at Arsenal. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Maelys Mpome: Brighton defender 'up and about' after being knocked out at Arsenal. https://www.bbc.com/sport/football/articles/c5ygy1n7g31o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Arsenal lacked quality and composure - Fara Williams
+**Slug (lower-third):** Arsenal lacked quality and composure - Fara Williams  
+**When:** 2025-10-12 12:06 (America/Winnipeg)  •  **Published:** 2025-10-12 17:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal lacked quality and composure - Fara Williams. BBC Sport pundits Fara Williams and Anita Asante analyse Arsenal's attacking quality during their 1-0 Women's Super League win over Brighton. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arsenal lacked quality and composure - Fara Williams. https://www.bbc.com/sport/football/videos/cz080041kpgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: 'It's breathtaking' - Everton savour slice of WSL history but Manchester United spoil party
+**Slug (lower-third):** 'It's breathtaking' - Everton savour slice of WSL history…  
+**When:** 2025-10-12 10:52 (America/Winnipeg)  •  **Published:** 2025-10-12 15:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'It's breathtaking' - Everton savour slice of WSL history but Manchester United spoil party. Everton's women played at Hill Dickinson Stadium for the first time but visitors were easy 4-1 winners Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'It's breathtaking' - Everton savour slice of WSL history but Manchester United spoil party. https://www.theguardian.com/football/2025/oct/12/everton-manchester-united-womens-super-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
