@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-13 01:33 (America/Winnipeg)  |  2025-10-13 06:33 (UTC)
+**Generated:** 2025-10-13 07:43 (America/Winnipeg)  |  2025-10-13 12:43 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Ben Davies: Wales and Tottenham Hotspur's reluctant star
-- World Grand Prix darts: Luke Littler thrashes Luke Humphries 6-1 to claim another TV major title and close on world No 1 spot in Leicester
-- Football gossip: Pickford, Lewandowski, Zidane, Osula, Rashford, Araujo
+- Rugby League Ashes 2025: Squads, fixtures and venues as England and Australia reignite rivalry
+- WSL talking points: Arsenal face dilemma and Blindkilde Brown gives Wiegman nudge
+- Mark Phillips interview: The Neurodivergent Footballer on the ADHD diagnosis that changed his life
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Football gossip: Pickford, Lewandowski, Zidane, Osula, Rashford, Araujo
-**Slug (lower-third):** Football gossip: Pickford, Lewandowski, Zidane, Osula, Ra…  
-**When:** 2025-10-12 15:49 (America/Winnipeg)  •  **Published:** 2025-10-12 20:49 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 1: Thomas Frank, Oliver Glasner, Enzo Maresca and more! Premier League managers answer internet's most divided questions
+**Slug (lower-third):** Thomas Frank, Oliver Glasner, Enzo Maresca and more! Prem…  
+**When:** 2025-10-13 04:56 (America/Winnipeg)  •  **Published:** 2025-10-13 09:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Pickford, Lewandowski, Zidane, Osula, Rashford, Araujo. Everton set to sign goalkeeper Jordan Pickford to a new long-term contract, Barcelona not planning to extend Robert Lewandowski contract, Newcastle United could allow William Osula leave, plus more. Implications for the squad and table.
+Thomas Frank, Oliver Glasner, Enzo Maresca and more! Premier League managers answer internet's most divided questions. How do you make your tea in the morning? Do you put the milk in before or after the water? The big questions were put to Premier League managers in the latest edition of On The Spot - the internets most divided questions. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,107 @@ Football gossip: Pickford, Lewandowski, Zidane, Osula, Rashford, Araujo. Everton
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Pickford, Lewandowski, Zidane, Osula, Rashford, Araujo. https://www.bbc.com/sport/football/articles/c7848yq34z6o?at_medium=RSS&at_campaign=rss
+- skysports.com — Thomas Frank, Oliver Glasner, Enzo Maresca and more! Premier League managers answer internet's most divided questions. https://www.skysports.com/watch/video/13449371/tea-teeth-and-sandwiches-pl-managers-answer-internets-most-divided-questions
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: 'A full-circle moment for me': Jack Wilshere confirmed as Luton manager
+**Slug (lower-third):** 'A full-circle moment for me': Jack Wilshere confirmed as…  
+**When:** 2025-10-13 04:19 (America/Winnipeg)  •  **Published:** 2025-10-13 09:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'A full-circle moment for me': Jack Wilshere confirmed as Luton manager. Jack Wilshere has been announced as the manager of Luton, giving the former Arsenal and England midfielder his first permanent role leading a team Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'A full-circle moment for me': Jack Wilshere confirmed as Luton manager. https://www.theguardian.com/football/2025/oct/13/jack-wilshere-confirmed-as-luton-manager
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Football gossip: Lewandowski, Zidane, Osula, Rashford, Araujo
+**Slug (lower-third):** Football gossip: Lewandowski, Zidane, Osula, Rashford, Ar…  
+**When:** 2025-10-13 03:57 (America/Winnipeg)  •  **Published:** 2025-10-13 08:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Lewandowski, Zidane, Osula, Rashford, Araujo. Barcelona not planning to extend Robert Lewandowski contract, Newcastle United could allow William Osula to leave, plus more. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Lewandowski, Zidane, Osula, Rashford, Araujo. https://www.bbc.com/sport/football/articles/c7848yq34z6o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Jordan Pickford: England goalkeeper agrees new Everton deal
+**Slug (lower-third):** Jordan Pickford: England goalkeeper agrees new Everton de…  
+**When:** 2025-10-13 03:44 (America/Winnipeg)  •  **Published:** 2025-10-13 08:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Jordan Pickford: England goalkeeper agrees new Everton deal. England goalkeeper Jordan Pickford agrees a new contract to stay at Everton. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Jordan Pickford: England goalkeeper agrees new Everton deal. https://www.bbc.com/sport/football/articles/c4g3x72zgnjo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 5: Next Generation 2025: 20 of the best talents at Premier League clubs
+**Slug (lower-third):** Next Generation 2025: 20 of the best talents at Premier L…  
+**When:** 2025-10-13 04:10 (America/Winnipeg)  •  **Published:** 2025-10-13 09:10 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Next Generation 2025: 20 of the best talents at Premier League clubs. We pick the best youngsters at each club born between 1 September 2008 and 31 August 2009, an age band known as first-year scholars Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Next Generation 2025: 20 of the best talents at Premier League clubs. https://www.theguardian.com/football/ng-interactive/2025/oct/13/next-generation-2025-20-of-the-best-talents-at-premier-league-clubs
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +142,37 @@ Football gossip: Pickford, Lewandowski, Zidane, Osula, Rashford, Araujo. Everton
 
 ### Club Updates
 
-## Story 2: Ben Davies: Wales and Tottenham Hotspur's reluctant star
-**Slug (lower-third):** Ben Davies: Wales and Tottenham Hotspur's reluctant star  
-**When:** 2025-10-12 22:34 (America/Winnipeg)  •  **Published:** 2025-10-13 03:34 (UTC)  
+## Story 6: Rugby League Ashes 2025: Squads, fixtures and venues as England and Australia reignite rivalry
+**Slug (lower-third):** Rugby League Ashes 2025: Squads, fixtures and venues as E…  
+**When:** 2025-10-13 07:00 (America/Winnipeg)  •  **Published:** 2025-10-13 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
+
+### Presenter Script (3–5 sentences)
+Rugby League Ashes 2025: Squads, fixtures and venues as England and Australia reignite rivalry. Three Test matches between England and rivals Australia will be held at Wembley Stadium, as well as a clash at Evertons new Hill Dickinson stadium, and at Headingley across three Saturdays from October 25; It is the first rugby league Ashes since 2003 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Rugby League Ashes 2025: Squads, fixtures and venues as England and Australia reignite rivalry. https://www.skysports.com/rugby-league/news/12040/13447409/rugby-league-ashes-2025-squads-fixtures-and-venues-as-england-and-australia-reignite-rivalry
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: WSL talking points: Arsenal face dilemma and Blindkilde Brown gives Wiegman nudge
+**Slug (lower-third):** WSL talking points: Arsenal face dilemma and Blindkilde B…  
+**When:** 2025-10-13 06:44 (America/Winnipeg)  •  **Published:** 2025-10-13 11:44 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ben Davies: Wales and Tottenham Hotspur's reluctant star. As Ben Davies inches closer to becoming Welsh football's latest centurion, BBC Sport Wales profiles Wales and Spursa "reluctant star". Relevance to standings and momentum.
+WSL talking points: Arsenal face dilemma and Blindkilde Brown gives Wiegman nudge. Everton continue to struggle at home, Leicester's long wait for an away win goes on but Spurs can take pride in defeat Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +181,7 @@ Ben Davies: Wales and Tottenham Hotspur's reluctant star. As Ben Davies inches c
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Ben Davies: Wales and Tottenham Hotspur's reluctant star. https://www.bbc.com/sport/football/articles/c62nyn61l6ro?at_medium=RSS&at_campaign=rss
+- theguardian.com — WSL talking points: Arsenal face dilemma and Blindkilde Brown gives Wiegman nudge. https://www.theguardian.com/football/2025/oct/13/wsl-talking-points-arsenal-laura-blindkilde-brown-sarina-wiegman
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +190,13 @@ Ben Davies: Wales and Tottenham Hotspur's reluctant star. As Ben Davies inches c
 
 ---
 
-## Story 3: World Grand Prix darts: Luke Littler thrashes Luke Humphries 6-1 to claim another TV major title and close on world No 1 spot in Leicester
-**Slug (lower-third):** World Grand Prix darts: Luke Littler thrashes Luke Humphr…  
-**When:** 2025-10-12 16:30 (America/Winnipeg)  •  **Published:** 2025-10-12 21:30 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~31s
+## Story 8: Mark Phillips interview: The Neurodivergent Footballer on the ADHD diagnosis that changed his life
+**Slug (lower-third):** Mark Phillips interview: The Neurodivergent Footballer on…  
+**When:** 2025-10-13 05:00 (America/Winnipeg)  •  **Published:** 2025-10-13 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-World Grand Prix darts: Luke Littler thrashes Luke Humphries 6-1 to claim another TV major title and close on world No 1 spot in Leicester. Luke Humphries finishes runner-up for the second successive year at the World Grand Prix; Luke Littler narrowly missed out on a nine-dart leg during a 6-1 victory over the world No 1 in Leicester; Littlers victory is his fourth TV major title of 2025 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Mark Phillips interview: The Neurodivergent Footballer on the ADHD diagnosis that changed his life. In conversation with Sky Sports Dan Long, former Brentford, Millwall and Southend defender Mark Phillips speaks about his ADHD diagnosis, how it impacted his career and how he wants to help the next generation achieve their potential Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +205,7 @@ World Grand Prix darts: Luke Littler thrashes Luke Humphries 6-1 to claim anothe
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — World Grand Prix darts: Luke Littler thrashes Luke Humphries 6-1 to claim another TV major title and close on world No 1 spot in Leicester. https://www.skysports.com/darts/news/12040/13449073/world-grand-prix-darts-luke-littler-thrashes-luke-humphries-6-1-to-claim-another-tv-major-title-and-close-on-world-no-1-spot-in-leicester
+- skysports.com — Mark Phillips interview: The Neurodivergent Footballer on the ADHD diagnosis that changed his life. https://www.skysports.com/football/news/12040/13423834/mark-phillips-interview-the-neurodivergent-footballer-on-the-adhd-diagnosis-that-changed-his-life
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +214,13 @@ World Grand Prix darts: Luke Littler thrashes Luke Humphries 6-1 to claim anothe
 
 ---
 
-## Story 4: Man City late goals: Is there something special about Andree Jeglertz's team?
-**Slug (lower-third):** Man City late goals: Is there something special about And…  
-**When:** 2025-10-12 14:56 (America/Winnipeg)  •  **Published:** 2025-10-12 19:56 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~21s
+## Story 9: Nile Ranger: Former Newcastle United striker leaves Kettering Town
+**Slug (lower-third):** Nile Ranger: Former Newcastle United striker leaves Kette…  
+**When:** 2025-10-13 03:26 (America/Winnipeg)  •  **Published:** 2025-10-13 08:26 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City late goals: Is there something special about Andree Jeglertz's team?. With his team scoring late yet again to beat Liverpool in the Women's Super League on Sunday, is there evidence that Andree Jeglertz is creating something special at Manchester City? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Nile Ranger: Former Newcastle United striker leaves Kettering Town. Former Premier League striker Nile Ranger leaves Southern League side Kettering Town by mutual consent. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +229,7 @@ Man City late goals: Is there something special about Andree Jeglertz's team?. W
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man City late goals: Is there something special about Andree Jeglertz's team?. https://www.bbc.com/sport/football/articles/c2dnddy6dy9o?at_medium=RSS&at_campaign=rss
+- bbc.com — Nile Ranger: Former Newcastle United striker leaves Kettering Town. https://www.bbc.com/sport/football/articles/cp3d5q7wvd7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +238,13 @@ Man City late goals: Is there something special about Andree Jeglertz's team?. W
 
 ---
 
-## Story 5: Football - latest news today, results & video highlights - BBC Sport
-**Slug (lower-third):** Football - latest news today, results & video highlights …  
-**When:** 2025-10-12 14:07 (America/Winnipeg)  •  **Published:** 2025-10-12 19:07 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+## Story 10: WSL: Man City come from behind to beat Liverpool
+**Slug (lower-third):** WSL: Man City come from behind to beat Liverpool  
+**When:** 2025-10-13 02:23 (America/Winnipeg)  •  **Published:** 2025-10-13 07:23 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football - latest news today, results & video highlights - BBC Sport. Football news, scores, results, fixtures and videos from the Premier League, Championship, European and World Football from the BBC. Relevance to standings and momentum.
+WSL: Man City come from behind to beat Liverpool. Iman Beney and Aoba Fujino score for Manchester City as they come from 1-0 down at triumph at Anfield to extend Liverpool's winless start to the WSL season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,130 +253,10 @@ Football - latest news today, results & video highlights - BBC Sport. Football n
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football - latest news today, results & video highlights - BBC Sport. https://www.bbc.co.uk/sport/football
+- bbc.com — WSL: Man City come from behind to beat Liverpool. https://www.bbc.com/sport/football/videos/c3epj5j2xv4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: WSL - Chelsea 1-0 Tottenham: Watch Keira Walsh's stunning goal
-**Slug (lower-third):** WSL - Chelsea 1-0 Tottenham: Watch Keira Walsh's stunning…  
-**When:** 2025-10-12 13:53 (America/Winnipeg)  •  **Published:** 2025-10-12 18:53 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL - Chelsea 1-0 Tottenham: Watch Keira Walsh's stunning goal. Keira Walsh's "unbelievable strike" breaks the deadlock in the second half for Chelsea against Tottenham. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — WSL - Chelsea 1-0 Tottenham: Watch Keira Walsh's stunning goal. https://www.bbc.com/sport/football/videos/cly0yy990rpo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Liverpool still without a WSL point after Fujino strike gives Manchester City late win
-**Slug (lower-third):** Liverpool still without a WSL point after Fujino strike g…  
-**When:** 2025-10-12 13:20 (America/Winnipeg)  •  **Published:** 2025-10-12 18:20 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool still without a WSL point after Fujino strike gives Manchester City late win. Manchester City won 2-1 at Liverpool, having gone behind, as Gareth Taylor's side lost for the fifth time out of five league games Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Liverpool still without a WSL point after Fujino strike gives Manchester City late win. https://www.theguardian.com/football/2025/oct/12/liverpool-manchester-city-womens-super-league-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: WSL: Man Utd score four against Everton to maintain unbeaten start
-**Slug (lower-third):** WSL: Man Utd score four against Everton to maintain unbea…  
-**When:** 2025-10-12 12:22 (America/Winnipeg)  •  **Published:** 2025-10-12 17:22 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL: Man Utd score four against Everton to maintain unbeaten start. Substitute Jess Park scored a late double to help Manchester United secure a 4-1 win over Everton, carrying on their unbeaten start. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — WSL: Man Utd score four against Everton to maintain unbeaten start. https://www.bbc.com/sport/football/videos/c20v05dd08do?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Maelys Mpome: Brighton defender 'up and about' after being knocked out at Arsenal
-**Slug (lower-third):** Maelys Mpome: Brighton defender 'up and about' after bein…  
-**When:** 2025-10-12 12:07 (America/Winnipeg)  •  **Published:** 2025-10-12 17:07 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Maelys Mpome: Brighton defender 'up and about' after being knocked out at Arsenal. Brighton defender Maelys Mpome is "up and about" after being taken off the field on a stretcher, with her head in a brace and receiving oxygen during their WSL defeat at Arsenal. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Maelys Mpome: Brighton defender 'up and about' after being knocked out at Arsenal. https://www.bbc.com/sport/football/articles/c5ygy1n7g31o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Arsenal get back on track in WSL after Olislagers' own goal scuppers Brighton
-**Slug (lower-third):** Arsenal get back on track in WSL after Olislagers' own go…  
-**When:** 2025-10-12 10:55 (America/Winnipeg)  •  **Published:** 2025-10-12 15:55 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal get back on track in WSL after Olislagers' own goal scuppers Brighton. The Brighton defender turned the ball into her own net in the 15th minute to give Arsenal a 1-0 win in the Women's Super League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Arsenal get back on track in WSL after Olislagers' own goal scuppers Brighton. https://www.theguardian.com/football/2025/oct/12/arsenal-brighton-womens-super-league-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
