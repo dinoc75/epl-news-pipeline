@@ -1,14 +1,2 @@
-resp_022edc1132ebf5030068ef9811bdf48197ba541f67c005e559
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_022edc1132ebf5030068ef9812a0d48197bed6b612c4839d3d
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "As a football presenter I’m used to dramatic send-offs, but today it’s darts that loses two of its most recognisable voices: the PDC has confirmed that Master of Ceremonies John McDonald and referee George Noble will hang up their microphones after the next World Darts Championship. The pair have become fixtures of PDC events — McDonald as MC and Noble as the on-stage referee — and
