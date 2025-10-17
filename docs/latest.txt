@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-17 07:42 (America/Winnipeg)  |  2025-10-17 12:42 (UTC)
+**Generated:** 2025-10-17 13:28 (America/Winnipeg)  |  2025-10-17 18:28 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~4m 38s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Manchester United: Amorim responds to the public support from decision-makers
-- Pep Guardiola: This is the best Erling Haaland I've seen for Manchester City
-- Rodri: Pep Guardiola unsure of Manchester City midfielder's return from injury
+- Government 'doing everything' to overturn Maccabi Tel Aviv fan ban at Aston Villa match
+- Premier League team news: predicted lineups for the weekend action
+- Ruben Amorim: Man Utd captain Bruno Fernandes says squad on same page as Sir Jim Ratcliffe about head coach
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Rodri: Pep Guardiola unsure of Manchester City midfielder's return from injury
-**Slug (lower-third):** Rodri: Pep Guardiola unsure of Manchester City midfielder…  
-**When:** 2025-10-17 07:37 (America/Winnipeg)  •  **Published:** 2025-10-17 12:37 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Ruben Amorim: Man Utd captain Bruno Fernandes says squad on same page as Sir Jim Ratcliffe about head coach
+**Slug (lower-third):** Ruben Amorim: Man Utd captain Bruno Fernandes says squad …  
+**When:** 2025-10-17 13:00 (America/Winnipeg)  •  **Published:** 2025-10-17 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
 
 ### Presenter Script (3–5 sentences)
-Rodri: Pep Guardiola unsure of Manchester City midfielder's return from injury. Midfielder Rodri will miss Saturday's Premier League game against Everton because of injury and manager Pep Guardiola does not know when he will return. Potential impact on the lineup and upcoming fixtures.
+Ruben Amorim: Man Utd captain Bruno Fernandes says squad on same page as Sir Jim Ratcliffe about head coach. Bruno Fernandes tells Sky Sports every Manchester United manager is one game away from a crisis but is backing Ruben Amorim to steady the ship after a whirlwind start to the season that has lurched from one extreme to another and takes them next to Liverpool on Sunday, live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Rodri: Pep Guardiola unsure of Manchester City midfielder's return from injury. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Rodri: Pep Guardiola unsure of Manchester City midfielder's return from injury. https://www.bbc.com/sport/football/articles/ckg4z5dq5dvo?at_medium=RSS&at_campaign=rss
+- skysports.com — Ruben Amorim: Man Utd captain Bruno Fernandes says squad on same page as Sir Jim Ratcliffe about head coach. https://www.skysports.com/football/news/12040/13451659/ruben-amorim-man-utd-captain-bruno-fernandes-says-squad-on-same-page-as-sir-jim-ratcliffe-about-head-coach
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Rodri: Pep Guardiola unsure of Manchester City midfielder's return from injury. 
 
 ---
 
-## Story 2: A decade of despair: Manchester United's long winless run at Anfield
-**Slug (lower-third):** A decade of despair: Manchester United's long winless run…  
-**When:** 2025-10-17 07:00 (America/Winnipeg)  •  **Published:** 2025-10-17 12:00 (UTC)  
+## Story 2: Ange Postecoglou: Nottingham Forest boss defends managerial credentials
+**Slug (lower-third):** Ange Postecoglou: Nottingham Forest boss defends manageri…  
+**When:** 2025-10-17 10:59 (America/Winnipeg)  •  **Published:** 2025-10-17 15:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-A decade of despair: Manchester United's long winless run at Anfield. Ruben Amorim travels to Liverpool on Sunday trying to become the first United manager to earn three points at their bitter rivals' home since Louis van Gaal in early 2016 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ange Postecoglou: Nottingham Forest boss defends managerial credentials. Nottingham Forest head coach Ange Postecoglou talks about his disappointment at being perceived as a failure at both his current and former clubs, amid rumours that he is already under pressure at Forest after no wins in his first seven games in charge. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,55 +55,7 @@ A decade of despair: Manchester United's long winless run at Anfield. Ruben Amor
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — A decade of despair: Manchester United's long winless run at Anfield. https://www.theguardian.com/football/2025/oct/17/manchester-united-long-winless-run-at-anfield-liverpool-ruben-amorim
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Ange Postecoglou: Is the writing already on the wall for Forest boss?
-**Slug (lower-third):** Ange Postecoglou: Is the writing already on the wall for …  
-**When:** 2025-10-17 06:09 (America/Winnipeg)  •  **Published:** 2025-10-17 11:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ange Postecoglou: Is the writing already on the wall for Forest boss?. The potential consequences of defeat this weekend will not be lost on Nottingham Forest head coach Ange Postecoglou, with the club already looking at potential replacements. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Ange Postecoglou: Is the writing already on the wall for Forest boss?. https://www.bbc.com/sport/football/articles/czxkr285kgko?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Alexander Isak: Liverpool striker is now ready to start firing, says Arne Slot
-**Slug (lower-third):** Alexander Isak: Liverpool striker is now ready to start f…  
-**When:** 2025-10-17 05:13 (America/Winnipeg)  •  **Published:** 2025-10-17 10:13 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Alexander Isak: Liverpool striker is now ready to start firing, says Arne Slot. Liverpool take on Man Utd at Anfield having lost three straight games in all competitions; head coach Arne Slot says British-record signing Alexander Isak is now fully fit; watch Liverpool vs Man Utd live on Sky Sports on Sunday; kick-off 4.30pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Alexander Isak: Liverpool striker is now ready to start firing, says Arne Slot. https://www.skysports.com/football/news/12040/13451559/alexander-isak-liverpool-striker-is-now-ready-to-start-firing-says-arne-slot
+- bbc.com — Ange Postecoglou: Nottingham Forest boss defends managerial credentials. https://www.bbc.com/sport/football/videos/c4gkm7re79zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +66,13 @@ Alexander Isak: Liverpool striker is now ready to start firing, says Arne Slot. 
 
 ### Injuries
 
-## Story 5: Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
-**Slug (lower-third):** Premier League and FPL team news: All your injury and Fan…  
-**When:** 2025-10-17 06:42 (America/Winnipeg)  •  **Published:** 2025-10-17 11:42 (UTC)  
+## Story 3: Your Guardian sport weekend: Premier League returns, F1 in the US and World Cup cricket
+**Slug (lower-third):** Your Guardian sport weekend: Premier League returns, F1 i…  
+**When:** 2025-10-17 11:24 (America/Winnipeg)  •  **Published:** 2025-10-17 16:24 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Potential impact on the lineup and upcoming fixtures.
+Your Guardian sport weekend: Premier League returns, F1 in the US and World Cup cricket. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +81,31 @@ Premier League and FPL team news: All your injury and Fantasy Premier League inf
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. https://www.bbc.com/sport/articles/c993r517zx3o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Your Guardian sport weekend: Premier League returns, F1 in the US and World Cup cricket. https://www.theguardian.com/sport/2025/oct/17/your-guardian-sport-weekend-premier-league-returns-f1-in-the-us-and-world-cup-cricket
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Manuela Zinsberger: Arsenal goalkeeper suffers ACL injury
+**Slug (lower-third):** Manuela Zinsberger: Arsenal goalkeeper suffers ACL injury  
+**When:** 2025-10-17 11:13 (America/Winnipeg)  •  **Published:** 2025-10-17 16:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manuela Zinsberger: Arsenal goalkeeper suffers ACL injury. Arsenal goalkeeper Manuela Zinsberger is expected to miss the rest of the season after suffering a ruptured anterior cruciate ligament (ACL) injury. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manuela Zinsberger: Arsenal goalkeeper suffers ACL injury. https://www.bbc.com/sport/football/articles/ce86y7v0045o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +116,13 @@ Premier League and FPL team news: All your injury and Fantasy Premier League inf
 
 ### League & Regulation
 
-## Story 6: Maccabi Tel Aviv: Why have Israeli club's fans been banned from Aston Villa Europa League game? Key questions answered
-**Slug (lower-third):** Maccabi Tel Aviv: Why have Israeli club's fans been banne…  
-**When:** 2025-10-17 05:29 (America/Winnipeg)  •  **Published:** 2025-10-17 10:29 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 5: Government 'doing everything' to overturn Maccabi Tel Aviv fan ban at Aston Villa match
+**Slug (lower-third):** Government 'doing everything' to overturn Maccabi Tel Avi…  
+**When:** 2025-10-17 13:25 (America/Winnipeg)  •  **Published:** 2025-10-17 18:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Maccabi Tel Aviv: Why have Israeli club's fans been banned from Aston Villa Europa League game? Key questions answered. The decision to ban travelling fans from Aston Villas home game against Maccabi Tel Aviv has caused a strong reaction; how was the decision taken? What happened in game between Maccabi Tel Aviv and Ajax cited by police? And what now? Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Government 'doing everything' to overturn Maccabi Tel Aviv fan ban at Aston Villa match. It is working with police and exploring what additional resources are required to allow all fans to attend. Disciplinary outcome could affect availability.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +131,7 @@ Maccabi Tel Aviv: Why have Israeli club's fans been banned from Aston Villa Euro
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Maccabi Tel Aviv: Why have Israeli club's fans been banned from Aston Villa Europa League game? Key questions answered. https://www.skysports.com/football/news/12040/13451567/maccabi-tel-aviv-why-have-israeli-clubs-fans-been-banned-from-aston-villa-europa-league-game-key-questions-answered
+- bbc.com — Government 'doing everything' to overturn Maccabi Tel Aviv fan ban at Aston Villa match. https://www.bbc.com/news/articles/c5ylxn8g2y2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +140,13 @@ Maccabi Tel Aviv: Why have Israeli club's fans been banned from Aston Villa Euro
 
 ---
 
-## Story 7: Police under rising pressure over ban on Maccabi Tel Aviv fans at Aston Villa tie
-**Slug (lower-third):** Police under rising pressure over ban on Maccabi Tel Aviv…  
-**When:** 2025-10-17 05:19 (America/Winnipeg)  •  **Published:** 2025-10-17 10:19 (UTC)  
+## Story 6: Home Office offers extra resources in effort to undo Maccabi Tel Aviv fans ban
+**Slug (lower-third):** Home Office offers extra resources in effort to undo Macc…  
+**When:** 2025-10-17 12:12 (America/Winnipeg)  •  **Published:** 2025-10-17 17:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Police under rising pressure over ban on Maccabi Tel Aviv fans at Aston Villa tie. West Midlands crime commissioner demands review as ministers meet to 'find a way through' Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Home Office offers extra resources in effort to undo Maccabi Tel Aviv fans ban. No 10 says talks happening 'at pace' over West Midlands police order banning fans from attending Aston Villa tie Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +155,31 @@ Police under rising pressure over ban on Maccabi Tel Aviv fans at Aston Villa ti
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Police under rising pressure over ban on Maccabi Tel Aviv fans at Aston Villa tie. https://www.theguardian.com/politics/2025/oct/17/government-officials-seek-lift-ban-maccabi-tel-aviv-fans-aston-villa-game
+- theguardian.com — Home Office offers extra resources in effort to undo Maccabi Tel Aviv fans ban. https://www.theguardian.com/politics/2025/oct/17/government-officials-seek-lift-ban-maccabi-tel-aviv-fans-aston-villa-game
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: West Ham vs Brentford: Nuno Espirito Santo calls for support amid fears of fans boycotting Premier League clash
+**Slug (lower-third):** West Ham vs Brentford: Nuno Espirito Santo calls for supp…  
+**When:** 2025-10-17 10:47 (America/Winnipeg)  •  **Published:** 2025-10-17 15:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+West Ham vs Brentford: Nuno Espirito Santo calls for support amid fears of fans boycotting Premier League clash. West Ham fans are threatening to boycott Nuno Espirito Santo's first home game in charge in protest at the club's ownership; watch West Ham vs Brentford live on Sky Sports on Monday Night Football from 6.30pm; kick-off 8pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — West Ham vs Brentford: Nuno Espirito Santo calls for support amid fears of fans boycotting Premier League clash. https://www.skysports.com/football/news/12040/13451716/west-ham-vs-brentford-nuno-espirito-santo-calls-for-support-amid-fears-of-fans-boycotting-premier-league-clash
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +190,13 @@ Police under rising pressure over ban on Maccabi Tel Aviv fans at Aston Villa ti
 
 ### Club Updates
 
-## Story 8: Manchester United: Amorim responds to the public support from decision-makers
-**Slug (lower-third):** Manchester United: Amorim responds to the public support …  
-**When:** 2025-10-17 08:19 (America/Winnipeg)  •  **Published:** 2025-10-17 13:19 (UTC)  
+## Story 8: Premier League team news: predicted lineups for the weekend action
+**Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
+**When:** 2025-10-17 13:04 (America/Winnipeg)  •  **Published:** 2025-10-17 18:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: Amorim responds to the public support from decision-makers. Manchester United boss Ruben Amorim responds to the public support from decision-makers at the club. Relevance to standings and momentum.
+Premier League team news: predicted lineups for the weekend action. Out-of-form Liverpool host Manchester United on Sunday while leaders Arsenal visit Fulham on Saturday evening Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +205,7 @@ Manchester United: Amorim responds to the public support from decision-makers. M
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Manchester United: Amorim responds to the public support from decision-makers. https://www.skysports.com/watch/video/13451639/manchester-united-amorim-responds-to-the-public-support-from-decision-makers
+- theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/sport/2025/oct/17/premier-league-team-news-predicted-lineups-for-the-weekend-action
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +214,13 @@ Manchester United: Amorim responds to the public support from decision-makers. M
 
 ---
 
-## Story 9: Pep Guardiola: This is the best Erling Haaland I've seen for Manchester City
-**Slug (lower-third):** Pep Guardiola: This is the best Erling Haaland I've seen …  
-**When:** 2025-10-17 08:12 (America/Winnipeg)  •  **Published:** 2025-10-17 13:12 (UTC)  
+## Story 9: 'Let the story play out': Postecoglou defends record as Nottingham Forest pressure grows
+**Slug (lower-third):** 'Let the story play out': Postecoglou defends record as N…  
+**When:** 2025-10-17 12:00 (America/Winnipeg)  •  **Published:** 2025-10-17 17:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pep Guardiola: This is the best Erling Haaland I've seen for Manchester City. Pep Guardiola said that Erling Haaland's form this season is the best he has seen of the striker, who continued his goalscoring form during the international window. Relevance to standings and momentum.
+'Let the story play out': Postecoglou defends record as Nottingham Forest pressure grows. Ange Postecoglou has urged Evangelos Marinakis to maintain faith in him, doubling down on his belief he will win silverware at the club Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +229,7 @@ Pep Guardiola: This is the best Erling Haaland I've seen for Manchester City. Pe
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Pep Guardiola: This is the best Erling Haaland I've seen for Manchester City. https://www.skysports.com/watch/video/13451637/pep-guardiola-this-is-the-best-erling-haaland-ive-seen-for-manchester-city
+- theguardian.com — 'Let the story play out': Postecoglou defends record as Nottingham Forest pressure grows. https://www.theguardian.com/football/2025/oct/17/let-the-story-play-out-postecoglou-defends-record-as-nottingham-forest-pressure-grows
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +238,13 @@ Pep Guardiola: This is the best Erling Haaland I've seen for Manchester City. Pe
 
 ---
 
-## Story 10: Brian Carney on Super League expansion to 14 teams: London Broncos snub 'fair' but new duo face 'financial pain'
-**Slug (lower-third):** Brian Carney on Super League expansion to 14 teams: Londo…  
-**When:** 2025-10-17 05:33 (America/Winnipeg)  •  **Published:** 2025-10-17 10:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 10: Florian Wirtz: Arne Slot and Virgil van Dijk defend PS116m signing after failing to score or assist for Liverpool
+**Slug (lower-third):** Florian Wirtz: Arne Slot and Virgil van Dijk defend PS116…  
+**When:** 2025-10-17 12:00 (America/Winnipeg)  •  **Published:** 2025-10-17 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Brian Carney on Super League expansion to 14 teams: London Broncos snub 'fair' but new duo face 'financial pain'. Super League will increase to 14 teams from 2026 as Bradford Bulls replace Salford Red Devils via automatic gradings; An independent panel chose Toulouse Olympique XIII and York RLFC to come up, leaving London Broncos in the Championship Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Florian Wirtz: Arne Slot and Virgil van Dijk defend PS116m signing after failing to score or assist for Liverpool. Arne Slot and Virgil van Dijk defend Florian Wirtz in exclusive interviews with Sky Sports; Wirtz yet to score or assist at Liverpool since joining in a PS116m deal from Bayer Leverkusen; Watch Liverpool vs Man Utd on Super Sunday, live on Sky Sports; kick-off 4.30pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +253,7 @@ Brian Carney on Super League expansion to 14 teams: London Broncos snub 'fair' b
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Brian Carney on Super League expansion to 14 teams: London Broncos snub 'fair' but new duo face 'financial pain'. https://www.skysports.com/rugby-league/news/12040/13451568/brian-carney-on-super-league-expansion-to-14-teams-london-broncos-snub-fair-but-new-duo-face-financial-pain
+- skysports.com — Florian Wirtz: Arne Slot and Virgil van Dijk defend PS116m signing after failing to score or assist for Liverpool. https://www.skysports.com/football/news/12040/13451662/florian-wirtz-arne-slot-and-virgil-van-dijk-defend-116m-signing-after-failing-to-score-or-assist-for-liverpool
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
