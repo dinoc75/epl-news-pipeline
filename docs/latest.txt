@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-19 01:29 (America/Winnipeg)  |  2025-10-19 06:29 (UTC)
+**Generated:** 2025-10-19 07:38 (America/Winnipeg)  |  2025-10-19 12:38 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~3m 20s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Why Liverpool are feeling the effects of Trent Alexander-Arnold's departure
-- Match of the day analysis: Why Jean-Philippe Mateta is a nightmare for defenders
-- Match of the day analysis: Why Erling Haaland is unplayable at the moment
+- Aston Villa stadium must not be a no-go area for Jews, says Ed Miliband
+- Nottingham Forest make Marco Silva their No 1 target to replace Postecoglou
+- Liverpool v Man Utd quiz: Can you name the line-ups from Liverpool's 7-0 win in 2023?
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Match of the day analysis: Ange Postecoglou sacking is ridiculous
-**Slug (lower-third):** Match of the day analysis: Ange Postecoglou sacking is ri…  
-**When:** 2025-10-18 17:06 (America/Winnipeg)  •  **Published:** 2025-10-18 22:06 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 1: Nottingham Forest make Marco Silva their No 1 target to replace Postecoglou
+**Slug (lower-third):** Nottingham Forest make Marco Silva their No 1 target to r…  
+**When:** 2025-10-19 04:20 (America/Winnipeg)  •  **Published:** 2025-10-19 09:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the day analysis: Ange Postecoglou sacking is ridiculous. Match of the Day pundits Micah Richards and Alan Shearer say it was "ridiculous" for Nottingham Forest owner Evangelos Marinakis to sack manager Ange Postecoglou after just 39 days in the job. Relevance to standings and momentum.
+Nottingham Forest make Marco Silva their No 1 target to replace Postecoglou. The Nottingham Forest owner, Evangelos Marinakis, worked with Marco Silva at Olympiakos and the Fulham manager is thought to be keen on the move Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Match of the day analysis: Ange Postecoglou sacking is ridiculous. Match of the 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the day analysis: Ange Postecoglou sacking is ridiculous. https://www.bbc.com/sport/football/videos/cz0xrnjz92eo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Nottingham Forest make Marco Silva their No 1 target to replace Postecoglou. https://www.theguardian.com/football/2025/oct/19/marco-silva-nottingham-forest-fulham-marinakis-postecoglou
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Match of the day analysis: Ange Postecoglou sacking is ridiculous. Match of the 
 
 ---
 
-## Story 2: Unai Emery interview: Football is changing tactically, says the Aston Villa manager, and the challenge is to adapt
-**Slug (lower-third):** Unai Emery interview: Football is changing tactically, sa…  
-**When:** 2025-10-18 16:44 (America/Winnipeg)  •  **Published:** 2025-10-18 21:44 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~26s
+## Story 2: Naive Ange Postecoglou could be the least effective Premier League manager ever | Barney Ronay
+**Slug (lower-third):** Naive Ange Postecoglou could be the least effective Premi…  
+**When:** 2025-10-18 15:36 (America/Winnipeg)  •  **Published:** 2025-10-18 20:36 (UTC)  
+**Virality score:** 81  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Unai Emery interview: Football is changing tactically, says the Aston Villa manager, and the challenge is to adapt. Aston Villa manager Unai Emery discusses the tactical change happening in football right now - and why Thomas Franks Tottenham highlight that shift ahead of the Premier League meeting between the two teams on Super Sunday; kick-off 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Naive Ange Postecoglou could be the least effective Premier League manager ever | Barney Ronay. At no stage did the Australian coach seem to understand the assignment he had been given at Nottingham Forest Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,10 +55,34 @@ Unai Emery interview: Football is changing tactically, says the Aston Villa mana
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Unai Emery interview: Football is changing tactically, says the Aston Villa manager, and the challenge is to adapt. https://www.skysports.com/football/news/12040/13450358/unai-emery-interview-football-is-changing-tactically-says-the-aston-villa-manager-and-the-challenge-is-to-adapt
+- theguardian.com — Naive Ange Postecoglou could be the least effective Premier League manager ever | Barney Ronay. https://www.theguardian.com/football/2025/oct/18/naive-ange-postecoglou-could-be-the-least-effective-premier-league-manager-ever
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Graham Potter set to accept Sweden manager's job
+**Slug (lower-third):** Graham Potter set to accept Sweden manager's job  
+**When:** 2025-10-18 14:50 (America/Winnipeg)  •  **Published:** 2025-10-18 19:50 (UTC)  
+**Virality score:** 81  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Graham Potter set to accept Sweden manager's job. Former West Ham manager Graham Potter is set to accept the job as Sweden head coach. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Graham Potter set to accept Sweden manager's job. https://www.bbc.com/sport/football/articles/c201514er26o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -66,10 +90,10 @@ Unai Emery interview: Football is changing tactically, says the Aston Villa mana
 
 ### Transfers
 
-## Story 3: Why Liverpool are feeling the effects of Trent Alexander-Arnold's departure
+## Story 4: Why Liverpool are feeling the effects of Trent Alexander-Arnold's departure
 **Slug (lower-third):** Why Liverpool are feeling the effects of Trent Alexander-…  
 **When:** 2025-10-19 00:41 (America/Winnipeg)  •  **Published:** 2025-10-19 05:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Why Liverpool are feeling the effects of Trent Alexander-Arnold's departure. BBC Sport analyses what Liverpool are missing since Trent Alexander-Arnold's departure. Implications for the squad and table.
@@ -90,39 +114,15 @@ Why Liverpool are feeling the effects of Trent Alexander-Arnold's departure. BBC
 
 ---
 
-## Story 4: Papers: Marco Silva's Fulham release clause 'revealed' as Nottingham Forest eye Postecoglou replacement
-**Slug (lower-third):** Papers: Marco Silva's Fulham release clause 'revealed' as…  
-**When:** 2025-10-18 17:30 (America/Winnipeg)  •  **Published:** 2025-10-18 22:30 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Papers: Marco Silva's Fulham release clause 'revealed' as Nottingham Forest eye Postecoglou replacement. Football transfer gossip: Real Madrid have identified Marc Guehi and Ibrahima Konate as free transfer options for 2026; Real Madrids Endrick is pushing for a loan move to Marseille Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Papers: Marco Silva's Fulham release clause 'revealed' as Nottingham Forest eye Postecoglou replacement. https://www.skysports.com/football/news/12040/13452929/papers-marco-silvas-fulham-release-clause-revealed-as-nottingham-forest-eye-postecoglou-replacement
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### League & Regulation
 
-## Story 5: Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match
-**Slug (lower-third):** Aston Villa reportedly told stewards they could miss Macc…  
-**When:** 2025-10-18 17:30 (America/Winnipeg)  •  **Published:** 2025-10-18 22:30 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 5: Aston Villa stadium must not be a no-go area for Jews, says Ed Miliband
+**Slug (lower-third):** Aston Villa stadium must not be a no-go area for Jews, sa…  
+**When:** 2025-10-19 06:25 (America/Winnipeg)  •  **Published:** 2025-10-19 11:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match. Club cites possible safety 'concerns' after West Midlands police decided to ban Maccabi fans from fixture Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Aston Villa stadium must not be a no-go area for Jews, says Ed Miliband. Energy secretary calls for lifting of police ban on Maccabi Tel Aviv supporters at upcoming Europa League fixture Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +131,7 @@ Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match. Clu
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match. https://www.theguardian.com/uk-news/2025/oct/18/aston-villa-told-stewards-they-could-miss-maccabi-tel-aviv-match
+- theguardian.com — Aston Villa stadium must not be a no-go area for Jews, says Ed Miliband. https://www.theguardian.com/football/2025/oct/19/aston-villa-jews-ed-miliband-maccabi-tel-aviv
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +142,13 @@ Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match. Clu
 
 ### Club Updates
 
-## Story 6: Match of the day analysis: Why Jean-Philippe Mateta is a nightmare for defenders
-**Slug (lower-third):** Match of the day analysis: Why Jean-Philippe Mateta is a …  
-**When:** 2025-10-18 17:59 (America/Winnipeg)  •  **Published:** 2025-10-18 22:59 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 6: Liverpool v Man Utd quiz: Can you name the line-ups from Liverpool's 7-0 win in 2023?
+**Slug (lower-third):** Liverpool v Man Utd quiz: Can you name the line-ups from …  
+**When:** 2025-10-19 01:35 (America/Winnipeg)  •  **Published:** 2025-10-19 06:35 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the day analysis: Why Jean-Philippe Mateta is a nightmare for defenders. Match of the Day's Alan Shearer breaks down Jean-Philippe Mateta's movement and what makes him so difficult to defend against following the striker's hat-trick against Bournemouth in the Premier League. Relevance to standings and momentum.
+Liverpool v Man Utd quiz: Can you name the line-ups from Liverpool's 7-0 win in 2023?. Liverpool and Manchester United meet on Sunday, but can you name the line-ups from the Anfield side's stunning 7-0 win in 2023? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +157,7 @@ Match of the day analysis: Why Jean-Philippe Mateta is a nightmare for defenders
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the day analysis: Why Jean-Philippe Mateta is a nightmare for defenders. https://www.bbc.com/sport/football/videos/c62e7dv3n0xo?at_medium=RSS&at_campaign=rss
+- bbc.com — Liverpool v Man Utd quiz: Can you name the line-ups from Liverpool's 7-0 win in 2023?. https://www.bbc.com/sport/football/articles/cj0e4vnj3dyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,82 +166,10 @@ Match of the day analysis: Why Jean-Philippe Mateta is a nightmare for defenders
 
 ---
 
-## Story 7: Match of the day analysis: Why Erling Haaland is unplayable at the moment
-**Slug (lower-third):** Match of the day analysis: Why Erling Haaland is unplayab…  
-**When:** 2025-10-18 17:59 (America/Winnipeg)  •  **Published:** 2025-10-18 22:59 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Match of the day analysis: Why Erling Haaland is unplayable at the moment. Match of the Day pundits Micah Richards and Alan Shearer look at how Erling Haaland is currently "unplayable" after the striker scored two goals for Manchester City in their win over Everton. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Match of the day analysis: Why Erling Haaland is unplayable at the moment. https://www.bbc.com/sport/football/videos/cd9kxz51v5go?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: German Darts Championship: Gerwyn Price, Nathan Aspinall through to third round but Stephen Bunting, James Wade out
-**Slug (lower-third):** German Darts Championship: Gerwyn Price, Nathan Aspinall …  
-**When:** 2025-10-18 17:20 (America/Winnipeg)  •  **Published:** 2025-10-18 22:20 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-German Darts Championship: Gerwyn Price, Nathan Aspinall through to third round but Stephen Bunting, James Wade out. Gerwyn Price, Nathan Aspinall, Peter Wright, Jonny Clayton through to last 16 of German Darts Championship; High-profile players knocked out as Stephen Bunting, James Wade, Josh Rock beaten; Watch Grand Slam of Darts live on Sky Sports from November 8-16 in Wolverhampton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — German Darts Championship: Gerwyn Price, Nathan Aspinall through to third round but Stephen Bunting, James Wade out. https://www.skysports.com/darts/news/12040/13452471/german-darts-championship-gerwyn-price-nathan-aspinall-through-to-third-round-but-stephen-bunting-james-wade-out
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Leicester City 1-1 Portsmouth: John Swift earns Pompey point in Championship clash and thwarts Foxes after Aaron Ramsey opener
-**Slug (lower-third):** Leicester City 1-1 Portsmouth: John Swift earns Pompey po…  
-**When:** 2025-10-18 17:00 (America/Winnipeg)  •  **Published:** 2025-10-18 22:00 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Leicester City 1-1 Portsmouth: John Swift earns Pompey point in Championship clash and thwarts Foxes after Aaron Ramsey opener. Leicester lost ground on their promotion rivals after drawing 1-1 with Portsmouth as John Swift's second-half goal cancelled out Aaron Ramsey's opener at the King Power Stadium. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Leicester City 1-1 Portsmouth: John Swift earns Pompey point in Championship clash and thwarts Foxes after Aaron Ramsey opener. https://www.skysports.com/football/leicester-city-vs-portsmouth/report/534430
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Amorim backs Fernandes to stay on Manchester United penalties despite misses
+## Story 7: Amorim backs Fernandes to stay on Manchester United penalties despite misses
 **Slug (lower-third):** Amorim backs Fernandes to stay on Manchester United penal…  
 **When:** 2025-10-18 16:30 (America/Winnipeg)  •  **Published:** 2025-10-18 21:30 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+**Virality score:** 82  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Amorim backs Fernandes to stay on Manchester United penalties despite misses. The captain will continue to take penalties for Manchester United despite missing two out of three spot-kicks this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -256,7 +184,79 @@ Amorim backs Fernandes to stay on Manchester United penalties despite misses. Th
 - theguardian.com — Amorim backs Fernandes to stay on Manchester United penalties despite misses. https://www.theguardian.com/football/2025/oct/18/ruben-amorim-backs-bruno-fernandes-manchester-united-penalty-taker
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Football gossip: Rogers, Guehi, Konate, Subiabre, Silva, Potter
+**Slug (lower-third):** Football gossip: Rogers, Guehi, Konate, Subiabre, Silva, …  
+**When:** 2025-10-18 15:19 (America/Winnipeg)  •  **Published:** 2025-10-18 20:19 (UTC)  
+**Virality score:** 82  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Rogers, Guehi, Konate, Subiabre, Silva, Potter. Chelsea lead the race to sign Morgan Rogers, Real Madrid are eyeing Marc Guehi, several Premier League clubs are interested in Argentine teenager Ian Subiabre, plus more. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Rogers, Guehi, Konate, Subiabre, Silva, Potter. https://www.bbc.com/sport/football/articles/cy4p7y3gelwo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Sunderland bucking the trend but how bad is it for Wolves?
+**Slug (lower-third):** Sunderland bucking the trend but how bad is it for Wolves?  
+**When:** 2025-10-18 14:49 (America/Winnipeg)  •  **Published:** 2025-10-18 19:49 (UTC)  
+**Virality score:** 81  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Sunderland bucking the trend but how bad is it for Wolves?. Sunderland have made their joint-best start to a Premier League season following victory at the Stadium of Light, but can Wolves stop the rot? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Sunderland bucking the trend but how bad is it for Wolves?. https://www.bbc.com/sport/football/articles/c3970r09kmgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Premier League: Sunderland 2-0 Wolverhampton Wanderers Highlights
+**Slug (lower-third):** Premier League: Sunderland 2-0 Wolverhampton Wanderers Hi…  
+**When:** 2025-10-18 14:00 (America/Winnipeg)  •  **Published:** 2025-10-18 19:00 (UTC)  
+**Virality score:** 80  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Sunderland 2-0 Wolverhampton Wanderers Highlights. A first Sunderland goal for Nordi Mukiele and an own goal from Ladislav Krejci's condemn Wolves to a sixth defeat from eight matches. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Sunderland 2-0 Wolverhampton Wanderers Highlights. https://www.bbc.com/sport/football/videos/cx2p731rx8jo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
