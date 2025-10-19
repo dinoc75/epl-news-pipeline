@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-18 13:26 (America/Winnipeg)  |  2025-10-18 18:26 (UTC)
+**Generated:** 2025-10-18 20:47 (America/Winnipeg)  |  2025-10-19 01:47 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 31s
+**Estimated total video length:** ~4m 34s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Man City 2-0 Everton: Erling Haaland looks 'superhuman' but must others step up?
-- Aston Villa stewards told they could miss Maccabi Tel Aviv match
-- Crystal Palace 3-3 Bournemouth | Premier League highlights
+- Match of the day analysis: Why Jean-Philippe Mateta is a nightmare for defenders
+- Match of the day analysis: Why Erling Haaland is unplayable at the moment
+- Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Nottingham Forest: Sean Dyche frontrunner to become head coach but Roberto Mancini also in frame
-**Slug (lower-third):** Nottingham Forest: Sean Dyche frontrunner to become head …  
-**When:** 2025-10-18 12:32 (America/Winnipeg)  •  **Published:** 2025-10-18 17:32 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+## Story 1: Match of the day analysis: Ange Postecoglou sacking is ridiculous
+**Slug (lower-third):** Match of the day analysis: Ange Postecoglou sacking is ri…  
+**When:** 2025-10-18 17:06 (America/Winnipeg)  •  **Published:** 2025-10-18 22:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest: Sean Dyche frontrunner to become head coach but Roberto Mancini also in frame. Ange Postecoglou was sacked 18 minutes after the 3-0 defeat to Chelsea, having gone eight games without a win since his appointment on September 9; Sky Sports News has been told that Sean Dyche is very much the front-runner, but former Man City boss Roberto Mancini is also in the frame Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Match of the day analysis: Ange Postecoglou sacking is ridiculous. Match of the Day pundits Micah Richards and Alan Shearer say it was "ridiculous" for Nottingham Forest owner Evangelos Marinakis to sack manager Ange Postecoglou after just 39 days in the job. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Nottingham Forest: Sean Dyche frontrunner to become head coach but Roberto Manci
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Nottingham Forest: Sean Dyche frontrunner to become head coach but Roberto Mancini also in frame. https://www.skysports.com/football/news/12040/13452688/nottingham-forest-sean-dyche-frontrunner-to-become-head-coach-but-roberto-mancini-also-in-frame
+- bbc.com — Match of the day analysis: Ange Postecoglou sacking is ridiculous. https://www.bbc.com/sport/football/videos/cz0xrnjz92eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Nottingham Forest: Sean Dyche frontrunner to become head coach but Roberto Manci
 
 ---
 
-## Story 2: Ange Postecoglou: Nottingham Forest sack manager with Roberto Mancini and Sean Dyche possible replacements
-**Slug (lower-third):** Ange Postecoglou: Nottingham Forest sack manager with Rob…  
-**When:** 2025-10-18 12:24 (America/Winnipeg)  •  **Published:** 2025-10-18 17:24 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Unai Emery interview: Football is changing tactically, says the Aston Villa manager, and the challenge is to adapt
+**Slug (lower-third):** Unai Emery interview: Football is changing tactically, sa…  
+**When:** 2025-10-18 16:44 (America/Winnipeg)  •  **Published:** 2025-10-18 21:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Ange Postecoglou: Nottingham Forest sack manager with Roberto Mancini and Sean Dyche possible replacements. Ange Postecoglou is sacked by Nottingham Forest after a 3-0 defeat by Chelsea just 39 days after being appointed as head coach. Relevance to standings and momentum.
+Unai Emery interview: Football is changing tactically, says the Aston Villa manager, and the challenge is to adapt. Aston Villa manager Unai Emery discusses the tactical change happening in football right now - and why Thomas Franks Tottenham highlight that shift ahead of the Premier League meeting between the two teams on Super Sunday; kick-off 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,33 @@ Ange Postecoglou: Nottingham Forest sack manager with Roberto Mancini and Sean D
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Ange Postecoglou: Nottingham Forest sack manager with Roberto Mancini and Sean Dyche possible replacements. https://www.bbc.com/sport/football/articles/clyqvv94p0go?at_medium=RSS&at_campaign=rss
+- skysports.com — Unai Emery interview: Football is changing tactically, says the Aston Villa manager, and the challenge is to adapt. https://www.skysports.com/football/news/12040/13450358/unai-emery-interview-football-is-changing-tactically-says-the-aston-villa-manager-and-the-challenge-is-to-adapt
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Papers: Marco Silva's Fulham release clause 'revealed' as Nottingham Forest eye Postecoglou replacement
+**Slug (lower-third):** Papers: Marco Silva's Fulham release clause 'revealed' as…  
+**When:** 2025-10-18 17:30 (America/Winnipeg)  •  **Published:** 2025-10-18 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Papers: Marco Silva's Fulham release clause 'revealed' as Nottingham Forest eye Postecoglou replacement. Football transfer gossip: Real Madrid have identified Marc Guehi and Ibrahima Konate as free transfer options for 2026; Real Madrids Endrick is pushing for a loan move to Marseille Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Papers: Marco Silva's Fulham release clause 'revealed' as Nottingham Forest eye Postecoglou replacement. https://www.skysports.com/football/news/12040/13452929/papers-marco-silvas-fulham-release-clause-revealed-as-nottingham-forest-eye-postecoglou-replacement
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +92,13 @@ Ange Postecoglou: Nottingham Forest sack manager with Roberto Mancini and Sean D
 
 ### League & Regulation
 
-## Story 3: Crystal Palace 3-3 Bournemouth: Andoni Iraola post-match interview
-**Slug (lower-third):** Crystal Palace 3-3 Bournemouth: Andoni Iraola post-match …  
-**When:** 2025-10-18 12:20 (America/Winnipeg)  •  **Published:** 2025-10-18 17:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
+## Story 4: Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match
+**Slug (lower-third):** Aston Villa reportedly told stewards they could miss Macc…  
+**When:** 2025-10-18 17:30 (America/Winnipeg)  •  **Published:** 2025-10-18 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace 3-3 Bournemouth: Andoni Iraola post-match interview. Bournemouth boss Andoni Iraola says he "cannot accept" the decision to award Crystal Palace a penalty in the 96th minute, as Bafode Diakite was ruled to have brought Marc Guehi down in the box during a corner in a 3-3 draw at Selhurst Park in the Premier League. Relevance to standings and momentum.
+Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match. Club cites possible safety 'concerns' after West Midlands police decided to ban Maccabi fans from fixture Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +107,7 @@ Crystal Palace 3-3 Bournemouth: Andoni Iraola post-match interview. Bournemouth 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Crystal Palace 3-3 Bournemouth: Andoni Iraola post-match interview. https://www.bbc.com/sport/football/videos/c803vgv59j4o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Aston Villa reportedly told stewards they could miss Maccabi Tel Aviv match. https://www.theguardian.com/uk-news/2025/oct/18/aston-villa-told-stewards-they-could-miss-maccabi-tel-aviv-match
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +118,13 @@ Crystal Palace 3-3 Bournemouth: Andoni Iraola post-match interview. Bournemouth 
 
 ### Club Updates
 
-## Story 4: Man City 2-0 Everton: Erling Haaland looks 'superhuman' but must others step up?
-**Slug (lower-third):** Man City 2-0 Everton: Erling Haaland looks 'superhuman' b…  
-**When:** 2025-10-18 13:02 (America/Winnipeg)  •  **Published:** 2025-10-18 18:02 (UTC)  
+## Story 5: Match of the day analysis: Why Jean-Philippe Mateta is a nightmare for defenders
+**Slug (lower-third):** Match of the day analysis: Why Jean-Philippe Mateta is a …  
+**When:** 2025-10-18 17:59 (America/Winnipeg)  •  **Published:** 2025-10-18 22:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City 2-0 Everton: Erling Haaland looks 'superhuman' but must others step up?. Erling Haaland is getting so good he is starting to break his own records, following a double for Manchester City against Everton on Saturday. Relevance to standings and momentum.
+Match of the day analysis: Why Jean-Philippe Mateta is a nightmare for defenders. Match of the Day's Alan Shearer breaks down Jean-Philippe Mateta's movement and what makes him so difficult to defend against following the striker's hat-trick against Bournemouth in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +133,7 @@ Man City 2-0 Everton: Erling Haaland looks 'superhuman' but must others step up?
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man City 2-0 Everton: Erling Haaland looks 'superhuman' but must others step up?. https://www.bbc.com/sport/football/articles/c0qp07dw1yxo?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the day analysis: Why Jean-Philippe Mateta is a nightmare for defenders. https://www.bbc.com/sport/football/videos/c62e7dv3n0xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +142,13 @@ Man City 2-0 Everton: Erling Haaland looks 'superhuman' but must others step up?
 
 ---
 
-## Story 5: Aston Villa stewards told they could miss Maccabi Tel Aviv match
-**Slug (lower-third):** Aston Villa stewards told they could miss Maccabi Tel Avi…  
-**When:** 2025-10-18 12:51 (America/Winnipeg)  •  **Published:** 2025-10-18 17:51 (UTC)  
+## Story 6: Match of the day analysis: Why Erling Haaland is unplayable at the moment
+**Slug (lower-third):** Match of the day analysis: Why Erling Haaland is unplayab…  
+**When:** 2025-10-18 17:59 (America/Winnipeg)  •  **Published:** 2025-10-18 22:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa stewards told they could miss Maccabi Tel Aviv match. Aston Villa told matchday stewards they did not have to work at the club's fixture against Maccabi Tel Aviv next month, saying they understood some "may have concerns". Relevance to standings and momentum.
+Match of the day analysis: Why Erling Haaland is unplayable at the moment. Match of the Day pundits Micah Richards and Alan Shearer look at how Erling Haaland is currently "unplayable" after the striker scored two goals for Manchester City in their win over Everton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +157,7 @@ Aston Villa stewards told they could miss Maccabi Tel Aviv match. Aston Villa to
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa stewards told they could miss Maccabi Tel Aviv match. https://www.bbc.com/sport/football/articles/cjw9l644delo?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the day analysis: Why Erling Haaland is unplayable at the moment. https://www.bbc.com/sport/football/videos/cd9kxz51v5go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +166,13 @@ Aston Villa stewards told they could miss Maccabi Tel Aviv match. Aston Villa to
 
 ---
 
-## Story 6: Crystal Palace 3-3 Bournemouth | Premier League highlights
-**Slug (lower-third):** Crystal Palace 3-3 Bournemouth | Premier League highlights  
-**When:** 2025-10-18 12:44 (America/Winnipeg)  •  **Published:** 2025-10-18 17:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: German Darts Championship: Gerwyn Price, Nathan Aspinall through to third round but Stephen Bunting, James Wade out
+**Slug (lower-third):** German Darts Championship: Gerwyn Price, Nathan Aspinall …  
+**When:** 2025-10-18 17:20 (America/Winnipeg)  •  **Published:** 2025-10-18 22:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace 3-3 Bournemouth | Premier League highlights. Highlights from the Premier League match between Crystal Palace and Bournemouth. Relevance to standings and momentum.
+German Darts Championship: Gerwyn Price, Nathan Aspinall through to third round but Stephen Bunting, James Wade out. Gerwyn Price, Nathan Aspinall, Peter Wright, Jonny Clayton through to last 16 of German Darts Championship; High-profile players knocked out as Stephen Bunting, James Wade, Josh Rock beaten; Watch Grand Slam of Darts live on Sky Sports from November 8-16 in Wolverhampton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +181,7 @@ Crystal Palace 3-3 Bournemouth | Premier League highlights. Highlights from the 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Crystal Palace 3-3 Bournemouth | Premier League highlights. https://www.skysports.com/watch/video/13452707/crystal-palace-3-3-bournemouth-premier-league-highlights
+- skysports.com — German Darts Championship: Gerwyn Price, Nathan Aspinall through to third round but Stephen Bunting, James Wade out. https://www.skysports.com/darts/news/12040/13452471/german-darts-championship-gerwyn-price-nathan-aspinall-through-to-third-round-but-stephen-bunting-james-wade-out
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +190,13 @@ Crystal Palace 3-3 Bournemouth | Premier League highlights. Highlights from the 
 
 ---
 
-## Story 7: Sunderland 2-0 Wolves | Premier League highlights
-**Slug (lower-third):** Sunderland 2-0 Wolves | Premier League highlights  
-**When:** 2025-10-18 12:17 (America/Winnipeg)  •  **Published:** 2025-10-18 17:17 (UTC)  
+## Story 8: Leicester City 1-1 Portsmouth: John Swift earns Pompey point in Championship clash and thwarts Foxes after Aaron Ramsey opener
+**Slug (lower-third):** Leicester City 1-1 Portsmouth: John Swift earns Pompey po…  
+**When:** 2025-10-18 17:00 (America/Winnipeg)  •  **Published:** 2025-10-18 22:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sunderland 2-0 Wolves | Premier League highlights. FREE TO WATCH: Highlights from Sunderland's win against Wolves in the Premier League. Relevance to standings and momentum.
+Leicester City 1-1 Portsmouth: John Swift earns Pompey point in Championship clash and thwarts Foxes after Aaron Ramsey opener. Leicester lost ground on their promotion rivals after drawing 1-1 with Portsmouth as John Swift's second-half goal cancelled out Aaron Ramsey's opener at the King Power Stadium. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +205,7 @@ Sunderland 2-0 Wolves | Premier League highlights. FREE TO WATCH: Highlights fro
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sunderland 2-0 Wolves | Premier League highlights. https://www.skysports.com/watch/video/13452623/sunderland-2-0-wolves-premier-league-highlights
+- skysports.com — Leicester City 1-1 Portsmouth: John Swift earns Pompey point in Championship clash and thwarts Foxes after Aaron Ramsey opener. https://www.skysports.com/football/leicester-city-vs-portsmouth/report/534430
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +214,13 @@ Sunderland 2-0 Wolves | Premier League highlights. FREE TO WATCH: Highlights fro
 
 ---
 
-## Story 8: Premier League reaction: Man City 2-0 Everton - Pep Guardiola
-**Slug (lower-third):** Premier League reaction: Man City 2-0 Everton - Pep Guard…  
-**When:** 2025-10-18 12:03 (America/Winnipeg)  •  **Published:** 2025-10-18 17:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Amorim backs Fernandes to stay on Manchester United penalties despite misses
+**Slug (lower-third):** Amorim backs Fernandes to stay on Manchester United penal…  
+**When:** 2025-10-18 16:30 (America/Winnipeg)  •  **Published:** 2025-10-18 21:30 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League reaction: Man City 2-0 Everton - Pep Guardiola. Manchester City boss Pep Guardiola says his side can't just rely on "key-man" Erling Haaland after he scored twice in five second-half minutes to beat Everton at the Etihad Stadium. Relevance to standings and momentum.
+Amorim backs Fernandes to stay on Manchester United penalties despite misses. The captain will continue to take penalties for Manchester United despite missing two out of three spot-kicks this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +229,7 @@ Premier League reaction: Man City 2-0 Everton - Pep Guardiola. Manchester City b
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League reaction: Man City 2-0 Everton - Pep Guardiola. https://www.bbc.com/sport/football/videos/c2emxn01y7ko?at_medium=RSS&at_campaign=rss
+- theguardian.com — Amorim backs Fernandes to stay on Manchester United penalties despite misses. https://www.theguardian.com/football/2025/oct/18/ruben-amorim-backs-bruno-fernandes-manchester-united-penalty-taker
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +238,13 @@ Premier League reaction: Man City 2-0 Everton - Pep Guardiola. Manchester City b
 
 ---
 
-## Story 9: Brighton 2-1 Newcastle: Danny Welbeck's double inspires Seagulls to victory as Nick Woltemade's flicked finish in vain
-**Slug (lower-third):** Brighton 2-1 Newcastle: Danny Welbeck's double inspires S…  
-**When:** 2025-10-18 12:00 (America/Winnipeg)  •  **Published:** 2025-10-18 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Football gossip: Rogers, Guehi, Konate, Subiabre, Silva, Potter
+**Slug (lower-third):** Football gossip: Rogers, Guehi, Konate, Subiabre, Silva, …  
+**When:** 2025-10-18 15:19 (America/Winnipeg)  •  **Published:** 2025-10-18 20:19 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brighton 2-1 Newcastle: Danny Welbeck's double inspires Seagulls to victory as Nick Woltemade's flicked finish in vain. Danny Welbeck's first goals at the Amex Stadium since February secured Brighton a 2-1 Premier League victory against Newcastle. Relevance to standings and momentum.
+Football gossip: Rogers, Guehi, Konate, Subiabre, Silva, Potter. Chelsea lead the race to sign Morgan Rogers, Real Madrid are eyeing Marc Guehi, several Premier League clubs are interested in Argentine teenager Ian Subiabre, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,31 +253,7 @@ Brighton 2-1 Newcastle: Danny Welbeck's double inspires Seagulls to victory as N
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Brighton 2-1 Newcastle: Danny Welbeck's double inspires Seagulls to victory as Nick Woltemade's flicked finish in vain. https://www.skysports.com/football/brighton-and-hove-albion-vs-newcastle-united/report/531199
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Brighton's Danny Welbeck sees off Newcastle despite Woltemade magic
-**Slug (lower-third):** Brighton's Danny Welbeck sees off Newcastle despite Wolte…  
-**When:** 2025-10-18 11:29 (America/Winnipeg)  •  **Published:** 2025-10-18 16:29 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Brighton's Danny Welbeck sees off Newcastle despite Woltemade magic. Two Danny Welbeck goals gave Brighton a 2-1 home victory against Newcastle, sandwiching Nick Woltemade's leveller that continued his good run Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Brighton's Danny Welbeck sees off Newcastle despite Woltemade magic. https://www.theguardian.com/football/2025/oct/18/brighton-newcastle-premier-league-match-report
+- bbc.com — Football gossip: Rogers, Guehi, Konate, Subiabre, Silva, Potter. https://www.bbc.com/sport/football/articles/cy4p7y3gelwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
