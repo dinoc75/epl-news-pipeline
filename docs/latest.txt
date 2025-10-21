@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-21 01:31 (America/Winnipeg)  |  2025-10-21 06:31 (UTC)
+**Generated:** 2025-10-21 07:44 (America/Winnipeg)  |  2025-10-21 12:44 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 25s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Today on Sky Sports Racing: Newcastle and Yarmouth
-- Liverpool: What are the key questions facing Arne Slot?
-- Ben Davies: Tottenham Hotspur defender targeting Gareth Bale's Wales cap record
+- European Championship darts 2025: Draw, schedule, format, results, prize money as Luke Littler, Luke Humphries seek major title
+- UK government 'deeply saddened' as Maccabi Tel Aviv decline any Aston Villa tickets
+- West Ham: 'We are relegation candidates', says fan after defeat by Brentford
 
 ---
 
 ### Managerial Moves
 
-## Story 1: West Ham: 'We have to pull fans back together' - why Nuno has 'massive job'
-**Slug (lower-third):** West Ham: 'We have to pull fans back together' - why Nuno…  
-**When:** 2025-10-20 17:46 (America/Winnipeg)  •  **Published:** 2025-10-20 22:46 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 1: West Ham: 'We are relegation candidates', says fan after defeat by Brentford
+**Slug (lower-third):** West Ham: 'We are relegation candidates', says fan after …  
+**When:** 2025-10-21 06:37 (America/Winnipeg)  •  **Published:** 2025-10-21 11:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham: 'We have to pull fans back together' - why Nuno has 'massive job'. West Ham lost their fourth home match of the Premier League season on Monday, with manager Nuno Espirito Santo admitting his side "have a problem". Relevance to standings and momentum.
+West Ham: 'We are relegation candidates', says fan after defeat by Brentford. Winless in six, fans boycotting and no new manager bounce. This is the start of a season-defining period for West Ham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ West Ham: 'We have to pull fans back together' - why Nuno has 'massive job'. Wes
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — West Ham: 'We have to pull fans back together' - why Nuno has 'massive job'. https://www.bbc.com/sport/football/articles/c8x1q281e9po?at_medium=RSS&at_campaign=rss
+- bbc.com — West Ham: 'We are relegation candidates', says fan after defeat by Brentford. https://www.bbc.com/sport/football/articles/c4gz7epeg69o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ West Ham: 'We have to pull fans back together' - why Nuno has 'massive job'. Wes
 
 ---
 
-### League & Regulation
-
-## Story 2: Maccabi Tel Aviv will not accept Aston Villa Europa League tickets
-**Slug (lower-third):** Maccabi Tel Aviv will not accept Aston Villa Europa Leagu…  
-**When:** 2025-10-20 17:39 (America/Winnipeg)  •  **Published:** 2025-10-20 22:39 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 2: Nottingham Forest confirm Sean Dyche as third head coach of chaotic season
+**Slug (lower-third):** Nottingham Forest confirm Sean Dyche as third head coach …  
+**When:** 2025-10-21 02:48 (America/Winnipeg)  •  **Published:** 2025-10-21 07:48 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Maccabi Tel Aviv will not accept Aston Villa Europa League tickets. Israeli club Maccabi Tel Aviv say they will not accept any ticket allocation from Aston Villa should the decision to ban their supporters from next month's Europa League match be overturned. Disciplinary outcome could affect availability.
+Nottingham Forest confirm Sean Dyche as third head coach of chaotic season. The former Burnley and Everton manager Sean Dyche has been brought in on a contract to 2027 and will face Porto on Thursday in his first game Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,7 @@ Maccabi Tel Aviv will not accept Aston Villa Europa League tickets. Israeli club
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Maccabi Tel Aviv will not accept Aston Villa Europa League tickets. https://www.bbc.com/sport/football/articles/c3w98224xx8o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Nottingham Forest confirm Sean Dyche as third head coach of chaotic season. https://www.theguardian.com/football/2025/oct/21/nottingham-forest-confirm-sean-dyche-as-head-coach
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +66,13 @@ Maccabi Tel Aviv will not accept Aston Villa Europa League tickets. Israeli club
 
 ### Club Updates
 
-## Story 3: Today on Sky Sports Racing: Newcastle and Yarmouth
-**Slug (lower-third):** Today on Sky Sports Racing: Newcastle and Yarmouth  
-**When:** 2025-10-21 02:00 (America/Winnipeg)  •  **Published:** 2025-10-21 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 3: European Championship darts 2025: Draw, schedule, format, results, prize money as Luke Littler, Luke Humphries seek major title
+**Slug (lower-third):** European Championship darts 2025: Draw, schedule, format,…  
+**When:** 2025-10-21 07:00 (America/Winnipeg)  •  **Published:** 2025-10-21 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Newcastle and Yarmouth. In today's feature, Maxi King bids to give away over a stone to his rivals in what looks a competitive contest at Newcastle. We also have competitive flat action from Yarmouth, live on Sky Sports Racing from 2pm. Relevance to standings and momentum.
+European Championship darts 2025: Draw, schedule, format, results, prize money as Luke Littler, Luke Humphries seek major title. Nathan Aspinall heads in as top seed via the European Tour rankings and Luke Littler has the chance to replace Luke Humphries as world No 1; Field, format and schedule ahead of the European Championship, taking place from October 23-26 in Germany Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +81,7 @@ Today on Sky Sports Racing: Newcastle and Yarmouth. In today's feature, Maxi Kin
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Newcastle and Yarmouth. https://www.skysports.com/racing/news/12040/13453482/today-on-sky-sports-racing-newcastle-and-yarmouth
+- skysports.com — European Championship darts 2025: Draw, schedule, format, results, prize money as Luke Littler, Luke Humphries seek major title. https://www.skysports.com/darts/news/12040/13454311/european-championship-darts-2025-draw-schedule-format-results-prize-money-as-luke-littler-luke-humphries-seek-major-title
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +90,13 @@ Today on Sky Sports Racing: Newcastle and Yarmouth. In today's feature, Maxi Kin
 
 ---
 
-## Story 4: Liverpool: What are the key questions facing Arne Slot?
-**Slug (lower-third):** Liverpool: What are the key questions facing Arne Slot?  
-**When:** 2025-10-21 00:14 (America/Winnipeg)  •  **Published:** 2025-10-21 05:14 (UTC)  
+## Story 4: UK government 'deeply saddened' as Maccabi Tel Aviv decline any Aston Villa tickets
+**Slug (lower-third):** UK government 'deeply saddened' as Maccabi Tel Aviv decli…  
+**When:** 2025-10-21 06:42 (America/Winnipeg)  •  **Published:** 2025-10-21 11:42 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool: What are the key questions facing Arne Slot?. Four defeats in a row and four points behind Premier League leaders Arsenal. BBC Sport looks at the problems Liverpool boss Arne Slot needs to solve. Relevance to standings and momentum.
+UK government 'deeply saddened' as Maccabi Tel Aviv decline any Aston Villa tickets. The Israeli side's fans have been blocked from attending, with the club saying in a statement: 'The wellbeing and safety of our fans is paramount' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +105,7 @@ Liverpool: What are the key questions facing Arne Slot?. Four defeats in a row a
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool: What are the key questions facing Arne Slot?. https://www.bbc.com/sport/football/articles/c86730njpw3o?at_medium=RSS&at_campaign=rss
+- theguardian.com — UK government 'deeply saddened' as Maccabi Tel Aviv decline any Aston Villa tickets. https://www.theguardian.com/football/2025/oct/20/maccabi-tel-aviv-to-decline-any-tickets-offered-for-aston-villa-game
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +114,13 @@ Liverpool: What are the key questions facing Arne Slot?. Four defeats in a row a
 
 ---
 
-## Story 5: Ben Davies: Tottenham Hotspur defender targeting Gareth Bale's Wales cap record
-**Slug (lower-third):** Ben Davies: Tottenham Hotspur defender targeting Gareth B…  
-**When:** 2025-10-21 00:09 (America/Winnipeg)  •  **Published:** 2025-10-21 05:09 (UTC)  
+## Story 5: Matheus Cunha: Man Utd forward 'outstanding' in win at Liverpool
+**Slug (lower-third):** Matheus Cunha: Man Utd forward 'outstanding' in win at Li…  
+**When:** 2025-10-21 05:11 (America/Winnipeg)  •  **Published:** 2025-10-21 10:11 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ben Davies: Tottenham Hotspur defender targeting Gareth Bale's Wales cap record. Ben Davies is aiming to surpass Gareth Bale's tally of 111 Wales caps and admits lack of game time under Thomas Frank at Spurs is "not ideal". Relevance to standings and momentum.
+Matheus Cunha: Man Utd forward 'outstanding' in win at Liverpool. Stephen Warnock praises Manchester United's performance in their 2-1 victory at Anfield on Sunday, remarking that forward Matheus Cunha possessed the "aura of Eric Cantona". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +129,7 @@ Ben Davies: Tottenham Hotspur defender targeting Gareth Bale's Wales cap record.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Ben Davies: Tottenham Hotspur defender targeting Gareth Bale's Wales cap record. https://www.bbc.com/sport/football/articles/c7v8djej8g4o?at_medium=RSS&at_campaign=rss
+- bbc.com — Matheus Cunha: Man Utd forward 'outstanding' in win at Liverpool. https://www.bbc.com/sport/football/videos/cgql92wgjd3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +138,13 @@ Ben Davies: Tottenham Hotspur defender targeting Gareth Bale's Wales cap record.
 
 ---
 
-## Story 6: West Ham 0-2 Brentford | Premier League highlights
-**Slug (lower-third):** West Ham 0-2 Brentford | Premier League highlights  
-**When:** 2025-10-20 17:52 (America/Winnipeg)  •  **Published:** 2025-10-20 22:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: Jonathan Burkardt profile: Eintracht Frankfurt's in-form Hugo Ekitike replacement is a threat to Liverpool
+**Slug (lower-third):** Jonathan Burkardt profile: Eintracht Frankfurt's in-form …  
+**When:** 2025-10-21 05:00 (America/Winnipeg)  •  **Published:** 2025-10-21 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-West Ham 0-2 Brentford | Premier League highlights. FREE TO WATCH: Highlights from West Ham's match against Brentford in the Premier League. Relevance to standings and momentum.
+Jonathan Burkardt profile: Eintracht Frankfurt's in-form Hugo Ekitike replacement is a threat to Liverpool. Jonathan Burkardt has scored six goals in his last six games for Eintracht Frankfurt ahead of their game against Liverpool; with exclusive insight from Burkardts former coach at Mainz, Adam Bate looks at why the Reds should beware of Hugo Ekitikes replacement... Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,8 +153,7 @@ West Ham 0-2 Brentford | Premier League highlights. FREE TO WATCH: Highlights fr
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — West Ham 0-2 Brentford | Premier League highlights. https://www.skysports.com/watch/video/13454173/west-ham-0-2-brentford-premier-league-highlights
-- bbc.com — Premier League highlights: West Ham 0-2 Brentford. https://www.bbc.com/sport/football/videos/cn40z3qx40qo?at_medium=RSS&at_campaign=rss
+- skysports.com — Jonathan Burkardt profile: Eintracht Frankfurt's in-form Hugo Ekitike replacement is a threat to Liverpool. https://www.skysports.com/football/news/12040/13450488/jonathan-burkardt-profile-eintracht-frankfurts-in-form-hugo-ekitike-replacement-is-a-threat-to-liverpool
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -165,13 +162,85 @@ West Ham 0-2 Brentford | Premier League highlights. FREE TO WATCH: Highlights fr
 
 ---
 
-## Story 7: West Ham 0-2 Brentford: Nuno Espirito Santo post-match interview
-**Slug (lower-third):** West Ham 0-2 Brentford: Nuno Espirito Santo post-match in…  
-**When:** 2025-10-20 17:10 (America/Winnipeg)  •  **Published:** 2025-10-20 22:10 (UTC)  
+## Story 7: Nottingham Forest: Why is Sean Dyche the right man for Forest?
+**Slug (lower-third):** Nottingham Forest: Why is Sean Dyche the right man for Fo…  
+**When:** 2025-10-21 04:54 (America/Winnipeg)  •  **Published:** 2025-10-21 09:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Nottingham Forest: Why is Sean Dyche the right man for Forest?. Sean Dyche answers an SOS call from Nottingham Forest as the club look to restore confidence - is he the right man for the job? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Nottingham Forest: Why is Sean Dyche the right man for Forest?. https://www.bbc.com/sport/football/articles/cy8vy013jx3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Arsenal apologise to Atletico Madrid about lack of hot water at Emirates Stadium
+**Slug (lower-third):** Arsenal apologise to Atletico Madrid about lack of hot wa…  
+**When:** 2025-10-21 04:37 (America/Winnipeg)  •  **Published:** 2025-10-21 09:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal apologise to Atletico Madrid about lack of hot water at Emirates Stadium. Arsenal apologise to Atletico Madrid after a hot water failure at Emirates Stadium sees the Spanish side heading to their hotel for showers following a training session. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arsenal apologise to Atletico Madrid about lack of hot water at Emirates Stadium. https://www.bbc.com/sport/football/articles/cjr0yd08wlyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: MNF: How will Sean Dyche compare to Nuno Espirito Santo and Ange Postecoglou at Nottingham Forest?
+**Slug (lower-third):** MNF: How will Sean Dyche compare to Nuno Espirito Santo a…  
+**When:** 2025-10-21 04:11 (America/Winnipeg)  •  **Published:** 2025-10-21 09:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+MNF: How will Sean Dyche compare to Nuno Espirito Santo and Ange Postecoglou at Nottingham Forest?. Monday Night Football takes a close look at how Sean Dyche will compare to the differing styles of Ange Postecoglou and Nuno Espirito Santo during their tenures at the City Ground. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — MNF: How will Sean Dyche compare to Nuno Espirito Santo and Ange Postecoglou at Nottingham Forest?. https://www.skysports.com/watch/video/13454307/mnf-how-will-sean-dyche-compare-to-nuno-espirito-santo-and-ange-postecoglou-at-nottingham-forest
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Arsenal: How Declan Rice's role has changed at the Gunners
+**Slug (lower-third):** Arsenal: How Declan Rice's role has changed at the Gunners  
+**When:** 2025-10-21 02:19 (America/Winnipeg)  •  **Published:** 2025-10-21 07:19 (UTC)  
 **Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham 0-2 Brentford: Nuno Espirito Santo post-match interview. Nuno Espirito Santo admits it was a tough night for all involved with West Ham following their 2-0 defeat by Brentford at London Stadium. Relevance to standings and momentum.
+Arsenal: How Declan Rice's role has changed at the Gunners. Since the arrival of Martin Zubimendi at Arsenal, BBC Sport looks at how Declan Rice has completed his transformation to an all-round midfielder. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -180,79 +249,7 @@ West Ham 0-2 Brentford: Nuno Espirito Santo post-match interview. Nuno Espirito 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — West Ham 0-2 Brentford: Nuno Espirito Santo post-match interview. https://www.bbc.com/sport/football/videos/c4gwxyx3j9ro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Aston Villa vs Maccabi Tel Aviv: Israeli club to decline away ticket allocation for Europa League fixture
-**Slug (lower-third):** Aston Villa vs Maccabi Tel Aviv: Israeli club to decline …  
-**When:** 2025-10-20 17:11 (America/Winnipeg)  •  **Published:** 2025-10-20 22:11 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Aston Villa vs Maccabi Tel Aviv: Israeli club to decline away ticket allocation for Europa League fixture. Maccabi Tel Aviv to waive away ticket allocation for Europa League game at Villa Park next month; UK government said on Friday it was exploring what additional resources and support are required to allow all fans to attend Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Aston Villa vs Maccabi Tel Aviv: Israeli club to decline away ticket allocation for Europa League fixture. https://www.skysports.com/football/news/12040/13454159/aston-villa-vs-maccabi-tel-aviv-israeli-club-to-decline-away-ticket-allocation-for-europa-league-fixture
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Troy Deeney's team of the week: Erling Haaland, Harry Maguire, Jean-Philippe Mateta, Moises Caicedo
-**Slug (lower-third):** Troy Deeney's team of the week: Erling Haaland, Harry Mag…  
-**When:** 2025-10-20 16:58 (America/Winnipeg)  •  **Published:** 2025-10-20 21:58 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Troy Deeney's team of the week: Erling Haaland, Harry Maguire, Jean-Philippe Mateta, Moises Caicedo. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Troy Deeney's team of the week: Erling Haaland, Harry Maguire, Jean-Philippe Mateta, Moises Caicedo. https://www.bbc.com/sport/football/articles/c2dr37d99n3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Mikel Arteta happy with George Graham comparison as Arsenal prepare for Atletico
-**Slug (lower-third):** Mikel Arteta happy with George Graham comparison as Arsen…  
-**When:** 2025-10-20 16:30 (America/Winnipeg)  •  **Published:** 2025-10-20 21:30 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Mikel Arteta happy with George Graham comparison as Arsenal prepare for Atletico. Mikel Arteta said he is happy if his Arsenal team stir memories of George Graham's vintage as he prepares for the visit of Diego Simeone's Atletico Madrid Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Mikel Arteta happy with George Graham comparison as Arsenal prepare for Atletico. https://www.theguardian.com/football/2025/oct/20/mikel-arteta-arsenal-george-graham-atletico-madrid-champions-league-defence
+- bbc.com — Arsenal: How Declan Rice's role has changed at the Gunners. https://www.bbc.com/sport/football/articles/cn091zqqzv0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
