@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-23 13:31 (America/Winnipeg)  |  2025-10-23 18:31 (UTC)
+**Generated:** 2025-10-23 20:27 (America/Winnipeg)  |  2025-10-24 01:27 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 50s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Jorgen Strand Larsen exclusive: Striker staying positive at Wolves despite 'rough' summer
-- Premier League predictions: Chris Sutton v The Charlatans guitarist Mark Collins and AI
-- Lucy Bronze: Chelsea full-back named England Women's Player of the Year after Euros heroics
+- Nottingham Forest vs Porto: Sean Dyche post match interview
+- Crystal Palace vs AEK Larnaca: Oliver Glasner post match interview
+- Crystal Palace: Eagles 'needed' defeat by Larnaca to 'stay humble'
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Fatty steaks and coffee with maple syrup: Erling Haaland lets us in on life at home
-**Slug (lower-third):** Fatty steaks and coffee with maple syrup: Erling Haaland …  
-**When:** 2025-10-23 11:00 (America/Winnipeg)  •  **Published:** 2025-10-23 16:00 (UTC)  
+## Story 1: Crystal Palace vs AEK Larnaca: Oliver Glasner post match interview
+**Slug (lower-third):** Crystal Palace vs AEK Larnaca: Oliver Glasner post match …  
+**When:** 2025-10-23 18:23 (America/Winnipeg)  •  **Published:** 2025-10-23 23:23 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fatty steaks and coffee with maple syrup: Erling Haaland lets us in on life at home. Manchester City forward shows he is a dab hand in the kitchen as he launches his YouTube channel Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Crystal Palace vs AEK Larnaca: Oliver Glasner post match interview. Oliver Glasner was disappointed after his Crystal Palace side suffered a surprise defeat to AEK Larnaca in the Europa Conference League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,31 @@ Fatty steaks and coffee with maple syrup: Erling Haaland lets us in on life at h
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Fatty steaks and coffee with maple syrup: Erling Haaland lets us in on life at home. https://www.theguardian.com/football/2025/oct/23/erling-haaland-fatty-steaks-coffee-maple-syrup-life-at-home-youtube-manchester-city
+- skysports.com — Crystal Palace vs AEK Larnaca: Oliver Glasner post match interview. https://www.skysports.com/watch/video/13456231/crystal-palace-vs-aek-larnaca-oliver-glasner-post-match-interview
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Crystal Palace: Eagles 'needed' defeat by Larnaca to 'stay humble'
+**Slug (lower-third):** Crystal Palace: Eagles 'needed' defeat by Larnaca to 'sta…  
+**When:** 2025-10-23 18:13 (America/Winnipeg)  •  **Published:** 2025-10-23 23:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Crystal Palace: Eagles 'needed' defeat by Larnaca to 'stay humble'. Crystal Palace's first home game in a major European competition didn't go to plan as they were beaten by AEK Larnaca, but manager Oliver Glasner said "maybe the whole environment needed it to stay humble". Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Crystal Palace: Eagles 'needed' defeat by Larnaca to 'stay humble'. https://www.bbc.com/sport/football/articles/cnve5e7mgd5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +66,13 @@ Fatty steaks and coffee with maple syrup: Erling Haaland lets us in on life at h
 
 ### League & Regulation
 
-## Story 2: Champions League review: A deluge of goals as youth rules for Barcelona and Bayern
-**Slug (lower-third):** Champions League review: A deluge of goals as youth rules…  
-**When:** 2025-10-23 09:41 (America/Winnipeg)  •  **Published:** 2025-10-23 14:41 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 3: Nottingham Forest vs Porto: Sean Dyche post match interview
+**Slug (lower-third):** Nottingham Forest vs Porto: Sean Dyche post match intervi…  
+**When:** 2025-10-23 18:24 (America/Winnipeg)  •  **Published:** 2025-10-23 23:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League review: A deluge of goals as youth rules for Barcelona and Bayern. This week's action saw an astonishing 71 goals over two nights, with the Premier League responsible for many of them Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Nottingham Forest vs Porto: Sean Dyche post match interview. Sean Dyche said he thanked his players after they defeated Porto in his first game in charge of Nottingham Forest Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +81,7 @@ Champions League review: A deluge of goals as youth rules for Barcelona and Baye
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Champions League review: A deluge of goals as youth rules for Barcelona and Bayern. https://www.theguardian.com/football/2025/oct/23/champions-league-review-barcelona-bayern-munich-premier-league-goals
+- skysports.com — Nottingham Forest vs Porto: Sean Dyche post match interview. https://www.skysports.com/watch/video/13456232/nottingham-forest-vs-porto-sean-dyche-post-match-interview
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,37 +92,13 @@ Champions League review: A deluge of goals as youth rules for Barcelona and Baye
 
 ### Club Updates
 
-## Story 3: Jorgen Strand Larsen exclusive: Striker staying positive at Wolves despite 'rough' summer
-**Slug (lower-third):** Jorgen Strand Larsen exclusive: Striker staying positive …  
-**When:** 2025-10-23 13:12 (America/Winnipeg)  •  **Published:** 2025-10-23 18:12 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Jorgen Strand Larsen exclusive: Striker staying positive at Wolves despite 'rough' summer. In an exclusive interview with Sky Sports, Wolves striker Jorgen Strand Larsen discusses a difficult summer for him and the club, and how he and his team-mates are trying to turn things around | Watch Wolves vs Burnley on Sky Sports F1 on Sunday from 1pm; kick off 2pm. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Jorgen Strand Larsen exclusive: Striker staying positive at Wolves despite 'rough' summer. https://www.skysports.com/football/news/12040/13455972/jorgen-strand-larsen-exclusive-striker-staying-positive-at-wolves-despite-rough-summer
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Premier League predictions: Chris Sutton v The Charlatans guitarist Mark Collins and AI
-**Slug (lower-third):** Premier League predictions: Chris Sutton v The Charlatans…  
-**When:** 2025-10-23 11:29 (America/Winnipeg)  •  **Published:** 2025-10-23 16:29 (UTC)  
+## Story 4: Premier League: 10 things to look out for this weekend
+**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
+**When:** 2025-10-23 18:00 (America/Winnipeg)  •  **Published:** 2025-10-23 23:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League predictions: Chris Sutton v The Charlatans guitarist Mark Collins and AI. BBC Sport football expert Chris Sutton takes on The Charlatans guitarist Mark Collins with his predictions for this weekend's Premier League fixtures. Relevance to standings and momentum.
+Premier League: 10 things to look out for this weekend. Marc Guiu faces Sunderland reunion, Manchester United seek a minor three-peat and Mohamed Salah has to step up Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +107,7 @@ Premier League predictions: Chris Sutton v The Charlatans guitarist Mark Collins
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League predictions: Chris Sutton v The Charlatans guitarist Mark Collins and AI. https://www.bbc.com/sport/football/articles/cjek3new138o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2025/oct/24/premier-league-10-things-to-look-out-for-this-weekend
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +116,13 @@ Premier League predictions: Chris Sutton v The Charlatans guitarist Mark Collins
 
 ---
 
-## Story 5: Lucy Bronze: Chelsea full-back named England Women's Player of the Year after Euros heroics
-**Slug (lower-third):** Lucy Bronze: Chelsea full-back named England Women's Play…  
-**When:** 2025-10-23 11:09 (America/Winnipeg)  •  **Published:** 2025-10-23 16:09 (UTC)  
+## Story 5: Nottingham Forest: Another new era for Forest dawns as Sean Dyche opens with Europa League win
+**Slug (lower-third):** Nottingham Forest: Another new era for Forest dawns as Se…  
+**When:** 2025-10-23 17:55 (America/Winnipeg)  •  **Published:** 2025-10-23 22:55 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Lucy Bronze: Chelsea full-back named England Women's Player of the Year after Euros heroics. Lucy Bronze says she puts her "heart and soul" into every game after being named the England Women's Player of the Year for 2024-25. Relevance to standings and momentum.
+Nottingham Forest: Another new era for Forest dawns as Sean Dyche opens with Europa League win. Another new era for Forest dawns as Sean Dyche opens with a Europa League win over Porto. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +131,7 @@ Lucy Bronze: Chelsea full-back named England Women's Player of the Year after Eu
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Lucy Bronze: Chelsea full-back named England Women's Player of the Year after Euros heroics. https://www.bbc.com/sport/football/articles/cly2wv9e5plo?at_medium=RSS&at_campaign=rss
+- bbc.com — Nottingham Forest: Another new era for Forest dawns as Sean Dyche opens with Europa League win. https://www.bbc.com/sport/football/articles/c7v8nl4rqr9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +140,13 @@ Lucy Bronze: Chelsea full-back named England Women's Player of the Year after Eu
 
 ---
 
-## Story 6: Van Dijk reveals he called Liverpool squad meeting after defeat by Manchester United
-**Slug (lower-third):** Van Dijk reveals he called Liverpool squad meeting after …  
-**When:** 2025-10-23 11:00 (America/Winnipeg)  •  **Published:** 2025-10-23 16:00 (UTC)  
+## Story 6: Football Daily - Euro Leagues: Arsenal's Champions League chances and Italian giants struggling - BBC Sounds
+**Slug (lower-third):** Football Daily - Euro Leagues: Arsenal's Champions League…  
+**When:** 2025-10-23 17:54 (America/Winnipeg)  •  **Published:** 2025-10-23 22:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Van Dijk reveals he called Liverpool squad meeting after defeat by Manchester United. Virgil van Dijk has said he called a players' meeting on Monday to lift the mood and remind the squad how quickly their fortunes could change Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football Daily - Euro Leagues: Arsenal's Champions League chances and Italian giants struggling - BBC Sounds. Maz Farookhi presents the latest from European football Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +155,7 @@ Van Dijk reveals he called Liverpool squad meeting after defeat by Manchester Un
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Van Dijk reveals he called Liverpool squad meeting after defeat by Manchester United. https://www.theguardian.com/football/2025/oct/23/van-dijk-reveals-liverpool-squad-meeting
+- bbc.co.uk — Football Daily - Euro Leagues: Arsenal's Champions League chances and Italian giants struggling - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0mbhv28?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +164,13 @@ Van Dijk reveals he called Liverpool squad meeting after defeat by Manchester Un
 
 ---
 
-## Story 7: England's Kai Pearce-Paul focused on representing hometown London in Wembley Ashes clash with Australia
-**Slug (lower-third):** England's Kai Pearce-Paul focused on representing hometow…  
-**When:** 2025-10-23 11:00 (America/Winnipeg)  •  **Published:** 2025-10-23 16:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 7: Aston Villa penalties: Boss Unai Emery says side 'must be more clinical' as spot-kick woe continues
+**Slug (lower-third):** Aston Villa penalties: Boss Unai Emery says side 'must be…  
+**When:** 2025-10-23 17:47 (America/Winnipeg)  •  **Published:** 2025-10-23 22:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-England's Kai Pearce-Paul focused on representing hometown London in Wembley Ashes clash with Australia. Kai Pearce-Paul is counting down the days until he gets to play in his hometown London at Wembley Stadium for England; Three Test matches between England and rivals Australia will be held at Wembley Stadium, Evertons new Hill Dickinson Stadium, and Headingley Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Aston Villa penalties: Boss Unai Emery says side 'must be more clinical' as spot-kick woe continues. Aston Villa have fixed their goalscoring issues, but their terrible record from the penalty spot is a growing problem. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +179,7 @@ England's Kai Pearce-Paul focused on representing hometown London in Wembley Ash
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — England's Kai Pearce-Paul focused on representing hometown London in Wembley Ashes clash with Australia. https://www.skysports.com/rugby-league/news/12040/13454999/englands-kai-pearce-paul-focused-on-representing-hometown-london-in-wembley-ashes-clash-with-australia
+- bbc.com — Aston Villa penalties: Boss Unai Emery says side 'must be more clinical' as spot-kick woe continues. https://www.bbc.com/sport/football/articles/cy8vqvx4e89o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +188,13 @@ England's Kai Pearce-Paul focused on representing hometown London in Wembley Ash
 
 ---
 
-## Story 8: Man Utd must conquer bogey team Brighton at Old Trafford to build momentum on back of Liverpool triumph
-**Slug (lower-third):** Man Utd must conquer bogey team Brighton at Old Trafford …  
-**When:** 2025-10-23 09:02 (America/Winnipeg)  •  **Published:** 2025-10-23 14:02 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~28s
+## Story 8: European Championship Darts: Michael van Gerwen scrapes through shaky last-leg decider against Wessel Nijman in Dortmund
+**Slug (lower-third):** European Championship Darts: Michael van Gerwen scrapes t…  
+**When:** 2025-10-23 17:31 (America/Winnipeg)  •  **Published:** 2025-10-23 22:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Man Utd must conquer bogey team Brighton at Old Trafford to build momentum on back of Liverpool triumph. Man Utd celebrated a rare win at Liverpool but can they back it up and build real momentum under Ruben Amorim with a victory over a Brighton team who have had their number in recent times? Watch Man Utd vs Brighton live on Sky Sports Premier League on Saturday from 5pm; kick-off 5.30pm Relevance to standings and momentum.
+European Championship Darts: Michael van Gerwen scrapes through shaky last-leg decider against Wessel Nijman in Dortmund. Michael van Gerwens bid for a record fifth European Championship crown almost came crashing down in the opening round as Gerwyn Price and Jonny Clayton bowed out; you can watch the Grand Slam of Darts live on Sky Sports from November 8-16 in Wolverhampton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +203,7 @@ Man Utd must conquer bogey team Brighton at Old Trafford to build momentum on ba
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man Utd must conquer bogey team Brighton at Old Trafford to build momentum on back of Liverpool triumph. https://www.skysports.com/football/news/12040/13455835/man-utd-must-conquer-bogey-team-brighton-at-old-trafford-to-build-momentum-on-back-of-liverpool-triumph
+- skysports.com — European Championship Darts: Michael van Gerwen scrapes through shaky last-leg decider against Wessel Nijman in Dortmund. https://www.skysports.com/darts/news/12040/13455918/european-championship-darts-michael-van-gerwen-scrapes-through-shaky-last-leg-decider-against-wessel-nijman-in-dortmund
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +212,13 @@ Man Utd must conquer bogey team Brighton at Old Trafford to build momentum on ba
 
 ---
 
-## Story 9: West Ham: The numbers behind Hammers 'shocking' start to the season as Nuno Espirito Santo takes on big challenge
-**Slug (lower-third):** West Ham: The numbers behind Hammers 'shocking' start to …  
-**When:** 2025-10-23 09:00 (America/Winnipeg)  •  **Published:** 2025-10-23 14:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~30s
+## Story 9: Football gossip: Santos, Rashford, Woltemade, Guehi, Zirkzee, Kovacic
+**Slug (lower-third):** Football gossip: Santos, Rashford, Woltemade, Guehi, Zirk…  
+**When:** 2025-10-23 16:14 (America/Winnipeg)  •  **Published:** 2025-10-23 21:14 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham: The numbers behind Hammers 'shocking' start to the season as Nuno Espirito Santo takes on big challenge. West Ham were described as shocking and one of the slowest teams ever in the Premier League on Monday; Nuno Espirito Santo has a big challenge on his hands with the Hammers; watch Leeds vs West Ham live on Sky Sports Friday Night Football this week, kick-off at 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Santos, Rashford, Woltemade, Guehi, Zirkzee, Kovacic. Manchester United identify a six-man midfield shortlist, including Chelsea's Andrey Santos, while Newcastle striker Nick Woltemade has ambitions of playing for Bayern Munich. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +227,7 @@ West Ham: The numbers behind Hammers 'shocking' start to the season as Nuno Espi
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — West Ham: The numbers behind Hammers 'shocking' start to the season as Nuno Espirito Santo takes on big challenge. https://www.skysports.com/football/news/12040/13455743/west-ham-the-numbers-behind-hammers-shocking-start-to-the-season-as-nuno-espirito-santo-takes-on-big-challenge
+- bbc.com — Football gossip: Santos, Rashford, Woltemade, Guehi, Zirkzee, Kovacic. https://www.bbc.com/sport/football/articles/czxn11q05r6o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +236,13 @@ West Ham: The numbers behind Hammers 'shocking' start to the season as Nuno Espi
 
 ---
 
-## Story 10: Liverpool: Should Mohamed Salah start against Brentford or has Arne Slot found his formula?
-**Slug (lower-third):** Liverpool: Should Mohamed Salah start against Brentford o…  
-**When:** 2025-10-23 08:00 (America/Winnipeg)  •  **Published:** 2025-10-23 13:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~22s
+## Story 10: Go Ahead Eagles hold on to stun Aston Villa after Buendia's spot-kick miss
+**Slug (lower-third):** Go Ahead Eagles hold on to stun Aston Villa after Buendia…  
+**When:** 2025-10-23 14:02 (America/Winnipeg)  •  **Published:** 2025-10-23 19:02 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool: Should Mohamed Salah start against Brentford or has Arne Slot found his formula?. Mohamed Salah was named on the bench as Liverpool got back to winning ways in Frankfurt; Arne Slots bold selections paid off but what team does the Dutchman pick to face Brentford in the Premier League on Saturday? Have your say now... Relevance to standings and momentum.
+Go Ahead Eagles hold on to stun Aston Villa after Buendia's spot-kick miss. Goals from Mathis Suray and Mats Deijl gave Go Ahead Eagles a 2-1 Europa League win against Aston Villa, who had led through Evann Guessand Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +251,7 @@ Liverpool: Should Mohamed Salah start against Brentford or has Arne Slot found h
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Liverpool: Should Mohamed Salah start against Brentford or has Arne Slot found his formula?. https://www.skysports.com/football/news/12040/13455742/liverpool-should-mohamed-salah-start-against-brentford-or-has-arne-slot-found-his-formula
+- theguardian.com — Go Ahead Eagles hold on to stun Aston Villa after Buendia's spot-kick miss. https://www.theguardian.com/football/2025/oct/23/go-ahead-eagles-aston-villa-europa-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
