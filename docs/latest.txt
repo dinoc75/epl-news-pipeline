@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-27 07:45 (America/Winnipeg)  |  2025-10-27 12:45 (UTC)
+**Generated:** 2025-10-27 13:31 (America/Winnipeg)  |  2025-10-27 18:31 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 37s
+**Estimated total video length:** ~4m 40s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Matty Cash signs new Aston Villa deal until 2029
-- Arsenal machine reminds me of Jose Mourinho's Chelsea, says Paul Merson as Gunners lead Premier League by four points
-- Ref Watch: Penalty decisions analysed from Brentford vs Liverpool
+- Referees at Manchester United and Brentford got heat but there is much to learn from the decisions
+- Keith Andrews: How Brentford have evolved under new manager
+- Thomas Frank says Spurs won't hold back at Newcastle in Carabao Cup
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Matty Cash signs new Aston Villa deal until 2029
-**Slug (lower-third):** Matty Cash signs new Aston Villa deal until 2029  
-**When:** 2025-10-27 07:40 (America/Winnipeg)  •  **Published:** 2025-10-27 12:40 (UTC)  
+## Story 1: Keith Andrews: How Brentford have evolved under new manager
+**Slug (lower-third):** Keith Andrews: How Brentford have evolved under new manag…  
+**When:** 2025-10-27 12:09 (America/Winnipeg)  •  **Published:** 2025-10-27 17:09 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Matty Cash signs new Aston Villa deal until 2029. Aston Villa defender Matty Cash signs a new three-and-a-half year deal with the club. Relevance to standings and momentum.
+Keith Andrews: How Brentford have evolved under new manager. Keith Andrews faced a daunting task when he took over at Brentford this summer, but Saturday's win over Liverpool demonstrated how he has successfully gone about his business. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,31 @@ Matty Cash signs new Aston Villa deal until 2029. Aston Villa defender Matty Cas
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Matty Cash signs new Aston Villa deal until 2029. https://www.bbc.com/sport/football/articles/c1lqjz3v98lo?at_medium=RSS&at_campaign=rss
+- bbc.com — Keith Andrews: How Brentford have evolved under new manager. https://www.bbc.com/sport/football/articles/cvgd9j4844ko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Thomas Frank says Spurs won't hold back at Newcastle in Carabao Cup
+**Slug (lower-third):** Thomas Frank says Spurs won't hold back at Newcastle in C…  
+**When:** 2025-10-27 10:41 (America/Winnipeg)  •  **Published:** 2025-10-27 15:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Thomas Frank says Spurs won't hold back at Newcastle in Carabao Cup. Tottenham head coach Thomas Frank says his side will definitely be going for it at Newcastle in the Carabao Cup as they chase their second piece of silverware in two seasons. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Thomas Frank says Spurs won't hold back at Newcastle in Carabao Cup. https://www.skysports.com/watch/video/13458932/thomas-frank-says-spurs-wont-hold-back-at-newcastle-in-carabao-cup
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,10 +66,10 @@ Matty Cash signs new Aston Villa deal until 2029. Aston Villa defender Matty Cas
 
 ### League & Regulation
 
-## Story 2: Today on Sky Sports Racing: Bangor-on-Dee, Lingfield, Newcastle, Wolverhampton and Chantilly
+## Story 3: Today on Sky Sports Racing: Bangor-on-Dee, Lingfield, Newcastle, Wolverhampton and Chantilly
 **Slug (lower-third):** Today on Sky Sports Racing: Bangor-on-Dee, Lingfield, New…  
 **When:** 2025-10-27 02:00 (America/Winnipeg)  •  **Published:** 2025-10-27 07:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~21s
+**Virality score:** 89  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 Today on Sky Sports Racing: Bangor-on-Dee, Lingfield, Newcastle, Wolverhampton and Chantilly. In Mondays feature, Karl Burke looks for further two-year-old success as Half Sovereign makes the trip to Chantilly in pursuit of a first Group success. We also have action from Bangor-on-Dee, Lingfield, Newcastle and Wolverhampton, live on Sky Sports Racing from 11.35am Disciplinary outcome could affect availability.
@@ -68,10 +92,106 @@ Today on Sky Sports Racing: Bangor-on-Dee, Lingfield, Newcastle, Wolverhampton a
 
 ### Club Updates
 
-## Story 3: Arsenal machine reminds me of Jose Mourinho's Chelsea, says Paul Merson as Gunners lead Premier League by four points
+## Story 4: Referees at Manchester United and Brentford got heat but there is much to learn from the decisions
+**Slug (lower-third):** Referees at Manchester United and Brentford got heat but …  
+**When:** 2025-10-27 12:37 (America/Winnipeg)  •  **Published:** 2025-10-27 17:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Referees at Manchester United and Brentford got heat but there is much to learn from the decisions. Incidents in both games generated a lot of noise, not least the yellow card for Dorgu when Minteh was running towards goal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Referees at Manchester United and Brentford got heat but there is much to learn from the decisions. https://www.theguardian.com/football/2025/oct/27/premier-league-referees-manchester-united-brentford-learn-decisions-chris-foy
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Why Sunderland's success matters for the Premier League at large
+**Slug (lower-third):** Why Sunderland's success matters for the Premier League a…  
+**When:** 2025-10-27 10:04 (America/Winnipeg)  •  **Published:** 2025-10-27 15:04 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Why Sunderland's success matters for the Premier League at large. Recent history has seen all three sides promoted from the Championship be relegated the same season - Regis Le Bris's side could break the spell Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Why Sunderland's success matters for the Premier League at large. https://www.theguardian.com/football/2025/oct/27/why-sunderlands-success-matters
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Gian van Veen happy to prove doubters wrong after beating Luke Humphries to win European Championship title
+**Slug (lower-third):** Gian van Veen happy to prove doubters wrong after beating…  
+**When:** 2025-10-27 07:40 (America/Winnipeg)  •  **Published:** 2025-10-27 12:40 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Gian van Veen happy to prove doubters wrong after beating Luke Humphries to win European Championship title. Dutchman Gian van Veen defeated world No 1 Luke Humphries to take his first senior major trophy; he hopes win will put him in contention for a place in the Premier League next year now that he is ranked seventh in the world Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Gian van Veen happy to prove doubters wrong after beating Luke Humphries to win European Championship title. https://www.skysports.com/darts/news/12040/13458790/gian-van-veen-happy-to-prove-doubters-wrong-after-beating-luke-humphries-to-win-european-championship-title
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: How Sunderland's win at Chelsea sums up Black Cats' brilliant start to life back in the Premier League
+**Slug (lower-third):** How Sunderland's win at Chelsea sums up Black Cats' brill…  
+**When:** 2025-10-27 07:24 (America/Winnipeg)  •  **Published:** 2025-10-27 12:24 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+How Sunderland's win at Chelsea sums up Black Cats' brilliant start to life back in the Premier League. Sunderland are flying high in the Premier League; Championship play-off winners had been tipped for relegation but have combined a mean defence with energetic, physical play to surprise; watch Sunderland vs Everton live on Sky Sports on Monday Night Football from 6.30pm; kick-off 8pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — How Sunderland's win at Chelsea sums up Black Cats' brilliant start to life back in the Premier League. https://www.skysports.com/football/news/12040/13458778/how-sunderlands-win-at-chelsea-sums-up-black-cats-brilliant-start-to-life-back-in-the-premier-league
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Arsenal machine reminds me of Jose Mourinho's Chelsea, says Paul Merson as Gunners lead Premier League by four points
 **Slug (lower-third):** Arsenal machine reminds me of Jose Mourinho's Chelsea, sa…  
 **When:** 2025-10-27 07:15 (America/Winnipeg)  •  **Published:** 2025-10-27 12:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+**Virality score:** 96  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 Arsenal machine reminds me of Jose Mourinho's Chelsea, says Paul Merson as Gunners lead Premier League by four points. Paul Merson discusses some of the major talking points from the Premier League; he gives his view on Arsenals defensive prowess, Man Utds resurgence, Liverpools struggles, Bournemouth and Sunderland causing a stir and why some established Premier League clubs will be concerned Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -92,82 +212,10 @@ Arsenal machine reminds me of Jose Mourinho's Chelsea, says Paul Merson as Gunne
 
 ---
 
-## Story 4: Ref Watch: Penalty decisions analysed from Brentford vs Liverpool
-**Slug (lower-third):** Ref Watch: Penalty decisions analysed from Brentford vs L…  
-**When:** 2025-10-27 04:44 (America/Winnipeg)  •  **Published:** 2025-10-27 09:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ref Watch: Penalty decisions analysed from Brentford vs Liverpool. On Ref Watch, Dermot Gallagher and Jay Bothroyd take a look at all the penalty shouts and decisions from Brentfords Premier League victory over Liverpool. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Ref Watch: Penalty decisions analysed from Brentford vs Liverpool. https://www.skysports.com/watch/video/13458691/ref-watch-penalty-decisions-analysed-from-brentford-vs-liverpool
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Ref Watch: Should VAR be able to intervene on corner decisions? Bournemouth capitalised on a decision that saw them score vs Forest
-**Slug (lower-third):** Ref Watch: Should VAR be able to intervene on corner deci…  
-**When:** 2025-10-27 04:42 (America/Winnipeg)  •  **Published:** 2025-10-27 09:42 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ref Watch: Should VAR be able to intervene on corner decisions? Bournemouth capitalised on a decision that saw them score vs Forest. Ref Watch analyse the moment Bournemouth were given a corner which came off Marcus Tavernier from which the hosts scored. Should VAR be able to intervene on initial decisions? Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Ref Watch: Should VAR be able to intervene on corner decisions? Bournemouth capitalised on a decision that saw them score vs Forest. https://www.skysports.com/watch/video/13458688/ref-watch-should-var-be-able-to-intervene-on-corner-decisions-bournemouth-capitalised-on-a-decision-that-saw-them-score-vs-forest
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Ref Watch: Should Aston Villa's goal vs Manchester City have stood?
-**Slug (lower-third):** Ref Watch: Should Aston Villa's goal vs Manchester City h…  
-**When:** 2025-10-27 04:40 (America/Winnipeg)  •  **Published:** 2025-10-27 09:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Ref Watch: Should Aston Villa's goal vs Manchester City have stood?. Ref Watch takes a closer look at the incident that led to Aston Villas corner from which they scored their winning goals against Manchester City - but was it actually a foul? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Ref Watch: Should Aston Villa's goal vs Manchester City have stood?. https://www.skysports.com/watch/video/13458687/ref-watch-should-aston-villas-goal-vs-manchester-city-have-stood
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Premier League: 10 talking points from the weekend's action
+## Story 9: Premier League: 10 talking points from the weekend's action
 **Slug (lower-third):** Premier League: 10 talking points from the weekend's acti…  
 **When:** 2025-10-27 03:00 (America/Winnipeg)  •  **Published:** 2025-10-27 08:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League: 10 talking points from the weekend's action. Arsenal's title tilt is built on solid defence, Chelsea miss Cole Palmer and what happened to clampdown on shirt-pulling? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -188,10 +236,10 @@ Premier League: 10 talking points from the weekend's action. Arsenal's title til
 
 ---
 
-## Story 8: Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed Salah have not shown leadership during struggles
+## Story 10: Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed Salah have not shown leadership during struggles
 **Slug (lower-third):** Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed …  
 **When:** 2025-10-27 01:19 (America/Winnipeg)  •  **Published:** 2025-10-27 06:19 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed Salah have not shown leadership during struggles. Former Manchester United captain Wayne Rooney believes Liverpool are struggling this season due to a lack of leadership from senior players like Virgil van Dijk and Mohamed Salah. Relevance to standings and momentum.
@@ -204,54 +252,6 @@ Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed Salah have not shown le
 
 ### Sources
 - bbc.com — Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed Salah have not shown leadership during struggles. https://www.bbc.com/sport/football/articles/c0qp8w77dx5o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Wayne Rooney: Liverpool suffering lack of leadership amid bad run of form
-**Slug (lower-third):** Wayne Rooney: Liverpool suffering lack of leadership amid…  
-**When:** 2025-10-27 01:19 (America/Winnipeg)  •  **Published:** 2025-10-27 06:19 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Wayne Rooney: Liverpool suffering lack of leadership amid bad run of form. Former England captain Wayne Rooney says Liverpool's top players are falling short - both in performance and body language - amid the club's poor run of form. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Wayne Rooney: Liverpool suffering lack of leadership amid bad run of form. https://www.bbc.com/sport/football/videos/c1d0nr51q9yo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog actually beat undisputed heavyweight champion?
-**Slug (lower-third):** Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog a…  
-**When:** 2025-10-27 01:00 (America/Winnipeg)  •  **Published:** 2025-10-27 06:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog actually beat undisputed heavyweight champion?. Fabio Wardley snatched victory from what looked to be impending defeat when he halted Joseph Parker in their 11th round; Winning Parkers WBO Interim title makes Wardley the next mandatory challenger for Oleksandr Usyk; Promoter Frank Warren is looking to make that fight in March of 2026 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog actually beat undisputed heavyweight champion?. https://www.skysports.com/boxing/news/12040/13458486/oleksandr-usyk-vs-fabio-wardley-could-ipswich-underdog-actually-beat-undisputed-heavyweight-champion
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
