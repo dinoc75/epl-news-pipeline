@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-27 01:35 (America/Winnipeg)  |  2025-10-27 06:35 (UTC)
+**Generated:** 2025-10-27 07:45 (America/Winnipeg)  |  2025-10-27 12:45 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~4m 37s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed Salah have not shown leadership during struggles
-- Wayne Rooney: Liverpool suffering lack of leadership amid bad run of form
-- Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog actually beat undisputed heavyweight champion?
+- Matty Cash signs new Aston Villa deal until 2029
+- Arsenal machine reminds me of Jose Mourinho's Chelsea, says Paul Merson as Gunners lead Premier League by four points
+- Ref Watch: Penalty decisions analysed from Brentford vs Liverpool
 
 ---
 
-### Injuries
+### Transfers
 
-## Story 1: Pat Cummins: Australia captain ruled out of first Ashes Test against England
-**Slug (lower-third):** Pat Cummins: Australia captain ruled out of first Ashes T…  
-**When:** 2025-10-26 17:51 (America/Winnipeg)  •  **Published:** 2025-10-26 22:51 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~22s
+## Story 1: Matty Cash signs new Aston Villa deal until 2029
+**Slug (lower-third):** Matty Cash signs new Aston Villa deal until 2029  
+**When:** 2025-10-27 07:40 (America/Winnipeg)  •  **Published:** 2025-10-27 12:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pat Cummins: Australia captain ruled out of first Ashes Test against England. Pat Cummins will be sidelined by injury for Australias first Ashes Test against England next month; lower back issue has ruled him out with Steve Smith replacing him as captain Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Matty Cash signs new Aston Villa deal until 2029. Aston Villa defender Matty Cash signs a new three-and-a-half year deal with the club. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,33 @@ Pat Cummins: Australia captain ruled out of first Ashes Test against England. Pa
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Pat Cummins: Australia captain ruled out of first Ashes Test against England. https://www.skysports.com/cricket/news/12040/13458559/pat-cummins-australia-captain-ruled-out-of-first-ashes-test-against-england
+- bbc.com — Matty Cash signs new Aston Villa deal until 2029. https://www.bbc.com/sport/football/articles/c1lqjz3v98lo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 2: Today on Sky Sports Racing: Bangor-on-Dee, Lingfield, Newcastle, Wolverhampton and Chantilly
+**Slug (lower-third):** Today on Sky Sports Racing: Bangor-on-Dee, Lingfield, New…  
+**When:** 2025-10-27 02:00 (America/Winnipeg)  •  **Published:** 2025-10-27 07:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Today on Sky Sports Racing: Bangor-on-Dee, Lingfield, Newcastle, Wolverhampton and Chantilly. In Mondays feature, Karl Burke looks for further two-year-old success as Half Sovereign makes the trip to Chantilly in pursuit of a first Group success. We also have action from Bangor-on-Dee, Lingfield, Newcastle and Wolverhampton, live on Sky Sports Racing from 11.35am Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Today on Sky Sports Racing: Bangor-on-Dee, Lingfield, Newcastle, Wolverhampton and Chantilly. https://www.skysports.com/racing/news/12040/13458087/today-on-sky-sports-racing-bangor-on-dee-lingfield-newcastle-wolverhampton-and-chantilly
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,10 +68,130 @@ Pat Cummins: Australia captain ruled out of first Ashes Test against England. Pa
 
 ### Club Updates
 
-## Story 2: Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed Salah have not shown leadership during struggles
+## Story 3: Arsenal machine reminds me of Jose Mourinho's Chelsea, says Paul Merson as Gunners lead Premier League by four points
+**Slug (lower-third):** Arsenal machine reminds me of Jose Mourinho's Chelsea, sa…  
+**When:** 2025-10-27 07:15 (America/Winnipeg)  •  **Published:** 2025-10-27 12:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Arsenal machine reminds me of Jose Mourinho's Chelsea, says Paul Merson as Gunners lead Premier League by four points. Paul Merson discusses some of the major talking points from the Premier League; he gives his view on Arsenals defensive prowess, Man Utds resurgence, Liverpools struggles, Bournemouth and Sunderland causing a stir and why some established Premier League clubs will be concerned Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal machine reminds me of Jose Mourinho's Chelsea, says Paul Merson as Gunners lead Premier League by four points. https://www.skysports.com/football/news/12040/13458756/arsenal-machine-reminds-me-of-jose-mourinhos-chelsea-says-paul-merson-as-gunners-lead-premier-league-by-four-points
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Ref Watch: Penalty decisions analysed from Brentford vs Liverpool
+**Slug (lower-third):** Ref Watch: Penalty decisions analysed from Brentford vs L…  
+**When:** 2025-10-27 04:44 (America/Winnipeg)  •  **Published:** 2025-10-27 09:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ref Watch: Penalty decisions analysed from Brentford vs Liverpool. On Ref Watch, Dermot Gallagher and Jay Bothroyd take a look at all the penalty shouts and decisions from Brentfords Premier League victory over Liverpool. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Ref Watch: Penalty decisions analysed from Brentford vs Liverpool. https://www.skysports.com/watch/video/13458691/ref-watch-penalty-decisions-analysed-from-brentford-vs-liverpool
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Ref Watch: Should VAR be able to intervene on corner decisions? Bournemouth capitalised on a decision that saw them score vs Forest
+**Slug (lower-third):** Ref Watch: Should VAR be able to intervene on corner deci…  
+**When:** 2025-10-27 04:42 (America/Winnipeg)  •  **Published:** 2025-10-27 09:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ref Watch: Should VAR be able to intervene on corner decisions? Bournemouth capitalised on a decision that saw them score vs Forest. Ref Watch analyse the moment Bournemouth were given a corner which came off Marcus Tavernier from which the hosts scored. Should VAR be able to intervene on initial decisions? Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Ref Watch: Should VAR be able to intervene on corner decisions? Bournemouth capitalised on a decision that saw them score vs Forest. https://www.skysports.com/watch/video/13458688/ref-watch-should-var-be-able-to-intervene-on-corner-decisions-bournemouth-capitalised-on-a-decision-that-saw-them-score-vs-forest
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Ref Watch: Should Aston Villa's goal vs Manchester City have stood?
+**Slug (lower-third):** Ref Watch: Should Aston Villa's goal vs Manchester City h…  
+**When:** 2025-10-27 04:40 (America/Winnipeg)  •  **Published:** 2025-10-27 09:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Ref Watch: Should Aston Villa's goal vs Manchester City have stood?. Ref Watch takes a closer look at the incident that led to Aston Villas corner from which they scored their winning goals against Manchester City - but was it actually a foul? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Ref Watch: Should Aston Villa's goal vs Manchester City have stood?. https://www.skysports.com/watch/video/13458687/ref-watch-should-aston-villas-goal-vs-manchester-city-have-stood
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Premier League: 10 talking points from the weekend's action
+**Slug (lower-third):** Premier League: 10 talking points from the weekend's acti…  
+**When:** 2025-10-27 03:00 (America/Winnipeg)  •  **Published:** 2025-10-27 08:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: 10 talking points from the weekend's action. Arsenal's title tilt is built on solid defence, Chelsea miss Cole Palmer and what happened to clampdown on shirt-pulling? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League: 10 talking points from the weekend's action. https://www.theguardian.com/football/2025/oct/27/premier-league-10-talking-points-from-the-weekends-action
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed Salah have not shown leadership during struggles
 **Slug (lower-third):** Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed …  
 **When:** 2025-10-27 01:19 (America/Winnipeg)  •  **Published:** 2025-10-27 06:19 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed Salah have not shown leadership during struggles. Former Manchester United captain Wayne Rooney believes Liverpool are struggling this season due to a lack of leadership from senior players like Virgil van Dijk and Mohamed Salah. Relevance to standings and momentum.
@@ -66,10 +212,10 @@ Liverpool: Wayne Rooney says Virgil van Dijk and Mohamed Salah have not shown le
 
 ---
 
-## Story 3: Wayne Rooney: Liverpool suffering lack of leadership amid bad run of form
+## Story 9: Wayne Rooney: Liverpool suffering lack of leadership amid bad run of form
 **Slug (lower-third):** Wayne Rooney: Liverpool suffering lack of leadership amid…  
 **When:** 2025-10-27 01:19 (America/Winnipeg)  •  **Published:** 2025-10-27 06:19 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Wayne Rooney: Liverpool suffering lack of leadership amid bad run of form. Former England captain Wayne Rooney says Liverpool's top players are falling short - both in performance and body language - amid the club's poor run of form. Relevance to standings and momentum.
@@ -90,10 +236,10 @@ Wayne Rooney: Liverpool suffering lack of leadership amid bad run of form. Forme
 
 ---
 
-## Story 4: Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog actually beat undisputed heavyweight champion?
+## Story 10: Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog actually beat undisputed heavyweight champion?
 **Slug (lower-third):** Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog a…  
 **When:** 2025-10-27 01:00 (America/Winnipeg)  •  **Published:** 2025-10-27 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+**Virality score:** 96  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
 Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog actually beat undisputed heavyweight champion?. Fabio Wardley snatched victory from what looked to be impending defeat when he halted Joseph Parker in their 11th round; Winning Parkers WBO Interim title makes Wardley the next mandatory challenger for Oleksandr Usyk; Promoter Frank Warren is looking to make that fight in March of 2026 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -106,150 +252,6 @@ Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog actually beat undisputed
 
 ### Sources
 - skysports.com — Oleksandr Usyk vs Fabio Wardley: Could Ipswich underdog actually beat undisputed heavyweight champion?. https://www.skysports.com/boxing/news/12040/13458486/oleksandr-usyk-vs-fabio-wardley-could-ipswich-underdog-actually-beat-undisputed-heavyweight-champion
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Match of the Day: Arsenal set-piece analysis
-**Slug (lower-third):** Match of the Day: Arsenal set-piece analysis  
-**When:** 2025-10-26 19:01 (America/Winnipeg)  •  **Published:** 2025-10-27 00:01 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Match of the Day: Arsenal set-piece analysis. Match of the Day pundit Theo Walcott says Arsenal's quality and consistency with their set-pieces has enabled them to be so dominant. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Match of the Day: Arsenal set-piece analysis. https://www.bbc.com/sport/football/videos/c0expg3r2x3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Danny Murphy column: 'The Thomas Frank effect' - but is there more to come from Spurs?
-**Slug (lower-third):** Danny Murphy column: 'The Thomas Frank effect' - but is t…  
-**When:** 2025-10-26 18:15 (America/Winnipeg)  •  **Published:** 2025-10-26 23:15 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Danny Murphy column: 'The Thomas Frank effect' - but is there more to come from Spurs?. MOTD pundit Danny Murphy explains why Tottenham's attack will evolve under Thomas Frank, and how he has already fixed their defensive issues. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Danny Murphy column: 'The Thomas Frank effect' - but is there more to come from Spurs?. https://www.bbc.com/sport/football/articles/c803pvy4x53o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Premier League highlights: Arsenal 1-0 Crystal Palace -Match of the Day
-**Slug (lower-third):** Premier League highlights: Arsenal 1-0 Crystal Palace -Ma…  
-**When:** 2025-10-26 14:59 (America/Winnipeg)  •  **Published:** 2025-10-26 19:59 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Arsenal 1-0 Crystal Palace -Match of the Day. Eberechi Eze scores against his former club as Arsenal beat Crystal Palace 1-0 and extend their lead at the top of the Premier League table to four points. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Arsenal 1-0 Crystal Palace -Match of the Day. https://www.bbc.com/sport/football/videos/c0qp8zgz2ejo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Troy Deeney's team of the week: Micky van de Ven, Granit Xhaka, Bryan Mbeumo, Wilson Isidor, Zian Flemming
-**Slug (lower-third):** Troy Deeney's team of the week: Micky van de Ven, Granit …  
-**When:** 2025-10-26 15:38 (America/Winnipeg)  •  **Published:** 2025-10-26 20:38 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Troy Deeney's team of the week: Micky van de Ven, Granit Xhaka, Bryan Mbeumo, Wilson Isidor, Zian Flemming. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Troy Deeney's team of the week: Micky van de Ven, Granit Xhaka, Bryan Mbeumo, Wilson Isidor, Zian Flemming. https://www.bbc.com/sport/football/articles/cx27j5lj0j0o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League highlights: Everton 0-3 Tottenham Hotspur - Match of the Day
-**Slug (lower-third):** Premier League highlights: Everton 0-3 Tottenham Hotspur …  
-**When:** 2025-10-26 14:59 (America/Winnipeg)  •  **Published:** 2025-10-26 19:59 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Everton 0-3 Tottenham Hotspur - Match of the Day. Tottenham inflict Everton's first defeat at their new Hill Dickinson Stadium as they win 3-0 with two goals from Micky van de Ven and a late header from substitue Pape Matar Sarr. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Everton 0-3 Tottenham Hotspur - Match of the Day. https://www.bbc.com/sport/football/videos/c8dr6j1ml0no?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Match of the Day highlights: Wolverhampton Wanderers 2-3 Burnley
-**Slug (lower-third):** Match of the Day highlights: Wolverhampton Wanderers 2-3 …  
-**When:** 2025-10-26 14:59 (America/Winnipeg)  •  **Published:** 2025-10-26 19:59 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Match of the Day highlights: Wolverhampton Wanderers 2-3 Burnley. Wolves remain winless in the Premier League as Lyle Foster scores in the 95th minute for Burnley to win 3-2 at Molineux. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Match of the Day highlights: Wolverhampton Wanderers 2-3 Burnley. https://www.bbc.com/sport/football/videos/c1wlpn3jgrvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
