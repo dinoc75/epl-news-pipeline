@@ -1,14 +1,2 @@
-resp_05734c9d61a00ffa006901b5ba66808193b0a321984dcf95e3
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_05734c9d61a00ffa006901b5bb57488193981af2b8ea97159e
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Good morning — I’m [Presenter Name]. Today’s Pitch Points looks at Graham Ruthven’s three-question column, published 29 October 2025 (05:00 local). Ruthven asks whether long throws are genuinely changing tactics in modern football — a trend highlighted across competitions from the Premier League to the Scottish Premiership — and whether Liverpool’s Premier League title defence is already in jeopardy. The piece circles Hearts and Celtic in the Scottish Premiership as part of the debate, but specifics on which teams or
