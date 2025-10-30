@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-10-29 13:32 (America/Winnipeg)  |  2025-10-29 18:32 (UTC)
+**Generated:** 2025-10-29 20:44 (America/Winnipeg)  |  2025-10-30 01:44 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 35s
+**Estimated total video length:** ~4m 32s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Real Madrid seeking 'substantial damages' from UEFA over European Super League after Madrid court ruling
-- Stopping Reece Walsh: England have to target the enigma as they look to keep Ashes series against Australia alive
-- How Arsenal are trying to improve the atmosphere at Emirates Stadium
+- Arne Slot: Liverpool boss 'making excuses' but should he have rested key players?
+- Max Dowman: Arsenal have 'something special' as 15-year-old makes history
+- Wolves 3-4 Chelsea: Enzo Maresca says 'very stupid' red cards this season are 'embarrassing'
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Tony Pulis's Stoke inspired Premier League set-piece focus, says Guardiola
-**Slug (lower-third):** Tony Pulis's Stoke inspired Premier League set-piece focu…  
-**When:** 2025-10-28 17:30 (America/Winnipeg)  •  **Published:** 2025-10-28 22:30 (UTC)  
-**Virality score:** 75  •  **Estimated runtime:** ~20s
+## Story 1: Max Dowman: Arsenal have 'something special' as 15-year-old makes history
+**Slug (lower-third):** Max Dowman: Arsenal have 'something special' as 15-year-o…  
+**When:** 2025-10-29 19:07 (America/Winnipeg)  •  **Published:** 2025-10-30 00:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tony Pulis's Stoke inspired Premier League set-piece focus, says Guardiola. The Manchester City head coach said before the Carabao Cup trip to Swansea: 'Do you remember Stoke when they made the throws? Now more teams do that' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Max Dowman: Arsenal have 'something special' as 15-year-old makes history. Another day, another record for 15-year-old Max Dowman. But Arsenal's teenage prodigy is taking everything in his stride, according to his manager Mikel Arteta. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,24 +31,22 @@ Tony Pulis's Stoke inspired Premier League set-piece focus, says Guardiola. The 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Tony Pulis's Stoke inspired Premier League set-piece focus, says Guardiola. https://www.theguardian.com/football/2025/oct/28/tony-pulis-stoke-pep-guardiola-premier-league-set-piece-focus-swansea-manchester-city-carabao-cup
+- bbc.com — Max Dowman: Arsenal have 'something special' as 15-year-old makes history. https://www.bbc.com/sport/football/articles/cy8v5xexgnyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### Transfers
-
-## Story 2: Swansea's Ethan Galbraith resumes battle with Manchester City: 'It feels like they never miss a pass'
-**Slug (lower-third):** Swansea's Ethan Galbraith resumes battle with Manchester …  
-**When:** 2025-10-29 03:00 (America/Winnipeg)  •  **Published:** 2025-10-29 08:00 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+## Story 2: Wolves 3-4 Chelsea: Enzo Maresca says 'very stupid' red cards this season are 'embarrassing'
+**Slug (lower-third):** Wolves 3-4 Chelsea: Enzo Maresca says 'very stupid' red c…  
+**When:** 2025-10-29 18:52 (America/Winnipeg)  •  **Published:** 2025-10-29 23:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Swansea's Ethan Galbraith resumes battle with Manchester City: 'It feels like they never miss a pass'. The midfielder reflects on lessons learned before the reunion with the club he ran close in the FA Cup with Leyton Orient Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Wolves 3-4 Chelsea: Enzo Maresca says 'very stupid' red cards this season are 'embarrassing'. Chelsea manager Enzo Maresca fumes after his side get their sixth red card in nine matches despite a 4-3 win away at Wolves in the EFL Cup. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,59 @@ Swansea's Ethan Galbraith resumes battle with Manchester City: 'It feels like th
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Swansea's Ethan Galbraith resumes battle with Manchester City: 'It feels like they never miss a pass'. https://www.theguardian.com/football/2025/oct/29/swansea-ethan-galbraith-manchester-city-carabao-cup
+- bbc.com — Wolves 3-4 Chelsea: Enzo Maresca says 'very stupid' red cards this season are 'embarrassing'. https://www.bbc.com/sport/football/articles/cy9p87y4px5o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Vinicius Junior transfer news: Real Madrid star wants to leave the club and interested in PSG move - Paper talk and football gossip
+**Slug (lower-third):** Vinicius Junior transfer news: Real Madrid star wants to …  
+**When:** 2025-10-29 18:00 (America/Winnipeg)  •  **Published:** 2025-10-29 23:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~32s
+
+### Presenter Script (3–5 sentences)
+Vinicius Junior transfer news: Real Madrid star wants to leave the club and interested in PSG move - Paper talk and football gossip. Latest from Thursdays newspapers as West Ham put a PS60m price-tag on Lucas Paqueta; Ange Postecoglou has ruled out a return to Celtic and will take a break from football; Kevin De Bruyne has picked up a thigh injury which could sideline him for the 2026 World Cup Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Vinicius Junior transfer news: Real Madrid star wants to leave the club and interested in PSG move - Paper talk and football gossip. https://www.skysports.com/football/news/12040/13460082/ange-postecoglou-rules-out-celtic-return-and-eyes-break-from-football-after-nottingham-forest-sacking-paper-talk-and-football-gossip
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 4: Arne Slot: Liverpool boss 'making excuses' but should he have rested key players?
+**Slug (lower-third):** Arne Slot: Liverpool boss 'making excuses' but should he …  
+**When:** 2025-10-29 19:14 (America/Winnipeg)  •  **Published:** 2025-10-30 00:14 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arne Slot: Liverpool boss 'making excuses' but should he have rested key players?. Winning the Premier League in his first season, Arne Slot has not got much wrong since taking charge of Liverpool. But even he may have been surprised at how much his team selection backfired against Crystal Palace. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arne Slot: Liverpool boss 'making excuses' but should he have rested key players?. https://www.bbc.com/sport/football/articles/cx2l7n0ppkzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +118,13 @@ Swansea's Ethan Galbraith resumes battle with Manchester City: 'It feels like th
 
 ### Club Updates
 
-## Story 3: Real Madrid seeking 'substantial damages' from UEFA over European Super League after Madrid court ruling
-**Slug (lower-third):** Real Madrid seeking 'substantial damages' from UEFA over …  
-**When:** 2025-10-29 09:45 (America/Winnipeg)  •  **Published:** 2025-10-29 14:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 5: Football gossip: Zirkzee, Ake, Salah, Bowen, Endrick, Neymar
+**Slug (lower-third):** Football gossip: Zirkzee, Ake, Salah, Bowen, Endrick, Ney…  
+**When:** 2025-10-29 18:27 (America/Winnipeg)  •  **Published:** 2025-10-29 23:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Real Madrid seeking 'substantial damages' from UEFA over European Super League after Madrid court ruling. UEFA insists the ruling by the Provincial Court of Madrid does not validate the European Super League which collapsed within 72 hours of 12 clubs launching the breakaway competition in April 2021 after the Premier Leagues Big Six pulled out under pressure from fans Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Zirkzee, Ake, Salah, Bowen, Endrick, Neymar. Roma interested in Joshua Zirkzee, Crystal Palace considering Nathan Ake move and Saudi Pro League still wants Mohamed Salah. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +133,7 @@ Real Madrid seeking 'substantial damages' from UEFA over European Super League a
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Real Madrid seeking 'substantial damages' from UEFA over European Super League after Madrid court ruling. https://www.skysports.com/football/news/12040/13459908/real-madrid-seeking-substantial-damages-from-uefa-over-european-super-league-after-madrid-court-ruling
+- bbc.com — Football gossip: Zirkzee, Ake, Salah, Bowen, Endrick, Neymar. https://www.bbc.com/sport/football/articles/c364jdr28k3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +142,13 @@ Real Madrid seeking 'substantial damages' from UEFA over European Super League a
 
 ---
 
-## Story 4: Stopping Reece Walsh: England have to target the enigma as they look to keep Ashes series against Australia alive
-**Slug (lower-third):** Stopping Reece Walsh: England have to target the enigma a…  
-**When:** 2025-10-29 08:20 (America/Winnipeg)  •  **Published:** 2025-10-29 13:20 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~28s
+## Story 6: League Cup draw: Newcastle v Fulham, Cardiff v Chelsea, Arsenal v Crystal Palace
+**Slug (lower-third):** League Cup draw: Newcastle v Fulham, Cardiff v Chelsea, A…  
+**When:** 2025-10-29 17:43 (America/Winnipeg)  •  **Published:** 2025-10-29 22:43 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Stopping Reece Walsh: England have to target the enigma as they look to keep Ashes series against Australia alive. Reece Walsh was the stand-out star for Australia on his debut for the National side at Wembley in the opening Ashes Test; Second Test takes place at Evertons Hill-Dickinson Stadium on Saturday November 1, with kick-off at 2:30pm; Kangaroos 1-0 up in three-Test series Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+League Cup draw: Newcastle v Fulham, Cardiff v Chelsea, Arsenal v Crystal Palace. Newcastle draw Fulham in the Carabao Cup quarter-finals, while League One side Cardiff City host Chelsea. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +157,8 @@ Stopping Reece Walsh: England have to target the enigma as they look to keep Ash
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Stopping Reece Walsh: England have to target the enigma as they look to keep Ashes series against Australia alive. https://www.skysports.com/rugby-league/news/12040/13459974/stopping-reece-walsh-england-have-to-target-the-enigma-as-they-look-to-keep-ashes-series-against-australia-alive
+- bbc.com — League Cup draw: Newcastle v Fulham, Cardiff v Chelsea, Arsenal v Crystal Palace. https://www.bbc.com/sport/football/articles/cy8vj865dqxo?at_medium=RSS&at_campaign=rss
+- skysports.com — Carabao Cup quarter-final draw: Newcastle at home to Fulham, Arsenal host Crystal Palace, Cardiff play Chelsea as Man City draw Brentford. https://www.skysports.com/football/news/12040/13460072/carabao-cup-quarter-final-draw-newcastle-at-home-to-fulham-arsenal-host-crystal-palace-cardiff-play-chelsea-as-man-city-draw-brentford
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +167,13 @@ Stopping Reece Walsh: England have to target the enigma as they look to keep Ash
 
 ---
 
-## Story 5: How Arsenal are trying to improve the atmosphere at Emirates Stadium
-**Slug (lower-third):** How Arsenal are trying to improve the atmosphere at Emira…  
-**When:** 2025-10-29 05:49 (America/Winnipeg)  •  **Published:** 2025-10-29 10:49 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 7: Wolves 3-4 Chelsea | Carabao Cup Highlights
+**Slug (lower-third):** Wolves 3-4 Chelsea | Carabao Cup Highlights  
+**When:** 2025-10-29 17:24 (America/Winnipeg)  •  **Published:** 2025-10-29 22:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-How Arsenal are trying to improve the atmosphere at Emirates Stadium. Arsenal are enjoying an excellent start to the season but concerns remain about the atmosphere at Emirates Stadium. So what are they doing about it? Relevance to standings and momentum.
+Wolves 3-4 Chelsea | Carabao Cup Highlights. Highlights of the fourth-round Carabao Cup match between Wolves and Chelsea. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +182,7 @@ How Arsenal are trying to improve the atmosphere at Emirates Stadium. Arsenal ar
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — How Arsenal are trying to improve the atmosphere at Emirates Stadium. https://www.bbc.com/sport/football/articles/cpv10x9wekwo?at_medium=RSS&at_campaign=rss
+- skysports.com — Wolves 3-4 Chelsea | Carabao Cup Highlights. https://www.skysports.com/watch/video/13460434/wolves-3-4-chelsea-carabao-cup-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +191,13 @@ How Arsenal are trying to improve the atmosphere at Emirates Stadium. Arsenal ar
 
 ---
 
-## Story 6: Pitch Points: Are long throws changing soccer, and is Liverpool's title defence over?
-**Slug (lower-third):** Pitch Points: Are long throws changing soccer, and is Liv…  
-**When:** 2025-10-29 05:00 (America/Winnipeg)  •  **Published:** 2025-10-29 10:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 8: Newcastle United 2-0 Tottenham Hotspur | Carabao Cup highlights
+**Slug (lower-third):** Newcastle United 2-0 Tottenham Hotspur | Carabao Cup high…  
+**When:** 2025-10-29 17:04 (America/Winnipeg)  •  **Published:** 2025-10-29 22:04 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pitch Points: Are long throws changing soccer, and is Liverpool's title defence over?. The world of soccer throws up no shortage of questions on a regular basis. In today's column, Graham Ruthven endeavors to answer three of them Relevance to standings and momentum.
+Newcastle United 2-0 Tottenham Hotspur | Carabao Cup highlights. Highlights of the Carabao Cup fourth round match between Newcastle United and Tottenham Hotspur. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +206,7 @@ Pitch Points: Are long throws changing soccer, and is Liverpool's title defence 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Pitch Points: Are long throws changing soccer, and is Liverpool's title defence over?. https://www.theguardian.com/football/2025/oct/29/pitch-points-long-throws-liverpool-premier-league-hearts-celtic-scottish-premiership
+- skysports.com — Newcastle United 2-0 Tottenham Hotspur | Carabao Cup highlights. https://www.skysports.com/watch/video/13460395/newcastle-united-2-0-tottenham-hotspur-carabao-cup-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +215,13 @@ Pitch Points: Are long throws changing soccer, and is Liverpool's title defence 
 
 ---
 
-## Story 7: Football gossip: Paqueta, McTominay, Mainoo, Rodri, Ter Stegen, Rogers
-**Slug (lower-third):** Football gossip: Paqueta, McTominay, Mainoo, Rodri, Ter S…  
-**When:** 2025-10-28 17:32 (America/Winnipeg)  •  **Published:** 2025-10-28 22:32 (UTC)  
-**Virality score:** 76  •  **Estimated runtime:** ~20s
+## Story 9: Swansea City 1-3 Manchester City | Carabao Cup Highlights
+**Slug (lower-third):** Swansea City 1-3 Manchester City | Carabao Cup Highlights  
+**When:** 2025-10-29 16:52 (America/Winnipeg)  •  **Published:** 2025-10-29 21:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Paqueta, McTominay, Mainoo, Rodri, Ter Stegen, Rogers. Lucas Paqueta wants to leave West Ham, Tottenham are keen on Scott McTominay, Napoli will make another attempt to sign Kobbie Mainoo, plus more. Relevance to standings and momentum.
+Swansea City 1-3 Manchester City | Carabao Cup Highlights. Highlights from the fourth round Carabao Cup clash between Swansea City and Manchester City. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,22 +230,22 @@ Football gossip: Paqueta, McTominay, Mainoo, Rodri, Ter Stegen, Rogers. Lucas Pa
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Paqueta, McTominay, Mainoo, Rodri, Ter Stegen, Rogers. https://www.bbc.com/sport/football/articles/c397dv3mv41o?at_medium=RSS&at_campaign=rss
+- skysports.com — Swansea City 1-3 Manchester City | Carabao Cup Highlights. https://www.skysports.com/watch/video/13460381/swansea-city-1-3-manchester-city-carabao-cup-highlights
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 8: Federico Chiesa backs Liverpool to deal with any long-ball threat in Palace test
-**Slug (lower-third):** Federico Chiesa backs Liverpool to deal with any long-bal…  
-**When:** 2025-10-28 17:30 (America/Winnipeg)  •  **Published:** 2025-10-28 22:30 (UTC)  
-**Virality score:** 75  •  **Estimated runtime:** ~20s
+## Story 10: Woltemade hot streak continues as Newcastle rise high to knock out Spurs
+**Slug (lower-third):** Woltemade hot streak continues as Newcastle rise high to …  
+**When:** 2025-10-29 17:00 (America/Winnipeg)  •  **Published:** 2025-10-29 22:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Federico Chiesa backs Liverpool to deal with any long-ball threat in Palace test. The forward said of Liverpool's troubles before the Carabao Cup tie against Crystal Palace: 'We have players that are world class ... so I don't see any problem' Relevance to standings and momentum.
+Woltemade hot streak continues as Newcastle rise high to knock out Spurs. Headers from Fabian Schar and Nick Woltemade gave Newcastle a 2-0 victory against Tottenham and a place in the Carabao Cup quarter-finals Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,58 +254,10 @@ Federico Chiesa backs Liverpool to deal with any long-ball threat in Palace test
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Federico Chiesa backs Liverpool to deal with any long-ball threat in Palace test. https://www.theguardian.com/football/2025/oct/28/federico-chiesa-liverpool-crystal-palace-carabao-cup-fourth-round
+- theguardian.com — Woltemade hot streak continues as Newcastle rise high to knock out Spurs. https://www.theguardian.com/football/2025/oct/29/newcastle-tottenham-carabao-cup-fourth-round-match-report
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Mikel Arteta may fill Arsenal's attacking gaps with 15-year-old Max Dowman
-**Slug (lower-third):** Mikel Arteta may fill Arsenal's attacking gaps with 15-ye…  
-**When:** 2025-10-28 17:30 (America/Winnipeg)  •  **Published:** 2025-10-28 22:30 (UTC)  
-**Virality score:** 75  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Mikel Arteta may fill Arsenal's attacking gaps with 15-year-old Max Dowman. The teenager could be picked to face Brighton in Carabao Cup while Jesus, Havertz, Martinelli, Madueke and Saliba are all to miss out Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Mikel Arteta may fill Arsenal's attacking gaps with 15-year-old Max Dowman. https://www.theguardian.com/football/2025/oct/28/mikel-arteta-arsenal-max-dowman-brighton-carabao-cup
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Collins caps five-star Brentford's Carabao Cup cruise against Grimsby
-**Slug (lower-third):** Collins caps five-star Brentford's Carabao Cup cruise aga…  
-**When:** 2025-10-28 16:48 (America/Winnipeg)  •  **Published:** 2025-10-28 21:48 (UTC)  
-**Virality score:** 74  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Collins caps five-star Brentford's Carabao Cup cruise against Grimsby. Mathias Jensen, Keane Lewis-Potter, Reiss Nelson and Fabio Carvalho were also on target in Brentford's 5-0 fourth-round Carabao Cup win at League Two Grimsby Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Collins caps five-star Brentford's Carabao Cup cruise against Grimsby. https://www.theguardian.com/football/2025/oct/28/grimsby-brentford-carabao-cup-fourth-round-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
