@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-01 07:38 (America/Winnipeg)  |  2025-11-01 12:38 (UTC)
+**Generated:** 2025-11-01 13:27 (America/Winnipeg)  |  2025-11-01 18:27 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 21s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- West Ham are a shambles - and Nuno shows little sign of being able to fix it | Jacob Steinberg
-- Former Aberdeen and Arsenal footballer Willie Young dies age 73
-- Newcastle: Eddie Howe chats chasing win away from St James' Park
+- Premier League: Burnley - Arsenal highlights
+- Burnley 0-2 Arsenal: Mikel Arteta post-match reaction
+- WSL: Chelsea 2-0 London City Lionesses highlights
 
 ---
 
-### League & Regulation
+### Managerial Moves
 
-## Story 1: Reasons to be cheerful at last? Ruben Amorim's year in charge at Man Utd
-**Slug (lower-third):** Reasons to be cheerful at last? Ruben Amorim's year in ch…  
-**When:** 2025-10-31 17:30 (America/Winnipeg)  •  **Published:** 2025-10-31 22:30 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 1: Championship: managers under fire as Norwich, Leicester and Saints slump
+**Slug (lower-third):** Championship: managers under fire as Norwich, Leicester a…  
+**When:** 2025-11-01 12:41 (America/Winnipeg)  •  **Published:** 2025-11-01 17:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Reasons to be cheerful at last? Ruben Amorim's year in charge at Man Utd. As Ruben Amorim reaches his first anniversary as Manchester United boss, there are finally reasons to be cheerful for the club. Relevance to standings and momentum.
+Championship: managers under fire as Norwich, Leicester and Saints slump. Liam Manning apologised after a 2-0 defeat to Hull condemned his Norwich side to a seventh straight home defeat of the season at Carrow Road Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Reasons to be cheerful at last? Ruben Amorim's year in charge at Man Utd. As Rub
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Reasons to be cheerful at last? Ruben Amorim's year in charge at Man Utd. https://www.bbc.com/sport/football/articles/cx2d0392kz3o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Championship: managers under fire as Norwich, Leicester and Saints slump. https://www.theguardian.com/football/2025/nov/01/championship-roundup-hull-extend-unbeaten-run-leicester-woes-go-on
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,13 @@ Reasons to be cheerful at last? Ruben Amorim's year in charge at Man Utd. As Rub
 
 ### Club Updates
 
-## Story 2: West Ham are a shambles - and Nuno shows little sign of being able to fix it | Jacob Steinberg
-**Slug (lower-third):** West Ham are a shambles - and Nuno shows little sign of b…  
-**When:** 2025-11-01 07:00 (America/Winnipeg)  •  **Published:** 2025-11-01 12:00 (UTC)  
+## Story 2: Premier League: Burnley - Arsenal highlights
+**Slug (lower-third):** Premier League: Burnley - Arsenal highlights  
+**When:** 2025-11-01 13:22 (America/Winnipeg)  •  **Published:** 2025-11-01 18:22 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham are a shambles - and Nuno shows little sign of being able to fix it | Jacob Steinberg. One point in four games and strange selections mean the Hammers are staring at the Championship unless something changes soon Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: Burnley - Arsenal highlights. Burnley boss Scott Parkeris full of praise for the "brilliant" display his side put in during the second half of their 2-0 defeat against Premier League leaders Arsenal at Turf Moor. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,8 @@ West Ham are a shambles - and Nuno shows little sign of being able to fix it | J
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — West Ham are a shambles - and Nuno shows little sign of being able to fix it | Jacob Steinberg. https://www.theguardian.com/football/2025/nov/01/west-ham-shambles-nuno-shows-little-sign-able-to-fix-it
+- bbc.com — Premier League: Burnley - Arsenal highlights. https://www.bbc.com/sport/football/videos/c6200rkyxdzo?at_medium=RSS&at_campaign=rss
+- skysports.com — Burnley 0-2 Arsenal: Goals from Viktor Gyokeres and Declan Rice extend Gunners lead at top of Premier League. https://www.skysports.com/football/burnley-vs-arsenal/report/531220
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +67,13 @@ West Ham are a shambles - and Nuno shows little sign of being able to fix it | J
 
 ---
 
-## Story 3: Former Aberdeen and Arsenal footballer Willie Young dies age 73
-**Slug (lower-third):** Former Aberdeen and Arsenal footballer Willie Young dies …  
-**When:** 2025-11-01 06:37 (America/Winnipeg)  •  **Published:** 2025-11-01 11:37 (UTC)  
+## Story 3: Burnley 0-2 Arsenal: Mikel Arteta post-match reaction
+**Slug (lower-third):** Burnley 0-2 Arsenal: Mikel Arteta post-match reaction  
+**When:** 2025-11-01 13:08 (America/Winnipeg)  •  **Published:** 2025-11-01 18:08 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Former Aberdeen and Arsenal footballer Willie Young dies age 73. The defender played for Aberdeen, Arsenal and Tottenham Hotspur but is best remembered for a cynical foul which changed the laws of the game. Relevance to standings and momentum.
+Burnley 0-2 Arsenal: Mikel Arteta post-match reaction. Arsenal boss Mikel Arteta is full of praise for his side's defensive display in their 2-0 win against Burnley at Turf Moor. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +82,7 @@ Former Aberdeen and Arsenal footballer Willie Young dies age 73. The defender pl
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Former Aberdeen and Arsenal footballer Willie Young dies age 73. https://www.bbc.com/news/articles/c9d666e12l5o?at_medium=RSS&at_campaign=rss
+- bbc.com — Burnley 0-2 Arsenal: Mikel Arteta post-match reaction. https://www.bbc.com/sport/football/videos/cge55z7r1qno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +91,13 @@ Former Aberdeen and Arsenal footballer Willie Young dies age 73. The defender pl
 
 ---
 
-## Story 4: Newcastle: Eddie Howe chats chasing win away from St James' Park
-**Slug (lower-third):** Newcastle: Eddie Howe chats chasing win away from St Jame…  
-**When:** 2025-11-01 05:48 (America/Winnipeg)  •  **Published:** 2025-11-01 10:48 (UTC)  
+## Story 4: WSL: Chelsea 2-0 London City Lionesses highlights
+**Slug (lower-third):** WSL: Chelsea 2-0 London City Lionesses highlights  
+**When:** 2025-11-01 13:00 (America/Winnipeg)  •  **Published:** 2025-11-01 18:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle: Eddie Howe chats chasing win away from St James' Park. Eddie Howe told Sky Sports how well his summer signings have settled in, meeting a familiar face in their West Ham clash and reflecting on the week thats just gone. Relevance to standings and momentum.
+WSL: Chelsea 2-0 London City Lionesses highlights. Chelsea maintain their unbeaten start in the Women's Super League with a 2-0 victory over London City Lionesses with an early goal from summer signing Ellie Carpenter and substitute Sam Kerr scoring late on. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +106,8 @@ Newcastle: Eddie Howe chats chasing win away from St James' Park. Eddie Howe tol
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Newcastle: Eddie Howe chats chasing win away from St James' Park. https://www.skysports.com/watch/video/13461651/newcastle-eddie-howe-chats-chasing-win-away-from-st-james-park
+- bbc.com — WSL: Chelsea 2-0 London City Lionesses highlights. https://www.bbc.com/sport/football/videos/c93ddw3kz9go?at_medium=RSS&at_campaign=rss
+- skysports.com — Chelsea Women 2-0 London City Lionesses: Sam Kerr and Ellie Carpenter on target as Blues edge new London derby in WSL. https://www.skysports.com/football/chelsea-women-vs-london-city-lionesses/report/545642
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +116,13 @@ Newcastle: Eddie Howe chats chasing win away from St James' Park. Eddie Howe tol
 
 ---
 
-## Story 5: Aston Villa v Liverpool quiz: Can you name line-ups from Villa's 7-2 win in 2020?
-**Slug (lower-third):** Aston Villa v Liverpool quiz: Can you name line-ups from …  
-**When:** 2025-11-01 02:56 (America/Winnipeg)  •  **Published:** 2025-11-01 07:56 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 5: Nottingham Forest 2-2 Manchester United: Ruben Amorim post-match interview
+**Slug (lower-third):** Nottingham Forest 2-2 Manchester United: Ruben Amorim pos…  
+**When:** 2025-11-01 12:56 (America/Winnipeg)  •  **Published:** 2025-11-01 17:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa v Liverpool quiz: Can you name line-ups from Villa's 7-2 win in 2020?. Aston Villa and Liverpool meet at Anfield on Saturday, but can you name the line-ups from Villa's shock 7-2 win in 2020? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Nottingham Forest 2-2 Manchester United: Ruben Amorim post-match interview. Manchester United boss Ruben Amorim says his side were punished after they "lost control" of the game for five minutes but pleased they were able to fight back and claim a 2-2 draw away at Nottingham Forest. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +131,7 @@ Aston Villa v Liverpool quiz: Can you name line-ups from Villa's 7-2 win in 2020
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa v Liverpool quiz: Can you name line-ups from Villa's 7-2 win in 2020?. https://www.bbc.com/sport/football/articles/c3rj4e175rjo?at_medium=RSS&at_campaign=rss
+- bbc.com — Nottingham Forest 2-2 Manchester United: Ruben Amorim post-match interview. https://www.bbc.com/sport/football/videos/clyzzm8rv13o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +140,13 @@ Aston Villa v Liverpool quiz: Can you name line-ups from Villa's 7-2 win in 2020
 
 ---
 
-## Story 6: 'I went for it, put my ego aside': Robin van Persie on coaching, Wenger and horses
-**Slug (lower-third):** 'I went for it, put my ego aside': Robin van Persie on co…  
-**When:** 2025-11-01 03:00 (America/Winnipeg)  •  **Published:** 2025-11-01 08:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~21s
+## Story 6: Nottingham Forest 2-2 Manchester United: Sean Dyche post-match reaction
+**Slug (lower-third):** Nottingham Forest 2-2 Manchester United: Sean Dyche post-…  
+**When:** 2025-11-01 12:55 (America/Winnipeg)  •  **Published:** 2025-11-01 17:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'I went for it, put my ego aside': Robin van Persie on coaching, Wenger and horses. Feyenoord coach tells Rob Draper about how a chat with his daughter changed his life, memories of Arsenal and Manchester United and a lunch with Pep Guardiola Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Nottingham Forest 2-2 Manchester United: Sean Dyche post-match reaction. Nottingham Forest boss Sean Dyche is proud of his side's performance in their 2-2 draw against Manchester United in the Premier League at the City Ground. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +155,7 @@ Aston Villa v Liverpool quiz: Can you name line-ups from Villa's 7-2 win in 2020
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'I went for it, put my ego aside': Robin van Persie on coaching, Wenger and horses. https://www.theguardian.com/football/2025/nov/01/robin-van-persie-feyenoord-arsenal-manchester-united-pep-guardiola
+- bbc.com — Nottingham Forest 2-2 Manchester United: Sean Dyche post-match reaction. https://www.bbc.com/sport/football/videos/c24llg9m02lo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +164,13 @@ Aston Villa v Liverpool quiz: Can you name line-ups from Villa's 7-2 win in 2020
 
 ---
 
-## Story 7: Unai Emery: Aston Villa go "from black and white to full colour" in three years
-**Slug (lower-third):** Unai Emery: Aston Villa go "from black and white to full …  
-**When:** 2025-11-01 02:38 (America/Winnipeg)  •  **Published:** 2025-11-01 07:38 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 7: Nottingham Forest: Sean Dyche calls for VAR changes after Man Utd score controversial goal
+**Slug (lower-third):** Nottingham Forest: Sean Dyche calls for VAR changes after…  
+**When:** 2025-11-01 12:32 (America/Winnipeg)  •  **Published:** 2025-11-01 17:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Unai Emery: Aston Villa go "from black and white to full colour" in three years. As Unai Emery marks three years at Aston Villa, Guillem Balague looks at his journey to Villa Park and his bid to "awaken the giant". Relevance to standings and momentum.
+Nottingham Forest: Sean Dyche calls for VAR changes after Man Utd score controversial goal. Manchester Uniteds Casemiro headed in opener at City Ground after corner awarded despite ball appearing to stay in play; Nottingham Forest conceded from corner which should have been a goal-kick at Bournemouth last week; Sean Dyche has called for VAR to intervene in such situations Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +179,7 @@ Unai Emery: Aston Villa go "from black and white to full colour" in three years.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Unai Emery: Aston Villa go "from black and white to full colour" in three years. https://www.bbc.com/sport/football/articles/c9d6xd6g182o?at_medium=RSS&at_campaign=rss
+- skysports.com — Nottingham Forest: Sean Dyche calls for VAR changes after Man Utd score controversial goal. https://www.skysports.com/football/news/12040/13462016/nottingham-forest-sean-dyche-calls-for-var-changes-after-man-utd-score-controversial-goal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +188,13 @@ Unai Emery: Aston Villa go "from black and white to full colour" in three years.
 
 ---
 
-## Story 8: Fabio Borini: Salford City's former Liverpool forward on life as a veteran
-**Slug (lower-third):** Fabio Borini: Salford City's former Liverpool forward on …  
-**When:** 2025-11-01 02:01 (America/Winnipeg)  •  **Published:** 2025-11-01 07:01 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 8: Jean-Philippe Mateta sets Crystal Palace on road to victory over Brentford
+**Slug (lower-third):** Jean-Philippe Mateta sets Crystal Palace on road to victo…  
+**When:** 2025-11-01 12:29 (America/Winnipeg)  •  **Published:** 2025-11-01 17:29 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fabio Borini: Salford City's former Liverpool forward on life as a veteran. Fabio Borini made a combined 131 appearances across five years for Liverpool and Sunderland - now he is getting his football fix at Salford City. Relevance to standings and momentum.
+Jean-Philippe Mateta sets Crystal Palace on road to victory over Brentford. A Jean-Philippe Mateta header and a Nathan Collins own goal gave Crystal Palace a 2-0 home win against Brentford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +203,7 @@ Fabio Borini: Salford City's former Liverpool forward on life as a veteran. Fabi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Fabio Borini: Salford City's former Liverpool forward on life as a veteran. https://www.bbc.com/sport/football/articles/cm2eeneqvl7o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Jean-Philippe Mateta sets Crystal Palace on road to victory over Brentford. https://www.theguardian.com/football/2025/nov/01/crystal-palace-brentford-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +212,13 @@ Fabio Borini: Salford City's former Liverpool forward on life as a veteran. Fabi
 
 ---
 
-## Story 9: Jordan Pickford: Everton goalkeeper talks about his career, World Cup dream and love of motocross
-**Slug (lower-third):** Jordan Pickford: Everton goalkeeper talks about his caree…  
-**When:** 2025-11-01 01:13 (America/Winnipeg)  •  **Published:** 2025-11-01 06:13 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 9: Crystal Palace 2-0 Brentford | Premier League highlights
+**Slug (lower-third):** Crystal Palace 2-0 Brentford | Premier League highlights  
+**When:** 2025-11-01 12:19 (America/Winnipeg)  •  **Published:** 2025-11-01 17:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jordan Pickford: Everton goalkeeper talks about his career, World Cup dream and love of motocross. Jordan Pickford sits down with Kelly Somers to discuss life at Everton, keeping clean sheets for England, a World Cup dream and a love of motocross. Relevance to standings and momentum.
+Crystal Palace 2-0 Brentford | Premier League highlights. FREE TO WATCH: Highlights from Crystal Palace's match against Brentford in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +227,7 @@ Jordan Pickford: Everton goalkeeper talks about his career, World Cup dream and 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Jordan Pickford: Everton goalkeeper talks about his career, World Cup dream and love of motocross. https://www.bbc.com/sport/football/articles/clyk1nwg0wdo?at_medium=RSS&at_campaign=rss
+- skysports.com — Crystal Palace 2-0 Brentford | Premier League highlights. https://www.skysports.com/watch/video/13461964/crystal-palace-2-0-brentford-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +236,13 @@ Jordan Pickford: Everton goalkeeper talks about his career, World Cup dream and 
 
 ---
 
-## Story 10: Football gossip: Guehi, Jackson, Santos, Bouaddi, Saibari
-**Slug (lower-third):** Football gossip: Guehi, Jackson, Santos, Bouaddi, Saibari  
-**When:** 2025-10-31 18:10 (America/Winnipeg)  •  **Published:** 2025-10-31 23:10 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 10: Fulham cruise past Wolves to end losing run and turn up heat on Vitor Pereira
+**Slug (lower-third):** Fulham cruise past Wolves to end losing run and turn up h…  
+**When:** 2025-11-01 12:17 (America/Winnipeg)  •  **Published:** 2025-11-01 17:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Guehi, Jackson, Santos, Bouaddi, Saibari. Inter Milan join race for Marc Guehi, Everton monitoring Nicolas Jackson, and Manchester United face competition for Ayyoub Bouaddi, plus more. Relevance to standings and momentum.
+Fulham cruise past Wolves to end losing run and turn up heat on Vitor Pereira. Strikes from Ryan Sessegnon and Harry Wilson plus a Yerson Mosquera own goal earned Fulham a 3-0 win over 10-man Wolves Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +251,7 @@ Football gossip: Guehi, Jackson, Santos, Bouaddi, Saibari. Inter Milan join race
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Guehi, Jackson, Santos, Bouaddi, Saibari. https://www.bbc.com/sport/football/articles/c620n2kdex5o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Fulham cruise past Wolves to end losing run and turn up heat on Vitor Pereira. https://www.theguardian.com/football/2025/nov/01/fulham-wolves-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
