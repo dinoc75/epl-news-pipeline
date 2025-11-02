@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-01 13:27 (America/Winnipeg)  |  2025-11-01 18:27 (UTC)
+**Generated:** 2025-11-01 20:46 (America/Winnipeg)  |  2025-11-02 01:46 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 27s
@@ -8,21 +8,21 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League: Burnley - Arsenal highlights
-- Burnley 0-2 Arsenal: Mikel Arteta post-match reaction
-- WSL: Chelsea 2-0 London City Lionesses highlights
+- Match of the Day: Did Spurs players refuse to applaud fans after Chelsea defeat?
+- Match of the Day: Alan Shearer & Ashley Williams analyse Arsenal's Calafiori, Timber and Rice 'integral' to Arsenal success - Analysis
+- Mohamed Salah shines as Arne Slot and Liverpool get fans' backing
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Championship: managers under fire as Norwich, Leicester and Saints slump
-**Slug (lower-third):** Championship: managers under fire as Norwich, Leicester a…  
-**When:** 2025-11-01 12:41 (America/Winnipeg)  •  **Published:** 2025-11-01 17:41 (UTC)  
+## Story 1: Tottenham lose to Chelsea: Fans booing and players snubbing manager Thomas Frank
+**Slug (lower-third):** Tottenham lose to Chelsea: Fans booing and players snubbi…  
+**When:** 2025-11-01 17:53 (America/Winnipeg)  •  **Published:** 2025-11-01 22:53 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Championship: managers under fire as Norwich, Leicester and Saints slump. Liam Manning apologised after a 2-0 defeat to Hull condemned his Norwich side to a seventh straight home defeat of the season at Carrow Road Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Tottenham lose to Chelsea: Fans booing and players snubbing manager Thomas Frank. Despite being third in the table and unbeaten in the Champions League, all is not rosy at Tottenham after Chelsea inflict another home defeat. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,33 @@ Championship: managers under fire as Norwich, Leicester and Saints slump. Liam M
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Championship: managers under fire as Norwich, Leicester and Saints slump. https://www.theguardian.com/football/2025/nov/01/championship-roundup-hull-extend-unbeaten-run-leicester-woes-go-on
+- bbc.com — Tottenham lose to Chelsea: Fans booing and players snubbing manager Thomas Frank. https://www.bbc.com/sport/football/articles/c74jjrv9pmyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: Mohamed Salah shines as Arne Slot and Liverpool get fans' backing
+**Slug (lower-third):** Mohamed Salah shines as Arne Slot and Liverpool get fans'…  
+**When:** 2025-11-01 18:48 (America/Winnipeg)  •  **Published:** 2025-11-01 23:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Mohamed Salah shines as Arne Slot and Liverpool get fans' backing. When Liverpool needed a boost, the Anfield crowd motivated the Reds to a vital win - with Mohamed Salah returning to form. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Mohamed Salah shines as Arne Slot and Liverpool get fans' backing. https://www.bbc.com/sport/football/articles/c0jddyxpq1zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +68,13 @@ Championship: managers under fire as Norwich, Leicester and Saints slump. Liam M
 
 ### Club Updates
 
-## Story 2: Premier League: Burnley - Arsenal highlights
-**Slug (lower-third):** Premier League: Burnley - Arsenal highlights  
-**When:** 2025-11-01 13:22 (America/Winnipeg)  •  **Published:** 2025-11-01 18:22 (UTC)  
+## Story 3: Match of the Day: Did Spurs players refuse to applaud fans after Chelsea defeat?
+**Slug (lower-third):** Match of the Day: Did Spurs players refuse to applaud fan…  
+**When:** 2025-11-01 19:42 (America/Winnipeg)  •  **Published:** 2025-11-02 00:42 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Burnley - Arsenal highlights. Burnley boss Scott Parkeris full of praise for the "brilliant" display his side put in during the second half of their 2-0 defeat against Premier League leaders Arsenal at Turf Moor. Relevance to standings and momentum.
+Match of the Day: Did Spurs players refuse to applaud fans after Chelsea defeat?. Match of the Day's Gabby Logan, Alan Shearer and Ashley Williams dissect the reaction of Tottenham's Djed Spence and Micky van de Ven after their defeat by Chelsea. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,8 +83,7 @@ Premier League: Burnley - Arsenal highlights. Burnley boss Scott Parkeris full o
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: Burnley - Arsenal highlights. https://www.bbc.com/sport/football/videos/c6200rkyxdzo?at_medium=RSS&at_campaign=rss
-- skysports.com — Burnley 0-2 Arsenal: Goals from Viktor Gyokeres and Declan Rice extend Gunners lead at top of Premier League. https://www.skysports.com/football/burnley-vs-arsenal/report/531220
+- bbc.com — Match of the Day: Did Spurs players refuse to applaud fans after Chelsea defeat?. https://www.bbc.com/sport/football/videos/c15pp11w55eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -67,13 +92,13 @@ Premier League: Burnley - Arsenal highlights. Burnley boss Scott Parkeris full o
 
 ---
 
-## Story 3: Burnley 0-2 Arsenal: Mikel Arteta post-match reaction
-**Slug (lower-third):** Burnley 0-2 Arsenal: Mikel Arteta post-match reaction  
-**When:** 2025-11-01 13:08 (America/Winnipeg)  •  **Published:** 2025-11-01 18:08 (UTC)  
+## Story 4: Match of the Day: Alan Shearer & Ashley Williams analyse Arsenal's Calafiori, Timber and Rice 'integral' to Arsenal success - Analysis
+**Slug (lower-third):** Match of the Day: Alan Shearer & Ashley Williams analyse …  
+**When:** 2025-11-01 19:00 (America/Winnipeg)  •  **Published:** 2025-11-02 00:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Burnley 0-2 Arsenal: Mikel Arteta post-match reaction. Arsenal boss Mikel Arteta is full of praise for his side's defensive display in their 2-0 win against Burnley at Turf Moor. Relevance to standings and momentum.
+Match of the Day: Alan Shearer & Ashley Williams analyse Arsenal's Calafiori, Timber and Rice 'integral' to Arsenal success - Analysis. Match of the Day pundits Alan Shearer and Ashley Williams discuss what makes Riccardo Calafiori, Jurrien Timber and Declan Rice so integral to the success of Arsenal so far. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -82,7 +107,7 @@ Burnley 0-2 Arsenal: Mikel Arteta post-match reaction. Arsenal boss Mikel Arteta
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Burnley 0-2 Arsenal: Mikel Arteta post-match reaction. https://www.bbc.com/sport/football/videos/cge55z7r1qno?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day: Alan Shearer & Ashley Williams analyse Arsenal's Calafiori, Timber and Rice 'integral' to Arsenal success - Analysis. https://www.bbc.com/sport/football/videos/cy0yy6j9z9zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -91,86 +116,13 @@ Burnley 0-2 Arsenal: Mikel Arteta post-match reaction. Arsenal boss Mikel Arteta
 
 ---
 
-## Story 4: WSL: Chelsea 2-0 London City Lionesses highlights
-**Slug (lower-third):** WSL: Chelsea 2-0 London City Lionesses highlights  
-**When:** 2025-11-01 13:00 (America/Winnipeg)  •  **Published:** 2025-11-01 18:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL: Chelsea 2-0 London City Lionesses highlights. Chelsea maintain their unbeaten start in the Women's Super League with a 2-0 victory over London City Lionesses with an early goal from summer signing Ellie Carpenter and substitute Sam Kerr scoring late on. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — WSL: Chelsea 2-0 London City Lionesses highlights. https://www.bbc.com/sport/football/videos/c93ddw3kz9go?at_medium=RSS&at_campaign=rss
-- skysports.com — Chelsea Women 2-0 London City Lionesses: Sam Kerr and Ellie Carpenter on target as Blues edge new London derby in WSL. https://www.skysports.com/football/chelsea-women-vs-london-city-lionesses/report/545642
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Nottingham Forest 2-2 Manchester United: Ruben Amorim post-match interview
-**Slug (lower-third):** Nottingham Forest 2-2 Manchester United: Ruben Amorim pos…  
-**When:** 2025-11-01 12:56 (America/Winnipeg)  •  **Published:** 2025-11-01 17:56 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Nottingham Forest 2-2 Manchester United: Ruben Amorim post-match interview. Manchester United boss Ruben Amorim says his side were punished after they "lost control" of the game for five minutes but pleased they were able to fight back and claim a 2-2 draw away at Nottingham Forest. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Nottingham Forest 2-2 Manchester United: Ruben Amorim post-match interview. https://www.bbc.com/sport/football/videos/clyzzm8rv13o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Nottingham Forest 2-2 Manchester United: Sean Dyche post-match reaction
-**Slug (lower-third):** Nottingham Forest 2-2 Manchester United: Sean Dyche post-…  
-**When:** 2025-11-01 12:55 (America/Winnipeg)  •  **Published:** 2025-11-01 17:55 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Nottingham Forest 2-2 Manchester United: Sean Dyche post-match reaction. Nottingham Forest boss Sean Dyche is proud of his side's performance in their 2-2 draw against Manchester United in the Premier League at the City Ground. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Nottingham Forest 2-2 Manchester United: Sean Dyche post-match reaction. https://www.bbc.com/sport/football/videos/c24llg9m02lo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Nottingham Forest: Sean Dyche calls for VAR changes after Man Utd score controversial goal
-**Slug (lower-third):** Nottingham Forest: Sean Dyche calls for VAR changes after…  
-**When:** 2025-11-01 12:32 (America/Winnipeg)  •  **Published:** 2025-11-01 17:32 (UTC)  
+## Story 5: Liverpool beat Aston Villa: Virgil van Dijk critical of 'absolutely ridiculous takes' and outside noise after Reds end poor run of form
+**Slug (lower-third):** Liverpool beat Aston Villa: Virgil van Dijk critical of '…  
+**When:** 2025-11-01 17:53 (America/Winnipeg)  •  **Published:** 2025-11-01 22:53 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest: Sean Dyche calls for VAR changes after Man Utd score controversial goal. Manchester Uniteds Casemiro headed in opener at City Ground after corner awarded despite ball appearing to stay in play; Nottingham Forest conceded from corner which should have been a goal-kick at Bournemouth last week; Sean Dyche has called for VAR to intervene in such situations Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liverpool beat Aston Villa: Virgil van Dijk critical of 'absolutely ridiculous takes' and outside noise after Reds end poor run of form. Liverpool ended a four-game losing streak in the Premier League with a 2-0 victory over Aston Villa; captain Virgil van Dijk spoke afterwards about how the team have had to stick together amid strong criticism of their performances Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +131,7 @@ Nottingham Forest: Sean Dyche calls for VAR changes after Man Utd score controve
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Nottingham Forest: Sean Dyche calls for VAR changes after Man Utd score controversial goal. https://www.skysports.com/football/news/12040/13462016/nottingham-forest-sean-dyche-calls-for-var-changes-after-man-utd-score-controversial-goal
+- skysports.com — Liverpool beat Aston Villa: Virgil van Dijk critical of 'absolutely ridiculous takes' and outside noise after Reds end poor run of form. https://www.skysports.com/football/news/12040/13462319/liverpool-beat-aston-villa-virgil-van-dijk-critical-of-absolutely-ridiculous-takes-and-outside-noise-after-reds-end-poor-run-of-form
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +140,13 @@ Nottingham Forest: Sean Dyche calls for VAR changes after Man Utd score controve
 
 ---
 
-## Story 8: Jean-Philippe Mateta sets Crystal Palace on road to victory over Brentford
-**Slug (lower-third):** Jean-Philippe Mateta sets Crystal Palace on road to victo…  
-**When:** 2025-11-01 12:29 (America/Winnipeg)  •  **Published:** 2025-11-01 17:29 (UTC)  
+## Story 6: Premier League highlights: Crystal Palace 2-0 Brentford
+**Slug (lower-third):** Premier League highlights: Crystal Palace 2-0 Brentford  
+**When:** 2025-11-01 17:31 (America/Winnipeg)  •  **Published:** 2025-11-01 22:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jean-Philippe Mateta sets Crystal Palace on road to victory over Brentford. A Jean-Philippe Mateta header and a Nathan Collins own goal gave Crystal Palace a 2-0 home win against Brentford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League highlights: Crystal Palace 2-0 Brentford. Crystal Palace end a three-match winless run in the Premier League with victory over in-form Brentford at Selhurst Park. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,30 +155,7 @@ Jean-Philippe Mateta sets Crystal Palace on road to victory over Brentford. A Je
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Jean-Philippe Mateta sets Crystal Palace on road to victory over Brentford. https://www.theguardian.com/football/2025/nov/01/crystal-palace-brentford-premier-league-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Crystal Palace 2-0 Brentford | Premier League highlights
-**Slug (lower-third):** Crystal Palace 2-0 Brentford | Premier League highlights  
-**When:** 2025-11-01 12:19 (America/Winnipeg)  •  **Published:** 2025-11-01 17:19 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Crystal Palace 2-0 Brentford | Premier League highlights. FREE TO WATCH: Highlights from Crystal Palace's match against Brentford in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
+- bbc.com — Premier League highlights: Crystal Palace 2-0 Brentford. https://www.bbc.com/sport/football/videos/c9q11p487n7o?at_medium=RSS&at_campaign=rss
 - skysports.com — Crystal Palace 2-0 Brentford | Premier League highlights. https://www.skysports.com/watch/video/13461964/crystal-palace-2-0-brentford-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
@@ -236,13 +165,13 @@ Crystal Palace 2-0 Brentford | Premier League highlights. FREE TO WATCH: Highlig
 
 ---
 
-## Story 10: Fulham cruise past Wolves to end losing run and turn up heat on Vitor Pereira
-**Slug (lower-third):** Fulham cruise past Wolves to end losing run and turn up h…  
-**When:** 2025-11-01 12:17 (America/Winnipeg)  •  **Published:** 2025-11-01 17:17 (UTC)  
+## Story 7: Premier League highlights: Brighton & Hove Albion 3-0 Leeds United
+**Slug (lower-third):** Premier League highlights: Brighton & Hove Albion 3-0 Lee…  
+**When:** 2025-11-01 17:31 (America/Winnipeg)  •  **Published:** 2025-11-01 22:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham cruise past Wolves to end losing run and turn up heat on Vitor Pereira. Strikes from Ryan Sessegnon and Harry Wilson plus a Yerson Mosquera own goal earned Fulham a 3-0 win over 10-man Wolves Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League highlights: Brighton & Hove Albion 3-0 Leeds United. Diego Gomez nets twice and Danny Welbeck scores for third successive league game as Brighton comfortably beat Leeds to move into the top-half of the Premier League table. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +180,80 @@ Fulham cruise past Wolves to end losing run and turn up heat on Vitor Pereira. S
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Fulham cruise past Wolves to end losing run and turn up heat on Vitor Pereira. https://www.theguardian.com/football/2025/nov/01/fulham-wolves-premier-league-match-report
+- bbc.com — Premier League highlights: Brighton & Hove Albion 3-0 Leeds United. https://www.bbc.com/sport/football/videos/c4gjjvp10ydo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Premier League highlights: Fulham 3-0 Wolverhampton Wanderers
+**Slug (lower-third):** Premier League highlights: Fulham 3-0 Wolverhampton Wande…  
+**When:** 2025-11-01 17:30 (America/Winnipeg)  •  **Published:** 2025-11-01 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League highlights: Fulham 3-0 Wolverhampton Wanderers. Wolves' season continues to spiral after Fulham condemn them to another damaging defeat to keep them winless and bottom of the Premier League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League highlights: Fulham 3-0 Wolverhampton Wanderers. https://www.bbc.com/sport/football/videos/c2emm1w9l34o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Premier League highlights: Burnley 0-2 Arsenal
+**Slug (lower-third):** Premier League highlights: Burnley 0-2 Arsenal  
+**When:** 2025-11-01 17:30 (America/Winnipeg)  •  **Published:** 2025-11-01 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League highlights: Burnley 0-2 Arsenal. Premier League leaders Arsenal continue their impressive start to the season with a comfortable win at Burnley to make it nine consecutive victories in all competitions. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League highlights: Burnley 0-2 Arsenal. https://www.bbc.com/sport/football/videos/cx277knel12o?at_medium=RSS&at_campaign=rss
+- skysports.com — Burnley 0-2 Arsenal: Goals from Viktor Gyokeres and Declan Rice extend Gunners lead at top of Premier League. https://www.skysports.com/football/burnley-vs-arsenal/report/531220
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Premier League: Nottingham Forest - Manchester United highlights
+**Slug (lower-third):** Premier League: Nottingham Forest - Manchester United hig…  
+**When:** 2025-11-01 17:30 (America/Winnipeg)  •  **Published:** 2025-11-01 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Nottingham Forest - Manchester United highlights. Amad Diallo lashes home a thunderous 81st-minute volley to earn Manchester United a point in a thrilling Premier League encounter with Nottingham Forest at the City Ground. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Nottingham Forest - Manchester United highlights. https://www.bbc.com/sport/football/videos/c9q11p0jjp3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
