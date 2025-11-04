@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-03 19:42 (America/Winnipeg)  |  2025-11-04 01:42 (UTC)
+**Generated:** 2025-11-04 00:33 (America/Winnipeg)  |  2025-11-04 06:33 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 29s
@@ -8,39 +8,15 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Granit Xhaka: How midfielder has taken Sunderland into top four
-- Troy Deeney's team of the week: Vicario, Gabriel, Caicedo, Rice, Haaland, Gravenberch
-- Premier League news: Former Man Utd boss Erik ten Hag in line for PL return with Wolves - Paper talk and football gossip
+- Liverpool v Real Madrid: Will Trent Alexander-Arnold show what Reds are missing on return?
+- Today on Sky Sports Racing: Lingfield and Wolverhampton feature
+- Premier League highlights: Sunderland 1-1 Everton
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Sunderland 1-1 Everton: Toffees should have put game away - David Moyes
-**Slug (lower-third):** Sunderland 1-1 Everton: Toffees should have put game away…  
-**When:** 2025-11-03 16:42 (America/Winnipeg)  •  **Published:** 2025-11-03 22:42 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Sunderland 1-1 Everton: Toffees should have put game away - David Moyes. Manager David Moyes says Everton should have put the game beyond Sunderland after taking the lead, as they draw 1-1 at the Stadium of Light in the Premier League. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Sunderland 1-1 Everton: Toffees should have put game away - David Moyes. https://www.bbc.com/sport/football/videos/cx27dz0n3gjo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Arsenal injury news: Mikel Arteta 'concerned' by Viktor Gyokeres injury
+## Story 1: Arsenal injury news: Mikel Arteta 'concerned' by Viktor Gyokeres injury
 **Slug (lower-third):** Arsenal injury news: Mikel Arteta 'concerned' by Viktor G…  
 **When:** 2025-11-03 14:29 (America/Winnipeg)  •  **Published:** 2025-11-03 20:29 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -65,10 +41,10 @@ Arsenal injury news: Mikel Arteta 'concerned' by Viktor Gyokeres injury. Arsenal
 
 ---
 
-## Story 3: Wolves: Gary O'Neil pulls out of the running for shock Wolves return at Premier League club
+## Story 2: Wolves: Gary O'Neil pulls out of the running for shock Wolves return at Premier League club
 **Slug (lower-third):** Wolves: Gary O'Neil pulls out of the running for shock Wo…  
 **When:** 2025-11-03 15:06 (America/Winnipeg)  •  **Published:** 2025-11-03 21:06 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Wolves: Gary O'Neil pulls out of the running for shock Wolves return at Premier League club. Gary O'Neil pulls out of the running to become Wolves manager after coming close to a shock return. Relevance to standings and momentum.
@@ -89,13 +65,15 @@ Wolves: Gary O'Neil pulls out of the running for shock Wolves return at Premier 
 
 ---
 
-## Story 4: Wolves left stunned as Gary O'Neil walks away from talks to return as head coach
-**Slug (lower-third):** Wolves left stunned as Gary O'Neil walks away from talks …  
-**When:** 2025-11-03 14:38 (America/Winnipeg)  •  **Published:** 2025-11-03 20:38 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+### Injuries
+
+## Story 3: Liverpool v Real Madrid: Will Trent Alexander-Arnold show what Reds are missing on return?
+**Slug (lower-third):** Liverpool v Real Madrid: Will Trent Alexander-Arnold show…  
+**When:** 2025-11-04 00:31 (America/Winnipeg)  •  **Published:** 2025-11-04 06:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wolves left stunned as Gary O'Neil walks away from talks to return as head coach. Wolves were confident Gary O'Neil, who was sacked 11 months ago, would take charge once again, but the 42-year-old has had a change of heart Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liverpool v Real Madrid: Will Trent Alexander-Arnold show what Reds are missing on return?. Trent Alexander-Arnold returns to Liverpool for the first time since moving to Real Madrid on Tuesday, when he will discover if absence has made Anfield hearts grow fonder. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -104,7 +82,7 @@ Wolves left stunned as Gary O'Neil walks away from talks to return as head coach
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Wolves left stunned as Gary O'Neil walks away from talks to return as head coach. https://www.theguardian.com/football/2025/nov/03/gary-oneil-in-advanced-talks-to-make-shock-return-to-wolves
+- bbc.com — Liverpool v Real Madrid: Will Trent Alexander-Arnold show what Reds are missing on return?. https://www.bbc.com/sport/football/articles/ceq00y1l8p5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -113,12 +91,10 @@ Wolves left stunned as Gary O'Neil walks away from talks to return as head coach
 
 ---
 
-### Injuries
-
-## Story 5: Premier League news: Former Man Utd boss Erik ten Hag in line for PL return with Wolves - Paper talk and football gossip
+## Story 4: Premier League news: Former Man Utd boss Erik ten Hag in line for PL return with Wolves - Paper talk and football gossip
 **Slug (lower-third):** Premier League news: Former Man Utd boss Erik ten Hag in …  
 **When:** 2025-11-03 17:00 (America/Winnipeg)  •  **Published:** 2025-11-03 23:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+**Virality score:** 94  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
 Premier League news: Former Man Utd boss Erik ten Hag in line for PL return with Wolves - Paper talk and football gossip. Latest from Tuesdays newspapers with former Man Utd boss Erik ten Hag in line to take the vacant Wolves job; Liverpool are keeping tabs on Fulham winger Kevin; Sheffield Wednesday may have found an unlikely saviour in former Newcastle owner Mike Ashley Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -139,13 +115,15 @@ Premier League news: Former Man Utd boss Erik ten Hag in line for PL return with
 
 ---
 
-## Story 6: Alonso tells Alexander-Arnold to 'enjoy' Liverpool return no matter how fans react
-**Slug (lower-third):** Alonso tells Alexander-Arnold to 'enjoy' Liverpool return…  
-**When:** 2025-11-03 14:17 (America/Winnipeg)  •  **Published:** 2025-11-03 20:17 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+### Club Updates
+
+## Story 5: Today on Sky Sports Racing: Lingfield and Wolverhampton feature
+**Slug (lower-third):** Today on Sky Sports Racing: Lingfield and Wolverhampton f…  
+**When:** 2025-11-04 00:00 (America/Winnipeg)  •  **Published:** 2025-11-04 06:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Alonso tells Alexander-Arnold to 'enjoy' Liverpool return no matter how fans react. Xabi Alonso has told Trent Alexander-Arnold to enjoy his return to Liverpool as the defender prepares to face his boyhood club for the first time since his summer departure Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Today on Sky Sports Racing: Lingfield and Wolverhampton feature. Macarone and Maris Angel are all set to battle it out in todays feature from Wolverhampton - live on Sky Sports Racing; Our cameras also head to Lingfield, where a nine-race card is scheduled. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -154,7 +132,7 @@ Alonso tells Alexander-Arnold to 'enjoy' Liverpool return no matter how fans rea
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Alonso tells Alexander-Arnold to 'enjoy' Liverpool return no matter how fans react. https://www.theguardian.com/football/2025/nov/03/xabi-alonso-trent-alexander-arnold-real-madrid-liverpool
+- skysports.com — Today on Sky Sports Racing: Lingfield and Wolverhampton feature. https://www.skysports.com/racing/news/12040/13463339/today-on-sky-sports-racing-lingfield-and-wolverhampton-feature
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -163,12 +141,35 @@ Alonso tells Alexander-Arnold to 'enjoy' Liverpool return no matter how fans rea
 
 ---
 
-### Club Updates
+## Story 6: Premier League highlights: Sunderland 1-1 Everton
+**Slug (lower-third):** Premier League highlights: Sunderland 1-1 Everton  
+**When:** 2025-11-03 16:29 (America/Winnipeg)  •  **Published:** 2025-11-03 22:29 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League highlights: Sunderland 1-1 Everton. Granit Xhaka scores his first Sunderland goal as the Black Cats come from behind to draw with Everton and move up to fourth place in the Premier League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League highlights: Sunderland 1-1 Everton. https://www.bbc.com/sport/football/videos/c9wv702xj9ko?at_medium=RSS&at_campaign=rss
+- skysports.com — Sunderland 1-1 Everton | Premier League highlights. https://www.skysports.com/watch/video/13463511/sunderland-1-1-everton-premier-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
 
 ## Story 7: Granit Xhaka: How midfielder has taken Sunderland into top four
 **Slug (lower-third):** Granit Xhaka: How midfielder has taken Sunderland into to…  
 **When:** 2025-11-03 17:33 (America/Winnipeg)  •  **Published:** 2025-11-03 23:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Granit Xhaka: How midfielder has taken Sunderland into top four. Sunderland captain Granit Xhaka was called the signing of the season - and then came his biggest contribution so far with his strike against Everton. Relevance to standings and momentum.
@@ -192,7 +193,7 @@ Granit Xhaka: How midfielder has taken Sunderland into top four. Sunderland capt
 ## Story 8: Troy Deeney's team of the week: Vicario, Gabriel, Caicedo, Rice, Haaland, Gravenberch
 **Slug (lower-third):** Troy Deeney's team of the week: Vicario, Gabriel, Caicedo…  
 **When:** 2025-11-03 17:12 (America/Winnipeg)  •  **Published:** 2025-11-03 23:12 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Troy Deeney's team of the week: Vicario, Gabriel, Caicedo, Rice, Haaland, Gravenberch. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
@@ -216,7 +217,7 @@ Troy Deeney's team of the week: Vicario, Gabriel, Caicedo, Rice, Haaland, Graven
 ## Story 9: Premier League: What can Arsenal, Man City, Liverpool and co read into the table after 10 games?
 **Slug (lower-third):** Premier League: What can Arsenal, Man City, Liverpool and…  
 **When:** 2025-11-03 16:41 (America/Winnipeg)  •  **Published:** 2025-11-03 22:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League: What can Arsenal, Man City, Liverpool and co read into the table after 10 games?. With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table. Relevance to standings and momentum.
@@ -240,7 +241,7 @@ Premier League: What can Arsenal, Man City, Liverpool and co read into the table
 ## Story 10: Football gossip: Mainoo, Rashford, Fullkrug, Saliba, Ederson, Ten Hag, Roque
 **Slug (lower-third):** Football gossip: Mainoo, Rashford, Fullkrug, Saliba, Eder…  
 **When:** 2025-11-03 15:38 (America/Winnipeg)  •  **Published:** 2025-11-03 21:38 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Mainoo, Rashford, Fullkrug, Saliba, Ederson, Ten Hag, Roque. Manchester United midfielder Kobbie Mainoo is closer to leaving Old Trafford, Barcelona will complete a deal for Marcus Rashford if he agrees to their wage offer, Newcastle eye Atalanta midfielder Ederson, plus more. Relevance to standings and momentum.
