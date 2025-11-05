@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-05 00:32 (America/Winnipeg)  |  2025-11-05 06:32 (UTC)
+**Generated:** 2025-11-05 06:44 (America/Winnipeg)  |  2025-11-05 12:44 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 30s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Max Dowman: Arsenal winger, 15, becomes youngest Champions League player
-- Liverpool fans boo Trent Alexander-Arnold on Real Madrid return
-- Trent Alexander Arnold: How Conor Bradley helped Liverpool move on
+- Sweden: Alexander Isak named in Graham Potter's first squad, Viktor Gyokeres out injured
+- Max Dowman: Arsenal's steps to protect winger
+- Crystal Palace charged by FA after fans' Evangelos Marinakis gun banner
 
 ---
 
-### Injuries
+### Managerial Moves
 
-## Story 1: Liverpool fans boo Trent Alexander-Arnold on Real Madrid return
-**Slug (lower-third):** Liverpool fans boo Trent Alexander-Arnold on Real Madrid …  
-**When:** 2025-11-04 18:31 (America/Winnipeg)  •  **Published:** 2025-11-05 00:31 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 1: Enzo Maresca must decide to stick or twist on Chelsea's epic Qarabag trek
+**Slug (lower-third):** Enzo Maresca must decide to stick or twist on Chelsea's e…  
+**When:** 2025-11-05 02:00 (America/Winnipeg)  •  **Published:** 2025-11-05 08:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool fans boo Trent Alexander-Arnold on Real Madrid return. BBC Sport pundit Nedum Onuoha and tactics correspondent Umir Irfan join Sam Harris to discuss Trent Alexander-Arnold's tough return to Anfield with Real Madrid. Relevance to standings and momentum.
+Enzo Maresca must decide to stick or twist on Chelsea's epic Qarabag trek. Finding the right balance with rotation will be key as the head coach faces a tricky Champions League challenge in Baku on Wednesday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Liverpool fans boo Trent Alexander-Arnold on Real Madrid return. BBC Sport pundi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool fans boo Trent Alexander-Arnold on Real Madrid return. https://www.bbc.com/sport/football/videos/cwyn1lq8837o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Enzo Maresca must decide to stick or twist on Chelsea's epic Qarabag trek. https://www.theguardian.com/football/2025/nov/05/chelsea-enzo-maresca-champions-league-qarabag
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,15 @@ Liverpool fans boo Trent Alexander-Arnold on Real Madrid return. BBC Sport pundi
 
 ---
 
-## Story 2: Premier League news: Barcelona to get cut price for Man Utd forward Marcus Rashford - Paper talk and football gossip
-**Slug (lower-third):** Premier League news: Barcelona to get cut price for Man U…  
-**When:** 2025-11-04 17:30 (America/Winnipeg)  •  **Published:** 2025-11-04 23:30 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~25s
+### Transfers
+
+## Story 2: Rapidly lost records in football, from transfer fees to eye-opening wins | The Knowledge
+**Slug (lower-third):** Rapidly lost records in football, from transfer fees to e…  
+**When:** 2025-11-05 02:00 (America/Winnipeg)  •  **Published:** 2025-11-05 08:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League news: Barcelona to get cut price for Man Utd forward Marcus Rashford - Paper talk and football gossip. Latest from Wednesdays newspapers as Barcelona hope to get cut-price deal for Man Utd forward Marcus Rashford next summer; Erik ten Hag unsure over Wolves role after being linked with Premier League return Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Rapidly lost records in football, from transfer fees to eye-opening wins | The Knowledge. Plus: domestic duopolies, when kick-ins replaced throw-ins and the last striped team to win the English top flight Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +57,83 @@ Premier League news: Barcelona to get cut price for Man Utd forward Marcus Rashf
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League news: Barcelona to get cut price for Man Utd forward Marcus Rashford - Paper talk and football gossip. https://www.skysports.com/football/news/12040/13464118/premier-league-news-barcelona-to-get-cut-price-for-man-utd-forward-marcus-rashford-paper-talk-and-football-gossip
+- theguardian.com — Rapidly lost records in football, from transfer fees to eye-opening wins | The Knowledge. https://www.theguardian.com/football/2025/nov/05/the-knowledge-rapidly-lost-records-in-football-from-transfer-fees-to-eye-opening-wins
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: World Cup qualifiers: Ben Davies back to lead Wales for crucial games
+**Slug (lower-third):** World Cup qualifiers: Ben Davies back to lead Wales for c…  
+**When:** 2025-11-05 04:30 (America/Winnipeg)  •  **Published:** 2025-11-05 10:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+World Cup qualifiers: Ben Davies back to lead Wales for crucial games. Tottenham defender Ben Davies returns from injury to lead Wales in their final World Cup qualifying games against Liechtenstein and North Macedonia, but Aaron Ramsey remains out. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — World Cup qualifiers: Ben Davies back to lead Wales for crucial games. https://www.bbc.com/sport/football/articles/cq6zv81yedzo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: 'All those silly things - do them': Guruzeta's journey from gurney to goals with Athletic
+**Slug (lower-third):** 'All those silly things - do them': Guruzeta's journey fr…  
+**When:** 2025-11-05 02:00 (America/Winnipeg)  •  **Published:** 2025-11-05 08:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'All those silly things - do them': Guruzeta's journey from gurney to goals with Athletic. The Basque club's striker has flourished on their return to the Champions League after a decade away - on Wednesday his side face Newcastle Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'All those silly things - do them': Guruzeta's journey from gurney to goals with Athletic. https://www.theguardian.com/football/2025/nov/05/gorka-guruzeta-athletic-bilbao-newcastle-champions-league
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 5: Crystal Palace charged by FA after fans' Evangelos Marinakis gun banner
+**Slug (lower-third):** Crystal Palace charged by FA after fans' Evangelos Marina…  
+**When:** 2025-11-05 04:56 (America/Winnipeg)  •  **Published:** 2025-11-05 10:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Crystal Palace charged by FA after fans' Evangelos Marinakis gun banner. The Football Association charges Crystal Palace with misconduct after fans unfurl a banner depicting Nottingham Forest owner Evangelos Marinakis holding a gun to midfielder Morgan Gibbs-White's head. Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Crystal Palace charged by FA after fans' Evangelos Marinakis gun banner. https://www.bbc.com/sport/football/articles/crklr582dvzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +144,13 @@ Premier League news: Barcelona to get cut price for Man Utd forward Marcus Rashf
 
 ### Club Updates
 
-## Story 3: Max Dowman: Arsenal winger, 15, becomes youngest Champions League player
-**Slug (lower-third):** Max Dowman: Arsenal winger, 15, becomes youngest Champion…  
-**When:** 2025-11-04 15:21 (America/Winnipeg)  •  **Published:** 2025-11-04 21:21 (UTC)  
+## Story 6: Sweden: Alexander Isak named in Graham Potter's first squad, Viktor Gyokeres out injured
+**Slug (lower-third):** Sweden: Alexander Isak named in Graham Potter's first squ…  
+**When:** 2025-11-05 06:28 (America/Winnipeg)  •  **Published:** 2025-11-05 12:28 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Max Dowman: Arsenal winger, 15, becomes youngest Champions League player. Max Dowman becomes the youngest player in Champions League history after coming on against Slavia Prague on Tuesday, aged 15 years and 308 days. Relevance to standings and momentum.
+Sweden: Alexander Isak named in Graham Potter's first squad, Viktor Gyokeres out injured. Arsenal striker Viktor Gyokeres is not named in Graham Potter's first Sweden squad, but Liverpool's Alexander Isak is included. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,8 +159,7 @@ Max Dowman: Arsenal winger, 15, becomes youngest Champions League player. Max Do
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Max Dowman: Arsenal winger, 15, becomes youngest Champions League player. https://www.bbc.com/sport/football/articles/c5yl4kdwgdno?at_medium=RSS&at_campaign=rss
-- skysports.com — Max Dowman: Arsenal boss Mikel Arteta hails personality and courage of 15-year-old as he becomes Champions League's youngest player. https://www.skysports.com/football/news/12040/13463993/max-dowman-arsenal-boss-mikel-arteta-hails-personality-and-courage-of-15-year-old-as-he-becomes-champions-leagues-youngest-player
+- bbc.com — Sweden: Alexander Isak named in Graham Potter's first squad, Viktor Gyokeres out injured. https://www.bbc.com/sport/football/articles/cly1g565qp7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -91,13 +168,13 @@ Max Dowman: Arsenal winger, 15, becomes youngest Champions League player. Max Do
 
 ---
 
-## Story 4: Trent Alexander Arnold: How Conor Bradley helped Liverpool move on
-**Slug (lower-third):** Trent Alexander Arnold: How Conor Bradley helped Liverpoo…  
-**When:** 2025-11-04 18:20 (America/Winnipeg)  •  **Published:** 2025-11-05 00:20 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 7: Max Dowman: Arsenal's steps to protect winger
+**Slug (lower-third):** Max Dowman: Arsenal's steps to protect winger  
+**When:** 2025-11-05 05:59 (America/Winnipeg)  •  **Published:** 2025-11-05 11:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Trent Alexander Arnold: How Conor Bradley helped Liverpool move on. As Conor Bradley shone, Trent Alexander-Arnold was given a brutal and hostile reminder of his fall from grace, writes Phil McNulty. Relevance to standings and momentum.
+Max Dowman: Arsenal's steps to protect winger. Max Dowman made his Premier League debut at 15 years and 234 days last weekend - this is how Arsenal are supporting his progress in every sense. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,7 +183,7 @@ Trent Alexander Arnold: How Conor Bradley helped Liverpool move on. As Conor Bra
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Trent Alexander Arnold: How Conor Bradley helped Liverpool move on. https://www.bbc.com/sport/football/articles/c4gp398wypgo?at_medium=RSS&at_campaign=rss
+- bbc.com — Max Dowman: Arsenal's steps to protect winger. https://www.bbc.com/sport/football/articles/cp94e0d531go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,13 +192,13 @@ Trent Alexander Arnold: How Conor Bradley helped Liverpool move on. As Conor Bra
 
 ---
 
-## Story 5: Football Daily - UCL Debrief: Liverpool beat Real Madrid, Arsenal continue perfect start, Messi van de Ven's wonder goal - BBC Sounds
-**Slug (lower-third):** Football Daily - UCL Debrief: Liverpool beat Real Madrid,…  
-**When:** 2025-11-04 18:14 (America/Winnipeg)  •  **Published:** 2025-11-05 00:14 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 8: Destiny Udogie revealed as footballer allegedly threatened at gunpoint by an agent
+**Slug (lower-third):** Destiny Udogie revealed as footballer allegedly threatene…  
+**When:** 2025-11-05 04:42 (America/Winnipeg)  •  **Published:** 2025-11-05 10:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily - UCL Debrief: Liverpool beat Real Madrid, Arsenal continue perfect start, Messi van de Ven's wonder goal - BBC Sounds. Reaction to Liverpool's 1-0 win over Real Madrid plus victories for Arsenal and Spurs. Relevance to standings and momentum.
+Destiny Udogie revealed as footballer allegedly threatened at gunpoint by an agent. Destiny Udogie has been named as the Premier League footballer allegedly threatened at gunpoint by an agent on a London street on 6 September Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,7 +207,7 @@ Football Daily - UCL Debrief: Liverpool beat Real Madrid, Arsenal continue perfe
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football Daily - UCL Debrief: Liverpool beat Real Madrid, Arsenal continue perfect start, Messi van de Ven's wonder goal - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0mdtg2g?at_medium=RSS&at_campaign=rss
+- theguardian.com — Destiny Udogie revealed as footballer allegedly threatened at gunpoint by an agent. https://www.theguardian.com/football/2025/nov/05/destiny-udogie-revealed-as-footballer-allegedly-threatened-at-gunpoint-by-an-agent
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -139,13 +216,13 @@ Football Daily - UCL Debrief: Liverpool beat Real Madrid, Arsenal continue perfe
 
 ---
 
-## Story 6: Destiny Udogie: Tottenham full-back allegedly threatened with a gun in London
-**Slug (lower-third):** Destiny Udogie: Tottenham full-back allegedly threatened …  
-**When:** 2025-11-04 18:02 (America/Winnipeg)  •  **Published:** 2025-11-05 00:02 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 9: Van de Ven brushes off Frank snub and reflects on his Spurs wonder goal
+**Slug (lower-third):** Van de Ven brushes off Frank snub and reflects on his Spu…  
+**When:** 2025-11-05 04:01 (America/Winnipeg)  •  **Published:** 2025-11-05 10:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Destiny Udogie: Tottenham full-back allegedly threatened with a gun in London. Tottenham say they are supporting Destiny Udogie after confirming their Italy defender was allegedly threatened with a gun by a football agent. Relevance to standings and momentum.
+Van de Ven brushes off Frank snub and reflects on his Spurs wonder goal. Micky van de Ven has downplayed the furore over his ignoring Thomas Frank, preferring to focus on Spurs' response against Copenhagen Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -154,7 +231,7 @@ Destiny Udogie: Tottenham full-back allegedly threatened with a gun in London. T
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Destiny Udogie: Tottenham full-back allegedly threatened with a gun in London. https://www.bbc.com/sport/football/articles/c1d0kzxgy9vo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Van de Ven brushes off Frank snub and reflects on his Spurs wonder goal. https://www.theguardian.com/football/2025/nov/05/micky-van-de-ven-thomas-frank-snub-spurs-wondergoal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -163,13 +240,13 @@ Destiny Udogie: Tottenham full-back allegedly threatened with a gun in London. T
 
 ---
 
-## Story 7: 'It seems like Lionel Messi turned into Micky van de Ven'
-**Slug (lower-third):** 'It seems like Lionel Messi turned into Micky van de Ven'  
-**When:** 2025-11-04 17:58 (America/Winnipeg)  •  **Published:** 2025-11-04 23:58 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 10: Grand Slam of Darts: Does success in Wolverhampton help you win the World Darts Championship?
+**Slug (lower-third):** Grand Slam of Darts: Does success in Wolverhampton help y…  
+**When:** 2025-11-05 04:00 (America/Winnipeg)  •  **Published:** 2025-11-05 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-'It seems like Lionel Messi turned into Micky van de Ven'. You know you have scored a special goal when you are then being compared to Lionel Messi - and even more so if you are a centre-half, but that is what's happened to Tottenham's Micky van de Ven. Relevance to standings and momentum.
+Grand Slam of Darts: Does success in Wolverhampton help you win the World Darts Championship?. Sky Sports Megan Wellens takes a look at if there is a correlation between winning the Grand Slam of Darts and winning the World Darts Championship; you can watch the Mr Vegas Grand Slam of Darts live on Sky Sports from Nov 8-16 at the WV Active Aldersley, Wolverhampton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -178,79 +255,7 @@ Destiny Udogie: Tottenham full-back allegedly threatened with a gun in London. T
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — 'It seems like Lionel Messi turned into Micky van de Ven'. https://www.bbc.com/sport/football/articles/cx2pyp8ppnwo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Destiny Udogie: Spurs supporting Italy defender after he was allegedly threatened with a gun
-**Slug (lower-third):** Destiny Udogie: Spurs supporting Italy defender after he …  
-**When:** 2025-11-04 17:29 (America/Winnipeg)  •  **Published:** 2025-11-04 23:29 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Destiny Udogie: Spurs supporting Italy defender after he was allegedly threatened with a gun. Spurs defender Destiny Udogie named as Premier League player allegedly threatened with a gun in September; The Metropolitan Police have arrested a 31-year-old man in connection with the incident on September 6; The Met have said enquiries are ongoing Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Destiny Udogie: Spurs supporting Italy defender after he was allegedly threatened with a gun. https://www.skysports.com/football/news/12040/13464053/destiny-udogie-spurs-supporting-defender-after-he-was-allegedly-threatened-with-a-gun
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Van de Ven stunner inspires 10-man Spurs to emphatic win over Copenhagen
-**Slug (lower-third):** Van de Ven stunner inspires 10-man Spurs to emphatic win …  
-**When:** 2025-11-04 16:04 (America/Winnipeg)  •  **Published:** 2025-11-04 22:04 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Van de Ven stunner inspires 10-man Spurs to emphatic win over Copenhagen. Brennan Johnson scored the opener and was later sent off in Tottenham's 4-0 home Champions League win against Cogenhagen Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Van de Ven stunner inspires 10-man Spurs to emphatic win over Copenhagen. https://www.theguardian.com/football/2025/nov/04/tottenham-fc-copenhagen-champions-league-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Anxious Aston residents prepare for Villa's match against Maccabi Tel Aviv
-**Slug (lower-third):** Anxious Aston residents prepare for Villa's match against…  
-**When:** 2025-11-04 14:17 (America/Winnipeg)  •  **Published:** 2025-11-04 20:17 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Anxious Aston residents prepare for Villa's match against Maccabi Tel Aviv. Residents and business owners living around Aston Villa's stadium have expressed anxieties before the club's Europa League match against Maccabi Tel Aviv Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Anxious Aston residents prepare for Villa's match against Maccabi Tel Aviv. https://www.theguardian.com/football/2025/nov/04/aston-villa-maccabi-tel-aviv-europa-league-residents-business-owners-concern
+- skysports.com — Grand Slam of Darts: Does success in Wolverhampton help you win the World Darts Championship?. https://www.skysports.com/darts/news/12040/13460958/grand-slam-of-darts-does-success-in-wolverhampton-help-you-win-the-world-darts-championship
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
