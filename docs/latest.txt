@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-07 12:30 (America/Winnipeg)  |  2025-11-07 18:30 (UTC)
+**Generated:** 2025-11-07 19:29 (America/Winnipeg)  |  2025-11-08 01:29 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 48s
+**Estimated total video length:** ~4m 30s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League team news: predicted lineups for the weekend action
-- Pep Guardiola on his 1,000th game: 'Dedication, passion, love - in that nobody beats me'
-- Arne Slot exclusive: Pep Guardiola praise ahead of Man City clash, Virgil van Dijk form and the Premier League title race
+- Manchester United: Ruben Amorim backs Benjamin Sesko to thrive despite 'struggles'
+- Benjamin Sesko: Man Utd striker should not take criticism personally - Amorim
+- Slot rejects Wenger claim that Wirtz at No 10 has 'destroyed Liverpool's midfield'
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Manchester United manager Ruben Amorim wins manager of month award for October
-**Slug (lower-third):** Manchester United manager Ruben Amorim wins manager of mo…  
-**When:** 2025-11-07 07:49 (America/Winnipeg)  •  **Published:** 2025-11-07 13:49 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 1: Manchester United: Ruben Amorim backs Benjamin Sesko to thrive despite 'struggles'
+**Slug (lower-third):** Manchester United: Ruben Amorim backs Benjamin Sesko to t…  
+**When:** 2025-11-07 16:38 (America/Winnipeg)  •  **Published:** 2025-11-07 22:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United manager Ruben Amorim wins manager of month award for October. Manchester United boss Ruben Amorim wins the Premier League manager of the month award for October as he is awarded the prize for the first time. Relevance to standings and momentum.
+Manchester United: Ruben Amorim backs Benjamin Sesko to thrive despite 'struggles'. Man Utd head coach Ruben Amorim backs striker Benjamin Sesko to find his feet at Old Trafford and insists his early "struggles" are "normal" amid the scrutiny the Red Devils face from the media and "club legends". Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,55 @@ Manchester United manager Ruben Amorim wins manager of month award for October. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester United manager Ruben Amorim wins manager of month award for October. https://www.bbc.com/sport/football/articles/cyv89dj34m6o?at_medium=RSS&at_campaign=rss
+- bbc.com — Manchester United: Ruben Amorim backs Benjamin Sesko to thrive despite 'struggles'. https://www.bbc.com/sport/videos/c8eyjl104n7o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Benjamin Sesko: Man Utd striker should not take criticism personally - Amorim
+**Slug (lower-third):** Benjamin Sesko: Man Utd striker should not take criticism…  
+**When:** 2025-11-07 16:37 (America/Winnipeg)  •  **Published:** 2025-11-07 22:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Benjamin Sesko: Man Utd striker should not take criticism personally - Amorim. Manchester United head coach Ruben Amorim accepts APS73.7m striker Benjamin Sesko has struggled at times in his first few weeks at the club but urges him not to take criticism from club legends personally. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Benjamin Sesko: Man Utd striker should not take criticism personally - Amorim. https://www.bbc.com/sport/football/articles/cvgk12d00r2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Sonia Bompastor exclusive: Chelsea Women head coach offers insight into playing philosophy ahead of Arsenal Women clash in WSL
+**Slug (lower-third):** Sonia Bompastor exclusive: Chelsea Women head coach offer…  
+**When:** 2025-11-07 13:45 (America/Winnipeg)  •  **Published:** 2025-11-07 19:45 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+Sonia Bompastor exclusive: Chelsea Women head coach offers insight into playing philosophy ahead of Arsenal Women clash in WSL. Chelsea Women can match their own WSL unbeaten streak this weekend; Millie Bright can also equal Jordan Nobbs WSL appearance record; watch Arenal Women vs Chelsea Women live on Sky Sports on Saturday from 11.30am; kick-off 12pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Sonia Bompastor exclusive: Chelsea Women head coach offers insight into playing philosophy ahead of Arsenal Women clash in WSL. https://www.skysports.com/football/news/12040/13464919/sonia-bompastor-exclusive-chelsea-women-head-coach-offers-insight-into-playing-philosophy-ahead-of-arsenal-women-clash-in-wsl
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,10 +90,34 @@ Manchester United manager Ruben Amorim wins manager of month award for October. 
 
 ### Transfers
 
-## Story 2: Morgan Rogers: Aston Villa forward agrees new contract with Premier League club until 2031
+## Story 4: Football gossip: Mainoo, Tonali, Rogers, Konate, Botman, Toney, Mac Allister
+**Slug (lower-third):** Football gossip: Mainoo, Tonali, Rogers, Konate, Botman, …  
+**When:** 2025-11-07 15:37 (America/Winnipeg)  •  **Published:** 2025-11-07 21:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Mainoo, Tonali, Rogers, Konate, Botman, Toney, Mac Allister. Manchester United midfielder Kobbie Mainoo is interesting two Italian clubs, Newcastle midfielder Sandro Tonali is homesick for AC Milan, Morgan Rogers is set to sign a new Aston Villa contract, plus more. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Mainoo, Tonali, Rogers, Konate, Botman, Toney, Mac Allister. https://www.bbc.com/sport/football/articles/cj974n8z9dwo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Morgan Rogers: Aston Villa forward agrees new contract with Premier League club until 2031
 **Slug (lower-third):** Morgan Rogers: Aston Villa forward agrees new contract wi…  
 **When:** 2025-11-07 09:39 (America/Winnipeg)  •  **Published:** 2025-11-07 15:39 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+**Virality score:** 91  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 Morgan Rogers: Aston Villa forward agrees new contract with Premier League club until 2031. Aston Villa forward Morgan Rogers has agreed a new six-year deal with the club; fresh terms will run until 2031 and make him one of the highest earners among Unai Emerys squad; Rogers had previously been on the radar of clubs in the Premier League and in Europe Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -66,15 +138,41 @@ Morgan Rogers: Aston Villa forward agrees new contract with Premier League club 
 
 ---
 
+### League & Regulation
+
+## Story 6: Pep Guardiola: Man City boss in disbelief at numbers before 1,000th game in charge
+**Slug (lower-third):** Pep Guardiola: Man City boss in disbelief at numbers befo…  
+**When:** 2025-11-07 09:37 (America/Winnipeg)  •  **Published:** 2025-11-07 15:37 (UTC)  
+**Virality score:** 91  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Pep Guardiola: Man City boss in disbelief at numbers before 1,000th game in charge. Pep Guardiola says he cannot believe the numbers he has achieved before taking charge of his 1,000th game in management when Man City host Liverpool in the Premier League on Sunday. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Pep Guardiola: Man City boss in disbelief at numbers before 1,000th game in charge. https://www.bbc.com/sport/football/articles/c3dnzn3v1p7o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ### Club Updates
 
-## Story 3: Premier League team news: predicted lineups for the weekend action
-**Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
-**When:** 2025-11-07 12:01 (America/Winnipeg)  •  **Published:** 2025-11-07 18:01 (UTC)  
+## Story 7: Slot rejects Wenger claim that Wirtz at No 10 has 'destroyed Liverpool's midfield'
+**Slug (lower-third):** Slot rejects Wenger claim that Wirtz at No 10 has 'destro…  
+**When:** 2025-11-07 16:30 (America/Winnipeg)  •  **Published:** 2025-11-07 22:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League team news: predicted lineups for the weekend action. Arsenal travel to Sunderland aiming for a sixth consecutive league win on Saturday while Manchester City host Liverpool on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Slot rejects Wenger claim that Wirtz at No 10 has 'destroyed Liverpool's midfield'. Arne Slot has rejected Arsene Wenger's theory that playing Florian Wirtz as a No 10 has "destroyed Liverpool's midfield" Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +181,7 @@ Premier League team news: predicted lineups for the weekend action. Arsenal trav
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/football/2025/nov/07/premier-league-team-news-predicted-lineups-for-the-weekend-action
+- theguardian.com — Slot rejects Wenger claim that Wirtz at No 10 has 'destroyed Liverpool's midfield'. https://www.theguardian.com/football/2025/nov/07/slot-rejects-wenger-claim-that-wirtz-at-no-10-has-destroyed-liverpools-midfield
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +190,13 @@ Premier League team news: predicted lineups for the weekend action. Arsenal trav
 
 ---
 
-## Story 4: Pep Guardiola on his 1,000th game: 'Dedication, passion, love - in that nobody beats me'
-**Slug (lower-third):** Pep Guardiola on his 1,000th game: 'Dedication, passion, …  
-**When:** 2025-11-07 11:29 (America/Winnipeg)  •  **Published:** 2025-11-07 17:29 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: 'I have to be alert': Raya's unbeaten run goes on and on for miserly Arsenal
+**Slug (lower-third):** 'I have to be alert': Raya's unbeaten run goes on and on …  
+**When:** 2025-11-07 13:08 (America/Winnipeg)  •  **Published:** 2025-11-07 19:08 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pep Guardiola on his 1,000th game: 'Dedication, passion, love - in that nobody beats me'. Pep Guardiola thanked 'the universe' for facing Liverpool, 'the biggest rival in this country', in his milestone match on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+'I have to be alert': Raya's unbeaten run goes on and on for miserly Arsenal. The goalkeeper is staying grounded despite the club equalling their clean-sheets record, which has stood for 122 years Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +205,7 @@ Pep Guardiola on his 1,000th game: 'Dedication, passion, love - in that nobody b
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Pep Guardiola on his 1,000th game: 'Dedication, passion, love - in that nobody beats me'. https://www.theguardian.com/football/2025/nov/07/pep-guardiola-1000th-game-manchester-city-liverpool
+- theguardian.com — 'I have to be alert': Raya's unbeaten run goes on and on for miserly Arsenal. https://www.theguardian.com/football/2025/nov/07/i-have-to-be-alert-rayas-unbeaten-run-goes-on-and-on-for-miserly-arsenal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,34 +214,10 @@ Pep Guardiola on his 1,000th game: 'Dedication, passion, love - in that nobody b
 
 ---
 
-## Story 5: Arne Slot exclusive: Pep Guardiola praise ahead of Man City clash, Virgil van Dijk form and the Premier League title race
-**Slug (lower-third):** Arne Slot exclusive: Pep Guardiola praise ahead of Man Ci…  
-**When:** 2025-11-07 11:00 (America/Winnipeg)  •  **Published:** 2025-11-07 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Arne Slot exclusive: Pep Guardiola praise ahead of Man City clash, Virgil van Dijk form and the Premier League title race. Arne Slot will be hoping for a third win in a row as Liverpool travel to the Etihad in the Premier League; the Reds trail Arsenal by seven points in the league table; watch Man City vs Liverpool on Super Sunday live on Sky Sports from 4pm; kick-off 4.30pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Arne Slot exclusive: Pep Guardiola praise ahead of Man City clash, Virgil van Dijk form and the Premier League title race. https://www.skysports.com/football/news/12040/13465696/arne-slot-exclusive-pep-guardiola-praise-ahead-of-man-city-clash-virgil-van-dijk-form-and-the-premier-league-title-race
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Your Guardian sport weekend: England v Fiji, F1 heating up and Premier League
+## Story 9: Your Guardian sport weekend: England v Fiji, F1 heating up and Premier League
 **Slug (lower-third):** Your Guardian sport weekend: England v Fiji, F1 heating u…  
 **When:** 2025-11-07 10:54 (America/Winnipeg)  •  **Published:** 2025-11-07 16:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Your Guardian sport weekend: England v Fiji, F1 heating up and Premier League. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -164,59 +238,10 @@ Your Guardian sport weekend: England v Fiji, F1 heating up and Premier League. H
 
 ---
 
-## Story 7: Joey Barton trial verdict: Ex-footballer found guilty of sending 'grossly offensive' social media posts
-**Slug (lower-third):** Joey Barton trial verdict: Ex-footballer found guilty of …  
-**When:** 2025-11-07 10:17 (America/Winnipeg)  •  **Published:** 2025-11-07 16:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Joey Barton trial verdict: Ex-footballer found guilty of sending 'grossly offensive' social media posts. Joey Barton convicted of sending grossly offensive social media posts about Jeremy Vine, Lucy Ward and Eni Aluko; Barton found guilty by a jury at Liverpool Crown Court; Warning: This article contains details some readers may find distressing and upsetting Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Joey Barton trial verdict: Ex-footballer found guilty of sending 'grossly offensive' social media posts. https://www.skysports.com/football/news/12040/13465868/joey-barton-trial-verdict-ex-footballer-found-guilty-of-sending-grossly-offensive-social-media-posts
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Foden, Bellingham recalled to England squad
-**Slug (lower-third):** Foden, Bellingham recalled to England squad  
-**When:** 2025-11-07 07:18 (America/Winnipeg)  •  **Published:** 2025-11-07 13:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Foden, Bellingham recalled to England squad. Phil Foden and Jude Bellingham have been recalled for Thomas Tuchel's England squad which also includes Bournemouth's Alex Scott for the first time. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- espn.com — Foden, Bellingham recalled to England squad. https://www.espn.com/soccer/story/_/id/46868806/england-squad-jude-bellingham-phil-foden-recalled-thomas-tuchel
-- bbc.com — 'Immense' Jude Bellingham and Phil Foden recalled to England squad by Thomas Tuchel. https://www.bbc.com/sport/football/articles/c0mxgd10j2yo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Alex Scott: Who is Bournemouth & England star?
+## Story 10: Alex Scott: Who is Bournemouth & England star?
 **Slug (lower-third):** Alex Scott: Who is Bournemouth & England star?  
 **When:** 2025-11-07 08:20 (America/Winnipeg)  •  **Published:** 2025-11-07 14:20 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Alex Scott: Who is Bournemouth & England star?. From the eighth tier of English football to the England squad - who is new Three Lions call-up Alex Scott? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -229,30 +254,6 @@ Alex Scott: Who is Bournemouth & England star?. From the eighth tier of English 
 
 ### Sources
 - bbc.com — Alex Scott: Who is Bournemouth & England star?. https://www.bbc.com/sport/football/articles/cyv89v09qplo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League: In-form Danny Welbeck and Ollie Watkins' scoring troubles among talking points ahead of packed Super Sunday 2pm kick-offs
-**Slug (lower-third):** Premier League: In-form Danny Welbeck and Ollie Watkins' …  
-**When:** 2025-11-07 08:15 (America/Winnipeg)  •  **Published:** 2025-11-07 14:15 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Premier League: In-form Danny Welbeck and Ollie Watkins' scoring troubles among talking points ahead of packed Super Sunday 2pm kick-offs. Sky Sports Multiview is a unique service which allows viewers to watch FOUR Premier League matches simultaneously on the same screen; Aston Villa vs Bournemouth, Brentford vs Newcastle, Crystal Palace vs Brighton and Nottingham Forest vs Leeds all kick-off at 2pm on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Premier League: In-form Danny Welbeck and Ollie Watkins' scoring troubles among talking points ahead of packed Super Sunday 2pm kick-offs. https://www.skysports.com/football/news/12040/13464270/premier-league-in-form-danny-welbeck-and-ollie-watkins-scoring-troubles-among-talking-points-ahead-of-packed-super-sunday-2pm-kick-offs
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
