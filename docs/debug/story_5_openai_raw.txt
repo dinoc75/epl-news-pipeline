@@ -1,14 +1,2 @@
-resp_000c04b4662e44e800690e9d6fc24081958fdfdcb8269b5511
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_000c04b4662e44e800690e9d703e70819592d114eee5f23726
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Good
