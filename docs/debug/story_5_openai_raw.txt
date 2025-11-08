@@ -1,2 +1,14 @@
-{
-  "script": "On
+resp_07ff6bc383f15e8e00690f8c1c430481968f83d5799a69d960
+max_output_tokens
+gpt-5-mini-2025-08-07
+response
+rs_07ff6bc383f15e8e00690f8c1cd79081968f9162e14124f9fc
+reasoning
+auto
+medium
+default
+incomplete
+text
+medium
+disabled
+developer

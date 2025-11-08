@@ -1,14 +1,2 @@
-resp_0218b7f8eacef74200690f3b2888b081969b52ac329073f70f
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_0218b7f8eacef74200690f3b28eef88196ad7c235ec9ed19b8
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Good morning — here are the highlights as Everton beat Fulham 2-0 in the Premier League,
