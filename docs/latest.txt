@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-08 12:28 (America/Winnipeg)  |  2025-11-08 18:28 (UTC)
+**Generated:** 2025-11-08 19:46 (America/Winnipeg)  |  2025-11-09 01:46 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Tottenham 2-2 Manchester United: Big questions as Benjamin Sesko injured
-- WSL: Manchester United 0-1 Aston Villa - highlights
-- WSL: Arsenal 1-1 Chelsea - highlights
+- Malo Gusto's first professional goal sets up Chelsea cruise past winless Wolves
+- Match Of The Day: How Chelsea's Alejandro Garnacho caused Wolves problems
+- Match Of The Day: Dan Ballard epitomises Sunderland's toughness - Alan Shearer
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Championship roundup: Manning faces fan fury as Norwich beaten again
-**Slug (lower-third):** Championship roundup: Manning faces fan fury as Norwich b…  
-**When:** 2025-11-08 11:49 (America/Winnipeg)  •  **Published:** 2025-11-08 17:49 (UTC)  
+## Story 1: Adam Wharton addresses Old Trafford speculation - Paper talk and football gossip
+**Slug (lower-third):** Adam Wharton addresses Old Trafford speculation - Paper t…  
+**When:** 2025-11-08 17:50 (America/Winnipeg)  •  **Published:** 2025-11-08 23:50 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Championship roundup: Manning faces fan fury as Norwich beaten again. Jordan James headed home a dramatic injury-time winner as Leicester came from behind to secure a 2-1 win at Norwich, piling more pressure on manager Liam Manning Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Adam Wharton addresses Old Trafford speculation - Paper talk and football gossip. Latest from Sundays newspapers as Adam Whartons addresses speculation linking him to Manchester United; Ibrahima Konate is wanted by Bayern Munich; Celtic identify two new managerial targets Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,33 +31,7 @@ Championship roundup: Manning faces fan fury as Norwich beaten again. Jordan Jam
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Championship roundup: Manning faces fan fury as Norwich beaten again. https://www.theguardian.com/football/2025/nov/08/championship-roundup-hull-portsmouth-millwall-preston-derby-blackburn
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 2: Tottenham 2-2 Manchester United: Big questions as Benjamin Sesko injured
-**Slug (lower-third):** Tottenham 2-2 Manchester United: Big questions as Benjami…  
-**When:** 2025-11-08 12:10 (America/Winnipeg)  •  **Published:** 2025-11-08 18:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham 2-2 Manchester United: Big questions as Benjamin Sesko injured. A dramatic - or drab - Saturday lunchtime Premier League match with as many questions as answers, and for Manchester United a major injury scare. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Tottenham 2-2 Manchester United: Big questions as Benjamin Sesko injured. https://www.bbc.com/sport/football/articles/ce9dmpz0vn2o?at_medium=RSS&at_campaign=rss
+- skysports.com — Adam Wharton addresses Old Trafford speculation - Paper talk and football gossip. https://www.skysports.com/football/news/12040/13467063/adam-wharton-addresses-old-trafford-speculation-paper-talk-and-football-gossip
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +42,13 @@ Tottenham 2-2 Manchester United: Big questions as Benjamin Sesko injured. A dram
 
 ### Club Updates
 
-## Story 3: WSL: Manchester United 0-1 Aston Villa - highlights
-**Slug (lower-third):** WSL: Manchester United 0-1 Aston Villa - highlights  
-**When:** 2025-11-08 12:01 (America/Winnipeg)  •  **Published:** 2025-11-08 18:01 (UTC)  
+## Story 2: Malo Gusto's first professional goal sets up Chelsea cruise past winless Wolves
+**Slug (lower-third):** Malo Gusto's first professional goal sets up Chelsea crui…  
+**When:** 2025-11-08 19:31 (America/Winnipeg)  •  **Published:** 2025-11-09 01:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL: Manchester United 0-1 Aston Villa - highlights. Miri Taylor's first goal of the campaign is enough to give Aston Villa a 1-0 win over Manchester United, as the home side lose their first game in the Women's Super League this season. Relevance to standings and momentum.
+Malo Gusto's first professional goal sets up Chelsea cruise past winless Wolves. Joao Pedro and Pedro Neto, against his former club, were also on target in Chelsea's emphatic 3-0 home Premier League win against Wolves Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +57,7 @@ WSL: Manchester United 0-1 Aston Villa - highlights. Miri Taylor's first goal of
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL: Manchester United 0-1 Aston Villa - highlights. https://www.bbc.com/sport/football/videos/cp8e66z64emo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Malo Gusto's first professional goal sets up Chelsea cruise past winless Wolves. https://www.theguardian.com/football/2025/nov/08/chelsea-wolves-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +66,13 @@ WSL: Manchester United 0-1 Aston Villa - highlights. Miri Taylor's first goal of
 
 ---
 
-## Story 4: WSL: Arsenal 1-1 Chelsea - highlights
-**Slug (lower-third):** WSL: Arsenal 1-1 Chelsea - highlights  
-**When:** 2025-11-08 12:00 (America/Winnipeg)  •  **Published:** 2025-11-08 18:00 (UTC)  
+## Story 3: Match Of The Day: How Chelsea's Alejandro Garnacho caused Wolves problems
+**Slug (lower-third):** Match Of The Day: How Chelsea's Alejandro Garnacho caused…  
+**When:** 2025-11-08 18:26 (America/Winnipeg)  •  **Published:** 2025-11-09 00:26 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL: Arsenal 1-1 Chelsea - highlights. Alessia Russo scores a late equaliser to earn Arsenal a 1-1 draw as Women's Super League champions Chelsea extend their unbeaten run in the competition to a record-equalling 33 matches. Relevance to standings and momentum.
+Match Of The Day: How Chelsea's Alejandro Garnacho caused Wolves problems. Match of the Day pundit Alan Shearer explains how Alejandro Garnacho played his "best game" in a Chelsea shirt in their 3-0 win over Wolverhampton Wanderers at Stamford Bridge in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +81,7 @@ WSL: Arsenal 1-1 Chelsea - highlights. Alessia Russo scores a late equaliser to 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL: Arsenal 1-1 Chelsea - highlights. https://www.bbc.com/sport/football/videos/cwy133rj0zro?at_medium=RSS&at_campaign=rss
+- bbc.com — Match Of The Day: How Chelsea's Alejandro Garnacho caused Wolves problems. https://www.bbc.com/sport/football/videos/c5yp8njx2peo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +90,13 @@ WSL: Arsenal 1-1 Chelsea - highlights. Alessia Russo scores a late equaliser to 
 
 ---
 
-## Story 5: Brennan Johnson: Craig Bellamy backs forward to make his mark under Spurs boss Thomas Frank
-**Slug (lower-third):** Brennan Johnson: Craig Bellamy backs forward to make his …  
-**When:** 2025-11-08 11:42 (America/Winnipeg)  •  **Published:** 2025-11-08 17:42 (UTC)  
+## Story 4: Match Of The Day: Dan Ballard epitomises Sunderland's toughness - Alan Shearer
+**Slug (lower-third):** Match Of The Day: Dan Ballard epitomises Sunderland's tou…  
+**When:** 2025-11-08 18:00 (America/Winnipeg)  •  **Published:** 2025-11-09 00:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brennan Johnson: Craig Bellamy backs forward to make his mark under Spurs boss Thomas Frank. Craig Bellamy points to Brennan Johnson's attributes, but also dismisses the notion of the Spurs forward being the natural successor to Gareth Bale. Relevance to standings and momentum.
+Match Of The Day: Dan Ballard epitomises Sunderland's toughness - Alan Shearer. Match of the Day's Alan Shearer praises the performance of Sunderland defender Dan Ballard in the Black Cats' 2-2 draw against Premier League leaders Arsenal at the Stadium of Light. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +105,7 @@ Brennan Johnson: Craig Bellamy backs forward to make his mark under Spurs boss T
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Brennan Johnson: Craig Bellamy backs forward to make his mark under Spurs boss Thomas Frank. https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo?at_medium=RSS&at_campaign=rss
+- bbc.com — Match Of The Day: Dan Ballard epitomises Sunderland's toughness - Alan Shearer. https://www.bbc.com/sport/football/videos/cy5q16y6w2go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +114,13 @@ Brennan Johnson: Craig Bellamy backs forward to make his mark under Spurs boss T
 
 ---
 
-## Story 6: West Ham 3 -2 Burnley | Premier League highlights
-**Slug (lower-third):** West Ham 3 -2 Burnley | Premier League highlights  
-**When:** 2025-11-08 11:30 (America/Winnipeg)  •  **Published:** 2025-11-08 17:30 (UTC)  
+## Story 5: Match Of The Day: Benjamin Sesko 'must do better' for Man Utd - Alan Shearer
+**Slug (lower-third):** Match Of The Day: Benjamin Sesko 'must do better' for Man…  
+**When:** 2025-11-08 17:59 (America/Winnipeg)  •  **Published:** 2025-11-08 23:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham 3 -2 Burnley | Premier League highlights. FREE TO WATCH: Highlights of the Premier League match between West Ham United and Burnley Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Match Of The Day: Benjamin Sesko 'must do better' for Man Utd - Alan Shearer. Match of the Day's Alan Shearer breaks down the performance of Manchester United striker Benjamin Sesko who failed to capitalise on two very good opportunities in their 2-2 draw with Tottenham in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +129,7 @@ West Ham 3 -2 Burnley | Premier League highlights. FREE TO WATCH: Highlights of 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — West Ham 3 -2 Burnley | Premier League highlights. https://www.skysports.com/watch/video/13466720/west-ham-3-2-burnley-premier-league-highlights
+- bbc.com — Match Of The Day: Benjamin Sesko 'must do better' for Man Utd - Alan Shearer. https://www.bbc.com/sport/football/videos/c9d64z5e0x4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +138,13 @@ West Ham 3 -2 Burnley | Premier League highlights. FREE TO WATCH: Highlights of 
 
 ---
 
-## Story 7: West Ham edge past Burnley to lift gloom after fans fume at ownership
-**Slug (lower-third):** West Ham edge past Burnley to lift gloom after fans fume …  
-**When:** 2025-11-08 11:29 (America/Winnipeg)  •  **Published:** 2025-11-08 17:29 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: Grand Slam of Darts: Michael van Gerwen pips Beau Greaves in final-leg thriller as Luke Littler, Luke Humphries make winning starts
+**Slug (lower-third):** Grand Slam of Darts: Michael van Gerwen pips Beau Greaves…  
+**When:** 2025-11-08 17:15 (America/Winnipeg)  •  **Published:** 2025-11-08 23:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-West Ham edge past Burnley to lift gloom after fans fume at ownership. Kyle Walker-Peters scored the decisive goal in West Ham's 3-2 comeback victory over Burnley Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Grand Slam of Darts: Michael van Gerwen pips Beau Greaves in final-leg thriller as Luke Littler, Luke Humphries make winning starts. Beau Greaves missed match darts in her final-leg defeat to Michael van Gerwen in Wolverhampton; Luke Littler and Luke Humphries made winning starts to the Grand Slam of Darts; Watch day two live on Sunday from 1pm on Sky Sports Mix Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +153,7 @@ West Ham edge past Burnley to lift gloom after fans fume at ownership. Kyle Walk
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — West Ham edge past Burnley to lift gloom after fans fume at ownership. https://www.theguardian.com/football/2025/nov/08/west-ham-burnley-premier-league-match-report
+- skysports.com — Grand Slam of Darts: Michael van Gerwen pips Beau Greaves in final-leg thriller as Luke Littler, Luke Humphries make winning starts. https://www.skysports.com/darts/news/12040/13466563/grand-slam-of-darts-michael-van-gerwen-pips-beau-greaves-in-final-leg-thriller-as-luke-littler-luke-humphries-make-winning-starts
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +162,13 @@ West Ham edge past Burnley to lift gloom after fans fume at ownership. Kyle Walk
 
 ---
 
-## Story 8: Idrissa Gueye and Michael Keane on target as Everton sink Fulham
-**Slug (lower-third):** Idrissa Gueye and Michael Keane on target as Everton sink…  
-**When:** 2025-11-08 11:20 (America/Winnipeg)  •  **Published:** 2025-11-08 17:20 (UTC)  
+## Story 7: Premier League: How Sunderland stopped the Arsenal machine
+**Slug (lower-third):** Premier League: How Sunderland stopped the Arsenal machine  
+**When:** 2025-11-08 16:50 (America/Winnipeg)  •  **Published:** 2025-11-08 22:50 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Idrissa Gueye and Michael Keane on target as Everton sink Fulham. Everton ended a run of three games without a win with a 2-0 victory over Fulham at Hill Dickinson Stadium Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: How Sunderland stopped the Arsenal machine. Sunderland halt Arsenal's winning run to give hope to the Premier League chasing pack, with the way they stifled the leaders catching the eye. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +177,7 @@ Idrissa Gueye and Michael Keane on target as Everton sink Fulham. Everton ended 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Idrissa Gueye and Michael Keane on target as Everton sink Fulham. https://www.theguardian.com/football/2025/nov/08/idrissa-gueye-and-michael-keane-on-target-as-everton-sink-fulham
+- bbc.com — Premier League: How Sunderland stopped the Arsenal machine. https://www.bbc.com/sport/football/articles/clykxq76122o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +186,13 @@ Idrissa Gueye and Michael Keane on target as Everton sink Fulham. Everton ended 
 
 ---
 
-## Story 9: Everton 2-0 Fulham | Premier League highlights
-**Slug (lower-third):** Everton 2-0 Fulham | Premier League highlights  
-**When:** 2025-11-08 11:17 (America/Winnipeg)  •  **Published:** 2025-11-08 17:17 (UTC)  
+## Story 8: Premier League: West Ham United 3-2 Burnley - highlights
+**Slug (lower-third):** Premier League: West Ham United 3-2 Burnley - highlights  
+**When:** 2025-11-08 16:31 (America/Winnipeg)  •  **Published:** 2025-11-08 22:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton 2-0 Fulham | Premier League highlights. FREE TO WATCH: Highlights of the Premier League match between Everton and Fulham. Relevance to standings and momentum.
+Premier League: West Ham United 3-2 Burnley - highlights. West Ham come from a goal down to beat Burnley 3-2 at the London Stadium, as Nuno Espirito Santo's side earn a second consecutive win for the first time this season in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +201,7 @@ Everton 2-0 Fulham | Premier League highlights. FREE TO WATCH: Highlights of the
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Everton 2-0 Fulham | Premier League highlights. https://www.skysports.com/watch/video/13466668/everton-2-0-fulham-premier-league-highlights
+- bbc.com — Premier League: West Ham United 3-2 Burnley - highlights. https://www.bbc.com/sport/football/videos/cly90j14l92o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +210,13 @@ Everton 2-0 Fulham | Premier League highlights. FREE TO WATCH: Highlights of the
 
 ---
 
-## Story 10: Tottenham Hotspur 2-2 Manchester Utd | Premier League highlights
-**Slug (lower-third):** Tottenham Hotspur 2-2 Manchester Utd | Premier League hig…  
-**When:** 2025-11-08 11:15 (America/Winnipeg)  •  **Published:** 2025-11-08 17:15 (UTC)  
+## Story 9: Premier League: Everton 2-0 Fulham - highlights
+**Slug (lower-third):** Premier League: Everton 2-0 Fulham - highlights  
+**When:** 2025-11-08 16:31 (America/Winnipeg)  •  **Published:** 2025-11-08 22:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham Hotspur 2-2 Manchester Utd | Premier League highlights. FREE TO WATCH: Highlights of the Premier League match between Manchester United and Tottenham Hotspur. Relevance to standings and momentum.
+Premier League: Everton 2-0 Fulham - highlights. Goals from Idrissa Gueye and Michael Keane help Everton end their three-match winless run with a 2-0 win over Fulham at the Hill Dickinson Stadium. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,8 +225,31 @@ Tottenham Hotspur 2-2 Manchester Utd | Premier League highlights. FREE TO WATCH:
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham Hotspur 2-2 Manchester Utd | Premier League highlights. https://www.skysports.com/watch/video/13466423/tottenham-hotspur-2-2-manchester-utd-premier-league-highlights
-- bbc.com — Premier League: Tottenham 2-2 Manchester United - Spurs and Man Utd 'neutralised' each other - Thomas Frank. https://www.bbc.com/sport/football/videos/c4gp8833x8qo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League: Everton 2-0 Fulham - highlights. https://www.bbc.com/sport/football/videos/c70j5g6n1zjo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Autumn Nations Series: England's replacements bench under Steve Borthwick becoming real point of difference
+**Slug (lower-third):** Autumn Nations Series: England's replacements bench under…  
+**When:** 2025-11-08 14:26 (America/Winnipeg)  •  **Published:** 2025-11-08 20:26 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Autumn Nations Series: England's replacements bench under Steve Borthwick becoming real point of difference. For successive Saturdays this Autumn, England coach Steve Borthwick has unleashed five replacements into forward pack at same moment while in tight contests vs Australia and Fiji before his squad kicked on to secure wins; Englands depth and strength of bench becoming point of difference Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Autumn Nations Series: England's replacements bench under Steve Borthwick becoming real point of difference. https://www.skysports.com/rugby-union/news/12040/13466965/autumn-nations-series-englands-replacements-bench-under-steve-borthwick-becoming-real-point-of-difference
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
