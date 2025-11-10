@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-09 12:27 (America/Winnipeg)  |  2025-11-09 18:27 (UTC)
+**Generated:** 2025-11-09 19:47 (America/Winnipeg)  |  2025-11-10 01:47 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 28s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Man City go top of Women's Super League as Liverpool and West Ham stay winless - round-up
-- WSL: London City Lionesses 4-2 Tottenham Hotspur - highlights
-- Manchester City vs Liverpool: Sensational Jeremy Doku goal makes it three for City
+- Danny Murphy column: 'It can't go on' - how Liverpool's tactics helped brilliant DokuA run riot
+- Football gossip: Wharton, Rodrygo, Gallagher, Edwards, Stiller
+- Scott McTominay talks up Napoli move to Man Utd's Kobbie Mainoo - Paper talk and football gossip
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: London City Lionesses: WSL newcomers dream big after statement win against Tottenham
-**Slug (lower-third):** London City Lionesses: WSL newcomers dream big after stat…  
-**When:** 2025-11-09 11:55 (America/Winnipeg)  •  **Published:** 2025-11-09 17:55 (UTC)  
+## Story 1: Premier League: Nottingham Forest 3-1 Leeds United - highlights
+**Slug (lower-third):** Premier League: Nottingham Forest 3-1 Leeds United - high…  
+**When:** 2025-11-09 14:00 (America/Winnipeg)  •  **Published:** 2025-11-09 20:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-London City Lionesses: WSL newcomers dream big after statement win against Tottenham. London City Lionesses' thrilling 4-2 win over Tottenham feels like a watershed moment in their debut Women's Super League campaign. Implications for the squad and table.
+Premier League: Nottingham Forest 3-1 Leeds United - highlights. Nottingham Forest come from behind to beat relegation rivals Leeds United and earn their first Premier League win under manager Sean Dyche. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,60 @@ London City Lionesses: WSL newcomers dream big after statement win against Totte
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — London City Lionesses: WSL newcomers dream big after statement win against Tottenham. https://www.bbc.com/sport/football/articles/ckgzpyv620eo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League: Nottingham Forest 3-1 Leeds United - highlights. https://www.bbc.com/sport/football/videos/c0jd2gjzw41o?at_medium=RSS&at_campaign=rss
+- skysports.com — Nottingham Forest 3-1 Leeds: Forest win first Premier League game since opening day to drag visitors into danger. https://www.skysports.com/football/nottingham-forest-vs-leeds-united/report/531235
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 2: Football gossip: Wharton, Rodrygo, Gallagher, Edwards, Stiller
+**Slug (lower-third):** Football gossip: Wharton, Rodrygo, Gallagher, Edwards, St…  
+**When:** 2025-11-09 17:03 (America/Winnipeg)  •  **Published:** 2025-11-09 23:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Wharton, Rodrygo, Gallagher, Edwards, Stiller. Crystal Palace open contract talks with Adam Wharton, Tottenham are keen on Real Madrid forward Rodrygo, Manchester United want midfield signings in January, plus more. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Wharton, Rodrygo, Gallagher, Edwards, Stiller. https://www.bbc.com/sport/football/articles/ce8gp2x4270o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Scott McTominay talks up Napoli move to Man Utd's Kobbie Mainoo - Paper talk and football gossip
+**Slug (lower-third):** Scott McTominay talks up Napoli move to Man Utd's Kobbie …  
+**When:** 2025-11-09 16:45 (America/Winnipeg)  •  **Published:** 2025-11-09 22:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Scott McTominay talks up Napoli move to Man Utd's Kobbie Mainoo - Paper talk and football gossip. Latest from Mondays newspapers as Enzo Fernandes suffers injury blow and will stay at Chelsea during the international break; Bodo/Glimt boss Kjetil Knutsen opens the door to a move to Celtic Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Scott McTominay talks up Napoli move to Man Utd's Kobbie Mainoo - Paper talk and football gossip. https://www.skysports.com/football/news/12040/13467785/scott-mctominay-talks-up-napoli-move-to-man-utds-kobbie-mainoo-paper-talk-and-football-gossip
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +95,13 @@ London City Lionesses: WSL newcomers dream big after statement win against Totte
 
 ### Club Updates
 
-## Story 2: Man City go top of Women's Super League as Liverpool and West Ham stay winless - round-up
-**Slug (lower-third):** Man City go top of Women's Super League as Liverpool and …  
-**When:** 2025-11-09 12:10 (America/Winnipeg)  •  **Published:** 2025-11-09 18:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 4: Danny Murphy column: 'It can't go on' - how Liverpool's tactics helped brilliant DokuA run riot
+**Slug (lower-third):** Danny Murphy column: 'It can't go on' - how Liverpool's t…  
+**When:** 2025-11-09 17:54 (America/Winnipeg)  •  **Published:** 2025-11-09 23:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Man City go top of Women's Super League as Liverpool and West Ham stay winless - round-up. Khadija Shaw score Manchester Citys winner; winless West Ham and Liverpool got their first points of the WSL season but were denied by stoppage-time goals in draws against Leicester and Brighton respectively as London City Lionesses beat Tottenham thanks to two goals from Freya Godfrey Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Danny Murphy column: 'It can't go on' - how Liverpool's tactics helped brilliant DokuA run riot. Jeremy Doku was in superb form to help Manchester City beat Liverpool on Sunday, but MOTD pundit Danny Murphy explains how the way the Reds set up made it easier for the Belgium winger to shine. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +110,7 @@ Man City go top of Women's Super League as Liverpool and West Ham stay winless -
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man City go top of Women's Super League as Liverpool and West Ham stay winless - round-up. https://www.skysports.com/football/news/12040/13465099/man-city-go-top-of-womens-super-league-as-liverpool-and-west-ham-stay-winless-round-up
+- bbc.com — Danny Murphy column: 'It can't go on' - how Liverpool's tactics helped brilliant DokuA run riot. https://www.bbc.com/sport/football/articles/c8x1w4qvwe4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +119,13 @@ Man City go top of Women's Super League as Liverpool and West Ham stay winless -
 
 ---
 
-## Story 3: WSL: London City Lionesses 4-2 Tottenham Hotspur - highlights
-**Slug (lower-third):** WSL: London City Lionesses 4-2 Tottenham Hotspur - highli…  
-**When:** 2025-11-09 12:04 (America/Winnipeg)  •  **Published:** 2025-11-09 18:04 (UTC)  
+## Story 5: Football Daily - Premier League Review with Rick Edwards - BBC Sounds
+**Slug (lower-third):** Football Daily - Premier League Review with Rick Edwards …  
+**When:** 2025-11-09 15:52 (America/Winnipeg)  •  **Published:** 2025-11-09 21:52 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL: London City Lionesses 4-2 Tottenham Hotspur - highlights. Freya Godfrey scores twice as London City Lionesses get the better of Tottenham Hotspur in a back-and-forth 4-2 win for the home side at Hayes Lane in the Women's Super League. Relevance to standings and momentum.
+Football Daily - Premier League Review with Rick Edwards - BBC Sounds. Doku shines as Man City beat Liverpool. Hear from Pep Guardiola, Arne Slot & Sean Dyche. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +134,7 @@ WSL: London City Lionesses 4-2 Tottenham Hotspur - highlights. Freya Godfrey sco
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL: London City Lionesses 4-2 Tottenham Hotspur - highlights. https://www.bbc.com/sport/football/videos/cqx3p017vy0o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Football Daily - Premier League Review with Rick Edwards - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0mfp66w?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +143,13 @@ WSL: London City Lionesses 4-2 Tottenham Hotspur - highlights. Freya Godfrey sco
 
 ---
 
-## Story 4: Manchester City vs Liverpool: Sensational Jeremy Doku goal makes it three for City
-**Slug (lower-third):** Manchester City vs Liverpool: Sensational Jeremy Doku goa…  
-**When:** 2025-11-09 12:03 (America/Winnipeg)  •  **Published:** 2025-11-09 18:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: Troy Deeney's team of the week: Martinez, Anderson, Doku, Thiago, Buendia, Gonzalez, Ballard
+**Slug (lower-third):** Troy Deeney's team of the week: Martinez, Anderson, Doku,…  
+**When:** 2025-11-09 15:11 (America/Winnipeg)  •  **Published:** 2025-11-09 21:11 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester City vs Liverpool: Sensational Jeremy Doku goal makes it three for City. Jeremy Doku scores a sensational goal to put Manchester City 3-0 up against Liverpool in their Premier League match. Relevance to standings and momentum.
+Troy Deeney's team of the week: Martinez, Anderson, Doku, Thiago, Buendia, Gonzalez, Ballard. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +158,7 @@ Manchester City vs Liverpool: Sensational Jeremy Doku goal makes it three for Ci
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Manchester City vs Liverpool: Sensational Jeremy Doku goal makes it three for City. https://www.skysports.com/watch/video/13467545/goal-j-doku-63-manchester-city-3-0-liverpool
+- bbc.com — Troy Deeney's team of the week: Martinez, Anderson, Doku, Thiago, Buendia, Gonzalez, Ballard. https://www.bbc.com/sport/football/articles/ckgzp51jr2do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +167,13 @@ Manchester City vs Liverpool: Sensational Jeremy Doku goal makes it three for Ci
 
 ---
 
-## Story 5: WSL: Liverpool 1-1 Brighton & Hove Albion highlights
-**Slug (lower-third):** WSL: Liverpool 1-1 Brighton & Hove Albion highlights  
-**When:** 2025-11-09 12:01 (America/Winnipeg)  •  **Published:** 2025-11-09 18:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Newcastle boss Eddie Howe can do no more, the club have let him down, says Jamie Carragher after Brentford defeat
+**Slug (lower-third):** Newcastle boss Eddie Howe can do no more, the club have l…  
+**When:** 2025-11-09 14:24 (America/Winnipeg)  •  **Published:** 2025-11-09 20:24 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-WSL: Liverpool 1-1 Brighton & Hove Albion highlights. Rosa Kafaji scores a 93rd-minute equaliser for Brighton to deny Liverpool their first WSL win of the season. Relevance to standings and momentum.
+Newcastle boss Eddie Howe can do no more, the club have let him down, says Jamie Carragher after Brentford defeat. Newcastle are 10 games without a win away from home and sit 14th in the Premier League; Jamie Carragher says Eddie Howe can do no more at Newcastle and thinks he should consider the England job if Thomas Tuchel leaves in the summer Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +182,7 @@ WSL: Liverpool 1-1 Brighton & Hove Albion highlights. Rosa Kafaji scores a 93rd-
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL: Liverpool 1-1 Brighton & Hove Albion highlights. https://www.bbc.com/sport/football/videos/cwyp2j2pyx3o?at_medium=RSS&at_campaign=rss
+- skysports.com — Newcastle boss Eddie Howe can do no more, the club have let him down, says Jamie Carragher after Brentford defeat. https://www.skysports.com/football/news/12040/13467679/newcastle-jamie-carragher-says-eddie-howe-can-do-no-more-the-club-have-let-him-down
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +191,13 @@ WSL: Liverpool 1-1 Brighton & Hove Albion highlights. Rosa Kafaji scores a 93rd-
 
 ---
 
-## Story 6: Man City vs Liverpool: Should Virgil Van Dijk's goal have been disallowed for offside?
-**Slug (lower-third):** Man City vs Liverpool: Should Virgil Van Dijk's goal have…  
-**When:** 2025-11-09 11:38 (America/Winnipeg)  •  **Published:** 2025-11-09 17:38 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Premier League: Aston Villa 4-0 Bournemouth - highlights
+**Slug (lower-third):** Premier League: Aston Villa 4-0 Bournemouth - highlights  
+**When:** 2025-11-09 14:02 (America/Winnipeg)  •  **Published:** 2025-11-09 20:02 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City vs Liverpool: Should Virgil Van Dijk's goal have been disallowed for offside?. The Super Sunday panel discuss whether Virgil van Dijks header should have been disallowed after Andy Robertson was adjudged to be impeding Gianluigi Donnarumma in an offside position. Relevance to standings and momentum.
+Premier League: Aston Villa 4-0 Bournemouth - highlights. Aston Villa put in a dominant team performance, with four different goalscorers, to secure their biggest Premier League win of the season by beating Bournemouth 4-0 at Villa Park. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +206,7 @@ Man City vs Liverpool: Should Virgil Van Dijk's goal have been disallowed for of
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man City vs Liverpool: Should Virgil Van Dijk's goal have been disallowed for offside?. https://www.skysports.com/watch/video/13467515/man-city-vs-liverpool-should-virgil-van-dijks-goal-have-been-disallowed-for-offside
+- bbc.com — Premier League: Aston Villa 4-0 Bournemouth - highlights. https://www.bbc.com/sport/football/videos/c2052lvgljwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +215,13 @@ Man City vs Liverpool: Should Virgil Van Dijk's goal have been disallowed for of
 
 ---
 
-## Story 7: Nottingham Forest back on track under Sean Dyche - but worries for Leeds?
-**Slug (lower-third):** Nottingham Forest back on track under Sean Dyche - but wo…  
-**When:** 2025-11-09 11:29 (America/Winnipeg)  •  **Published:** 2025-11-09 17:29 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Brentford 3-1 Newcastle: Eddie Howe says 'we let everyone down'
+**Slug (lower-third):** Brentford 3-1 Newcastle: Eddie Howe says 'we let everyone…  
+**When:** 2025-11-09 14:00 (America/Winnipeg)  •  **Published:** 2025-11-09 20:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest back on track under Sean Dyche - but worries for Leeds?. Nottingham Forest, the Tricky Trees as they are known to their fans, are starting to show shoots of revival. Relevance to standings and momentum.
+Brentford 3-1 Newcastle: Eddie Howe says 'we let everyone down'. Newcastle are two points above the relegation zone after a 3-1 defeat at Brentford as their struggles on the road continued. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +230,7 @@ Nottingham Forest back on track under Sean Dyche - but worries for Leeds?. Notti
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Nottingham Forest back on track under Sean Dyche - but worries for Leeds?. https://www.bbc.com/sport/football/articles/cgmxp8x9jjro?at_medium=RSS&at_campaign=rss
+- bbc.com — Brentford 3-1 Newcastle: Eddie Howe says 'we let everyone down'. https://www.bbc.com/sport/football/articles/c8039kevmjgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +239,13 @@ Nottingham Forest back on track under Sean Dyche - but worries for Leeds?. Notti
 
 ---
 
-## Story 8: WSL: Everton 1-2 Manchester City - highlights
-**Slug (lower-third):** WSL: Everton 1-2 Manchester City - highlights  
-**When:** 2025-11-09 11:25 (America/Winnipeg)  •  **Published:** 2025-11-09 17:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Premier League: Crystal Palace 0-0 Brighton & Hove Albion - highlights
+**Slug (lower-third):** Premier League: Crystal Palace 0-0 Brighton & Hove Albion…  
+**When:** 2025-11-09 14:00 (America/Winnipeg)  •  **Published:** 2025-11-09 20:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL: Everton 1-2 Manchester City - highlights. Goals from Vivianne Miedema and Khadija Shaw help Man City beat Everton 2-1 at Goodison Park and move top of the Women's Super League table. Relevance to standings and momentum.
+Premier League: Crystal Palace 0-0 Brighton & Hove Albion - highlights. Rivals Crystal Palace and Brighton settle for a point apiece from a largely dour Premier League tussle at Selhurst Park, where VAR intervention quashed a penalty award to the Seagulls. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,55 +254,7 @@ WSL: Everton 1-2 Manchester City - highlights. Goals from Vivianne Miedema and K
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL: Everton 1-2 Manchester City - highlights. https://www.bbc.com/sport/football/videos/cn4jpy9dme2o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Nottingham Forest 3-1 Leeds United: Sean Dyche post-match interview
-**Slug (lower-third):** Nottingham Forest 3-1 Leeds United: Sean Dyche post-match…  
-**When:** 2025-11-09 10:48 (America/Winnipeg)  •  **Published:** 2025-11-09 16:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Nottingham Forest 3-1 Leeds United: Sean Dyche post-match interview. Sean Dyche says he is "very pleased" with his side's performance after Nottingham Forest come from a goal down to beat Leeds United 3-1 at the City Ground. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Nottingham Forest 3-1 Leeds United: Sean Dyche post-match interview. https://www.bbc.com/sport/football/videos/c4gz53xnp61o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Brentford 3-1 Newcastle United | Premier League highlights
-**Slug (lower-third):** Brentford 3-1 Newcastle United | Premier League highlights  
-**When:** 2025-11-09 10:25 (America/Winnipeg)  •  **Published:** 2025-11-09 16:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Brentford 3-1 Newcastle United | Premier League highlights. FREE TO WATCH: Highlights of the Premier League match between Brentford and Newcastle United. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Brentford 3-1 Newcastle United | Premier League highlights. https://www.skysports.com/watch/video/13467421/brentford-3-1-newcastle-united-premier-league-highlights
+- bbc.com — Premier League: Crystal Palace 0-0 Brighton & Hove Albion - highlights. https://www.bbc.com/sport/football/videos/cy402l95zj3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
