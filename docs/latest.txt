@@ -1,54 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-11 00:33 (America/Winnipeg)  |  2025-11-11 06:33 (UTC)
+**Generated:** 2025-11-11 06:43 (America/Winnipeg)  |  2025-11-11 12:43 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 27s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Como hire former Chelsea content creator Felix Johnston as first-team scout
-- Liverpool contact PGMO over Van Dijk's disallowed goal at Manchester City
-- Football gossip: Szoboszlai, Mainoo, Vinicius, Paz, Robertson, Fullkrug, Bastoni, Howe, Conte, Jackson
-
----
-
-### Managerial Moves
-
-## Story 1: Celtic manager search: Columbus Crew boss Wilfried Nancy on shortlist to replace Brendan Rodgers
-**Slug (lower-third):** Celtic manager search: Columbus Crew boss Wilfried Nancy …  
-**When:** 2025-11-10 15:10 (America/Winnipeg)  •  **Published:** 2025-11-10 21:10 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Celtic manager search: Columbus Crew boss Wilfried Nancy on shortlist to replace Brendan Rodgers. Wilfried Nancy, the 2024 MLS Coach of the Year, is on the shortlist to become the new Celtic manager as the Scottish Premiership champions search to find a replacement for Brendan Rodgers with the club hierarchy pondering a potential extension for interim Martin ONeill Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Celtic manager search: Columbus Crew boss Wilfried Nancy on shortlist to replace Brendan Rodgers. https://www.skysports.com/football/news/12040/13468300/celtic-manager-search-columbus-crew-boss-wilfried-nancy-on-shortlist-to-replace-brendan-rodgers
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Arsenal and Crystal Palace Premier League games moved to ease fixture congestion
+- Arsenal and Crystal Palace games moved by Premier League before Carabao Cup tie
+- Trevoh Chalobah and James Trafford called up to England squad
 
 ---
 
 ### Injuries
 
-## Story 2: Benjamin Sesko injury: Manchester United play down severity of striker's injury
-**Slug (lower-third):** Benjamin Sesko injury: Manchester United play down severi…  
-**When:** 2025-11-10 11:05 (America/Winnipeg)  •  **Published:** 2025-11-10 17:05 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 1: Ivan Toney transfers news: Premier League clubs enquire about return for striker after Saudi move
+**Slug (lower-third):** Ivan Toney transfers news: Premier League clubs enquire a…  
+**When:** 2025-11-11 04:51 (America/Winnipeg)  •  **Published:** 2025-11-11 10:51 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Benjamin Sesko injury: Manchester United play down severity of striker's injury. Manchester United striker Benjamin Sesko will miss Slovenia's World Cup qualifiers but club officials do not think he has suffered a major injury. Potential impact on the lineup and upcoming fixtures.
+Ivan Toney transfers news: Premier League clubs enquire about return for striker after Saudi move. Premier League clubs have enquired about a return to England for Ivan Toney; Toney has scored 41 goals in 59 appearances for Saudi side Al Ahli since joining in 2024; the 29-year-olds wages could prove to be a stumbling block; Toney scored 36 goals in 85 Premier League appearances Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +31,7 @@ Benjamin Sesko injury: Manchester United play down severity of striker's injury.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Benjamin Sesko injury: Manchester United play down severity of striker's injury. https://www.bbc.com/sport/football/articles/c709vpqk2wzo?at_medium=RSS&at_campaign=rss
+- skysports.com — Ivan Toney transfers news: Premier League clubs enquire about return for striker after Saudi move. https://www.skysports.com/football/news/12040/13468499/ivan-toney-transfers-news-premier-league-clubs-enquire-about-return-for-striker-after-saudi-move
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,10 +40,10 @@ Benjamin Sesko injury: Manchester United play down severity of striker's injury.
 
 ---
 
-## Story 3: Injured Sesko to miss Slovenia games but United hopeful of swift return
+## Story 2: Injured Sesko to miss Slovenia games but United hopeful of swift return
 **Slug (lower-third):** Injured Sesko to miss Slovenia games but United hopeful o…  
 **When:** 2025-11-10 11:00 (America/Winnipeg)  •  **Published:** 2025-11-10 17:00 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+**Virality score:** 76  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Injured Sesko to miss Slovenia games but United hopeful of swift return. The striker could be fit for the home Everton game after the internationals while Lisandro Martinez is in Argentina's squad but will not play against Angola Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
@@ -84,30 +58,6 @@ Injured Sesko to miss Slovenia games but United hopeful of swift return. The str
 - theguardian.com — Injured Sesko to miss Slovenia games but United hopeful of swift return. https://www.theguardian.com/football/2025/nov/10/benjamin-sesko-miss-slovenia-games-kosovo-sweden-knee-injury-manchester-united
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Romeo Lavia injury: Chelsea midfielder out for month with quadriceps problem
-**Slug (lower-third):** Romeo Lavia injury: Chelsea midfielder out for month with…  
-**When:** 2025-11-10 09:33 (America/Winnipeg)  •  **Published:** 2025-11-10 15:33 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Romeo Lavia injury: Chelsea midfielder out for month with quadriceps problem. Midfielder Romeo Lavia has made only 29 appearances in two and a half seasons at Chelsea. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Romeo Lavia injury: Chelsea midfielder out for month with quadriceps problem. https://www.bbc.com/sport/football/articles/cn7ep4m3g15o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
@@ -116,10 +66,130 @@ Romeo Lavia injury: Chelsea midfielder out for month with quadriceps problem. Mi
 
 ### Club Updates
 
-## Story 5: Como hire former Chelsea content creator Felix Johnston as first-team scout
+## Story 3: Arsenal and Crystal Palace Premier League games moved to ease fixture congestion
+**Slug (lower-third):** Arsenal and Crystal Palace Premier League games moved to …  
+**When:** 2025-11-11 06:36 (America/Winnipeg)  •  **Published:** 2025-11-11 12:36 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal and Crystal Palace Premier League games moved to ease fixture congestion. The Premier League agrees to move games involving Arsenal and Crystal Palace in December to ease concerns over fixture congestion. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arsenal and Crystal Palace Premier League games moved to ease fixture congestion. https://www.bbc.com/sport/football/articles/c17pyreljvqo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Arsenal and Crystal Palace games moved by Premier League before Carabao Cup tie
+**Slug (lower-third):** Arsenal and Crystal Palace games moved by Premier League …  
+**When:** 2025-11-11 06:20 (America/Winnipeg)  •  **Published:** 2025-11-11 12:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal and Crystal Palace games moved by Premier League before Carabao Cup tie. Arsenal and Crystal Palace have succeeded with requests to the Premier League to move their fixtures the weekend before they meet in the Carabao Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Arsenal and Crystal Palace games moved by Premier League before Carabao Cup tie. https://www.theguardian.com/football/2025/nov/11/arsenal-crystal-palace-games-moved-premier-league-carabao-cup-tie-everton-leeds
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Trevoh Chalobah and James Trafford called up to England squad
+**Slug (lower-third):** Trevoh Chalobah and James Trafford called up to England s…  
+**When:** 2025-11-11 06:15 (America/Winnipeg)  •  **Published:** 2025-11-11 12:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Trevoh Chalobah and James Trafford called up to England squad. Chelsea defender Trevoh Chalobah and Manchester City keeper James Trafford are called up to the England squad following the withdrawals of Newcastle United's Anthony Gordon and Nick Pope. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Trevoh Chalobah and James Trafford called up to England squad. https://www.bbc.com/sport/football/articles/c30vy389gv9o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Arne Slot's big mistake at Liverpool this season? Failing to drop struggling Salah | Barney Ronay
+**Slug (lower-third):** Arne Slot's big mistake at Liverpool this season? Failing…  
+**When:** 2025-11-11 02:00 (America/Winnipeg)  •  **Published:** 2025-11-11 08:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arne Slot's big mistake at Liverpool this season? Failing to drop struggling Salah | Barney Ronay. Mohamed Salah has drifted from crucial to peripheral in big games, and Arne Slot's decision to keep picking him is strange Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Arne Slot's big mistake at Liverpool this season? Failing to drop struggling Salah | Barney Ronay. https://www.theguardian.com/football/2025/nov/11/liverpool-mohamed-salah-arne-slot-analysis
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: World Cup qualifying: Records and goals - how Wales' Joe Rodon found home at Leeds United
+**Slug (lower-third):** World Cup qualifying: Records and goals - how Wales' Joe …  
+**When:** 2025-11-10 22:51 (America/Winnipeg)  •  **Published:** 2025-11-11 04:51 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+World Cup qualifying: Records and goals - how Wales' Joe Rodon found home at Leeds United. Wales defender Joe Rodon, who wears his heart on his sleeve, is finally showcasing both his defensive and attacking capabilities in the Premier League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — World Cup qualifying: Records and goals - how Wales' Joe Rodon found home at Leeds United. https://www.bbc.com/sport/football/articles/c0l72r20lx7o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Como hire former Chelsea content creator Felix Johnston as first-team scout
 **Slug (lower-third):** Como hire former Chelsea content creator Felix Johnston a…  
 **When:** 2025-11-10 17:32 (America/Winnipeg)  •  **Published:** 2025-11-10 23:32 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+**Virality score:** 86  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Como hire former Chelsea content creator Felix Johnston as first-team scout. How former content creator Felix Johnston became a first-team scout for Serie A club Como 1907. Relevance to standings and momentum.
@@ -140,35 +210,10 @@ Como hire former Chelsea content creator Felix Johnston as first-team scout. How
 
 ---
 
-## Story 6: Liverpool contact PGMO over Van Dijk's disallowed goal at Manchester City
-**Slug (lower-third):** Liverpool contact PGMO over Van Dijk's disallowed goal at…  
-**When:** 2025-11-10 11:09 (America/Winnipeg)  •  **Published:** 2025-11-10 17:09 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool contact PGMO over Van Dijk's disallowed goal at Manchester City. Liverpool have complained to PGMO over the decision to disallow Virgil van Dijk's header at Manchester City amid concern that the relevant criteria were not met Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Liverpool contact PGMO over Van Dijk's disallowed goal at Manchester City. https://www.theguardian.com/football/2025/nov/10/liverpool-complain-referee-virgil-van-dijk-disallowed-goal-andy-robertson-manchester-city
-- skysports.com — Liverpool contact PGMOL over Virgil van Dijk's disallowed goal in Man City defeat to raise significant concerns. https://www.skysports.com/football/news/12040/13468039/liverpool-contact-pgmol-over-virgil-van-dijks-disallowed-goal-in-man-city-defeat-to-raise-significant-concerns
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Football gossip: Szoboszlai, Mainoo, Vinicius, Paz, Robertson, Fullkrug, Bastoni, Howe, Conte, Jackson
+## Story 9: Football gossip: Szoboszlai, Mainoo, Vinicius, Paz, Robertson, Fullkrug, Bastoni, Howe, Conte, Jackson
 **Slug (lower-third):** Football gossip: Szoboszlai, Mainoo, Vinicius, Paz, Rober…  
 **When:** 2025-11-10 16:24 (America/Winnipeg)  •  **Published:** 2025-11-10 22:24 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+**Virality score:** 85  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Szoboszlai, Mainoo, Vinicius, Paz, Robertson, Fullkrug, Bastoni, Howe, Conte, Jackson. Liverpool midfielder Dominik Szoboszlai is a target for Real Madrid and Manchester City, Manchester United's Kobbie Mainoo open to joining Napoli, Brazil winger Vinicius closer to Real Madrid exit, plus more. Relevance to standings and momentum.
@@ -189,59 +234,10 @@ Football gossip: Szoboszlai, Mainoo, Vinicius, Paz, Robertson, Fullkrug, Bastoni
 
 ---
 
-## Story 8: Atletico Ottawa's 'icicle kick' lights up blizzard-hit Canadian Premier League final
-**Slug (lower-third):** Atletico Ottawa's 'icicle kick' lights up blizzard-hit Ca…  
-**When:** 2025-11-10 08:12 (America/Winnipeg)  •  **Published:** 2025-11-10 14:12 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Atletico Ottawa's 'icicle kick' lights up blizzard-hit Canadian Premier League final. David Rodriguez scored acrobatic equalizer and chipped winner in an iconic game in which play was stopped every 15 minutes for snow removal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Atletico Ottawa's 'icicle kick' lights up blizzard-hit Canadian Premier League final. https://www.theguardian.com/football/2025/nov/10/atletico-ottawa-icicle-kick-canadian-premier-league-final-snow-blizzard
-- bbc.com — Canadian Premier League final: Atletico Ottawa's 'icicle kick' lights up blizzard-hit final. https://www.bbc.com/sport/football/articles/c7v89qmpn3do?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: WSL talking points: time for VAR and Shaw masterclass sends City top
-**Slug (lower-third):** WSL talking points: time for VAR and Shaw masterclass sen…  
-**When:** 2025-11-10 07:24 (America/Winnipeg)  •  **Published:** 2025-11-10 13:24 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL talking points: time for VAR and Shaw masterclass sends City top. The dramatic encounter between Arsenal and Chelsea was marred by poor officiating while Manchester City benefit from 'mentality shift' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — WSL talking points: time for VAR and Shaw masterclass sends City top. https://www.theguardian.com/football/2025/nov/10/wsl-talking-points-time-for-var-and-shaw-masterclass-sends-city-top
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 10: WSL Goals of the week: Highlights including Man City's Khadija Shaw
 **Slug (lower-third):** WSL Goals of the week: Highlights including Man City's Kh…  
 **When:** 2025-11-10 06:52 (America/Winnipeg)  •  **Published:** 2025-11-10 12:52 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
+**Virality score:** 71  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 WSL Goals of the week: Highlights including Man City's Khadija Shaw. Alyssa Thompson's first league goal and Eveliina Summanen's stunning free-kick feature in the best goals from this weekend's Women's Super League. Relevance to standings and momentum.
