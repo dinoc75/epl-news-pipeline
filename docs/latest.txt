@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-13 06:46 (America/Winnipeg)  |  2025-11-13 12:46 (UTC)
+**Generated:** 2025-11-13 12:31 (America/Winnipeg)  |  2025-11-13 18:31 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 27s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- The Premier League XI that deserves more credit, from Pickford to Trossard
-- England v Serbia: Alex Scott left out of squad for World Cup qualifier
-- Manchester United face legal action over sexual abuse claims
+- Autumn Nations Series: England's Freddie Steward, Fin Baxter on 'Pom squad tactics' and belief ahead of All Blacks Test
+- Premier League free transfers: Marc Guehi, Bernardo Silva and Ibrahima Konate could leave for free next summer
+- Igor Thiago: from bricklaying to Brugge, Brentford ... and maybe Brazil
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Martin Ho: Tottenham Women head coach chats coaching career at Everton, Liverpool, Man Utd and SK Brann
-**Slug (lower-third):** Martin Ho: Tottenham Women head coach chats coaching care…  
+## Story 1: Championship talking points: Sacking season, Coventry's form & Derby motoring
+**Slug (lower-third):** Championship talking points: Sacking season, Coventry's f…  
 **When:** 2025-11-13 04:00 (America/Winnipeg)  •  **Published:** 2025-11-13 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Martin Ho: Tottenham Women head coach chats coaching career at Everton, Liverpool, Man Utd and SK Brann. From Everton to Spurs via SK Brann, Martin Ho chats individual development, learning from the likes of Casey Stoney and Andy Spence, plus managing in the Champions League; watch Tottenham Hotspur Women vs Arsenal Women live on Sky Sports on Sunday from 2pm; kick-off 2.30pm Relevance to standings and momentum.
+Championship talking points: Sacking season, Coventry's form & Derby motoring. The Sky Sports Essential EFL podcast panel look at the biggest talking latest points in the Championship season. Including managerial departures at Middlesbrough, Southampton, Swansea and Norwich City & the form of Coventry City Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Martin Ho: Tottenham Women head coach chats coaching career at Everton, Liverpoo
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Martin Ho: Tottenham Women head coach chats coaching career at Everton, Liverpool, Man Utd and SK Brann. https://www.skysports.com/football/news/12040/13468437/martin-ho-tottenham-women-head-coach-chats-coaching-career-at-everton-liverpool-man-utd-and-sk-brann
+- skysports.com — Championship talking points: Sacking season, Coventry's form & Derby motoring. https://www.skysports.com/football/news/12040/13469656/championship-talking-points-sacking-season-coventrys-form-derby-motoring
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -43,7 +43,7 @@ Martin Ho: Tottenham Women head coach chats coaching career at Everton, Liverpoo
 ## Story 2: Aston Villa's Natalia Arroyo: 'There was probably a little coach inside me when I was playing'
 **Slug (lower-third):** Aston Villa's Natalia Arroyo: 'There was probably a littl…  
 **When:** 2025-11-13 02:00 (America/Winnipeg)  •  **Published:** 2025-11-13 08:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~21s
+**Virality score:** 89  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 Aston Villa's Natalia Arroyo: 'There was probably a little coach inside me when I was playing'. Natalia Arroyo, Aston Villa Women's manager, tells Suzanne Wrack about her move to coaching, Barcelona and the injuries that ended her career early Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
@@ -66,10 +66,34 @@ Aston Villa's Natalia Arroyo: 'There was probably a little coach inside me when 
 
 ### Transfers
 
-## Story 3: Liverpool: What has led to club's seven-match WSL winless run?
+## Story 3: Premier League free transfers: Marc Guehi, Bernardo Silva and Ibrahima Konate could leave for free next summer
+**Slug (lower-third):** Premier League free transfers: Marc Guehi, Bernardo Silva…  
+**When:** 2025-11-13 10:00 (America/Winnipeg)  •  **Published:** 2025-11-13 16:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
+
+### Presenter Script (3–5 sentences)
+Premier League free transfers: Marc Guehi, Bernardo Silva and Ibrahima Konate could leave for free next summer. Once a players deal enters the final six months, they can negotiate a free transfer with a club outside England; Keep up to date with all the latest news across the whole of the 2026 winter transfer window with the Transfer Centre blog on Sky Sports website and app Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Premier League free transfers: Marc Guehi, Bernardo Silva and Ibrahima Konate could leave for free next summer. https://www.skysports.com/football/news/12040/13467920/premier-league-free-transfers-marc-guehi-bernardo-silva-and-ibrahima-konate-could-leave-for-free-next-summer
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Liverpool: What has led to club's seven-match WSL winless run?
 **Slug (lower-third):** Liverpool: What has led to club's seven-match WSL winless…  
 **When:** 2025-11-13 03:33 (America/Winnipeg)  •  **Published:** 2025-11-13 09:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Liverpool: What has led to club's seven-match WSL winless run?. With just one point from their first seven Women's Super League matches this season Liverpool are not where they want to be, but the January transfer window could be key to their campaign. Implications for the squad and table.
@@ -92,13 +116,13 @@ Liverpool: What has led to club's seven-match WSL winless run?. With just one po
 
 ### Club Updates
 
-## Story 4: The Premier League XI that deserves more credit, from Pickford to Trossard
-**Slug (lower-third):** The Premier League XI that deserves more credit, from Pic…  
-**When:** 2025-11-13 06:00 (America/Winnipeg)  •  **Published:** 2025-11-13 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Autumn Nations Series: England's Freddie Steward, Fin Baxter on 'Pom squad tactics' and belief ahead of All Blacks Test
+**Slug (lower-third):** Autumn Nations Series: England's Freddie Steward, Fin Bax…  
+**When:** 2025-11-13 11:30 (America/Winnipeg)  •  **Published:** 2025-11-13 17:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-The Premier League XI that deserves more credit, from Pickford to Trossard. England's keeper and a 19-year-old French forward are part of our selection of players who are essential to their clubs Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Autumn Nations Series: England's Freddie Steward, Fin Baxter on 'Pom squad tactics' and belief ahead of All Blacks Test. For successive Saturdays, Englands Steve Borthwick has unleashed five replacements into forward pack at same moment while in tight contests vs Australia and Fiji before side secured wins; England continue autumn campaign vs New Zealand on Saturday at Allianz Stadium, Twickenham (3.10pm) Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +131,7 @@ The Premier League XI that deserves more credit, from Pickford to Trossard. Engl
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — The Premier League XI that deserves more credit, from Pickford to Trossard. https://www.theguardian.com/football/2025/nov/13/premier-league-side-deserves-more-credit
+- skysports.com — Autumn Nations Series: England's Freddie Steward, Fin Baxter on 'Pom squad tactics' and belief ahead of All Blacks Test. https://www.skysports.com/rugby-union/news/12040/13469031/autumn-nations-series-englands-freddie-steward-fin-baxter-on-pom-squad-tactics-and-belief-ahead-of-all-blacks-test
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +140,13 @@ The Premier League XI that deserves more credit, from Pickford to Trossard. Engl
 
 ---
 
-## Story 5: England v Serbia: Alex Scott left out of squad for World Cup qualifier
-**Slug (lower-third):** England v Serbia: Alex Scott left out of squad for World …  
-**When:** 2025-11-13 05:56 (America/Winnipeg)  •  **Published:** 2025-11-13 11:56 (UTC)  
+## Story 6: Igor Thiago: from bricklaying to Brugge, Brentford ... and maybe Brazil
+**Slug (lower-third):** Igor Thiago: from bricklaying to Brugge, Brentford ... an…  
+**When:** 2025-11-13 09:54 (America/Winnipeg)  •  **Published:** 2025-11-13 15:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-England v Serbia: Alex Scott left out of squad for World Cup qualifier. Uncapped Bournemouth midfielder Alex Scott is left out of the 23-man England squad for Thursday's World Cup qualifier against Serbia at Wembley. Relevance to standings and momentum.
+Igor Thiago: from bricklaying to Brugge, Brentford ... and maybe Brazil. Brentford were tipped to struggle this season but Thiago's goals have helped them climb up the Premier League table Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +155,7 @@ England v Serbia: Alex Scott left out of squad for World Cup qualifier. Uncapped
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — England v Serbia: Alex Scott left out of squad for World Cup qualifier. https://www.bbc.com/sport/football/articles/c867n7yp4lxo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Igor Thiago: from bricklaying to Brugge, Brentford ... and maybe Brazil. https://www.theguardian.com/football/who-scored-blog/2025/nov/13/igor-thiago-bricklaying-brugge-brentford-brazil-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,10 +164,10 @@ England v Serbia: Alex Scott left out of squad for World Cup qualifier. Uncapped
 
 ---
 
-## Story 6: Manchester United face legal action over sexual abuse claims
+## Story 7: Manchester United face legal action over sexual abuse claims
 **Slug (lower-third):** Manchester United face legal action over sexual abuse cla…  
 **When:** 2025-11-13 05:27 (America/Winnipeg)  •  **Published:** 2025-11-13 11:27 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester United face legal action over sexual abuse claims. The allegations relate to Billy Watts, who worked at the club's Cliff training ground in the 1980s. Relevance to standings and momentum.
@@ -164,34 +188,10 @@ Manchester United face legal action over sexual abuse claims. The allegations re
 
 ---
 
-## Story 7: 'I don't think Arsenal bothered us that much' | Five EFL stories ahead of the weekend matches
-**Slug (lower-third):** 'I don't think Arsenal bothered us that much' | Five EFL …  
-**When:** 2025-11-13 04:50 (America/Winnipeg)  •  **Published:** 2025-11-13 10:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-'I don't think Arsenal bothered us that much' | Five EFL stories ahead of the weekend matches. Sky Sports+ brings you every League One and Two game live on Saturday | Here are some stories from the EFL - Port Vales Cameron Humphreys, Lincolns Rob Street, Barrows Tom Barkhuizen, Crewes Jack Lankester and Grimsbys Jamie Walker. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — 'I don't think Arsenal bothered us that much' | Five EFL stories ahead of the weekend matches. https://www.skysports.com/football/news/12040/13469085/i-dont-think-arsenal-bothered-us-that-much-five-efl-stories-ahead-of-the-weekend-matches
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 8: Man Utd: Inside Sir Jim Ratcliffe's Old Trafford revolution
 **Slug (lower-third):** Man Utd: Inside Sir Jim Ratcliffe's Old Trafford revoluti…  
 **When:** 2025-11-13 04:11 (America/Winnipeg)  •  **Published:** 2025-11-13 10:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man Utd: Inside Sir Jim Ratcliffe's Old Trafford revolution. BBC Sport tells the story of how Sir Jim Ratcliffe ripped apart and rebuilt Manchester United's leadership team. Relevance to standings and momentum.
@@ -215,7 +215,7 @@ Man Utd: Inside Sir Jim Ratcliffe's Old Trafford revolution. BBC Sport tells the
 ## Story 9: 'The butt of every joke': when Wolves were relegated three seasons in a row
 **Slug (lower-third):** 'The butt of every joke': when Wolves were relegated thre…  
 **When:** 2025-11-13 04:00 (America/Winnipeg)  •  **Published:** 2025-11-13 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'The butt of every joke': when Wolves were relegated three seasons in a row. Wolves are yet to win a game in the Premier League this season but their older fans know it could be far worse Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -236,13 +236,13 @@ Man Utd: Inside Sir Jim Ratcliffe's Old Trafford revolution. BBC Sport tells the
 
 ---
 
-## Story 10: Oscar: Ex-Chelsea midfielder posts message after being hospitalised with heart issue
-**Slug (lower-third):** Oscar: Ex-Chelsea midfielder posts message after being ho…  
-**When:** 2025-11-13 03:41 (America/Winnipeg)  •  **Published:** 2025-11-13 09:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Brennan Johnson: What's up with Wales and Spurs 'mystery'?
+**Slug (lower-third):** Brennan Johnson: What's up with Wales and Spurs 'mystery'?  
+**When:** 2025-11-12 22:54 (America/Winnipeg)  •  **Published:** 2025-11-13 04:54 (UTC)  
+**Virality score:** 86  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Oscar: Ex-Chelsea midfielder posts message after being hospitalised with heart issue. Former Chelsea and Brazil midfielder Oscar thanks fans for their "messages and prayers" after being hospitalised with a heart issue. Relevance to standings and momentum.
+Brennan Johnson: What's up with Wales and Spurs 'mystery'?. Brennan Johnson should be a key player for Wales but, as well as being in and out of Spurs' team, he finds himself out of favour for his country. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +251,7 @@ Oscar: Ex-Chelsea midfielder posts message after being hospitalised with heart i
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Oscar: Ex-Chelsea midfielder posts message after being hospitalised with heart issue. https://www.bbc.com/sport/football/articles/cq501x1llqyo?at_medium=RSS&at_campaign=rss
+- bbc.com — Brennan Johnson: What's up with Wales and Spurs 'mystery'?. https://www.bbc.com/sport/football/articles/c8r0mpvyzp6o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
