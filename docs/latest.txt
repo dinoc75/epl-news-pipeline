@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-13 00:33 (America/Winnipeg)  |  2025-11-13 06:33 (UTC)
+**Generated:** 2025-11-13 06:46 (America/Winnipeg)  |  2025-11-13 12:46 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 27s
@@ -8,21 +8,21 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Ex-Chelsea star Oscar in hospital with heart issue
-- Safia Middleton-Patel steals show for Man Utd despite Mary Earps return
-- Football gossip: Kane, Wharton, Maignan, Rodrygo, Mainoo, Endrick, Yildiz
+- The Premier League XI that deserves more credit, from Pickford to Trossard
+- England v Serbia: Alex Scott left out of squad for World Cup qualifier
+- Manchester United face legal action over sexual abuse claims
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Rob Edwards: Wolves name former defender as new manager - a gamble all round?
-**Slug (lower-third):** Rob Edwards: Wolves name former defender as new manager -…  
-**When:** 2025-11-12 08:00 (America/Winnipeg)  •  **Published:** 2025-11-12 14:00 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
+## Story 1: Martin Ho: Tottenham Women head coach chats coaching career at Everton, Liverpool, Man Utd and SK Brann
+**Slug (lower-third):** Martin Ho: Tottenham Women head coach chats coaching care…  
+**When:** 2025-11-13 04:00 (America/Winnipeg)  •  **Published:** 2025-11-13 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Rob Edwards: Wolves name former defender as new manager - a gamble all round?. Wolves finally have their man. But how big a gamble have the Premier League side made in appointing Rob Edwards? Relevance to standings and momentum.
+Martin Ho: Tottenham Women head coach chats coaching career at Everton, Liverpool, Man Utd and SK Brann. From Everton to Spurs via SK Brann, Martin Ho chats individual development, learning from the likes of Casey Stoney and Andy Spence, plus managing in the Champions League; watch Tottenham Hotspur Women vs Arsenal Women live on Sky Sports on Sunday from 2pm; kick-off 2.30pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,10 +31,34 @@ Rob Edwards: Wolves name former defender as new manager - a gamble all round?. W
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Rob Edwards: Wolves name former defender as new manager - a gamble all round?. https://www.bbc.com/sport/football/articles/c79745l95x2o?at_medium=RSS&at_campaign=rss
+- skysports.com — Martin Ho: Tottenham Women head coach chats coaching career at Everton, Liverpool, Man Utd and SK Brann. https://www.skysports.com/football/news/12040/13468437/martin-ho-tottenham-women-head-coach-chats-coaching-career-at-everton-liverpool-man-utd-and-sk-brann
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Aston Villa's Natalia Arroyo: 'There was probably a little coach inside me when I was playing'
+**Slug (lower-third):** Aston Villa's Natalia Arroyo: 'There was probably a littl…  
+**When:** 2025-11-13 02:00 (America/Winnipeg)  •  **Published:** 2025-11-13 08:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Aston Villa's Natalia Arroyo: 'There was probably a little coach inside me when I was playing'. Natalia Arroyo, Aston Villa Women's manager, tells Suzanne Wrack about her move to coaching, Barcelona and the injuries that ended her career early Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Aston Villa's Natalia Arroyo: 'There was probably a little coach inside me when I was playing'. https://www.theguardian.com/football/2025/nov/13/natalia-arroyo-aston-villa-women-super-league-interview
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -42,13 +66,13 @@ Rob Edwards: Wolves name former defender as new manager - a gamble all round?. W
 
 ### Transfers
 
-## Story 2: Football gossip: Kane, Wharton, Maignan, Rodrygo, Mainoo, Endrick, Yildiz
-**Slug (lower-third):** Football gossip: Kane, Wharton, Maignan, Rodrygo, Mainoo,…  
-**When:** 2025-11-12 17:24 (America/Winnipeg)  •  **Published:** 2025-11-12 23:24 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 3: Liverpool: What has led to club's seven-match WSL winless run?
+**Slug (lower-third):** Liverpool: What has led to club's seven-match WSL winless…  
+**When:** 2025-11-13 03:33 (America/Winnipeg)  •  **Published:** 2025-11-13 09:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Kane, Wharton, Maignan, Rodrygo, Mainoo, Endrick, Yildiz. England and Bayern Munich striker Harry Kane is a leading target for Barcelona, Crystal Palace midfielder Adam Wharton tops Chelsea transfer list, Juventus halt contract talks with Kenan Yildiz, plus more. Implications for the squad and table.
+Liverpool: What has led to club's seven-match WSL winless run?. With just one point from their first seven Women's Super League matches this season Liverpool are not where they want to be, but the January transfer window could be key to their campaign. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,81 +81,7 @@ Football gossip: Kane, Wharton, Maignan, Rodrygo, Mainoo, Endrick, Yildiz. Engla
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Kane, Wharton, Maignan, Rodrygo, Mainoo, Endrick, Yildiz. https://www.bbc.com/sport/football/articles/cwyk0yk5vg4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Bayern Munich 3-2 Arsenal: Pernille Harder inspires Bavarians to comeback win over stuttering Gunners in Women's Champions League
-**Slug (lower-third):** Bayern Munich 3-2 Arsenal: Pernille Harder inspires Bavar…  
-**When:** 2025-11-12 13:45 (America/Winnipeg)  •  **Published:** 2025-11-12 19:45 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bayern Munich 3-2 Arsenal: Pernille Harder inspires Bavarians to comeback win over stuttering Gunners in Women's Champions League. Arsenal's WSL frustrations transferred over to European action as Renee Slegers' side threw away a two-goal lead to lose 3-2 to Bayern Munich in the Women's Champions League. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Bayern Munich 3-2 Arsenal: Pernille Harder inspires Bavarians to comeback win over stuttering Gunners in Women's Champions League. https://www.skysports.com/football/bayern-munich-women-vs-arsenal-women/report/549259
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 4: Safia Middleton-Patel steals show for Man Utd despite Mary Earps return
-**Slug (lower-third):** Safia Middleton-Patel steals show for Man Utd despite Mar…  
-**When:** 2025-11-12 18:02 (America/Winnipeg)  •  **Published:** 2025-11-13 00:02 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Safia Middleton-Patel steals show for Man Utd despite Mary Earps return. Manchester United's victory over PSG was significant - but conversation before, during and after was dominated by goalkeepers. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Safia Middleton-Patel steals show for Man Utd despite Mary Earps return. https://www.bbc.com/sport/football/articles/cvgmvl3502go?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Man Utd 2-1 PSG: Melvine Malard and Fridolina Rolfo ruin Mary Earps' Old Trafford return to stay perfect in the Champions League
-**Slug (lower-third):** Man Utd 2-1 PSG: Melvine Malard and Fridolina Rolfo ruin …  
-**When:** 2025-11-12 16:00 (America/Winnipeg)  •  **Published:** 2025-11-12 22:00 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man Utd 2-1 PSG: Melvine Malard and Fridolina Rolfo ruin Mary Earps' Old Trafford return to stay perfect in the Champions League. Manchester United maintained their 100-per-cent record in the UEFA Women's Champions League with a 2-1 win over Paris Saint-Germain at Old Trafford. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Man Utd 2-1 PSG: Melvine Malard and Fridolina Rolfo ruin Mary Earps' Old Trafford return to stay perfect in the Champions League. https://www.skysports.com/football/manchester-united-women-vs-paris-saint-germain-women/report/549260
+- bbc.com — Liverpool: What has led to club's seven-match WSL winless run?. https://www.bbc.com/sport/football/articles/crmxpp8v28wo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +92,13 @@ Man Utd 2-1 PSG: Melvine Malard and Fridolina Rolfo ruin Mary Earps' Old Traffor
 
 ### Club Updates
 
-## Story 6: Ex-Chelsea star Oscar in hospital with heart issue
-**Slug (lower-third):** Ex-Chelsea star Oscar in hospital with heart issue  
-**When:** 2025-11-12 16:14 (America/Winnipeg)  •  **Published:** 2025-11-12 22:14 (UTC)  
+## Story 4: The Premier League XI that deserves more credit, from Pickford to Trossard
+**Slug (lower-third):** The Premier League XI that deserves more credit, from Pic…  
+**When:** 2025-11-13 06:00 (America/Winnipeg)  •  **Published:** 2025-11-13 12:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ex-Chelsea star Oscar in hospital with heart issue. Former Chelsea midfielder Oscar is in hospital after a fitness test revealed abnormal cardiac results, his current club Sao Paulo announced. Relevance to standings and momentum.
+The Premier League XI that deserves more credit, from Pickford to Trossard. England's keeper and a 19-year-old French forward are part of our selection of players who are essential to their clubs Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,8 +107,7 @@ Ex-Chelsea star Oscar in hospital with heart issue. Former Chelsea midfielder Os
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Ex-Chelsea star Oscar in hospital with heart issue. https://www.espn.com/soccer/story/_/id/46939152/ex-chelsea-midfielder-oscar-hospital-abnormal-fitness-test
-- bbc.com — Oscar: Ex-Chelsea and Brazil midfielder in hospital after falling unwell with heart issue. https://www.bbc.com/sport/football/articles/cq501x1llqyo?at_medium=RSS&at_campaign=rss
+- theguardian.com — The Premier League XI that deserves more credit, from Pickford to Trossard. https://www.theguardian.com/football/2025/nov/13/premier-league-side-deserves-more-credit
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +116,13 @@ Ex-Chelsea star Oscar in hospital with heart issue. Former Chelsea midfielder Os
 
 ---
 
-## Story 7: David Brooks: New dad determined to realise World Cup dream
-**Slug (lower-third):** David Brooks: New dad determined to realise World Cup dre…  
-**When:** 2025-11-12 13:53 (America/Winnipeg)  •  **Published:** 2025-11-12 19:53 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 5: England v Serbia: Alex Scott left out of squad for World Cup qualifier
+**Slug (lower-third):** England v Serbia: Alex Scott left out of squad for World …  
+**When:** 2025-11-13 05:56 (America/Winnipeg)  •  **Published:** 2025-11-13 11:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-David Brooks: New dad determined to realise World Cup dream. Cancer-free and a new dad, Bournemouth midfielder David Brooks is more determined than ever to play for Wales at a World Cup. Relevance to standings and momentum.
+England v Serbia: Alex Scott left out of squad for World Cup qualifier. Uncapped Bournemouth midfielder Alex Scott is left out of the 23-man England squad for Thursday's World Cup qualifier against Serbia at Wembley. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +131,7 @@ David Brooks: New dad determined to realise World Cup dream. Cancer-free and a n
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — David Brooks: New dad determined to realise World Cup dream. https://www.bbc.com/sport/football/articles/cpv139yk1k2o?at_medium=RSS&at_campaign=rss
+- bbc.com — England v Serbia: Alex Scott left out of squad for World Cup qualifier. https://www.bbc.com/sport/football/articles/c867n7yp4lxo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +140,13 @@ David Brooks: New dad determined to realise World Cup dream. Cancer-free and a n
 
 ---
 
-## Story 8: Arsenal take 'big hit' as Viggosdottir caps WCL comeback for Bayern late on
-**Slug (lower-third):** Arsenal take 'big hit' as Viggosdottir caps WCL comeback …  
-**When:** 2025-11-12 13:55 (America/Winnipeg)  •  **Published:** 2025-11-12 19:55 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+## Story 6: Manchester United face legal action over sexual abuse claims
+**Slug (lower-third):** Manchester United face legal action over sexual abuse cla…  
+**When:** 2025-11-13 05:27 (America/Winnipeg)  •  **Published:** 2025-11-13 11:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal take 'big hit' as Viggosdottir caps WCL comeback for Bayern late on. Glodis Viggosdottir scored in the 86th minute to secure a 3-2 win for Bayern Munich against Arsenal, who let slip a two-goal lead Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Manchester United face legal action over sexual abuse claims. The allegations relate to Billy Watts, who worked at the club's Cliff training ground in the 1980s. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +155,7 @@ Arsenal take 'big hit' as Viggosdottir caps WCL comeback for Bayern late on. Glo
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Arsenal take 'big hit' as Viggosdottir caps WCL comeback for Bayern late on. https://www.theguardian.com/football/2025/nov/12/bayern-munich-arsenal-womens-champions-league-match-report
+- bbc.com — Manchester United face legal action over sexual abuse claims. https://www.bbc.com/news/articles/c20pje741edo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +164,13 @@ Arsenal take 'big hit' as Viggosdottir caps WCL comeback for Bayern late on. Glo
 
 ---
 
-## Story 9: Luke Littler eyeing world No 1 spot as Grand Slam of Darts defence faces knockout test
-**Slug (lower-third):** Luke Littler eyeing world No 1 spot as Grand Slam of Dart…  
-**When:** 2025-11-12 10:35 (America/Winnipeg)  •  **Published:** 2025-11-12 16:35 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~27s
+## Story 7: 'I don't think Arsenal bothered us that much' | Five EFL stories ahead of the weekend matches
+**Slug (lower-third):** 'I don't think Arsenal bothered us that much' | Five EFL …  
+**When:** 2025-11-13 04:50 (America/Winnipeg)  •  **Published:** 2025-11-13 10:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Luke Littler eyeing world No 1 spot as Grand Slam of Darts defence faces knockout test. Luke Littler bidding to defend major title for first time at Grand Slam of Darts but he can overtake Luke Humphries as world No 1 before that in Wolverhampton; watch the Grand Slam of Darts every night live from 7pm on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+'I don't think Arsenal bothered us that much' | Five EFL stories ahead of the weekend matches. Sky Sports+ brings you every League One and Two game live on Saturday | Here are some stories from the EFL - Port Vales Cameron Humphreys, Lincolns Rob Street, Barrows Tom Barkhuizen, Crewes Jack Lankester and Grimsbys Jamie Walker. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,7 +179,7 @@ Luke Littler eyeing world No 1 spot as Grand Slam of Darts defence faces knockou
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Luke Littler eyeing world No 1 spot as Grand Slam of Darts defence faces knockout test. https://www.skysports.com/darts/news/12040/13469211/luke-littler-eyeing-world-no-1-spot-as-grand-slam-of-darts-defence-faces-knockout-test
+- skysports.com — 'I don't think Arsenal bothered us that much' | Five EFL stories ahead of the weekend matches. https://www.skysports.com/football/news/12040/13469085/i-dont-think-arsenal-bothered-us-that-much-five-efl-stories-ahead-of-the-weekend-matches
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -239,13 +188,13 @@ Luke Littler eyeing world No 1 spot as Grand Slam of Darts defence faces knockou
 
 ---
 
-## Story 10: Tottenham supporters' trust blames 'unaffordable' tickets for poor atmosphere
-**Slug (lower-third):** Tottenham supporters' trust blames 'unaffordable' tickets…  
-**When:** 2025-11-12 10:30 (America/Winnipeg)  •  **Published:** 2025-11-12 16:30 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 8: Man Utd: Inside Sir Jim Ratcliffe's Old Trafford revolution
+**Slug (lower-third):** Man Utd: Inside Sir Jim Ratcliffe's Old Trafford revoluti…  
+**When:** 2025-11-13 04:11 (America/Winnipeg)  •  **Published:** 2025-11-13 10:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham supporters' trust blames 'unaffordable' tickets for poor atmosphere. The Tottenham Hotspur Supporters' Trust praised last season's Europa League prices as 'sensible' and has asked the club to make ticketing fair Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Man Utd: Inside Sir Jim Ratcliffe's Old Trafford revolution. BBC Sport tells the story of how Sir Jim Ratcliffe ripped apart and rebuilt Manchester United's leadership team. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -254,10 +203,58 @@ Tottenham supporters' trust blames 'unaffordable' tickets for poor atmosphere. T
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Tottenham supporters' trust blames 'unaffordable' tickets for poor atmosphere. https://www.theguardian.com/football/2025/nov/12/unaffordable-tickets-the-reason-for-declining-atmosphere-at-spurs-says-supporters-trust
+- bbc.com — Man Utd: Inside Sir Jim Ratcliffe's Old Trafford revolution. https://www.bbc.com/sport/football/articles/cdjrkznlk9yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: 'The butt of every joke': when Wolves were relegated three seasons in a row
+**Slug (lower-third):** 'The butt of every joke': when Wolves were relegated thre…  
+**When:** 2025-11-13 04:00 (America/Winnipeg)  •  **Published:** 2025-11-13 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'The butt of every joke': when Wolves were relegated three seasons in a row. Wolves are yet to win a game in the Premier League this season but their older fans know it could be far worse Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'The butt of every joke': when Wolves were relegated three seasons in a row. https://www.theguardian.com/football/that-1980s-sports-blog/2025/nov/13/wolves-relegated-three-seasons-row-premier-league-fans
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Oscar: Ex-Chelsea midfielder posts message after being hospitalised with heart issue
+**Slug (lower-third):** Oscar: Ex-Chelsea midfielder posts message after being ho…  
+**When:** 2025-11-13 03:41 (America/Winnipeg)  •  **Published:** 2025-11-13 09:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Oscar: Ex-Chelsea midfielder posts message after being hospitalised with heart issue. Former Chelsea and Brazil midfielder Oscar thanks fans for their "messages and prayers" after being hospitalised with a heart issue. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Oscar: Ex-Chelsea midfielder posts message after being hospitalised with heart issue. https://www.bbc.com/sport/football/articles/cq501x1llqyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
