@@ -1,49 +1,25 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-15 06:39 (America/Winnipeg)  |  2025-11-15 12:39 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2025-11-15 12:28 (America/Winnipeg)  |  2025-11-15 18:28 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 16s
+**Estimated total video length:** ~4m 38s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- NBA: Steph Curry matches Michael Jordan record with back-to-back 40-point games for Golden State Warriors
-- WSL: Tottenham v Arsenal - are Spurs in contention for European place?
-- 'They inspire me': Alessia Russo on empowering young girls and giving back
+- Brazil 2-0 Senegal: Premier League stars shine but concern for Arsenal as Gabriel limps off in victory
+- Marc Skinner: Manchester United's players need support in winter transfer window after derby defeat to Man City
+- Lauren Hemp: aItas important Man City stay humble after win over Man Utd'
 
 ---
 
 ### Managerial Moves
 
-## Story 1: WSL: Tottenham v Arsenal - are Spurs in contention for European place?
-**Slug (lower-third):** WSL: Tottenham v Arsenal - are Spurs in contention for Eu…  
-**When:** 2025-11-15 02:37 (America/Winnipeg)  •  **Published:** 2025-11-15 08:37 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL: Tottenham v Arsenal - are Spurs in contention for European place?. This time last season Tottenham were struggling in the Women's Super League. But with a new manager and fresh belief, this season they are in top-four contention. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — WSL: Tottenham v Arsenal - are Spurs in contention for European place?. https://www.bbc.com/sport/football/articles/c3w906v7168o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Sweden: What Graham Potter's side need to qualify for World Cup
+## Story 1: Sweden: What Graham Potter's side need to qualify for World Cup
 **Slug (lower-third):** Sweden: What Graham Potter's side need to qualify for Wor…  
 **When:** 2025-11-15 02:23 (America/Winnipeg)  •  **Published:** 2025-11-15 08:23 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Sweden: What Graham Potter's side need to qualify for World Cup. Graham Potter was appointed Sweden manager in October after spells at West Ham and Chelsea. Is he the perfect fit? Relevance to standings and momentum.
@@ -64,13 +40,15 @@ Sweden: What Graham Potter's side need to qualify for World Cup. Graham Potter w
 
 ---
 
-## Story 3: Celtic accelerate move to take Wilfried Nancy from Columbus Crew as new manager
-**Slug (lower-third):** Celtic accelerate move to take Wilfried Nancy from Columb…  
-**When:** 2025-11-14 11:57 (America/Winnipeg)  •  **Published:** 2025-11-14 17:57 (UTC)  
-**Virality score:** 77  •  **Estimated runtime:** ~20s
+### Transfers
+
+## Story 2: Marc Skinner: Manchester United's players need support in winter transfer window after derby defeat to Man City
+**Slug (lower-third):** Marc Skinner: Manchester United's players need support in…  
+**When:** 2025-11-15 11:53 (America/Winnipeg)  •  **Published:** 2025-11-15 17:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Celtic accelerate move to take Wilfried Nancy from Columbus Crew as new manager. Celtic are to accelerate talks with Wilfried Nancy over the weekend as the Columbus Crew manager edges closer to replacing Brendan Rodgers Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Marc Skinner: Manchester United's players need support in winter transfer window after derby defeat to Man City. Man City scored three first-half goals to blow Man Utd away in the WSL derby; visitors failed to have a shot on target at the Etihad; Man Utd are now seven points off the pace and travel to Wolfsburg in the Champions League on Wednesday Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,10 +57,60 @@ Celtic accelerate move to take Wilfried Nancy from Columbus Crew as new manager.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Celtic accelerate move to take Wilfried Nancy from Columbus Crew as new manager. https://www.theguardian.com/football/2025/nov/14/celtic-wilfried-nancy-columbus-crew-manager
+- skysports.com — Marc Skinner: Manchester United's players need support in winter transfer window after derby defeat to Man City. https://www.skysports.com/football/news/12040/13470917/marc-skinner-manchester-uniteds-players-need-support-in-winter-transfer-window-after-derby-defeat-to-man-city
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Brazil 2-0 Senegal: Premier League stars shine but concern for Arsenal as Gabriel limps off in victory
+**Slug (lower-third):** Brazil 2-0 Senegal: Premier League stars shine but concer…  
+**When:** 2025-11-15 12:00 (America/Winnipeg)  •  **Published:** 2025-11-15 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Brazil 2-0 Senegal: Premier League stars shine but concern for Arsenal as Gabriel limps off in victory. Arsenal defender Gabriel has sparked an injury concern for the Gunners after limping off in Brazil's 2-0 victory over Senegal at the Emirates. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Brazil 2-0 Senegal: Premier League stars shine but concern for Arsenal as Gabriel limps off in victory. https://www.skysports.com/football/brazil-vs-senegal/report/549555
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Man City Women 3-0 Man Utd Women: Lauren Hemp scores stunner on injury return in thumping Manchester derby win
+**Slug (lower-third):** Man City Women 3-0 Man Utd Women: Lauren Hemp scores stun…  
+**When:** 2025-11-15 09:30 (America/Winnipeg)  •  **Published:** 2025-11-15 15:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+Man City Women 3-0 Man Utd Women: Lauren Hemp scores stunner on injury return in thumping Manchester derby win. Slick Manchester City underlined their Women's Super League title credentials with a thumping 3-0 victory over Manchester United in the derby on Saturday to go four points clear of Chelsea at the top. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man City Women 3-0 Man Utd Women: Lauren Hemp scores stunner on injury return in thumping Manchester derby win. https://www.skysports.com/football/manchester-city-women-vs-manchester-united-women/report/545655
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -90,10 +118,82 @@ Celtic accelerate move to take Wilfried Nancy from Columbus Crew as new manager.
 
 ### Club Updates
 
-## Story 4: NBA: Steph Curry matches Michael Jordan record with back-to-back 40-point games for Golden State Warriors
+## Story 5: Lauren Hemp: aItas important Man City stay humble after win over Man Utd'
+**Slug (lower-third):** Lauren Hemp: aItas important Man City stay humble after w…  
+**When:** 2025-11-15 11:44 (America/Winnipeg)  •  **Published:** 2025-11-15 17:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Lauren Hemp: aItas important Man City stay humble after win over Man Utd'. Lauren Hemp is awarded Player of the Match after scoring a stunning goal on her first WSL start since September. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Lauren Hemp: aItas important Man City stay humble after win over Man Utd'. https://www.bbc.com/sport/football/videos/ceq08eylgg2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Lauren Hemp: How dazzling Manchester City winger can boost their WSL title hopes
+**Slug (lower-third):** Lauren Hemp: How dazzling Manchester City winger can boos…  
+**When:** 2025-11-15 11:11 (America/Winnipeg)  •  **Published:** 2025-11-15 17:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Lauren Hemp: How dazzling Manchester City winger can boost their WSL title hopes. When you are already top of the WSL table and are able to recall a fully fit Lauren Hemp, you know you are in a strong position. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Lauren Hemp: How dazzling Manchester City winger can boost their WSL title hopes. https://www.bbc.com/sport/football/articles/cx20zx3ev82o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Manchester City cruise past United in derby to surge four points clear in WSL
+**Slug (lower-third):** Manchester City cruise past United in derby to surge four…  
+**When:** 2025-11-15 09:44 (America/Winnipeg)  •  **Published:** 2025-11-15 15:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City cruise past United in derby to surge four points clear in WSL. Three first-half goals gave Manchester City a 3-0 derby win over Manchester United to move them four points clear at the top of the Women's Super League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Manchester City cruise past United in derby to surge four points clear in WSL. https://www.theguardian.com/football/2025/nov/15/manchester-city-manchester-united-wsl-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: NBA: Steph Curry matches Michael Jordan record with back-to-back 40-point games for Golden State Warriors
 **Slug (lower-third):** NBA: Steph Curry matches Michael Jordan record with back-…  
 **When:** 2025-11-15 05:00 (America/Winnipeg)  •  **Published:** 2025-11-15 11:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+**Virality score:** 95  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 NBA: Steph Curry matches Michael Jordan record with back-to-back 40-point games for Golden State Warriors. Steph Curry ties Michael Jordans record of 44 40-point games in the NBA after the age of 30; 37-year-old also joins Jordan and LeBron James in exclusive club; Golden State Warriors star Curry scores 49 points as side beat San Antonio Spurs for second time this week Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -114,10 +214,10 @@ NBA: Steph Curry matches Michael Jordan record with back-to-back 40-point games 
 
 ---
 
-## Story 5: 'They inspire me': Alessia Russo on empowering young girls and giving back
+## Story 9: 'They inspire me': Alessia Russo on empowering young girls and giving back
 **Slug (lower-third):** 'They inspire me': Alessia Russo on empowering young girl…  
 **When:** 2025-11-15 03:00 (America/Winnipeg)  •  **Published:** 2025-11-15 09:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'They inspire me': Alessia Russo on empowering young girls and giving back. The Arsenal and England forward has a new foundation designed to boost girls' participation in sport and promote female health Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -138,34 +238,10 @@ NBA: Steph Curry matches Michael Jordan record with back-to-back 40-point games 
 
 ---
 
-## Story 6: The teenager who quit Manchester City for Oxford University: 'I felt I could do more'
-**Slug (lower-third):** The teenager who quit Manchester City for Oxford Universi…  
-**When:** 2025-11-15 02:00 (America/Winnipeg)  •  **Published:** 2025-11-15 08:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-The teenager who quit Manchester City for Oxford University: 'I felt I could do more'. Han Willhoft-King was fancied to succeed at Spurs then City but opted for law at Brasenose College above pressing sessions with Guardiola Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — The teenager who quit Manchester City for Oxford University: 'I felt I could do more'. https://www.theguardian.com/football/2025/nov/15/han-willhoft-king-teenager-quit-manchester-city-for-oxford-university-law
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Maya le Tissier: Man Utd defender on growing up with stepbrother Alex Scott
+## Story 10: Maya le Tissier: Man Utd defender on growing up with stepbrother Alex Scott
 **Slug (lower-third):** Maya le Tissier: Man Utd defender on growing up with step…  
 **When:** 2025-11-15 01:39 (America/Winnipeg)  •  **Published:** 2025-11-15 07:39 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Maya le Tissier: Man Utd defender on growing up with stepbrother Alex Scott. Manchester United and England defender Maya le Tissier reflects on her experiences growing up in Guernsey with stepbrother and Bournemouth midfielder Alex Scott who has recently received his first call-up for England. Relevance to standings and momentum.
@@ -181,54 +257,6 @@ Maya le Tissier: Man Utd defender on growing up with stepbrother Alex Scott. Man
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Keira Walsh exclusive: Chelsea and England Women midfielder flourishing as changed mindset and willingness to shoot reap rewards
-**Slug (lower-third):** Keira Walsh exclusive: Chelsea and England Women midfield…  
-**When:** 2025-11-14 13:00 (America/Winnipeg)  •  **Published:** 2025-11-14 19:00 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~26s
-
-### Presenter Script (3–5 sentences)
-Keira Walsh exclusive: Chelsea and England Women midfielder flourishing as changed mindset and willingness to shoot reap rewards. Keira Walsh explains how coaches like Sonia Bompastor and Sarina Wiegman have helped make small changes to her winning mindset; watch Liverpool Women vs Chelsea Women from 11am on Sunday live on Sky Sports Premier League; kick-off 12pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Keira Walsh exclusive: Chelsea and England Women midfielder flourishing as changed mindset and willingness to shoot reap rewards. https://www.skysports.com/football/news/12040/13469635/keira-walsh-exclusive-chelsea-and-england-women-midfielder-flourishing-as-changed-mindset-and-willingness-to-shoot-reap-rewards
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Manchester derby: What to expect as United and City go head-to-head in Women's Super League
-**Slug (lower-third):** Manchester derby: What to expect as United and City go he…  
-**When:** 2025-11-14 07:25 (America/Winnipeg)  •  **Published:** 2025-11-14 13:25 (UTC)  
-**Virality score:** 72  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-Manchester derby: What to expect as United and City go head-to-head in Women's Super League. Will Man Utd help knock Man City off their perch at the top of the WSL table? Or will City land a lethal blow to the Red Devils' title aspirations? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Manchester derby: What to expect as United and City go head-to-head in Women's Super League. https://www.bbc.com/sport/football/articles/cd04x41134yo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
