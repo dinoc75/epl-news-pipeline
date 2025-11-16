@@ -1,25 +1,49 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-15 12:28 (America/Winnipeg)  |  2025-11-15 18:28 (UTC)
+**Generated:** 2025-11-15 19:48 (America/Winnipeg)  |  2025-11-16 01:48 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 38s
+**Estimated total video length:** ~4m 36s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Brazil 2-0 Senegal: Premier League stars shine but concern for Arsenal as Gabriel limps off in victory
-- Marc Skinner: Manchester United's players need support in winter transfer window after derby defeat to Man City
-- Lauren Hemp: aItas important Man City stay humble after win over Man Utd'
+- Conor Benn knocks Chris Eubank Jr down twice as he takes rematch revenge at Tottenham Hotspur Stadium
+- Gabriel injury: Arsenal defender suffers groin issue in Brazil friendly win
+- Rushden & Diamonds game abandoned after 'sexist' abuse of referee
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Sweden: What Graham Potter's side need to qualify for World Cup
+## Story 1: Gabriel injury: Arsenal defender suffers groin issue in Brazil friendly win
+**Slug (lower-third):** Gabriel injury: Arsenal defender suffers groin issue in B…  
+**When:** 2025-11-15 14:57 (America/Winnipeg)  •  **Published:** 2025-11-15 20:57 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Gabriel injury: Arsenal defender suffers groin issue in Brazil friendly win. Brazil manager Carlo Ancelotti says Gabriel will be assessed on Sunday after the Arsenal defender suffered a groin injury in a friendly win over Senegal. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Gabriel injury: Arsenal defender suffers groin issue in Brazil friendly win. https://www.bbc.com/sport/football/articles/c7510p630w0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Sweden: What Graham Potter's side need to qualify for World Cup
 **Slug (lower-third):** Sweden: What Graham Potter's side need to qualify for Wor…  
 **When:** 2025-11-15 02:23 (America/Winnipeg)  •  **Published:** 2025-11-15 08:23 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+**Virality score:** 80  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Sweden: What Graham Potter's side need to qualify for World Cup. Graham Potter was appointed Sweden manager in October after spells at West Ham and Chelsea. Is he the perfect fit? Relevance to standings and momentum.
@@ -34,7 +58,7 @@ Sweden: What Graham Potter's side need to qualify for World Cup. Graham Potter w
 - bbc.com — Sweden: What Graham Potter's side need to qualify for World Cup. https://www.bbc.com/sport/football/articles/ckgk4x4gnmyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -42,10 +66,10 @@ Sweden: What Graham Potter's side need to qualify for World Cup. Graham Potter w
 
 ### Transfers
 
-## Story 2: Marc Skinner: Manchester United's players need support in winter transfer window after derby defeat to Man City
+## Story 3: Marc Skinner: Manchester United's players need support in winter transfer window after derby defeat to Man City
 **Slug (lower-third):** Marc Skinner: Manchester United's players need support in…  
 **When:** 2025-11-15 11:53 (America/Winnipeg)  •  **Published:** 2025-11-15 17:53 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+**Virality score:** 94  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 Marc Skinner: Manchester United's players need support in winter transfer window after derby defeat to Man City. Man City scored three first-half goals to blow Man Utd away in the WSL derby; visitors failed to have a shot on target at the Etihad; Man Utd are now seven points off the pace and travel to Wolfsburg in the Champions League on Wednesday Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -66,15 +90,15 @@ Marc Skinner: Manchester United's players need support in winter transfer window
 
 ---
 
-### Injuries
+### League & Regulation
 
-## Story 3: Brazil 2-0 Senegal: Premier League stars shine but concern for Arsenal as Gabriel limps off in victory
-**Slug (lower-third):** Brazil 2-0 Senegal: Premier League stars shine but concer…  
-**When:** 2025-11-15 12:00 (America/Winnipeg)  •  **Published:** 2025-11-15 18:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Conor Benn knocks Chris Eubank Jr down twice as he takes rematch revenge at Tottenham Hotspur Stadium
+**Slug (lower-third):** Conor Benn knocks Chris Eubank Jr down twice as he takes …  
+**When:** 2025-11-15 16:00 (America/Winnipeg)  •  **Published:** 2025-11-15 22:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Brazil 2-0 Senegal: Premier League stars shine but concern for Arsenal as Gabriel limps off in victory. Arsenal defender Gabriel has sparked an injury concern for the Gunners after limping off in Brazil's 2-0 victory over Senegal at the Emirates. Potential impact on the lineup and upcoming fixtures.
+Conor Benn knocks Chris Eubank Jr down twice as he takes rematch revenge at Tottenham Hotspur Stadium. Conor Benn defeated Chris Eubank Jr by unanimous decision to take revenge in their rematch at the Tottenham Hotspur Stadium after losing an exciting first fight; Eubank Jr and Benn have reprised the rivalry of their famous fathers, Nigel Benn and Chris Eubank Sr Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +107,7 @@ Brazil 2-0 Senegal: Premier League stars shine but concern for Arsenal as Gabrie
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Brazil 2-0 Senegal: Premier League stars shine but concern for Arsenal as Gabriel limps off in victory. https://www.skysports.com/football/brazil-vs-senegal/report/549555
+- skysports.com — Conor Benn knocks Chris Eubank Jr down twice as he takes rematch revenge at Tottenham Hotspur Stadium. https://www.skysports.com/boxing/news/12040/13470942/conor-benn-knocks-chris-eubank-jr-down-twice-as-he-takes-rematch-revenge-at-tottenham-hotspur-stadium
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +116,13 @@ Brazil 2-0 Senegal: Premier League stars shine but concern for Arsenal as Gabrie
 
 ---
 
-## Story 4: Man City Women 3-0 Man Utd Women: Lauren Hemp scores stunner on injury return in thumping Manchester derby win
-**Slug (lower-third):** Man City Women 3-0 Man Utd Women: Lauren Hemp scores stun…  
-**When:** 2025-11-15 09:30 (America/Winnipeg)  •  **Published:** 2025-11-15 15:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
+## Story 5: Rushden & Diamonds game abandoned after 'sexist' abuse of referee
+**Slug (lower-third):** Rushden & Diamonds game abandoned after 'sexist' abuse of…  
+**When:** 2025-11-15 14:25 (America/Winnipeg)  •  **Published:** 2025-11-15 20:25 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City Women 3-0 Man Utd Women: Lauren Hemp scores stunner on injury return in thumping Manchester derby win. Slick Manchester City underlined their Women's Super League title credentials with a thumping 3-0 victory over Manchester United in the derby on Saturday to go four points clear of Chelsea at the top. Potential impact on the lineup and upcoming fixtures.
+Rushden & Diamonds game abandoned after 'sexist' abuse of referee. AFC Rushden & Diamonds says it is "deeply concerned" by the comment made to the female referee. Disciplinary outcome could affect availability.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +131,7 @@ Man City Women 3-0 Man Utd Women: Lauren Hemp scores stunner on injury return in
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man City Women 3-0 Man Utd Women: Lauren Hemp scores stunner on injury return in thumping Manchester derby win. https://www.skysports.com/football/manchester-city-women-vs-manchester-united-women/report/545655
+- bbc.com — Rushden & Diamonds game abandoned after 'sexist' abuse of referee. https://www.bbc.com/news/articles/c709ll70d8go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,10 +142,34 @@ Man City Women 3-0 Man Utd Women: Lauren Hemp scores stunner on injury return in
 
 ### Club Updates
 
-## Story 5: Lauren Hemp: aItas important Man City stay humble after win over Man Utd'
+## Story 6: Football gossip: Anderson, Eyong, Toney, Lewandowski, Kubo
+**Slug (lower-third):** Football gossip: Anderson, Eyong, Toney, Lewandowski, Kubo  
+**When:** 2025-11-15 14:20 (America/Winnipeg)  •  **Published:** 2025-11-15 20:20 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Anderson, Eyong, Toney, Lewandowski, Kubo. Elliot Anderson is a winter target for Manchester United and England striker Ivan Toney will reportedly not leave Saudi Arabia in January. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Anderson, Eyong, Toney, Lewandowski, Kubo. https://www.bbc.com/sport/football/articles/cjw95zd86d6o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Lauren Hemp: aItas important Man City stay humble after win over Man Utd'
 **Slug (lower-third):** Lauren Hemp: aItas important Man City stay humble after w…  
 **When:** 2025-11-15 11:44 (America/Winnipeg)  •  **Published:** 2025-11-15 17:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Lauren Hemp: aItas important Man City stay humble after win over Man Utd'. Lauren Hemp is awarded Player of the Match after scoring a stunning goal on her first WSL start since September. Relevance to standings and momentum.
@@ -142,10 +190,10 @@ Lauren Hemp: aItas important Man City stay humble after win over Man Utd'. Laure
 
 ---
 
-## Story 6: Lauren Hemp: How dazzling Manchester City winger can boost their WSL title hopes
+## Story 8: Lauren Hemp: How dazzling Manchester City winger can boost their WSL title hopes
 **Slug (lower-third):** Lauren Hemp: How dazzling Manchester City winger can boos…  
 **When:** 2025-11-15 11:11 (America/Winnipeg)  •  **Published:** 2025-11-15 17:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Lauren Hemp: How dazzling Manchester City winger can boost their WSL title hopes. When you are already top of the WSL table and are able to recall a fully fit Lauren Hemp, you know you are in a strong position. Relevance to standings and momentum.
@@ -166,10 +214,10 @@ Lauren Hemp: How dazzling Manchester City winger can boost their WSL title hopes
 
 ---
 
-## Story 7: Manchester City cruise past United in derby to surge four points clear in WSL
+## Story 9: Manchester City cruise past United in derby to surge four points clear in WSL
 **Slug (lower-third):** Manchester City cruise past United in derby to surge four…  
 **When:** 2025-11-15 09:44 (America/Winnipeg)  •  **Published:** 2025-11-15 15:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester City cruise past United in derby to surge four points clear in WSL. Three first-half goals gave Manchester City a 3-0 derby win over Manchester United to move them four points clear at the top of the Women's Super League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -190,34 +238,10 @@ Manchester City cruise past United in derby to surge four points clear in WSL. T
 
 ---
 
-## Story 8: NBA: Steph Curry matches Michael Jordan record with back-to-back 40-point games for Golden State Warriors
-**Slug (lower-third):** NBA: Steph Curry matches Michael Jordan record with back-…  
-**When:** 2025-11-15 05:00 (America/Winnipeg)  •  **Published:** 2025-11-15 11:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-NBA: Steph Curry matches Michael Jordan record with back-to-back 40-point games for Golden State Warriors. Steph Curry ties Michael Jordans record of 44 40-point games in the NBA after the age of 30; 37-year-old also joins Jordan and LeBron James in exclusive club; Golden State Warriors star Curry scores 49 points as side beat San Antonio Spurs for second time this week Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — NBA: Steph Curry matches Michael Jordan record with back-to-back 40-point games for Golden State Warriors. https://www.skysports.com/nba/news/12040/13470698/nba-steph-curry-matches-michael-jordan-record-with-back-to-back-40-point-games-for-golden-state-warriors
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: 'They inspire me': Alessia Russo on empowering young girls and giving back
+## Story 10: 'They inspire me': Alessia Russo on empowering young girls and giving back
 **Slug (lower-third):** 'They inspire me': Alessia Russo on empowering young girl…  
 **When:** 2025-11-15 03:00 (America/Winnipeg)  •  **Published:** 2025-11-15 09:00 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+**Virality score:** 80  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'They inspire me': Alessia Russo on empowering young girls and giving back. The Arsenal and England forward has a new foundation designed to boost girls' participation in sport and promote female health Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -232,31 +256,7 @@ NBA: Steph Curry matches Michael Jordan record with back-to-back 40-point games 
 - theguardian.com — 'They inspire me': Alessia Russo on empowering young girls and giving back. https://www.theguardian.com/football/2025/nov/15/they-inspire-me-alessia-russo-on-empowering-young-girls-and-giving-back
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Maya le Tissier: Man Utd defender on growing up with stepbrother Alex Scott
-**Slug (lower-third):** Maya le Tissier: Man Utd defender on growing up with step…  
-**When:** 2025-11-15 01:39 (America/Winnipeg)  •  **Published:** 2025-11-15 07:39 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Maya le Tissier: Man Utd defender on growing up with stepbrother Alex Scott. Manchester United and England defender Maya le Tissier reflects on her experiences growing up in Guernsey with stepbrother and Bournemouth midfielder Alex Scott who has recently received his first call-up for England. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Maya le Tissier: Man Utd defender on growing up with stepbrother Alex Scott. https://www.bbc.com/sport/football/videos/cx24zgqpd7lo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
