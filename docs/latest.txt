@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-21 06:42 (America/Winnipeg)  |  2025-11-21 12:42 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2025-11-21 12:29 (America/Winnipeg)  |  2025-11-21 18:29 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 10s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota
-- Premier League clubs reject controversial 'anchoring' but agree new financial rules
-- 'Newcastle require Premier League reboot amid curious season'
+- Idris Elba meets Eberechi Eze to discuss Arsenal, NLD, pre-game rituals and much more!
+- Premier League news: Palmer breaks toe in freak home mishap and Iraola unfazed by Semenyo links
+- 'I wouldn't compare us': Sindre Walle Egeli, the Ipswich teenager who has outscored Haaland
 
 ---
 
 ### Injuries
 
-## Story 1: Cole Palmer: Chelsea forward breaks toe in accident at home and will miss next three matches
-**Slug (lower-third):** Cole Palmer: Chelsea forward breaks toe in accident at ho…  
-**When:** 2025-11-21 03:44 (America/Winnipeg)  •  **Published:** 2025-11-21 09:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+## Story 1: Rob Edwards returns to Wolves aware taking his dream job has let Boro down
+**Slug (lower-third):** Rob Edwards returns to Wolves aware taking his dream job …  
+**When:** 2025-11-21 11:00 (America/Winnipeg)  •  **Published:** 2025-11-21 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Cole Palmer: Chelsea forward breaks toe in accident at home and will miss next three matches. Cole Palmer has broken a toe in an accident at home meaning he will miss Chelseas games with Burnley, Barcelona and Arsenal; England forward stubbed a toe on his left foot against a door; he had been set to return from groin injury which has sidelined him since September Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Rob Edwards returns to Wolves aware taking his dream job has let Boro down. Wolves are bottom of the Premier League and winless, but Rob Edwards is delighted to be back Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Cole Palmer: Chelsea forward breaks toe in accident at home and will miss next t
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Cole Palmer: Chelsea forward breaks toe in accident at home and will miss next three matches. https://www.skysports.com/football/news/12040/13473527/cole-palmer-chelsea-forward-suffers-toe-injury-in-accident-at-home-and-to-miss-next-three-matches
+- theguardian.com — Rob Edwards returns to Wolves aware taking his dream job has let Boro down. https://www.theguardian.com/football/2025/nov/21/rob-edwards-returns-to-wolves-dream-job-let-middlesbrough-down
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,13 @@ Cole Palmer: Chelsea forward breaks toe in accident at home and will miss next t
 
 ### League & Regulation
 
-## Story 2: Premier League clubs reject controversial 'anchoring' but agree new financial rules
-**Slug (lower-third):** Premier League clubs reject controversial 'anchoring' but…  
-**When:** 2025-11-21 06:12 (America/Winnipeg)  •  **Published:** 2025-11-21 12:12 (UTC)  
+## Story 2: Premier League clubs to be banned from selling assets to themselves
+**Slug (lower-third):** Premier League clubs to be banned from selling assets to …  
+**When:** 2025-11-21 11:08 (America/Winnipeg)  •  **Published:** 2025-11-21 17:08 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League clubs reject controversial 'anchoring' but agree new financial rules. Clubs approved squad cost ratios but rejected tying spending to a multiple of the central revenue earned by the bottom-placed side Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League clubs to be banned from selling assets to themselves. Clubs will no longer be able to sell assets like hotels and women's teams to themselves from next season as the Premier League moves to a new system of Financial Fair Play. Disciplinary outcome could affect availability.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,31 @@ Premier League clubs reject controversial 'anchoring' but agree new financial ru
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League clubs reject controversial 'anchoring' but agree new financial rules. https://www.theguardian.com/football/2025/nov/21/premier-league-clubs-reject-anchoring-agree-new-financial-rules-squad-cost-ratio
+- bbc.com — Premier League clubs to be banned from selling assets to themselves. https://www.bbc.com/sport/football/articles/cgkeyj71m36o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Premier League clubs can no longer sell hotels or women's team to comply with spending rules
+**Slug (lower-third):** Premier League clubs can no longer sell hotels or women's…  
+**When:** 2025-11-21 10:00 (America/Winnipeg)  •  **Published:** 2025-11-21 16:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League clubs can no longer sell hotels or women's team to comply with spending rules. Clubs approved squad cost ratios but rejected tying spending to a multiple of the central revenue earned by the bottom-placed side Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League clubs can no longer sell hotels or women's team to comply with spending rules. https://www.theguardian.com/football/2025/nov/21/premier-league-clubs-reject-anchoring-agree-new-financial-rules-squad-cost-ratio
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,7 +92,127 @@ Premier League clubs reject controversial 'anchoring' but agree new financial ru
 
 ### Club Updates
 
-## Story 3: Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota
+## Story 4: Idris Elba meets Eberechi Eze to discuss Arsenal, NLD, pre-game rituals and much more!
+**Slug (lower-third):** Idris Elba meets Eberechi Eze to discuss Arsenal, NLD, pr…  
+**When:** 2025-11-21 12:00 (America/Winnipeg)  •  **Published:** 2025-11-21 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Idris Elba meets Eberechi Eze to discuss Arsenal, NLD, pre-game rituals and much more!. Actor Idris Elba sits down with Arsenals Eberechi Eze to discuss his move to Arsenal, the north London derby, pre-game rituals, and much more! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Idris Elba meets Eberechi Eze to discuss Arsenal, NLD, pre-game rituals and much more!. https://www.skysports.com/watch/video/13473648/idris-elba-meets-eberechi-eze-to-discuss-arsenal-nld-pre-game-rituals-and-much-more
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Premier League news: Palmer breaks toe in freak home mishap and Iraola unfazed by Semenyo links
+**Slug (lower-third):** Premier League news: Palmer breaks toe in freak home mish…  
+**When:** 2025-11-21 11:43 (America/Winnipeg)  •  **Published:** 2025-11-21 17:43 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League news: Palmer breaks toe in freak home mishap and Iraola unfazed by Semenyo links. Around the Premier League's press conferences, including Kolo Muani's derby boost for Spurs and Howe demanding more of Woltemade Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League news: Palmer breaks toe in freak home mishap and Iraola unfazed by Semenyo links. https://www.theguardian.com/football/2025/nov/21/premier-league-news-palmer-chelsea-broken-toe-iraola-semenyo-carvalho-silva
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: 'I wouldn't compare us': Sindre Walle Egeli, the Ipswich teenager who has outscored Haaland
+**Slug (lower-third):** 'I wouldn't compare us': Sindre Walle Egeli, the Ipswich …  
+**When:** 2025-11-21 11:32 (America/Winnipeg)  •  **Published:** 2025-11-21 17:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'I wouldn't compare us': Sindre Walle Egeli, the Ipswich teenager who has outscored Haaland. Record scorer for Norway's age-group sides tells Nick Ames about his World Cup hope, being frozen out at 15 and fake tickets heartbreak at Anfield Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'I wouldn't compare us': Sindre Walle Egeli, the Ipswich teenager who has outscored Haaland. https://www.theguardian.com/football/2025/nov/21/sindre-walle-egeli-ipswich-norway-haaland-interview
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Man Utd: Ruben Amorim wants to delay Afcon departure of Mbeumo, Diallo & Mazraoui
+**Slug (lower-third):** Man Utd: Ruben Amorim wants to delay Afcon departure of M…  
+**When:** 2025-11-21 11:10 (America/Winnipeg)  •  **Published:** 2025-11-21 17:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man Utd: Ruben Amorim wants to delay Afcon departure of Mbeumo, Diallo & Mazraoui. Manchester United will attempt to delay the departures of Bryan Mbeumo, Amad Diallo and Noussair Mazraoui to the Africa Cup of Nations. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Man Utd: Ruben Amorim wants to delay Afcon departure of Mbeumo, Diallo & Mazraoui. https://www.bbc.com/sport/football/articles/c4gpe0jge2go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Premier League team news: predicted lineups for the weekend action
+**Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
+**When:** 2025-11-21 10:22 (America/Winnipeg)  •  **Published:** 2025-11-21 16:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League team news: predicted lineups for the weekend action. Newcastle host Manchester City at Saturday teatime while Arsenal face Tottenham in Sunday's north London derby Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/football/2025/nov/21/premier-league-team-news-predicted-lineups-for-the-weekend-action
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota
 **Slug (lower-third):** Liverpool: 'We miss the player and person' - Arne Slot on…  
 **When:** 2025-11-21 06:20 (America/Winnipeg)  •  **Published:** 2025-11-21 12:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -84,7 +228,6 @@ Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota. Liverpool 
 
 ### Sources
 - bbc.com — Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota. https://www.bbc.com/sport/football/videos/cy8j4y0p523o?at_medium=RSS&at_campaign=rss
-- skysports.com — Arne Slot: Liverpool miss Diogo Jota as a player and person but it is not an excuse for poor results. https://www.skysports.com/football/news/12040/13473545/arne-slot-liverpool-miss-diogo-jota-as-a-player-and-person-but-it-is-not-an-excuse-for-poor-results
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -93,13 +236,13 @@ Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota. Liverpool 
 
 ---
 
-## Story 4: 'Newcastle require Premier League reboot amid curious season'
-**Slug (lower-third):** 'Newcastle require Premier League reboot amid curious sea…  
-**When:** 2025-11-21 05:48 (America/Winnipeg)  •  **Published:** 2025-11-21 11:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Gianluigi Donnarumma interview: Man City goalkeeper discusses summer exit from PSG and how Erling Haaland helped him join the Premier League
+**Slug (lower-third):** Gianluigi Donnarumma interview: Man City goalkeeper discu…  
+**When:** 2025-11-21 08:00 (America/Winnipeg)  •  **Published:** 2025-11-21 14:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-'Newcastle require Premier League reboot amid curious season'. Newcastle United are going well in the Champions League and Carabao Cup but are two points above the relegation zone before in-form Manchester City visit Tyneside on Saturday. Relevance to standings and momentum.
+Gianluigi Donnarumma interview: Man City goalkeeper discusses summer exit from PSG and how Erling Haaland helped him join the Premier League. Gianluigi Donnarumma has spoken to Sky Sports about his summer exit from PSG and his first few months at Man City; the Italian has kept six clean sheets in his opening 12 City matches; watch Newcastle vs Man City live on Sky Sports this Saturday from 5pm, kick-off 5.30pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -108,130 +251,10 @@ Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota. Liverpool 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — 'Newcastle require Premier League reboot amid curious season'. https://www.bbc.com/sport/football/articles/c33p3mdnxvlo?at_medium=RSS&at_campaign=rss
+- skysports.com — Gianluigi Donnarumma interview: Man City goalkeeper discusses summer exit from PSG and how Erling Haaland helped him join the Premier League. https://www.skysports.com/football/news/12040/13473261/gianluigi-donnarumma-interview-man-city-goalkeeper-discusses-summer-exit-from-psg-and-how-erling-haaland-helped-him-join-the-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Chelsea: Cole Palmer injured as he fractures toe in home accident
-**Slug (lower-third):** Chelsea: Cole Palmer injured as he fractures toe in home …  
-**When:** 2025-11-21 04:14 (America/Winnipeg)  •  **Published:** 2025-11-21 10:14 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea: Cole Palmer injured as he fractures toe in home accident. Chelsea's Cole Palmer will be out for another week as he fractures his toe by stubbing it on a door at night. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Chelsea: Cole Palmer injured as he fractures toe in home accident. https://www.bbc.com/sport/football/articles/c709388r0ero?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: 'We start them early': the small Swedish club that produced Gyokeres, Bergvall and Kulusevski
-**Slug (lower-third):** 'We start them early': the small Swedish club that produc…  
-**When:** 2025-11-21 02:00 (America/Winnipeg)  •  **Published:** 2025-11-21 08:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-'We start them early': the small Swedish club that produced Gyokeres, Bergvall and Kulusevski. Brommapojkarna will have a close eye on Arsenal's clash with Spurs on Sunday as their talent factory continues to thrive Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — 'We start them early': the small Swedish club that produced Gyokeres, Bergvall and Kulusevski. https://www.theguardian.com/football/2025/nov/21/gyokeres-bergvall-kulusevski-arsenal-spurs-brommapojkarna-sweden
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Chelsea 1-1 Barcelona: Blues left to rue missed opportunity in Champions League draw
-**Slug (lower-third):** Chelsea 1-1 Barcelona: Blues left to rue missed opportuni…  
-**When:** 2025-11-20 17:55 (America/Winnipeg)  •  **Published:** 2025-11-20 23:55 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea 1-1 Barcelona: Blues left to rue missed opportunity in Champions League draw. Having suffered plenty of past heartache at Barcelona's expense, Chelsea may have ordinarily celebrated a 1-1 Women's Champions League draw - but this was a missed opportunity. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Chelsea 1-1 Barcelona: Blues left to rue missed opportunity in Champions League draw. https://www.bbc.com/sport/football/articles/c2eme0mzj2ko?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Premier League: 10 things to look out for this weekend
-**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
-**When:** 2025-11-20 18:01 (America/Winnipeg)  •  **Published:** 2025-11-21 00:01 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: 10 things to look out for this weekend. Semenyo can lift Bournemouth, Isak must show up for Liverpool and north London derby rivals left to rue injuries Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2025/nov/21/premier-league-10-things-to-look-out-for-this-weekend
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League predictions: Chris Sutton v singer Olly Murs - and AI
-**Slug (lower-third):** Premier League predictions: Chris Sutton v singer Olly Mu…  
-**When:** 2025-11-20 12:58 (America/Winnipeg)  •  **Published:** 2025-11-20 18:58 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League predictions: Chris Sutton v singer Olly Murs - and AI. BBC Sport football expert Chris Sutton takes on singer Olly Murs - and AI - with his predictions for this weekend's Premier League fixtures. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League predictions: Chris Sutton v singer Olly Murs - and AI. https://www.bbc.com/sport/football/articles/c4gp7glkdr3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
