@@ -1,54 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-21 00:34 (America/Winnipeg)  |  2025-11-21 06:34 (UTC)
-**Stories in this rundown:** 10  |  **Style:** conversational broadcast
+**Generated:** 2025-11-21 06:42 (America/Winnipeg)  |  2025-11-21 12:42 (UTC)
+**Stories in this rundown:** 9  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 26s
+**Estimated total video length:** ~3m 10s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League: What is going wrong at Liverpool?
-- Coaches dishing out their own cards? New Football Video Support system to trial in Australia
-- Women's Champions League: What do English sides need to progress to knockouts?
-
----
-
-### Managerial Moves
-
-## Story 1: Tanya Oxtoby: Northern Ireland manager in talks over Newcastle United job
-**Slug (lower-third):** Tanya Oxtoby: Northern Ireland manager in talks over Newc…  
-**When:** 2025-11-20 09:02 (America/Winnipeg)  •  **Published:** 2025-11-20 15:02 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tanya Oxtoby: Northern Ireland manager in talks over Newcastle United job. Northern Ireland manager Tanya Oxtoby is in advanced talks to become head coach at WSL 2 side Newcastle United. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Tanya Oxtoby: Northern Ireland manager in talks over Newcastle United job. https://www.bbc.com/sport/football/articles/c89198ng4qeo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota
+- Premier League clubs reject controversial 'anchoring' but agree new financial rules
+- 'Newcastle require Premier League reboot amid curious season'
 
 ---
 
 ### Injuries
 
-## Story 2: Man Utd, Liverpool and Newcastle all in race for Elliot Anderson - Paper talk and football gossip
-**Slug (lower-third):** Man Utd, Liverpool and Newcastle all in race for Elliot A…  
-**When:** 2025-11-20 16:45 (America/Winnipeg)  •  **Published:** 2025-11-20 22:45 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~26s
+## Story 1: Cole Palmer: Chelsea forward breaks toe in accident at home and will miss next three matches
+**Slug (lower-third):** Cole Palmer: Chelsea forward breaks toe in accident at ho…  
+**When:** 2025-11-21 03:44 (America/Winnipeg)  •  **Published:** 2025-11-21 09:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Man Utd, Liverpool and Newcastle all in race for Elliot Anderson - Paper talk and football gossip. Latest from Fridays newspapers as Manchester United face competition from Liverpool and Newcastle for Elliot Anderson; Martin Odegaard is set to return for Arsenal in time for the north London derby; Crystal Palace have earmarked their replacement for Marc Guehi Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Cole Palmer: Chelsea forward breaks toe in accident at home and will miss next three matches. Cole Palmer has broken a toe in an accident at home meaning he will miss Chelseas games with Burnley, Barcelona and Arsenal; England forward stubbed a toe on his left foot against a door; he had been set to return from groin injury which has sidelined him since September Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +31,33 @@ Man Utd, Liverpool and Newcastle all in race for Elliot Anderson - Paper talk an
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man Utd, Liverpool and Newcastle all in race for Elliot Anderson - Paper talk and football gossip. https://www.skysports.com/football/news/12040/13473362/man-utd-liverpool-and-newcastle-all-in-race-for-elliot-anderson-paper-talk-and-football-gossip
+- skysports.com — Cole Palmer: Chelsea forward breaks toe in accident at home and will miss next three matches. https://www.skysports.com/football/news/12040/13473527/cole-palmer-chelsea-forward-suffers-toe-injury-in-accident-at-home-and-to-miss-next-three-matches
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 2: Premier League clubs reject controversial 'anchoring' but agree new financial rules
+**Slug (lower-third):** Premier League clubs reject controversial 'anchoring' but…  
+**When:** 2025-11-21 06:12 (America/Winnipeg)  •  **Published:** 2025-11-21 12:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League clubs reject controversial 'anchoring' but agree new financial rules. Clubs approved squad cost ratios but rejected tying spending to a multiple of the central revenue earned by the bottom-placed side Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League clubs reject controversial 'anchoring' but agree new financial rules. https://www.theguardian.com/football/2025/nov/21/premier-league-clubs-reject-anchoring-agree-new-financial-rules-squad-cost-ratio
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +68,13 @@ Man Utd, Liverpool and Newcastle all in race for Elliot Anderson - Paper talk an
 
 ### Club Updates
 
-## Story 3: Premier League: What is going wrong at Liverpool?
-**Slug (lower-third):** Premier League: What is going wrong at Liverpool?  
-**When:** 2025-11-21 00:24 (America/Winnipeg)  •  **Published:** 2025-11-21 06:24 (UTC)  
+## Story 3: Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota
+**Slug (lower-third):** Liverpool: 'We miss the player and person' - Arne Slot on…  
+**When:** 2025-11-21 06:20 (America/Winnipeg)  •  **Published:** 2025-11-21 12:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: What is going wrong at Liverpool?. With just one win from their last six Premier League matches, BBC Sport look what has gone wrong for Liverpool this season. Relevance to standings and momentum.
+Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota. Liverpool boss Arne Slot says the team miss Diogo Jota as a "player and a person" and that it is "good to remember him" whenever possible. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +83,8 @@ Premier League: What is going wrong at Liverpool?. With just one win from their 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: What is going wrong at Liverpool?. https://www.bbc.com/sport/articles/c4gwg4d3ly5o?at_medium=RSS&at_campaign=rss
+- bbc.com — Liverpool: 'We miss the player and person' - Arne Slot on Diogo Jota. https://www.bbc.com/sport/football/videos/cy8j4y0p523o?at_medium=RSS&at_campaign=rss
+- skysports.com — Arne Slot: Liverpool miss Diogo Jota as a player and person but it is not an excuse for poor results. https://www.skysports.com/football/news/12040/13473545/arne-slot-liverpool-miss-diogo-jota-as-a-player-and-person-but-it-is-not-an-excuse-for-poor-results
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +93,61 @@ Premier League: What is going wrong at Liverpool?. With just one win from their 
 
 ---
 
-## Story 4: Coaches dishing out their own cards? New Football Video Support system to trial in Australia
-**Slug (lower-third):** Coaches dishing out their own cards? New Football Video S…  
-**When:** 2025-11-20 19:54 (America/Winnipeg)  •  **Published:** 2025-11-21 01:54 (UTC)  
+## Story 4: 'Newcastle require Premier League reboot amid curious season'
+**Slug (lower-third):** 'Newcastle require Premier League reboot amid curious sea…  
+**When:** 2025-11-21 05:48 (America/Winnipeg)  •  **Published:** 2025-11-21 11:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'Newcastle require Premier League reboot amid curious season'. Newcastle United are going well in the Champions League and Carabao Cup but are two points above the relegation zone before in-form Manchester City visit Tyneside on Saturday. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — 'Newcastle require Premier League reboot amid curious season'. https://www.bbc.com/sport/football/articles/c33p3mdnxvlo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Chelsea: Cole Palmer injured as he fractures toe in home accident
+**Slug (lower-third):** Chelsea: Cole Palmer injured as he fractures toe in home …  
+**When:** 2025-11-21 04:14 (America/Winnipeg)  •  **Published:** 2025-11-21 10:14 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea: Cole Palmer injured as he fractures toe in home accident. Chelsea's Cole Palmer will be out for another week as he fractures his toe by stubbing it on a door at night. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Chelsea: Cole Palmer injured as he fractures toe in home accident. https://www.bbc.com/sport/football/articles/c709388r0ero?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: 'We start them early': the small Swedish club that produced Gyokeres, Bergvall and Kulusevski
+**Slug (lower-third):** 'We start them early': the small Swedish club that produc…  
+**When:** 2025-11-21 02:00 (America/Winnipeg)  •  **Published:** 2025-11-21 08:00 (UTC)  
 **Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Coaches dishing out their own cards? New Football Video Support system to trial in Australia. The system, similar to cricket's DRS, allows for challenges to be made in leagues without the resources for a full VAR deployment Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+'We start them early': the small Swedish club that produced Gyokeres, Bergvall and Kulusevski. Brommapojkarna will have a close eye on Arsenal's clash with Spurs on Sunday as their talent factory continues to thrive Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +156,7 @@ Coaches dishing out their own cards? New Football Video Support system to trial 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Coaches dishing out their own cards? New Football Video Support system to trial in Australia. https://www.theguardian.com/football/2025/nov/21/new-fifa-football-video-support-system-fvs-trial-australia
+- theguardian.com — 'We start them early': the small Swedish club that produced Gyokeres, Bergvall and Kulusevski. https://www.theguardian.com/football/2025/nov/21/gyokeres-bergvall-kulusevski-arsenal-spurs-brommapojkarna-sweden
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,34 +165,10 @@ Coaches dishing out their own cards? New Football Video Support system to trial 
 
 ---
 
-## Story 5: Women's Champions League: What do English sides need to progress to knockouts?
-**Slug (lower-third):** Women's Champions League: What do English sides need to p…  
-**When:** 2025-11-20 18:00 (America/Winnipeg)  •  **Published:** 2025-11-21 00:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Women's Champions League: What do English sides need to progress to knockouts?. BBC Sport assesses how Arsenal, Chelsea and Man Utd have fared so far in this season's Women's Champions League with two league phase rounds remaining. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Women's Champions League: What do English sides need to progress to knockouts?. https://www.bbc.com/sport/football/articles/cgmxme0km8no?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Chelsea 1-1 Barcelona: Blues left to rue missed opportunity in Champions League draw
+## Story 7: Chelsea 1-1 Barcelona: Blues left to rue missed opportunity in Champions League draw
 **Slug (lower-third):** Chelsea 1-1 Barcelona: Blues left to rue missed opportuni…  
 **When:** 2025-11-20 17:55 (America/Winnipeg)  •  **Published:** 2025-11-20 23:55 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Chelsea 1-1 Barcelona: Blues left to rue missed opportunity in Champions League draw. Having suffered plenty of past heartache at Barcelona's expense, Chelsea may have ordinarily celebrated a 1-1 Women's Champions League draw - but this was a missed opportunity. Relevance to standings and momentum.
@@ -164,10 +189,10 @@ Chelsea 1-1 Barcelona: Blues left to rue missed opportunity in Champions League 
 
 ---
 
-## Story 7: Premier League: 10 things to look out for this weekend
+## Story 8: Premier League: 10 things to look out for this weekend
 **Slug (lower-third):** Premier League: 10 things to look out for this weekend  
 **When:** 2025-11-20 18:01 (America/Winnipeg)  •  **Published:** 2025-11-21 00:01 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+**Virality score:** 86  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League: 10 things to look out for this weekend. Semenyo can lift Bournemouth, Isak must show up for Liverpool and north London derby rivals left to rue injuries Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
@@ -188,34 +213,10 @@ Premier League: 10 things to look out for this weekend. Semenyo can lift Bournem
 
 ---
 
-## Story 8: Women's Champions League Chelsea v Barcelona: Lucy Bronze reacts to 'frsutrating' draw
-**Slug (lower-third):** Women's Champions League Chelsea v Barcelona: Lucy Bronze…  
-**When:** 2025-11-20 16:54 (America/Winnipeg)  •  **Published:** 2025-11-20 22:54 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Women's Champions League Chelsea v Barcelona: Lucy Bronze reacts to 'frsutrating' draw. Chelsea's defender Lucy Bronze speaks about frustrating second-half against her former club Barcelona as they draw 1-1 in the Women's Champions League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Women's Champions League Chelsea v Barcelona: Lucy Bronze reacts to 'frsutrating' draw. https://www.bbc.com/sport/football/videos/c07m7l0nmyzo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 9: Premier League predictions: Chris Sutton v singer Olly Murs - and AI
 **Slug (lower-third):** Premier League predictions: Chris Sutton v singer Olly Mu…  
 **When:** 2025-11-20 12:58 (America/Winnipeg)  •  **Published:** 2025-11-20 18:58 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+**Virality score:** 80  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League predictions: Chris Sutton v singer Olly Murs - and AI. BBC Sport football expert Chris Sutton takes on singer Olly Murs - and AI - with his predictions for this weekend's Premier League fixtures. Relevance to standings and momentum.
@@ -228,30 +229,6 @@ Premier League predictions: Chris Sutton v singer Olly Murs - and AI. BBC Sport 
 
 ### Sources
 - bbc.com — Premier League predictions: Chris Sutton v singer Olly Murs - and AI. https://www.bbc.com/sport/football/articles/c4gp7glkdr3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Liverpool's disallowed goal at Manchester City causes split in Premier League KMI Panel
-**Slug (lower-third):** Liverpool's disallowed goal at Manchester City causes spl…  
-**When:** 2025-11-20 05:43 (America/Winnipeg)  •  **Published:** 2025-11-20 11:43 (UTC)  
-**Virality score:** 78  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool's disallowed goal at Manchester City causes split in Premier League KMI Panel. The Premier League's KMI Panel votes 3-2 both that Liverpool's goal should have stood on-field, but didn't reach the VAR threshold. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Liverpool's disallowed goal at Manchester City causes split in Premier League KMI Panel. https://www.bbc.com/sport/football/articles/c9wvw7eyvepo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
