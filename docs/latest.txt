@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-24 12:33 (America/Winnipeg)  |  2025-11-24 18:33 (UTC)
+**Generated:** 2025-11-24 19:44 (America/Winnipeg)  |  2025-11-25 01:44 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~4m 40s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- MNF: Jamie Carragher says only Arne Slot can solve Liverpool's problems
-- Premier League clubs urged to freeze ticket prices by fan groups
-- Football Daily | Forest show Liverpool the long and short of it as Dyche delivers again
+- Idrissa Gueye: Everton midfielder sent off striking team-mate Michael Keane
+- Man Utd 0-1 Everton: Ruben Amorim says his side are nowhere near the level they should be
+- Troy Deeney's Team of the Week: Areola, Munoz, Kadioglu, Anderson, Eze, Wilson
 
 ---
 
 ### Managerial Moves
 
-## Story 1: MNF: Jamie Carragher says only Arne Slot can solve Liverpool's problems
-**Slug (lower-third):** MNF: Jamie Carragher says only Arne Slot can solve Liverp…  
-**When:** 2025-11-24 11:00 (America/Winnipeg)  •  **Published:** 2025-11-24 17:00 (UTC)  
+## Story 1: Man Utd 0-1 Everton: Ruben Amorim says his side are nowhere near the level they should be
+**Slug (lower-third):** Man Utd 0-1 Everton: Ruben Amorim says his side are nowhe…  
+**When:** 2025-11-24 17:58 (America/Winnipeg)  •  **Published:** 2025-11-24 23:58 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-MNF: Jamie Carragher says only Arne Slot can solve Liverpool's problems. Jamie Carragher looks at the problems facing Arne Slot but says only the Liverpool head coach can solve them. Relevance to standings and momentum.
+Man Utd 0-1 Everton: Ruben Amorim says his side are nowhere near the level they should be. Manchester United manager Ruben Amorim says his side are nowhere near the level they should be after losing to 10-man Everton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ MNF: Jamie Carragher says only Arne Slot can solve Liverpool's problems. Jamie C
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — MNF: Jamie Carragher says only Arne Slot can solve Liverpool's problems. https://www.skysports.com/watch/video/13474950/mnf-jamie-carragher-says-only-arne-slot-can-solve-liverpools-problems
+- bbc.com — Man Utd 0-1 Everton: Ruben Amorim says his side are nowhere near the level they should be. https://www.bbc.com/sport/football/articles/c0mpz1d08vwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ MNF: Jamie Carragher says only Arne Slot can solve Liverpool's problems. Jamie C
 
 ---
 
-### Injuries
-
-## Story 2: Cole Palmer spotted in high spirits at Chelsea training!
-**Slug (lower-third):** Cole Palmer spotted in high spirits at Chelsea training!  
-**When:** 2025-11-24 08:50 (America/Winnipeg)  •  **Published:** 2025-11-24 14:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: 'He's smiling a lot': Rashford is enjoying himself again at Barcelona, insists Flick
+**Slug (lower-third):** 'He's smiling a lot': Rashford is enjoying himself again …  
+**When:** 2025-11-24 14:41 (America/Winnipeg)  •  **Published:** 2025-11-24 20:41 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Cole Palmer spotted in high spirits at Chelsea training!. Cole Palmer rejoins first-team training at Chelsea after his toe injury ahead of a big week, with matches against Barcelona and Arsenal! Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+'He's smiling a lot': Rashford is enjoying himself again at Barcelona, insists Flick. Marcus Rashford is fit to face Chelsea in the Champions League after shaking off a cold, with Hansi Flick, the Barcelona manager, saying he is 'very happy' to have the England forward Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,81 @@ Cole Palmer spotted in high spirits at Chelsea training!. Cole Palmer rejoins fi
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Cole Palmer spotted in high spirits at Chelsea training!. https://www.skysports.com/watch/video/13474929/cole-palmer-spotted-in-high-spirits-at-chelsea-training
+- theguardian.com — 'He's smiling a lot': Rashford is enjoying himself again at Barcelona, insists Flick. https://www.theguardian.com/football/2025/nov/24/marcus-rashford-hansi-flick-barcelona-chelsea-champions-league
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Vinicius Junior tells Real Madrid he does not want to renew contract for now - Paper talk and football gossip
+**Slug (lower-third):** Vinicius Junior tells Real Madrid he does not want to ren…  
+**When:** 2025-11-24 17:12 (America/Winnipeg)  •  **Published:** 2025-11-24 23:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Vinicius Junior tells Real Madrid he does not want to renew contract for now - Paper talk and football gossip. Latest from Tuesdays papers as Tottenham Hotspur are determined to give Thomas Frank enough time to get things right; incoming Celtic boss Wilfried Nancy will target a stunning January move for prolific Columbus Crew striker Wessam Abou Ali Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Vinicius Junior tells Real Madrid he does not want to renew contract for now - Paper talk and football gossip. https://www.skysports.com/football/news/12040/13475090/vinicius-junior-tells-real-madrid-he-does-not-want-to-renew-contract-for-now-paper-talk-and-football-gossip
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Football gossip: Man Utd and Liverpool monitor Vinicius Junior situation
+**Slug (lower-third):** Football gossip: Man Utd and Liverpool monitor Vinicius J…  
+**When:** 2025-11-24 16:54 (America/Winnipeg)  •  **Published:** 2025-11-24 22:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Man Utd and Liverpool monitor Vinicius Junior situation. Vinicius Junior will not sign a new contract at Real Madrid, while Liverpool have held concrete talks over a move for Antoine Semenyo. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Man Utd and Liverpool monitor Vinicius Junior situation. https://www.bbc.com/sport/football/articles/c87l07zy27go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Jamie Carragher questions Mohamed Salah's silence amid poor Liverpool form - 'He spoke when he needed a new deal'
+**Slug (lower-third):** Jamie Carragher questions Mohamed Salah's silence amid po…  
+**When:** 2025-11-24 14:10 (America/Winnipeg)  •  **Published:** 2025-11-24 20:10 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~31s
+
+### Presenter Script (3–5 sentences)
+Jamie Carragher questions Mohamed Salah's silence amid poor Liverpool form - 'He spoke when he needed a new deal'. Jamie Carragher has called on Mohamed Salah to front up to the media amid Liverpools slump; Carragher believes Salah spoke out last season when he needed a new contract or was awarded man of the match; Carra: After all these defeats, its always Virgil van Dijk who comes out and speaks Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Jamie Carragher questions Mohamed Salah's silence amid poor Liverpool form - 'He spoke when he needed a new deal'. https://www.skysports.com/football/news/12040/13475005/jamie-carragher-questions-mohamed-salahs-silence-amid-poor-liverpool-form-he-spoke-when-he-needed-a-new-deal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +140,13 @@ Cole Palmer spotted in high spirits at Chelsea training!. Cole Palmer rejoins fi
 
 ### League & Regulation
 
-## Story 3: Leicester face hearing on potential points deduction after alleged breaches of Premier League profit and sustainability rules
-**Slug (lower-third):** Leicester face hearing on potential points deduction afte…  
-**When:** 2025-11-24 08:30 (America/Winnipeg)  •  **Published:** 2025-11-24 14:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 6: Eddie Howe hopes Newcastle can banish travel sickness on mission to Marseille
+**Slug (lower-third):** Eddie Howe hopes Newcastle can banish travel sickness on …  
+**When:** 2025-11-24 13:56 (America/Winnipeg)  •  **Published:** 2025-11-24 19:56 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leicester face hearing on potential points deduction after alleged breaches of Premier League profit and sustainability rules. The independent commission hearing into alleged breaches of profit and sustainability rules will begin later this week, with lawyers from both sides expected to give evidence for around two days; Sky Sports News has been told a result could come before Christmas, or early in the new year. Relevance to standings and momentum.
+Eddie Howe hopes Newcastle can banish travel sickness on mission to Marseille. Magpies' away record is a worry before Champions League meeting with Roberto De Zerbi, Mason Greenwood and co Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +155,7 @@ Leicester face hearing on potential points deduction after alleged breaches of P
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Leicester face hearing on potential points deduction after alleged breaches of Premier League profit and sustainability rules. https://www.skysports.com/football/news/12040/13474908/leicester
+- theguardian.com — Eddie Howe hopes Newcastle can banish travel sickness on mission to Marseille. https://www.theguardian.com/football/2025/nov/24/newcastle-marseille-champions-league-eddie-howe
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -94,13 +166,13 @@ Leicester face hearing on potential points deduction after alleged breaches of P
 
 ### Club Updates
 
-## Story 4: Premier League clubs urged to freeze ticket prices by fan groups
-**Slug (lower-third):** Premier League clubs urged to freeze ticket prices by fan…  
-**When:** 2025-11-24 10:10 (America/Winnipeg)  •  **Published:** 2025-11-24 16:10 (UTC)  
+## Story 7: Idrissa Gueye: Everton midfielder sent off striking team-mate Michael Keane
+**Slug (lower-third):** Idrissa Gueye: Everton midfielder sent off striking team-…  
+**When:** 2025-11-24 18:04 (America/Winnipeg)  •  **Published:** 2025-11-25 00:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League clubs urged to freeze ticket prices by fan groups. More than 100 fan groups urge Premier League clubs to freeze home ticket prices for the next two seasons. Relevance to standings and momentum.
+Idrissa Gueye: Everton midfielder sent off striking team-mate Michael Keane. Everton's Idrissa Gueye is sent off for striking team-mate Michael Keane during their Premier League victory at Manchester United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,7 +181,8 @@ Premier League clubs urged to freeze ticket prices by fan groups. More than 100 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League clubs urged to freeze ticket prices by fan groups. https://www.bbc.com/sport/football/articles/cgjn7vd2xqno?at_medium=RSS&at_campaign=rss
+- bbc.com — Idrissa Gueye: Everton midfielder sent off striking team-mate Michael Keane. https://www.bbc.com/sport/football/articles/c33medd5np0o?at_medium=RSS&at_campaign=rss
+- skysports.com — Man Utd vs Everton: Idrissa Gueye SENT OFF after hitting team-mate Michael Keane. https://www.skysports.com/watch/video/13475028/off-i-gueye-manchester-utd-0-0-everton
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,13 +191,13 @@ Premier League clubs urged to freeze ticket prices by fan groups. More than 100 
 
 ---
 
-## Story 5: Football Daily | Forest show Liverpool the long and short of it as Dyche delivers again
-**Slug (lower-third):** Football Daily | Forest show Liverpool the long and short…  
-**When:** 2025-11-24 09:42 (America/Winnipeg)  •  **Published:** 2025-11-24 15:42 (UTC)  
+## Story 8: Troy Deeney's Team of the Week: Areola, Munoz, Kadioglu, Anderson, Eze, Wilson
+**Slug (lower-third):** Troy Deeney's Team of the Week: Areola, Munoz, Kadioglu, …  
+**When:** 2025-11-24 17:40 (America/Winnipeg)  •  **Published:** 2025-11-24 23:40 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | Forest show Liverpool the long and short of it as Dyche delivers again. In today's Football Daily: praise for those Tricky Trees Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Troy Deeney's Team of the Week: Areola, Munoz, Kadioglu, Anderson, Eze, Wilson. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +206,7 @@ Football Daily | Forest show Liverpool the long and short of it as Dyche deliver
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | Forest show Liverpool the long and short of it as Dyche delivers again. https://www.theguardian.com/football/2025/nov/24/nottingham-forest-sean-dyche-liverpool-football-daily-newsletter
+- bbc.com — Troy Deeney's Team of the Week: Areola, Munoz, Kadioglu, Anderson, Eze, Wilson. https://www.bbc.com/sport/football/articles/cm2v822g3yvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,85 +215,13 @@ Football Daily | Forest show Liverpool the long and short of it as Dyche deliver
 
 ---
 
-## Story 6: Arsenal's Premier League dominance is not under threat. At least not yet
-**Slug (lower-third):** Arsenal's Premier League dominance is not under threat. A…  
-**When:** 2025-11-24 09:40 (America/Winnipeg)  •  **Published:** 2025-11-24 15:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal's Premier League dominance is not under threat. At least not yet. Eberechi Eze's hat-trick and Manchester City's loss to Newcastle means Arsenal are in control of their own destiny Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Arsenal's Premier League dominance is not under threat. At least not yet. https://www.theguardian.com/football/2025/nov/24/arsenal-premier-league-title
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Frank can afford to lose at PSG but sense of foreboding now clings to Spurs
-**Slug (lower-third):** Frank can afford to lose at PSG but sense of foreboding n…  
-**When:** 2025-11-24 09:06 (America/Winnipeg)  •  **Published:** 2025-11-24 15:06 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Frank can afford to lose at PSG but sense of foreboding now clings to Spurs. Thomas Frank can view visit to Paris as a free hit, but the same does not apply to Fulham's visit on Saturday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Frank can afford to lose at PSG but sense of foreboding now clings to Spurs. https://www.theguardian.com/football/2025/nov/24/thomas-frank-tottenham-spurs-paris-saint-germain-psg-champions-league
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Pep Guardiola: Manchester City boss 'embarrassed and ashamed' of behaviour at Newcastle
-**Slug (lower-third):** Pep Guardiola: Manchester City boss 'embarrassed and asha…  
-**When:** 2025-11-24 08:07 (America/Winnipeg)  •  **Published:** 2025-11-24 14:07 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Pep Guardiola: Manchester City boss 'embarrassed and ashamed' of behaviour at Newcastle. Pep Guardiola says he is sorry for confronting a cameraman following Manchester City's Premier League defeat at Newcastle on Saturday. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Pep Guardiola: Manchester City boss 'embarrassed and ashamed' of behaviour at Newcastle. https://www.bbc.com/sport/football/articles/c2463ee8l30o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Harvey McBarnes' Scotland switch: Analysis of Newcastle winger
-**Slug (lower-third):** Harvey McBarnes' Scotland switch: Analysis of Newcastle w…  
-**When:** 2025-11-24 07:39 (America/Winnipeg)  •  **Published:** 2025-11-24 13:39 (UTC)  
+## Story 9: Premier League archive: When Newcastle United's Lee Bowyer and Kieron Dyer fought eachother
+**Slug (lower-third):** Premier League archive: When Newcastle United's Lee Bowye…  
+**When:** 2025-11-24 14:35 (America/Winnipeg)  •  **Published:** 2025-11-24 20:35 (UTC)  
 **Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Harvey McBarnes' Scotland switch: Analysis of Newcastle winger. BBC Scotland examines the possibility of Newcastle winger Harvey Barnes becoming part of the Scotland squad. Relevance to standings and momentum.
+Premier League archive: When Newcastle United's Lee Bowyer and Kieron Dyer fought eachother. BBC Sport looks back at team-mates Lee Bowyer and Kieron Dyer coming to blows during Newcastle's 3-0 loss to Aston Villa at St James' Park on 2 April 2005. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +230,7 @@ Harvey McBarnes' Scotland switch: Analysis of Newcastle winger. BBC Scotland exa
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Harvey McBarnes' Scotland switch: Analysis of Newcastle winger. https://www.bbc.com/sport/football/articles/c898lzdw2xeo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League archive: When Newcastle United's Lee Bowyer and Kieron Dyer fought eachother. https://www.bbc.com/sport/football/videos/c1j9r0p7929o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +239,13 @@ Harvey McBarnes' Scotland switch: Analysis of Newcastle winger. BBC Scotland exa
 
 ---
 
-## Story 10: Pep Guardiola apologises for cameraman incident after Man City defeat at Newcastle and explains Bruno Guimaraes conversation
-**Slug (lower-third):** Pep Guardiola apologises for cameraman incident after Man…  
-**When:** 2025-11-24 07:12 (America/Winnipeg)  •  **Published:** 2025-11-24 13:12 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~27s
+## Story 10: Estevao ready to rival Lamine Yamal in battle of the teenage prodigies
+**Slug (lower-third):** Estevao ready to rival Lamine Yamal in battle of the teen…  
+**When:** 2025-11-24 13:15 (America/Winnipeg)  •  **Published:** 2025-11-24 19:15 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pep Guardiola apologises for cameraman incident after Man City defeat at Newcastle and explains Bruno Guimaraes conversation. Manchester City suffered their fourth defeat in 12 Premier League matches when they were beaten by Newcastle on Saturday; Pep Guardiola had an intense conversation with Newcastle midfielder Bruno Guimaraes on the pitch and also confronted the officials and a cameraman Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Estevao ready to rival Lamine Yamal in battle of the teenage prodigies. When Chelsea host Barcelona, fans can assess two 18-year-olds who are equally tipped as future Ballon d'Or winners Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +254,7 @@ Pep Guardiola apologises for cameraman incident after Man City defeat at Newcast
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Pep Guardiola apologises for cameraman incident after Man City defeat at Newcastle and explains Bruno Guimaraes conversation. https://www.skysports.com/football/news/12040/13474880/pep-guardiola-apologises-for-cameraman-incident-after-man-city-defeat-at-newcastle-and-explains-bruno-guimaraes-conversation
+- theguardian.com — Estevao ready to rival Lamine Yamal in battle of the teenage prodigies. https://www.theguardian.com/football/2025/nov/24/estevao-willian-chelsea-barcelona-champions-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
