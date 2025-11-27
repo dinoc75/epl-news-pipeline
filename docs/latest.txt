@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-27 00:35 (America/Winnipeg)  |  2025-11-27 06:35 (UTC)
+**Generated:** 2025-11-27 06:46 (America/Winnipeg)  |  2025-11-27 12:46 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 25s
+**Estimated total video length:** ~4m 49s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Can Arne Slot revive this Frankenstein's monster of a Liverpool side? | Barney Ronay
-- Champions League Highlights: Liverpool 1-4 PSV
-- Arsenal beat 'best team in Europe' so are they now Champions League contenders?
+- Madueke brushes off Arsenal fan criticism of his signing and gears up for Chelsea return
+- Newcastle to lodge Uefa complaint over 'unacceptable treatment' of fans at Marseille game
+- Arne Slot: Liverpool hit 'new low' after PSV defeat but is Dutchman's job at risk?
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Champions League Highlights: Manchester City 0-2 Leverkusen
-**Slug (lower-third):** Champions League Highlights: Manchester City 0-2 Leverkus…  
-**When:** 2025-11-26 16:09 (America/Winnipeg)  •  **Published:** 2025-11-26 22:09 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 1: FPL gameweek 13 tips: Thiago, Dango Ouattara and Morgan Gibbs-White are great punts this week
+**Slug (lower-third):** FPL gameweek 13 tips: Thiago, Dango Ouattara and Morgan G…  
+**When:** 2025-11-27 01:44 (America/Winnipeg)  •  **Published:** 2025-11-27 07:44 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League Highlights: Manchester City 0-2 Leverkusen. Pep Guardiola's 100th Champions League game in charge of Manchester City ended in disappointment after the much-changed hosts were stunned by Bayer Leverkusen. Relevance to standings and momentum.
+FPL gameweek 13 tips: Thiago, Dango Ouattara and Morgan Gibbs-White are great punts this week. Gameweek 13 is a good time for FPL managers to play their Free Hit chip as they can target struggling sides such as Wolves, Burnley and Leeds. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,57 @@ Champions League Highlights: Manchester City 0-2 Leverkusen. Pep Guardiola's 100
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League Highlights: Manchester City 0-2 Leverkusen. https://www.bbc.com/sport/football/videos/cq505d0y59jo?at_medium=RSS&at_campaign=rss
+- bbc.com — FPL gameweek 13 tips: Thiago, Dango Ouattara and Morgan Gibbs-White are great punts this week. https://www.bbc.com/sport/football/articles/cy8j71n57zro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: Madueke brushes off Arsenal fan criticism of his signing and gears up for Chelsea return
+**Slug (lower-third):** Madueke brushes off Arsenal fan criticism of his signing …  
+**When:** 2025-11-27 06:00 (America/Winnipeg)  •  **Published:** 2025-11-27 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Madueke brushes off Arsenal fan criticism of his signing and gears up for Chelsea return. Noni Madueke said he had gained confidence from the reception he has received from Arsenal's match-going supporters Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Madueke brushes off Arsenal fan criticism of his signing and gears up for Chelsea return. https://www.theguardian.com/football/2025/nov/27/noni-madueke-arsenal-fan-criticism-signing-chelsea-return
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Unbridled: John Francome assesses Nico de Boinville's role in the return of Constitution Hill at Newcastle
+**Slug (lower-third):** Unbridled: John Francome assesses Nico de Boinville's rol…  
+**When:** 2025-11-27 05:14 (America/Winnipeg)  •  **Published:** 2025-11-27 11:14 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Unbridled: John Francome assesses Nico de Boinville's role in the return of Constitution Hill at Newcastle. The great John Francome joined Matt Chapman and Paddy Brennan on Unbridled to discuss some smart showings from promising novice chasers over the last week, as well as Constitution Hills upcoming reappearance at Newcastle; Watch the episode in full on the At The Races YouTube channel Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Unbridled: John Francome assesses Nico de Boinville's role in the return of Constitution Hill at Newcastle. https://www.skysports.com/racing/news/12040/13476069/unbridled-john-francome-assesses-nico-de-boinvilles-role-in-the-return-of-constitution-hill-at-newcastle
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,86 +92,157 @@ Champions League Highlights: Manchester City 0-2 Leverkusen. Pep Guardiola's 100
 
 ### Club Updates
 
-## Story 2: Can Arne Slot revive this Frankenstein's monster of a Liverpool side? | Barney Ronay
-**Slug (lower-third):** Can Arne Slot revive this Frankenstein's monster of a Liv…  
+## Story 4: Newcastle to lodge Uefa complaint over 'unacceptable treatment' of fans at Marseille game
+**Slug (lower-third):** Newcastle to lodge Uefa complaint over 'unacceptable trea…  
+**When:** 2025-11-27 05:50 (America/Winnipeg)  •  **Published:** 2025-11-27 11:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Newcastle to lodge Uefa complaint over 'unacceptable treatment' of fans at Marseille game. Newcastle are to complain over the "unacceptable treatment" their fans endured after Tuesday's 2-1 defeat at Marseille in the Champions League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Newcastle to lodge Uefa complaint over 'unacceptable treatment' of fans at Marseille game. https://www.theguardian.com/football/2025/nov/27/newcastle-to-lodge-uefa-complaint-over-unacceptable-treatment-of-fans-at-marseille-game
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Arne Slot: Liverpool hit 'new low' after PSV defeat but is Dutchman's job at risk?
+**Slug (lower-third):** Arne Slot: Liverpool hit 'new low' after PSV defeat but i…  
+**When:** 2025-11-27 05:46 (America/Winnipeg)  •  **Published:** 2025-11-27 11:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arne Slot: Liverpool hit 'new low' after PSV defeat but is Dutchman's job at risk?. After a dismal run of form, Arne Slot's job as Liverpool boss is starting to come under question - just six months after winning the Premier League title. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arne Slot: Liverpool hit 'new low' after PSV defeat but is Dutchman's job at risk?. https://www.bbc.com/sport/football/articles/c7vmej86331o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Chelsea vs Arsenal: Enzo Maresca must come up with answers to key questions to pass toughest test
+**Slug (lower-third):** Chelsea vs Arsenal: Enzo Maresca must come up with answer…  
+**When:** 2025-11-27 04:52 (America/Winnipeg)  •  **Published:** 2025-11-27 10:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Chelsea vs Arsenal: Enzo Maresca must come up with answers to key questions to pass toughest test. Chelsea can close Arsenals lead at the top of the table when they meet at Stamford Bridge - but Blues boss Enzo Maresca has key calls to make for derby showdown; Watch Chelsea vs Arsenal live on Sky Sports Premier League from 4pm on Sunday; kick-off 4.30pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Chelsea vs Arsenal: Enzo Maresca must come up with answers to key questions to pass toughest test. https://www.skysports.com/football/news/12040/13476055/chelsea-vs-arsenal-enzo-maresca-must-come-up-with-answers-to-key-questions-to-pass-toughest-test
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: 'Not good enough': Archie Gray blunt on Spurs defeats but finds positives from PSG trip
+**Slug (lower-third):** 'Not good enough': Archie Gray blunt on Spurs defeats but…  
+**When:** 2025-11-27 04:00 (America/Winnipeg)  •  **Published:** 2025-11-27 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'Not good enough': Archie Gray blunt on Spurs defeats but finds positives from PSG trip. Archie Gray believes Tottenham can take a number of positives from Wednesday night's 5-3 Champions League defeat at Paris Saint-Germain Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'Not good enough': Archie Gray blunt on Spurs defeats but finds positives from PSG trip. https://www.theguardian.com/football/2025/nov/27/spurs-psg-archie-gray-thomas-frank
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: County Championship cricket 2026 fixtures, dates and full match schedule
+**Slug (lower-third):** County Championship cricket 2026 fixtures, dates and full…  
+**When:** 2025-11-27 04:00 (America/Winnipeg)  •  **Published:** 2025-11-27 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+County Championship cricket 2026 fixtures, dates and full match schedule. Nottinghamshire begin their Rothesay County Championship title defence away to Somerset, with Leicestershire and Glamorgan - both back in Division One for the first time in over two decades - hosting Sussex and Yorkshire in round one; season runs from April 3 to September 27 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — County Championship cricket 2026 fixtures, dates and full match schedule. https://www.skysports.com/cricket/news/12040/13475636/county-championship-cricket-2026-fixtures-dates-and-full-match-schedule
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Jamie Carragher: Arne Slot job at Liverpool not untenable yet but Virgil van Dijk needs help and Mohamed Salah's legs have gone
+**Slug (lower-third):** Jamie Carragher: Arne Slot job at Liverpool not untenable…  
+**When:** 2025-11-27 01:14 (America/Winnipeg)  •  **Published:** 2025-11-27 07:14 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~31s
+
+### Presenter Script (3–5 sentences)
+Jamie Carragher: Arne Slot job at Liverpool not untenable yet but Virgil van Dijk needs help and Mohamed Salah's legs have gone. Liverpool have lost nine of their last 12 games; Reds were beaten 4-1 at Anfield on Tuesday in the Champions League after losing 3-0 at home to Nottingham Forest last weekend; Pressure is mounting on Arne Slot with teams aging spine Alisson, Virgil van Dijk and Mo Salah underperforming Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Jamie Carragher: Arne Slot job at Liverpool not untenable yet but Virgil van Dijk needs help and Mohamed Salah's legs have gone. https://www.skysports.com/football/news/12040/13475981/jamie-carragher-arne-slots-job-at-liverpool-not-untenable-yet-but-results-might-be-a-glimpse-of-the-clubs-future
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: 'The whole journey was fantastic': how Bob Houghton led Malmo to European Cup final
+**Slug (lower-third):** 'The whole journey was fantastic': how Bob Houghton led M…  
 **When:** 2025-11-27 00:30 (America/Winnipeg)  •  **Published:** 2025-11-27 06:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Can Arne Slot revive this Frankenstein's monster of a Liverpool side? | Barney Ronay. New players have come in, too many of them, and has meant a dilution of the collective will instilled by Klopp Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Can Arne Slot revive this Frankenstein's monster of a Liverpool side? | Barney Ronay. https://www.theguardian.com/football/2025/nov/27/arne-slot-liverpool-psv-eindhoven-defeat-champions-league
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Champions League Highlights: Liverpool 1-4 PSV
-**Slug (lower-third):** Champions League Highlights: Liverpool 1-4 PSV  
-**When:** 2025-11-26 16:23 (America/Winnipeg)  •  **Published:** 2025-11-26 22:23 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League Highlights: Liverpool 1-4 PSV. Liverpool's torrid run continues as they suffer a miserable 4-1 home defeat by PSV in the Champions League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League Highlights: Liverpool 1-4 PSV. https://www.bbc.com/sport/football/videos/cly4y70je9ko?at_medium=RSS&at_campaign=rss
-- skysports.com — Liverpool 1-4 PSV Eindhoven: Shocking defeat for Arne Slot's side as Dutch side score FOUR in Champions League shock. https://www.skysports.com/football/liverpool-vs-psv-eindhoven/report/547996
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Arsenal beat 'best team in Europe' so are they now Champions League contenders?
-**Slug (lower-third):** Arsenal beat 'best team in Europe' so are they now Champi…  
-**When:** 2025-11-26 17:53 (America/Winnipeg)  •  **Published:** 2025-11-26 23:53 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal beat 'best team in Europe' so are they now Champions League contenders?. Mikel Arteta says Bayern Munich are the "best team in Europe" but, after comprehensively beating them, was this the night Arsenal became serious contenders? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Arsenal beat 'best team in Europe' so are they now Champions League contenders?. https://www.bbc.com/sport/football/articles/cjez9l1qj59o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Spurs boss Frank can take some encouragement from PSG defeat
-**Slug (lower-third):** Spurs boss Frank can take some encouragement from PSG def…  
-**When:** 2025-11-26 17:30 (America/Winnipeg)  •  **Published:** 2025-11-26 23:30 (UTC)  
 **Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Spurs boss Frank can take some encouragement from PSG defeat. Thomas Frank can take encouragement from some aspects of Spurs' latest display, despite defeat to Paris St-Germain, says chief football writer Phil McNulty. Relevance to standings and momentum.
+'The whole journey was fantastic': how Bob Houghton led Malmo to European Cup final. Englishman was not an obvious candidate to lead them but Swedes pushed Nottingham Forest all the way in 1979 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,127 +251,7 @@ Spurs boss Frank can take some encouragement from PSG defeat. Thomas Frank can t
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Spurs boss Frank can take some encouragement from PSG defeat. https://www.bbc.com/sport/football/articles/czrk3yy4r0no?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Paul Merson: Arsenal's statement victory over Bayern Munich in Champions League will make Europe stand up and take notice
-**Slug (lower-third):** Paul Merson: Arsenal's statement victory over Bayern Muni…  
-**When:** 2025-11-26 16:51 (America/Winnipeg)  •  **Published:** 2025-11-26 22:51 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Paul Merson: Arsenal's statement victory over Bayern Munich in Champions League will make Europe stand up and take notice. Sky Sports Paul Merson on Arsenals statement win over Bayern Munich: Its a huge statement from Arsenal. That goes all around Europe. People will be watching and seeing this result. This Munich team are blowing everyone away. In the second half, Arsenal steamrolled them. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Paul Merson: Arsenal's statement victory over Bayern Munich in Champions League will make Europe stand up and take notice. https://www.skysports.com/football/news/12040/13475943/paul-merson-arsenals-statement-victory-over-bayern-munich-in-champions-league-will-make-europe-stand-up-and-take-notice
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Football gossip: Anderson, Willock, Aghehowa, David, Maignan, Alvarez
-**Slug (lower-third):** Football gossip: Anderson, Willock, Aghehowa, David, Maig…  
-**When:** 2025-11-26 16:50 (America/Winnipeg)  •  **Published:** 2025-11-26 22:50 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Anderson, Willock, Aghehowa, David, Maignan, Alvarez. Nottingham Forest to turn down any bids for Elliot Anderson in January, Crystal Palace considering move for Newcastle United's Joe Willock, Chelsea reopen contact with AC Milan keeper Mike Maignan's camp, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Anderson, Willock, Aghehowa, David, Maignan, Alvarez. https://www.bbc.com/sport/football/articles/clydvvenww4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Champions League: How Newcastle United lost against Marseille - Match of the Day analysis
-**Slug (lower-third):** Champions League: How Newcastle United lost against Marse…  
-**When:** 2025-11-26 16:38 (America/Winnipeg)  •  **Published:** 2025-11-26 22:38 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League: How Newcastle United lost against Marseille - Match of the Day analysis. Match of the Day's Stephen Warnock explains how Marseille were able to come from behind against Newcastle to win 2-1. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League: How Newcastle United lost against Marseille - Match of the Day analysis. https://www.bbc.com/sport/football/videos/cp8935z7ejko?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Champions League Highlights: PSG 5-3 Tottenham
-**Slug (lower-third):** Champions League Highlights: PSG 5-3 Tottenham  
-**When:** 2025-11-26 16:33 (America/Winnipeg)  •  **Published:** 2025-11-26 22:33 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League Highlights: PSG 5-3 Tottenham. PSG score five, including a Vitinha hat-trick, as they defeat Tottenham Hotspur 5-3 in a thriller at Parc des Princes. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League Highlights: PSG 5-3 Tottenham. https://www.bbc.com/sport/football/videos/c8drdj42q84o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Champions League Highlights: Marseille 2-1 Newcastle United
-**Slug (lower-third):** Champions League Highlights: Marseille 2-1 Newcastle Unit…  
-**When:** 2025-11-26 16:11 (America/Winnipeg)  •  **Published:** 2025-11-26 22:11 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League Highlights: Marseille 2-1 Newcastle United. Pierre-Emerick Aubameyang scores twice in five minutes as Marseille beat Newcastle United in the Champions League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League Highlights: Marseille 2-1 Newcastle United. https://www.bbc.com/sport/football/videos/c9q1qg1z5jgo?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'The whole journey was fantastic': how Bob Houghton led Malmo to European Cup final. https://www.theguardian.com/football/2025/nov/27/european-cup-final-football-malmo-nottingham-forest
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
