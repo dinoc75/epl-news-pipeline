@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-11-26 12:29 (America/Winnipeg)  |  2025-11-26 18:29 (UTC)
+**Generated:** 2025-11-26 19:42 (America/Winnipeg)  |  2025-11-27 01:42 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 28s
+**Estimated total video length:** ~3m 25s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arsenal: Luis Munoz, 13, becomes youngest Uefa Youth League player
-- Cole Palmer close to fitness and could give Chelsea boost for Arsenal clash
-- Is the Chelsea project finally working? Football Weekly - video
+- Liverpool: Champions League humiliation puts pressure on Arne Slot as Reds need solution to struggles
+- Arsenal beat 'best team in Europe' so are they now Champions League contenders?
+- Champions League: Spurs show signs of improvement in defeat at PSG
 
 ---
 
-### Injuries
+### Transfers
 
-## Story 1: Cole Palmer close to fitness and could give Chelsea boost for Arsenal clash
-**Slug (lower-third):** Cole Palmer close to fitness and could give Chelsea boost…  
-**When:** 2025-11-26 11:20 (America/Winnipeg)  •  **Published:** 2025-11-26 17:20 (UTC)  
+## Story 1: Champions League: Spurs show signs of improvement in defeat at PSG
+**Slug (lower-third):** Champions League: Spurs show signs of improvement in defe…  
+**When:** 2025-11-26 17:52 (America/Winnipeg)  •  **Published:** 2025-11-26 23:52 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Cole Palmer close to fitness and could give Chelsea boost for Arsenal clash. Cole Palmer, who has been out since September with a groin injury, has been training with the first-team squad despite a recent toe fracture Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Champions League: Spurs show signs of improvement in defeat at PSG. Champions League analyst Stephen Warnock feels Tottenham took some "baby steps" in terms of improvement in their performance during their 5-3 defeat at PSG. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Cole Palmer close to fitness and could give Chelsea boost for Arsenal clash. Col
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Cole Palmer close to fitness and could give Chelsea boost for Arsenal clash. https://www.theguardian.com/football/2025/nov/26/cole-palmer-close-to-fitness-and-could-give-chelsea-boost-for-arsenal
+- bbc.com — Champions League: Spurs show signs of improvement in defeat at PSG. https://www.bbc.com/sport/football/videos/c0edwp70wzlo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Cole Palmer close to fitness and could give Chelsea boost for Arsenal clash. Col
 
 ---
 
-## Story 2: Today on Sky Sports Racing: Brighton, Southwell and Windsor
-**Slug (lower-third):** Today on Sky Sports Racing: Brighton, Southwell and Winds…  
-**When:** 2025-11-26 01:00 (America/Winnipeg)  •  **Published:** 2025-11-26 07:00 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~23s
+## Story 2: 'I'm feeling safe': Arne Slot insists he retains Liverpool's support after PSV humiliation
+**Slug (lower-third):** 'I'm feeling safe': Arne Slot insists he retains Liverpoo…  
+**When:** 2025-11-26 17:41 (America/Winnipeg)  •  **Published:** 2025-11-26 23:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Brighton, Southwell and Windsor. Berkshire Whisper was last seen finishing down the field in the Commonwealth Cup but bids to make a winning return to the All-Weather in what looks a hot contest at Southwell. We also have flat action from Newcastle, Deauville and Happy Valley, live on Sky Sports Racing from 11.30am. Relevance to standings and momentum.
+'I'm feeling safe': Arne Slot insists he retains Liverpool's support after PSV humiliation. Arne Slot said he still had the support of the Liverpool hierarchy after their 4-1 Champions League defeat by PSV Eindhoven Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,33 +55,7 @@ Today on Sky Sports Racing: Brighton, Southwell and Windsor. Berkshire Whisper w
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Brighton, Southwell and Windsor. https://www.skysports.com/racing/news/12040/13474963/today-on-sky-sports-racing-brighton-southwell-and-windsor
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 3: Paul Doyle pleads guilty to 31 Liverpool parade charges
-**Slug (lower-third):** Paul Doyle pleads guilty to 31 Liverpool parade charges  
-**When:** 2025-11-26 07:51 (America/Winnipeg)  •  **Published:** 2025-11-26 13:51 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Paul Doyle pleads guilty to 31 Liverpool parade charges. Paul Doyle broke down in tears as he admitted seriously injuring fans at Liverpool's victory parade. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Paul Doyle pleads guilty to 31 Liverpool parade charges. https://www.bbc.com/news/articles/cde6kne1ykno?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'I'm feeling safe': Arne Slot insists he retains Liverpool's support after PSV humiliation. https://www.theguardian.com/football/2025/nov/26/im-feeling-safe-arne-slot-insists-he-retains-liverpools-support-psv-humiliation
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +66,13 @@ Paul Doyle pleads guilty to 31 Liverpool parade charges. Paul Doyle broke down i
 
 ### Club Updates
 
-## Story 4: Arsenal: Luis Munoz, 13, becomes youngest Uefa Youth League player
-**Slug (lower-third):** Arsenal: Luis Munoz, 13, becomes youngest Uefa Youth Leag…  
-**When:** 2025-11-26 11:55 (America/Winnipeg)  •  **Published:** 2025-11-26 17:55 (UTC)  
+## Story 3: Liverpool: Champions League humiliation puts pressure on Arne Slot as Reds need solution to struggles
+**Slug (lower-third):** Liverpool: Champions League humiliation puts pressure on …  
+**When:** 2025-11-26 18:40 (America/Winnipeg)  •  **Published:** 2025-11-27 00:40 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal: Luis Munoz, 13, becomes youngest Uefa Youth League player. Arsenal's 13-year-old midfielder Luis Munoz becomes the youngest player to feature in the Uefa Youth League. Relevance to standings and momentum.
+Liverpool: Champions League humiliation puts pressure on Arne Slot as Reds need solution to struggles. Where does another humiliating defeat for Liverpool, making it their worst run for 71 years, leave the club and boss Arne Slot? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +81,7 @@ Arsenal: Luis Munoz, 13, becomes youngest Uefa Youth League player. Arsenal's 13
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arsenal: Luis Munoz, 13, becomes youngest Uefa Youth League player. https://www.bbc.com/sport/football/articles/c62l3789n83o?at_medium=RSS&at_campaign=rss
+- bbc.com — Liverpool: Champions League humiliation puts pressure on Arne Slot as Reds need solution to struggles. https://www.bbc.com/sport/football/articles/c5y2w443dl9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +90,13 @@ Arsenal: Luis Munoz, 13, becomes youngest Uefa Youth League player. Arsenal's 13
 
 ---
 
-## Story 5: Is the Chelsea project finally working? Football Weekly - video
-**Slug (lower-third):** Is the Chelsea project finally working? Football Weekly -…  
-**When:** 2025-11-26 10:21 (America/Winnipeg)  •  **Published:** 2025-11-26 16:21 (UTC)  
+## Story 4: Arsenal beat 'best team in Europe' so are they now Champions League contenders?
+**Slug (lower-third):** Arsenal beat 'best team in Europe' so are they now Champi…  
+**When:** 2025-11-26 17:53 (America/Winnipeg)  •  **Published:** 2025-11-26 23:53 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Is the Chelsea project finally working? Football Weekly - video. Max Rushden is joined by Barry Glendenning, Lars Sivertsen and Sam Dalling as Chelsea beat Barcelona 3-0 in the Champions League, while Manchester City and Newcastle both lose Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arsenal beat 'best team in Europe' so are they now Champions League contenders?. Mikel Arteta says Bayern Munich are the "best team in Europe" but, after comprehensively beating them, was this the night Arsenal became serious contenders? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +105,7 @@ Is the Chelsea project finally working? Football Weekly - video. Max Rushden is 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Is the Chelsea project finally working? Football Weekly - video. https://www.theguardian.com/football/video/2025/nov/26/is-the-chelsea-project-finally-working-football-weekly-video
+- bbc.com — Arsenal beat 'best team in Europe' so are they now Champions League contenders?. https://www.bbc.com/sport/football/articles/cjez9l1qj59o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +114,13 @@ Is the Chelsea project finally working? Football Weekly - video. Max Rushden is 
 
 ---
 
-## Story 6: Champions League: 10 wins in 11 meetings - how Premier League teams are dominating La Liga rivals
-**Slug (lower-third):** Champions League: 10 wins in 11 meetings - how Premier Le…  
-**When:** 2025-11-26 08:59 (America/Winnipeg)  •  **Published:** 2025-11-26 14:59 (UTC)  
+## Story 5: Spurs boss Frank can take some encouragement from PSG defeat
+**Slug (lower-third):** Spurs boss Frank can take some encouragement from PSG def…  
+**When:** 2025-11-26 17:30 (America/Winnipeg)  •  **Published:** 2025-11-26 23:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League: 10 wins in 11 meetings - how Premier League teams are dominating La Liga rivals. BBC Sport examines the reasons behind a period of dominance by Premier League teams over their La Liga rivals. Relevance to standings and momentum.
+Spurs boss Frank can take some encouragement from PSG defeat. Thomas Frank can take encouragement from some aspects of Spurs' latest display, despite defeat to Paris St-Germain, says chief football writer Phil McNulty. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +129,7 @@ Champions League: 10 wins in 11 meetings - how Premier League teams are dominati
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League: 10 wins in 11 meetings - how Premier League teams are dominating La Liga rivals. https://www.bbc.com/sport/football/articles/c3r7qxv4pzzo?at_medium=RSS&at_campaign=rss
+- bbc.com — Spurs boss Frank can take some encouragement from PSG defeat. https://www.bbc.com/sport/football/articles/czrk3yy4r0no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +138,13 @@ Champions League: 10 wins in 11 meetings - how Premier League teams are dominati
 
 ---
 
-## Story 7: GK Barry makes Tottenham joke during Women's League Cup draw
-**Slug (lower-third):** GK Barry makes Tottenham joke during Women's League Cup d…  
-**When:** 2025-11-26 04:55 (America/Winnipeg)  •  **Published:** 2025-11-26 10:55 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 6: Paul Merson: Arsenal's statement victory over Bayern Munich in Champions League will make Europe stand up and take notice
+**Slug (lower-third):** Paul Merson: Arsenal's statement victory over Bayern Muni…  
+**When:** 2025-11-26 16:51 (America/Winnipeg)  •  **Published:** 2025-11-26 22:51 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-GK Barry makes Tottenham joke during Women's League Cup draw. GK Barry makes a series of lewd jokes and accidentally drops a ball back in the bag during the draw for the Women's League Cup quarter-finals and semi-finals. Relevance to standings and momentum.
+Paul Merson: Arsenal's statement victory over Bayern Munich in Champions League will make Europe stand up and take notice. Sky Sports Paul Merson on Arsenals statement win over Bayern Munich: Its a huge statement from Arsenal. That goes all around Europe. People will be watching and seeing this result. This Munich team are blowing everyone away. In the second half, Arsenal steamrolled them. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +153,7 @@ GK Barry makes Tottenham joke during Women's League Cup draw. GK Barry makes a s
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — GK Barry makes Tottenham joke during Women's League Cup draw. https://www.bbc.com/sport/football/articles/cdxev7nvel5o?at_medium=RSS&at_campaign=rss
+- skysports.com — Paul Merson: Arsenal's statement victory over Bayern Munich in Champions League will make Europe stand up and take notice. https://www.skysports.com/football/news/12040/13475943/paul-merson-arsenals-statement-victory-over-bayern-munich-in-champions-league-will-make-europe-stand-up-and-take-notice
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +162,13 @@ GK Barry makes Tottenham joke during Women's League Cup draw. GK Barry makes a s
 
 ---
 
-## Story 8: Europa League and Conference League: Tables, fixtures, results and which teams are on course to qualify for the knockout phase
-**Slug (lower-third):** Europa League and Conference League: Tables, fixtures, re…  
-**When:** 2025-11-26 03:54 (America/Winnipeg)  •  **Published:** 2025-11-26 09:54 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~25s
+## Story 7: Football gossip: Anderson, Willock, Aghehowa, David, Maignan, Alvarez
+**Slug (lower-third):** Football gossip: Anderson, Willock, Aghehowa, David, Maig…  
+**When:** 2025-11-26 16:50 (America/Winnipeg)  •  **Published:** 2025-11-26 22:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Europa League and Conference League: Tables, fixtures, results and which teams are on course to qualify for the knockout phase. Aston Villa and Nottingham Forest are on course to qualify for the knockout phase of the Europa League; Crystal Palace are well positioned in the Conference League but Celtic and Rangers are struggling in Europe; Sky Sports looks into the race for the knockouts here... Relevance to standings and momentum.
+Football gossip: Anderson, Willock, Aghehowa, David, Maignan, Alvarez. Nottingham Forest to turn down any bids for Elliot Anderson in January, Crystal Palace considering move for Newcastle United's Joe Willock, Chelsea reopen contact with AC Milan keeper Mike Maignan's camp, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +177,7 @@ Europa League and Conference League: Tables, fixtures, results and which teams a
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Europa League and Conference League: Tables, fixtures, results and which teams are on course to qualify for the knockout phase. https://www.skysports.com/football/news/12040/13475580/europa-league-and-conference-league-tables-fixtures-results-and-which-teams-are-on-course-to-qualify-for-the-knockout-phase
+- bbc.com — Football gossip: Anderson, Willock, Aghehowa, David, Maignan, Alvarez. https://www.bbc.com/sport/football/articles/clydvvenww4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +186,13 @@ Europa League and Conference League: Tables, fixtures, results and which teams a
 
 ---
 
-## Story 9: 'Zero regrets': Tom Heaton on life at Manchester United after 1,029 days without a game
-**Slug (lower-third):** 'Zero regrets': Tom Heaton on life at Manchester United a…  
-**When:** 2025-11-26 04:00 (America/Winnipeg)  •  **Published:** 2025-11-26 10:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 8: Champions League: How Newcastle United lost against Marseille - Match of the Day analysis
+**Slug (lower-third):** Champions League: How Newcastle United lost against Marse…  
+**When:** 2025-11-26 16:38 (America/Winnipeg)  •  **Published:** 2025-11-26 22:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'Zero regrets': Tom Heaton on life at Manchester United after 1,029 days without a game. The former England keeper discusses his sometimes borderline deluded outlook and being proud to defend the values of the club he loves Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Champions League: How Newcastle United lost against Marseille - Match of the Day analysis. Match of the Day's Stephen Warnock explains how Marseille were able to come from behind against Newcastle to win 2-1. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +201,7 @@ Europa League and Conference League: Tables, fixtures, results and which teams a
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'Zero regrets': Tom Heaton on life at Manchester United after 1,029 days without a game. https://www.theguardian.com/football/2025/nov/26/tom-heaton-manchester-united-goalkeeper-interview
+- bbc.com — Champions League: How Newcastle United lost against Marseille - Match of the Day analysis. https://www.bbc.com/sport/football/videos/cp8935z7ejko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +210,13 @@ Europa League and Conference League: Tables, fixtures, results and which teams a
 
 ---
 
-## Story 10: Ben Chilwell on potential England recall and life in Strasbourg
-**Slug (lower-third):** Ben Chilwell on potential England recall and life in Stra…  
-**When:** 2025-11-26 03:22 (America/Winnipeg)  •  **Published:** 2025-11-26 09:22 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 9: Champions League Highlights: PSG 5-3 Tottenham
+**Slug (lower-third):** Champions League Highlights: PSG 5-3 Tottenham  
+**When:** 2025-11-26 16:33 (America/Winnipeg)  •  **Published:** 2025-11-26 22:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ben Chilwell on potential England recall and life in Strasbourg. Ben Chilwell is keen to show he can go from the Chelsea 'bomb squad' to England's World Cup squad thanks to his move to Strasbourg. Relevance to standings and momentum.
+Champions League Highlights: PSG 5-3 Tottenham. PSG score five, including a Vitinha hat-trick, as they defeat Tottenham Hotspur 5-3 in a thriller at Parc des Princes. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +225,31 @@ Ben Chilwell on potential England recall and life in Strasbourg. Ben Chilwell is
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Ben Chilwell on potential England recall and life in Strasbourg. https://www.bbc.com/sport/football/articles/cd67dp9dvxeo?at_medium=RSS&at_campaign=rss
+- bbc.com — Champions League Highlights: PSG 5-3 Tottenham. https://www.bbc.com/sport/football/videos/c8drdj42q84o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Champions League Highlights: Marseille 2-1 Newcastle United
+**Slug (lower-third):** Champions League Highlights: Marseille 2-1 Newcastle Unit…  
+**When:** 2025-11-26 16:11 (America/Winnipeg)  •  **Published:** 2025-11-26 22:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Champions League Highlights: Marseille 2-1 Newcastle United. Pierre-Emerick Aubameyang scores twice in five minutes as Marseille beat Newcastle United in the Champions League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Champions League Highlights: Marseille 2-1 Newcastle United. https://www.bbc.com/sport/football/videos/c9q1qg1z5jgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
