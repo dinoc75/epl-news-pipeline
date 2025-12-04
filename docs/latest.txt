@@ -1,76 +1,25 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-04 00:35 (America/Winnipeg)  |  2025-12-04 06:35 (UTC)
+**Generated:** 2025-12-04 06:49 (America/Winnipeg)  |  2025-12-04 12:49 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League: Arsenal 2-0 Brentford - Mikel Arteta post-match interview
-- Daniel Farke: Is win against Chelsea enough to save Leeds job or just buying time?
 - Liverpool 1-1 Sunderland: Virgil van Dijk struggles for Reds again
-
----
-
-### Managerial Moves
-
-## Story 1: Premier League: Arsenal 2-0 Brentford - Mikel Arteta post-match interview
-**Slug (lower-third):** Premier League: Arsenal 2-0 Brentford - Mikel Arteta post…  
-**When:** 2025-12-03 16:44 (America/Winnipeg)  •  **Published:** 2025-12-03 22:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: Arsenal 2-0 Brentford - Mikel Arteta post-match interview. Arsenal manager Mikel Arteta says his side's performance in their 2-0 win over Brentford in the Premier League was "mature". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League: Arsenal 2-0 Brentford - Mikel Arteta post-match interview. https://www.bbc.com/sport/football/videos/cze81xkp216o?at_medium=RSS&at_campaign=rss
-- skysports.com — Arsenal 2-0 Brentford | Premier League highlights. https://www.skysports.com/watch/video/13479035/arsenal-2-0-brentford-premier-league-highlights
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Chelsea lose at Leeds and Liverpool scrape a point - Football Weekly
+- Van Dijk urges Wirtz to ignore 'numbers game' after German denied first Liverpool goal
 
 ---
 
 ### Club Updates
 
-## Story 2: Daniel Farke: Is win against Chelsea enough to save Leeds job or just buying time?
-**Slug (lower-third):** Daniel Farke: Is win against Chelsea enough to save Leeds…  
-**When:** 2025-12-03 18:24 (America/Winnipeg)  •  **Published:** 2025-12-04 00:24 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Daniel Farke: Is win against Chelsea enough to save Leeds job or just buying time?. In the relegation zone and under increasing pressure, Leeds' win over Chelsea was a "huge result" for Daniel Farke. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Daniel Farke: Is win against Chelsea enough to save Leeds job or just buying time?. https://www.bbc.com/sport/football/articles/c157nlwgq42o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Liverpool 1-1 Sunderland: Virgil van Dijk struggles for Reds again
+## Story 1: Liverpool 1-1 Sunderland: Virgil van Dijk struggles for Reds again
 **Slug (lower-third):** Liverpool 1-1 Sunderland: Virgil van Dijk struggles for R…  
-**When:** 2025-12-03 18:22 (America/Winnipeg)  •  **Published:** 2025-12-04 00:22 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**When:** 2025-12-04 06:28 (America/Winnipeg)  •  **Published:** 2025-12-04 12:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Liverpool 1-1 Sunderland: Virgil van Dijk struggles for Reds again. Virgil van Dijk must not be written off - but he looks a shadow of his usual imperious self, writes Phil McNulty. Relevance to standings and momentum.
@@ -91,13 +40,13 @@ Liverpool 1-1 Sunderland: Virgil van Dijk struggles for Reds again. Virgil van D
 
 ---
 
-## Story 4: Match of the Day: Fatigued Chelsea lacked wisdom against Leeds - analysis
-**Slug (lower-third):** Match of the Day: Fatigued Chelsea lacked wisdom against …  
-**When:** 2025-12-03 17:59 (America/Winnipeg)  •  **Published:** 2025-12-03 23:59 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 2: Chelsea lose at Leeds and Liverpool scrape a point - Football Weekly
+**Slug (lower-third):** Chelsea lose at Leeds and Liverpool scrape a point - Foot…  
+**When:** 2025-12-04 06:24 (America/Winnipeg)  •  **Published:** 2025-12-04 12:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day: Fatigued Chelsea lacked wisdom against Leeds - analysis. Match of the Day pundits Danny Murphy and Shay Given look at Leeds boss Daniel Farke "stumbled" on a new system and how it worked in their favour in their 3-1 win over Chelsea. Relevance to standings and momentum.
+Chelsea lose at Leeds and Liverpool scrape a point - Football Weekly. Max Rushden is joined by Barry Glendenning, Jonathan Wilson and Jacob Steinberg as Chelsea lose 3-1 away at Leeds, Sunderland earn a draw at Anfield and Arsenal secure another straightforward win Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,7 +55,7 @@ Match of the Day: Fatigued Chelsea lacked wisdom against Leeds - analysis. Match
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the Day: Fatigued Chelsea lacked wisdom against Leeds - analysis. https://www.bbc.com/sport/football/videos/c17xrq79vplo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Chelsea lose at Leeds and Liverpool scrape a point - Football Weekly. https://www.theguardian.com/football/audio/2025/dec/04/chelsea-lose-at-leeds-and-liverpool-scrape-a-point-football-weekly
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,13 +64,13 @@ Match of the Day: Fatigued Chelsea lacked wisdom against Leeds - analysis. Match
 
 ---
 
-## Story 5: Match of the day: Arsenal show depth of squad in 'beautiful' change to right hand side lineup - Murphy
-**Slug (lower-third):** Match of the day: Arsenal show depth of squad in 'beautif…  
-**When:** 2025-12-03 17:59 (America/Winnipeg)  •  **Published:** 2025-12-03 23:59 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 3: Van Dijk urges Wirtz to ignore 'numbers game' after German denied first Liverpool goal
+**Slug (lower-third):** Van Dijk urges Wirtz to ignore 'numbers game' after Germa…  
+**When:** 2025-12-04 06:16 (America/Winnipeg)  •  **Published:** 2025-12-04 12:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the day: Arsenal show depth of squad in 'beautiful' change to right hand side lineup - Murphy. Match of the Day pundit Danny Murphy is impressed with the strength and depth of the Arsenal squad as the changes they made, particularly down the right side, paid off against Brentford. Relevance to standings and momentum.
+Van Dijk urges Wirtz to ignore 'numbers game' after German denied first Liverpool goal. Florian Wirtz should ignore his Premier League numbers and not lose confidence in his world-class ability at Liverpool, believes Virgil van Dijk Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,7 +79,7 @@ Match of the day: Arsenal show depth of squad in 'beautiful' change to right han
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the day: Arsenal show depth of squad in 'beautiful' change to right hand side lineup - Murphy. https://www.bbc.com/sport/football/videos/c4g96dgk5yeo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Van Dijk urges Wirtz to ignore 'numbers game' after German denied first Liverpool goal. https://www.theguardian.com/football/2025/dec/04/liverpool-florian-wirtz-virgil-van-dijk-premier-league-numbers-game
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -139,13 +88,13 @@ Match of the day: Arsenal show depth of squad in 'beautiful' change to right han
 
 ---
 
-## Story 6: Match of the day: How Watkins got back in the goals against Brighton
-**Slug (lower-third):** Match of the day: How Watkins got back in the goals again…  
-**When:** 2025-12-03 17:59 (America/Winnipeg)  •  **Published:** 2025-12-03 23:59 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 4: Newcastle: CEO wants club to be among 'top' in world by 2030
+**Slug (lower-third):** Newcastle: CEO wants club to be among 'top' in world by 2…  
+**When:** 2025-12-04 05:00 (America/Winnipeg)  •  **Published:** 2025-12-04 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the day: How Watkins got back in the goals against Brighton. Match of the Day pundit Shay Given praises Ollie Watkins' work ethic for Aston Villa as the striker scores twice in their 4-3 win over Brighton. Relevance to standings and momentum.
+Newcastle: CEO wants club to be among 'top' in world by 2030. Newcastle United "in the debate about being the top club in the world" according to new CEO David Hopkinson. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -154,7 +103,7 @@ Match of the day: How Watkins got back in the goals against Brighton. Match of t
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the day: How Watkins got back in the goals against Brighton. https://www.bbc.com/sport/football/videos/cn5ly25q065o?at_medium=RSS&at_campaign=rss
+- bbc.com — Newcastle: CEO wants club to be among 'top' in world by 2030. https://www.bbc.com/sport/football/articles/cvgj8j1gv0go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -163,13 +112,13 @@ Match of the day: How Watkins got back in the goals against Brighton. Match of t
 
 ---
 
-## Story 7: Aston Villa: How 'demanding' Emery turned season around
-**Slug (lower-third):** Aston Villa: How 'demanding' Emery turned season around  
-**When:** 2025-12-03 17:38 (America/Winnipeg)  •  **Published:** 2025-12-03 23:38 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 5: Newcastle United's new chief executive says team can be world's best by 2030
+**Slug (lower-third):** Newcastle United's new chief executive says team can be w…  
+**When:** 2025-12-04 05:00 (America/Winnipeg)  •  **Published:** 2025-12-04 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa: How 'demanding' Emery turned season around. Aston Villa were in the relegation zone after five games but are now third in the Premier League with 'demanding' Unai Emery having played a key part in the turnaround. Relevance to standings and momentum.
+Newcastle United's new chief executive says team can be world's best by 2030. David Hopkinson described the football club as a 'rocket ship' and the 'favourite investment' of Saudi sovereign wealth fund Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -178,7 +127,7 @@ Aston Villa: How 'demanding' Emery turned season around. Aston Villa were in the
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa: How 'demanding' Emery turned season around. https://www.bbc.com/sport/football/articles/c0751ve92kzo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Newcastle United's new chief executive says team can be world's best by 2030. https://www.theguardian.com/football/2025/dec/04/newcastle-united-new-chief-executive-says-team-can-be-worlds-best-by-2030
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -187,13 +136,13 @@ Aston Villa: How 'demanding' Emery turned season around. Aston Villa were in the
 
 ---
 
-## Story 8: Football gossip: Mateta, Mainoo, El Mala, Chukwueze, Brown, Thiago
-**Slug (lower-third):** Football gossip: Mateta, Mainoo, El Mala, Chukwueze, Brow…  
-**When:** 2025-12-03 17:14 (America/Winnipeg)  •  **Published:** 2025-12-03 23:14 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 6: Ref Watch: Newcastle penalty against Tottenham analysed as Dermot Gallagher questions why referee noticed grappling but 'ignored' it
+**Slug (lower-third):** Ref Watch: Newcastle penalty against Tottenham analysed a…  
+**When:** 2025-12-04 04:20 (America/Winnipeg)  •  **Published:** 2025-12-04 10:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Mateta, Mainoo, El Mala, Chukwueze, Brown, Thiago. Crystal Palace could listen to Jean-Philippe Mateta offers, Napoli targeting Kobbie Mainoo, Brighton may move for Said el Mala. Relevance to standings and momentum.
+Ref Watch: Newcastle penalty against Tottenham analysed as Dermot Gallagher questions why referee noticed grappling but 'ignored' it. A Nottingham Forest goal was disallowed after a five-and-a-half-minute VAR check at Wolves; Dominik Szoboszlai almost gave away a penalty for Liverpool against Sunderland; a corner for Brighton also led to a goal as football lawmakers consider using VAR for incorrectly awarded corners Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -202,7 +151,7 @@ Football gossip: Mateta, Mainoo, El Mala, Chukwueze, Brown, Thiago. Crystal Pala
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Mateta, Mainoo, El Mala, Chukwueze, Brown, Thiago. https://www.bbc.com/sport/football/articles/cvgr9w8l343o?at_medium=RSS&at_campaign=rss
+- skysports.com — Ref Watch: Newcastle penalty against Tottenham analysed as Dermot Gallagher questions why referee noticed grappling but 'ignored' it. https://www.skysports.com/football/news/12040/13479227/ref-watch-newcastle-penalty-against-tottenham-analysed-as-dermot-gallagher-questions-why-referee-noticed-grappling-but-ignored-it
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -211,13 +160,13 @@ Football gossip: Mateta, Mainoo, El Mala, Chukwueze, Brown, Thiago. Crystal Pala
 
 ---
 
-## Story 9: Premier League: Liverpool v Sunderland highlights
-**Slug (lower-third):** Premier League: Liverpool v Sunderland highlights  
-**When:** 2025-12-03 16:41 (America/Winnipeg)  •  **Published:** 2025-12-03 22:41 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 7: We must look beyond the brute numbers to really appreciate Haaland's legend | Jonathan Liew
+**Slug (lower-third):** We must look beyond the brute numbers to really appreciat…  
+**When:** 2025-12-04 02:00 (America/Winnipeg)  •  **Published:** 2025-12-04 08:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Liverpool v Sunderland highlights. Florian Wirtz's shot takes a deflection off of Nordi Mukiele to earn Liverpool a hard-won point against Sunderland Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+We must look beyond the brute numbers to really appreciate Haaland's legend | Jonathan Liew. Perhaps the data-soaked discourse of modern football actually does this Premier League centurion something of a disservice Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -226,7 +175,7 @@ Premier League: Liverpool v Sunderland highlights. Florian Wirtz's shot takes a 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: Liverpool v Sunderland highlights. https://www.bbc.com/sport/football/videos/c783jl09l9eo?at_medium=RSS&at_campaign=rss
+- theguardian.com — We must look beyond the brute numbers to really appreciate Haaland's legend | Jonathan Liew. https://www.theguardian.com/football/2025/dec/04/we-must-look-beyond-the-brute-numbers-to-really-appreciate-haalands-legend
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -235,13 +184,13 @@ Premier League: Liverpool v Sunderland highlights. Florian Wirtz's shot takes a 
 
 ---
 
-## Story 10: Premier League: Burnley 0-1 Crystal Palace highlights
-**Slug (lower-third):** Premier League: Burnley 0-1 Crystal Palace highlights  
-**When:** 2025-12-03 16:31 (America/Winnipeg)  •  **Published:** 2025-12-03 22:31 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 8: Former Spurs player Taricco quits Jeonbuk role after racism scandal
+**Slug (lower-third):** Former Spurs player Taricco quits Jeonbuk role after raci…  
+**When:** 2025-12-04 02:00 (America/Winnipeg)  •  **Published:** 2025-12-04 08:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Burnley 0-1 Crystal Palace highlights. Daniel Munoz scores the only goal as Crystal Palace climb to fifth in the Premier League with victory against Burnley. Relevance to standings and momentum.
+Former Spurs player Taricco quits Jeonbuk role after racism scandal. Gus Poyet's assistant says 'moment of misunderstanding' led to his being punished by the K League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -250,7 +199,55 @@ Premier League: Burnley 0-1 Crystal Palace highlights. Daniel Munoz scores the o
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: Burnley 0-1 Crystal Palace highlights. https://www.bbc.com/sport/football/videos/cvgjn07y145o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Former Spurs player Taricco quits Jeonbuk role after racism scandal. https://www.theguardian.com/sport/2025/dec/04/former-spurs-mauricio-taricco-quits-jeonbuk-coaching-role-racism-scandal
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Daniel Farke: Is win against Chelsea enough to save Leeds job or just buying time?
+**Slug (lower-third):** Daniel Farke: Is win against Chelsea enough to save Leeds…  
+**When:** 2025-12-03 18:24 (America/Winnipeg)  •  **Published:** 2025-12-04 00:24 (UTC)  
+**Virality score:** 87  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Daniel Farke: Is win against Chelsea enough to save Leeds job or just buying time?. In the relegation zone and under increasing pressure, Leeds' win over Chelsea was a "huge result" for Daniel Farke. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Daniel Farke: Is win against Chelsea enough to save Leeds job or just buying time?. https://www.bbc.com/sport/football/articles/c157nlwgq42o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Match of the Day - 2025/26: 03/12/2025
+**Slug (lower-third):** Match of the Day - 2025/26: 03/12/2025  
+**When:** 2025-12-03 18:15 (America/Winnipeg)  •  **Published:** 2025-12-04 00:15 (UTC)  
+**Virality score:** 87  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Match of the Day - 2025/26: 03/12/2025. Highlights from nine Premier League matches across a busy midweek schedule. Arsenal take on Brentford, Liverpool host Sunderland, and Chelsea welcome Leeds to Stamford Bridge. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Match of the Day - 2025/26: 03/12/2025. https://www.bbc.co.uk/iplayer/episode/m002n2gg/match-of-the-day-202526-03122025?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
