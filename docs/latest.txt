@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-05 06:46 (America/Winnipeg)  |  2025-12-05 12:46 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2025-12-05 12:30 (America/Winnipeg)  |  2025-12-05 18:30 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 09s
+**Estimated total video length:** ~4m 38s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Newcastle: Ross Wilson says there is money to spend in January
-- The Ashes: England trail on first innings in Brisbane as Australia punish wayward bowling and five dropped catches
-- Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
+- Arsenal: Mikel Arteta reflects on six years with the Gunners
+- Premier League news: Mejbri banned for spitting; Guardiola says 'defence has to improve'
+- Brighton owner Tony Bloom faces questions over allegations he bet on his own teams
 
 ---
 
-### Injuries
+### Managerial Moves
 
-## Story 1: Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
-**Slug (lower-third):** Premier League and FPL team news: All your injury and Fan…  
-**When:** 2025-12-05 05:22 (America/Winnipeg)  •  **Published:** 2025-12-05 11:22 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Liverpool: Arne Slot speaks of pride at how Reds have dealt with Diogo Jota's death
+**Slug (lower-third):** Liverpool: Arne Slot speaks of pride at how Reds have dea…  
+**When:** 2025-12-05 07:46 (America/Winnipeg)  •  **Published:** 2025-12-05 13:46 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Potential impact on the lineup and upcoming fixtures.
+Liverpool: Arne Slot speaks of pride at how Reds have dealt with Diogo Jota's death. Diogo Jota would have turned 29 on Thursday; Liverpool supporters continue to sing his name in 20th minute of each match; head coach Arne Slot has opened up to Sky Sports about how difficult it has been to cope with the tragedy; he also praises Reds fans for their backing during tough run Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,57 @@ Premier League and FPL team news: All your injury and Fantasy Premier League inf
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. https://www.bbc.com/sport/articles/c5y920ev9ldo?at_medium=RSS&at_campaign=rss
+- skysports.com — Liverpool: Arne Slot speaks of pride at how Reds have dealt with Diogo Jota's death. https://www.skysports.com/football/news/12040/13479726/liverpool-arne-slot-speaks-of-pride-at-how-reds-have-dealt-with-diogo-jotas-death
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Manchester United: Ruben Amorim defends use of Kobbie Mainoo
+**Slug (lower-third):** Manchester United: Ruben Amorim defends use of Kobbie Mai…  
+**When:** 2025-12-05 07:34 (America/Winnipeg)  •  **Published:** 2025-12-05 13:34 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United: Ruben Amorim defends use of Kobbie Mainoo. Manchester United head coach Ruben Amorim defends his failure to start any academy player in the Premier League this season and repeated his reasons for not giving Kobbie Mainoo an opportunity. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester United: Ruben Amorim defends use of Kobbie Mainoo. https://www.bbc.com/sport/football/articles/cedxgy08ngqo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Cristhian Mosquera: Arsenal fear defender will miss at least six weeks with ankle injury
+**Slug (lower-third):** Cristhian Mosquera: Arsenal fear defender will miss at le…  
+**When:** 2025-12-05 10:45 (America/Winnipeg)  •  **Published:** 2025-12-05 16:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Cristhian Mosquera: Arsenal fear defender will miss at least six weeks with ankle injury. Arsenal fear Cristhian Mosquera will miss at least six weeks, with the defender set to undergo further tests to establish the full extent of his ankle injury. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Cristhian Mosquera: Arsenal fear defender will miss at least six weeks with ankle injury. https://www.bbc.com/sport/football/articles/cx2gn0q3093o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +92,13 @@ Premier League and FPL team news: All your injury and Fantasy Premier League inf
 
 ### League & Regulation
 
-## Story 2: The Ashes: England trail on first innings in Brisbane as Australia punish wayward bowling and five dropped catches
-**Slug (lower-third):** The Ashes: England trail on first innings in Brisbane as …  
-**When:** 2025-12-05 05:30 (America/Winnipeg)  •  **Published:** 2025-12-05 11:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+## Story 4: Arsenal: Mikel Arteta reflects on six years with the Gunners
+**Slug (lower-third):** Arsenal: Mikel Arteta reflects on six years with the Gunn…  
+**When:** 2025-12-05 12:00 (America/Winnipeg)  •  **Published:** 2025-12-05 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-The Ashes: England trail on first innings in Brisbane as Australia punish wayward bowling and five dropped catches. England drop FIVE catches on day two at Gabba as Australia profit from fielding errors and loose bowling to earn 44-run lead; hosts - 1-0 up in five-Test series after two-day Perth win - are 378-6 in reply to Englands Joe Root-inspired 334 all out in pink-ball game Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Arsenal: Mikel Arteta reflects on six years with the Gunners. Roman Kemp sits down with Arsenal boss Mikel Arteta to look back on six years in charge of the club. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +107,55 @@ The Ashes: England trail on first innings in Brisbane as Australia punish waywar
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — The Ashes: England trail on first innings in Brisbane as Australia punish wayward bowling and five dropped catches. https://www.skysports.com/cricket/news/12040/13479638/the-ashes-england-trail-on-first-innings-in-brisbane-as-australia-punish-wayward-bowling-and-five-dropped-catches
+- skysports.com — Arsenal: Mikel Arteta reflects on six years with the Gunners. https://www.skysports.com/watch/video/13479663/arsenal-arteta-reflects-on-six-years-at-arsenal
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Premier League news: Mejbri banned for spitting; Guardiola says 'defence has to improve'
+**Slug (lower-third):** Premier League news: Mejbri banned for spitting; Guardiol…  
+**When:** 2025-12-05 11:48 (America/Winnipeg)  •  **Published:** 2025-12-05 17:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League news: Mejbri banned for spitting; Guardiola says 'defence has to improve'. Word from the top-tier press conferences, including Maresca singling out Tosin's gaffes, Guardiola's defensive concerns and more Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League news: Mejbri banned for spitting; Guardiola says 'defence has to improve'. https://www.theguardian.com/football/2025/dec/05/premier-league-news-mejbri-banned-for-spitting-guardiola-manchester-city-arsenal-merino-striker
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Ruesha Littlejohn: Crystal Palace midfielder given extended ban for violent conduct
+**Slug (lower-third):** Ruesha Littlejohn: Crystal Palace midfielder given extend…  
+**When:** 2025-12-05 08:43 (America/Winnipeg)  •  **Published:** 2025-12-05 14:43 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ruesha Littlejohn: Crystal Palace midfielder given extended ban for violent conduct. Crystal Palace midfielder Ruesha Littlejohn has been given an extended five-match ban for violent conduct after grabbing an opponent by the neck and throwing her to the ground. Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Ruesha Littlejohn: Crystal Palace midfielder given extended ban for violent conduct. https://www.bbc.com/sport/football/articles/cd748yvl25xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +166,13 @@ The Ashes: England trail on first innings in Brisbane as Australia punish waywar
 
 ### Club Updates
 
-## Story 3: Newcastle: Ross Wilson says there is money to spend in January
-**Slug (lower-third):** Newcastle: Ross Wilson says there is money to spend in Ja…  
-**When:** 2025-12-05 06:00 (America/Winnipeg)  •  **Published:** 2025-12-05 12:00 (UTC)  
+## Story 7: Brighton owner Tony Bloom faces questions over allegations he bet on his own teams
+**Slug (lower-third):** Brighton owner Tony Bloom faces questions over allegation…  
+**When:** 2025-12-05 11:17 (America/Winnipeg)  •  **Published:** 2025-12-05 17:17 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle: Ross Wilson says there is money to spend in January. Newcastle United have money to spend in January - but sporting director Ross Wilson says any mid-season moves will have to "align" with their summer plan. Relevance to standings and momentum.
+Brighton owner Tony Bloom faces questions over allegations he bet on his own teams. Exclusive: Billionaire is claimed to be anonymous figure behind $70m of wins in US legal case. He denies betting on his own teams Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +181,7 @@ Newcastle: Ross Wilson says there is money to spend in January. Newcastle United
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Newcastle: Ross Wilson says there is money to spend in January. https://www.bbc.com/sport/football/articles/c3r7p3v7084o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Brighton owner Tony Bloom faces questions over allegations he bet on his own teams. https://www.theguardian.com/football/2025/dec/05/brighton-owner-tony-bloom
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +190,13 @@ Newcastle: Ross Wilson says there is money to spend in January. Newcastle United
 
 ---
 
-## Story 4: 'Always in my mind to start' - Slot on Salah
-**Slug (lower-third):** 'Always in my mind to start' - Slot on Salah  
-**When:** 2025-12-05 04:38 (America/Winnipeg)  •  **Published:** 2025-12-05 10:38 (UTC)  
+## Story 8: Your Guardian sport weekend: F1 finale, the Ashes and Premier League
+**Slug (lower-third):** Your Guardian sport weekend: F1 finale, the Ashes and Pre…  
+**When:** 2025-12-05 11:00 (America/Winnipeg)  •  **Published:** 2025-12-05 17:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'Always in my mind to start' - Slot on Salah. Liverpool boss Arne Slot says Mohamed Salah is 'always in my mind to start' after the Egypt forward was left out of the last two starting line-ups. Relevance to standings and momentum.
+Your Guardian sport weekend: F1 finale, the Ashes and Premier League. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +205,7 @@ Newcastle: Ross Wilson says there is money to spend in January. Newcastle United
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — 'Always in my mind to start' - Slot on Salah. https://www.bbc.com/sport/football/articles/cdxe5g1r1rvo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Your Guardian sport weekend: F1 finale, the Ashes and Premier League. https://www.theguardian.com/sport/2025/dec/05/your-guardian-sport-weekend-f1-finale-the-ashes-and-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +214,13 @@ Newcastle: Ross Wilson says there is money to spend in January. Newcastle United
 
 ---
 
-## Story 5: Erling Haaland: Manchester City striker's journey to 100 Premier League goals
-**Slug (lower-third):** Erling Haaland: Manchester City striker's journey to 100 …  
-**When:** 2025-12-05 00:10 (America/Winnipeg)  •  **Published:** 2025-12-05 06:10 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 9: Daniel Farke exclusive: Leeds United boss on speculation about his future and formation change in Chelsea win
+**Slug (lower-third):** Daniel Farke exclusive: Leeds United boss on speculation …  
+**When:** 2025-12-05 10:30 (America/Winnipeg)  •  **Published:** 2025-12-05 16:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Erling Haaland: Manchester City striker's journey to 100 Premier League goals. As Erling Haaland becomes the fastest player to score 100 goals in the Premier League, BBC Sport looks back at the Norway striker's best moments for Man City. Relevance to standings and momentum.
+Daniel Farke exclusive: Leeds United boss on speculation about his future and formation change in Chelsea win. In an exclusive interview with Sky Sports, Daniel Farke responds to speculation around his future and explains why he does not put Leeds momentous win over Chelsea down to the change in formation ahead of Saturdays huge home game against Liverpool, live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +229,7 @@ Erling Haaland: Manchester City striker's journey to 100 Premier League goals. A
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Erling Haaland: Manchester City striker's journey to 100 Premier League goals. https://www.bbc.com/sport/football/videos/cm2065rnydeo?at_medium=RSS&at_campaign=rss
+- skysports.com — Daniel Farke exclusive: Leeds United boss on speculation about his future and formation change in Chelsea win. https://www.skysports.com/football/news/12040/13479739/daniel-farke-exclusive-leeds-united-boss-on-speculation-about-his-future-and-formation-change-in-chelsea-win
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +238,13 @@ Erling Haaland: Manchester City striker's journey to 100 Premier League goals. A
 
 ---
 
-## Story 6: Today on Sky Sports Racing: Sedgefield and Newcastle host live action
-**Slug (lower-third):** Today on Sky Sports Racing: Sedgefield and Newcastle host…  
-**When:** 2025-12-05 00:00 (America/Winnipeg)  •  **Published:** 2025-12-05 06:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 10: Football Daily | Are Leicester tumbling towards a painfully awkward anniversary party?
+**Slug (lower-third):** Football Daily | Are Leicester tumbling towards a painful…  
+**When:** 2025-12-05 08:24 (America/Winnipeg)  •  **Published:** 2025-12-05 14:24 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Sedgefield and Newcastle host live action. Its all about the North-East this afternoon on Sky Sports Racing; Sedgefield plays host to a seven-race National Hunt card before attention switches to All-Weather Championships action from Newcastle. Relevance to standings and momentum.
+Football Daily | Are Leicester tumbling towards a painfully awkward anniversary party?. In today's Football Daily: Tough times for the Foxes Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,79 +253,7 @@ Today on Sky Sports Racing: Sedgefield and Newcastle host live action. Its all a
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Sedgefield and Newcastle host live action. https://www.skysports.com/racing/news/12040/13478690/today-on-sky-sports-racing-sedgefield-and-newcastle-host-live-action
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Man Utd 1-1 West Ham: Anger and frustration at Old Trafford
-**Slug (lower-third):** Man Utd 1-1 West Ham: Anger and frustration at Old Traffo…  
-**When:** 2025-12-04 18:35 (America/Winnipeg)  •  **Published:** 2025-12-05 00:35 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man Utd 1-1 West Ham: Anger and frustration at Old Trafford. Ruben Amorim declares himself angry and frustrated as his Manchester United side again lose a lead - with consistency continuing to be an issue. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Man Utd 1-1 West Ham: Anger and frustration at Old Trafford. https://www.bbc.com/sport/football/articles/c1e408l97l7o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Premier League: 10 things to look out for this weekend
-**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
-**When:** 2025-12-04 18:01 (America/Winnipeg)  •  **Published:** 2025-12-05 00:01 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: 10 things to look out for this weekend. Van de Ven may be key for Spurs, Wissa could make his Newcastle debut and Dyche deserves a warm Everton welcome Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2025/dec/05/premier-league-10-things-to-look-out-for-this-weekend
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Amorim 'angry and frustrated' after West Ham's Magassa denies Manchester United
-**Slug (lower-third):** Amorim 'angry and frustrated' after West Ham's Magassa de…  
-**When:** 2025-12-04 17:23 (America/Winnipeg)  •  **Published:** 2025-12-04 23:23 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Amorim 'angry and frustrated' after West Ham's Magassa denies Manchester United. Soungoutou Magassa hit his first goal for struggling Hammers to grab a 1-1 draw at Old Trafford after Diogo Dalot had given United the lead Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Amorim 'angry and frustrated' after West Ham's Magassa denies Manchester United. https://www.theguardian.com/football/2025/dec/04/manchester-united-west-ham-premier-league-match-report
+- theguardian.com — Football Daily | Are Leicester tumbling towards a painfully awkward anniversary party?. https://www.theguardian.com/football/2025/dec/05/football-daily-email-leicester-painful-anniversary
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
