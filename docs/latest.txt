@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-05 12:30 (America/Winnipeg)  |  2025-12-05 18:30 (UTC)
+**Generated:** 2025-12-05 19:40 (America/Winnipeg)  |  2025-12-06 01:40 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 38s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arsenal: Mikel Arteta reflects on six years with the Gunners
-- Premier League news: Mejbri banned for spitting; Guardiola says 'defence has to improve'
-- Brighton owner Tony Bloom faces questions over allegations he bet on his own teams
+- FA Cup: Fabio Borini scores as Salford City beat Leyton Orient
+- Southampton name Tonda Eckert as manager after successful interim spell
+- Football gossip: Mainoo, Anderson, Salah, Disasi, Kilman, Alberto
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Liverpool: Arne Slot speaks of pride at how Reds have dealt with Diogo Jota's death
-**Slug (lower-third):** Liverpool: Arne Slot speaks of pride at how Reds have dea…  
-**When:** 2025-12-05 07:46 (America/Winnipeg)  •  **Published:** 2025-12-05 13:46 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~30s
+## Story 1: Southampton name Tonda Eckert as manager after successful interim spell
+**Slug (lower-third):** Southampton name Tonda Eckert as manager after successful…  
+**When:** 2025-12-05 17:16 (America/Winnipeg)  •  **Published:** 2025-12-05 23:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool: Arne Slot speaks of pride at how Reds have dealt with Diogo Jota's death. Diogo Jota would have turned 29 on Thursday; Liverpool supporters continue to sing his name in 20th minute of each match; head coach Arne Slot has opened up to Sky Sports about how difficult it has been to cope with the tragedy; he also praises Reds fans for their backing during tough run Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Southampton name Tonda Eckert as manager after successful interim spell. Southampton have appointed their under-21 coach Tonda Eckert as manager with a contract taking him through to 2027 Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Liverpool: Arne Slot speaks of pride at how Reds have dealt with Diogo Jota's de
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Liverpool: Arne Slot speaks of pride at how Reds have dealt with Diogo Jota's death. https://www.skysports.com/football/news/12040/13479726/liverpool-arne-slot-speaks-of-pride-at-how-reds-have-dealt-with-diogo-jotas-death
+- theguardian.com — Southampton name Tonda Eckert as manager after successful interim spell. https://www.theguardian.com/football/2025/dec/05/southampton-name-tonda-eckert-as-manager-after-successful-interim-spell
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Liverpool: Arne Slot speaks of pride at how Reds have dealt with Diogo Jota's de
 
 ---
 
-## Story 2: Manchester United: Ruben Amorim defends use of Kobbie Mainoo
-**Slug (lower-third):** Manchester United: Ruben Amorim defends use of Kobbie Mai…  
-**When:** 2025-12-05 07:34 (America/Winnipeg)  •  **Published:** 2025-12-05 13:34 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 2: Rodri: Man City midfielder 'suffering' and 'struggling' after injury setback
+**Slug (lower-third):** Rodri: Man City midfielder 'suffering' and 'struggling' a…  
+**When:** 2025-12-05 16:39 (America/Winnipeg)  •  **Published:** 2025-12-05 22:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: Ruben Amorim defends use of Kobbie Mainoo. Manchester United head coach Ruben Amorim defends his failure to start any academy player in the Premier League this season and repeated his reasons for not giving Kobbie Mainoo an opportunity. Relevance to standings and momentum.
+Rodri: Man City midfielder 'suffering' and 'struggling' after injury setback. Manchester City midfielder Rodri is "suffering" and "struggling" as he wants to make a return to action from a hamstring injury, says manager Pep Guardiola. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,81 @@ Manchester United: Ruben Amorim defends use of Kobbie Mainoo. Manchester United 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester United: Ruben Amorim defends use of Kobbie Mainoo. https://www.bbc.com/sport/football/articles/cedxgy08ngqo?at_medium=RSS&at_campaign=rss
+- bbc.com — Rodri: Man City midfielder 'suffering' and 'struggling' after injury setback. https://www.bbc.com/sport/football/articles/cy8jkk189vgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Southampton: Tonda Eckert targets Premier League return for Saints after being appointed permanent boss
+**Slug (lower-third):** Southampton: Tonda Eckert targets Premier League return f…  
+**When:** 2025-12-05 16:12 (America/Winnipeg)  •  **Published:** 2025-12-05 22:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Southampton: Tonda Eckert targets Premier League return for Saints after being appointed permanent boss. Tonda Eckert targets a promotion challenge after being appointed Southampton's permanent boss on a contract to 2027. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Southampton: Tonda Eckert targets Premier League return for Saints after being appointed permanent boss. https://www.bbc.com/sport/football/articles/c87lx5p0v1vo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 4: Football gossip: Mainoo, Anderson, Salah, Disasi, Kilman, Alberto
+**Slug (lower-third):** Football gossip: Mainoo, Anderson, Salah, Disasi, Kilman,…  
+**When:** 2025-12-05 17:05 (America/Winnipeg)  •  **Published:** 2025-12-05 23:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Mainoo, Anderson, Salah, Disasi, Kilman, Alberto. At least 12 clubs want Kobbie Mainoo on loan, Nottingham Forest set to increase Elliot Anderson price, Saudi clubs confident of cut-price Mohamed Salah deal, plus more. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Mainoo, Anderson, Salah, Disasi, Kilman, Alberto. https://www.bbc.com/sport/football/articles/cpq4n1j4j1jo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Jack Grealish explains how Everton and David Moyes have helped him rediscover top Premier League form
+**Slug (lower-third):** Jack Grealish explains how Everton and David Moyes have h…  
+**When:** 2025-12-05 16:00 (America/Winnipeg)  •  **Published:** 2025-12-05 22:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Jack Grealish explains how Everton and David Moyes have helped him rediscover top Premier League form. From confidence loss to kissing the Everton badge, Jack Grealish has been revitalised by his Toffees loan spell; the forward speaks exclusively to Sky Sports, as PUMA launch their FUTURE 9 boot, about his new lease of life on Merseyside and how belief has been key under David Moyes Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Jack Grealish explains how Everton and David Moyes have helped him rediscover top Premier League form. https://www.skysports.com/football/news/12040/13479490/jack-grealish-explains-how-everton-and-david-moyes-have-helped-him-rediscover-top-premier-league-form
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +140,13 @@ Manchester United: Ruben Amorim defends use of Kobbie Mainoo. Manchester United 
 
 ### Injuries
 
-## Story 3: Cristhian Mosquera: Arsenal fear defender will miss at least six weeks with ankle injury
-**Slug (lower-third):** Cristhian Mosquera: Arsenal fear defender will miss at le…  
-**When:** 2025-12-05 10:45 (America/Winnipeg)  •  **Published:** 2025-12-05 16:45 (UTC)  
+## Story 6: Premier League news: Mejbri banned for spitting; Rodri's return delayed
+**Slug (lower-third):** Premier League news: Mejbri banned for spitting; Rodri's …  
+**When:** 2025-12-05 16:31 (America/Winnipeg)  •  **Published:** 2025-12-05 22:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Cristhian Mosquera: Arsenal fear defender will miss at least six weeks with ankle injury. Arsenal fear Cristhian Mosquera will miss at least six weeks, with the defender set to undergo further tests to establish the full extent of his ankle injury. Potential impact on the lineup and upcoming fixtures.
+Premier League news: Mejbri banned for spitting; Rodri's return delayed. Word from the top-tier press conferences, including Maresca singling out Adarabioyo's gaffes and Paqueta expecting an instant West Ham return Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,81 +155,7 @@ Cristhian Mosquera: Arsenal fear defender will miss at least six weeks with ankl
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Cristhian Mosquera: Arsenal fear defender will miss at least six weeks with ankle injury. https://www.bbc.com/sport/football/articles/cx2gn0q3093o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 4: Arsenal: Mikel Arteta reflects on six years with the Gunners
-**Slug (lower-third):** Arsenal: Mikel Arteta reflects on six years with the Gunn…  
-**When:** 2025-12-05 12:00 (America/Winnipeg)  •  **Published:** 2025-12-05 18:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal: Mikel Arteta reflects on six years with the Gunners. Roman Kemp sits down with Arsenal boss Mikel Arteta to look back on six years in charge of the club. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Arsenal: Mikel Arteta reflects on six years with the Gunners. https://www.skysports.com/watch/video/13479663/arsenal-arteta-reflects-on-six-years-at-arsenal
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Premier League news: Mejbri banned for spitting; Guardiola says 'defence has to improve'
-**Slug (lower-third):** Premier League news: Mejbri banned for spitting; Guardiol…  
-**When:** 2025-12-05 11:48 (America/Winnipeg)  •  **Published:** 2025-12-05 17:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League news: Mejbri banned for spitting; Guardiola says 'defence has to improve'. Word from the top-tier press conferences, including Maresca singling out Tosin's gaffes, Guardiola's defensive concerns and more Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League news: Mejbri banned for spitting; Guardiola says 'defence has to improve'. https://www.theguardian.com/football/2025/dec/05/premier-league-news-mejbri-banned-for-spitting-guardiola-manchester-city-arsenal-merino-striker
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Ruesha Littlejohn: Crystal Palace midfielder given extended ban for violent conduct
-**Slug (lower-third):** Ruesha Littlejohn: Crystal Palace midfielder given extend…  
-**When:** 2025-12-05 08:43 (America/Winnipeg)  •  **Published:** 2025-12-05 14:43 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ruesha Littlejohn: Crystal Palace midfielder given extended ban for violent conduct. Crystal Palace midfielder Ruesha Littlejohn has been given an extended five-match ban for violent conduct after grabbing an opponent by the neck and throwing her to the ground. Disciplinary outcome could affect availability.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Ruesha Littlejohn: Crystal Palace midfielder given extended ban for violent conduct. https://www.bbc.com/sport/football/articles/cd748yvl25xo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League news: Mejbri banned for spitting; Rodri's return delayed. https://www.theguardian.com/football/2025/dec/05/premier-league-news-mejbri-banned-for-spitting-guardiola-manchester-city-arsenal-merino-striker
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +166,13 @@ Ruesha Littlejohn: Crystal Palace midfielder given extended ban for violent cond
 
 ### Club Updates
 
-## Story 7: Brighton owner Tony Bloom faces questions over allegations he bet on his own teams
-**Slug (lower-third):** Brighton owner Tony Bloom faces questions over allegation…  
-**When:** 2025-12-05 11:17 (America/Winnipeg)  •  **Published:** 2025-12-05 17:17 (UTC)  
+## Story 7: FA Cup: Fabio Borini scores as Salford City beat Leyton Orient
+**Slug (lower-third):** FA Cup: Fabio Borini scores as Salford City beat Leyton O…  
+**When:** 2025-12-05 17:26 (America/Winnipeg)  •  **Published:** 2025-12-05 23:26 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brighton owner Tony Bloom faces questions over allegations he bet on his own teams. Exclusive: Billionaire is claimed to be anonymous figure behind $70m of wins in US legal case. He denies betting on his own teams Relevance to standings and momentum.
+FA Cup: Fabio Borini scores as Salford City beat Leyton Orient. Former Liverpool and Italy forward Fabio Borini scores for Salford City as they beat Leyton Orient 4-0 to reach the third round of the FA Cup. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +181,7 @@ Brighton owner Tony Bloom faces questions over allegations he bet on his own tea
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Brighton owner Tony Bloom faces questions over allegations he bet on his own teams. https://www.theguardian.com/football/2025/dec/05/brighton-owner-tony-bloom
+- bbc.com — FA Cup: Fabio Borini scores as Salford City beat Leyton Orient. https://www.bbc.com/sport/football/videos/c3v1d7nzv13o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +190,13 @@ Brighton owner Tony Bloom faces questions over allegations he bet on his own tea
 
 ---
 
-## Story 8: Your Guardian sport weekend: F1 finale, the Ashes and Premier League
-**Slug (lower-third):** Your Guardian sport weekend: F1 finale, the Ashes and Pre…  
-**When:** 2025-12-05 11:00 (America/Winnipeg)  •  **Published:** 2025-12-05 17:00 (UTC)  
+## Story 8: Liverpool are not playing to Alexander Isak's strengths, Arne Slot admits
+**Slug (lower-third):** Liverpool are not playing to Alexander Isak's strengths, …  
+**When:** 2025-12-05 16:33 (America/Winnipeg)  •  **Published:** 2025-12-05 22:33 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Your Guardian sport weekend: F1 finale, the Ashes and Premier League. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liverpool are not playing to Alexander Isak's strengths, Arne Slot admits. Arne Slot said of Alexander Isak: 'We want to bring him into more threatening situations,' but added few strikers touch the ball much in the Premier League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +205,7 @@ Your Guardian sport weekend: F1 finale, the Ashes and Premier League. Here's how
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Your Guardian sport weekend: F1 finale, the Ashes and Premier League. https://www.theguardian.com/sport/2025/dec/05/your-guardian-sport-weekend-f1-finale-the-ashes-and-premier-league
+- theguardian.com — Liverpool are not playing to Alexander Isak's strengths, Arne Slot admits. https://www.theguardian.com/football/2025/dec/05/liverpool-not-playing-to-alexander-isak-strengths-arne-slot-admits
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +214,13 @@ Your Guardian sport weekend: F1 finale, the Ashes and Premier League. Here's how
 
 ---
 
-## Story 9: Daniel Farke exclusive: Leeds United boss on speculation about his future and formation change in Chelsea win
-**Slug (lower-third):** Daniel Farke exclusive: Leeds United boss on speculation …  
-**When:** 2025-12-05 10:30 (America/Winnipeg)  •  **Published:** 2025-12-05 16:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 9: Thomas Frank faces Brentford reunion not knowing his best Spurs team
+**Slug (lower-third):** Thomas Frank faces Brentford reunion not knowing his best…  
+**When:** 2025-12-05 16:30 (America/Winnipeg)  •  **Published:** 2025-12-05 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Daniel Farke exclusive: Leeds United boss on speculation about his future and formation change in Chelsea win. In an exclusive interview with Sky Sports, Daniel Farke responds to speculation around his future and explains why he does not put Leeds momentous win over Chelsea down to the change in formation ahead of Saturdays huge home game against Liverpool, live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Thomas Frank faces Brentford reunion not knowing his best Spurs team. Thomas Frank has admitted he is still to decide on his best Tottenham team but promised his players would not panic should they concede another early goal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +229,7 @@ Daniel Farke exclusive: Leeds United boss on speculation about his future and fo
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Daniel Farke exclusive: Leeds United boss on speculation about his future and formation change in Chelsea win. https://www.skysports.com/football/news/12040/13479739/daniel-farke-exclusive-leeds-united-boss-on-speculation-about-his-future-and-formation-change-in-chelsea-win
+- theguardian.com — Thomas Frank faces Brentford reunion not knowing his best Spurs team. https://www.theguardian.com/football/2025/dec/05/thomas-frank-faces-brentford-reunion-not-knowing-his-best-spurs-team
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +238,13 @@ Daniel Farke exclusive: Leeds United boss on speculation about his future and fo
 
 ---
 
-## Story 10: Football Daily | Are Leicester tumbling towards a painfully awkward anniversary party?
-**Slug (lower-third):** Football Daily | Are Leicester tumbling towards a painful…  
-**When:** 2025-12-05 08:24 (America/Winnipeg)  •  **Published:** 2025-12-05 14:24 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 10: Wretched start to six wins in a row: how Aston Villa turned their season around
+**Slug (lower-third):** Wretched start to six wins in a row: how Aston Villa turn…  
+**When:** 2025-12-05 14:00 (America/Winnipeg)  •  **Published:** 2025-12-05 20:00 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | Are Leicester tumbling towards a painfully awkward anniversary party?. In today's Football Daily: Tough times for the Foxes Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Wretched start to six wins in a row: how Aston Villa turned their season around. As the Premier League's most in-form side prepare to host Arsenal, their experience is beginning to look like a superpower Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +253,7 @@ Football Daily | Are Leicester tumbling towards a painfully awkward anniversary 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | Are Leicester tumbling towards a painfully awkward anniversary party?. https://www.theguardian.com/football/2025/dec/05/football-daily-email-leicester-painful-anniversary
+- theguardian.com — Wretched start to six wins in a row: how Aston Villa turned their season around. https://www.theguardian.com/football/2025/dec/05/how-aston-villa-turned-season-around-arsenal-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
