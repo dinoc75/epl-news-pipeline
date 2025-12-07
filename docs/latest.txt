@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-07 06:40 (America/Winnipeg)  |  2025-12-07 12:40 (UTC)
+**Generated:** 2025-12-07 12:29 (America/Winnipeg)  |  2025-12-07 18:29 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 31s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Tom Hicks: Ex-Liverpool co-owner dies aged 79
-- Mo Salah's Liverpool future in doubt after Leeds post-match interview - Paper talk and football gossip
-- Arsenal must not 'panic' as Man City close Premier League title race gap in 'season of inconsistency', says Gary Neville
+- WSL: Chelsea unbeatable no more, so is the title Man City's to lose?
+- Why was Georginio Rutter's Brighton goal vs West Ham not ruled out?
+- WSL: Chelsea 0-1 Everton Highlights
 
 ---
 
 ### Transfers
 
-## Story 1: Mohamed Salah plunges Liverpool future into doubt by saying Arne Slot relationship has broken down ahead of transfer window
-**Slug (lower-third):** Mohamed Salah plunges Liverpool future into doubt by sayi…  
-**When:** 2025-12-06 14:28 (America/Winnipeg)  •  **Published:** 2025-12-06 20:28 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~30s
+## Story 1: Mohamed Salah: Liverpool fans give their verdict on Egyptian star
+**Slug (lower-third):** Mohamed Salah: Liverpool fans give their verdict on Egypt…  
+**When:** 2025-12-07 11:13 (America/Winnipeg)  •  **Published:** 2025-12-07 17:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mohamed Salah plunges Liverpool future into doubt by saying Arne Slot relationship has broken down ahead of transfer window. Mohamed Salah has said he feels like the club has thrown me under the bus in a bombshell interview after Liverpools 3-3 draw at Leeds United as he plunged his Liverpool future into doubt by suggesting next Saturdays game against Brighton could be his last for the champions Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Mohamed Salah: Liverpool fans give their verdict on Egyptian star. BBC Sport visits Anfield to find out how Liverpool fans are feeling following Mohamed Salah's explosive interview after being left out the side for a third straight game. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,10 +31,10 @@ Mohamed Salah plunges Liverpool future into doubt by saying Arne Slot relationsh
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Mohamed Salah plunges Liverpool future into doubt by saying Arne Slot relationship has broken down ahead of transfer window. https://www.skysports.com/football/news/12040/13480362/mohamed-salah-plunges-liverpool-future-into-doubt-by-saying-arne-slot-relationship-has-broken-down-ahead-of-transfer-window
+- bbc.com — Mohamed Salah: Liverpool fans give their verdict on Egyptian star. https://www.bbc.com/sport/football/articles/c04vr1edee6o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -42,13 +42,13 @@ Mohamed Salah plunges Liverpool future into doubt by saying Arne Slot relationsh
 
 ### Injuries
 
-## Story 2: Premier League: Antoine Semenyo goal ruled out as Bournemouth and Chelsea play out goalless draw
-**Slug (lower-third):** Premier League: Antoine Semenyo goal ruled out as Bournem…  
-**When:** 2025-12-06 14:00 (America/Winnipeg)  •  **Published:** 2025-12-06 20:00 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
+## Story 2: Why was Georginio Rutter's Brighton goal vs West Ham not ruled out?
+**Slug (lower-third):** Why was Georginio Rutter's Brighton goal vs West Ham not …  
+**When:** 2025-12-07 11:53 (America/Winnipeg)  •  **Published:** 2025-12-07 17:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Antoine Semenyo goal ruled out as Bournemouth and Chelsea play out goalless draw. Antoine Semenyo has a goal ruled out as Bournemouth and Chelsea play out a 0-0 draw at the Vitality Stadium. Relevance to standings and momentum.
+Why was Georginio Rutter's Brighton goal vs West Ham not ruled out?. Georginio Rutter's late equaliser in Brighton's 1-1 draw with West Ham on Sunday was allowed to stand despite handball claims. BBC Sport looks at the rules to explain why. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,22 +57,22 @@ Premier League: Antoine Semenyo goal ruled out as Bournemouth and Chelsea play o
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: Antoine Semenyo goal ruled out as Bournemouth and Chelsea play out goalless draw. https://www.bbc.com/sport/football/videos/cwyl54xd48vo?at_medium=RSS&at_campaign=rss
+- bbc.com — Why was Georginio Rutter's Brighton goal vs West Ham not ruled out?. https://www.bbc.com/sport/articles/c93w9jxy0dwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 3: Premier League: Everton score three as Sean Dyche's Nottingham Forest lose to his former side
-**Slug (lower-third):** Premier League: Everton score three as Sean Dyche's Notti…  
-**When:** 2025-12-06 14:00 (America/Winnipeg)  •  **Published:** 2025-12-06 20:00 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
+## Story 3: Premier League: Brighton & Hove Albion v West Ham United Nuno Santo Post match interview
+**Slug (lower-third):** Premier League: Brighton & Hove Albion v West Ham United …  
+**When:** 2025-12-07 10:52 (America/Winnipeg)  •  **Published:** 2025-12-07 16:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Everton score three as Sean Dyche's Nottingham Forest lose to his former side. Sean Dyche's return to his former club ends in defeat as Everton beat Nottingham Forest 3-0. Relevance to standings and momentum.
+Premier League: Brighton & Hove Albion v West Ham United Nuno Santo Post match interview. West Ham boss Nuno Espirito Santo says he Brighton's late equaliser should have been ruled out for handball and a high boot. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,33 +81,7 @@ Premier League: Everton score three as Sean Dyche's Nottingham Forest lose to hi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: Everton score three as Sean Dyche's Nottingham Forest lose to his former side. https://www.bbc.com/sport/football/videos/c5yq3xwpq1ro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 4: 'Some people say I've found my level' - how Mark Hughes got his spark back at Carlisle
-**Slug (lower-third):** 'Some people say I've found my level' - how Mark Hughes g…  
-**When:** 2025-12-07 01:15 (America/Winnipeg)  •  **Published:** 2025-12-07 07:15 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-'Some people say I've found my level' - how Mark Hughes got his spark back at Carlisle. As Carlisle United prepare for Sunday's FA Cup tie at Blackpool, Mark Hughes opens up on managing in non-league after taking charge of 466 Premier League games. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — 'Some people say I've found my level' - how Mark Hughes got his spark back at Carlisle. https://www.bbc.com/sport/football/articles/cwy72r9zpxko?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League: Brighton & Hove Albion v West Ham United Nuno Santo Post match interview. https://www.bbc.com/sport/football/videos/c3r741xplqeo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,13 +92,13 @@ Premier League: Everton score three as Sean Dyche's Nottingham Forest lose to hi
 
 ### Club Updates
 
-## Story 5: Tom Hicks: Ex-Liverpool co-owner dies aged 79
-**Slug (lower-third):** Tom Hicks: Ex-Liverpool co-owner dies aged 79  
-**When:** 2025-12-07 05:36 (America/Winnipeg)  •  **Published:** 2025-12-07 11:36 (UTC)  
+## Story 4: WSL: Chelsea unbeatable no more, so is the title Man City's to lose?
+**Slug (lower-third):** WSL: Chelsea unbeatable no more, so is the title Man City…  
+**When:** 2025-12-07 11:59 (America/Winnipeg)  •  **Published:** 2025-12-07 17:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tom Hicks: Ex-Liverpool co-owner dies aged 79. American Tom Hicks, who owned Liverpool alongside George Gillett from 2007 to 2010, dies at his home in Dallas. Relevance to standings and momentum.
+WSL: Chelsea unbeatable no more, so is the title Man City's to lose?. 585 days. 34 Women's Super League games. Finally, Chelsea's unbeaten domestic league run is at an end. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +107,7 @@ Tom Hicks: Ex-Liverpool co-owner dies aged 79. American Tom Hicks, who owned Liv
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tom Hicks: Ex-Liverpool co-owner dies aged 79. https://www.bbc.com/sport/football/articles/c783z1jejz1o?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL: Chelsea unbeatable no more, so is the title Man City's to lose?. https://www.bbc.com/sport/football/articles/cx2gpl02ke4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +116,13 @@ Tom Hicks: Ex-Liverpool co-owner dies aged 79. American Tom Hicks, who owned Liv
 
 ---
 
-## Story 6: Mo Salah's Liverpool future in doubt after Leeds post-match interview - Paper talk and football gossip
-**Slug (lower-third):** Mo Salah's Liverpool future in doubt after Leeds post-mat…  
-**When:** 2025-12-07 04:00 (America/Winnipeg)  •  **Published:** 2025-12-07 10:00 (UTC)  
+## Story 5: WSL: Chelsea 0-1 Everton Highlights
+**Slug (lower-third):** WSL: Chelsea 0-1 Everton Highlights  
+**When:** 2025-12-07 11:24 (America/Winnipeg)  •  **Published:** 2025-12-07 17:24 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mo Salah's Liverpool future in doubt after Leeds post-match interview - Paper talk and football gossip. Latest from Sundays papers as Mo Salahs bombshell interview dominates the headlines... Relevance to standings and momentum.
+WSL: Chelsea 0-1 Everton Highlights. Everton have put an end to Chelsea's record breaking 34 match undefeated run with Honoka Hayashi's goal making the difference. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +131,7 @@ Mo Salah's Liverpool future in doubt after Leeds post-match interview - Paper ta
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Mo Salah's Liverpool future in doubt after Leeds post-match interview - Paper talk and football gossip. https://www.skysports.com/football/news/12040/13480406/mo-salahs-liverpool-future-in-doubt-after-leeds-post-match-interview-paper-talk-and-football-gossip
+- bbc.com — WSL: Chelsea 0-1 Everton Highlights. https://www.bbc.com/sport/football/videos/c9w7yxvng9zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +140,13 @@ Mo Salah's Liverpool future in doubt after Leeds post-match interview - Paper ta
 
 ---
 
-## Story 7: Arsenal must not 'panic' as Man City close Premier League title race gap in 'season of inconsistency', says Gary Neville
-**Slug (lower-third):** Arsenal must not 'panic' as Man City close Premier League…  
-**When:** 2025-12-07 02:21 (America/Winnipeg)  •  **Published:** 2025-12-07 08:21 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~21s
+## Story 6: Reborn and ruthless: can Manchester City realise their WSL title dream?
+**Slug (lower-third):** Reborn and ruthless: can Manchester City realise their WS…  
+**When:** 2025-12-07 11:00 (America/Winnipeg)  •  **Published:** 2025-12-07 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal must not 'panic' as Man City close Premier League title race gap in 'season of inconsistency', says Gary Neville. Arsenals defeat at Aston Villa and Man Citys win over Sunderland saw the Gunners lead at the top of the Premier League trimmed to two points; Listen to The Gary Neville Podcast at skysports.com/podcasts Relevance to standings and momentum.
+Reborn and ruthless: can Manchester City realise their WSL title dream?. With the prolific Khadija Shaw leading the attack, Andree Jeglertz's side underlined their credentials in a 3-0 win at Leicester Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +155,7 @@ Arsenal must not 'panic' as Man City close Premier League title race gap in 'sea
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal must not 'panic' as Man City close Premier League title race gap in 'season of inconsistency', says Gary Neville. https://www.skysports.com/football/news/12040/13480431/arsenal-must-not-panic-as-man-city-close-premier-league-title-race-gap-in-season-of-inconsistency-says-gary-neville
+- theguardian.com — Reborn and ruthless: can Manchester City realise their WSL title dream?. https://www.theguardian.com/football/2025/dec/07/reborn-and-ruthless-can-manchester-city-realise-their-wsl-title-dream-leicester-city
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +164,13 @@ Arsenal must not 'panic' as Man City close Premier League title race gap in 'sea
 
 ---
 
-## Story 8: Mohamed Salah says 'I've been thrown under the bus' and signals Liverpool exit
-**Slug (lower-third):** Mohamed Salah says 'I've been thrown under the bus' and s…  
-**When:** 2025-12-06 15:25 (America/Winnipeg)  •  **Published:** 2025-12-06 21:25 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 7: Chelsea's record-breaking 34-game unbeaten run ends with shock defeat to Everton as Man City go six points clear- WSL round-up
+**Slug (lower-third):** Chelsea's record-breaking 34-game unbeaten run ends with …  
+**When:** 2025-12-07 11:00 (America/Winnipeg)  •  **Published:** 2025-12-07 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Mohamed Salah says 'I've been thrown under the bus' and signals Liverpool exit. Mohamed Salah, left on the bench as Liverpool drew at Leeds, has said his relationship with Arne Slot is broken and that Brighton could be his last game Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea's record-breaking 34-game unbeaten run ends with shock defeat to Everton as Man City go six points clear- WSL round-up. Chelseas record-breaking 34-game unbeaten run in the WSL comes to an end as the Blues fall to a shock defeat to Everton; Bunny Shaws double helps Man City go six points clear at the summit; Tottenham beat Aston Villa and Brighton beat London City Lionesses Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,8 +179,7 @@ Mohamed Salah says 'I've been thrown under the bus' and signals Liverpool exit. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Mohamed Salah says 'I've been thrown under the bus' and signals Liverpool exit. https://www.theguardian.com/football/2025/dec/06/mohamed-salah-arne-slot-liverpool-thrown-under-the-bus
-- bbc.com — Mohamed Salah: Liverpool forward says he has been 'thrown under the bus'. https://www.bbc.com/sport/football/articles/cze8rnx4g7go?at_medium=RSS&at_campaign=rss
+- skysports.com — Chelsea's record-breaking 34-game unbeaten run ends with shock defeat to Everton as Man City go six points clear- WSL round-up. https://www.skysports.com/football/news/12040/13479293/wsl-round-up
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,10 +188,58 @@ Mohamed Salah says 'I've been thrown under the bus' and signals Liverpool exit. 
 
 ---
 
-## Story 9: Premier League: Newcastle avoid late scare to beat ten men Burnley
+## Story 8: Self-indulgent Mohamed Salah betrays teammates and hastens end of Liverpool era | Andy Hunter
+**Slug (lower-third):** Self-indulgent Mohamed Salah betrays teammates and hasten…  
+**When:** 2025-12-07 10:26 (America/Winnipeg)  •  **Published:** 2025-12-07 16:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Self-indulgent Mohamed Salah betrays teammates and hastens end of Liverpool era | Andy Hunter. The Egyptian's calculated outburst has issued a challenge to Liverpool's management and their support for the embattled Arne Slot Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Self-indulgent Mohamed Salah betrays teammates and hastens end of Liverpool era | Andy Hunter. https://www.theguardian.com/football/2025/dec/07/self-indulgent-mohamed-salah-betrays-teammates-and-hastens-liverpool-exit
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Yves Bissouma: Tottenaham 'looking into' nitrous oxide claims
+**Slug (lower-third):** Yves Bissouma: Tottenaham 'looking into' nitrous oxide cl…  
+**When:** 2025-12-07 10:09 (America/Winnipeg)  •  **Published:** 2025-12-07 16:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Yves Bissouma: Tottenaham 'looking into' nitrous oxide claims. Tottenham say they are looking into allegations that midfielder Yves Bissouma was filmed inhaling nitrous oxide. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Yves Bissouma: Tottenaham 'looking into' nitrous oxide claims. https://www.bbc.com/sport/football/articles/cp89z0k6d25o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Premier League: Newcastle avoid late scare to beat ten men Burnley
 **Slug (lower-third):** Premier League: Newcastle avoid late scare to beat ten me…  
 **When:** 2025-12-06 14:03 (America/Winnipeg)  •  **Published:** 2025-12-06 20:03 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
+**Virality score:** 73  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League: Newcastle avoid late scare to beat ten men Burnley. Bruno Guimaraes scores direct from a corner as Newcastle beat Burnley 2-1 at St. James' Park in the Premier League. Relevance to standings and momentum.
@@ -231,30 +252,6 @@ Premier League: Newcastle avoid late scare to beat ten men Burnley. Bruno Guimar
 
 ### Sources
 - bbc.com — Premier League: Newcastle avoid late scare to beat ten men Burnley. https://www.bbc.com/sport/football/videos/c5y9pd88pplo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League: Xavi Simons scores first Premier League goal as Tottenham beat Brentford
-**Slug (lower-third):** Premier League: Xavi Simons scores first Premier League g…  
-**When:** 2025-12-06 14:00 (America/Winnipeg)  •  **Published:** 2025-12-06 20:00 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: Xavi Simons scores first Premier League goal as Tottenham beat Brentford. Thomas Frank gets a much-needed victory as Tottenham beat his former club Brentford 2-0, with Xavi Simons scoring his first Premier League goal. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League: Xavi Simons scores first Premier League goal as Tottenham beat Brentford. https://www.bbc.com/sport/football/videos/cq5q821gv6zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
