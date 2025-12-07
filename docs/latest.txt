@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-06 12:29 (America/Winnipeg)  |  2025-12-06 18:29 (UTC)
+**Generated:** 2025-12-06 19:54 (America/Winnipeg)  |  2025-12-07 01:54 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- WSL: Stina Blackstenius scores late winner as Arsenal beat Liverpool
-- Arsenal 2-1 Liverpool: Olivia Smith provides spark for Gunners
-- Guimaraes scores from corner before Newcastle cling on against 10-man Burnley
+- Mohamed Salah: Liverpool star's public attack piles pressure on Arne Slot
+- Mohamed Salah 'making it all about him' - Danny Murphy
+- Mohamed Salah says 'I've been thrown under the bus' and signals Liverpool exit
 
 ---
 
-### Injuries
+### Managerial Moves
 
-## Story 1: Everton turn on style and condemn Dyche to miserable return with Nottingham Forest
-**Slug (lower-third):** Everton turn on style and condemn Dyche to miserable retu…  
-**When:** 2025-12-06 11:18 (America/Winnipeg)  •  **Published:** 2025-12-06 17:18 (UTC)  
+## Story 1: Mohamed Salah: Liverpool star's public attack piles pressure on Arne Slot
+**Slug (lower-third):** Mohamed Salah: Liverpool star's public attack piles press…  
+**When:** 2025-12-06 17:36 (America/Winnipeg)  •  **Published:** 2025-12-06 23:36 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton turn on style and condemn Dyche to miserable return with Nottingham Forest. Everton's improvement continued with an emphatic 3-0 win over Nottingham Forest secured by goals from Nikola Melenkovic, Thierno Barry and Kiernan Dewsbury-Hall Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Mohamed Salah: Liverpool star's public attack piles pressure on Arne Slot. Mohamed Salah's astonishing public attack on Liverpool and Arne Slot piles pressure on the troubled head coach, says chief football writer Phil McNulty. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,107 @@ Everton turn on style and condemn Dyche to miserable return with Nottingham Fore
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Everton turn on style and condemn Dyche to miserable return with Nottingham Forest. https://www.theguardian.com/football/2025/dec/06/everton-nottingham-forest-premier-league-match-report
+- bbc.com — Mohamed Salah: Liverpool star's public attack piles pressure on Arne Slot. https://www.bbc.com/sport/football/articles/c1lrev8ndp3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Mohamed Salah 'making it all about him' - Danny Murphy
+**Slug (lower-third):** Mohamed Salah 'making it all about him' - Danny Murphy  
+**When:** 2025-12-06 17:34 (America/Winnipeg)  •  **Published:** 2025-12-06 23:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Mohamed Salah 'making it all about him' - Danny Murphy. Former Liverpool midfielder Danny Murphy says Mohamed Salah is "making it all about him" after the winger criticised the club and manager Arne Slot. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Mohamed Salah 'making it all about him' - Danny Murphy. https://www.bbc.com/sport/football/articles/cj9yw17zp94o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Mohamed Salah plunges Liverpool future into doubt by saying Arne Slot relationship has broken down ahead of transfer window
+**Slug (lower-third):** Mohamed Salah plunges Liverpool future into doubt by sayi…  
+**When:** 2025-12-06 14:28 (America/Winnipeg)  •  **Published:** 2025-12-06 20:28 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~30s
+
+### Presenter Script (3–5 sentences)
+Mohamed Salah plunges Liverpool future into doubt by saying Arne Slot relationship has broken down ahead of transfer window. Mohamed Salah has said he feels like the club has thrown me under the bus in a bombshell interview after Liverpools 3-3 draw at Leeds United as he plunged his Liverpool future into doubt by suggesting next Saturdays game against Brighton could be his last for the champions Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Mohamed Salah plunges Liverpool future into doubt by saying Arne Slot relationship has broken down ahead of transfer window. https://www.skysports.com/football/news/12040/13480362/mohamed-salah-plunges-liverpool-future-into-doubt-by-saying-arne-slot-relationship-has-broken-down-ahead-of-transfer-window
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 4: Premier League: Antoine Semenyo goal ruled out as Bournemouth and Chelsea play out goalless draw
+**Slug (lower-third):** Premier League: Antoine Semenyo goal ruled out as Bournem…  
+**When:** 2025-12-06 14:00 (America/Winnipeg)  •  **Published:** 2025-12-06 20:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Antoine Semenyo goal ruled out as Bournemouth and Chelsea play out goalless draw. Antoine Semenyo has a goal ruled out as Bournemouth and Chelsea play out a 0-0 draw at the Vitality Stadium. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Antoine Semenyo goal ruled out as Bournemouth and Chelsea play out goalless draw. https://www.bbc.com/sport/football/videos/cwyl54xd48vo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Premier League: Everton score three as Sean Dyche's Nottingham Forest lose to his former side
+**Slug (lower-third):** Premier League: Everton score three as Sean Dyche's Notti…  
+**When:** 2025-12-06 14:00 (America/Winnipeg)  •  **Published:** 2025-12-06 20:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Everton score three as Sean Dyche's Nottingham Forest lose to his former side. Sean Dyche's return to his former club ends in defeat as Everton beat Nottingham Forest 3-0. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Everton score three as Sean Dyche's Nottingham Forest lose to his former side. https://www.bbc.com/sport/football/videos/c5yq3xwpq1ro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +142,13 @@ Everton turn on style and condemn Dyche to miserable return with Nottingham Fore
 
 ### Club Updates
 
-## Story 2: WSL: Stina Blackstenius scores late winner as Arsenal beat Liverpool
-**Slug (lower-third):** WSL: Stina Blackstenius scores late winner as Arsenal bea…  
-**When:** 2025-12-06 11:55 (America/Winnipeg)  •  **Published:** 2025-12-06 17:55 (UTC)  
+## Story 6: Mohamed Salah says 'I've been thrown under the bus' and signals Liverpool exit
+**Slug (lower-third):** Mohamed Salah says 'I've been thrown under the bus' and s…  
+**When:** 2025-12-06 15:25 (America/Winnipeg)  •  **Published:** 2025-12-06 21:25 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL: Stina Blackstenius scores late winner as Arsenal beat Liverpool. Stina Blackstenius scores an 87th-minute winner as Arsenal beat Liverpool 2-1 at the Emirates in the WSL. Relevance to standings and momentum.
+Mohamed Salah says 'I've been thrown under the bus' and signals Liverpool exit. Mohamed Salah, left on the bench as Liverpool drew at Leeds, has said his relationship with Arne Slot is broken and that Brighton could be his last game Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +157,8 @@ WSL: Stina Blackstenius scores late winner as Arsenal beat Liverpool. Stina Blac
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL: Stina Blackstenius scores late winner as Arsenal beat Liverpool. https://www.bbc.com/sport/football/videos/c3w74wwjd0po?at_medium=RSS&at_campaign=rss
+- theguardian.com — Mohamed Salah says 'I've been thrown under the bus' and signals Liverpool exit. https://www.theguardian.com/football/2025/dec/06/mohamed-salah-arne-slot-liverpool-thrown-under-the-bus
+- bbc.com — Mohamed Salah: Liverpool forward 'thrown under the bus'. https://www.bbc.com/sport/football/articles/cze8rnx4g7go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +167,13 @@ WSL: Stina Blackstenius scores late winner as Arsenal beat Liverpool. Stina Blac
 
 ---
 
-## Story 3: Arsenal 2-1 Liverpool: Olivia Smith provides spark for Gunners
-**Slug (lower-third):** Arsenal 2-1 Liverpool: Olivia Smith provides spark for Gu…  
-**When:** 2025-12-06 11:32 (America/Winnipeg)  •  **Published:** 2025-12-06 17:32 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Nottingham Forest to complain to PGMOL over Everton defender James Tarkowski's off-the-ball clash
+**Slug (lower-third):** Nottingham Forest to complain to PGMOL over Everton defen…  
+**When:** 2025-12-06 14:30 (America/Winnipeg)  •  **Published:** 2025-12-06 20:30 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Arsenal 2-1 Liverpool: Olivia Smith provides spark for Gunners. Olivia Smith steals the show with a goalscoring display against former side Liverpool to help Arsenal climb back into the Women's Super League top three. Relevance to standings and momentum.
+Nottingham Forest to complain to PGMOL over Everton defender James Tarkowski's off-the-ball clash. Forest bosses believe James Tarkowskis shoulder barge on Dan Ndoye amounted to violent conduct and a red card being shown; Ndoye fell to the ground after he was barged from behind but after a VAR review no action was taken Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +182,7 @@ Arsenal 2-1 Liverpool: Olivia Smith provides spark for Gunners. Olivia Smith ste
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arsenal 2-1 Liverpool: Olivia Smith provides spark for Gunners. https://www.bbc.com/sport/football/articles/cpq4vje4yvgo?at_medium=RSS&at_campaign=rss
+- skysports.com — Nottingham Forest to complain to PGMOL over Everton defender James Tarkowski's off-the-ball clash. https://www.skysports.com/football/news/12040/13480355/nottingham-forest-to-complain-to-pgmol-over-everton-defender-james-tarkowskis-off-the-ball-clash
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +191,13 @@ Arsenal 2-1 Liverpool: Olivia Smith provides spark for Gunners. Olivia Smith ste
 
 ---
 
-## Story 4: Guimaraes scores from corner before Newcastle cling on against 10-man Burnley
-**Slug (lower-third):** Guimaraes scores from corner before Newcastle cling on ag…  
-**When:** 2025-12-06 11:26 (America/Winnipeg)  •  **Published:** 2025-12-06 17:26 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Premier League: Newcastle avoid late scare to beat ten men Burnley
+**Slug (lower-third):** Premier League: Newcastle avoid late scare to beat ten me…  
+**When:** 2025-12-06 14:03 (America/Winnipeg)  •  **Published:** 2025-12-06 20:03 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Guimaraes scores from corner before Newcastle cling on against 10-man Burnley. First-half goals from Bruno Guimaraes, directly from a corner, and an Anthony Gordon penalty gave Newcastle a 2-1 win against Burnley, who had Lucas Pires sent off Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: Newcastle avoid late scare to beat ten men Burnley. Bruno Guimaraes scores direct from a corner as Newcastle beat Burnley 2-1 at St. James' Park in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +206,7 @@ Guimaraes scores from corner before Newcastle cling on against 10-man Burnley. F
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Guimaraes scores from corner before Newcastle cling on against 10-man Burnley. https://www.theguardian.com/football/2025/dec/06/newcastle-burnley-premier-league-match-report
+- bbc.com — Premier League: Newcastle avoid late scare to beat ten men Burnley. https://www.bbc.com/sport/football/videos/c5y9pd88pplo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +215,13 @@ Guimaraes scores from corner before Newcastle cling on against 10-man Burnley. F
 
 ---
 
-## Story 5: Manchester City 3-0 Sunderland | Premier League highlights
-**Slug (lower-third):** Manchester City 3-0 Sunderland | Premier League highlights  
-**When:** 2025-12-06 11:25 (America/Winnipeg)  •  **Published:** 2025-12-06 17:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Premier League: Xavi Simons scores first Premier League goal as Tottenham beat Brentford
+**Slug (lower-third):** Premier League: Xavi Simons scores first Premier League g…  
+**When:** 2025-12-06 14:00 (America/Winnipeg)  •  **Published:** 2025-12-06 20:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester City 3-0 Sunderland | Premier League highlights. FREE TO WATCH: Highlights from Manchester City's match against Sunderland in the Premier League. Relevance to standings and momentum.
+Premier League: Xavi Simons scores first Premier League goal as Tottenham beat Brentford. Thomas Frank gets a much-needed victory as Tottenham beat his former club Brentford 2-0, with Xavi Simons scoring his first Premier League goal. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +230,7 @@ Manchester City 3-0 Sunderland | Premier League highlights. FREE TO WATCH: Highl
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Manchester City 3-0 Sunderland | Premier League highlights. https://www.skysports.com/watch/video/13480243/manchester-city-3-0-sunderland-premier-league-highlights
+- bbc.com — Premier League: Xavi Simons scores first Premier League goal as Tottenham beat Brentford. https://www.bbc.com/sport/football/videos/cq5q821gv6zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +239,13 @@ Manchester City 3-0 Sunderland | Premier League highlights. FREE TO WATCH: Highl
 
 ---
 
-## Story 6: Spurs remember how to win at home as Xavi Simons solo goal helps sink Brentford
-**Slug (lower-third):** Spurs remember how to win at home as Xavi Simons solo goa…  
-**When:** 2025-12-06 11:18 (America/Winnipeg)  •  **Published:** 2025-12-06 17:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Premier League: Manchester City move within two points of Arsenal after victory over Sunderland
+**Slug (lower-third):** Premier League: Manchester City move within two points of…  
+**When:** 2025-12-06 14:00 (America/Winnipeg)  •  **Published:** 2025-12-06 20:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Spurs remember how to win at home as Xavi Simons solo goal helps sink Brentford. Tottenham won their first home league game since the opening day of the season with a 2-0 victory over Brentford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: Manchester City move within two points of Arsenal after victory over Sunderland. Manchester City beat Sunderland 3-0 to move within two points of leaders Arsenal in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,103 +254,7 @@ Spurs remember how to win at home as Xavi Simons solo goal helps sink Brentford.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Spurs remember how to win at home as Xavi Simons solo goal helps sink Brentford. https://www.theguardian.com/football/2025/dec/06/tottenham-v-brentford-premier-league-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Everton 3-0 Nottingham Forest | Premier League highlights
-**Slug (lower-third):** Everton 3-0 Nottingham Forest | Premier League highlights  
-**When:** 2025-12-06 11:15 (America/Winnipeg)  •  **Published:** 2025-12-06 17:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Everton 3-0 Nottingham Forest | Premier League highlights. FREE TO WATCH: Highlights from Everton's match against Nottingham Forest in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Everton 3-0 Nottingham Forest | Premier League highlights. https://www.skysports.com/watch/video/13480206/everton-3-0-nottingham-forest-premier-league-highlights
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Tottenham 2-0 Brentford: Xavi Simons stars as Thomas Frank enjoys winning reunion against his former club
-**Slug (lower-third):** Tottenham 2-0 Brentford: Xavi Simons stars as Thomas Fran…  
-**When:** 2025-12-06 11:00 (America/Winnipeg)  •  **Published:** 2025-12-06 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham 2-0 Brentford: Xavi Simons stars as Thomas Frank enjoys winning reunion against his former club. Xavi Simons scored his first Tottenham goal to give Thomas Frank a much-needed 2-0 home win over his former club Brentford. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Tottenham 2-0 Brentford: Xavi Simons stars as Thomas Frank enjoys winning reunion against his former club. https://www.skysports.com/football/tottenham-hotspur-vs-brentford/report/531277
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Brighton owner Tony Bloom denies betting allegations
-**Slug (lower-third):** Brighton owner Tony Bloom denies betting allegations  
-**When:** 2025-12-06 09:25 (America/Winnipeg)  •  **Published:** 2025-12-06 15:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Brighton owner Tony Bloom denies betting allegations. Tony Bloom says he "categorically assure" fans that he has never placed bets on matches involving the team since becoming Brighton owner. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Brighton owner Tony Bloom denies betting allegations. https://www.bbc.com/sport/football/articles/c98nj8q9qr4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Crystal Palace fans are literally fighting each other. How has it come to this?
-**Slug (lower-third):** Crystal Palace fans are literally fighting each other. Ho…  
-**When:** 2025-12-06 02:00 (America/Winnipeg)  •  **Published:** 2025-12-06 08:00 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Crystal Palace fans are literally fighting each other. How has it come to this?. Clashes between rival factions are the culmination of a long-running feud involving claims of racism Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Crystal Palace fans are literally fighting each other. How has it come to this?. https://www.theguardian.com/football/2025/dec/06/crystal-palace-fans-are-literally-fighting-each-other-how-has-it-come-to-this
+- bbc.com — Premier League: Manchester City move within two points of Arsenal after victory over Sunderland. https://www.bbc.com/sport/football/videos/czxpyrwjqwyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
