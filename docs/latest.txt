@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-08 00:38 (America/Winnipeg)  |  2025-12-08 06:38 (UTC)
+**Generated:** 2025-12-08 06:47 (America/Winnipeg)  |  2025-12-08 12:47 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 35s
+**Estimated total video length:** ~4m 30s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Wayne Rooney: 'Disrespectful' Mohamed Salah comments have 'thrown Liverpool under the bus'
-- Mohamed Salah is destroying his legacy, says Wayne Rooney in latest podcast
-- Ashes hopeful Jacob Bethell hits 71 and Asa Tribe a century but England Lions thumped by Australia A in Brisbane
+- WSL talking points: Chelsea's historic run ended to give City breathing space
+- Mohamed Salah takes part in Liverpool training after outburst
+- Mo Salah: Liverpool forward unlikely to be in squad to face Inter Milan in Champions League after public outburst
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Best manager and best team - can Crystal Palace sustain special season?
 **Slug (lower-third):** Best manager and best team - can Crystal Palace sustain s…  
 **When:** 2025-12-07 15:47 (America/Winnipeg)  •  **Published:** 2025-12-07 21:47 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+**Virality score:** 84  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Best manager and best team - can Crystal Palace sustain special season?. Crystal Palace are enjoying their best ever season in the Premier League, but with questions behind the scenes, can they sustain the level to make it a special season? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -34,21 +34,21 @@ Best manager and best team - can Crystal Palace sustain special season?. Crystal
 - bbc.com — Best manager and best team - can Crystal Palace sustain special season?. https://www.bbc.com/sport/football/articles/cpwkypx4gllo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### League & Regulation
+### Transfers
 
-## Story 2: Ashes hopeful Jacob Bethell hits 71 and Asa Tribe a century but England Lions thumped by Australia A in Brisbane
-**Slug (lower-third):** Ashes hopeful Jacob Bethell hits 71 and Asa Tribe a centu…  
-**When:** 2025-12-07 23:15 (America/Winnipeg)  •  **Published:** 2025-12-08 05:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~31s
+## Story 2: Premier League: 10 talking points from the weekend's football
+**Slug (lower-third):** Premier League: 10 talking points from the weekend's foot…  
+**When:** 2025-12-08 02:00 (America/Winnipeg)  •  **Published:** 2025-12-08 08:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ashes hopeful Jacob Bethell hits 71 and Asa Tribe a century but England Lions thumped by Australia A in Brisbane. England Lions suffer innings defeat to Australia A in Brisbane - less than a day after senior team beaten in second Ashes Test at Gabba; Jacob Bethell presses claims to replace Ollie Pope with 71 on penultimate day, while Asa Tribe hits a century in defeat; Shoaib Bashir toils with ball Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Premier League: 10 talking points from the weekend's football. Arsenal feel the effects of defensive injuries, Liverpool rue Ibrahima Konate's mistakes and Brentford struggle on the road Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,31 +57,7 @@ Ashes hopeful Jacob Bethell hits 71 and Asa Tribe a century but England Lions th
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ashes hopeful Jacob Bethell hits 71 and Asa Tribe a century but England Lions thumped by Australia A in Brisbane. https://www.skysports.com/cricket/news/12040/13480798/ashes-hopeful-jacob-bethell-hits-71-and-asa-tribe-a-century-but-england-lions-thumped-by-australia-a-in-brisbane
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Brighton ban Guardian from stadium over reporting on Tony Bloom
-**Slug (lower-third):** Brighton ban Guardian from stadium over reporting on Tony…  
-**When:** 2025-12-07 12:52 (America/Winnipeg)  •  **Published:** 2025-12-07 18:52 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Brighton ban Guardian from stadium over reporting on Tony Bloom. Reporters and photographers have been banned by the Premier League club, as a Guardian spokesperson said the reporting was in the public interest Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Brighton ban Guardian from stadium over reporting on Tony Bloom. https://www.theguardian.com/football/2025/dec/07/brighton-bans-guardian-from-stadium-over-reporting-on-tony-bloom
+- theguardian.com — Premier League: 10 talking points from the weekend's football. https://www.theguardian.com/football/2025/dec/08/premier-league-10-talking-points-from-the-weekends-football
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +68,13 @@ Brighton ban Guardian from stadium over reporting on Tony Bloom. Reporters and p
 
 ### Club Updates
 
-## Story 4: Wayne Rooney: 'Disrespectful' Mohamed Salah comments have 'thrown Liverpool under the bus'
-**Slug (lower-third):** Wayne Rooney: 'Disrespectful' Mohamed Salah comments have…  
-**When:** 2025-12-08 00:14 (America/Winnipeg)  •  **Published:** 2025-12-08 06:14 (UTC)  
+## Story 3: WSL talking points: Chelsea's historic run ended to give City breathing space
+**Slug (lower-third):** WSL talking points: Chelsea's historic run ended to give …  
+**When:** 2025-12-08 06:09 (America/Winnipeg)  •  **Published:** 2025-12-08 12:09 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wayne Rooney: 'Disrespectful' Mohamed Salah comments have 'thrown Liverpool under the bus'. Wayne Rooney says the critical comments made by Mohamed Salah after Liverpool's 3-3 draw with Leeds were "disrespectful" and have thrown the club "under the bus". Relevance to standings and momentum.
+WSL talking points: Chelsea's historic run ended to give City breathing space. Manchester City show their resilience, Spurs eye the Champions League and Liverpool look to splash the cash Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +83,7 @@ Wayne Rooney: 'Disrespectful' Mohamed Salah comments have 'thrown Liverpool unde
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Wayne Rooney: 'Disrespectful' Mohamed Salah comments have 'thrown Liverpool under the bus'. https://www.bbc.com/sport/football/videos/c33m6k02y4vo?at_medium=RSS&at_campaign=rss
+- theguardian.com — WSL talking points: Chelsea's historic run ended to give City breathing space. https://www.theguardian.com/football/2025/dec/08/wsl-talking-points-chelseas-historic-run-ended-to-give-city-breathing-space
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +92,13 @@ Wayne Rooney: 'Disrespectful' Mohamed Salah comments have 'thrown Liverpool unde
 
 ---
 
-## Story 5: Mohamed Salah is destroying his legacy, says Wayne Rooney in latest podcast
-**Slug (lower-third):** Mohamed Salah is destroying his legacy, says Wayne Rooney…  
-**When:** 2025-12-08 00:10 (America/Winnipeg)  •  **Published:** 2025-12-08 06:10 (UTC)  
+## Story 4: Mohamed Salah takes part in Liverpool training after outburst
+**Slug (lower-third):** Mohamed Salah takes part in Liverpool training after outb…  
+**When:** 2025-12-08 06:03 (America/Winnipeg)  •  **Published:** 2025-12-08 12:03 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mohamed Salah is destroying his legacy, says Wayne Rooney in latest podcast. Mohamed Salah is destroying his legacy and should not be involved in Liverpool's next two games before he goes off to the Africa Cup of Nations, says Wayne Rooney. Relevance to standings and momentum.
+Mohamed Salah takes part in Liverpool training after outburst. Mohamed Salah takes part in Liverpool's training session on Monday following his explosive interview at the weekend. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +107,7 @@ Mohamed Salah is destroying his legacy, says Wayne Rooney in latest podcast. Moh
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Mohamed Salah is destroying his legacy, says Wayne Rooney in latest podcast. https://www.bbc.com/sport/football/articles/clyxdpl657eo?at_medium=RSS&at_campaign=rss
+- bbc.com — Mohamed Salah takes part in Liverpool training after outburst. https://www.bbc.com/sport/football/articles/ckgmy2ejn4lo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,10 +116,130 @@ Mohamed Salah is destroying his legacy, says Wayne Rooney in latest podcast. Moh
 
 ---
 
-## Story 6: Football gossip: Salah, Semenyo, Mateta, Wharton, Ederson, Yildiz
+## Story 5: Mo Salah: Liverpool forward unlikely to be in squad to face Inter Milan in Champions League after public outburst
+**Slug (lower-third):** Mo Salah: Liverpool forward unlikely to be in squad to fa…  
+**When:** 2025-12-08 06:00 (America/Winnipeg)  •  **Published:** 2025-12-08 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
+
+### Presenter Script (3–5 sentences)
+Mo Salah: Liverpool forward unlikely to be in squad to face Inter Milan in Champions League after public outburst. Mohamed Salah is unlikely to be included in Liverpools squad to face Inter Milan in the Champions League on Tuesday; Salah gave a bombshell interview on Saturday after the draw to Leeds, claiming someone wants him to leave and that his relationship with Arne Slot had broken down Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Mo Salah: Liverpool forward unlikely to be in squad to face Inter Milan in Champions League after public outburst. https://www.skysports.com/football/news/12040/13480892/mo-salah-liverpool-forward-unlikely-to-be-in-squad-to-face-inter-milan-in-champions-league-after-public-outburst
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Woman handed four-year sentence for blackmailing footballer Son Heung-min
+**Slug (lower-third):** Woman handed four-year sentence for blackmailing football…  
+**When:** 2025-12-08 05:55 (America/Winnipeg)  •  **Published:** 2025-12-08 11:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Woman handed four-year sentence for blackmailing footballer Son Heung-min. The woman identified only as Yang extorted a sum equivalent to PS153,000 from the former Tottenham player, while a co-conspirator received a two-year sentence Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Woman handed four-year sentence for blackmailing footballer Son Heung-min. https://www.theguardian.com/football/2025/dec/08/woman-four-year-sentence-blackmailing-footballer-son-heung-min-seoul
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Son Heung-min: Woman who blackmailed Tottenham star gets four years' jail
+**Slug (lower-third):** Son Heung-min: Woman who blackmailed Tottenham star gets …  
+**When:** 2025-12-08 02:03 (America/Winnipeg)  •  **Published:** 2025-12-08 08:03 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Son Heung-min: Woman who blackmailed Tottenham star gets four years' jail. The woman claiming she was carrying the ex-Tottenham captain's child and extorted $200,000 from him. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Son Heung-min: Woman who blackmailed Tottenham star gets four years' jail. https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Wolves: Worse than Derby? Can Wolves avoid the unwanted Premier League record?
+**Slug (lower-third):** Wolves: Worse than Derby? Can Wolves avoid the unwanted P…  
+**When:** 2025-12-08 01:04 (America/Winnipeg)  •  **Published:** 2025-12-08 07:04 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Wolves: Worse than Derby? Can Wolves avoid the unwanted Premier League record?. Wolves have had a nightmare start to the Premier League season but can they avoid Derby's unwanted record? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Wolves: Worse than Derby? Can Wolves avoid the unwanted Premier League record?. https://www.bbc.com/sport/football/articles/cly0mr6n0gyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Today on Sky Sports Racing: Fontwell, Lingfield and Wolverhampton
+**Slug (lower-third):** Today on Sky Sports Racing: Fontwell, Lingfield and Wolve…  
+**When:** 2025-12-08 01:00 (America/Winnipeg)  •  **Published:** 2025-12-08 07:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Today on Sky Sports Racing: Fontwell, Lingfield and Wolverhampton. Young Endless heads to Lingfield Park on Monday in pursuit of a four-timer, having racked up three win at Southwell in November. We also have competitive action across both codes from Fontwell and Wolverhampton, live on Sky Sports Racing from 11.07am. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Today on Sky Sports Racing: Fontwell, Lingfield and Wolverhampton. https://www.skysports.com/racing/news/12040/13480298/today-on-sky-sports-racing-fontwell-lingfield-and-wolverhampton
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Football gossip: Salah, Semenyo, Mateta, Wharton, Ederson, Yildiz
 **Slug (lower-third):** Football gossip: Salah, Semenyo, Mateta, Wharton, Ederson…  
 **When:** 2025-12-07 15:58 (America/Winnipeg)  •  **Published:** 2025-12-07 21:58 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+**Virality score:** 84  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Salah, Semenyo, Mateta, Wharton, Ederson, Yildiz. Al Hilal are ready to offer Mohamed Salah a move away from Liverpool, who have already identified Bournemouth's Antoine Semenyo as his replacement. Relevance to standings and momentum.
@@ -158,103 +254,7 @@ Football gossip: Salah, Semenyo, Mateta, Wharton, Ederson, Yildiz. Al Hilal are 
 - bbc.com — Football gossip: Salah, Semenyo, Mateta, Wharton, Ederson, Yildiz. https://www.bbc.com/sport/football/articles/cp8z92rgy3mo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: James Maddison on MNF: Spurs midfielder to join Jamie Carragher for Wolves vs Man Utd and weekend talking points
-**Slug (lower-third):** James Maddison on MNF: Spurs midfielder to join Jamie Car…  
-**When:** 2025-12-07 15:25 (America/Winnipeg)  •  **Published:** 2025-12-07 21:25 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-James Maddison on MNF: Spurs midfielder to join Jamie Carragher for Wolves vs Man Utd and weekend talking points. Tottenham and England midfielder James Maddison joins Jamie Carragher on Monday Night Football to preview Wolves vs Man Utd and reflect on weekends Premier League talking points; watch MNF from 6.30pm on Sky Sports Premier League and Sky Sports Main Event, kick-off 8pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — James Maddison on MNF: Spurs midfielder to join Jamie Carragher for Wolves vs Man Utd and weekend talking points. https://www.skysports.com/football/news/12040/13480746/james-maddison-on-mnf-spurs-midfielder-to-join-jamie-carragher-for-wolves-vs-man-utd-and-weekend-talking-points
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Football Daily - Premier League Review: Salah throws grenade & Villa in title race? - BBC Sounds
-**Slug (lower-third):** Football Daily - Premier League Review: Salah throws gren…  
-**When:** 2025-12-07 15:02 (America/Winnipeg)  •  **Published:** 2025-12-07 21:02 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football Daily - Premier League Review: Salah throws grenade & Villa in title race? - BBC Sounds. James Gregg is joined by Andy Cole & Luke Edwards to talk Mo Salah & Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football Daily - Premier League Review: Salah throws grenade & Villa in title race? - BBC Sounds. https://www.bbc.co.uk/sounds/play/m002n95n?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League: Fulham 1-2 Crystal Palace highlights
-**Slug (lower-third):** Premier League: Fulham 1-2 Crystal Palace highlights  
-**When:** 2025-12-07 14:00 (America/Winnipeg)  •  **Published:** 2025-12-07 20:00 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: Fulham 1-2 Crystal Palace highlights. Crystal Palace captain Marc Guehi scores a late header for a 2-1 win against Fulham which moves them into the top four in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League: Fulham 1-2 Crystal Palace highlights. https://www.bbc.com/sport/football/videos/cgqzne2x87eo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League: Brighton & Hove Albion 1-1 West Ham United highlights
-**Slug (lower-third):** Premier League: Brighton & Hove Albion 1-1 West Ham Unite…  
-**When:** 2025-12-07 14:00 (America/Winnipeg)  •  **Published:** 2025-12-07 20:00 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: Brighton & Hove Albion 1-1 West Ham United highlights. Georginio Rutter scores a controversial equaliser for Brighton as they draw 1-1 to deny West Ham United the chance to escape the relegation zone. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League: Brighton & Hove Albion 1-1 West Ham United highlights. https://www.bbc.com/sport/football/videos/cvgjvp37w2wo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
