@@ -1,54 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-08 06:47 (America/Winnipeg)  |  2025-12-08 12:47 (UTC)
+**Generated:** 2025-12-08 12:35 (America/Winnipeg)  |  2025-12-08 18:35 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 30s
+**Estimated total video length:** ~4m 53s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- WSL talking points: Chelsea's historic run ended to give City breathing space
-- Mohamed Salah takes part in Liverpool training after outburst
-- Mo Salah: Liverpool forward unlikely to be in squad to face Inter Milan in Champions League after public outburst
-
----
-
-### Managerial Moves
-
-## Story 1: Best manager and best team - can Crystal Palace sustain special season?
-**Slug (lower-third):** Best manager and best team - can Crystal Palace sustain s…  
-**When:** 2025-12-07 15:47 (America/Winnipeg)  •  **Published:** 2025-12-07 21:47 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Best manager and best team - can Crystal Palace sustain special season?. Crystal Palace are enjoying their best ever season in the Premier League, but with questions behind the scenes, can they sustain the level to make it a special season? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Best manager and best team - can Crystal Palace sustain special season?. https://www.bbc.com/sport/football/articles/cpwkypx4gllo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- The Ashes: Jacob Bethell or Ollie Pope - should England make a change at No 3 for third Test in Adelaide?
+- Manchester United: Jonny Evans exits role as club's head of loans and pathways
+- Arsenal have suffered 93 injuries since start of last season as issue threatens trophy charge - Between the Lines
 
 ---
 
 ### Transfers
 
-## Story 2: Premier League: 10 talking points from the weekend's football
-**Slug (lower-third):** Premier League: 10 talking points from the weekend's foot…  
-**When:** 2025-12-08 02:00 (America/Winnipeg)  •  **Published:** 2025-12-08 08:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 1: Manchester United: Jonny Evans exits role as club's head of loans and pathways
+**Slug (lower-third):** Manchester United: Jonny Evans exits role as club's head …  
+**When:** 2025-12-08 11:44 (America/Winnipeg)  •  **Published:** 2025-12-08 17:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: 10 talking points from the weekend's football. Arsenal feel the effects of defensive injuries, Liverpool rue Ibrahima Konate's mistakes and Brentford struggle on the road Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Manchester United: Jonny Evans exits role as club's head of loans and pathways. Former Manchester United defender Jonny Evans leaves his role as the club's head of loans and pathways. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +31,59 @@ Premier League: 10 talking points from the weekend's football. Arsenal feel the 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League: 10 talking points from the weekend's football. https://www.theguardian.com/football/2025/dec/08/premier-league-10-talking-points-from-the-weekends-football
+- bbc.com — Manchester United: Jonny Evans exits role as club's head of loans and pathways. https://www.bbc.com/sport/football/articles/cg5medep3zqo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: Arsenal have suffered 93 injuries since start of last season as issue threatens trophy charge - Between the Lines
+**Slug (lower-third):** Arsenal have suffered 93 injuries since start of last sea…  
+**When:** 2025-12-08 10:30 (America/Winnipeg)  •  **Published:** 2025-12-08 16:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Arsenal have suffered 93 injuries since start of last season as issue threatens trophy charge - Between the Lines. Arsenal suffered a stoppage-time defeat to Aston Villa at Villa Park; Mikel Artetas side remain top in the Premier League and the Champions League but is their injury rate sustainable? This weeks Between the Lines takes a look at their injury issues Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal have suffered 93 injuries since start of last season as issue threatens trophy charge - Between the Lines. https://www.skysports.com/football/news/12040/13480954/arsenal-have-suffered-93-injuries-since-start-of-last-season-as-issue-threatens-trophy-charge-between-the-lines
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 3: The Ashes: Jacob Bethell or Ollie Pope - should England make a change at No 3 for third Test in Adelaide?
+**Slug (lower-third):** The Ashes: Jacob Bethell or Ollie Pope - should England m…  
+**When:** 2025-12-08 12:00 (America/Winnipeg)  •  **Published:** 2025-12-08 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+The Ashes: Jacob Bethell or Ollie Pope - should England make a change at No 3 for third Test in Adelaide?. Sky Sports Michael Atherton and Stuart Broad help make the case for and against England replacing Ollie Pope with Jacob Bethell at No 3 for the third Ashes Test in Adelaide; England trail Australia 2-0 after back-to-back eight-wicket drubbings in Perth and Brisbane Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — The Ashes: Jacob Bethell or Ollie Pope - should England make a change at No 3 for third Test in Adelaide?. https://www.skysports.com/cricket/news/12040/13480959/the-ashes-jacob-bethell-or-ollie-pope-should-england-make-a-change-at-no-3-for-third-test-in-adelaide
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,10 +94,130 @@ Premier League: 10 talking points from the weekend's football. Arsenal feel the 
 
 ### Club Updates
 
-## Story 3: WSL talking points: Chelsea's historic run ended to give City breathing space
+## Story 4: Premier League outbursts: 10 of the most iconic after Mohamed Salah interview
+**Slug (lower-third):** Premier League outbursts: 10 of the most iconic after Moh…  
+**When:** 2025-12-08 10:03 (America/Winnipeg)  •  **Published:** 2025-12-08 16:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League outbursts: 10 of the most iconic after Mohamed Salah interview. After Mohamed Salah's extraordinary interview about his Liverpool future, we have looked at some of the other big Premier League outbursts Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League outbursts: 10 of the most iconic after Mohamed Salah interview. https://www.bbc.com/sport/football/articles/c75vq60kw2po?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: FREE STREAM: Liverpool boss Arne Slot to face Mo Salah questions in first press conference since explosive interview
+**Slug (lower-third):** FREE STREAM: Liverpool boss Arne Slot to face Mo Salah qu…  
+**When:** 2025-12-08 09:59 (America/Winnipeg)  •  **Published:** 2025-12-08 15:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
+
+### Presenter Script (3–5 sentences)
+FREE STREAM: Liverpool boss Arne Slot to face Mo Salah questions in first press conference since explosive interview. Arne Slot speaks at 6.45pm UK and Ireland time ahead of Inter Milan vs Liverpool in the Champions League on Tuesday; Reds boss set to face questions over future of Mohamed Salah following forwards bombshell interview on Saturday, where he claimed he had been thrown under the bus Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — FREE STREAM: Liverpool boss Arne Slot to face Mo Salah questions in first press conference since explosive interview. https://www.skysports.com/football/news/12040/13481056/free-stream-liverpool-boss-arne-slot-to-face-mo-salah-questions-in-first-press-conference-since-explosive-interview
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: WSL: Women's Super League best goals starring Smith, Blackstenius
+**Slug (lower-third):** WSL: Women's Super League best goals starring Smith, Blac…  
+**When:** 2025-12-08 09:45 (America/Winnipeg)  •  **Published:** 2025-12-08 15:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+WSL: Women's Super League best goals starring Smith, Blackstenius. Arsenal stars Olivia Smith and Stina Balckstenius both feature in the best goals from the weekend's Women's Super League action. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — WSL: Women's Super League best goals starring Smith, Blackstenius. https://www.bbc.com/sport/football/videos/c04vqnqdl99o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Mo Salah: Liverpool leave forward out of squad to face Inter Milan but he avoids disciplinary action over comments
+**Slug (lower-third):** Mo Salah: Liverpool leave forward out of squad to face In…  
+**When:** 2025-12-08 09:30 (America/Winnipeg)  •  **Published:** 2025-12-08 15:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Mo Salah: Liverpool leave forward out of squad to face Inter Milan but he avoids disciplinary action over comments. Liverpool believe a brief period away from selection for Mohamed Salah is in the best interests of everyone after explosive interview; Egypt international to leave for AFCON on December 15 after Liverpools matches against Inter and Brighton which he hinted could be his last for the club Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Mo Salah: Liverpool leave forward out of squad to face Inter Milan but he avoids disciplinary action over comments. https://www.skysports.com/football/news/12040/13481025/mo-salah-liverpool-leave-forward-out-of-squad-to-face-inter-milan-but-he-avoids-disciplinary-action-over-comments
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Xabi Alonso: Why chances of survival at Real Madrid are slim
+**Slug (lower-third):** Xabi Alonso: Why chances of survival at Real Madrid are s…  
+**When:** 2025-12-08 09:13 (America/Winnipeg)  •  **Published:** 2025-12-08 15:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Xabi Alonso: Why chances of survival at Real Madrid are slim. Xabi Alonso's Real Madrid fate has not yet been decided, but Wednesday's Champions League game against Manchester City at the Bernabeu could prove crucial, writes Guillem Balague. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Xabi Alonso: Why chances of survival at Real Madrid are slim. https://www.bbc.com/sport/football/articles/c3w75qv0v2no?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: WSL talking points: Chelsea's historic run ended to give City breathing space
 **Slug (lower-third):** WSL talking points: Chelsea's historic run ended to give …  
 **When:** 2025-12-08 06:09 (America/Winnipeg)  •  **Published:** 2025-12-08 12:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 WSL talking points: Chelsea's historic run ended to give City breathing space. Manchester City show their resilience, Spurs eye the Champions League and Liverpool look to splash the cash Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -92,58 +238,10 @@ WSL talking points: Chelsea's historic run ended to give City breathing space. M
 
 ---
 
-## Story 4: Mohamed Salah takes part in Liverpool training after outburst
-**Slug (lower-third):** Mohamed Salah takes part in Liverpool training after outb…  
-**When:** 2025-12-08 06:03 (America/Winnipeg)  •  **Published:** 2025-12-08 12:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Mohamed Salah takes part in Liverpool training after outburst. Mohamed Salah takes part in Liverpool's training session on Monday following his explosive interview at the weekend. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Mohamed Salah takes part in Liverpool training after outburst. https://www.bbc.com/sport/football/articles/ckgmy2ejn4lo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Mo Salah: Liverpool forward unlikely to be in squad to face Inter Milan in Champions League after public outburst
-**Slug (lower-third):** Mo Salah: Liverpool forward unlikely to be in squad to fa…  
-**When:** 2025-12-08 06:00 (America/Winnipeg)  •  **Published:** 2025-12-08 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
-
-### Presenter Script (3–5 sentences)
-Mo Salah: Liverpool forward unlikely to be in squad to face Inter Milan in Champions League after public outburst. Mohamed Salah is unlikely to be included in Liverpools squad to face Inter Milan in the Champions League on Tuesday; Salah gave a bombshell interview on Saturday after the draw to Leeds, claiming someone wants him to leave and that his relationship with Arne Slot had broken down Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Mo Salah: Liverpool forward unlikely to be in squad to face Inter Milan in Champions League after public outburst. https://www.skysports.com/football/news/12040/13480892/mo-salah-liverpool-forward-unlikely-to-be-in-squad-to-face-inter-milan-in-champions-league-after-public-outburst
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Woman handed four-year sentence for blackmailing footballer Son Heung-min
+## Story 10: Woman handed four-year sentence for blackmailing footballer Son Heung-min
 **Slug (lower-third):** Woman handed four-year sentence for blackmailing football…  
 **When:** 2025-12-08 05:55 (America/Winnipeg)  •  **Published:** 2025-12-08 11:55 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Woman handed four-year sentence for blackmailing footballer Son Heung-min. The woman identified only as Yang extorted a sum equivalent to PS153,000 from the former Tottenham player, while a co-conspirator received a two-year sentence Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -159,102 +257,6 @@ Woman handed four-year sentence for blackmailing footballer Son Heung-min. The w
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Son Heung-min: Woman who blackmailed Tottenham star gets four years' jail
-**Slug (lower-third):** Son Heung-min: Woman who blackmailed Tottenham star gets …  
-**When:** 2025-12-08 02:03 (America/Winnipeg)  •  **Published:** 2025-12-08 08:03 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Son Heung-min: Woman who blackmailed Tottenham star gets four years' jail. The woman claiming she was carrying the ex-Tottenham captain's child and extorted $200,000 from him. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Son Heung-min: Woman who blackmailed Tottenham star gets four years' jail. https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Wolves: Worse than Derby? Can Wolves avoid the unwanted Premier League record?
-**Slug (lower-third):** Wolves: Worse than Derby? Can Wolves avoid the unwanted P…  
-**When:** 2025-12-08 01:04 (America/Winnipeg)  •  **Published:** 2025-12-08 07:04 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Wolves: Worse than Derby? Can Wolves avoid the unwanted Premier League record?. Wolves have had a nightmare start to the Premier League season but can they avoid Derby's unwanted record? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Wolves: Worse than Derby? Can Wolves avoid the unwanted Premier League record?. https://www.bbc.com/sport/football/articles/cly0mr6n0gyo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Today on Sky Sports Racing: Fontwell, Lingfield and Wolverhampton
-**Slug (lower-third):** Today on Sky Sports Racing: Fontwell, Lingfield and Wolve…  
-**When:** 2025-12-08 01:00 (America/Winnipeg)  •  **Published:** 2025-12-08 07:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Fontwell, Lingfield and Wolverhampton. Young Endless heads to Lingfield Park on Monday in pursuit of a four-timer, having racked up three win at Southwell in November. We also have competitive action across both codes from Fontwell and Wolverhampton, live on Sky Sports Racing from 11.07am. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Fontwell, Lingfield and Wolverhampton. https://www.skysports.com/racing/news/12040/13480298/today-on-sky-sports-racing-fontwell-lingfield-and-wolverhampton
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Football gossip: Salah, Semenyo, Mateta, Wharton, Ederson, Yildiz
-**Slug (lower-third):** Football gossip: Salah, Semenyo, Mateta, Wharton, Ederson…  
-**When:** 2025-12-07 15:58 (America/Winnipeg)  •  **Published:** 2025-12-07 21:58 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Salah, Semenyo, Mateta, Wharton, Ederson, Yildiz. Al Hilal are ready to offer Mohamed Salah a move away from Liverpool, who have already identified Bournemouth's Antoine Semenyo as his replacement. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Salah, Semenyo, Mateta, Wharton, Ederson, Yildiz. https://www.bbc.com/sport/football/articles/cp8z92rgy3mo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
