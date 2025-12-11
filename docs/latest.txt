@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-10 19:49 (America/Winnipeg)  |  2025-12-11 01:49 (UTC)
+**Generated:** 2025-12-11 00:37 (America/Winnipeg)  |  2025-12-11 06:37 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 30s
+**Estimated total video length:** ~3m 22s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
+- Tottenham players including Beth England admit their confessions
+- Champions League highlights: Club Brugge 0-3 Arsenal
 - Newcastle: History repeats itself as Magpies concede another late goal
-- Chelsea share the goals around in 'real team performance' against Roma
-- Xabi Alonso: Real Madrid boss granted stay of execution after loss
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Real Madrid show fight but another setback leaves Xabi Alonso's future on knife-edge | Sid Lowe
 **Slug (lower-third):** Real Madrid show fight but another setback leaves Xabi Al…  
 **When:** 2025-12-10 17:53 (America/Winnipeg)  •  **Published:** 2025-12-10 23:53 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Real Madrid show fight but another setback leaves Xabi Alonso's future on knife-edge | Sid Lowe. The hosts battled against Manchester City but a second successive home defeat pushes manager towards exit Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -40,13 +40,15 @@ Real Madrid show fight but another setback leaves Xabi Alonso's future on knife-
 
 ---
 
-## Story 2: Champions League: Mikel Arteta on Madueke and Arsenal Performance
-**Slug (lower-third):** Champions League: Mikel Arteta on Madueke and Arsenal Per…  
-**When:** 2025-12-10 17:10 (America/Winnipeg)  •  **Published:** 2025-12-10 23:10 (UTC)  
+### Club Updates
+
+## Story 2: Tottenham players including Beth England admit their confessions
+**Slug (lower-third):** Tottenham players including Beth England admit their conf…  
+**When:** 2025-12-11 00:26 (America/Winnipeg)  •  **Published:** 2025-12-11 06:26 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League: Mikel Arteta on Madueke and Arsenal Performance. Arsenal manager Mikel Arteta says that Noni Madueke's first goal was "unbelievable" in their 3-0 defeat against Club Brugge. Relevance to standings and momentum.
+Tottenham players including Beth England admit their confessions. Tottenham players including Bethany England, Kit Graham, Jessica Naz and Lena Gunning-Williams share their confessions, including unpopular opinions and their team-mate icks. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +57,7 @@ Champions League: Mikel Arteta on Madueke and Arsenal Performance. Arsenal manag
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League: Mikel Arteta on Madueke and Arsenal Performance. https://www.bbc.com/sport/football/videos/cly1g14jjj6o?at_medium=RSS&at_campaign=rss
+- bbc.com — Tottenham players including Beth England admit their confessions. https://www.bbc.com/sport/football/videos/c20gxr5w05vo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,12 +66,35 @@ Champions League: Mikel Arteta on Madueke and Arsenal Performance. Arsenal manag
 
 ---
 
-### Club Updates
+## Story 3: Champions League highlights: Club Brugge 0-3 Arsenal
+**Slug (lower-third):** Champions League highlights: Club Brugge 0-3 Arsenal  
+**When:** 2025-12-10 16:10 (America/Winnipeg)  •  **Published:** 2025-12-10 22:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
-## Story 3: Newcastle: History repeats itself as Magpies concede another late goal
+### Presenter Script (3–5 sentences)
+Champions League highlights: Club Brugge 0-3 Arsenal. Noni Madueke scores twice and Gabriel Martinelli scores a third for Arsenal to beat Club Brugge 3-0 and maintain their Champions League winning streak. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Champions League highlights: Club Brugge 0-3 Arsenal. https://www.bbc.com/sport/football/videos/cj9ywpx2pv2o?at_medium=RSS&at_campaign=rss
+- skysports.com — Club Brugge 0-3 Arsenal: Noni Madueke and Gabriel Martinelli stunners keep perfect Champions League record intact for Gunners. https://www.skysports.com/football/club-brugge-vs-arsenal/report/548014
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Newcastle: History repeats itself as Magpies concede another late goal
 **Slug (lower-third):** Newcastle: History repeats itself as Magpies concede anot…  
 **When:** 2025-12-10 18:33 (America/Winnipeg)  •  **Published:** 2025-12-11 00:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Newcastle: History repeats itself as Magpies concede another late goal. Newcastle United show immense spirit to come from behind against Bayer Leverkusen only to concede another late goal. Relevance to standings and momentum.
@@ -90,10 +115,10 @@ Newcastle: History repeats itself as Magpies concede another late goal. Newcastl
 
 ---
 
-## Story 4: Chelsea share the goals around in 'real team performance' against Roma
+## Story 5: Chelsea share the goals around in 'real team performance' against Roma
 **Slug (lower-third):** Chelsea share the goals around in 'real team performance'…  
 **When:** 2025-12-10 18:25 (America/Winnipeg)  •  **Published:** 2025-12-11 00:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Chelsea share the goals around in 'real team performance' against Roma. Five players wrote their names on the scoresheet as Chelsea saw off Roma in the Women's Champions League. Relevance to standings and momentum.
@@ -114,10 +139,10 @@ Chelsea share the goals around in 'real team performance' against Roma. Five pla
 
 ---
 
-## Story 5: Xabi Alonso: Real Madrid boss granted stay of execution after loss
+## Story 6: Xabi Alonso: Real Madrid boss granted stay of execution after loss
 **Slug (lower-third):** Xabi Alonso: Real Madrid boss granted stay of execution a…  
 **When:** 2025-12-10 18:13 (America/Winnipeg)  •  **Published:** 2025-12-11 00:13 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Xabi Alonso: Real Madrid boss granted stay of execution after loss. The deafening jeers that greeted former Barcelona boss Pep Guardiola before kick-off turned into away-fan cheers thanks to Manchester City's fine victory. Relevance to standings and momentum.
@@ -138,10 +163,10 @@ Xabi Alonso: Real Madrid boss granted stay of execution after loss. The deafenin
 
 ---
 
-## Story 6: Club Brugge 0-3 Arsenal: Can Noni Madueke find consistency?
+## Story 7: Club Brugge 0-3 Arsenal: Can Noni Madueke find consistency?
 **Slug (lower-third):** Club Brugge 0-3 Arsenal: Can Noni Madueke find consistenc…  
 **When:** 2025-12-10 18:07 (America/Winnipeg)  •  **Published:** 2025-12-11 00:07 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Club Brugge 0-3 Arsenal: Can Noni Madueke find consistency?. Noni Madueke might reflect on the Champions League win at Club Brugge as a landmark night in his Arsenal career - but can he find consistency? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -162,10 +187,10 @@ Club Brugge 0-3 Arsenal: Can Noni Madueke find consistency?. Noni Madueke might 
 
 ---
 
-## Story 7: Man Utd 0-3 Lyon: Humbled by Lyon - but key lessons learned
+## Story 8: Man Utd 0-3 Lyon: Humbled by Lyon - but key lessons learned
 **Slug (lower-third):** Man Utd 0-3 Lyon: Humbled by Lyon - but key lessons learn…  
 **When:** 2025-12-10 17:55 (America/Winnipeg)  •  **Published:** 2025-12-10 23:55 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man Utd 0-3 Lyon: Humbled by Lyon - but key lessons learned. Manchester United were given a demonstration of what it takes to be Europe's best on Wednesday night - but Marc Skinner hopes his side can learn from it. Relevance to standings and momentum.
@@ -186,10 +211,10 @@ Man Utd 0-3 Lyon: Humbled by Lyon - but key lessons learned. Manchester United w
 
 ---
 
-## Story 8: Man City far away from winning Champions League, says Pep Guardiola despite beating Real Madrid
+## Story 9: Man City far away from winning Champions League, says Pep Guardiola despite beating Real Madrid
 **Slug (lower-third):** Man City far away from winning Champions League, says Pep…  
 **When:** 2025-12-10 17:00 (America/Winnipeg)  •  **Published:** 2025-12-10 23:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
+**Virality score:** 94  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
 Man City far away from winning Champions League, says Pep Guardiola despite beating Real Madrid. Man City up to fourth in Champions League league phase table after win over Real Madrid; City are third favourites to win Europes top prize but Pep Guardiola has dampened expectations Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -210,10 +235,10 @@ Man City far away from winning Champions League, says Pep Guardiola despite beat
 
 ---
 
-## Story 9: Football gossip: Clayton, Zirkzee, Guendouzi, Konate, Oxlade-Chamberlain
+## Story 10: Football gossip: Clayton, Zirkzee, Guendouzi, Konate, Oxlade-Chamberlain
 **Slug (lower-third):** Football gossip: Clayton, Zirkzee, Guendouzi, Konate, Oxl…  
 **When:** 2025-12-10 16:52 (America/Winnipeg)  •  **Published:** 2025-12-10 22:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Clayton, Zirkzee, Guendouzi, Konate, Oxlade-Chamberlain. West Ham are watching Clayton, Roma open negotiations over Joshua Zirkzee, Sunderland bid for Matteo Guendouzi, plus more. Relevance to standings and momentum.
@@ -226,30 +251,6 @@ Football gossip: Clayton, Zirkzee, Guendouzi, Konate, Oxlade-Chamberlain. West H
 
 ### Sources
 - bbc.com — Football gossip: Clayton, Zirkzee, Guendouzi, Konate, Oxlade-Chamberlain. https://www.bbc.com/sport/football/articles/c0mpx80xwg2o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Mohamed Salah: Liverpool not planning farewell for star as Wirtz animosity revealed - Paper talk and football gossip
-**Slug (lower-third):** Mohamed Salah: Liverpool not planning farewell for star a…  
-**When:** 2025-12-10 16:40 (America/Winnipeg)  •  **Published:** 2025-12-10 22:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Mohamed Salah: Liverpool not planning farewell for star as Wirtz animosity revealed - Paper talk and football gossip. Headlines from Thursdays papers as Mohamed Salahs frustrations with Florian Wirtz comes to light; Liverpool are not planning a formal farewell for Salah; Jurgen Klopp has reached an aggreement with Red Bull to leave if Real Madrid want him to replace Xabi Alonso Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Mohamed Salah: Liverpool not planning farewell for star as Wirtz animosity revealed - Paper talk and football gossip. https://www.skysports.com/football/news/12040/13481892/mohamed-salah-liverpool-not-planning-farewell-for-star-as-wirtz-animosity-revealed-paper-talk-and-football-gossip
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
