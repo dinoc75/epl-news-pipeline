@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-12 00:36 (America/Winnipeg)  |  2025-12-12 06:36 (UTC)
+**Generated:** 2025-12-12 06:48 (America/Winnipeg)  |  2025-12-12 12:48 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~3m 24s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Wayne Rooney says he got death threats when he left Everton for Manchester United.
-- Premier League: 10 things to look out for this weekend
-- Mohamed Salah: MLS chief urges Liverpool star to speak to Lionel Messi about United States move - Paper talk and football gossip
+- FA Cup third round: BBC to show Macclesfield-Crystal Palace & Spurs-Aston Villa ties
+- WSL Highlights: Aston Villa 3-0 Liverpool
+- 'Mo has misjudged the mood': five Liverpool fans on the Salah saga
 
 ---
 
 ### Managerial Moves
 
-## Story 1: WSL: Liverpool defeat at Aston Villa 'reality check', says boss Gareth Taylor
-**Slug (lower-third):** WSL: Liverpool defeat at Aston Villa 'reality check', say…  
-**When:** 2025-12-11 16:49 (America/Winnipeg)  •  **Published:** 2025-12-11 22:49 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 1: Newport manager Christian Fuchs: 'I'm pretty stubborn. If I see potential, I'm doing it'
+**Slug (lower-third):** Newport manager Christian Fuchs: 'I'm pretty stubborn. If…  
+**When:** 2025-12-12 04:05 (America/Winnipeg)  •  **Published:** 2025-12-12 10:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL: Liverpool defeat at Aston Villa 'reality check', says boss Gareth Taylor. Under-pressure Liverpool manager Gareth Taylor says his side have had a "real reality check" as their winless start to the Women's Super League season continues. Relevance to standings and momentum.
+Newport manager Christian Fuchs: 'I'm pretty stubborn. If I see potential, I'm doing it'. The former Leicester title winner on embracing his new challenge at the EFL's bottom club, and what he learned from Ranieri and Tuchel Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ WSL: Liverpool defeat at Aston Villa 'reality check', says boss Gareth Taylor. U
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL: Liverpool defeat at Aston Villa 'reality check', says boss Gareth Taylor. https://www.bbc.com/sport/football/articles/cev8894x9z9o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Newport manager Christian Fuchs: 'I'm pretty stubborn. If I see potential, I'm doing it'. https://www.theguardian.com/football/2025/dec/12/christian-fuchs-newport-manager-leicester-ranieri-tuchel-interview
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,13 @@ WSL: Liverpool defeat at Aston Villa 'reality check', says boss Gareth Taylor. U
 
 ### Transfers
 
-## Story 2: Mohamed Salah: MLS chief urges Liverpool star to speak to Lionel Messi about United States move - Paper talk and football gossip
-**Slug (lower-third):** Mohamed Salah: MLS chief urges Liverpool star to speak to…  
-**When:** 2025-12-11 17:00 (America/Winnipeg)  •  **Published:** 2025-12-11 23:00 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~29s
+## Story 2: Inside Brighton: Dario Vidosic gives a behind-the-scenes look at Seagulls camp ahead of Chelsea showdown
+**Slug (lower-third):** Inside Brighton: Dario Vidosic gives a behind-the-scenes …  
+**When:** 2025-12-12 04:00 (America/Winnipeg)  •  **Published:** 2025-12-12 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Mohamed Salah: MLS chief urges Liverpool star to speak to Lionel Messi about United States move - Paper talk and football gossip. Headlines from Fridays papers as Mohamed Salah is urged to speak to Lionel Messi about what life is like in the MLS; Salah is spotted with former Liverpool team-mate Jordan Henderson amid uncertainty at Anfield; Yves Bissouma could see his Tottenham contract extended Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Inside Brighton: Dario Vidosic gives a behind-the-scenes look at Seagulls camp ahead of Chelsea showdown. Dario Vidosic takes Sky Sports behind the scenes of his Brighton machine to understand his coaching methods and talks ambitions to become future champions as well as January transfer plans; watch Brighton vs Chelsea live on Sky Sports Football on Sunday; kick-off 11.55am Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,7 @@ Mohamed Salah: MLS chief urges Liverpool star to speak to Lionel Messi about Uni
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Mohamed Salah: MLS chief urges Liverpool star to speak to Lionel Messi about United States move - Paper talk and football gossip. https://www.skysports.com/football/news/12040/13482365/mohamed-salah-mls-chief-urges-liverpool-star-to-speak-to-lionel-messi-about-united-states-move-paper-talk-and-football-gossip
+- skysports.com — Inside Brighton: Dario Vidosic gives a behind-the-scenes look at Seagulls camp ahead of Chelsea showdown. https://www.skysports.com/football/news/12040/13482164/inside-brighton-dario-vidosic-gives-a-behind-the-scenes-look-at-seagulls-camp-ahead-of-chelsea-showdown
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +66,15 @@ Mohamed Salah: MLS chief urges Liverpool star to speak to Lionel Messi about Uni
 
 ---
 
-## Story 3: Wolves: Club made transfer mistakes in Premier League survival fight
-**Slug (lower-third):** Wolves: Club made transfer mistakes in Premier League sur…  
-**When:** 2025-12-11 14:34 (America/Winnipeg)  •  **Published:** 2025-12-11 20:34 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+### Injuries
+
+## Story 3: Everton: How Kiernan Dewsbury-Hall is thriving after Chelsea exit
+**Slug (lower-third):** Everton: How Kiernan Dewsbury-Hall is thriving after Chel…  
+**When:** 2025-12-12 03:30 (America/Winnipeg)  •  **Published:** 2025-12-12 09:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wolves: Club made transfer mistakes in Premier League survival fight. Wolves got their transfer business "wrong" in the summer, says technical director Matt Jackson - while under-fire executive chairman Jeff Shi empathises with protesting fans. Implications for the squad and table.
+Everton: How Kiernan Dewsbury-Hall is thriving after Chelsea exit. Midfielder Kiernan Dewsbury-Hall returns to Stamford Bridge on Saturday in outstanding form as Everton look to leapfrog Chelsea in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +83,7 @@ Wolves: Club made transfer mistakes in Premier League survival fight. Wolves got
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Wolves: Club made transfer mistakes in Premier League survival fight. https://www.bbc.com/sport/football/articles/cpd62wgjx9do?at_medium=RSS&at_campaign=rss
+- bbc.com — Everton: How Kiernan Dewsbury-Hall is thriving after Chelsea exit. https://www.bbc.com/sport/football/articles/cly3klev5leo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +94,13 @@ Wolves: Club made transfer mistakes in Premier League survival fight. Wolves got
 
 ### Club Updates
 
-## Story 4: Wayne Rooney says he got death threats when he left Everton for Manchester United.
-**Slug (lower-third):** Wayne Rooney says he got death threats when he left Evert…  
-**When:** 2025-12-12 00:26 (America/Winnipeg)  •  **Published:** 2025-12-12 06:26 (UTC)  
+## Story 4: FA Cup third round: BBC to show Macclesfield-Crystal Palace & Spurs-Aston Villa ties
+**Slug (lower-third):** FA Cup third round: BBC to show Macclesfield-Crystal Pala…  
+**When:** 2025-12-12 06:30 (America/Winnipeg)  •  **Published:** 2025-12-12 12:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wayne Rooney says he got death threats when he left Everton for Manchester United.. Former England striker Wayne Rooney says he received death threats when he made the move from boyhood club Everton to Manchester United in 2004. Relevance to standings and momentum.
+FA Cup third round: BBC to show Macclesfield-Crystal Palace & Spurs-Aston Villa ties. Non-league Macclesfield's FA Cup third round tie with holders Crystal Palace will be televised live on BBC One on Saturday, 10 January (12:15 GMT kick-off). Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +109,7 @@ Wayne Rooney says he got death threats when he left Everton for Manchester Unite
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Wayne Rooney says he got death threats when he left Everton for Manchester United.. https://www.bbc.com/sport/football/articles/cwyllw168vlo?at_medium=RSS&at_campaign=rss
+- bbc.com — FA Cup third round: BBC to show Macclesfield-Crystal Palace & Spurs-Aston Villa ties. https://www.bbc.com/sport/football/articles/cp8ze8qv0ego?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +118,13 @@ Wayne Rooney says he got death threats when he left Everton for Manchester Unite
 
 ---
 
-## Story 5: Premier League: 10 things to look out for this weekend
-**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
-**When:** 2025-12-11 18:00 (America/Winnipeg)  •  **Published:** 2025-12-12 00:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 5: WSL Highlights: Aston Villa 3-0 Liverpool
+**Slug (lower-third):** WSL Highlights: Aston Villa 3-0 Liverpool  
+**When:** 2025-12-12 06:00 (America/Winnipeg)  •  **Published:** 2025-12-12 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: 10 things to look out for this weekend. Gabriel Jesus is looking to impress, Daniel Munoz is tough to replace and is this the end for Mohamed Salah at Liverpool? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+WSL Highlights: Aston Villa 3-0 Liverpool. Rachel Daly scores her first two goals of the season, including one in the first 27 seconds of the match, as Aston Villa beat Liverpool 3-0 in the Women's Super League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +133,7 @@ Premier League: 10 things to look out for this weekend. Gabriel Jesus is looking
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2025/dec/12/premier-league-10-things-to-look-out-for-this-weekend
+- bbc.com — WSL Highlights: Aston Villa 3-0 Liverpool. https://www.bbc.com/sport/football/videos/czrkk6zn33zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +142,13 @@ Premier League: 10 things to look out for this weekend. Gabriel Jesus is looking
 
 ---
 
-## Story 6: Igor Jesus: Super sub ends Nottingham Forest's long way for away win in Europe
-**Slug (lower-third):** Igor Jesus: Super sub ends Nottingham Forest's long way f…  
-**When:** 2025-12-11 16:03 (America/Winnipeg)  •  **Published:** 2025-12-11 22:03 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 6: 'Mo has misjudged the mood': five Liverpool fans on the Salah saga
+**Slug (lower-third):** 'Mo has misjudged the mood': five Liverpool fans on the S…  
+**When:** 2025-12-12 06:00 (America/Winnipeg)  •  **Published:** 2025-12-12 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Igor Jesus: Super sub ends Nottingham Forest's long way for away win in Europe. Igor Jesus took just 82 seconds to end Nottingham Forest's 30-year wait for an away win in Europe - and celebrated in increasingly familiar style. Relevance to standings and momentum.
+'Mo has misjudged the mood': five Liverpool fans on the Salah saga. We ask supporters for their take on the Egyptian's standoff with the club before Saturday's game against Brighton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +157,7 @@ Igor Jesus: Super sub ends Nottingham Forest's long way for away win in Europe. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Igor Jesus: Super sub ends Nottingham Forest's long way for away win in Europe. https://www.bbc.com/sport/football/articles/cn0kkep2gjro?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'Mo has misjudged the mood': five Liverpool fans on the Salah saga. https://www.theguardian.com/football/2025/dec/12/liverpool-fans-mohamed-salah-saga
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +166,13 @@ Igor Jesus: Super sub ends Nottingham Forest's long way for away win in Europe. 
 
 ---
 
-## Story 7: Basel 1-2 Aston Villa: Youri Tielemans comes off the bench to give Unai Emery's side important Europa League victory
-**Slug (lower-third):** Basel 1-2 Aston Villa: Youri Tielemans comes off the benc…  
-**When:** 2025-12-11 16:00 (America/Winnipeg)  •  **Published:** 2025-12-11 22:00 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 7: Mohamed Sala: Arne Slot to hold talks with Liverpool forward on Friday
+**Slug (lower-third):** Mohamed Sala: Arne Slot to hold talks with Liverpool forw…  
+**When:** 2025-12-12 05:13 (America/Winnipeg)  •  **Published:** 2025-12-12 11:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Basel 1-2 Aston Villa: Youri Tielemans comes off the bench to give Unai Emery's side important Europa League victory. Super-sub Youri Tielemans proved to be the difference maker as his goal eight minutes after coming on handed Aston Villa an important Europa League win over Basel. Relevance to standings and momentum.
+Mohamed Sala: Arne Slot to hold talks with Liverpool forward on Friday. Liverpool boss Arne Slot says there are "no reasons to not want Mohamed Salah to stay" at the club and will hold further talks with the forward on Friday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +181,7 @@ Basel 1-2 Aston Villa: Youri Tielemans comes off the bench to give Unai Emery's 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Basel 1-2 Aston Villa: Youri Tielemans comes off the bench to give Unai Emery's side important Europa League victory. https://www.skysports.com/football/basel-vs-aston-villa/report/548145
+- bbc.com — Mohamed Sala: Arne Slot to hold talks with Liverpool forward on Friday. https://www.bbc.com/sport/football/videos/c4gppz0j8gdo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +190,13 @@ Basel 1-2 Aston Villa: Youri Tielemans comes off the bench to give Unai Emery's 
 
 ---
 
-## Story 8: Crystal Palace climb Conference League table as Uche sparks Shelbourne stroll
-**Slug (lower-third):** Crystal Palace climb Conference League table as Uche spar…  
-**When:** 2025-12-11 16:00 (America/Winnipeg)  •  **Published:** 2025-12-11 22:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 8: Alex Scott: Bournemouth midfielder on breakthrough season, England call-up and hopes for the future
+**Slug (lower-third):** Alex Scott: Bournemouth midfielder on breakthrough season…  
+**When:** 2025-12-12 04:00 (America/Winnipeg)  •  **Published:** 2025-12-12 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace climb Conference League table as Uche sparks Shelbourne stroll. First-half goals from Christantus Uche, Eddie Nketiah and Yeremy Pino boosted Crystal Palace's hopes of Conference League progress in Dublin Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Alex Scott: Bournemouth midfielder on breakthrough season, England call-up and hopes for the future. Alex Scott has started in 14 of Bournemouths 15 Premier League games this season, and earned his first England call-up; watch Man Utd vs Bournemouth on Monday Night Football live on Sky Sports from 6.30pm; kick-off 8pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +205,7 @@ Crystal Palace climb Conference League table as Uche sparks Shelbourne stroll. F
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Crystal Palace climb Conference League table as Uche sparks Shelbourne stroll. https://www.theguardian.com/football/2025/dec/11/shelbourne-crystal-palace-conference-league-match-report
+- skysports.com — Alex Scott: Bournemouth midfielder on breakthrough season, England call-up and hopes for the future. https://www.skysports.com/football/news/12040/13480968/alex-scott-bournemouth-midfielder-on-breakthrough-season-england-call-up-and-hopes-for-the-future
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +214,13 @@ Crystal Palace climb Conference League table as Uche sparks Shelbourne stroll. F
 
 ---
 
-## Story 9: Europa League roundup: Forest win late at Utrecht, Rangers lose to Ferencvaros
-**Slug (lower-third):** Europa League roundup: Forest win late at Utrecht, Ranger…  
-**When:** 2025-12-11 14:37 (America/Winnipeg)  •  **Published:** 2025-12-11 20:37 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 9: Arne Slot and Mo Salah to hold talks about future | 'I have no reason to not want him to stay'
+**Slug (lower-third):** Arne Slot and Mo Salah to hold talks about future | 'I ha…  
+**When:** 2025-12-12 03:33 (America/Winnipeg)  •  **Published:** 2025-12-12 09:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Europa League roundup: Forest win late at Utrecht, Rangers lose to Ferencvaros. A late goal from Igor Jesus secured Nottingham Forest a 2-1 win in Utrecht and boosted their hopes of a top-eight finish in the Europa League group phase. Relevance to standings and momentum.
+Arne Slot and Mo Salah to hold talks about future | 'I have no reason to not want him to stay'. Arne Slot revealed that he will hold talks with Mo Salah regarding his future at Liverpool after he was left out of the squad for the Champions League tie against Inter Milan. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +229,7 @@ Europa League roundup: Forest win late at Utrecht, Rangers lose to Ferencvaros. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Europa League roundup: Forest win late at Utrecht, Rangers lose to Ferencvaros. https://www.theguardian.com/football/2025/dec/11/europa-league-roundup-forest-win-late-at-utrecht-rangers-lose-to-ferencvaros
+- skysports.com — Arne Slot and Mo Salah to hold talks about future | 'I have no reason to not want him to stay'. https://www.skysports.com/watch/video/13482470/arne-slot-and-mo-salah-to-hold-talks-about-future-i-have-no-reason-to-not-want-him-to-stay
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +238,13 @@ Europa League roundup: Forest win late at Utrecht, Rangers lose to Ferencvaros. 
 
 ---
 
-## Story 10: Marcus Rashford says he finds nothing 'a pressure' at Barcelona
-**Slug (lower-third):** Marcus Rashford says he finds nothing 'a pressure' at Bar…  
-**When:** 2025-12-11 14:16 (America/Winnipeg)  •  **Published:** 2025-12-11 20:16 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 10: Fantasy Premier League: Captain Bukayo Saka? The FPL talking point
+**Slug (lower-third):** Fantasy Premier League: Captain Bukayo Saka? The FPL talk…  
+**When:** 2025-12-12 01:18 (America/Winnipeg)  •  **Published:** 2025-12-12 07:18 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Marcus Rashford says he finds nothing 'a pressure' at Barcelona. Marcus Rashford says he finds nothing at Barcelona "a pressure" and is at the club to "enjoy myself" as he continues to thrive since his move from Manchester United. Relevance to standings and momentum.
+Fantasy Premier League: Captain Bukayo Saka? The FPL talking point. With Premier League leaders Arsenal hosting bottom club Wolves, is it time to captain Bukayo Saka in your fantasy football team? Our FPL experts give their views. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +253,7 @@ Marcus Rashford says he finds nothing 'a pressure' at Barcelona. Marcus Rashford
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Marcus Rashford says he finds nothing 'a pressure' at Barcelona. https://www.bbc.com/sport/football/articles/cwyln8xxx80o?at_medium=RSS&at_campaign=rss
+- bbc.com — Fantasy Premier League: Captain Bukayo Saka? The FPL talking point. https://www.bbc.com/sport/football/articles/crk7l6dym68o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
