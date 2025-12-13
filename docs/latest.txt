@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-13 06:42 (America/Winnipeg)  |  2025-12-13 12:42 (UTC)
+**Generated:** 2025-12-13 12:29 (America/Winnipeg)  |  2025-12-13 18:29 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 28s
+**Estimated total video length:** ~3m 20s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Everton vs Arsenal: Katie McCabe smashes home stunning half-volley!
-- Sunderland and Newcastle steeled for resumption of football's 'most intense derby'
-- Noah Okafor: Leeds forward determined to keep club in Premier League beyond 2025/26 season
+- Liverpool 2-0 Brighton & Hove Albion: Fabian Hurzeler
+- Mohamed Salah: Liverpool forward makes first-half return against Brighton
+- Chelsea 2-0 Everton: Moyes post match interview and reaction
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Premier League: Why have managers stopped wearing suits?
-**Slug (lower-third):** Premier League: Why have managers stopped wearing suits?  
-**When:** 2025-12-13 03:29 (America/Winnipeg)  •  **Published:** 2025-12-13 09:29 (UTC)  
+## Story 1: Liverpool 2-0 Brighton & Hove Albion: Fabian Hurzeler
+**Slug (lower-third):** Liverpool 2-0 Brighton & Hove Albion: Fabian Hurzeler  
+**When:** 2025-12-13 12:15 (America/Winnipeg)  •  **Published:** 2025-12-13 18:15 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Why have managers stopped wearing suits?. BBC Sport's Ask Me Anything team look at why managers have traded suits for tracksuits in the Premier League. Relevance to standings and momentum.
+Liverpool 2-0 Brighton & Hove Albion: Fabian Hurzeler. A frustrated Fabian Hurzeler says that the goals conceded in his sides 2-0 loss away to Liverpool in the Premier League were "definitely avoidable." The Brighton manager wants improvements in the way his team starts games, as well as defending set-pieces. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,57 @@ Premier League: Why have managers stopped wearing suits?. BBC Sport's Ask Me Any
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: Why have managers stopped wearing suits?. https://www.bbc.com/sport/football/articles/cm2lkv2l3m5o?at_medium=RSS&at_campaign=rss
+- bbc.com — Liverpool 2-0 Brighton & Hove Albion: Fabian Hurzeler. https://www.bbc.com/sport/football/videos/cx2g04py12no?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Chelsea 2-0 Everton: Moyes post match interview and reaction
+**Slug (lower-third):** Chelsea 2-0 Everton: Moyes post match interview and react…  
+**When:** 2025-12-13 12:09 (America/Winnipeg)  •  **Published:** 2025-12-13 18:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea 2-0 Everton: Moyes post match interview and reaction. Everton boss David Moyes says it was a disappointing result but it "certainly wasn't a disappointing performance" from his side in their 2-0 defeat to Chelsea. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Chelsea 2-0 Everton: Moyes post match interview and reaction. https://www.bbc.com/sport/football/videos/crl958jl4neo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Norwich vs Southampton: Huge controversy! Norwich take the lead... through 'clear handball'!
+**Slug (lower-third):** Norwich vs Southampton: Huge controversy! Norwich take th…  
+**When:** 2025-12-13 07:54 (America/Winnipeg)  •  **Published:** 2025-12-13 13:54 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Norwich vs Southampton: Huge controversy! Norwich take the lead... through 'clear handball'!. Southampton will feel aggrieved after the ball seemed to make contact with Jovon Makamas hand for his second goal. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Norwich vs Southampton: Huge controversy! Norwich take the lead... through 'clear handball'!. https://www.skysports.com/watch/video/13482866/norwich-vs-southampton-huge-controversy-norwich-take-the-lead-through-clear-handball
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +92,13 @@ Premier League: Why have managers stopped wearing suits?. BBC Sport's Ask Me Any
 
 ### Injuries
 
-## Story 2: Today on Sky Sports Racing: Doncaster, Lingfield, Newcastle and Wolverhampton feature live on Saturday
-**Slug (lower-third):** Today on Sky Sports Racing: Doncaster, Lingfield, Newcast…  
-**When:** 2025-12-13 01:00 (America/Winnipeg)  •  **Published:** 2025-12-13 07:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~24s
+## Story 4: Mohamed Salah: Liverpool forward makes first-half return against Brighton
+**Slug (lower-third):** Mohamed Salah: Liverpool forward makes first-half return …  
+**When:** 2025-12-13 12:10 (America/Winnipeg)  •  **Published:** 2025-12-13 18:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Doncaster, Lingfield, Newcastle and Wolverhampton feature live on Saturday. In Saturdays feature on Sky Sports Racing, Kateira could prove to be the class act as she looks to return to winning ways in Listed company at Doncaster; we also have competitive Flat action from Lingfield, Newcastle, Wolverhampton and Deauville, live on Sky Sports Racing from 11.42am Relevance to standings and momentum.
+Mohamed Salah: Liverpool forward makes first-half return against Brighton. Liverpool boss Arne Slot says it was an "easy decision" to recall forward Mohamed Salah against Brighton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +107,7 @@ Today on Sky Sports Racing: Doncaster, Lingfield, Newcastle and Wolverhampton fe
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Doncaster, Lingfield, Newcastle and Wolverhampton feature live on Saturday. https://www.skysports.com/racing/news/12040/13482367/today-on-sky-sports-racing-doncaster-lingfield-newcastle-and-wolverhampton
+- bbc.com — Mohamed Salah: Liverpool forward makes first-half return against Brighton. https://www.bbc.com/sport/football/articles/cz94vpny40ko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +118,13 @@ Today on Sky Sports Racing: Doncaster, Lingfield, Newcastle and Wolverhampton fe
 
 ### Club Updates
 
-## Story 3: Everton vs Arsenal: Katie McCabe smashes home stunning half-volley!
-**Slug (lower-third):** Everton vs Arsenal: Katie McCabe smashes home stunning ha…  
-**When:** 2025-12-13 06:18 (America/Winnipeg)  •  **Published:** 2025-12-13 12:18 (UTC)  
+## Story 5: Championship roundup: Fatawu strikes from own half as Leicester sink Ipswich
+**Slug (lower-third):** Championship roundup: Fatawu strikes from own half as Lei…  
+**When:** 2025-12-13 11:55 (America/Winnipeg)  •  **Published:** 2025-12-13 17:55 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton vs Arsenal: Katie McCabe smashes home stunning half-volley!. Katie McCabe scores a stunning goal for the Gunners to open the scoring at Goodison Park. Relevance to standings and momentum.
+Championship roundup: Fatawu strikes from own half as Leicester sink Ipswich. Abdul Fatawu scored a spectacular goal from inside his own half as Leicester cruised to a 3-1 home win against in-form Ipswich Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +133,7 @@ Everton vs Arsenal: Katie McCabe smashes home stunning half-volley!. Katie McCab
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Everton vs Arsenal: Katie McCabe smashes home stunning half-volley!. https://www.skysports.com/watch/video/13482839/everton-vs-arsenal-katie-mccabe-smashes-home-stunning-half-volley
+- theguardian.com — Championship roundup: Fatawu strikes from own half as Leicester sink Ipswich. https://www.theguardian.com/football/2025/dec/13/championship-roundup-norwich-southampton-preston-stoke-coventry-leicester-ipswich-middlesbrough
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +142,13 @@ Everton vs Arsenal: Katie McCabe smashes home stunning half-volley!. Katie McCab
 
 ---
 
-## Story 4: Sunderland and Newcastle steeled for resumption of football's 'most intense derby'
-**Slug (lower-third):** Sunderland and Newcastle steeled for resumption of footba…  
-**When:** 2025-12-13 06:00 (America/Winnipeg)  •  **Published:** 2025-12-13 12:00 (UTC)  
+## Story 6: Abdul Fatawu scores stunner from well inside own half against Ipswich
+**Slug (lower-third):** Abdul Fatawu scores stunner from well inside own half aga…  
+**When:** 2025-12-13 11:15 (America/Winnipeg)  •  **Published:** 2025-12-13 17:15 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sunderland and Newcastle steeled for resumption of football's 'most intense derby'. Eddie Howe says revitalised derby rivals will be a tougher mental test for his side than the Champions League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Abdul Fatawu scores stunner from well inside own half against Ipswich. Abdul Fatawu scored this sensational goal from inside his own half against Ipswich. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +157,7 @@ Sunderland and Newcastle steeled for resumption of football's 'most intense derb
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Sunderland and Newcastle steeled for resumption of football's 'most intense derby'. https://www.theguardian.com/football/2025/dec/13/sunderland-newcastle-steeled-for-resumption-of-intense-derby
+- skysports.com — Abdul Fatawu scores stunner from well inside own half against Ipswich. https://www.skysports.com/watch/video/13482924/abdul-fatawu-scores-stunner-from-well-inside-own-half-against-ipswich
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,37 +166,13 @@ Sunderland and Newcastle steeled for resumption of football's 'most intense derb
 
 ---
 
-## Story 5: Noah Okafor: Leeds forward determined to keep club in Premier League beyond 2025/26 season
-**Slug (lower-third):** Noah Okafor: Leeds forward determined to keep club in Pre…  
-**When:** 2025-12-13 04:49 (America/Winnipeg)  •  **Published:** 2025-12-13 10:49 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Noah Okafor: Leeds forward determined to keep club in Premier League beyond 2025/26 season. In conversation with Sky Sports at the launch of PUMAs new FUTURE 9 football boot, forward Noah Okafor details his plan to keep Leeds competing in the Premier League beyond this season; watch Brentford vs Leeds live on Sky Sports Premier League on Sunday; kick-off 4.30pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Noah Okafor: Leeds forward determined to keep club in Premier League beyond 2025/26 season. https://www.skysports.com/football/news/12040/13482824/noah-okafor-leeds-forward-determined-to-keep-club-in-premier-league-beyond-2025-26-season
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Adam Wharton finding his rhythm at Crystal Palace as suitors gather
-**Slug (lower-third):** Adam Wharton finding his rhythm at Crystal Palace as suit…  
-**When:** 2025-12-13 04:00 (America/Winnipeg)  •  **Published:** 2025-12-13 10:00 (UTC)  
+## Story 7: Chelsea 2-0 Everton | Premier League highlights
+**Slug (lower-third):** Chelsea 2-0 Everton | Premier League highlights  
+**When:** 2025-12-13 11:13 (America/Winnipeg)  •  **Published:** 2025-12-13 17:13 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Adam Wharton finding his rhythm at Crystal Palace as suitors gather. The midfielder has caught the eye at Selhurst Park and now has the World Cup and Champions League in his sights Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea 2-0 Everton | Premier League highlights. FREE TO WATCH: Highlights from Chelsea's win against Everton in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +181,7 @@ Adam Wharton finding his rhythm at Crystal Palace as suitors gather. The midfiel
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Adam Wharton finding his rhythm at Crystal Palace as suitors gather. https://www.theguardian.com/football/2025/dec/13/adam-wharton-finding-his-rhythm-at-crystal-palace-as-suitors-gather
+- skysports.com — Chelsea 2-0 Everton | Premier League highlights. https://www.skysports.com/watch/video/13482985/chelsea-2-0-everton-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +190,37 @@ Adam Wharton finding his rhythm at Crystal Palace as suitors gather. The midfiel
 
 ---
 
-## Story 7: Liverpool fans' patience wears thin as WSL strugglers face crunch clash
-**Slug (lower-third):** Liverpool fans' patience wears thin as WSL strugglers fac…  
-**When:** 2025-12-13 02:00 (America/Winnipeg)  •  **Published:** 2025-12-13 08:00 (UTC)  
+## Story 8: Alessia Russo: 'Fantastic human' shines in Arsenal WSL win at Everton
+**Slug (lower-third):** Alessia Russo: 'Fantastic human' shines in Arsenal WSL wi…  
+**When:** 2025-12-13 11:03 (America/Winnipeg)  •  **Published:** 2025-12-13 17:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Alessia Russo: 'Fantastic human' shines in Arsenal WSL win at Everton. England striker Alessia Russo was at the heart of Arsenal's WSL win at Everton - a reminder to doubters of how indispensable she is. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Alessia Russo: 'Fantastic human' shines in Arsenal WSL win at Everton. https://www.bbc.com/sport/football/articles/cj38v1k12kgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Olivia Smith erases all doubt for Arsenal after frenetic first-half spell at Everton
+**Slug (lower-third):** Olivia Smith erases all doubt for Arsenal after frenetic …  
+**When:** 2025-12-13 08:14 (America/Winnipeg)  •  **Published:** 2025-12-13 14:14 (UTC)  
 **Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool fans' patience wears thin as WSL strugglers face crunch clash. Reds are still winless in the league and Gareth Taylor must turn results around starting at West Ham on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Olivia Smith erases all doubt for Arsenal after frenetic first-half spell at Everton. Half-volleys from Katie McCabe and Olivia Smith earned Arsenal a valuable 3-1 win at Everton to move into second in the WSL Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +229,7 @@ Liverpool fans' patience wears thin as WSL strugglers face crunch clash. Reds ar
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool fans' patience wears thin as WSL strugglers face crunch clash. https://www.theguardian.com/football/2025/dec/13/liverpool-gareth-taylor-west-ham-wsl
+- theguardian.com — Olivia Smith erases all doubt for Arsenal after frenetic first-half spell at Everton. https://www.theguardian.com/football/2025/dec/13/everton-arsenal-wsl-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +238,13 @@ Liverpool fans' patience wears thin as WSL strugglers face crunch clash. Reds ar
 
 ---
 
-## Story 8: Macclesfield FC: How Robbie Savage and Rob Smethurst helped revive club
-**Slug (lower-third):** Macclesfield FC: How Robbie Savage and Rob Smethurst help…  
-**When:** 2025-12-13 00:38 (America/Winnipeg)  •  **Published:** 2025-12-13 06:38 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 10: Norwich vs Southampton: Penalty drama! Saints given controversial penalty... but cannot capitalise!
+**Slug (lower-third):** Norwich vs Southampton: Penalty drama! Saints given contr…  
+**When:** 2025-12-13 07:01 (America/Winnipeg)  •  **Published:** 2025-12-13 13:01 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Macclesfield FC: How Robbie Savage and Rob Smethurst helped revive club. A look at how former Premier League footballer Robbie Savage and Macclesfield FC owner Rob Smethurst helped revive a football club. Relevance to standings and momentum.
+Norwich vs Southampton: Penalty drama! Saints given controversial penalty... but cannot capitalise!. Vladan Kovacevic produced an incredible save from Adam Armstrong, but should it of been a penalty in the first place? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,55 +253,7 @@ Macclesfield FC: How Robbie Savage and Rob Smethurst helped revive club. A look 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Macclesfield FC: How Robbie Savage and Rob Smethurst helped revive club. https://www.bbc.com/sport/football/videos/cm2emegn78yo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Bernardo Silva: Manchester City midfielder in his own words
-**Slug (lower-third):** Bernardo Silva: Manchester City midfielder in his own wor…  
-**When:** 2025-12-13 00:18 (America/Winnipeg)  •  **Published:** 2025-12-13 06:18 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bernardo Silva: Manchester City midfielder in his own words. Manchester City midfielder Bernardo Silva sits down with Kelly Somers to discuss his career, what he will do once he retires, and playing for Pep Guardiola. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Bernardo Silva: Manchester City midfielder in his own words. https://www.bbc.com/sport/football/articles/cy8jr1p1l4zo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Bernardo Silva: Manchester City can go back to winning it all, says midfielder
-**Slug (lower-third):** Bernardo Silva: Manchester City can go back to winning it…  
-**When:** 2025-12-13 00:04 (America/Winnipeg)  •  **Published:** 2025-12-13 06:04 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bernardo Silva: Manchester City can go back to winning it all, says midfielder. Midfielder Bernardo Silva reflects on his success at Manchester City and how the team is trying to adapt and incorporate a new generation of players. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Bernardo Silva: Manchester City can go back to winning it all, says midfielder. https://www.bbc.com/sport/football/videos/c5yjpn7zr18o?at_medium=RSS&at_campaign=rss
+- skysports.com — Norwich vs Southampton: Penalty drama! Saints given controversial penalty... but cannot capitalise!. https://www.skysports.com/watch/video/13482853/norwich-vs-southampton-penalty-drama-saints-given-controversial-penalty-but-cannot-capitalise
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
