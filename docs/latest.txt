@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-15 00:38 (America/Winnipeg)  |  2025-12-15 06:38 (UTC)
+**Generated:** 2025-12-15 06:51 (America/Winnipeg)  |  2025-12-15 12:51 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 22s
+**Estimated total video length:** ~4m 40s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Enzo Maresca: 'No protection' for Chelsea boss after 'premeditated' comments - Rooney
-- The Ashes 2025/26: England pick Josh Tongue in place of Gus Atkinson in only change for must-win third Test in Adelaide
-- Today on Sky Sports Racing: Plumpton, Lingfield and Wolverhampton feature on Monday
+- Chelsea: Enzo Maresca affirms his commitment to Blues after 'worst 48 hours' comment
+- Premier League: Why Newcastle and Sunderland don't have away fans pitchside
+- VAR: Why Diego Gomez should have been sent off for tackle on Florian Wirtz
 
 ---
 
-### Managerial Moves
+### Injuries
 
-## Story 1: Manchester United: Ruben Amorim says he has 'not been good enough' after recent criticism
-**Slug (lower-third):** Manchester United: Ruben Amorim says he has 'not been goo…  
-**When:** 2025-12-14 16:40 (America/Winnipeg)  •  **Published:** 2025-12-14 22:40 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 1: WSL talking points: Shaw hits century for City as Williamson returns
+**Slug (lower-third):** WSL talking points: Shaw hits century for City as William…  
+**When:** 2025-12-15 05:36 (America/Winnipeg)  •  **Published:** 2025-12-15 11:36 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: Ruben Amorim says he has 'not been good enough' after recent criticism. Manchester United head coach Ruben Amorim says criticism from legendary former players is to be expected because the club is "underachieving". Relevance to standings and momentum.
+WSL talking points: Shaw hits century for City as Williamson returns. Khadija Shaw becomes first women to score 100 goals for City while United come from behind against Spurs Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Manchester United: Ruben Amorim says he has 'not been good enough' after recent 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester United: Ruben Amorim says he has 'not been good enough' after recent criticism. https://www.bbc.com/sport/football/articles/c5yq2qydly7o?at_medium=RSS&at_campaign=rss
+- theguardian.com — WSL talking points: Shaw hits century for City as Williamson returns. https://www.theguardian.com/football/2025/dec/15/wsl-talking-points-bunny-shaw-leah-williamson
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,15 @@ Manchester United: Ruben Amorim says he has 'not been good enough' after recent 
 
 ---
 
-## Story 2: Ruben Amorim would be 'really pleased' if Kobbie Mainoo considers loan move
-**Slug (lower-third):** Ruben Amorim would be 'really pleased' if Kobbie Mainoo c…  
-**When:** 2025-12-14 16:30 (America/Winnipeg)  •  **Published:** 2025-12-14 22:30 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+### League & Regulation
+
+## Story 2: Liverpool parade crash sentencing: Paul Doyle 'lost his temper' and 'intended to cause serious harm' in ploughing car into over 100 fans
+**Slug (lower-third):** Liverpool parade crash sentencing: Paul Doyle 'lost his t…  
+**When:** 2025-12-15 05:15 (America/Winnipeg)  •  **Published:** 2025-12-15 11:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Ruben Amorim would be 'really pleased' if Kobbie Mainoo considers loan move. The Manchester United head coach said of a possible short-term move for the midfielder Kobbie Mainoo: 'I will be pleased ... I just want my players happy' Implications for the squad and table.
+Liverpool parade crash sentencing: Paul Doyle 'lost his temper' and 'intended to cause serious harm' in ploughing car into over 100 fans. Paul Doyles sentencing hearing began at Liverpool Crown Court on Monday December 15; Doyle, 54, pleaded guilty in November to all 31 charges relating to the Liverpool parade crash in May; Warning: This article contains distressing information Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +57,31 @@ Ruben Amorim would be 'really pleased' if Kobbie Mainoo considers loan move. The
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Ruben Amorim would be 'really pleased' if Kobbie Mainoo considers loan move. https://www.theguardian.com/football/2025/dec/14/ruben-amorim-kobbie-mainoo-loan-manchester-united-bournemouth-premier-league
+- skysports.com — Liverpool parade crash sentencing: Paul Doyle 'lost his temper' and 'intended to cause serious harm' in ploughing car into over 100 fans. https://www.skysports.com/football/news/12040/13483640/liverpool-parade-crash-sentencing-paul-doyle-lost-his-temper-and-intended-to-cause-serious-harm-in-ploughing-car-into-over-100-fans
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Chelsea: Enzo Maresca under 'intense scrutiny' at Stamford Bridge but has credit in the bank after trophies last season
+**Slug (lower-third):** Chelsea: Enzo Maresca under 'intense scrutiny' at Stamfor…  
+**When:** 2025-12-15 02:29 (America/Winnipeg)  •  **Published:** 2025-12-15 08:29 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Chelsea: Enzo Maresca under 'intense scrutiny' at Stamford Bridge but has credit in the bank after trophies last season. Enzo Maresca described 48 hours before Chelseas win over Everton as his worst since hed been at the club; Blues were without victory in four before Saturday; Maresca has Chelsea fourth in Premier League and eyeing Carabao Cup semis after Club World Cup and Conference League triumphs Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Chelsea: Enzo Maresca under 'intense scrutiny' at Stamford Bridge but has credit in the bank after trophies last season. https://www.skysports.com/football/news/12040/13483580/chelsea-enzo-maresca-under-intense-scrutiny-at-stamford-bridge-but-has-credit-in-the-bank-after-trophies-last-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +92,13 @@ Ruben Amorim would be 'really pleased' if Kobbie Mainoo considers loan move. The
 
 ### Club Updates
 
-## Story 3: Enzo Maresca: 'No protection' for Chelsea boss after 'premeditated' comments - Rooney
-**Slug (lower-third):** Enzo Maresca: 'No protection' for Chelsea boss after 'pre…  
-**When:** 2025-12-15 00:03 (America/Winnipeg)  •  **Published:** 2025-12-15 06:03 (UTC)  
+## Story 4: Chelsea: Enzo Maresca affirms his commitment to Blues after 'worst 48 hours' comment
+**Slug (lower-third):** Chelsea: Enzo Maresca affirms his commitment to Blues aft…  
+**When:** 2025-12-15 06:42 (America/Winnipeg)  •  **Published:** 2025-12-15 12:42 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Enzo Maresca: 'No protection' for Chelsea boss after 'premeditated' comments - Rooney. Chelsea boss Enzo Maresca is unlikely to get any "protection" due to cryptic comments seemingly aimed at the club's ownership, says former Manchester United striker Wayne Rooney. Relevance to standings and momentum.
+Chelsea: Enzo Maresca affirms his commitment to Blues after 'worst 48 hours' comment. Enzo Maresca affirms his commitment to Chelsea after his comments saying he'd had the 'worst 48 hours' at Chelsea Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +107,7 @@ Enzo Maresca: 'No protection' for Chelsea boss after 'premeditated' comments - R
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Enzo Maresca: 'No protection' for Chelsea boss after 'premeditated' comments - Rooney. https://www.bbc.com/sport/football/articles/cpvd7w39j7ko?at_medium=RSS&at_campaign=rss
+- skysports.com — Chelsea: Enzo Maresca affirms his commitment to Blues after 'worst 48 hours' comment. https://www.skysports.com/watch/video/13483725/chelsea-enzo-maresca-affirms-his-commitment-to-blues-after-worst-48-hours-comment
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +116,13 @@ Enzo Maresca: 'No protection' for Chelsea boss after 'premeditated' comments - R
 
 ---
 
-## Story 4: The Ashes 2025/26: England pick Josh Tongue in place of Gus Atkinson in only change for must-win third Test in Adelaide
-**Slug (lower-third):** The Ashes 2025/26: England pick Josh Tongue in place of G…  
-**When:** 2025-12-15 00:03 (America/Winnipeg)  •  **Published:** 2025-12-15 06:03 (UTC)  
+## Story 5: Premier League: Why Newcastle and Sunderland don't have away fans pitchside
+**Slug (lower-third):** Premier League: Why Newcastle and Sunderland don't have a…  
+**When:** 2025-12-15 06:04 (America/Winnipeg)  •  **Published:** 2025-12-15 12:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-The Ashes 2025/26: England pick Josh Tongue in place of Gus Atkinson in only change for must-win third Test in Adelaide. England have made one change to their line-up for the crucial third Ashes Test, with Josh Tongue replacing Gus Atkinson for the sides must-win Adelaide match. Relevance to standings and momentum.
+Premier League: Why Newcastle and Sunderland don't have away fans pitchside. BBC Sport's Ask Me Anything team explains why Premier League sides Newcastle and Sunderland are permitted to place away fans away from pitchside. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +131,7 @@ The Ashes 2025/26: England pick Josh Tongue in place of Gus Atkinson in only cha
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — The Ashes 2025/26: England pick Josh Tongue in place of Gus Atkinson in only change for must-win third Test in Adelaide. https://www.skysports.com/cricket/news/12040/13483531/the-ashes-2025-26-england-pick-josh-tongue-in-place-of-gus-atkinson-in-only-change-for-must-win-third-test-in-adelaide
+- bbc.com — Premier League: Why Newcastle and Sunderland don't have away fans pitchside. https://www.bbc.com/sport/football/articles/cg7vn57x7neo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +140,13 @@ The Ashes 2025/26: England pick Josh Tongue in place of Gus Atkinson in only cha
 
 ---
 
-## Story 5: Today on Sky Sports Racing: Plumpton, Lingfield and Wolverhampton feature on Monday
-**Slug (lower-third):** Today on Sky Sports Racing: Plumpton, Lingfield and Wolve…  
-**When:** 2025-12-15 00:00 (America/Winnipeg)  •  **Published:** 2025-12-15 06:00 (UTC)  
+## Story 6: VAR: Why Diego Gomez should have been sent off for tackle on Florian Wirtz
+**Slug (lower-third):** VAR: Why Diego Gomez should have been sent off for tackle…  
+**When:** 2025-12-15 05:44 (America/Winnipeg)  •  **Published:** 2025-12-15 11:44 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Plumpton, Lingfield and Wolverhampton feature on Monday. A busy day ahead! Plumpton is the venue for todays National Hunt action - live on Sky Sports Racing - alongside all-weather championship racing from Lingfield and Wolverhampton. Relevance to standings and momentum.
+VAR: Why Diego Gomez should have been sent off for tackle on Florian Wirtz. Premier League VARs continue have a problem with red cards. And Diego Gomez's tackle on Florian Wirtz shows it. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +155,7 @@ Today on Sky Sports Racing: Plumpton, Lingfield and Wolverhampton feature on Mon
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Plumpton, Lingfield and Wolverhampton feature on Monday. https://www.skysports.com/racing/news/12040/13483038/today-on-sky-sports-racing-plumpton-lingfield-and-wolverhampton-feature-on-monday
+- bbc.com — VAR: Why Diego Gomez should have been sent off for tackle on Florian Wirtz. https://www.bbc.com/sport/football/articles/cwyvx1qpxv3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +164,37 @@ Today on Sky Sports Racing: Plumpton, Lingfield and Wolverhampton feature on Mon
 
 ---
 
-## Story 6: Premier League: Nottingham Forest 3-0 Tottenham - highlights
-**Slug (lower-third):** Premier League: Nottingham Forest 3-0 Tottenham - highlig…  
-**When:** 2025-12-14 14:00 (America/Winnipeg)  •  **Published:** 2025-12-14 20:00 (UTC)  
+## Story 7: Hugo Ekitike is already delivering goals for Liverpool and sprint stats show Arne Slot is right - there is more to come
+**Slug (lower-third):** Hugo Ekitike is already delivering goals for Liverpool an…  
+**When:** 2025-12-15 05:00 (America/Winnipeg)  •  **Published:** 2025-12-15 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Hugo Ekitike is already delivering goals for Liverpool and sprint stats show Arne Slot is right - there is more to come. In this weeks edition of The Debrief, Adam Bate looks at Hugo Ekitikes impressive start for Liverpool and the area in which he is still improving. Plus: Bukayo Sakas crossing for Arsenal and Nick Woltemades difficult day for Newcastle Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Hugo Ekitike is already delivering goals for Liverpool and sprint stats show Arne Slot is right - there is more to come. https://www.skysports.com/football/news/12040/13483225/hugo-ekitike-is-already-delivering-goals-for-liverpool-and-sprint-stats-show-arne-slot-is-right-there-is-more-to-come
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Ref Watch: Was Bukayo Saka offside for Arsenal's opener against Wolves?
+**Slug (lower-third):** Ref Watch: Was Bukayo Saka offside for Arsenal's opener a…  
+**When:** 2025-12-15 03:30 (America/Winnipeg)  •  **Published:** 2025-12-15 09:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Nottingham Forest 3-0 Tottenham - highlights. Callum Hudson-Odoi and Ibrahim Sangare combine for three goals as Nottingham Forest outclass Tottenham at the City Ground. Relevance to standings and momentum.
+Ref Watch: Was Bukayo Saka offside for Arsenal's opener against Wolves?. Dermot Gallagher and Jay Bothroyd discuss whether Bukayo Saka was offside for Arsenal's opener against Wolves in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,8 +203,7 @@ Premier League: Nottingham Forest 3-0 Tottenham - highlights. Callum Hudson-Odoi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: Nottingham Forest 3-0 Tottenham - highlights. https://www.bbc.com/sport/football/videos/c62nzd1lnr8o?at_medium=RSS&at_campaign=rss
-- skysports.com — Tottenham: Thomas Frank highlights a range of Spurs problems after 'step back' 3-0 loss at Nottingham Forest. https://www.skysports.com/football/news/12040/13483408/tottenham-thomas-frank-highlights-a-range-of-spurs-problems-after-step-back-3-0-loss-at-nottingham-forest
+- skysports.com — Ref Watch: Was Bukayo Saka offside for Arsenal's opener against Wolves?. https://www.skysports.com/watch/video/13483593/ref-watch-was-bukayo-saka-offside-for-arsenals-opener-against-wolves
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -163,13 +212,13 @@ Premier League: Nottingham Forest 3-0 Tottenham - highlights. Callum Hudson-Odoi
 
 ---
 
-## Story 7: Match of the Day: How Man City were able to beat a spirited Crystal Palace - analysis
-**Slug (lower-third):** Match of the Day: How Man City were able to beat a spirit…  
-**When:** 2025-12-14 17:59 (America/Winnipeg)  •  **Published:** 2025-12-14 23:59 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~22s
+## Story 9: Ref Watch: Should Brighton's Diego Gomez have been sent off vs Liverpool?
+**Slug (lower-third):** Ref Watch: Should Brighton's Diego Gomez have been sent o…  
+**When:** 2025-12-15 03:18 (America/Winnipeg)  •  **Published:** 2025-12-15 09:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day: How Man City were able to beat a spirited Crystal Palace - analysis. Match of the Day pundits Theo Walcott and Joe Hart look at how Manchester City's backline were able to hold off Crystal Palace before Erling Haaland and Phil Foden went on to win the game at Selhurst Park. Relevance to standings and momentum.
+Ref Watch: Should Brighton's Diego Gomez have been sent off vs Liverpool?. Dermot Gallagher and Jay Bothroyd are both stunned that Brightons Diego Gomez escaped a red card for his challenge on Florian Wirtz during Liverpools 2-0 win at Anfield on Saturday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -178,7 +227,7 @@ Match of the Day: How Man City were able to beat a spirited Crystal Palace - ana
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the Day: How Man City were able to beat a spirited Crystal Palace - analysis. https://www.bbc.com/sport/football/videos/c5ydx5dzllvo?at_medium=RSS&at_campaign=rss
+- skysports.com — Ref Watch: Should Brighton's Diego Gomez have been sent off vs Liverpool?. https://www.skysports.com/watch/video/13483588/ref-watch-should-brightons-diego-gomez-have-been-sent-off-vs-liverpool
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -187,13 +236,13 @@ Match of the Day: How Man City were able to beat a spirited Crystal Palace - ana
 
 ---
 
-## Story 8: Match of the Day: How influential Morgan Rogers sets the tone for Aston Villa
-**Slug (lower-third):** Match of the Day: How influential Morgan Rogers sets the …  
-**When:** 2025-12-14 17:59 (America/Winnipeg)  •  **Published:** 2025-12-14 23:59 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 10: Mason Mount: Can Manchester United midfielder force way into England World Cup squad?
+**Slug (lower-third):** Mason Mount: Can Manchester United midfielder force way i…  
+**When:** 2025-12-15 00:46 (America/Winnipeg)  •  **Published:** 2025-12-15 06:46 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day: How influential Morgan Rogers sets the tone for Aston Villa. Match of the Day pundits Theo Walcott and Joe Hart look at how "composed and confident" Morgan Rogers "set the tone" for Aston Villa in their 3-2 comeback win over West Ham. Relevance to standings and momentum.
+Mason Mount: Can Manchester United midfielder force way into England World Cup squad?. Mason Mount is delivering for Manchester United - but can his performances force him into Thomas Tuchel's World Cup squad? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -202,55 +251,7 @@ Match of the Day: How influential Morgan Rogers sets the tone for Aston Villa. M
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the Day: How influential Morgan Rogers sets the tone for Aston Villa. https://www.bbc.com/sport/football/videos/cwyxwzxyxzno?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Mainoo, Van Hecke, Johnson, Vlahovic, Thiago, Xavi
-**Slug (lower-third):** Football gossip: Mainoo, Van Hecke, Johnson, Vlahovic, Th…  
-**When:** 2025-12-14 15:59 (America/Winnipeg)  •  **Published:** 2025-12-14 21:59 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Mainoo, Van Hecke, Johnson, Vlahovic, Thiago, Xavi. Manchester United might block midfielder Kobbie Mainoo from moving in January, Tottenham could wait until next summer to sign Brighton defender Jan Paul van Hecke, while three teams target Brentford's Igor Thiago, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Mainoo, Van Hecke, Johnson, Vlahovic, Thiago, Xavi. https://www.bbc.com/sport/football/articles/cm21xr94w2ro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Morgan Rogers: Aston Villa attacker 'has to start' for England at World Cup
-**Slug (lower-third):** Morgan Rogers: Aston Villa attacker 'has to start' for En…  
-**When:** 2025-12-14 15:15 (America/Winnipeg)  •  **Published:** 2025-12-14 21:15 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Morgan Rogers: Aston Villa attacker 'has to start' for England at World Cup. Phil Foden and Cole Palmer both scored this weekend - but Morgan Rogers showed why he remains England's first-choice number 10. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Morgan Rogers: Aston Villa attacker 'has to start' for England at World Cup. https://www.bbc.com/sport/football/articles/c23erymym9eo?at_medium=RSS&at_campaign=rss
+- bbc.com — Mason Mount: Can Manchester United midfielder force way into England World Cup squad?. https://www.bbc.com/sport/football/articles/ckgdvdewzpno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
