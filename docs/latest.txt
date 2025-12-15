@@ -1,28 +1,78 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-15 06:51 (America/Winnipeg)  |  2025-12-15 12:51 (UTC)
+**Generated:** 2025-12-15 12:36 (America/Winnipeg)  |  2025-12-15 18:36 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 40s
+**Estimated total video length:** ~3m 21s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Chelsea: Enzo Maresca affirms his commitment to Blues after 'worst 48 hours' comment
-- Premier League: Why Newcastle and Sunderland don't have away fans pitchside
-- VAR: Why Diego Gomez should have been sent off for tackle on Florian Wirtz
+- Newcastle United: Dan Burn set for spell out after breaking rib
+- Cardiff's Brian Barry-Murphy: 'If we rocked up with tiki-taka, the locals wouldn't be having it'
+- Paul Doyle 'lied about panicking' in Liverpool parade attack
+
+---
+
+### Managerial Moves
+
+## Story 1: Enzo Maresca: Chelsea boss says he is 'happy' but wounds still open after 'worst 48 hours' claim
+**Slug (lower-third):** Enzo Maresca: Chelsea boss says he is 'happy' but wounds …  
+**When:** 2025-12-15 10:04 (America/Winnipeg)  •  **Published:** 2025-12-15 16:04 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Enzo Maresca: Chelsea boss says he is 'happy' but wounds still open after 'worst 48 hours' claim. Chelsea manager Enzo Maresca is evasive when asked to explain his claim that he has endured his "worst 48 hours" at the club and lacked support. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Enzo Maresca: Chelsea boss says he is 'happy' but wounds still open after 'worst 48 hours' claim. https://www.bbc.com/sport/football/articles/c246dn62y01o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Thomas Frank: What fans, insiders and stats say about embattled Spurs manager
+**Slug (lower-third):** Thomas Frank: What fans, insiders and stats say about emb…  
+**When:** 2025-12-15 09:22 (America/Winnipeg)  •  **Published:** 2025-12-15 15:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Thomas Frank: What fans, insiders and stats say about embattled Spurs manager. Tottenham have lost as many league games as they have won this season under Thomas Frank, with some fans criticising his style of play. BBC Sport assesses Spurs' struggles under their new manager. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Thomas Frank: What fans, insiders and stats say about embattled Spurs manager. https://www.bbc.com/sport/football/articles/czdg8nv8nlro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Injuries
 
-## Story 1: WSL talking points: Shaw hits century for City as Williamson returns
-**Slug (lower-third):** WSL talking points: Shaw hits century for City as William…  
-**When:** 2025-12-15 05:36 (America/Winnipeg)  •  **Published:** 2025-12-15 11:36 (UTC)  
+## Story 3: Ben White: Arsenal's injury problems mount with fears Gunners boss Mikel Artea could be without defender for over a month
+**Slug (lower-third):** Ben White: Arsenal's injury problems mount with fears Gun…  
+**When:** 2025-12-15 10:38 (America/Winnipeg)  •  **Published:** 2025-12-15 16:38 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL talking points: Shaw hits century for City as Williamson returns. Khadija Shaw becomes first women to score 100 goals for City while United come from behind against Spurs Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ben White: Arsenal's injury problems mount with fears Gunners boss Mikel Artea could be without defender for over a month. Arsenal fear defender Ben White faces a minimum of a month out after suffering a hamstring injury in their win over Wolves. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +81,7 @@ WSL talking points: Shaw hits century for City as Williamson returns. Khadija Sh
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — WSL talking points: Shaw hits century for City as Williamson returns. https://www.theguardian.com/football/2025/dec/15/wsl-talking-points-bunny-shaw-leah-williamson
+- bbc.com — Ben White: Arsenal's injury problems mount with fears Gunners boss Mikel Artea could be without defender for over a month. https://www.bbc.com/sport/football/articles/cr4d5n5ll0wo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +90,13 @@ WSL talking points: Shaw hits century for City as Williamson returns. Khadija Sh
 
 ---
 
-### League & Regulation
-
-## Story 2: Liverpool parade crash sentencing: Paul Doyle 'lost his temper' and 'intended to cause serious harm' in ploughing car into over 100 fans
-**Slug (lower-third):** Liverpool parade crash sentencing: Paul Doyle 'lost his t…  
-**When:** 2025-12-15 05:15 (America/Winnipeg)  •  **Published:** 2025-12-15 11:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 4: Sunderland's derby joy and Mo Salah returns | Football Weekly
+**Slug (lower-third):** Sunderland's derby joy and Mo Salah returns | Football We…  
+**When:** 2025-12-15 07:52 (America/Winnipeg)  •  **Published:** 2025-12-15 13:52 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Liverpool parade crash sentencing: Paul Doyle 'lost his temper' and 'intended to cause serious harm' in ploughing car into over 100 fans. Paul Doyles sentencing hearing began at Liverpool Crown Court on Monday December 15; Doyle, 54, pleaded guilty in November to all 31 charges relating to the Liverpool parade crash in May; Warning: This article contains distressing information Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sunderland's derby joy and Mo Salah returns | Football Weekly. Max Rushden is joined by Barry Glendenning, Robyn Cowen and Nedum Onuoha as Sunderland win their first Wear-Tyne derby in a decade and Arsenal stay top thanks to a very late Wolves own goal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +105,7 @@ Liverpool parade crash sentencing: Paul Doyle 'lost his temper' and 'intended to
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Liverpool parade crash sentencing: Paul Doyle 'lost his temper' and 'intended to cause serious harm' in ploughing car into over 100 fans. https://www.skysports.com/football/news/12040/13483640/liverpool-parade-crash-sentencing-paul-doyle-lost-his-temper-and-intended-to-cause-serious-harm-in-ploughing-car-into-over-100-fans
+- theguardian.com — Sunderland's derby joy and Mo Salah returns | Football Weekly. https://www.theguardian.com/football/video/2025/dec/15/sunderlands-derby-joy-and-mo-salah-returns-football-weekly
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +114,13 @@ Liverpool parade crash sentencing: Paul Doyle 'lost his temper' and 'intended to
 
 ---
 
-## Story 3: Chelsea: Enzo Maresca under 'intense scrutiny' at Stamford Bridge but has credit in the bank after trophies last season
-**Slug (lower-third):** Chelsea: Enzo Maresca under 'intense scrutiny' at Stamfor…  
-**When:** 2025-12-15 02:29 (America/Winnipeg)  •  **Published:** 2025-12-15 08:29 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~29s
+## Story 5: Dominic Calvert-Lewin: Fine form helps Leeds striker silence critics
+**Slug (lower-third):** Dominic Calvert-Lewin: Fine form helps Leeds striker sile…  
+**When:** 2025-12-15 07:16 (America/Winnipeg)  •  **Published:** 2025-12-15 13:16 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea: Enzo Maresca under 'intense scrutiny' at Stamford Bridge but has credit in the bank after trophies last season. Enzo Maresca described 48 hours before Chelseas win over Everton as his worst since hed been at the club; Blues were without victory in four before Saturday; Maresca has Chelsea fourth in Premier League and eyeing Carabao Cup semis after Club World Cup and Conference League triumphs Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Dominic Calvert-Lewin: Fine form helps Leeds striker silence critics. Since the Premier League returned in mid-November the Englishman has been on a mission, netting four goals in five games. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +129,7 @@ Chelsea: Enzo Maresca under 'intense scrutiny' at Stamford Bridge but has credit
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea: Enzo Maresca under 'intense scrutiny' at Stamford Bridge but has credit in the bank after trophies last season. https://www.skysports.com/football/news/12040/13483580/chelsea-enzo-maresca-under-intense-scrutiny-at-stamford-bridge-but-has-credit-in-the-bank-after-trophies-last-season
+- bbc.com — Dominic Calvert-Lewin: Fine form helps Leeds striker silence critics. https://www.bbc.com/sport/football/articles/c79x51vxe00o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +140,13 @@ Chelsea: Enzo Maresca under 'intense scrutiny' at Stamford Bridge but has credit
 
 ### Club Updates
 
-## Story 4: Chelsea: Enzo Maresca affirms his commitment to Blues after 'worst 48 hours' comment
-**Slug (lower-third):** Chelsea: Enzo Maresca affirms his commitment to Blues aft…  
-**When:** 2025-12-15 06:42 (America/Winnipeg)  •  **Published:** 2025-12-15 12:42 (UTC)  
+## Story 6: Newcastle United: Dan Burn set for spell out after breaking rib
+**Slug (lower-third):** Newcastle United: Dan Burn set for spell out after breaki…  
+**When:** 2025-12-15 11:55 (America/Winnipeg)  •  **Published:** 2025-12-15 17:55 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea: Enzo Maresca affirms his commitment to Blues after 'worst 48 hours' comment. Enzo Maresca affirms his commitment to Chelsea after his comments saying he'd had the 'worst 48 hours' at Chelsea Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Newcastle United: Dan Burn set for spell out after breaking rib. Newcastle United defender Dan Burn is set for a spell out of action after suffering a broken rib and punctured lung during the derby defeat against Sunderland. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +155,7 @@ Chelsea: Enzo Maresca affirms his commitment to Blues after 'worst 48 hours' com
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea: Enzo Maresca affirms his commitment to Blues after 'worst 48 hours' comment. https://www.skysports.com/watch/video/13483725/chelsea-enzo-maresca-affirms-his-commitment-to-blues-after-worst-48-hours-comment
+- bbc.com — Newcastle United: Dan Burn set for spell out after breaking rib. https://www.bbc.com/sport/football/articles/cz7ng003z70o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +164,13 @@ Chelsea: Enzo Maresca affirms his commitment to Blues after 'worst 48 hours' com
 
 ---
 
-## Story 5: Premier League: Why Newcastle and Sunderland don't have away fans pitchside
-**Slug (lower-third):** Premier League: Why Newcastle and Sunderland don't have a…  
-**When:** 2025-12-15 06:04 (America/Winnipeg)  •  **Published:** 2025-12-15 12:04 (UTC)  
+## Story 7: Cardiff's Brian Barry-Murphy: 'If we rocked up with tiki-taka, the locals wouldn't be having it'
+**Slug (lower-third):** Cardiff's Brian Barry-Murphy: 'If we rocked up with tiki-…  
+**When:** 2025-12-15 11:18 (America/Winnipeg)  •  **Published:** 2025-12-15 17:18 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Why Newcastle and Sunderland don't have away fans pitchside. BBC Sport's Ask Me Anything team explains why Premier League sides Newcastle and Sunderland are permitted to place away fans away from pitchside. Relevance to standings and momentum.
+Cardiff's Brian Barry-Murphy: 'If we rocked up with tiki-taka, the locals wouldn't be having it'. Cardiff's Brian Barry-Murphy talks to Ben Fisher about facing his role model Enzo Maresca in Tuesday's Carabao Cup quarter-final against Chelsea Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +179,7 @@ Premier League: Why Newcastle and Sunderland don't have away fans pitchside. BBC
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: Why Newcastle and Sunderland don't have away fans pitchside. https://www.bbc.com/sport/football/articles/cg7vn57x7neo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Cardiff's Brian Barry-Murphy: 'If we rocked up with tiki-taka, the locals wouldn't be having it'. https://www.theguardian.com/football/2025/dec/15/cardiff-city-brian-barry-murphy-interview
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +188,13 @@ Premier League: Why Newcastle and Sunderland don't have away fans pitchside. BBC
 
 ---
 
-## Story 6: VAR: Why Diego Gomez should have been sent off for tackle on Florian Wirtz
-**Slug (lower-third):** VAR: Why Diego Gomez should have been sent off for tackle…  
-**When:** 2025-12-15 05:44 (America/Winnipeg)  •  **Published:** 2025-12-15 11:44 (UTC)  
+## Story 8: Paul Doyle 'lied about panicking' in Liverpool parade attack
+**Slug (lower-third):** Paul Doyle 'lied about panicking' in Liverpool parade att…  
+**When:** 2025-12-15 11:13 (America/Winnipeg)  •  **Published:** 2025-12-15 17:13 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-VAR: Why Diego Gomez should have been sent off for tackle on Florian Wirtz. Premier League VARs continue have a problem with red cards. And Diego Gomez's tackle on Florian Wirtz shows it. Relevance to standings and momentum.
+Paul Doyle 'lied about panicking' in Liverpool parade attack. Paul Doyle considered himself "the most important person" in the area before his attack, a court hears. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +203,7 @@ VAR: Why Diego Gomez should have been sent off for tackle on Florian Wirtz. Prem
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — VAR: Why Diego Gomez should have been sent off for tackle on Florian Wirtz. https://www.bbc.com/sport/football/articles/cwyvx1qpxv3o?at_medium=RSS&at_campaign=rss
+- bbc.com — Paul Doyle 'lied about panicking' in Liverpool parade attack. https://www.bbc.com/news/articles/cqjg9vprx4eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,37 +212,13 @@ VAR: Why Diego Gomez should have been sent off for tackle on Florian Wirtz. Prem
 
 ---
 
-## Story 7: Hugo Ekitike is already delivering goals for Liverpool and sprint stats show Arne Slot is right - there is more to come
-**Slug (lower-third):** Hugo Ekitike is already delivering goals for Liverpool an…  
-**When:** 2025-12-15 05:00 (America/Winnipeg)  •  **Published:** 2025-12-15 11:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Hugo Ekitike is already delivering goals for Liverpool and sprint stats show Arne Slot is right - there is more to come. In this weeks edition of The Debrief, Adam Bate looks at Hugo Ekitikes impressive start for Liverpool and the area in which he is still improving. Plus: Bukayo Sakas crossing for Arsenal and Nick Woltemades difficult day for Newcastle Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Hugo Ekitike is already delivering goals for Liverpool and sprint stats show Arne Slot is right - there is more to come. https://www.skysports.com/football/news/12040/13483225/hugo-ekitike-is-already-delivering-goals-for-liverpool-and-sprint-stats-show-arne-slot-is-right-there-is-more-to-come
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Ref Watch: Was Bukayo Saka offside for Arsenal's opener against Wolves?
-**Slug (lower-third):** Ref Watch: Was Bukayo Saka offside for Arsenal's opener a…  
-**When:** 2025-12-15 03:30 (America/Winnipeg)  •  **Published:** 2025-12-15 09:30 (UTC)  
+## Story 9: Thomas Frank is running out of time to fix Tottenham Hotspur | Jonathan Wilson
+**Slug (lower-third):** Thomas Frank is running out of time to fix Tottenham Hots…  
+**When:** 2025-12-15 09:40 (America/Winnipeg)  •  **Published:** 2025-12-15 15:40 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ref Watch: Was Bukayo Saka offside for Arsenal's opener against Wolves?. Dermot Gallagher and Jay Bothroyd discuss whether Bukayo Saka was offside for Arsenal's opener against Wolves in the Premier League. Relevance to standings and momentum.
+Thomas Frank is running out of time to fix Tottenham Hotspur | Jonathan Wilson. Spurs have faced low moments in their history, and this is one of them. How will the club respond in the post-Daniel Levy era? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +227,7 @@ Ref Watch: Was Bukayo Saka offside for Arsenal's opener against Wolves?. Dermot 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ref Watch: Was Bukayo Saka offside for Arsenal's opener against Wolves?. https://www.skysports.com/watch/video/13483593/ref-watch-was-bukayo-saka-offside-for-arsenals-opener-against-wolves
+- theguardian.com — Thomas Frank is running out of time to fix Tottenham Hotspur | Jonathan Wilson. https://www.theguardian.com/football/2025/dec/15/tottenham-hotspur-thomas-frank-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +236,13 @@ Ref Watch: Was Bukayo Saka offside for Arsenal's opener against Wolves?. Dermot 
 
 ---
 
-## Story 9: Ref Watch: Should Brighton's Diego Gomez have been sent off vs Liverpool?
-**Slug (lower-third):** Ref Watch: Should Brighton's Diego Gomez have been sent o…  
-**When:** 2025-12-15 03:18 (America/Winnipeg)  •  **Published:** 2025-12-15 09:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Manchester United not open to Kobbie Mainoo sale in January
+**Slug (lower-third):** Manchester United not open to Kobbie Mainoo sale in Janua…  
+**When:** 2025-12-15 06:39 (America/Winnipeg)  •  **Published:** 2025-12-15 12:39 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ref Watch: Should Brighton's Diego Gomez have been sent off vs Liverpool?. Dermot Gallagher and Jay Bothroyd are both stunned that Brightons Diego Gomez escaped a red card for his challenge on Florian Wirtz during Liverpools 2-0 win at Anfield on Saturday. Relevance to standings and momentum.
+Manchester United not open to Kobbie Mainoo sale in January. Manchester United intend to reject any bids to buy Kobbie Mainoo in January because the executive believe the midfielder could have a bright future at the club Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,31 +251,7 @@ Ref Watch: Should Brighton's Diego Gomez have been sent off vs Liverpool?. Dermo
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ref Watch: Should Brighton's Diego Gomez have been sent off vs Liverpool?. https://www.skysports.com/watch/video/13483588/ref-watch-should-brightons-diego-gomez-have-been-sent-off-vs-liverpool
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Mason Mount: Can Manchester United midfielder force way into England World Cup squad?
-**Slug (lower-third):** Mason Mount: Can Manchester United midfielder force way i…  
-**When:** 2025-12-15 00:46 (America/Winnipeg)  •  **Published:** 2025-12-15 06:46 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Mason Mount: Can Manchester United midfielder force way into England World Cup squad?. Mason Mount is delivering for Manchester United - but can his performances force him into Thomas Tuchel's World Cup squad? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Mason Mount: Can Manchester United midfielder force way into England World Cup squad?. https://www.bbc.com/sport/football/articles/ckgdvdewzpno?at_medium=RSS&at_campaign=rss
+- theguardian.com — Manchester United not open to Kobbie Mainoo sale in January. https://www.theguardian.com/football/2025/dec/15/manchester-united-will-not-listen-to-offers-for-kobbie-mainoo-in-january-transfer-window
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
