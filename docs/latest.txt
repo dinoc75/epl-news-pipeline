@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-15 19:50 (America/Winnipeg)  |  2025-12-16 01:50 (UTC)
+**Generated:** 2025-12-16 00:37 (America/Winnipeg)  |  2025-12-16 06:37 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 23s
@@ -8,8 +8,8 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
+- Premier League Highlights: Manchester United 4-4 Bournemouth
 - Man Utd midfielder's half-brother wears 'Free Kobbie Mainoo' t-shirt
-- Man Utd 4-4 Bournemouth: Where does 'best game' this term sit among Premier League's best games?
 - Troy Deeney's Team of the Week: Leno, Konate, Fernandes, Wilson, Ekitike
 
 ---
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: By not explaining 'worst 48 hours' Enzo Maresca has put himself at even greater risk | Jacob Steinberg
 **Slug (lower-third):** By not explaining 'worst 48 hours' Enzo Maresca has put h…  
 **When:** 2025-12-15 16:30 (America/Winnipeg)  •  **Published:** 2025-12-15 22:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 By not explaining 'worst 48 hours' Enzo Maresca has put himself at even greater risk | Jacob Steinberg. Enzo Maresca's 'worst 48 hours' remark on Saturday has left Chelsea baffled and the manager in danger Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -45,7 +45,7 @@ By not explaining 'worst 48 hours' Enzo Maresca has put himself at even greater 
 ## Story 2: Ian Rush returns home from hospital after spell in intensive care with flu
 **Slug (lower-third):** Ian Rush returns home from hospital after spell in intens…  
 **When:** 2025-12-15 18:02 (America/Winnipeg)  •  **Published:** 2025-12-16 00:02 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Ian Rush returns home from hospital after spell in intensive care with flu. The Liverpool great is understood to be recovering well, with the club thanking the Countess of Chester hospital for giving him 'the best care possible' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -68,10 +68,35 @@ Ian Rush returns home from hospital after spell in intensive care with flu. The 
 
 ### Club Updates
 
-## Story 3: Man Utd midfielder's half-brother wears 'Free Kobbie Mainoo' t-shirt
+## Story 3: Premier League Highlights: Manchester United 4-4 Bournemouth
+**Slug (lower-third):** Premier League Highlights: Manchester United 4-4 Bournemo…  
+**When:** 2025-12-15 17:02 (America/Winnipeg)  •  **Published:** 2025-12-15 23:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League Highlights: Manchester United 4-4 Bournemouth. Bournemouth's Junior Kroupi scores the equaliser in a dramatic 4-4 draw against Manchester United at Old Trafford, after two quick-fire goals from United's Bruno Fernandes and Matheus Cunha put the hosts in front. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League Highlights: Manchester United 4-4 Bournemouth. https://www.bbc.com/sport/football/videos/cwyxk81kd8zo?at_medium=RSS&at_campaign=rss
+- skysports.com — Manchester United 4-4 Bournemouth | Premier League highlights. https://www.skysports.com/watch/video/13483959/manchester-united-4-4-bournemouth-premier-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Man Utd midfielder's half-brother wears 'Free Kobbie Mainoo' t-shirt
 **Slug (lower-third):** Man Utd midfielder's half-brother wears 'Free Kobbie Main…  
 **When:** 2025-12-15 18:39 (America/Winnipeg)  •  **Published:** 2025-12-16 00:39 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man Utd midfielder's half-brother wears 'Free Kobbie Mainoo' t-shirt. A T-shirt worn by Kobbie Mainoo's half-brother was among the post-match talking points at Old Trafford - even after a game as thrilling as the 4-4 draw between Manchester United and Bournemouth. Relevance to standings and momentum.
@@ -92,34 +117,10 @@ Man Utd midfielder's half-brother wears 'Free Kobbie Mainoo' t-shirt. A T-shirt 
 
 ---
 
-## Story 4: Man Utd 4-4 Bournemouth: Where does 'best game' this term sit among Premier League's best games?
-**Slug (lower-third):** Man Utd 4-4 Bournemouth: Where does 'best game' this term…  
-**When:** 2025-12-15 18:29 (America/Winnipeg)  •  **Published:** 2025-12-16 00:29 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man Utd 4-4 Bournemouth: Where does 'best game' this term sit among Premier League's best games?. Manchester United and Bournemouth played out a rollercoaster 4-4 draw at Old Trafford on Monday. But where does it rank among the greatest games in Premier League history? Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Man Utd 4-4 Bournemouth: Where does 'best game' this term sit among Premier League's best games?. https://www.bbc.com/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 5: Troy Deeney's Team of the Week: Leno, Konate, Fernandes, Wilson, Ekitike
 **Slug (lower-third):** Troy Deeney's Team of the Week: Leno, Konate, Fernandes, …  
 **When:** 2025-12-15 18:14 (America/Winnipeg)  •  **Published:** 2025-12-16 00:14 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Troy Deeney's Team of the Week: Leno, Konate, Fernandes, Wilson, Ekitike. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
@@ -143,7 +144,7 @@ Troy Deeney's Team of the Week: Leno, Konate, Fernandes, Wilson, Ekitike. After 
 ## Story 6: Football gossip: Guehi, Munoz, Gallagher, Adams, Mainoo, Trafford, Konate
 **Slug (lower-third):** Football gossip: Guehi, Munoz, Gallagher, Adams, Mainoo, …  
 **When:** 2025-12-15 17:51 (America/Winnipeg)  •  **Published:** 2025-12-15 23:51 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Guehi, Munoz, Gallagher, Adams, Mainoo, Trafford, Konate. Manchester City will target Marc Guehi next summer, three Premier League clubs are eyeing Daniel Munoz, Manchester United will try to sign Conor Gallagher in January, plus more. Relevance to standings and momentum.
@@ -167,7 +168,7 @@ Football gossip: Guehi, Munoz, Gallagher, Adams, Mainoo, Trafford, Konate. Manch
 ## Story 7: Cardiff v Chelsea: Pep proteges Barry-Murphy and Maresca reunite
 **Slug (lower-third):** Cardiff v Chelsea: Pep proteges Barry-Murphy and Maresca …  
 **When:** 2025-12-15 15:42 (America/Winnipeg)  •  **Published:** 2025-12-15 21:42 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Cardiff v Chelsea: Pep proteges Barry-Murphy and Maresca reunite. Pep Guardiola proteges Enzo Maresca and Brian Barry-Murphy will reunite when Chelsea face Cardiff City in their EFL Cup quarter-final. Relevance to standings and momentum.
@@ -191,7 +192,7 @@ Cardiff v Chelsea: Pep proteges Barry-Murphy and Maresca reunite. Pep Guardiola 
 ## Story 8: Mo Salah: Jamie Carragher urges Liverpool forward to stay at Anfield until end of season
 **Slug (lower-third):** Mo Salah: Jamie Carragher urges Liverpool forward to stay…  
 **When:** 2025-12-15 14:32 (America/Winnipeg)  •  **Published:** 2025-12-15 20:32 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~23s
+**Virality score:** 91  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
 Mo Salah: Jamie Carragher urges Liverpool forward to stay at Anfield until end of season. Former Liverpool defender Jamie Carragher: I dont see Mohamed Salah playing for Liverpool next season. The big thing in my mind is whether we are going to see him from now until the end of the season. I think hed really regret it [leaving]. Relevance to standings and momentum.
@@ -215,7 +216,7 @@ Mo Salah: Jamie Carragher urges Liverpool forward to stay at Anfield until end o
 ## Story 9: Newcastle United: Dan Burn set for spell out after breaking rib
 **Slug (lower-third):** Newcastle United: Dan Burn set for spell out after breaki…  
 **When:** 2025-12-15 11:55 (America/Winnipeg)  •  **Published:** 2025-12-15 17:55 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Newcastle United: Dan Burn set for spell out after breaking rib. Newcastle United defender Dan Burn is set for a spell out of action after suffering a broken rib and punctured lung during the derby defeat against Sunderland. Relevance to standings and momentum.
@@ -239,7 +240,7 @@ Newcastle United: Dan Burn set for spell out after breaking rib. Newcastle Unite
 ## Story 10: Thomas Frank is running out of time to fix Tottenham Hotspur | Jonathan Wilson
 **Slug (lower-third):** Thomas Frank is running out of time to fix Tottenham Hots…  
 **When:** 2025-12-15 09:40 (America/Winnipeg)  •  **Published:** 2025-12-15 15:40 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+**Virality score:** 83  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Thomas Frank is running out of time to fix Tottenham Hotspur | Jonathan Wilson. Spurs have faced low moments in their history, and this is one of them. How will the club respond in the post-Daniel Levy era? Relevance to standings and momentum.
@@ -254,7 +255,7 @@ Thomas Frank is running out of time to fix Tottenham Hotspur | Jonathan Wilson. 
 - theguardian.com — Thomas Frank is running out of time to fix Tottenham Hotspur | Jonathan Wilson. https://www.theguardian.com/football/2025/dec/15/tottenham-hotspur-thomas-frank-premier-league
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
