@@ -1,14 +1,2 @@
-resp_0b6767d43d2bc92c006941a7922ee081959f18f3967cd4f588
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_0b6767d43d2bc92c006941a792846081958248a0d969115ac9
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Good morning — I’m Max Rushden with Football Weekly, and our lead story is already being called the game of the

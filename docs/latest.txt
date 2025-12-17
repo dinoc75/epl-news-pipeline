@@ -1,54 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-16 12:35 (America/Winnipeg)  |  2025-12-16 18:35 (UTC)
+**Generated:** 2025-12-16 19:45 (America/Winnipeg)  |  2025-12-17 01:45 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 22s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Man who drove into Liverpool FC parade jailed for more than 21 years
-- Paul Doyle jailed for at least 21 years for Liverpool FC parade attack
-- Chelsea count cost of Club World Cup as report puts Europe-wide injury bill at PS3bn
-
----
-
-### Managerial Moves
-
-## Story 1: Newcastle: Howe says side's inconsistency is a 'horrible feeling'
-**Slug (lower-third):** Newcastle: Howe says side's inconsistency is a 'horrible …  
-**When:** 2025-12-16 05:20 (America/Winnipeg)  •  **Published:** 2025-12-16 11:20 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Newcastle: Howe says side's inconsistency is a 'horrible feeling'. Newcastle United head coach Eddie Howe says it is a "horrible feeling" to not know what he is going to get from his side. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Newcastle: Howe says side's inconsistency is a 'horrible feeling'. https://www.bbc.com/sport/football/articles/ce8n2pvjevro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Brian Barry-Murphy's pride at Cardiff City display in loss to Chelsea
+- Enzo Maresca: Chelsea boss 'happy' and 'in love with the players' despite comments last week about 'worst 48 hours'
+- Mohamed Salah: How Egypt reacted to forward's row with Liverpool
 
 ---
 
 ### Transfers
 
-## Story 2: Milan plot January loan move for misfit West Ham striker Niclas Fullkrug
-**Slug (lower-third):** Milan plot January loan move for misfit West Ham striker …  
-**When:** 2025-12-16 05:49 (America/Winnipeg)  •  **Published:** 2025-12-16 11:49 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 1: Football gossip: Semenyo, George, Hackney, Hojbjerg, Tielemans, Suarez
+**Slug (lower-third):** Football gossip: Semenyo, George, Hackney, Hojbjerg, Tiel…  
+**When:** 2025-12-16 16:31 (America/Winnipeg)  •  **Published:** 2025-12-16 22:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Milan plot January loan move for misfit West Ham striker Niclas Fullkrug. Milan are preparing a loan deal for Niclas Fullkrug, who is available after a disastrous spell at West Ham Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Football gossip: Semenyo, George, Hackney, Hojbjerg, Tielemans, Suarez. Five Premier League clubs in the frame to sign Bournemouth winger Antoine Semenyo, Everton interested in Middlesbrough's Hayden Hackney, Aston Villa plan Youri Tielemans contract talks, plus more. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,33 +31,7 @@ Milan plot January loan move for misfit West Ham striker Niclas Fullkrug. Milan 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Milan plot January loan move for misfit West Ham striker Niclas Fullkrug. https://www.theguardian.com/football/2025/dec/16/milan-january-loan-west-ham-striker-niclas-fullkrug
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 3: Chelsea count cost of Club World Cup as report puts Europe-wide injury bill at PS3bn
-**Slug (lower-third):** Chelsea count cost of Club World Cup as report puts Europ…  
-**When:** 2025-12-16 09:00 (America/Winnipeg)  •  **Published:** 2025-12-16 15:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-Chelsea count cost of Club World Cup as report puts Europe-wide injury bill at PS3bn. A Howden report said there was a 44% rise between June to October compared with 2024-25, with Chelsea having 23 injuries at a financial loss of PS17m Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Chelsea count cost of Club World Cup as report puts Europe-wide injury bill at PS3bn. https://www.theguardian.com/football/2025/dec/16/chelsea-injury-increase-club-world-cup-premier-league
+- bbc.com — Football gossip: Semenyo, George, Hackney, Hojbjerg, Tielemans, Suarez. https://www.bbc.com/sport/football/articles/clydxelxx08o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -94,13 +42,13 @@ Chelsea count cost of Club World Cup as report puts Europe-wide injury bill at P
 
 ### Club Updates
 
-## Story 4: Man who drove into Liverpool FC parade jailed for more than 21 years
-**Slug (lower-third):** Man who drove into Liverpool FC parade jailed for more th…  
-**When:** 2025-12-16 09:15 (America/Winnipeg)  •  **Published:** 2025-12-16 15:15 (UTC)  
+## Story 2: Brian Barry-Murphy's pride at Cardiff City display in loss to Chelsea
+**Slug (lower-third):** Brian Barry-Murphy's pride at Cardiff City display in los…  
+**When:** 2025-12-16 17:50 (America/Winnipeg)  •  **Published:** 2025-12-16 23:50 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man who drove into Liverpool FC parade jailed for more than 21 years. Police said Paul Doyle, 54, used his vehicle 'as a weapon' in a moment of rage at a victory parade in the city on 26 May Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Brian Barry-Murphy's pride at Cardiff City display in loss to Chelsea. Brian Barry-Murphy takes pride - and a desire to be at this level again - as his Cardiff City side lose to Chelsea in the EFL Cup quarter-finals. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,7 +57,7 @@ Man who drove into Liverpool FC parade jailed for more than 21 years. Police sai
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Man who drove into Liverpool FC parade jailed for more than 21 years. https://www.theguardian.com/uk-news/2025/dec/16/man-who-drove-into-liverpool-fc-parade-jailed-paul-doyle
+- bbc.com — Brian Barry-Murphy's pride at Cardiff City display in loss to Chelsea. https://www.bbc.com/sport/football/articles/ce3z58g0g2ko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,10 +66,106 @@ Man who drove into Liverpool FC parade jailed for more than 21 years. Police sai
 
 ---
 
-## Story 5: Paul Doyle jailed for at least 21 years for Liverpool FC parade attack
+## Story 3: Enzo Maresca: Chelsea boss 'happy' and 'in love with the players' despite comments last week about 'worst 48 hours'
+**Slug (lower-third):** Enzo Maresca: Chelsea boss 'happy' and 'in love with the …  
+**When:** 2025-12-16 17:46 (America/Winnipeg)  •  **Published:** 2025-12-16 23:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Enzo Maresca: Chelsea boss 'happy' and 'in love with the players' despite comments last week about 'worst 48 hours'. Chelsea's Enzo Maresca says he is "happy" and "falling more in love with the players", days after saying he experienced "the worst 48 hours" of his tenure. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Enzo Maresca: Chelsea boss 'happy' and 'in love with the players' despite comments last week about 'worst 48 hours'. https://www.bbc.com/sport/football/articles/c4gpxlljxklo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Mohamed Salah: How Egypt reacted to forward's row with Liverpool
+**Slug (lower-third):** Mohamed Salah: How Egypt reacted to forward's row with Li…  
+**When:** 2025-12-16 17:32 (America/Winnipeg)  •  **Published:** 2025-12-16 23:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Mohamed Salah: How Egypt reacted to forward's row with Liverpool. Mohamed Salah's Liverpool row felt like "humiliation" for Egyptian fans, who are rallying behind their star man before the Africa Cup of Nations begins. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Mohamed Salah: How Egypt reacted to forward's row with Liverpool. https://www.bbc.com/sport/articles/clydxyg1l4do?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Man Utd anger at Morocco over release of Noussair Mazraoui for Afcon
+**Slug (lower-third):** Man Utd anger at Morocco over release of Noussair Mazraou…  
+**When:** 2025-12-16 15:33 (America/Winnipeg)  •  **Published:** 2025-12-16 21:33 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man Utd anger at Morocco over release of Noussair Mazraoui for Afcon. Manchester United are angry with the Moroccan FA for rejecting their plea for Noussair Mazraoui to play in Monday's draw with Bournemouth. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Man Utd anger at Morocco over release of Noussair Mazraoui for Afcon. https://www.bbc.com/sport/football/articles/cvgr8g0dv0vo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Idrissa Gueye red card: Why Everton midfielder was sent off for slapping teammate Michael Keane - Match Officials Mic'd Up
+**Slug (lower-third):** Idrissa Gueye red card: Why Everton midfielder was sent o…  
+**When:** 2025-12-16 13:00 (America/Winnipeg)  •  **Published:** 2025-12-16 19:00 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Idrissa Gueye red card: Why Everton midfielder was sent off for slapping teammate Michael Keane - Match Officials Mic'd Up. Also: Why Georginio Rutters equaliser vs West Ham was allowed to stand and why VAR intervened to award a penalty against Ibrahima Konate vs Leeds; Watch Match Officials Micd Up on Sky Sports Premier League at 8pm on Tuesday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Idrissa Gueye red card: Why Everton midfielder was sent off for slapping teammate Michael Keane - Match Officials Mic'd Up. https://www.skysports.com/football/news/12040/13484464/idrissa-gueye-red-card-why-everton-midfielder-was-sent-off-for-slapping-teammate-michael-keane-match-officials-micd-up
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Paul Doyle jailed for at least 21 years for Liverpool FC parade attack
 **Slug (lower-third):** Paul Doyle jailed for at least 21 years for Liverpool FC …  
 **When:** 2025-12-16 08:51 (America/Winnipeg)  •  **Published:** 2025-12-16 14:51 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Paul Doyle jailed for at least 21 years for Liverpool FC parade attack. The married father of three is sentenced after driving at crowds "in a rage" at the victory parade. Relevance to standings and momentum.
@@ -142,10 +186,10 @@ Paul Doyle jailed for at least 21 years for Liverpool FC parade attack. The marr
 
 ---
 
-## Story 6: 'They wanted me to leave': Fernandes hits out at Manchester United directors
+## Story 8: 'They wanted me to leave': Fernandes hits out at Manchester United directors
 **Slug (lower-third):** 'They wanted me to leave': Fernandes hits out at Manchest…  
 **When:** 2025-12-16 08:29 (America/Winnipeg)  •  **Published:** 2025-12-16 14:29 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'They wanted me to leave': Fernandes hits out at Manchester United directors. Bruno Fernandes has claimed Manchester United directors 'hurt' him by wanting to sell him, and has criticised teammates 'who don't value the club' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -166,10 +210,10 @@ Paul Doyle jailed for at least 21 years for Liverpool FC parade attack. The marr
 
 ---
 
-## Story 7: Bruno Fernandes: Man Utd captain felt 'hurt' and believes club 'wanted him' to accept Al-Hilal offer
+## Story 9: Bruno Fernandes: Man Utd captain felt 'hurt' and believes club 'wanted him' to accept Al-Hilal offer
 **Slug (lower-third):** Bruno Fernandes: Man Utd captain felt 'hurt' and believes…  
 **When:** 2025-12-16 07:51 (America/Winnipeg)  •  **Published:** 2025-12-16 13:51 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Bruno Fernandes: Man Utd captain felt 'hurt' and believes club 'wanted him' to accept Al-Hilal offer. Manchester United captain Bruno Fernandes says it "hurt" to realise the club "wanted me to leave" when Saudi Arabia's Al-Hilal proposed a huge offer in the summer. Relevance to standings and momentum.
@@ -190,10 +234,10 @@ Bruno Fernandes: Man Utd captain felt 'hurt' and believes club 'wanted him' to a
 
 ---
 
-## Story 8: Game of the season at Old Trafford and the latest from the EFL | Football Weekly
+## Story 10: Game of the season at Old Trafford and the latest from the EFL | Football Weekly
 **Slug (lower-third):** Game of the season at Old Trafford and the latest from th…  
 **When:** 2025-12-16 07:50 (America/Winnipeg)  •  **Published:** 2025-12-16 13:50 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Game of the season at Old Trafford and the latest from the EFL | Football Weekly. Max Rushden is joined by Barry Glendenning, Sanny Rudravajhala and George Elek as Manchester United and Bournemouth play out a thrilling 4-4 draw Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -206,54 +250,6 @@ Game of the season at Old Trafford and the latest from the EFL | Football Weekly
 
 ### Sources
 - theguardian.com — Game of the season at Old Trafford and the latest from the EFL | Football Weekly. https://www.theguardian.com/football/video/2025/dec/16/game-of-the-season-at-old-trafford-and-the-latest-from-the-efl-football-weekly
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Pep Guardiola to include 'father figure' in much-changed Manchester City side
-**Slug (lower-third):** Pep Guardiola to include 'father figure' in much-changed …  
-**When:** 2025-12-16 07:30 (America/Winnipeg)  •  **Published:** 2025-12-16 13:30 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Pep Guardiola to include 'father figure' in much-changed Manchester City side. Manchester City host Brentford in the Carabao Cup quarter-finals and Pep Guardiola wants to avoid a repeat of the Bayer Leverkusen home defeat Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Pep Guardiola to include 'father figure' in much-changed Manchester City side. https://www.theguardian.com/football/2025/dec/16/pep-guardiola-manchester-carabao-cup-quarter-final-brentford
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Crystal Palace fan becomes first visually impaired commentator at Premier League game
-**Slug (lower-third):** Crystal Palace fan becomes first visually impaired commen…  
-**When:** 2025-12-16 06:03 (America/Winnipeg)  •  **Published:** 2025-12-16 12:03 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Crystal Palace fan becomes first visually impaired commentator at Premier League game. Crystal Palace fan Neale Ormston becomes first visually impaired person to commentate on a Premier League game using a specially made headset. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Crystal Palace fan becomes first visually impaired commentator at Premier League game. https://www.bbc.com/sport/football/articles/c075xyk5e4yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
