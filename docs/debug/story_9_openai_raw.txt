@@ -1,14 +1,2 @@
-resp_0e6320b769962747006944f3314d8c819087e8b5be0c5264f8
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_0e6320b769962747006944f33192ac81908e98c495abde8503
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Good evening, racing fans — tonight on Sky Sports Racing we head to Ascot where
