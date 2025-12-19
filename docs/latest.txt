@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-19 06:45 (America/Winnipeg)  |  2025-12-19 12:45 (UTC)
+**Generated:** 2025-12-19 12:33 (America/Winnipeg)  |  2025-12-19 18:33 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 22s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Uefa pays nine million euros to clubs for Women's Euros benefits programme
-- Enzo Maresca: Chelsea boss denies Manchester City links
-- Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
+- Paul Merson on Pep Guardiola's future if Arsenal with Premier League
+- Premier League news: Guardiola dismisses exit talk and Slot has 'moved on' from Salah fallout
+- Mo Salah apologised to Liverpool squad after explosive interview reveals midfielder Curtis Jones
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Enzo Maresca plays down Manchester City link and insists future lies with Chelsea
-**Slug (lower-third):** Enzo Maresca plays down Manchester City link and insists …  
-**When:** 2025-12-19 04:54 (America/Winnipeg)  •  **Published:** 2025-12-19 10:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Mo Salah apologised to Liverpool squad after explosive interview reveals midfielder Curtis Jones
+**Slug (lower-third):** Mo Salah apologised to Liverpool squad after explosive in…  
+**When:** 2025-12-19 12:00 (America/Winnipeg)  •  **Published:** 2025-12-19 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Enzo Maresca plays down Manchester City link and insists future lies with Chelsea. Enzo Maresca has played down links with Manchester City and insisted he expects to be Chelsea's head coach next season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Mo Salah apologised to Liverpool squad after explosive interview reveals midfielder Curtis Jones. Mohamed Salah said he had no relationship with Liverpool head coach Arne Slot earlier this month; Salah returned to squad last weekend and Slot said there was no issue to resolve; watch Spurs vs Liverpool on Saturday Night Football live on Sky Sports, kick-off 5.30pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Enzo Maresca plays down Manchester City link and insists future lies with Chelse
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Enzo Maresca plays down Manchester City link and insists future lies with Chelsea. https://www.theguardian.com/football/2025/dec/19/enzo-maresca-manchester-city-chelsea-stay
+- skysports.com — Mo Salah apologised to Liverpool squad after explosive interview reveals midfielder Curtis Jones. https://www.skysports.com/football/news/12040/13485613/mo-salah-apologised-to-liverpool-squad-after-explosive-interview-reveals-midfielder-curtis-jones
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ Enzo Maresca plays down Manchester City link and insists future lies with Chelse
 
 ---
 
-### Injuries
-
-## Story 2: Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
-**Slug (lower-third):** Premier League and FPL team news: All your injury and Fan…  
-**When:** 2025-12-19 05:07 (America/Winnipeg)  •  **Published:** 2025-12-19 11:07 (UTC)  
+## Story 2: Thomas Frank: Tottenham manager insists players are "still with me"
+**Slug (lower-third):** Thomas Frank: Tottenham manager insists players are "stil…  
+**When:** 2025-12-19 10:57 (America/Winnipeg)  •  **Published:** 2025-12-19 16:57 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Potential impact on the lineup and upcoming fixtures.
+Thomas Frank: Tottenham manager insists players are "still with me". Tottenham manager Thomas Frank says he "feels supported" despite their recent run of poor results and has no doubts the Spurs players are "with me or going in the same direction." Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,55 @@ Premier League and FPL team news: All your injury and Fantasy Premier League inf
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. https://www.bbc.com/sport/articles/cwyl25yqjq4o?at_medium=RSS&at_campaign=rss
+- bbc.com — Thomas Frank: Tottenham manager insists players are "still with me". https://www.bbc.com/sport/football/articles/ckgdp8n1n40o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Man Utd: Ruben Amorim criticises 'feeling of entitlement' at Premier League club
+**Slug (lower-third):** Man Utd: Ruben Amorim criticises 'feeling of entitlement'…  
+**When:** 2025-12-19 09:32 (America/Winnipeg)  •  **Published:** 2025-12-19 15:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man Utd: Ruben Amorim criticises 'feeling of entitlement' at Premier League club. Manchester United head coach Ruben Amorim condemns the "sense of entitlement" at the club and says players should use criticism as fuel to prove him wrong. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Man Utd: Ruben Amorim criticises 'feeling of entitlement' at Premier League club. https://www.bbc.com/sport/football/articles/c865dv797zzo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Ruben Amorim: Man Utd boss defends 'strong words' on academy stars Harry Amass and Chido Obi
+**Slug (lower-third):** Ruben Amorim: Man Utd boss defends 'strong words' on acad…  
+**When:** 2025-12-19 08:10 (America/Winnipeg)  •  **Published:** 2025-12-19 14:10 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~26s
+
+### Presenter Script (3–5 sentences)
+Ruben Amorim: Man Utd boss defends 'strong words' on academy stars Harry Amass and Chido Obi. Manchester United head coach Amorim: I think its the feeling of entitlement that we have in our club. Sometimes strong words are not bad words... We need to change as a club; watch Aston Villa vs Man Utd on Sky Sports Premier League from 4pm on Sunday, kick-off 4.30pm Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Ruben Amorim: Man Utd boss defends 'strong words' on academy stars Harry Amass and Chido Obi. https://www.skysports.com/football/news/12040/13485602/ruben-amorim-man-utd-boss-defends-strong-words-on-academy-stars-harry-amass-and-chido-obi
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +114,13 @@ Premier League and FPL team news: All your injury and Fantasy Premier League inf
 
 ### Club Updates
 
-## Story 3: Uefa pays nine million euros to clubs for Women's Euros benefits programme
-**Slug (lower-third):** Uefa pays nine million euros to clubs for Women's Euros b…  
-**When:** 2025-12-19 06:32 (America/Winnipeg)  •  **Published:** 2025-12-19 12:32 (UTC)  
+## Story 5: Paul Merson on Pep Guardiola's future if Arsenal with Premier League
+**Slug (lower-third):** Paul Merson on Pep Guardiola's future if Arsenal with Pre…  
+**When:** 2025-12-19 12:01 (America/Winnipeg)  •  **Published:** 2025-12-19 18:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Uefa pays nine million euros to clubs for Women's Euros benefits programme. Uefa has distributed a!9 million (APS7.88m) between 103 European clubs as benefit payments for releasing players for Women's Euro 2025, with Chelsea and Arsenal sharing APS763,000 Relevance to standings and momentum.
+Paul Merson on Pep Guardiola's future if Arsenal with Premier League. Sky Sports pundit Paul Merson shares his thoughts on the battle between Manchester City and Arsenal and what it could mean for Pep Guardiolas future. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +129,7 @@ Uefa pays nine million euros to clubs for Women's Euros benefits programme. Uefa
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Uefa pays nine million euros to clubs for Women's Euros benefits programme. https://www.bbc.com/sport/football/articles/cy7v2enrmg3o?at_medium=RSS&at_campaign=rss
+- skysports.com — Paul Merson on Pep Guardiola's future if Arsenal with Premier League. https://www.skysports.com/watch/video/13485679/paul-merson-on-pep-guardiolas-future-if-arsenal-with-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +138,13 @@ Uefa pays nine million euros to clubs for Women's Euros benefits programme. Uefa
 
 ---
 
-## Story 4: Enzo Maresca: Chelsea boss denies Manchester City links
-**Slug (lower-third):** Enzo Maresca: Chelsea boss denies Manchester City links  
-**When:** 2025-12-19 06:13 (America/Winnipeg)  •  **Published:** 2025-12-19 12:13 (UTC)  
+## Story 6: Premier League news: Guardiola dismisses exit talk and Slot has 'moved on' from Salah fallout
+**Slug (lower-third):** Premier League news: Guardiola dismisses exit talk and Sl…  
+**When:** 2025-12-19 12:00 (America/Winnipeg)  •  **Published:** 2025-12-19 18:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Enzo Maresca: Chelsea boss denies Manchester City links. Reports suggesting Enzo Maresca is the potential successor to Pep Guardiola at Manchester City are "100% speculation", the Chelsea boss says. Relevance to standings and momentum.
+Premier League news: Guardiola dismisses exit talk and Slot has 'moved on' from Salah fallout. Word from the top-tier press conferences, including updates on Viktor Gyokeres, Tyler Adams and Leeds reinforcements Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +153,7 @@ Enzo Maresca: Chelsea boss denies Manchester City links. Reports suggesting Enzo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Enzo Maresca: Chelsea boss denies Manchester City links. https://www.bbc.com/sport/football/articles/c7vm91l58d0o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League news: Guardiola dismisses exit talk and Slot has 'moved on' from Salah fallout. https://www.theguardian.com/football/2025/dec/19/premier-league-news-guardiola-dismisses-exit-talk-and-slot-has-moved-on-from-salah-fallout
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +162,13 @@ Enzo Maresca: Chelsea boss denies Manchester City links. Reports suggesting Enzo
 
 ---
 
-## Story 5: Bayern Munich's Luis Diaz: 'I want to enjoy it and create those chaotic moments'
-**Slug (lower-third):** Bayern Munich's Luis Diaz: 'I want to enjoy it and create…  
-**When:** 2025-12-19 05:00 (America/Winnipeg)  •  **Published:** 2025-12-19 11:00 (UTC)  
+## Story 7: Your Guardian sport weekend: Premier League, NFL and boxing
+**Slug (lower-third):** Your Guardian sport weekend: Premier League, NFL and boxi…  
+**When:** 2025-12-19 11:25 (America/Winnipeg)  •  **Published:** 2025-12-19 17:25 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bayern Munich's Luis Diaz: 'I want to enjoy it and create those chaotic moments'. The former Liverpool winger speaks about his hot start at Bayern, playing with Harry Kane, and hopes for the 2026 World Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Your Guardian sport weekend: Premier League, NFL and boxing. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +177,7 @@ Bayern Munich's Luis Diaz: 'I want to enjoy it and create those chaotic moments'
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Bayern Munich's Luis Diaz: 'I want to enjoy it and create those chaotic moments'. https://www.theguardian.com/football/2025/dec/19/luis-diaz-inerview-bayern-munich-liverpool-colombia-world-cup
+- theguardian.com — Your Guardian sport weekend: Premier League, NFL and boxing. https://www.theguardian.com/sport/2025/dec/19/your-guardian-sport-weekend-premier-league-nfl-and-boxing
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +186,13 @@ Bayern Munich's Luis Diaz: 'I want to enjoy it and create those chaotic moments'
 
 ---
 
-## Story 6: Semenyo a January target for Manchester United as well as Liverpool and City
-**Slug (lower-third):** Semenyo a January target for Manchester United as well as…  
-**When:** 2025-12-19 04:43 (America/Winnipeg)  •  **Published:** 2025-12-19 10:43 (UTC)  
+## Story 8: Premier League team news: predicted lineups for the weekend action
+**Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
+**When:** 2025-12-19 11:00 (America/Winnipeg)  •  **Published:** 2025-12-19 17:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Semenyo a January target for Manchester United as well as Liverpool and City. Manchester United are vying with Liverpool and Manchester City to sign Antoine Semenyo from Bournemouth Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League team news: predicted lineups for the weekend action. It is a case of north London against Merseyside as Tottenham host Liverpool and Everton face leaders Arsenal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +201,7 @@ Semenyo a January target for Manchester United as well as Liverpool and City. Ma
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Semenyo a January target for Manchester United as well as Liverpool and City. https://www.theguardian.com/football/2025/dec/19/antoine-semenyo-january-target-liverpool-manchester-united-manchester-city
+- theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/football/2025/dec/19/premier-league-team-news-predicted-lineups-for-the-weekend-action
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +210,13 @@ Semenyo a January target for Manchester United as well as Liverpool and City. Ma
 
 ---
 
-## Story 7: Fantasy Premier League: Time to buy Liverpool's Hugo Ekitike and Dominik Szoboszlai?
-**Slug (lower-third):** Fantasy Premier League: Time to buy Liverpool's Hugo Ekit…  
-**When:** 2025-12-19 03:43 (America/Winnipeg)  •  **Published:** 2025-12-19 09:43 (UTC)  
+## Story 9: Alex Ferguson claims Manchester United could be 10 years from winning title
+**Slug (lower-third):** Alex Ferguson claims Manchester United could be 10 years …  
+**When:** 2025-12-19 10:46 (America/Winnipeg)  •  **Published:** 2025-12-19 16:46 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fantasy Premier League: Time to buy Liverpool's Hugo Ekitike and Dominik Szoboszlai?. With Liverpool's attack looking thin, is it time to gamble on buying Reds striker Hugo Ekitike? Our FPL experts take a look. Relevance to standings and momentum.
+Alex Ferguson claims Manchester United could be 10 years from winning title. Sir Alex Ferguson has stated it could take Manchester United another "10 or 11 years" to win the title, prompting Ruben Amorim to publicly disagree Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +225,7 @@ Fantasy Premier League: Time to buy Liverpool's Hugo Ekitike and Dominik Szobosz
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Fantasy Premier League: Time to buy Liverpool's Hugo Ekitike and Dominik Szoboszlai?. https://www.bbc.com/sport/football/articles/cgr1l9ydvl9o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Alex Ferguson claims Manchester United could be 10 years from winning title. https://www.theguardian.com/football/2025/dec/19/alex-ferguson-manchester-united-10-years-title-ruben-amorim-entitlement
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +234,13 @@ Fantasy Premier League: Time to buy Liverpool's Hugo Ekitike and Dominik Szobosz
 
 ---
 
-## Story 8: Sunderland: Granit Xhaka raised the standards at club, says Dan Ballard
-**Slug (lower-third):** Sunderland: Granit Xhaka raised the standards at club, sa…  
-**When:** 2025-12-19 00:13 (America/Winnipeg)  •  **Published:** 2025-12-19 06:13 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 10: Pep Guardiola: Man City 'must prepare' for successor
+**Slug (lower-third):** Pep Guardiola: Man City 'must prepare' for successor  
+**When:** 2025-12-19 08:02 (America/Winnipeg)  •  **Published:** 2025-12-19 14:02 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sunderland: Granit Xhaka raised the standards at club, says Dan Ballard. Dan Ballard says Granit Xhaka's arrival at Sunderland rose the standards at the club to help them compete in the top half of the Premier League. Relevance to standings and momentum.
+Pep Guardiola: Man City 'must prepare' for successor. Pep Guardiola says Man City "must be prepared" to plan for his eventual departure, after Enzo Maresca says reports suggesting he could succeed the Spaniard are "100% speculation". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,55 +249,7 @@ Sunderland: Granit Xhaka raised the standards at club, says Dan Ballard. Dan Bal
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Sunderland: Granit Xhaka raised the standards at club, says Dan Ballard. https://www.bbc.com/sport/football/articles/c9w7ej2vqzro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Today on Sky Sports Racing: Steel Ally faces No Questions Asked in Grade 2 showdown
-**Slug (lower-third):** Today on Sky Sports Racing: Steel Ally faces No Questions…  
-**When:** 2025-12-19 00:00 (America/Winnipeg)  •  **Published:** 2025-12-19 06:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Steel Ally faces No Questions Asked in Grade 2 showdown. A talented quintet have assembled for Friday afternoons Howden Noel Novices Chase - the feature on the days card at Ascot; Sky Sports Racing will also bring you proceedings from Uttoxeter, Newcastle and Southwell, with 31 races scheduled in total. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Steel Ally faces No Questions Asked in Grade 2 showdown. https://www.skysports.com/racing/news/12040/13484821/today-on-sky-sports-racing-steel-ally-faces-no-questions-asked-in-grade-2-showdown
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Oliver Glasner keeps Crystal Palace guessing over future as games pile up
-**Slug (lower-third):** Oliver Glasner keeps Crystal Palace guessing over future …  
-**When:** 2025-12-18 18:02 (America/Winnipeg)  •  **Published:** 2025-12-19 00:02 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Oliver Glasner keeps Crystal Palace guessing over future as games pile up. The games are piling up for Crystal Palace who face a two-legged play-off in the Conference League after failing to qualify automatically for the last 16. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Oliver Glasner keeps Crystal Palace guessing over future as games pile up. https://www.bbc.com/sport/football/articles/c157234qjzjo?at_medium=RSS&at_campaign=rss
+- bbc.com — Pep Guardiola: Man City 'must prepare' for successor. https://www.bbc.com/sport/football/articles/c7vm91l58d0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
