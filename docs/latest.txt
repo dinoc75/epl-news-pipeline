@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-21 12:31 (America/Winnipeg)  |  2025-12-21 18:31 (UTC)
+**Generated:** 2025-12-21 19:54 (America/Winnipeg)  |  2025-12-22 01:54 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 29s
@@ -8,18 +8,42 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Women's Super League: West Ham set to appoint Rita Guarino as manager
-- London City Lionesses sack manager Precheur while West Ham close on Guarino
-- Man Utd: Matheus Cunha heads wide against Aston Villa
+- Manchester City: Pep Guardiola says players will be weighed before Nottingham Forest game
+- Premier League highlights: Aston Villa 2-1 Manchester United
+- Liverpool fear Alexander Isak has fractured leg after horror injury against Spurs
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Women's Super League: West Ham set to appoint Rita Guarino as manager
+## Story 1: Manchester City: Pep Guardiola says players will be weighed before Nottingham Forest game
+**Slug (lower-third):** Manchester City: Pep Guardiola says players will be weigh…  
+**When:** 2025-12-21 16:32 (America/Winnipeg)  •  **Published:** 2025-12-21 22:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City: Pep Guardiola says players will be weighed before Nottingham Forest game. Manchester City manager Pep Guardiola says his players will be weighed when they return to training to check they are fit enough to play against Nottingham Forest. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester City: Pep Guardiola says players will be weighed before Nottingham Forest game. https://www.bbc.com/sport/football/articles/cm20dd4md8qo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Women's Super League: West Ham set to appoint Rita Guarino as manager
 **Slug (lower-third):** Women's Super League: West Ham set to appoint Rita Guarin…  
 **When:** 2025-12-21 12:11 (America/Winnipeg)  •  **Published:** 2025-12-21 18:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Women's Super League: West Ham set to appoint Rita Guarino as manager. West Ham are set to appoint Rita Guarino as their women's team manager following the sacking of Rehanne Skinner. Relevance to standings and momentum.
@@ -40,10 +64,10 @@ Women's Super League: West Ham set to appoint Rita Guarino as manager. West Ham 
 
 ---
 
-## Story 2: London City Lionesses sack manager Precheur while West Ham close on Guarino
+## Story 3: London City Lionesses sack manager Precheur while West Ham close on Guarino
 **Slug (lower-third):** London City Lionesses sack manager Precheur while West Ha…  
 **When:** 2025-12-21 12:03 (America/Winnipeg)  •  **Published:** 2025-12-21 18:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 London City Lionesses sack manager Precheur while West Ham close on Guarino. London City Lionesses have sacked their manager Jocelyn Precheur, with the newly-promoted club sixth in the WSL table Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -64,65 +88,15 @@ London City Lionesses sack manager Precheur while West Ham close on Guarino. Lon
 
 ---
 
-### Transfers
-
-## Story 3: Harry Wilson interview: Fulham winger discusses secret behind goalscoring form and nearly joining Leeds on Deadline Day
-**Slug (lower-third):** Harry Wilson interview: Fulham winger discusses secret be…  
-**When:** 2025-12-21 04:00 (America/Winnipeg)  •  **Published:** 2025-12-21 10:00 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Harry Wilson interview: Fulham winger discusses secret behind goalscoring form and nearly joining Leeds on Deadline Day. Harry Wilson speaks to Sky Sports about his purple patch for Fulham and contract talks; Wilson has three goals and three assists in his last four league games; watch Fulham vs Nottingham Forest live on Sky Sports Monday Night Football on December 22, kick-off at 8pm Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Harry Wilson interview: Fulham winger discusses secret behind goalscoring form and nearly joining Leeds on Deadline Day. https://www.skysports.com/football/news/12040/13485636/harry-wilson-interview-fulham-winger-discusses-secret-behind-goalscoring-form-and-nearly-joining-leeds-on-deadline-day
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: 'I made such a bond': Jesse Lingard on life in South Korea and his next challenge
-**Slug (lower-third):** 'I made such a bond': Jesse Lingard on life in South Kore…  
-**When:** 2025-12-21 02:00 (America/Winnipeg)  •  **Published:** 2025-12-21 08:00 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-'I made such a bond': Jesse Lingard on life in South Korea and his next challenge. Former Manchester United player discusses culinary and cultural surprises, feeling more mature and how he learned Korean Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — 'I made such a bond': Jesse Lingard on life in South Korea and his next challenge. https://www.theguardian.com/football/2025/dec/21/i-made-such-a-bond-jesse-lingard-on-life-in-south-korea-and-his-next-challenge
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Injuries
 
-## Story 5: Liverpool fear Alexander Isak sustained significant injury at Tottenham
-**Slug (lower-third):** Liverpool fear Alexander Isak sustained significant injur…  
-**When:** 2025-12-21 10:51 (America/Winnipeg)  •  **Published:** 2025-12-21 16:51 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Liverpool fear Alexander Isak has fractured leg after horror injury against Spurs
+**Slug (lower-third):** Liverpool fear Alexander Isak has fractured leg after hor…  
+**When:** 2025-12-21 16:05 (America/Winnipeg)  •  **Published:** 2025-12-21 22:05 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool fear Alexander Isak sustained significant injury at Tottenham. Alexander Isak could be facing a lengthy absence after he was injured giving Liverpool the lead at Tottenham Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Liverpool fear Alexander Isak has fractured leg after horror injury against Spurs. Alexander Isak could be facing a lengthy absence after he was injured giving Liverpool the lead at Tottenham Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,31 +105,7 @@ Liverpool fear Alexander Isak sustained significant injury at Tottenham. Alexand
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool fear Alexander Isak sustained significant injury at Tottenham. https://www.theguardian.com/football/2025/dec/21/liverpool-fear-alexander-isak-sustained-significant-injury-at-tottenham
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Alexander Isak: Liverpool fear 'significant' lower leg injury for striker
-**Slug (lower-third):** Alexander Isak: Liverpool fear 'significant' lower leg in…  
-**When:** 2025-12-21 09:31 (America/Winnipeg)  •  **Published:** 2025-12-21 15:31 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Alexander Isak: Liverpool fear 'significant' lower leg injury for striker. Liverpool fear Alexander Isak has sustained a significant lower leg injury after the striker was forced off against Tottenham on Saturday. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Alexander Isak: Liverpool fear 'significant' lower leg injury for striker. https://www.bbc.com/sport/football/articles/crrk881yy17o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Liverpool fear Alexander Isak has fractured leg after horror injury against Spurs. https://www.theguardian.com/football/2025/dec/21/liverpool-fear-alexander-isak-sustained-significant-injury-at-tottenham
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +116,13 @@ Alexander Isak: Liverpool fear 'significant' lower leg injury for striker. Liver
 
 ### Club Updates
 
-## Story 7: Man Utd: Matheus Cunha heads wide against Aston Villa
-**Slug (lower-third):** Man Utd: Matheus Cunha heads wide against Aston Villa  
-**When:** 2025-12-21 12:02 (America/Winnipeg)  •  **Published:** 2025-12-21 18:02 (UTC)  
+## Story 5: Premier League highlights: Aston Villa 2-1 Manchester United
+**Slug (lower-third):** Premier League highlights: Aston Villa 2-1 Manchester Uni…  
+**When:** 2025-12-21 13:12 (America/Winnipeg)  •  **Published:** 2025-12-21 19:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd: Matheus Cunha heads wide against Aston Villa. Manchester United forward Matheus Cunha heads a glorious chance wide against Aston Villa Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League highlights: Aston Villa 2-1 Manchester United. Morgan Rogers scores twice for Aston Villa in their 2-1 win against Manchester United, extending Villa's unbeaten run to 10 matches in all competitions. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +131,8 @@ Man Utd: Matheus Cunha heads wide against Aston Villa. Manchester United forward
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man Utd: Matheus Cunha heads wide against Aston Villa. https://www.skysports.com/watch/video/13486453/header-m-cunha-67-aston-villa-2-1-manchester-utd
+- bbc.com — Premier League highlights: Aston Villa 2-1 Manchester United. https://www.bbc.com/sport/football/videos/cvgr3nez9x9o?at_medium=RSS&at_campaign=rss
+- skysports.com — Aston Villa 2-1 Manchester United | Premier League highlights. https://www.skysports.com/watch/video/13486469/aston-villa-2-1-manchester-united-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +141,13 @@ Man Utd: Matheus Cunha heads wide against Aston Villa. Manchester United forward
 
 ---
 
-## Story 8: Aston Villa: Morgan Rogers clips the post against Manchester United
-**Slug (lower-third):** Aston Villa: Morgan Rogers clips the post against Manches…  
-**When:** 2025-12-21 10:43 (America/Winnipeg)  •  **Published:** 2025-12-21 16:43 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: 'Fighter' Rogers shows importance as Villa stay in title race
+**Slug (lower-third):** 'Fighter' Rogers shows importance as Villa stay in title …  
+**When:** 2025-12-21 15:40 (America/Winnipeg)  •  **Published:** 2025-12-21 21:40 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa: Morgan Rogers clips the post against Manchester United. Aston Villa forward Morgan Rogers clips the post with an improvised flick against Manchester United Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+'Fighter' Rogers shows importance as Villa stay in title race. Morgan Rogers shows his importance to Aston Villa with two goals in a win over Manchester United, as Unai Emery's side remain in the title hunt. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +156,7 @@ Aston Villa: Morgan Rogers clips the post against Manchester United. Aston Villa
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Aston Villa: Morgan Rogers clips the post against Manchester United. https://www.skysports.com/watch/video/13486417/post-m-rogers-8-aston-villa-0-0-manchester-utd
+- bbc.com — 'Fighter' Rogers shows importance as Villa stay in title race. https://www.bbc.com/sport/football/articles/cm21jdy1wjeo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +165,13 @@ Aston Villa: Morgan Rogers clips the post against Manchester United. Aston Villa
 
 ---
 
-## Story 9: Women's League Cup: Chelsea thrash Liverpool as Arsenal, Man City and Man Utd also reach semis
-**Slug (lower-third):** Women's League Cup: Chelsea thrash Liverpool as Arsenal, …  
-**When:** 2025-12-21 10:40 (America/Winnipeg)  •  **Published:** 2025-12-21 16:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Football - latest news today, results & video highlights - BBC Sport
+**Slug (lower-third):** Football - latest news today, results & video highlights …  
+**When:** 2025-12-21 15:15 (America/Winnipeg)  •  **Published:** 2025-12-21 21:15 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Women's League Cup: Chelsea thrash Liverpool as Arsenal, Man City and Man Utd also reach semis. Chelsea hammer Liverpool 9-1 to reach the Women's League Cup semi-finals, while Manchester City, Manchester United and Arsenal also progress. Relevance to standings and momentum.
+Football - latest news today, results & video highlights - BBC Sport. Football news, scores, results, fixtures and videos from the Premier League, Championship, European and World Football from the BBC. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +180,7 @@ Women's League Cup: Chelsea thrash Liverpool as Arsenal, Man City and Man Utd al
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Women's League Cup: Chelsea thrash Liverpool as Arsenal, Man City and Man Utd also reach semis. https://www.bbc.com/sport/football/articles/c7vmyg3lppmo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Football - latest news today, results & video highlights - BBC Sport. https://www.bbc.co.uk/sport/football
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,10 +189,10 @@ Women's League Cup: Chelsea thrash Liverpool as Arsenal, Man City and Man Utd al
 
 ---
 
-## Story 10: Chelsea hammer dismal Liverpool 9-1 and storm into Women's League Cup semis
+## Story 8: Chelsea hammer dismal Liverpool 9-1 and storm into Women's League Cup semis
 **Slug (lower-third):** Chelsea hammer dismal Liverpool 9-1 and storm into Women'…  
 **When:** 2025-12-21 09:05 (America/Winnipeg)  •  **Published:** 2025-12-21 15:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Chelsea hammer dismal Liverpool 9-1 and storm into Women's League Cup semis. Johanna Rytting Kaneryd scored a hat-trick as Chelsea hammered Liverpool in St Helens to reach the last four of the League Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -254,6 +205,55 @@ Chelsea hammer dismal Liverpool 9-1 and storm into Women's League Cup semis. Joh
 
 ### Sources
 - theguardian.com — Chelsea hammer dismal Liverpool 9-1 and storm into Women's League Cup semis. https://www.theguardian.com/football/2025/dec/21/liverpool-chelsea-womens-league-cup-quarter-final-match-report
+- bbc.com — Women's League Cup Highlights: Liverpool 1-9 Chelsea. https://www.bbc.com/sport/football/videos/c4g5y11204yo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Gallagher Premiership: Bath show dominance at Newcastle as they extend time at top of table
+**Slug (lower-third):** Gallagher Premiership: Bath show dominance at Newcastle a…  
+**When:** 2025-12-21 12:46 (America/Winnipeg)  •  **Published:** 2025-12-21 18:46 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Gallagher Premiership: Bath show dominance at Newcastle as they extend time at top of table. Bath stay at the top of the table and move to a 6-1 record this season after they pull away in the second half over a tired Newcastle; the defending champions have set off a compelling title defence after taking their first Premiership title in 29 years last season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Gallagher Premiership: Bath show dominance at Newcastle as they extend time at top of table. https://www.skysports.com/rugby-union/news/12040/13486477/gallagher-premiership-bath-show-dominance-at-newcastle-as-they-extend-time-at-top-of-table
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Aston Villa 2-1 Man Utd: Morgan Rogers scores two stunners as Unai Emery's side win again to close gap on Arsenal
+**Slug (lower-third):** Aston Villa 2-1 Man Utd: Morgan Rogers scores two stunner…  
+**When:** 2025-12-21 12:30 (America/Winnipeg)  •  **Published:** 2025-12-21 18:30 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Aston Villa 2-1 Man Utd: Morgan Rogers scores two stunners as Unai Emery's side win again to close gap on Arsenal. Morgan Rogers scored twice for Aston Villa as they beat Manchester United 2-1 at Villa Park to make it 10 wins in a row in all competitions. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Aston Villa 2-1 Man Utd: Morgan Rogers scores two stunners as Unai Emery's side win again to close gap on Arsenal. https://www.skysports.com/football/aston-villa-vs-manchester-united/report/531289
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
