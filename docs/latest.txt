@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-23 00:37 (America/Winnipeg)  |  2025-12-23 06:37 (UTC)
+**Generated:** 2025-12-23 06:48 (America/Winnipeg)  |  2025-12-23 12:48 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 20s
@@ -8,21 +8,21 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Troy Deeney's Team of the Week: Donnarumma, Lewis-Potter, Rogers, Woltemade, Haaland
-- Raul Jimenez: Fulham's striker joins Yaya Toure with best Premier League penalty record...
-- Football gossip: Gallagher, Disasi, Monga, Zirkzee, Semenyo, Neves, Osula
+- Fulham fell Forest and who's top of the tree around Europe? - Football Weekly
+- David Squires on ... the Premier League enjoying a rare Christmas at home
+- 'Un club d'ici': FC Supra turns to a Bilbao-style model to keep Quebec talent at home
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Football gossip: Gallagher, Disasi, Monga, Zirkzee, Semenyo, Neves, Osula
-**Slug (lower-third):** Football gossip: Gallagher, Disasi, Monga, Zirkzee, Semen…  
-**When:** 2025-12-22 16:53 (America/Winnipeg)  •  **Published:** 2025-12-22 22:53 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 1: Newcastle seek 'clarification' over Anthony Gordon penalty incident against Chelsea
+**Slug (lower-third):** Newcastle seek 'clarification' over Anthony Gordon penalt…  
+**When:** 2025-12-23 04:39 (America/Winnipeg)  •  **Published:** 2025-12-23 10:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Gallagher, Disasi, Monga, Zirkzee, Semenyo, Neves, Osula. Manchester United are seeking a loan deal for Conor Gallager, three Premier League clubs are vying for Antoine Semenyo, Aston Villa join the race for Brennan Johnson, plus more. Implications for the squad and table.
+Newcastle seek 'clarification' over Anthony Gordon penalty incident against Chelsea. Manager Eddie Howe says Newcastle "want to know the thought process behind the decision" not to award them a penalty against Chelsea on Saturday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Football gossip: Gallagher, Disasi, Monga, Zirkzee, Semenyo, Neves, Osula. Manch
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Gallagher, Disasi, Monga, Zirkzee, Semenyo, Neves, Osula. https://www.bbc.com/sport/football/articles/cx2e54gl8y9o?at_medium=RSS&at_campaign=rss
+- bbc.com — Newcastle seek 'clarification' over Anthony Gordon penalty incident against Chelsea. https://www.bbc.com/sport/football/articles/cz7nddpd0y1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ Football gossip: Gallagher, Disasi, Monga, Zirkzee, Semenyo, Neves, Osula. Manch
 
 ---
 
-### Injuries
-
-## Story 2: Alexander Isak set to miss several months of season after Liverpool confirm fractured ankle
-**Slug (lower-third):** Alexander Isak set to miss several months of season after…  
-**When:** 2025-12-22 15:08 (America/Winnipeg)  •  **Published:** 2025-12-22 21:08 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 2: Alexander Isak out for 'couple of months' after 'reckless' tackle - Arne Slot
+**Slug (lower-third):** Alexander Isak out for 'couple of months' after 'reckless…  
+**When:** 2025-12-23 03:33 (America/Winnipeg)  •  **Published:** 2025-12-23 09:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Alexander Isak set to miss several months of season after Liverpool confirm fractured ankle. Alexander Isak is facing several months on the sidelines after undergoing surgery on a leg fracture suffered in Liverpool's win at Tottenham Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Alexander Isak out for 'couple of months' after 'reckless' tackle - Arne Slot. Liverpool manager Arne Slot says Alexander Isak faces "a couple of months" out injured after a "reckless" challenge by Tottenham defender Micky van de Ven. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,7 @@ Alexander Isak set to miss several months of season after Liverpool confirm frac
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Alexander Isak set to miss several months of season after Liverpool confirm fractured ankle. https://www.theguardian.com/football/2025/dec/22/alexander-isak-set-to-miss-several-months-of-season-after-liverpool-confirm-fractured-leg
+- bbc.com — Alexander Isak out for 'couple of months' after 'reckless' tackle - Arne Slot. https://www.bbc.com/sport/football/articles/c1dz1y29e93o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +64,13 @@ Alexander Isak set to miss several months of season after Liverpool confirm frac
 
 ---
 
-## Story 3: Bruno Fernandes injury: What are Manchester United's options?
-**Slug (lower-third):** Bruno Fernandes injury: What are Manchester United's opti…  
-**When:** 2025-12-22 09:56 (America/Winnipeg)  •  **Published:** 2025-12-22 15:56 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 3: Pep Guardiola: Who could succeed Manchester City manager?
+**Slug (lower-third):** Pep Guardiola: Who could succeed Manchester City manager?  
+**When:** 2025-12-23 00:35 (America/Winnipeg)  •  **Published:** 2025-12-23 06:35 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bruno Fernandes injury: What are Manchester United's options?. Manchester United are still evaluating the extent of Bruno Fernandes' injury, but who are the contenders to replace him if he is ruled out? Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Pep Guardiola: Who could succeed Manchester City manager?. At least two candidates have already been identified as potential replacements for Pep Guardiola, but who could take over from him at Manchester City? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,10 +79,10 @@ Bruno Fernandes injury: What are Manchester United's options?. Manchester United
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Bruno Fernandes injury: What are Manchester United's options?. https://www.bbc.com/sport/football/articles/c1dz1exq616o?at_medium=RSS&at_campaign=rss
+- bbc.com — Pep Guardiola: Who could succeed Manchester City manager?. https://www.bbc.com/sport/football/articles/cx25jp0jd02o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -92,13 +90,13 @@ Bruno Fernandes injury: What are Manchester United's options?. Manchester United
 
 ### Club Updates
 
-## Story 4: Troy Deeney's Team of the Week: Donnarumma, Lewis-Potter, Rogers, Woltemade, Haaland
-**Slug (lower-third):** Troy Deeney's Team of the Week: Donnarumma, Lewis-Potter,…  
-**When:** 2025-12-22 17:33 (America/Winnipeg)  •  **Published:** 2025-12-22 23:33 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 4: Fulham fell Forest and who's top of the tree around Europe? - Football Weekly
+**Slug (lower-third):** Fulham fell Forest and who's top of the tree around Europ…  
+**When:** 2025-12-23 06:24 (America/Winnipeg)  •  **Published:** 2025-12-23 12:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Troy Deeney's Team of the Week: Donnarumma, Lewis-Potter, Rogers, Woltemade, Haaland. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
+Fulham fell Forest and who's top of the tree around Europe? - Football Weekly. Max Rushden is joined by Barry Glendenning, Lars Sivertsen and Philippe Auclair to wrap up the big stories from around Europe as their winter breaks begin. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +105,7 @@ Troy Deeney's Team of the Week: Donnarumma, Lewis-Potter, Rogers, Woltemade, Haa
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Troy Deeney's Team of the Week: Donnarumma, Lewis-Potter, Rogers, Woltemade, Haaland. https://www.bbc.com/sport/football/articles/crmdrkykyx2o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Fulham fell Forest and who's top of the tree around Europe? - Football Weekly. https://www.theguardian.com/football/audio/2025/dec/23/fulham-nottingham-forest-europe-afcon-football-weekly
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +114,13 @@ Troy Deeney's Team of the Week: Donnarumma, Lewis-Potter, Rogers, Woltemade, Haa
 
 ---
 
-## Story 5: Raul Jimenez: Fulham's striker joins Yaya Toure with best Premier League penalty record...
-**Slug (lower-third):** Raul Jimenez: Fulham's striker joins Yaya Toure with best…  
-**When:** 2025-12-22 17:20 (America/Winnipeg)  •  **Published:** 2025-12-22 23:20 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 5: David Squires on ... the Premier League enjoying a rare Christmas at home
+**Slug (lower-third):** David Squires on ... the Premier League enjoying a rare C…  
+**When:** 2025-12-23 06:12 (America/Winnipeg)  •  **Published:** 2025-12-23 12:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Raul Jimenez: Fulham's striker joins Yaya Toure with best Premier League penalty record.... Fulham's Raul Jimenez scored his 11th Premier League penalty from 11 attempts, but who are the best spot-kick takers? Relevance to standings and momentum.
+David Squires on ... the Premier League enjoying a rare Christmas at home. With just one top-flight Boxing Day fixture this year, our cartoonist takes a look at how players, coaches and officials might spend their time Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +129,7 @@ Raul Jimenez: Fulham's striker joins Yaya Toure with best Premier League penalty
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Raul Jimenez: Fulham's striker joins Yaya Toure with best Premier League penalty record.... https://www.bbc.com/sport/football/articles/cwyg4k0kl9wo?at_medium=RSS&at_campaign=rss
+- theguardian.com — David Squires on ... the Premier League enjoying a rare Christmas at home. https://www.theguardian.com/football/picture/2025/dec/23/david-squires-premier-league-christmas
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +138,13 @@ Raul Jimenez: Fulham's striker joins Yaya Toure with best Premier League penalty
 
 ---
 
-## Story 6: Jamie Carragher's Premier League team of the season so far...
-**Slug (lower-third):** Jamie Carragher's Premier League team of the season so fa…  
-**When:** 2025-12-22 16:52 (America/Winnipeg)  •  **Published:** 2025-12-22 22:52 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 6: 'Un club d'ici': FC Supra turns to a Bilbao-style model to keep Quebec talent at home
+**Slug (lower-third):** 'Un club d'ici': FC Supra turns to a Bilbao-style model t…  
+**When:** 2025-12-23 05:10 (America/Winnipeg)  •  **Published:** 2025-12-23 11:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jamie Carragher's Premier League team of the season so far.... On the final Monday Night Football of 2025, Jamie Carragher picks his Premier League team of the season so far. Relevance to standings and momentum.
+'Un club d'ici': FC Supra turns to a Bilbao-style model to keep Quebec talent at home. By representing its region's distinct culture and players, the Canadian Premier League team aims to boost the province's undoubted soccer potential Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +153,7 @@ Jamie Carragher's Premier League team of the season so far.... On the final Mond
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Jamie Carragher's Premier League team of the season so far.... https://www.skysports.com/watch/video/13486902/jamie-carraghers-premier-league-team-of-the-season-so-far
+- theguardian.com — 'Un club d'ici': FC Supra turns to a Bilbao-style model to keep Quebec talent at home. https://www.theguardian.com/football/2025/dec/23/un-club-dici-fc-supra-turns-to-a-bilbao-style-model-to-keep-quebec-talent-at-home
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +162,13 @@ Jamie Carragher's Premier League team of the season so far.... On the final Mond
 
 ---
 
-## Story 7: Fulham 1-0 Nottingham Forest: Marco Silva post-match interview and reaction
-**Slug (lower-third):** Fulham 1-0 Nottingham Forest: Marco Silva post-match inte…  
-**When:** 2025-12-22 16:45 (America/Winnipeg)  •  **Published:** 2025-12-22 22:45 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 7: Mohamed Salah, the pursuit of AFCON glory and why Egypt treat him as a special case
+**Slug (lower-third):** Mohamed Salah, the pursuit of AFCON glory and why Egypt t…  
+**When:** 2025-12-23 04:30 (America/Winnipeg)  •  **Published:** 2025-12-23 10:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham 1-0 Nottingham Forest: Marco Silva post-match interview and reaction. Fulham boss Marco Silva is delighted with the "massive" three points his side took following a 1-0 win over Nottingham Forest at Craven Cottage. Relevance to standings and momentum.
+Mohamed Salah, the pursuit of AFCON glory and why Egypt treat him as a special case. Mohamed Salah: Why Liverpools legend is afforded special status in Egypt and the drive to win the Africa Cup of Nations (AFCON) by The Athletic. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +177,7 @@ Fulham 1-0 Nottingham Forest: Marco Silva post-match interview and reaction. Ful
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Fulham 1-0 Nottingham Forest: Marco Silva post-match interview and reaction. https://www.bbc.com/sport/football/videos/cjrj91ywzl8o?at_medium=RSS&at_campaign=rss
+- skysports.com — Mohamed Salah, the pursuit of AFCON glory and why Egypt treat him as a special case. https://www.skysports.com/football/news/12040/13486976/mohamed-salah-the-pursuit-of-afcon-glory-and-why-egypt-treat-him-as-a-special-case
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +186,13 @@ Fulham 1-0 Nottingham Forest: Marco Silva post-match interview and reaction. Ful
 
 ---
 
-## Story 8: Alexander Isak: Liverpool striker has broken leg, scans confirm
-**Slug (lower-third):** Alexander Isak: Liverpool striker has broken leg, scans c…  
-**When:** 2025-12-22 15:02 (America/Winnipeg)  •  **Published:** 2025-12-22 21:02 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 8: Arne Slot accuses Van de Ven of 'reckless' tackle that fractured Isak's leg
+**Slug (lower-third):** Arne Slot accuses Van de Ven of 'reckless' tackle that fr…  
+**When:** 2025-12-23 04:12 (America/Winnipeg)  •  **Published:** 2025-12-23 10:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Alexander Isak: Liverpool striker has broken leg, scans confirm. Scans confirm Liverpool striker Alexander Isak's left leg was broken during the club's victory against Tottenham Hotspur on Saturday. Relevance to standings and momentum.
+Arne Slot accuses Van de Ven of 'reckless' tackle that fractured Isak's leg. Arne Slot has criticised Tottenham defender Micky van de Ven for the "reckless" challenge that left Alexander Isak with a fractured leg Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +201,7 @@ Alexander Isak: Liverpool striker has broken leg, scans confirm. Scans confirm L
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Alexander Isak: Liverpool striker has broken leg, scans confirm. https://www.bbc.com/sport/football/articles/c5y9d7xl8dvo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Arne Slot accuses Van de Ven of 'reckless' tackle that fractured Isak's leg. https://www.theguardian.com/football/2025/dec/23/liverpool-arne-slot-accuses-van-de-ven-reckless-tackle-alexander-isak-fractured-leg
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +210,13 @@ Alexander Isak: Liverpool striker has broken leg, scans confirm. Scans confirm L
 
 ---
 
-## Story 9: Rhys Bennett: Manchester United defender on father's suicide
-**Slug (lower-third):** Rhys Bennett: Manchester United defender on father's suic…  
-**When:** 2025-12-22 11:03 (America/Winnipeg)  •  **Published:** 2025-12-22 17:03 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 9: FPL tips for gameweek 18: Captain Hugo Ekitike, pick Mason Mount and go big on Arsenal defence
+**Slug (lower-third):** FPL tips for gameweek 18: Captain Hugo Ekitike, pick Maso…  
+**When:** 2025-12-23 02:14 (America/Winnipeg)  •  **Published:** 2025-12-23 08:14 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Rhys Bennett: Manchester United defender on father's suicide. Manchester United defender Rhys Bennett discusses his father's death in October to help raise awareness of mental health issues. Relevance to standings and momentum.
+FPL tips for gameweek 18: Captain Hugo Ekitike, pick Mason Mount and go big on Arsenal defence. Liverpool might score a hatful at home to Wolves this week and it would be rude not to get at least one attacking asset in your FPL team, writes Thomas Woods. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +225,7 @@ Rhys Bennett: Manchester United defender on father's suicide. Manchester United 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Rhys Bennett: Manchester United defender on father's suicide. https://www.bbc.com/sport/football/articles/cx2e5jn466go?at_medium=RSS&at_campaign=rss
+- bbc.com — FPL tips for gameweek 18: Captain Hugo Ekitike, pick Mason Mount and go big on Arsenal defence. https://www.bbc.com/sport/football/articles/cp34rnqekkqo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +234,13 @@ Rhys Bennett: Manchester United defender on father's suicide. Manchester United 
 
 ---
 
-## Story 10: Wolves' freefall leaves even Derby's dismal record low a lofty goal
-**Slug (lower-third):** Wolves' freefall leaves even Derby's dismal record low a …  
-**When:** 2025-12-22 10:53 (America/Winnipeg)  •  **Published:** 2025-12-22 16:53 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 10: Adam Wharton: Why midfielder is key to Crystal Palace
+**Slug (lower-third):** Adam Wharton: Why midfielder is key to Crystal Palace  
+**When:** 2025-12-23 01:03 (America/Winnipeg)  •  **Published:** 2025-12-23 07:03 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wolves' freefall leaves even Derby's dismal record low a lofty goal. Wolves' collapse is no single-season fluke but the end point of years of managed decline, leaving a once-stable club staring at unwanted history Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Adam Wharton: Why midfielder is key to Crystal Palace. Adam Wharton holds the key to Crystal Palace enjoying more success and becoming a consistent presence in European football. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,10 +249,10 @@ Wolves' freefall leaves even Derby's dismal record low a lofty goal. Wolves' col
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Wolves' freefall leaves even Derby's dismal record low a lofty goal. https://www.theguardian.com/football/2025/dec/22/wolves-premier-league-freefall-derby-county-record
+- bbc.com — Adam Wharton: Why midfielder is key to Crystal Palace. https://www.bbc.com/sport/football/articles/clyx6q9y8wpo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
