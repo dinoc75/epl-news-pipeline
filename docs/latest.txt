@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2025-12-25 19:49 (America/Winnipeg)  |  2025-12-26 01:49 (UTC)
+**Generated:** 2025-12-26 00:36 (America/Winnipeg)  |  2025-12-26 06:36 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 20s
@@ -8,39 +8,15 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Manchester United: Ruben Amorim says players will not leave in January unless they are replaced
 - Eddie Howe challenges Newcastle owners to end 'limbo' over stadium plans
 - Ruben Amorim: Kobbie Mainoo is the 'future of Manchester United'
+- John Robertson, Nottingham Forest and Scotland legend, dies aged 72
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Manchester United: Ruben Amorim says players will not leave in January unless they are replaced
-**Slug (lower-third):** Manchester United: Ruben Amorim says players will not lea…  
-**When:** 2025-12-25 16:33 (America/Winnipeg)  •  **Published:** 2025-12-25 22:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester United: Ruben Amorim says players will not leave in January unless they are replaced. Manchester United head coach Ruben Amorim is not willing to let any players leave in the January transfer window unless replacements come in. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Manchester United: Ruben Amorim says players will not leave in January unless they are replaced. https://www.bbc.com/sport/football/articles/c5yqeqjy3d0o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Ruben Amorim: Kobbie Mainoo is the 'future of Manchester United'
+## Story 1: Ruben Amorim: Kobbie Mainoo is the 'future of Manchester United'
 **Slug (lower-third):** Ruben Amorim: Kobbie Mainoo is the 'future of Manchester …  
 **When:** 2025-12-25 12:42 (America/Winnipeg)  •  **Published:** 2025-12-25 18:42 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -58,6 +34,30 @@ Ruben Amorim: Kobbie Mainoo is the 'future of Manchester United'. Manchester Uni
 - espn.com — Ruben Amorim: Kobbie Mainoo is the 'future of Manchester United'. https://www.espn.com/soccer/story/_/id/47413190/ruben-amorim-kobbie-mainoo-future-manchester-united
 - theguardian.com — Kobbie Mainoo is 'the future of Manchester United', insists Amorim. https://www.theguardian.com/football/2025/dec/25/kobbie-mainoo-is-the-future-of-manchester-united-insists-amorim
 - skysports.com — Kobbie Mainoo: Manchester United boss Ruben Amorim insists the midfielder is still the future of the club. https://www.skysports.com/football/news/12040/13487265/kobbie-mainoo-manchester-united-boss-ruben-amorim-insists-the-midfielder-is-still-the-future-of-the-club
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Manchester United: Ruben Amorim says players will not leave in January unless they are replaced
+**Slug (lower-third):** Manchester United: Ruben Amorim says players will not lea…  
+**When:** 2025-12-25 16:33 (America/Winnipeg)  •  **Published:** 2025-12-25 22:33 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United: Ruben Amorim says players will not leave in January unless they are replaced. Manchester United head coach Ruben Amorim is not willing to let any players leave in the January transfer window unless replacements come in. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester United: Ruben Amorim says players will not leave in January unless they are replaced. https://www.bbc.com/sport/football/articles/c5yqeqjy3d0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -122,7 +122,7 @@ John Robertson, Nottingham Forest and Scotland legend, dies aged 72. John Robert
 ## Story 5: Icons of Football: John Robertson - the 'scruffy fat lad who won two European Cups'
 **Slug (lower-third):** Icons of Football: John Robertson - the 'scruffy fat lad …  
 **When:** 2025-12-25 08:19 (America/Winnipeg)  •  **Published:** 2025-12-25 14:19 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+**Virality score:** 82  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Icons of Football: John Robertson - the 'scruffy fat lad who won two European Cups'. Those who know him best look back on the illustrious career of John Robertson, Nottingham Forest's double European Cup winner. Relevance to standings and momentum.
@@ -137,7 +137,7 @@ Icons of Football: John Robertson - the 'scruffy fat lad who won two European Cu
 - bbc.com — Icons of Football: John Robertson - the 'scruffy fat lad who won two European Cups'. https://www.bbc.com/sport/football/articles/c1632e2k82yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -146,7 +146,7 @@ Icons of Football: John Robertson - the 'scruffy fat lad who won two European Cu
 ## Story 6: Liverpool praying for a golden sky after seven months of storms
 **Slug (lower-third):** Liverpool praying for a golden sky after seven months of …  
 **When:** 2025-12-25 06:00 (America/Winnipeg)  •  **Published:** 2025-12-25 12:00 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+**Virality score:** 77  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Liverpool praying for a golden sky after seven months of storms. Despair and disorder have engulfed the club since their title party, leaving all concerned in need of previous serenity Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -170,7 +170,7 @@ Liverpool praying for a golden sky after seven months of storms. Despair and dis
 ## Story 7: Premier League and EFL to hold talks over ending Saturday 3pm blackout
 **Slug (lower-third):** Premier League and EFL to hold talks over ending Saturday…  
 **When:** 2025-12-25 06:00 (America/Winnipeg)  •  **Published:** 2025-12-25 12:00 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+**Virality score:** 77  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League and EFL to hold talks over ending Saturday 3pm blackout. The Premier League and EFL will hold talks early next year about combining to permit 3pm Saturday kick-offs to be broadcast live each week for the first time Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -194,7 +194,7 @@ Premier League and EFL to hold talks over ending Saturday 3pm blackout. The Prem
 ## Story 8: Magi Haroun: The first Premier League accredited female photographer
 **Slug (lower-third):** Magi Haroun: The first Premier League accredited female p…  
 **When:** 2025-12-25 04:51 (America/Winnipeg)  •  **Published:** 2025-12-25 10:51 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+**Virality score:** 77  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Magi Haroun: The first Premier League accredited female photographer. Magi Haroun, the first Premier League-accredited female photographer, shares her stories about sitting in the dugout with Sir Alex Ferguson and more. Relevance to standings and momentum.
@@ -218,7 +218,7 @@ Magi Haroun: The first Premier League accredited female photographer. Magi Harou
 ## Story 9: Wayne Rooney on Mr Tumble and Coleen putting Liverpool flags up
 **Slug (lower-third):** Wayne Rooney on Mr Tumble and Coleen putting Liverpool fl…  
 **When:** 2025-12-25 04:50 (America/Winnipeg)  •  **Published:** 2025-12-25 10:50 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+**Virality score:** 77  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Wayne Rooney on Mr Tumble and Coleen putting Liverpool flags up. Disliking Mr Tumble, trying to fight Joe Calzaghe and writing to Duncan Ferguson in jail - what we have learned from The Wayne Rooney Show. Relevance to standings and momentum.
@@ -242,7 +242,7 @@ Wayne Rooney on Mr Tumble and Coleen putting Liverpool flags up. Disliking Mr Tu
 ## Story 10: 'A quick learner': how Declan Rice went from Chelsea reject to Arsenal's Rolls-Royce
 **Slug (lower-third):** 'A quick learner': how Declan Rice went from Chelsea reje…  
 **When:** 2025-12-25 03:00 (America/Winnipeg)  •  **Published:** 2025-12-25 09:00 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
+**Virality score:** 73  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'A quick learner': how Declan Rice went from Chelsea reject to Arsenal's Rolls-Royce. Midfielder will be part of the conversation for a Ballon d'Or if he continues his ascent with trophies for club and country Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
