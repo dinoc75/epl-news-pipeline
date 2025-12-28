@@ -1,14 +1,1 @@
-resp_02f75a2f459b5de10069502751ba2081949d17f064eecfbf62
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_02f75a2f459b5de10069502751f05c81949e1bbc490c96fbfe
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
