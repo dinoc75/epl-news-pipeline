@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-02 00:37 (America/Winnipeg)  |  2026-01-02 06:37 (UTC)
+**Generated:** 2026-01-02 06:45 (America/Winnipeg)  |  2026-01-02 12:45 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 22s
+**Estimated total video length:** ~3m 24s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League highlights: Sunderland 0-0 Manchester City
-- Premier League highlights: Liverpool 0-0 Leeds United
-- Match of the day: Daniel Farke's 'rock solid' Leeds United turn the corner - analysis
+- VAR: Should Tottenham's Cristian Romero have been sent off against Brentford?
+- Celtic transfer news: Julian Araujo joins on loan from Bournemouth ahead of Old Firm clash with Rangers
+- Julian Araujo: Celtic sign Bournemouth right-back on loan
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Match of the day: How Maresca's tenure at Chelsea turned sour - analysis
-**Slug (lower-third):** Match of the day: How Maresca's tenure at Chelsea turned …  
-**When:** 2026-01-01 17:58 (America/Winnipeg)  •  **Published:** 2026-01-01 23:58 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 1: Liam Rosenior to Chelsea: Who is Strasbourg boss and the leading contender for the Blues job after Enzo Maresca's exit?
+**Slug (lower-third):** Liam Rosenior to Chelsea: Who is Strasbourg boss and the …  
+**When:** 2026-01-02 04:50 (America/Winnipeg)  •  **Published:** 2026-01-02 10:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Match of the day: How Maresca's tenure at Chelsea turned sour - analysis. BBC Sport reporter Nizaar Kinsella explains how Enzo Maresca's position as Chelsea's manager became "untenable". Relevance to standings and momentum.
+Liam Rosenior to Chelsea: Who is Strasbourg boss and the leading contender for the Blues job after Enzo Maresca's exit?. Liam Rosenior is the leading contender to replace Enzo Maresca at Chelsea; the young English coach was at Hull City 18 months ago and is currently head coach at French club Strasbourg Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Match of the day: How Maresca's tenure at Chelsea turned sour - analysis. BBC Sp
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the day: How Maresca's tenure at Chelsea turned sour - analysis. https://www.bbc.com/sport/football/videos/cqj2ry09950o?at_medium=RSS&at_campaign=rss
+- skysports.com — Liam Rosenior to Chelsea: Who is Strasbourg boss and the leading contender for the Blues job after Enzo Maresca's exit?. https://www.skysports.com/football/news/12040/13489558/liam-rosenior-to-chelsea-who-is-strasbourg-boss-and-the-leading-contender-for-the-blues-job-after-enzo-marescas-exit
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,15 @@ Match of the day: How Maresca's tenure at Chelsea turned sour - analysis. BBC Sp
 
 ---
 
-## Story 2: Brentford 0-0 Tottenham Hotspur: Cristain Romero lucky to avoid easy red card - Keith Andrews
-**Slug (lower-third):** Brentford 0-0 Tottenham Hotspur: Cristain Romero lucky to…  
-**When:** 2026-01-01 16:47 (America/Winnipeg)  •  **Published:** 2026-01-01 22:47 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~22s
+### Transfers
+
+## Story 2: Celtic transfer news: Julian Araujo joins on loan from Bournemouth ahead of Old Firm clash with Rangers
+**Slug (lower-third):** Celtic transfer news: Julian Araujo joins on loan from Bo…  
+**When:** 2026-01-02 05:11 (America/Winnipeg)  •  **Published:** 2026-01-02 11:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brentford 0-0 Tottenham Hotspur: Cristain Romero lucky to avoid easy red card - Keith Andrews. Brentford manager Keith Andrews takes issue with the decision not to award a foul or show a red card for the potential denial of a goalscoring opportunity for Cristian Romero's challenge on Igor Thiago in a 0-0 draw with Spurs. Relevance to standings and momentum.
+Celtic transfer news: Julian Araujo joins on loan from Bournemouth ahead of Old Firm clash with Rangers. Celtic have confirmed the loan signing of Bournemouth defender Julian Araujo until the end of the season; the 24-year-old defender will be available for the Old Firm derby against Rangers on Saturday. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +57,7 @@ Brentford 0-0 Tottenham Hotspur: Cristain Romero lucky to avoid easy red card - 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Brentford 0-0 Tottenham Hotspur: Cristain Romero lucky to avoid easy red card - Keith Andrews. https://www.bbc.com/sport/football/videos/c4g097q069lo?at_medium=RSS&at_campaign=rss
+- skysports.com — Celtic transfer news: Julian Araujo joins on loan from Bournemouth ahead of Old Firm clash with Rangers. https://www.skysports.com/football/news/12040/13489630/celtic-transfer-news-julian-araujo-joins-on-loan-from-bournemouth-ahead-of-old-firm-clash-with-rangers
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +66,13 @@ Brentford 0-0 Tottenham Hotspur: Cristain Romero lucky to avoid easy red card - 
 
 ---
 
-## Story 3: Sunderland 0-0 Manchester City: Stadium of Light 'tough place to come' - Pep Guardiola
-**Slug (lower-third):** Sunderland 0-0 Manchester City: Stadium of Light 'tough p…  
-**When:** 2026-01-01 16:40 (America/Winnipeg)  •  **Published:** 2026-01-01 22:40 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 3: Julian Araujo: Celtic sign Bournemouth right-back on loan
+**Slug (lower-third):** Julian Araujo: Celtic sign Bournemouth right-back on loan  
+**When:** 2026-01-02 05:10 (America/Winnipeg)  •  **Published:** 2026-01-02 11:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sunderland 0-0 Manchester City: Stadium of Light 'tough place to come' - Pep Guardiola. Manchester City manager Pep Guardiola praises Sunderland's performance after his team was held to a goalless at the Stadium of Light. Relevance to standings and momentum.
+Julian Araujo: Celtic sign Bournemouth right-back on loan. Celtic sign Bournemouth right-back Julian Araujo on loan for the rest of the season, making him Wilfried Nancy's first recruit. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +81,33 @@ Sunderland 0-0 Manchester City: Stadium of Light 'tough place to come' - Pep Gua
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Sunderland 0-0 Manchester City: Stadium of Light 'tough place to come' - Pep Guardiola. https://www.bbc.com/sport/football/videos/c5y59p4k3lro?at_medium=RSS&at_campaign=rss
+- bbc.com — Julian Araujo: Celtic sign Bournemouth right-back on loan. https://www.bbc.com/sport/football/articles/c98jykn93d2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 4: Football transfer rumours: Mohamed Salah in line for Roma return?
+**Slug (lower-third):** Football transfer rumours: Mohamed Salah in line for Roma…  
+**When:** 2026-01-02 03:38 (America/Winnipeg)  •  **Published:** 2026-01-02 09:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football transfer rumours: Mohamed Salah in line for Roma return?. Guler to Arsenal | Manchester United or Spurs to land Gallagher? | Strand Larsen to Forest? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Football transfer rumours: Mohamed Salah in line for Roma return?. https://www.theguardian.com/football/2026/jan/02/football-transfer-rumour-mill-mohamed-salah-roma-return
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +118,13 @@ Sunderland 0-0 Manchester City: Stadium of Light 'tough place to come' - Pep Gua
 
 ### Club Updates
 
-## Story 4: Premier League highlights: Sunderland 0-0 Manchester City
-**Slug (lower-third):** Premier League highlights: Sunderland 0-0 Manchester City  
-**When:** 2026-01-01 16:57 (America/Winnipeg)  •  **Published:** 2026-01-01 22:57 (UTC)  
+## Story 5: VAR: Should Tottenham's Cristian Romero have been sent off against Brentford?
+**Slug (lower-third):** VAR: Should Tottenham's Cristian Romero have been sent of…  
+**When:** 2026-01-02 05:52 (America/Winnipeg)  •  **Published:** 2026-01-02 11:52 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Sunderland 0-0 Manchester City. Manchester City fall four points behind Arsenal in the Premier League title race after being held to a goalless draw by Sunderland, who maintain their unbeaten home record. Relevance to standings and momentum.
+VAR: Should Tottenham's Cristian Romero have been sent off against Brentford?. Should Tottenham's Cristian Romero have been sent off for bringing down Brentford's Igor Thiago when the striker was through on goal? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,8 +133,7 @@ Premier League highlights: Sunderland 0-0 Manchester City. Manchester City fall 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Sunderland 0-0 Manchester City. https://www.bbc.com/sport/football/videos/cd9e82jzx07o?at_medium=RSS&at_campaign=rss
-- skysports.com — Sunderland 0-0 Manchester City | Premier League highlights. https://www.skysports.com/watch/video/13489541/sunderland-0-0-manchester-city-premier-league-highlights
+- bbc.com — VAR: Should Tottenham's Cristian Romero have been sent off against Brentford?. https://www.bbc.com/sport/football/articles/crle8448klko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,13 +142,13 @@ Premier League highlights: Sunderland 0-0 Manchester City. Manchester City fall 
 
 ---
 
-## Story 5: Premier League highlights: Liverpool 0-0 Leeds United
-**Slug (lower-third):** Premier League highlights: Liverpool 0-0 Leeds United  
-**When:** 2026-01-01 16:31 (America/Winnipeg)  •  **Published:** 2026-01-01 22:31 (UTC)  
+## Story 6: West Ham agree deals to buy strikers Castellanos and Pablo for up to PS47m
+**Slug (lower-third):** West Ham agree deals to buy strikers Castellanos and Pabl…  
+**When:** 2026-01-02 04:33 (America/Winnipeg)  •  **Published:** 2026-01-02 10:33 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Liverpool 0-0 Leeds United. Liverpool draw 0-0 with Leeds to start 2026 with their first goalless draw of Arne Slot's tenure at Anfield. Relevance to standings and momentum.
+West Ham agree deals to buy strikers Castellanos and Pablo for up to PS47m. West Ham are poised to boost their attacking options by signing Gil Vicente's Pablo Felipe and Lazio's Taty Castellanos at a cost of up to PS47m Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,8 +157,7 @@ Premier League highlights: Liverpool 0-0 Leeds United. Liverpool draw 0-0 with L
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Liverpool 0-0 Leeds United. https://www.bbc.com/sport/football/videos/cp82ly9eg32o?at_medium=RSS&at_campaign=rss
-- skysports.com — Liverpool 0-0 Leeds | Premier League highlights. https://www.skysports.com/watch/video/13489493/liverpool-0-0-leeds-premier-league-highlights
+- theguardian.com — West Ham agree deals to buy strikers Castellanos and Pablo for up to PS47m. https://www.theguardian.com/football/2026/jan/02/west-ham-taty-castellanos-pablo-felipe-agree-deals-buy-strikers
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +166,13 @@ Premier League highlights: Liverpool 0-0 Leeds United. Liverpool draw 0-0 with L
 
 ---
 
-## Story 6: Match of the day: Daniel Farke's 'rock solid' Leeds United turn the corner - analysis
-**Slug (lower-third):** Match of the day: Daniel Farke's 'rock solid' Leeds Unite…  
-**When:** 2026-01-01 18:00 (America/Winnipeg)  •  **Published:** 2026-01-02 00:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 7: Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr
+**Slug (lower-third):** Football gossip: Ordonez, Salah, Mateta, Fernandes, Traor…  
+**When:** 2026-01-02 04:24 (America/Winnipeg)  •  **Published:** 2026-01-02 10:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the day: Daniel Farke's 'rock solid' Leeds United turn the corner - analysis. Match of the Day Pundit Steph Houghton discusses Leeds United's performance against Liverpool and their recent development under Daniel Farke. Relevance to standings and momentum.
+Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr. Liverpool are set to spend APS43m on defender Joel Ordonez, Roma want to re-sign Mohamed Salah, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +181,7 @@ Match of the day: Daniel Farke's 'rock solid' Leeds United turn the corner - ana
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the day: Daniel Farke's 'rock solid' Leeds United turn the corner - analysis. https://www.bbc.com/sport/football/videos/c17zlwxdyg9o?at_medium=RSS&at_campaign=rss
+- bbc.com — Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr. https://www.bbc.com/sport/football/articles/c5yv3d5gp1vo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +190,13 @@ Match of the day: Daniel Farke's 'rock solid' Leeds United turn the corner - ana
 
 ---
 
-## Story 7: Match of the day: Sunderland defended Erling Haaland with no fear' - analysis
-**Slug (lower-third):** Match of the day: Sunderland defended Erling Haaland with…  
-**When:** 2026-01-01 17:59 (America/Winnipeg)  •  **Published:** 2026-01-01 23:59 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 8: Viktor Gyokeres: Is Arsenal forward struggling to adapt or misused?
+**Slug (lower-third):** Viktor Gyokeres: Is Arsenal forward struggling to adapt o…  
+**When:** 2026-01-02 04:15 (America/Winnipeg)  •  **Published:** 2026-01-02 10:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the day: Sunderland defended Erling Haaland with no fear' - analysis. Match of the Day Pundits Steph Houghton and Dion Dublin discuss the strength in Sunderland's defence to keep a clean sheet against Manchester City. Relevance to standings and momentum.
+Viktor Gyokeres: Is Arsenal forward struggling to adapt or misused?. Viktor Gyokeres joined Arsenal as Europe's most prolific goalscorer - so why have his numbers dropped so drastically? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +205,7 @@ Match of the day: Sunderland defended Erling Haaland with no fear' - analysis. M
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the day: Sunderland defended Erling Haaland with no fear' - analysis. https://www.bbc.com/sport/football/videos/c0mk08pvgvwo?at_medium=RSS&at_campaign=rss
+- bbc.com — Viktor Gyokeres: Is Arsenal forward struggling to adapt or misused?. https://www.bbc.com/sport/articles/c8e5ll3r574o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +214,13 @@ Match of the day: Sunderland defended Erling Haaland with no fear' - analysis. M
 
 ---
 
-## Story 8: Troy Deeney's Team of the Week: Bowen, Zubimendi, Wissa and Bijol
-**Slug (lower-third):** Troy Deeney's Team of the Week: Bowen, Zubimendi, Wissa a…  
-**When:** 2026-01-01 17:58 (America/Winnipeg)  •  **Published:** 2026-01-01 23:58 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 9: Brentford vs Tottenham Hotspur | Ref Watch: Did Cristian Romero escape a red card for foul on Igor Thiago
+**Slug (lower-third):** Brentford vs Tottenham Hotspur | Ref Watch: Did Cristian …  
+**When:** 2026-01-02 03:27 (America/Winnipeg)  •  **Published:** 2026-01-02 09:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Troy Deeney's Team of the Week: Bowen, Zubimendi, Wissa and Bijol. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
+Brentford vs Tottenham Hotspur | Ref Watch: Did Cristian Romero escape a red card for foul on Igor Thiago. On Ref Watch, Dermot Gallagher gives his verdict on whether Cristian Romero escaped a red card for a foul on Brentfords Igor Thiago. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +229,7 @@ Troy Deeney's Team of the Week: Bowen, Zubimendi, Wissa and Bijol. After every r
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Troy Deeney's Team of the Week: Bowen, Zubimendi, Wissa and Bijol. https://www.bbc.com/sport/football/articles/c0mk08gx421o?at_medium=RSS&at_campaign=rss
+- skysports.com — Brentford vs Tottenham Hotspur | Ref Watch: Did Cristian Romero escape a red card for foul on Igor Thiago. https://www.skysports.com/watch/video/13489600/brentford-vs-tottenam-hotspur-ref-watch-did-cristian-romero-escape-a-red-card-for-foul-on-igor-thiago
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +238,13 @@ Troy Deeney's Team of the Week: Bowen, Zubimendi, Wissa and Bijol. After every r
 
 ---
 
-## Story 9: Match of the Day - 2025/26: 01/01/2026
-**Slug (lower-third):** Match of the Day - 2025/26: 01/01/2026  
-**When:** 2026-01-01 17:41 (America/Winnipeg)  •  **Published:** 2026-01-01 23:41 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 10: Boubacar Kamara: Aston Villa's bargain midfielder is unassuming star
+**Slug (lower-third):** Boubacar Kamara: Aston Villa's bargain midfielder is unas…  
+**When:** 2026-01-02 01:54 (America/Winnipeg)  •  **Published:** 2026-01-02 07:54 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day - 2025/26: 01/01/2026. Highlights from the four Premier League matches played on New Year's Day. Including Liverpool v Leeds at Anfield, Manchester City v Sunderland and Crystal Palace v Fulham. Relevance to standings and momentum.
+Boubacar Kamara: Aston Villa's bargain midfielder is unassuming star. Boubacar Kamara is Aston Villa's unassuming star and has quietly evolved into one of the best midfielders in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,31 +253,7 @@ Match of the Day - 2025/26: 01/01/2026. Highlights from the four Premier League 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Match of the Day - 2025/26: 01/01/2026. https://www.bbc.co.uk/iplayer/episode/m002p279/match-of-the-day-202526-01012026?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Sunderland 0-0 Man City: 'We are not happy', says Bernardo Silva
-**Slug (lower-third):** Sunderland 0-0 Man City: 'We are not happy', says Bernard…  
-**When:** 2026-01-01 17:33 (America/Winnipeg)  •  **Published:** 2026-01-01 23:33 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Sunderland 0-0 Man City: 'We are not happy', says Bernardo Silva. Pep Guardiola questioned whether the Premier League title race was only a two-horse, but his Manchester City side can ill-afford many slip-ups in their quest to hunt down leaders Arsenal. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Sunderland 0-0 Man City: 'We are not happy', says Bernardo Silva. https://www.bbc.com/sport/football/articles/cm248l1j7jno?at_medium=RSS&at_campaign=rss
+- bbc.com — Boubacar Kamara: Aston Villa's bargain midfielder is unassuming star. https://www.bbc.com/sport/football/articles/czdg84m99vvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
