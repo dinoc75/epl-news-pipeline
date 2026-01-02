@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-02 06:45 (America/Winnipeg)  |  2026-01-02 12:45 (UTC)
+**Generated:** 2026-01-02 12:32 (America/Winnipeg)  |  2026-01-02 18:32 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 24s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- VAR: Should Tottenham's Cristian Romero have been sent off against Brentford?
-- Celtic transfer news: Julian Araujo joins on loan from Bournemouth ahead of Old Firm clash with Rangers
-- Julian Araujo: Celtic sign Bournemouth right-back on loan
+- Premier League team news: predicted lineups for the weekend action
+- Liam Rosenior opens door to Chelsea job but must wait on BlueCo dealings
+- Mikel Arteta exclusive: Arsenal boss calls for Viktor Gyokeres and the rest of his squad to embrace title race noise
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Liam Rosenior to Chelsea: Who is Strasbourg boss and the leading contender for the Blues job after Enzo Maresca's exit?
-**Slug (lower-third):** Liam Rosenior to Chelsea: Who is Strasbourg boss and the …  
-**When:** 2026-01-02 04:50 (America/Winnipeg)  •  **Published:** 2026-01-02 10:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+## Story 1: Liam Rosenior opens door to Chelsea job but must wait on BlueCo dealings
+**Slug (lower-third):** Liam Rosenior opens door to Chelsea job but must wait on …  
+**When:** 2026-01-02 11:41 (America/Winnipeg)  •  **Published:** 2026-01-02 17:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Liam Rosenior to Chelsea: Who is Strasbourg boss and the leading contender for the Blues job after Enzo Maresca's exit?. Liam Rosenior is the leading contender to replace Enzo Maresca at Chelsea; the young English coach was at Hull City 18 months ago and is currently head coach at French club Strasbourg Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liam Rosenior opens door to Chelsea job but must wait on BlueCo dealings. Liam Rosenior has opened the door to becoming Chelsea's new head coach by admitting that there are no guarantees that he will remain at Strasbourg for the rest of the season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,55 @@ Liam Rosenior to Chelsea: Who is Strasbourg boss and the leading contender for t
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Liam Rosenior to Chelsea: Who is Strasbourg boss and the leading contender for the Blues job after Enzo Maresca's exit?. https://www.skysports.com/football/news/12040/13489558/liam-rosenior-to-chelsea-who-is-strasbourg-boss-and-the-leading-contender-for-the-blues-job-after-enzo-marescas-exit
+- theguardian.com — Liam Rosenior opens door to Chelsea job but must wait on BlueCo dealings. https://www.theguardian.com/football/2026/jan/02/liam-rosenior-chelsea-strasbourg-blueco
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Ruben Amorim's Man Utd tactics: How much has head coach changed his formation so far this Premier League season?
+**Slug (lower-third):** Ruben Amorim's Man Utd tactics: How much has head coach c…  
+**When:** 2026-01-02 11:00 (America/Winnipeg)  •  **Published:** 2026-01-02 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
+
+### Presenter Script (3–5 sentences)
+Ruben Amorim's Man Utd tactics: How much has head coach changed his formation so far this Premier League season?. Ruben Amorim said earlier this season that not even the Pope could change his philosophy and that there would be a change and evolution of his system; how much have things changed at Old Trafford this season? Sky Sports looks at six games across the campaign and assesses Amorims approach Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Ruben Amorim's Man Utd tactics: How much has head coach changed his formation so far this Premier League season?. https://www.skysports.com/football/news/12040/13489636/ruben-amorims-man-utd-tactics-how-much-has-head-coach-changed-his-formation-so-far-this-premier-league-season
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Harvey Elliott: Aston Villa 'not convinced' two months ago to sign on-loan forward permanently
+**Slug (lower-third):** Harvey Elliott: Aston Villa 'not convinced' two months ag…  
+**When:** 2026-01-02 10:25 (America/Winnipeg)  •  **Published:** 2026-01-02 16:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Harvey Elliott: Aston Villa 'not convinced' two months ago to sign on-loan forward permanently. Aston Villa manager Unai Emery says the club were "not convinced" two months ago to sign Harvey Elliott permanently. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Harvey Elliott: Aston Villa 'not convinced' two months ago to sign on-loan forward permanently. https://www.bbc.com/sport/football/articles/cr4kx9l7zd5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +90,13 @@ Liam Rosenior to Chelsea: Who is Strasbourg boss and the leading contender for t
 
 ### Transfers
 
-## Story 2: Celtic transfer news: Julian Araujo joins on loan from Bournemouth ahead of Old Firm clash with Rangers
-**Slug (lower-third):** Celtic transfer news: Julian Araujo joins on loan from Bo…  
-**When:** 2026-01-02 05:11 (America/Winnipeg)  •  **Published:** 2026-01-02 11:11 (UTC)  
+## Story 4: Crystal Palace seal club-record PS35m Brennan Johnson transfer from Spurs
+**Slug (lower-third):** Crystal Palace seal club-record PS35m Brennan Johnson tra…  
+**When:** 2026-01-02 09:53 (America/Winnipeg)  •  **Published:** 2026-01-02 15:53 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Celtic transfer news: Julian Araujo joins on loan from Bournemouth ahead of Old Firm clash with Rangers. Celtic have confirmed the loan signing of Bournemouth defender Julian Araujo until the end of the season; the 24-year-old defender will be available for the Old Firm derby against Rangers on Saturday. Implications for the squad and table.
+Crystal Palace seal club-record PS35m Brennan Johnson transfer from Spurs. Brennan Johnson has completed his PS35m move from Tottenham to Crystal Palace Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,31 +105,8 @@ Celtic transfer news: Julian Araujo joins on loan from Bournemouth ahead of Old 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Celtic transfer news: Julian Araujo joins on loan from Bournemouth ahead of Old Firm clash with Rangers. https://www.skysports.com/football/news/12040/13489630/celtic-transfer-news-julian-araujo-joins-on-loan-from-bournemouth-ahead-of-old-firm-clash-with-rangers
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Julian Araujo: Celtic sign Bournemouth right-back on loan
-**Slug (lower-third):** Julian Araujo: Celtic sign Bournemouth right-back on loan  
-**When:** 2026-01-02 05:10 (America/Winnipeg)  •  **Published:** 2026-01-02 11:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Julian Araujo: Celtic sign Bournemouth right-back on loan. Celtic sign Bournemouth right-back Julian Araujo on loan for the rest of the season, making him Wilfried Nancy's first recruit. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Julian Araujo: Celtic sign Bournemouth right-back on loan. https://www.bbc.com/sport/football/articles/c98jykn93d2o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Crystal Palace seal club-record PS35m Brennan Johnson transfer from Spurs. https://www.theguardian.com/football/2026/jan/02/crystal-palace-seal-brennan-johnson-transfer-from-spurs-club-record
+- skysports.com — Brennan Johnson transfer news: Crystal Palace sign Wales winger from Tottenham in club-record PS35m deal. https://www.skysports.com/football/news/12040/13488723/brennan-johnson-transfer-news-crystal-palace-sign-wales-winger-from-tottenham-in-club-record-35m-deal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +117,13 @@ Julian Araujo: Celtic sign Bournemouth right-back on loan. Celtic sign Bournemou
 
 ### Injuries
 
-## Story 4: Football transfer rumours: Mohamed Salah in line for Roma return?
-**Slug (lower-third):** Football transfer rumours: Mohamed Salah in line for Roma…  
-**When:** 2026-01-02 03:38 (America/Winnipeg)  •  **Published:** 2026-01-02 09:38 (UTC)  
+## Story 5: Pascal Gross: German midfielder rejoins Brighton from Borussia Dortmund
+**Slug (lower-third):** Pascal Gross: German midfielder rejoins Brighton from Bor…  
+**When:** 2026-01-02 10:43 (America/Winnipeg)  •  **Published:** 2026-01-02 16:43 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football transfer rumours: Mohamed Salah in line for Roma return?. Guler to Arsenal | Manchester United or Spurs to land Gallagher? | Strand Larsen to Forest? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Pascal Gross: German midfielder rejoins Brighton from Borussia Dortmund. Midfielder Pascal Gross returns to Brighton from Borussia Dortmund on a deal until June 2027. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +132,7 @@ Football transfer rumours: Mohamed Salah in line for Roma return?. Guler to Arse
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football transfer rumours: Mohamed Salah in line for Roma return?. https://www.theguardian.com/football/2026/jan/02/football-transfer-rumour-mill-mohamed-salah-roma-return
+- bbc.com — Pascal Gross: German midfielder rejoins Brighton from Borussia Dortmund. https://www.bbc.com/sport/football/articles/cdexnwd3rkdo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,13 +143,13 @@ Football transfer rumours: Mohamed Salah in line for Roma return?. Guler to Arse
 
 ### Club Updates
 
-## Story 5: VAR: Should Tottenham's Cristian Romero have been sent off against Brentford?
-**Slug (lower-third):** VAR: Should Tottenham's Cristian Romero have been sent of…  
-**When:** 2026-01-02 05:52 (America/Winnipeg)  •  **Published:** 2026-01-02 11:52 (UTC)  
+## Story 6: Premier League team news: predicted lineups for the weekend action
+**Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
+**When:** 2026-01-02 12:02 (America/Winnipeg)  •  **Published:** 2026-01-02 18:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-VAR: Should Tottenham's Cristian Romero have been sent off against Brentford?. Should Tottenham's Cristian Romero have been sent off for bringing down Brentford's Igor Thiago when the striker was through on goal? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League team news: predicted lineups for the weekend action. Bournemouth take on leaders Arsenal on Saturday while Manchester City host Chelsea in Sunday's big game Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +158,7 @@ VAR: Should Tottenham's Cristian Romero have been sent off against Brentford?. S
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — VAR: Should Tottenham's Cristian Romero have been sent off against Brentford?. https://www.bbc.com/sport/football/articles/crle8448klko?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/football/2026/jan/02/premier-league-team-news-predicted-lineups-for-the-weekend-action
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +167,13 @@ VAR: Should Tottenham's Cristian Romero have been sent off against Brentford?. S
 
 ---
 
-## Story 6: West Ham agree deals to buy strikers Castellanos and Pablo for up to PS47m
-**Slug (lower-third):** West Ham agree deals to buy strikers Castellanos and Pabl…  
-**When:** 2026-01-02 04:33 (America/Winnipeg)  •  **Published:** 2026-01-02 10:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Mikel Arteta exclusive: Arsenal boss calls for Viktor Gyokeres and the rest of his squad to embrace title race noise
+**Slug (lower-third):** Mikel Arteta exclusive: Arsenal boss calls for Viktor Gyo…  
+**When:** 2026-01-02 11:00 (America/Winnipeg)  •  **Published:** 2026-01-02 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-West Ham agree deals to buy strikers Castellanos and Pablo for up to PS47m. West Ham are poised to boost their attacking options by signing Gil Vicente's Pablo Felipe and Lazio's Taty Castellanos at a cost of up to PS47m Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Mikel Arteta exclusive: Arsenal boss calls for Viktor Gyokeres and the rest of his squad to embrace title race noise. Arsenal boss Mikel Arteta sits down with Sky Sports News to discuss the noise surrounding the title race and the expectations of Viktor Gyokeres since joining from Sporting; watch Bournemouth vs Arsenal live on Saturday Night Football, kick-off 5.30pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +182,7 @@ West Ham agree deals to buy strikers Castellanos and Pablo for up to PS47m. West
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — West Ham agree deals to buy strikers Castellanos and Pablo for up to PS47m. https://www.theguardian.com/football/2026/jan/02/west-ham-taty-castellanos-pablo-felipe-agree-deals-buy-strikers
+- skysports.com — Mikel Arteta exclusive: Arsenal boss calls for Viktor Gyokeres and the rest of his squad to embrace title race noise. https://www.skysports.com/football/news/12040/13489641/mikel-arteta-exclusive-arsenal-boss-calls-for-viktor-gyokeres-and-the-rest-of-his-squad-to-embrace-title-race-noise
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +191,13 @@ West Ham agree deals to buy strikers Castellanos and Pablo for up to PS47m. West
 
 ---
 
-## Story 7: Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr
-**Slug (lower-third):** Football gossip: Ordonez, Salah, Mateta, Fernandes, Traor…  
-**When:** 2026-01-02 04:24 (America/Winnipeg)  •  **Published:** 2026-01-02 10:24 (UTC)  
+## Story 8: Fraser Forster: Former Spurs keeper 'couldn't say no' to joining Bournemouth on six-month deal
+**Slug (lower-third):** Fraser Forster: Former Spurs keeper 'couldn't say no' to …  
+**When:** 2026-01-02 10:52 (America/Winnipeg)  •  **Published:** 2026-01-02 16:52 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr. Liverpool are set to spend APS43m on defender Joel Ordonez, Roma want to re-sign Mohamed Salah, plus more. Relevance to standings and momentum.
+Fraser Forster: Former Spurs keeper 'couldn't say no' to joining Bournemouth on six-month deal. Bournemouth sign former Tottenham and Celtic goalkeeper Fraser Forster on a six-month deal. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +206,7 @@ Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr. Liverpo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr. https://www.bbc.com/sport/football/articles/c5yv3d5gp1vo?at_medium=RSS&at_campaign=rss
+- bbc.com — Fraser Forster: Former Spurs keeper 'couldn't say no' to joining Bournemouth on six-month deal. https://www.bbc.com/sport/football/articles/cy8p9mj72yyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +215,13 @@ Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr. Liverpo
 
 ---
 
-## Story 8: Viktor Gyokeres: Is Arsenal forward struggling to adapt or misused?
-**Slug (lower-third):** Viktor Gyokeres: Is Arsenal forward struggling to adapt o…  
-**When:** 2026-01-02 04:15 (America/Winnipeg)  •  **Published:** 2026-01-02 10:15 (UTC)  
+## Story 9: Brennan Johnson: Wales forward completes APS35m move from Tottenham to Crystal Palace
+**Slug (lower-third):** Brennan Johnson: Wales forward completes APS35m move from…  
+**When:** 2026-01-02 09:58 (America/Winnipeg)  •  **Published:** 2026-01-02 15:58 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Viktor Gyokeres: Is Arsenal forward struggling to adapt or misused?. Viktor Gyokeres joined Arsenal as Europe's most prolific goalscorer - so why have his numbers dropped so drastically? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Brennan Johnson: Wales forward completes APS35m move from Tottenham to Crystal Palace. Brennan Johnson is set to be included in Crystal Palace's squad to face Newcastle on Sunday after his club-record APS35m move from Tottenham was finalised on Friday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +230,7 @@ Viktor Gyokeres: Is Arsenal forward struggling to adapt or misused?. Viktor Gyok
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Viktor Gyokeres: Is Arsenal forward struggling to adapt or misused?. https://www.bbc.com/sport/articles/c8e5ll3r574o?at_medium=RSS&at_campaign=rss
+- bbc.com — Brennan Johnson: Wales forward completes APS35m move from Tottenham to Crystal Palace. https://www.bbc.com/sport/football/articles/c75x6936pgvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +239,13 @@ Viktor Gyokeres: Is Arsenal forward struggling to adapt or misused?. Viktor Gyok
 
 ---
 
-## Story 9: Brentford vs Tottenham Hotspur | Ref Watch: Did Cristian Romero escape a red card for foul on Igor Thiago
-**Slug (lower-third):** Brentford vs Tottenham Hotspur | Ref Watch: Did Cristian …  
-**When:** 2026-01-02 03:27 (America/Winnipeg)  •  **Published:** 2026-01-02 09:27 (UTC)  
+## Story 10: Tottenham: Thomas Frank 'understands and shares' Spurs fans' frustrations
+**Slug (lower-third):** Tottenham: Thomas Frank 'understands and shares' Spurs fa…  
+**When:** 2026-01-02 09:46 (America/Winnipeg)  •  **Published:** 2026-01-02 15:46 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brentford vs Tottenham Hotspur | Ref Watch: Did Cristian Romero escape a red card for foul on Igor Thiago. On Ref Watch, Dermot Gallagher gives his verdict on whether Cristian Romero escaped a red card for a foul on Brentfords Igor Thiago. Relevance to standings and momentum.
+Tottenham: Thomas Frank 'understands and shares' Spurs fans' frustrations. Thomas Frank says he understands and shares the frustration of Tottenham fans after he was booed following Thursday's Premier League draw at Brentford. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,31 +254,7 @@ Brentford vs Tottenham Hotspur | Ref Watch: Did Cristian Romero escape a red car
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Brentford vs Tottenham Hotspur | Ref Watch: Did Cristian Romero escape a red card for foul on Igor Thiago. https://www.skysports.com/watch/video/13489600/brentford-vs-tottenam-hotspur-ref-watch-did-cristian-romero-escape-a-red-card-for-foul-on-igor-thiago
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Boubacar Kamara: Aston Villa's bargain midfielder is unassuming star
-**Slug (lower-third):** Boubacar Kamara: Aston Villa's bargain midfielder is unas…  
-**When:** 2026-01-02 01:54 (America/Winnipeg)  •  **Published:** 2026-01-02 07:54 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Boubacar Kamara: Aston Villa's bargain midfielder is unassuming star. Boubacar Kamara is Aston Villa's unassuming star and has quietly evolved into one of the best midfielders in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Boubacar Kamara: Aston Villa's bargain midfielder is unassuming star. https://www.bbc.com/sport/football/articles/czdg84m99vvo?at_medium=RSS&at_campaign=rss
+- bbc.com — Tottenham: Thomas Frank 'understands and shares' Spurs fans' frustrations. https://www.bbc.com/sport/football/articles/cjrz3gzlv1eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
