@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-01 12:33 (America/Winnipeg)  |  2026-01-01 18:33 (UTC)
+**Generated:** 2026-01-01 19:52 (America/Winnipeg)  |  2026-01-02 01:52 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~3m 22s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Enzo Maresca: What went wrong between Chelsea and Maresca?
-- Liverpool vs Leeds: Ekitike fluffs bizarre open-goal header
-- Ipswich rise into Championship's top two as rivals Coventry and Boro slip up
+- Match of the day: Daniel Farke's 'rock solid' Leeds United turn the corner - analysis
+- Match of the day: Sunderland defended Erling Haaland with no fear' - analysis
+- Match of the day: How Maresca's tenure at Chelsea turned sour - analysis
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Chelsea manager latest: Liam Rosenior leading candidate to succeed Enzo Maresca
-**Slug (lower-third):** Chelsea manager latest: Liam Rosenior leading candidate t…  
-**When:** 2026-01-01 11:53 (America/Winnipeg)  •  **Published:** 2026-01-01 17:53 (UTC)  
+## Story 1: Match of the day: How Maresca's tenure at Chelsea turned sour - analysis
+**Slug (lower-third):** Match of the day: How Maresca's tenure at Chelsea turned …  
+**When:** 2026-01-01 17:58 (America/Winnipeg)  •  **Published:** 2026-01-01 23:58 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea manager latest: Liam Rosenior leading candidate to succeed Enzo Maresca. Strasbourg boss Liam Rosenior is the leading contender to be the next Chelsea manager, but others remain under consideration. Relevance to standings and momentum.
+Match of the day: How Maresca's tenure at Chelsea turned sour - analysis. BBC Sport reporter Nizaar Kinsella explains how Enzo Maresca's position as Chelsea's manager became "untenable". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Chelsea manager latest: Liam Rosenior leading candidate to succeed Enzo Maresca.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Chelsea manager latest: Liam Rosenior leading candidate to succeed Enzo Maresca. https://www.bbc.com/sport/football/articles/c0er1wx3v28o?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the day: How Maresca's tenure at Chelsea turned sour - analysis. https://www.bbc.com/sport/football/videos/cqj2ry09950o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Chelsea manager latest: Liam Rosenior leading candidate to succeed Enzo Maresca.
 
 ---
 
-## Story 2: Enzo Maresca: Chelsea head coach leaves Stamford Bridge with replacement set to be announced imminently
-**Slug (lower-third):** Enzo Maresca: Chelsea head coach leaves Stamford Bridge w…  
-**When:** 2026-01-01 06:00 (America/Winnipeg)  •  **Published:** 2026-01-01 12:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~28s
+## Story 2: Brentford 0-0 Tottenham Hotspur: Cristain Romero lucky to avoid easy red card - Keith Andrews
+**Slug (lower-third):** Brentford 0-0 Tottenham Hotspur: Cristain Romero lucky to…  
+**When:** 2026-01-01 16:47 (America/Winnipeg)  •  **Published:** 2026-01-01 22:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Enzo Maresca: Chelsea head coach leaves Stamford Bridge with replacement set to be announced imminently. Maresca departs having won the Club World Cup and the Conference League; Chelsea are fifth in the Premier League, 15 points adrift of leaders Arsenal; Blues have won once in their last seven top-flight games; Chelsea expect to announce a new head coach in a matter of days Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Brentford 0-0 Tottenham Hotspur: Cristain Romero lucky to avoid easy red card - Keith Andrews. Brentford manager Keith Andrews takes issue with the decision not to award a foul or show a red card for the potential denial of a goalscoring opportunity for Cristian Romero's challenge on Igor Thiago in a 0-0 draw with Spurs. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Enzo Maresca: Chelsea head coach leaves Stamford Bridge with replacement set to 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Enzo Maresca: Chelsea head coach leaves Stamford Bridge with replacement set to be announced imminently. https://www.skysports.com/football/news/12040/13489078/enzo-maresca-chelsea-head-coach-leaves-stamford-bridge-with-replacement-set-to-be-announced-imminently
+- bbc.com — Brentford 0-0 Tottenham Hotspur: Cristain Romero lucky to avoid easy red card - Keith Andrews. https://www.bbc.com/sport/football/videos/c4g097q069lo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,15 +64,13 @@ Enzo Maresca: Chelsea head coach leaves Stamford Bridge with replacement set to 
 
 ---
 
-### Transfers
-
-## Story 3: How Leeds United star's Manchester United transfer spawned Korean phrase
-**Slug (lower-third):** How Leeds United star's Manchester United transfer spawne…  
-**When:** 2026-01-01 03:40 (America/Winnipeg)  •  **Published:** 2026-01-01 09:40 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 3: Sunderland 0-0 Manchester City: Stadium of Light 'tough place to come' - Pep Guardiola
+**Slug (lower-third):** Sunderland 0-0 Manchester City: Stadium of Light 'tough p…  
+**When:** 2026-01-01 16:40 (America/Winnipeg)  •  **Published:** 2026-01-01 22:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-How Leeds United star's Manchester United transfer spawned Korean phrase. Alan Smith's transfer from Elland Road to Old Trafford sparked a phrase which lives on in Korea. Implications for the squad and table.
+Sunderland 0-0 Manchester City: Stadium of Light 'tough place to come' - Pep Guardiola. Manchester City manager Pep Guardiola praises Sunderland's performance after his team was held to a goalless at the Stadium of Light. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,31 +79,7 @@ How Leeds United star's Manchester United transfer spawned Korean phrase. Alan S
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — How Leeds United star's Manchester United transfer spawned Korean phrase. https://www.bbc.com/news/articles/c1mx290re3do?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Rodman's future and Liverpool in need to buy - welcome to the women's transfer window
-**Slug (lower-third):** Rodman's future and Liverpool in need to buy - welcome to…  
-**When:** 2026-01-01 02:00 (America/Winnipeg)  •  **Published:** 2026-01-01 08:00 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Rodman's future and Liverpool in need to buy - welcome to the women's transfer window. With an unusually high number of elite-level players out of contract in 2026 it promises to be an intriguing January Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Rodman's future and Liverpool in need to buy - welcome to the women's transfer window. https://www.theguardian.com/football/2026/jan/01/trinity-rodman-liverpool-women-football-transfer-window
+- bbc.com — Sunderland 0-0 Manchester City: Stadium of Light 'tough place to come' - Pep Guardiola. https://www.bbc.com/sport/football/videos/c5y59p4k3lro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +90,13 @@ Rodman's future and Liverpool in need to buy - welcome to the women's transfer w
 
 ### Club Updates
 
-## Story 5: Enzo Maresca: What went wrong between Chelsea and Maresca?
-**Slug (lower-third):** Enzo Maresca: What went wrong between Chelsea and Maresca?  
-**When:** 2026-01-01 12:21 (America/Winnipeg)  •  **Published:** 2026-01-01 18:21 (UTC)  
+## Story 4: Match of the day: Daniel Farke's 'rock solid' Leeds United turn the corner - analysis
+**Slug (lower-third):** Match of the day: Daniel Farke's 'rock solid' Leeds Unite…  
+**When:** 2026-01-01 18:00 (America/Winnipeg)  •  **Published:** 2026-01-02 00:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Enzo Maresca: What went wrong between Chelsea and Maresca?. Less than six months after guiding Chelsea to Club World Cup success, Enzo Maresca has left. But how did things unravel? Relevance to standings and momentum.
+Match of the day: Daniel Farke's 'rock solid' Leeds United turn the corner - analysis. Match of the Day Pundit Steph Houghton discusses Leeds United's performance against Liverpool and their recent development under Daniel Farke. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +105,7 @@ Enzo Maresca: What went wrong between Chelsea and Maresca?. Less than six months
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Enzo Maresca: What went wrong between Chelsea and Maresca?. https://www.bbc.com/sport/football/articles/cj0n8d913d8o?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the day: Daniel Farke's 'rock solid' Leeds United turn the corner - analysis. https://www.bbc.com/sport/football/videos/c17zlwxdyg9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +114,13 @@ Enzo Maresca: What went wrong between Chelsea and Maresca?. Less than six months
 
 ---
 
-## Story 6: Liverpool vs Leeds: Ekitike fluffs bizarre open-goal header
-**Slug (lower-third):** Liverpool vs Leeds: Ekitike fluffs bizarre open-goal head…  
-**When:** 2026-01-01 12:19 (America/Winnipeg)  •  **Published:** 2026-01-01 18:19 (UTC)  
+## Story 5: Match of the day: Sunderland defended Erling Haaland with no fear' - analysis
+**Slug (lower-third):** Match of the day: Sunderland defended Erling Haaland with…  
+**When:** 2026-01-01 17:59 (America/Winnipeg)  •  **Published:** 2026-01-01 23:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool vs Leeds: Ekitike fluffs bizarre open-goal header. Ekitike fluffs a bizarre open-goal header during Liverpools Premier League match against Leeds United at Anfield. Relevance to standings and momentum.
+Match of the day: Sunderland defended Erling Haaland with no fear' - analysis. Match of the Day Pundits Steph Houghton and Dion Dublin discuss the strength in Sunderland's defence to keep a clean sheet against Manchester City. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +129,7 @@ Liverpool vs Leeds: Ekitike fluffs bizarre open-goal header. Ekitike fluffs a bi
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Liverpool vs Leeds: Ekitike fluffs bizarre open-goal header. https://www.skysports.com/watch/video/13489459/shot-j-frimpong-33-liverpool-0-0-leeds
+- bbc.com — Match of the day: Sunderland defended Erling Haaland with no fear' - analysis. https://www.bbc.com/sport/football/videos/c0mk08pvgvwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +138,13 @@ Liverpool vs Leeds: Ekitike fluffs bizarre open-goal header. Ekitike fluffs a bi
 
 ---
 
-## Story 7: Ipswich rise into Championship's top two as rivals Coventry and Boro slip up
-**Slug (lower-third):** Ipswich rise into Championship's top two as rivals Covent…  
-**When:** 2026-01-01 12:02 (America/Winnipeg)  •  **Published:** 2026-01-01 18:02 (UTC)  
+## Story 6: Troy Deeney's Team of the Week: Bowen, Zubimendi, Wissa and Bijol
+**Slug (lower-third):** Troy Deeney's Team of the Week: Bowen, Zubimendi, Wissa a…  
+**When:** 2026-01-01 17:58 (America/Winnipeg)  •  **Published:** 2026-01-01 23:58 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ipswich rise into Championship's top two as rivals Coventry and Boro slip up. Ipswich climbed into the automatic promotion places in the Championship following a 2-1 victory over struggling Oxford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Troy Deeney's Team of the Week: Bowen, Zubimendi, Wissa and Bijol. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +153,7 @@ Ipswich rise into Championship's top two as rivals Coventry and Boro slip up. Ip
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Ipswich rise into Championship's top two as rivals Coventry and Boro slip up. https://www.theguardian.com/football/2026/jan/01/championship-roundup-wrexham-blackburn-charlton-coventry-derby-middlesbrough
+- bbc.com — Troy Deeney's Team of the Week: Bowen, Zubimendi, Wissa and Bijol. https://www.bbc.com/sport/football/articles/c0mk08gx421o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +162,13 @@ Ipswich rise into Championship's top two as rivals Coventry and Boro slip up. Ip
 
 ---
 
-## Story 8: Brennan Johnson: Tottenham winger agrees to APS35m Crystal Palace move
-**Slug (lower-third):** Brennan Johnson: Tottenham winger agrees to APS35m Crysta…  
-**When:** 2026-01-01 11:58 (America/Winnipeg)  •  **Published:** 2026-01-01 17:58 (UTC)  
+## Story 7: Match of the Day - 2025/26: 01/01/2026
+**Slug (lower-third):** Match of the Day - 2025/26: 01/01/2026  
+**When:** 2026-01-01 17:41 (America/Winnipeg)  •  **Published:** 2026-01-01 23:41 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brennan Johnson: Tottenham winger agrees to APS35m Crystal Palace move. Tottenham attacker Brennan Johnson will undergo the first part of his medical on Thursday after agreeing to join Crystal Palace in a deal worth APS35m. Relevance to standings and momentum.
+Match of the Day - 2025/26: 01/01/2026. Highlights from the four Premier League matches played on New Year's Day. Including Liverpool v Leeds at Anfield, Manchester City v Sunderland and Crystal Palace v Fulham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +177,7 @@ Brennan Johnson: Tottenham winger agrees to APS35m Crystal Palace move. Tottenha
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Brennan Johnson: Tottenham winger agrees to APS35m Crystal Palace move. https://www.bbc.com/sport/football/articles/c0kej88zvplo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Match of the Day - 2025/26: 01/01/2026. https://www.bbc.co.uk/iplayer/episode/m002p279/match-of-the-day-202526-01012026?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +186,13 @@ Brennan Johnson: Tottenham winger agrees to APS35m Crystal Palace move. Tottenha
 
 ---
 
-## Story 9: Man Utd interested in Crystal Palace striker Jean-Philippe Mateta & Stade Rennes defender Jeremy Jacquet
-**Slug (lower-third):** Man Utd interested in Crystal Palace striker Jean-Philipp…  
-**When:** 2026-01-01 07:26 (America/Winnipeg)  •  **Published:** 2026-01-01 13:26 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~24s
+## Story 8: Sunderland 0-0 Man City: 'We are not happy', says Bernardo Silva
+**Slug (lower-third):** Sunderland 0-0 Man City: 'We are not happy', says Bernard…  
+**When:** 2026-01-01 17:33 (America/Winnipeg)  •  **Published:** 2026-01-01 23:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd interested in Crystal Palace striker Jean-Philippe Mateta & Stade Rennes defender Jeremy Jacquet. Man Utd are keen on Crystal Palace striker Jean-Philippe Mateta; United are also one of several clubs monitoring Stade Rennes central defender Jeremy Jacquet; United are considering selling young winger Sam Mather to Turkish club Kayserispor Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sunderland 0-0 Man City: 'We are not happy', says Bernardo Silva. Pep Guardiola questioned whether the Premier League title race was only a two-horse, but his Manchester City side can ill-afford many slip-ups in their quest to hunt down leaders Arsenal. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +201,7 @@ Man Utd interested in Crystal Palace striker Jean-Philippe Mateta & Stade Rennes
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man Utd interested in Crystal Palace striker Jean-Philippe Mateta & Stade Rennes defender Jeremy Jacquet. https://www.skysports.com/football/news/12040/13489276/man-utd-interested-in-crystal-palace-striker-jean-philippe-mateta-stade-rennes-defender-jeremy-jacquet
+- bbc.com — Sunderland 0-0 Man City: 'We are not happy', says Bernardo Silva. https://www.bbc.com/sport/football/articles/cm248l1j7jno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +210,13 @@ Man Utd interested in Crystal Palace striker Jean-Philippe Mateta & Stade Rennes
 
 ---
 
-## Story 10: What I have learned from watching all 20 Premier League teams this season | John Brewin
-**Slug (lower-third):** What I have learned from watching all 20 Premier League t…  
-**When:** 2026-01-01 02:00 (America/Winnipeg)  •  **Published:** 2026-01-01 08:00 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+## Story 9: Premier League highlights: Sunderland 0-0 Manchester City
+**Slug (lower-third):** Premier League highlights: Sunderland 0-0 Manchester City  
+**When:** 2026-01-01 16:57 (America/Winnipeg)  •  **Published:** 2026-01-01 22:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-What I have learned from watching all 20 Premier League teams this season | John Brewin. Set pieces on the rise, fans transformed to customers and conspiracies seen in every decision - is football losing its fun? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League highlights: Sunderland 0-0 Manchester City. Manchester City fall four points behind Arsenal in the Premier League title race after being held to a goalless draw by Sunderland, who maintain their unbeaten home record. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +225,32 @@ What I have learned from watching all 20 Premier League teams this season | John
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — What I have learned from watching all 20 Premier League teams this season | John Brewin. https://www.theguardian.com/football/2026/jan/01/what-i-have-learned-from-watching-all-20-premier-league-teams-this-season
+- bbc.com — Premier League highlights: Sunderland 0-0 Manchester City. https://www.bbc.com/sport/football/videos/cd9e82jzx07o?at_medium=RSS&at_campaign=rss
+- skysports.com — Sunderland 0-0 Manchester City | Premier League highlights. https://www.skysports.com/watch/video/13489541/sunderland-0-0-manchester-city-premier-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr
+**Slug (lower-third):** Football gossip: Ordonez, Salah, Mateta, Fernandes, Traor…  
+**When:** 2026-01-01 16:50 (America/Winnipeg)  •  **Published:** 2026-01-01 22:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr. Liverpool are set to spend APS43m on defender Joel Ordonez, Roma want to re-sign Mohamed Salah, plus more. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Ordonez, Salah, Mateta, Fernandes, Traore, Vinicius Jr. https://www.bbc.com/sport/football/articles/c5yv3d5gp1vo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
