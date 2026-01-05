@@ -1,76 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-05 06:52 (America/Winnipeg)  |  2026-01-05 12:52 (UTC)
+**Generated:** 2026-01-05 12:36 (America/Winnipeg)  |  2026-01-05 18:36 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 40s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Chelsea dagger for Guardiola as Arsenal move six points clear - Football Weekly
-- Ruben Amorim sacked: Why Manchester United felt they had no choice but to remove Portuguese coach
-- Ruben Amorim sacked by Man Utd: End of an error at Old Trafford as project promising change comes to nothing
+- Nuno Espirito Santo exclusive interview: West Ham need a mentality change and why January signings are crucial
+- Manchester United emphatically clear up confusion over Amorim's job title | Football Daily
+- Premier League predictions: Chris Sutton v Tony McGuinness of Above and Beyond - and AI
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Ruben Amorim sacked: Why Manchester United felt they had no choice but to remove Portuguese coach
-**Slug (lower-third):** Ruben Amorim sacked: Why Manchester United felt they had …  
-**When:** 2026-01-05 05:14 (America/Winnipeg)  •  **Published:** 2026-01-05 11:14 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Ruben Amorim sacked: Why Manchester United felt they had no choice but to remove Portuguese coach. Ruben Amorim has been sacked by Manchester United after 14 months in charge; Sky Sports News Rob Dorsett analyses the rift that had emerged between Amorim and the United hierarchy, which then led to his press conference comments after the 1-1 draw with Leeds Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Ruben Amorim sacked: Why Manchester United felt they had no choice but to remove Portuguese coach. https://www.skysports.com/football/news/12040/13490674/ruben-amorim-sacked-why-manchester-united-felt-they-had-no-choice-but-to-remove-portuguese-coach
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Ruben Amorim sacked by Man Utd: End of an error at Old Trafford as project promising change comes to nothing
-**Slug (lower-third):** Ruben Amorim sacked by Man Utd: End of an error at Old Tr…  
-**When:** 2026-01-05 04:44 (America/Winnipeg)  •  **Published:** 2026-01-05 10:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Ruben Amorim sacked by Man Utd: End of an error at Old Trafford as project promising change comes to nothing. The decision to sack Ruben Amorim became inevitable once the Portuguese coach made it clear this was no long-term project but the unravelling of his Manchester United reign damns the decision-makers as well as the coach, writes Adam Bate Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Ruben Amorim sacked by Man Utd: End of an error at Old Trafford as project promising change comes to nothing. https://www.skysports.com/football/news/12040/13490676/ruben-amorim-sacked-by-man-utd-end-of-an-error-at-old-trafford-as-project-promising-change-comes-to-nothing
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Spurs sign Julie Blakstad on permanent deal
-**Slug (lower-third):** Spurs sign Julie Blakstad on permanent deal  
-**When:** 2026-01-05 04:02 (America/Winnipeg)  •  **Published:** 2026-01-05 10:02 (UTC)  
+## Story 1: Ruben Amorim sacked: timeline of his Manchester United tenure - video
+**Slug (lower-third):** Ruben Amorim sacked: timeline of his Manchester United te…  
+**When:** 2026-01-05 10:23 (America/Winnipeg)  •  **Published:** 2026-01-05 16:23 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Spurs sign Julie Blakstad on permanent deal. Head coach Martin Ho describes the 24-year-old Norway international as a "dynamic full-back". Relevance to standings and momentum.
+Ruben Amorim sacked: timeline of his Manchester United tenure - video. Ruben Amorim has been sacked by Manchester United after 14 months as their head coach. We take a look back at his turbulent reign, which featured a few fleeting highs but some miserable lows Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +31,7 @@ Spurs sign Julie Blakstad on permanent deal. Head coach Martin Ho describes the 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Spurs sign Julie Blakstad on permanent deal. https://www.bbc.com/sport/football/articles/c701ex0xdv9o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Ruben Amorim sacked: timeline of his Manchester United tenure - video. https://www.theguardian.com/football/video/2026/jan/05/ruben-amorim-sacked-timeline-manchester-united-video
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -88,9 +40,9 @@ Spurs sign Julie Blakstad on permanent deal. Head coach Martin Ho describes the 
 
 ---
 
-## Story 4: Ruben Amorim sacked as Man United head coach after 14 months
+## Story 2: Ruben Amorim sacked as Man United head coach after 14 months
 **Slug (lower-third):** Ruben Amorim sacked as Man United head coach after 14 mon…  
-**When:** 2026-01-05 01:33 (America/Winnipeg)  •  **Published:** 2026-01-05 07:33 (UTC)  
+**When:** 2026-01-05 06:01 (America/Winnipeg)  •  **Published:** 2026-01-05 12:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -114,65 +66,15 @@ Ruben Amorim sacked as Man United head coach after 14 months. Ruben Amorim has b
 
 ---
 
-## Story 5: FPL gameweek 21 tips: Matheus Cunha, Ollie Watkins and Declan Rice all make the side
-**Slug (lower-third):** FPL gameweek 21 tips: Matheus Cunha, Ollie Watkins and De…  
-**When:** 2026-01-05 02:42 (America/Winnipeg)  •  **Published:** 2026-01-05 08:42 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-FPL gameweek 21 tips: Matheus Cunha, Ollie Watkins and Declan Rice all make the side. Erling Haaland retains the captaincy despite his run of blanks but, if he fails to score against Brighton, FPL managers can start to panic. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — FPL gameweek 21 tips: Matheus Cunha, Ollie Watkins and Declan Rice all make the side. https://www.bbc.com/sport/football/articles/cy4g7d7xd9wo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 6: Smilla Holmberg: Arsenal sign Sweden defender from Hammarby
-**Slug (lower-third):** Smilla Holmberg: Arsenal sign Sweden defender from Hammar…  
-**When:** 2026-01-05 04:00 (America/Winnipeg)  •  **Published:** 2026-01-05 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Smilla Holmberg: Arsenal sign Sweden defender from Hammarby. Eighteen-year-old defender Smilla Holmberg says "it's always been my dream to play for Arsenal" after signing a long-term contract. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Smilla Holmberg: Arsenal sign Sweden defender from Hammarby. https://www.bbc.com/sport/football/articles/c62w38206pko?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 7: Chelsea dagger for Guardiola as Arsenal move six points clear - Football Weekly
-**Slug (lower-third):** Chelsea dagger for Guardiola as Arsenal move six points c…  
-**When:** 2026-01-05 06:27 (America/Winnipeg)  •  **Published:** 2026-01-05 12:27 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 3: Nuno Espirito Santo exclusive interview: West Ham need a mentality change and why January signings are crucial
+**Slug (lower-third):** Nuno Espirito Santo exclusive interview: West Ham need a …  
+**When:** 2026-01-05 12:00 (America/Winnipeg)  •  **Published:** 2026-01-05 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Chelsea dagger for Guardiola as Arsenal move six points clear - Football Weekly. Max Rushden is joined by Barry Glendenning, Nick Ames and Seb Hutchinson to discuss a weekend of Premier League drama Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Nuno Espirito Santo exclusive interview: West Ham need a mentality change and why January signings are crucial. Nuno Espirito Santo tells Sky Sports about bouncing back from the defeat to Wolves and the mentality change he is trying to implement as West Ham battle against relegation; watch West Ham vs Nottm Forest live on Sky Sports on Tuesday; kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +83,7 @@ Chelsea dagger for Guardiola as Arsenal move six points clear - Football Weekly.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Chelsea dagger for Guardiola as Arsenal move six points clear - Football Weekly. https://www.theguardian.com/football/audio/2026/jan/05/chelsea-manchester-city-arsenal-wolves-football-weekly
+- skysports.com — Nuno Espirito Santo exclusive interview: West Ham need a mentality change and why January signings are crucial. https://www.skysports.com/football/news/12040/13490811/nuno-espirito-santo-exclusive-interview-west-ham-need-a-mentality-change-and-why-january-signings-are-crucial
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +92,13 @@ Chelsea dagger for Guardiola as Arsenal move six points clear - Football Weekly.
 
 ---
 
-## Story 8: Football gossip: Wharton, Boey, Gomes, Ake, Vinicius Jr, Akliouche, Osula
-**Slug (lower-third):** Football gossip: Wharton, Boey, Gomes, Ake, Vinicius Jr, …  
-**When:** 2026-01-05 04:36 (America/Winnipeg)  •  **Published:** 2026-01-05 10:36 (UTC)  
+## Story 4: Manchester United emphatically clear up confusion over Amorim's job title | Football Daily
+**Slug (lower-third):** Manchester United emphatically clear up confusion over Am…  
+**When:** 2026-01-05 11:55 (America/Winnipeg)  •  **Published:** 2026-01-05 17:55 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Wharton, Boey, Gomes, Ake, Vinicius Jr, Akliouche, Osula. Adam Wharton emerges as a target for Real Madrid, Crystal Palace are assessing several options, AC Milan are keeping tabs on Nathan Ake, plus more. Relevance to standings and momentum.
+Manchester United emphatically clear up confusion over Amorim's job title | Football Daily. In today's Football Daily: A busy day for the Door Marked Do One Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +107,7 @@ Football gossip: Wharton, Boey, Gomes, Ake, Vinicius Jr, Akliouche, Osula. Adam 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Wharton, Boey, Gomes, Ake, Vinicius Jr, Akliouche, Osula. https://www.bbc.com/sport/football/articles/cx2yn878zxyo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Manchester United emphatically clear up confusion over Amorim's job title | Football Daily. https://www.theguardian.com/football/2026/jan/05/football-daily-ruben-amorim-sacking-manchester-united
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +116,13 @@ Football gossip: Wharton, Boey, Gomes, Ake, Vinicius Jr, Akliouche, Osula. Adam 
 
 ---
 
-## Story 9: Leicester poised to sign full-back Ashleigh Neville from Tottenham
-**Slug (lower-third):** Leicester poised to sign full-back Ashleigh Neville from …  
-**When:** 2026-01-05 04:03 (America/Winnipeg)  •  **Published:** 2026-01-05 10:03 (UTC)  
+## Story 5: Premier League predictions: Chris Sutton v Tony McGuinness of Above and Beyond - and AI
+**Slug (lower-third):** Premier League predictions: Chris Sutton v Tony McGuinnes…  
+**When:** 2026-01-05 11:54 (America/Winnipeg)  •  **Published:** 2026-01-05 17:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leicester poised to sign full-back Ashleigh Neville from Tottenham. Leicester are poised to sign the experienced full-back Ashleigh Neville from their fellow Women's Super League club Tottenham Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League predictions: Chris Sutton v Tony McGuinness of Above and Beyond - and AI. BBC Sport football expert Chris Sutton takes on Tony McGuinness of Above and Beyond - and AI - with his predictions for this week's Premier League fixtures. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +131,7 @@ Leicester poised to sign full-back Ashleigh Neville from Tottenham. Leicester ar
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Leicester poised to sign full-back Ashleigh Neville from Tottenham. https://www.theguardian.com/football/2026/jan/05/leicester-ashleigh-neville-tottenham-wsl-transfers
+- bbc.com — Premier League predictions: Chris Sutton v Tony McGuinness of Above and Beyond - and AI. https://www.bbc.com/sport/football/articles/c87r0dn3gq1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +140,13 @@ Leicester poised to sign full-back Ashleigh Neville from Tottenham. Leicester ar
 
 ---
 
-## Story 10: Benjamin Sesko's finishing for Man Utd, John McGinn's touches in the box, Jhon Arias and Max Kilman all in The Debrief
-**Slug (lower-third):** Benjamin Sesko's finishing for Man Utd, John McGinn's tou…  
-**When:** 2026-01-05 03:00 (America/Winnipeg)  •  **Published:** 2026-01-05 09:00 (UTC)  
+## Story 6: Premier League Darts 2026: Schedule, venues, players, format, prize money as Luke Humphries defends title against Luke Littler and other rivals
+**Slug (lower-third):** Premier League Darts 2026: Schedule, venues, players, for…  
+**When:** 2026-01-05 10:30 (America/Winnipeg)  •  **Published:** 2026-01-05 16:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Benjamin Sesko's finishing for Man Utd, John McGinn's touches in the box, Jhon Arias and Max Kilman all in The Debrief. In this weeks edition of The Debrief, Adam Bate looks at Benjamin Seskos issues in front of goal for Manchester United. Plus: John McGinns touches in the box for Aston Villa, Jhon Arias reinvention at Wolves and Max Kilman losing aerial duels for West Ham Relevance to standings and momentum.
+Premier League Darts 2026: Schedule, venues, players, format, prize money as Luke Humphries defends title against Luke Littler and other rivals. The Premier League Darts schedule, line-up, venues, format, prize money and more as Luke Humphries defends his title; watch the 2026 Premier League Darts every Thursday from February 5 until May 28, live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +155,103 @@ Benjamin Sesko's finishing for Man Utd, John McGinn's touches in the box, Jhon A
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Benjamin Sesko's finishing for Man Utd, John McGinn's touches in the box, Jhon Arias and Max Kilman all in The Debrief. https://www.skysports.com/football/news/12040/13490271/benjamin-seskos-finishing-for-man-utd-john-mcginns-touches-in-the-box-jhon-arias-and-max-kilman-all-in-the-debrief
+- skysports.com — Premier League Darts 2026: Schedule, venues, players, format, prize money as Luke Humphries defends title against Luke Littler and other rivals. https://www.skysports.com/darts/news/12040/13490693/premier-league-darts-2026-schedule-venues-players-format-prize-money-as-luke-humphries-defends-title-against-luke-littler-and-other-rivals
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Joe Willock: Newcastle contact police after 'disgusting' racist abuse
+**Slug (lower-third):** Joe Willock: Newcastle contact police after 'disgusting' …  
+**When:** 2026-01-05 10:21 (America/Winnipeg)  •  **Published:** 2026-01-05 16:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Joe Willock: Newcastle contact police after 'disgusting' racist abuse. Newcastle United contact the police after midfielder Joe Willock is the subject of "disgusting" racial abuse and "deeply disturbing threats" online. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Joe Willock: Newcastle contact police after 'disgusting' racist abuse. https://www.bbc.com/sport/football/articles/cx2knjd5l36o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Newcastle ask Meta to help police find individual who sent racist abuse to Willock
+**Slug (lower-third):** Newcastle ask Meta to help police find individual who sen…  
+**When:** 2026-01-05 10:16 (America/Winnipeg)  •  **Published:** 2026-01-05 16:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Newcastle ask Meta to help police find individual who sent racist abuse to Willock. Newcastle have urged Meta, the owner of Instagram, to assist Northumbria police in identifying the individual responsible for subjecting the midfielder Joe Willock to racist abuse Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Newcastle ask Meta to help police find individual who sent racist abuse to Willock. https://www.theguardian.com/football/2026/jan/05/newcastle-meta-help-police-find-individual-racist-abuse-joe-willock
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Callum Wilson in talks to leave West Ham after five months as Nuno problems mount
+**Slug (lower-third):** Callum Wilson in talks to leave West Ham after five month…  
+**When:** 2026-01-05 08:31 (America/Winnipeg)  •  **Published:** 2026-01-05 14:31 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Callum Wilson in talks to leave West Ham after five months as Nuno problems mount. The striker Callum Wilson is in talks to leave West Ham five months after joining on a one-year deal, with new forward recruits signed Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Callum Wilson in talks to leave West Ham after five months as Nuno problems mount. https://www.theguardian.com/football/2026/jan/05/callum-wilson-in-talks-to-leave-west-ham-after-five-months-nuno
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Marc Guehi: Manchester City emerge as contenders to sign Crystal Palace defender
+**Slug (lower-third):** Marc Guehi: Manchester City emerge as contenders to sign …  
+**When:** 2026-01-05 07:41 (America/Winnipeg)  •  **Published:** 2026-01-05 13:41 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Marc Guehi: Manchester City emerge as contenders to sign Crystal Palace defender. Manchester City are emerging as contenders to sign Crystal Palace captain Marc Guehi in January following injuries to defenders Josko Gvardiol and Ruben Dias. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Marc Guehi: Manchester City emerge as contenders to sign Crystal Palace defender. https://www.bbc.com/sport/football/articles/cn0y8xlyq08o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
