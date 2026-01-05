@@ -1,14 +1,2 @@
-resp_09a4b907f81284e900695b5e76357481958ea122306bc0ddec
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_09a4b907f81284e900695b5e7663b081959fa675de23332a0f
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Good evening — transfer news from the Women’s Super League as Leicester City are reportedly poised to sign experienced full-back Ashleigh Neville from fellow WSL side Tottenham Hotspur. The Guardian published the report on 5 January 2026 at 04:03 local time (2026-
