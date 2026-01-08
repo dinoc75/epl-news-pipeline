@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-07 12:36 (America/Winnipeg)  |  2026-01-07 18:36 (UTC)
+**Generated:** 2026-01-07 19:52 (America/Winnipeg)  |  2026-01-08 01:52 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 23s
+**Estimated total video length:** ~3m 20s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Max Alleyne: Who is the Manchester City defender handed Premier League debut against Brighton
-- Kevin Keegan: Former Newcastle and England boss set to undergo treatment after cancer diagnosis
-- West Ham fan turnout against Nottingham Forest almost half official attendance
+- Brentford's European charge - defying the odds with a brilliant Brazilian
+- Match of the Day: Ole Gunnar Solskjaer return to Man Utd seems ridiculous
+- Darren Fletcher to take charge for FA Cup - but Man Utd's problems are far bigger
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Liverpool loan move for Sweden goalkeeper Jennifer Falk who saved four England penalties at Euros
-**Slug (lower-third):** Liverpool loan move for Sweden goalkeeper Jennifer Falk w…  
-**When:** 2026-01-07 11:22 (America/Winnipeg)  •  **Published:** 2026-01-07 17:22 (UTC)  
+## Story 1: Darren Fletcher to take charge for FA Cup - but Man Utd's problems are far bigger
+**Slug (lower-third):** Darren Fletcher to take charge for FA Cup - but Man Utd's…  
+**When:** 2026-01-07 18:15 (America/Winnipeg)  •  **Published:** 2026-01-08 00:15 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool loan move for Sweden goalkeeper Jennifer Falk who saved four England penalties at Euros. Liverpool sign Sweden goalkeeper Jennifer Falk on loan from BK Hacken for the rest of the season. Implications for the squad and table.
+Darren Fletcher to take charge for FA Cup - but Man Utd's problems are far bigger. Darren Fletcher will remain in charge of Manchester United for their FA Cup match against Brighton - as the club battle problems that go far deeper than sorting out managerial uncertainty. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Liverpool loan move for Sweden goalkeeper Jennifer Falk who saved four England p
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool loan move for Sweden goalkeeper Jennifer Falk who saved four England penalties at Euros. https://www.bbc.com/sport/football/articles/cvgp8zl23ldo?at_medium=RSS&at_campaign=rss
+- bbc.com — Darren Fletcher to take charge for FA Cup - but Man Utd's problems are far bigger. https://www.bbc.com/sport/football/articles/cy8pxl1l0lko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Liverpool loan move for Sweden goalkeeper Jennifer Falk who saved four England p
 
 ---
 
-## Story 2: Cherki has excelled for Manchester City - and made Guardiola adapt
-**Slug (lower-third):** Cherki has excelled for Manchester City - and made Guardi…  
-**When:** 2026-01-07 10:00 (America/Winnipeg)  •  **Published:** 2026-01-07 16:00 (UTC)  
+## Story 2: Liam Rosenior has problems to fix at Chelsea - what's on his to-do list after Fulham defeat?
+**Slug (lower-third):** Liam Rosenior has problems to fix at Chelsea - what's on …  
+**When:** 2026-01-07 17:44 (America/Winnipeg)  •  **Published:** 2026-01-07 23:44 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Cherki has excelled for Manchester City - and made Guardiola adapt. In a bad season for big-money transfers in the Premier League, maverick Frenchman has been a notable exception Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Liam Rosenior has problems to fix at Chelsea - what's on his to-do list after Fulham defeat?. New Chelsea head coach Liam Rosenior was optimistic when arriving, but Wednesday's 2-1 defeat at Fulham underlines the scale of the task ahead. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,59 @@ Cherki has excelled for Manchester City - and made Guardiola adapt. In a bad sea
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Cherki has excelled for Manchester City - and made Guardiola adapt. https://www.theguardian.com/football/who-scored-blog/2026/jan/07/rayan-cherki-city-pep-guardiola-premier-league
+- bbc.com — Liam Rosenior has problems to fix at Chelsea - what's on his to-do list after Fulham defeat?. https://www.bbc.com/sport/football/articles/c8015m4r2n0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Match of the Day: Ole Gunnar Solskjaer return to Man Utd seems ridiculous
+**Slug (lower-third):** Match of the Day: Ole Gunnar Solskjaer return to Man Utd …  
+**When:** 2026-01-07 18:24 (America/Winnipeg)  •  **Published:** 2026-01-08 00:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Match of the Day: Ole Gunnar Solskjaer return to Man Utd seems ridiculous. Match of the Day pundits Danny Murphy and Stephen Warnock look at who should take charge at Manchester United following Ruben Amorim's departure earlier this week. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Match of the Day: Ole Gunnar Solskjaer return to Man Utd seems ridiculous. https://www.bbc.com/sport/football/videos/cly39e8kpylo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 4: Brentford's European charge - defying the odds with a brilliant Brazilian
+**Slug (lower-third):** Brentford's European charge - defying the odds with a bri…  
+**When:** 2026-01-07 18:52 (America/Winnipeg)  •  **Published:** 2026-01-08 00:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Brentford's European charge - defying the odds with a brilliant Brazilian. With four wins in five games, and a Brazilian striker banging in the goals, Brentford fans are dreaming of the Champions League. Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Brentford's European charge - defying the odds with a brilliant Brazilian. https://www.bbc.com/sport/football/articles/clynelwgdd4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +118,13 @@ Cherki has excelled for Manchester City - and made Guardiola adapt. In a bad sea
 
 ### Club Updates
 
-## Story 3: Max Alleyne: Who is the Manchester City defender handed Premier League debut against Brighton
-**Slug (lower-third):** Max Alleyne: Who is the Manchester City defender handed P…  
-**When:** 2026-01-07 12:29 (America/Winnipeg)  •  **Published:** 2026-01-07 18:29 (UTC)  
+## Story 5: Thomas Frank: Spurs boss under more pressure and scrutiny after holding Arsenal-branded cup
+**Slug (lower-third):** Thomas Frank: Spurs boss under more pressure and scrutiny…  
+**When:** 2026-01-07 18:05 (America/Winnipeg)  •  **Published:** 2026-01-08 00:05 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Max Alleyne: Who is the Manchester City defender handed Premier League debut against Brighton. Manchester City defender Max Alleyne will make his Premier League debut on Wednesday after being named in Pep Guardiola's team to face Brighton. Relevance to standings and momentum.
+Thomas Frank: Spurs boss under more pressure and scrutiny after holding Arsenal-branded cup. Spurs boss Thomas Frank under more pressure and scrutiny after holding Arsenal-branded cup before 3-2 defeat by Bournemouth that left side 14th in Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +133,7 @@ Max Alleyne: Who is the Manchester City defender handed Premier League debut aga
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Max Alleyne: Who is the Manchester City defender handed Premier League debut against Brighton. https://www.bbc.com/sport/football/articles/c78vw963gp6o?at_medium=RSS&at_campaign=rss
+- bbc.com — Thomas Frank: Spurs boss under more pressure and scrutiny after holding Arsenal-branded cup. https://www.bbc.com/sport/football/articles/cp37w009dwlo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,37 +142,13 @@ Max Alleyne: Who is the Manchester City defender handed Premier League debut aga
 
 ---
 
-## Story 4: Kevin Keegan: Former Newcastle and England boss set to undergo treatment after cancer diagnosis
-**Slug (lower-third):** Kevin Keegan: Former Newcastle and England boss set to un…  
-**When:** 2026-01-07 11:56 (America/Winnipeg)  •  **Published:** 2026-01-07 17:56 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Kevin Keegan: Former Newcastle and England boss set to undergo treatment after cancer diagnosis. Kevin Keegan, 74, was recently admitted to hospital with ongoing abdominal symptoms and tests revealed he has cancer; the former Liverpool and England player will now begin treatment, his family said in a statement Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Kevin Keegan: Former Newcastle and England boss set to undergo treatment after cancer diagnosis. https://www.skysports.com/football/news/12040/13491662/kevin-keegan-former-newcastle-and-england-boss-set-to-undergo-treatment-after-cancer-diagnosis
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: West Ham fan turnout against Nottingham Forest almost half official attendance
-**Slug (lower-third):** West Ham fan turnout against Nottingham Forest almost hal…  
-**When:** 2026-01-07 11:27 (America/Winnipeg)  •  **Published:** 2026-01-07 17:27 (UTC)  
+## Story 6: Match of the Day: Fulham Harry Wilson analysis by Danny Murphy
+**Slug (lower-third):** Match of the Day: Fulham Harry Wilson analysis by Danny M…  
+**When:** 2026-01-07 18:02 (America/Winnipeg)  •  **Published:** 2026-01-08 00:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham fan turnout against Nottingham Forest almost half official attendance. West Ham's official attendance of 62,429 for their 2-1 by Nottingham Forest was almost twice as high as the number of fans who went through the turnstiles Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Match of the Day: Fulham Harry Wilson analysis by Danny Murphy. Match of the Day's Danny Murphy analyses Fulham's Harry Wilson's current form and "intelligent" winning performance against Chelsea. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +157,7 @@ West Ham fan turnout against Nottingham Forest almost half official attendance. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — West Ham fan turnout against Nottingham Forest almost half official attendance. https://www.theguardian.com/football/2026/jan/07/west-ham-official-attendance-nottingham-forest-london-stadium
+- bbc.com — Match of the Day: Fulham Harry Wilson analysis by Danny Murphy. https://www.bbc.com/sport/football/videos/ckgkrj2rnpxo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +166,13 @@ West Ham fan turnout against Nottingham Forest almost half official attendance. 
 
 ---
 
-## Story 6: Martin Chivers, former Tottenham and England striker, dies aged 80
-**Slug (lower-third):** Martin Chivers, former Tottenham and England striker, die…  
-**When:** 2026-01-07 11:19 (America/Winnipeg)  •  **Published:** 2026-01-07 17:19 (UTC)  
+## Story 7: Magical Mane secures draw for Wolves before Everton's Keane and Grealish see red
+**Slug (lower-third):** Magical Mane secures draw for Wolves before Everton's Kea…  
+**When:** 2026-01-07 17:56 (America/Winnipeg)  •  **Published:** 2026-01-07 23:56 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Martin Chivers, former Tottenham and England striker, dies aged 80. The former Tottenham, Southampton and England striker Martin Chivers has died at the age of 80 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Magical Mane secures draw for Wolves before Everton's Keane and Grealish see red. Wolves continued their mini revival with a 1-1 draw away at an Everton side reduced to nine men when Michael Keane and Jack Grealish were sent off Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,9 +181,7 @@ Martin Chivers, former Tottenham and England striker, dies aged 80. The former T
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Martin Chivers, former Tottenham and England striker, dies aged 80. https://www.theguardian.com/football/2026/jan/07/martin-chivers-former-tottenham-england-southampton-striker-dies-aged-80
-- bbc.com — Martin Chivers: Former Spurs and England forward dies aged 80. https://www.bbc.com/sport/football/articles/c0r4q22pe4lo?at_medium=RSS&at_campaign=rss
-- skysports.com — Martin Chivers: Former Tottenham and England striker dies aged 80. https://www.skysports.com/football/news/12040/13491642/martin-chivers-former-tottenham-and-england-striker-dies-aged-80
+- theguardian.com — Magical Mane secures draw for Wolves before Everton's Keane and Grealish see red. https://www.theguardian.com/football/2026/jan/07/everton-wolves-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +190,13 @@ Martin Chivers, former Tottenham and England striker, dies aged 80. The former T
 
 ---
 
-## Story 7: Solskjaer would be a huge risk for Manchester United's beleaguered hierarchy | Jamie Jackson
-**Slug (lower-third):** Solskjaer would be a huge risk for Manchester United's be…  
-**When:** 2026-01-07 10:46 (America/Winnipeg)  •  **Published:** 2026-01-07 16:46 (UTC)  
+## Story 8: Football Daily - The Debrief: Semenyo leaves Bournemouth in style, Newcastle score the latest-ever winner and six other PL games - BBC Sounds
+**Slug (lower-third):** Football Daily - The Debrief: Semenyo leaves Bournemouth …  
+**When:** 2026-01-07 17:48 (America/Winnipeg)  •  **Published:** 2026-01-07 23:48 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Solskjaer would be a huge risk for Manchester United's beleaguered hierarchy | Jamie Jackson. There is no guarantee the Norwegian would restore a sense of positivity like he did first time round - and failure would be a nightmare Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football Daily - The Debrief: Semenyo leaves Bournemouth in style, Newcastle score the latest-ever winner and six other PL games - BBC Sounds. 8 games, 26 goals, and storylines aplenty -- Mark Chapman and co. react. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +205,7 @@ Solskjaer would be a huge risk for Manchester United's beleaguered hierarchy | J
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Solskjaer would be a huge risk for Manchester United's beleaguered hierarchy | Jamie Jackson. https://www.theguardian.com/football/2026/jan/07/ole-gunnar-solskjaer-return-to-manchester-united-jim-ratcliffe-ruben-amorim-sacked
+- bbc.co.uk — Football Daily - The Debrief: Semenyo leaves Bournemouth in style, Newcastle score the latest-ever winner and six other PL games - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0msptq3?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +214,13 @@ Solskjaer would be a huge risk for Manchester United's beleaguered hierarchy | J
 
 ---
 
-## Story 8: Jorgen Strand Larsen: Wolves willing to sell striker amid Nottingham Forest interest
-**Slug (lower-third):** Jorgen Strand Larsen: Wolves willing to sell striker amid…  
-**When:** 2026-01-07 10:28 (America/Winnipeg)  •  **Published:** 2026-01-07 16:28 (UTC)  
+## Story 9: Man City 1-1 Brighton: Draw 'punch in ribs' for Guardiola's side
+**Slug (lower-third):** Man City 1-1 Brighton: Draw 'punch in ribs' for Guardiola…  
+**When:** 2026-01-07 17:31 (America/Winnipeg)  •  **Published:** 2026-01-07 23:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jorgen Strand Larsen: Wolves willing to sell striker amid Nottingham Forest interest. Wolves are open to selling striker Jorgen Strand Larsen this month, amid interest from Nottingham Forest. Relevance to standings and momentum.
+Man City 1-1 Brighton: Draw 'punch in ribs' for Guardiola's side. With Manchester City's crucial month beginning badly, Pep Guardiola is left to hope that their campaign is not derailing in similar fashion to last season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +229,7 @@ Jorgen Strand Larsen: Wolves willing to sell striker amid Nottingham Forest inte
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Jorgen Strand Larsen: Wolves willing to sell striker amid Nottingham Forest interest. https://www.bbc.com/sport/football/articles/cqxy9lnp8w2o?at_medium=RSS&at_campaign=rss
+- bbc.com — Man City 1-1 Brighton: Draw 'punch in ribs' for Guardiola's side. https://www.bbc.com/sport/football/articles/cn82ye11yx5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +238,13 @@ Jorgen Strand Larsen: Wolves willing to sell striker amid Nottingham Forest inte
 
 ---
 
-## Story 9: Football Daily | West Ham and a cautionary tale of being careful what you wish for
-**Slug (lower-third):** Football Daily | West Ham and a cautionary tale of being …  
-**When:** 2026-01-07 09:40 (America/Winnipeg)  •  **Published:** 2026-01-07 15:40 (UTC)  
+## Story 10: Premier League Highlights: Newcastle 4-3 Leeds
+**Slug (lower-third):** Premier League Highlights: Newcastle 4-3 Leeds  
+**When:** 2026-01-07 17:26 (America/Winnipeg)  •  **Published:** 2026-01-07 23:26 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | West Ham and a cautionary tale of being careful what you wish for. In today's Football Daily: Oh West Ham, how could you? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League Highlights: Newcastle 4-3 Leeds. Harvey Barnes scores twice as Newcastle come from behind to beat Leeds in a dramatic seven-goal thriller at St James' Park. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,31 +253,8 @@ Football Daily | West Ham and a cautionary tale of being careful what you wish f
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | West Ham and a cautionary tale of being careful what you wish for. https://www.theguardian.com/football/2026/jan/07/west-ham-football-daily-newsletter
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: FA Cup: Exeter City ask Man City for bigger share of gate receipts
-**Slug (lower-third):** FA Cup: Exeter City ask Man City for bigger share of gate…  
-**When:** 2026-01-07 08:03 (America/Winnipeg)  •  **Published:** 2026-01-07 14:03 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-FA Cup: Exeter City ask Man City for bigger share of gate receipts. Exeter City Supporters' Trust calls on Manchester City to give the club a greater share of the gate receipts from Saturday's FA Cup tie. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — FA Cup: Exeter City ask Man City for bigger share of gate receipts. https://www.bbc.com/sport/football/articles/c1m75jvvpz4o?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League Highlights: Newcastle 4-3 Leeds. https://www.bbc.com/sport/football/videos/crkre1ke52do?at_medium=RSS&at_campaign=rss
+- skysports.com — Newcastle 4-3 Leeds | Premier League highlights. https://www.skysports.com/watch/video/13491841/newcastle-4-3-leeds-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
