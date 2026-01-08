@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-08 06:51 (America/Winnipeg)  |  2026-01-08 12:51 (UTC)
+**Generated:** 2026-01-08 12:32 (America/Winnipeg)  |  2026-01-08 18:32 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 23s
+**Estimated total video length:** ~4m 39s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arne Slot: Liverpool's Premier League title defence is over, our focus is Champions League qualification
-- Arsenal: What next for forward Ethan Nwaneri?
-- Eric Ramsay: West Bromwich Albion interested in ex-Manchester United coach
+- USA midfielder Sam Coffey in talks to join Manchester City from Portland Thorns
+- Steve Beaton in prime position to regain PDC Tour Card after quarter-final run at Q-School
+- Football Daily | Celebrating the Premier League's unbridled wildness and joyous puerility
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Eric Ramsay: West Bromwich Albion interested in ex-Manchester United coach
-**Slug (lower-third):** Eric Ramsay: West Bromwich Albion interested in ex-Manche…  
-**When:** 2026-01-08 05:36 (America/Winnipeg)  •  **Published:** 2026-01-08 11:36 (UTC)  
+## Story 1: Tottenham: 'Young leader' Cristian Romero defended by head coach Thomas Frank
+**Slug (lower-third):** Tottenham: 'Young leader' Cristian Romero defended by hea…  
+**When:** 2026-01-08 10:12 (America/Winnipeg)  •  **Published:** 2026-01-08 16:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Eric Ramsay: West Bromwich Albion interested in ex-Manchester United coach. West Bromwich Albion are interested in former Manchester United coach Eric Ramsay as they look to fill their managerial vacancy. Relevance to standings and momentum.
+Tottenham: 'Young leader' Cristian Romero defended by head coach Thomas Frank. Tottenham head coach Thomas Frank defends captain Cristian Romero after he appeared to take aim at the club's hierarchy. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,31 +31,7 @@ Eric Ramsay: West Bromwich Albion interested in ex-Manchester United coach. West
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Eric Ramsay: West Bromwich Albion interested in ex-Manchester United coach. https://www.bbc.com/sport/football/articles/cp3zy185kzvo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Estelle Cascarino: West Ham sign Juventus defender on loan
-**Slug (lower-third):** Estelle Cascarino: West Ham sign Juventus defender on loan  
-**When:** 2026-01-08 05:06 (America/Winnipeg)  •  **Published:** 2026-01-08 11:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Estelle Cascarino: West Ham sign Juventus defender on loan. France defender Estelle Cascarino becomes Rita Guarino's first signing since her appointment last month. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Estelle Cascarino: West Ham sign Juventus defender on loan. https://www.bbc.com/sport/football/articles/cvgd4ynljg8o?at_medium=RSS&at_campaign=rss
+- bbc.com — Tottenham: 'Young leader' Cristian Romero defended by head coach Thomas Frank. https://www.bbc.com/sport/football/articles/c8d04mz2y34o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +42,13 @@ Estelle Cascarino: West Ham sign Juventus defender on loan. France defender Este
 
 ### Transfers
 
-## Story 3: 'The club is in a mess': Manchester United fans voice feelings before the next interim twist
-**Slug (lower-third):** 'The club is in a mess': Manchester United fans voice fee…  
-**When:** 2026-01-08 04:06 (America/Winnipeg)  •  **Published:** 2026-01-08 10:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Manchester United pulled off a coup by signing Lea Schuller - so what will she bring?
+**Slug (lower-third):** Manchester United pulled off a coup by signing Lea Schull…  
+**When:** 2026-01-08 08:03 (America/Winnipeg)  •  **Published:** 2026-01-08 14:03 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-'The club is in a mess': Manchester United fans voice feelings before the next interim twist. Supporters serenaded Solskjaer, Carrick and Fletcher among others at Burnley and staged a brief anti-Ratcliffe protest Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Manchester United pulled off a coup by signing Lea Schuller - so what will she bring?. 'She has everything to be a world-class striker - fast, two great feet, good with the head and strong,' says the coach who set the forward's career rolling Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +57,7 @@ Estelle Cascarino: West Ham sign Juventus defender on loan. France defender Este
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'The club is in a mess': Manchester United fans voice feelings before the next interim twist. https://www.theguardian.com/football/2026/jan/08/manchester-united-fans-interim-solskjaer-carrick-fletcher-protest-burnley
+- theguardian.com — Manchester United pulled off a coup by signing Lea Schuller - so what will she bring?. https://www.theguardian.com/football/2026/jan/08/manchester-united-pulled-off-a-coup-by-signing-lea-schuller-so-what-will-she-bring
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +68,13 @@ Estelle Cascarino: West Ham sign Juventus defender on loan. France defender Este
 
 ### Injuries
 
-## Story 4: Can Coventry recover from recent blip to maintain promotion charge in Championship?
-**Slug (lower-third):** Can Coventry recover from recent blip to maintain promoti…  
-**When:** 2026-01-08 04:00 (America/Winnipeg)  •  **Published:** 2026-01-08 10:00 (UTC)  
+## Story 3: Tottenham winger Mohammed Kudus out injured until April
+**Slug (lower-third):** Tottenham winger Mohammed Kudus out injured until April  
+**When:** 2026-01-08 09:12 (America/Winnipeg)  •  **Published:** 2026-01-08 15:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Can Coventry recover from recent blip to maintain promotion charge in Championship?. Coventrys promotion charge has stuttered of late, with just two wins in their last eight games. Coventry return to Championship action on Saturday January 17 against Leicester, live on Sky Sports Football from 11am; kick-off 12.30pm Relevance to standings and momentum.
+Tottenham winger Mohammed Kudus out injured until April. Tottenham winger Mohammed Kudus is ruled out of action until after the international break in March. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,33 +83,7 @@ Can Coventry recover from recent blip to maintain promotion charge in Championsh
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Can Coventry recover from recent blip to maintain promotion charge in Championship?. https://www.skysports.com/football/news/12040/13491520/can-coventry-recover-from-recent-blip-to-maintain-promotion-charge-in-championship
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 5: David Coote: Former Premier League referee given nine-month suspended prison sentence after admitting child image offence
-**Slug (lower-third):** David Coote: Former Premier League referee given nine-mon…  
-**When:** 2026-01-08 04:52 (America/Winnipeg)  •  **Published:** 2026-01-08 10:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-David Coote: Former Premier League referee given nine-month suspended prison sentence after admitting child image offence. Warning: Some readers may find this content distressing; Former Premier League referee David Coote pleaded guilty in October after being charged with making an indecent image of a child Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — David Coote: Former Premier League referee given nine-month suspended prison sentence after admitting child image offence. https://www.skysports.com/football/news/12040/13481819/david-coote-former-premier-league-referee-given-nine-month-suspended-prison-sentence-after-admitting-child-image-offence
+- bbc.com — Tottenham winger Mohammed Kudus out injured until April. https://www.bbc.com/sport/football/articles/cwywnnydz1eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -144,13 +94,13 @@ David Coote: Former Premier League referee given nine-month suspended prison sen
 
 ### Club Updates
 
-## Story 6: Arne Slot: Liverpool's Premier League title defence is over, our focus is Champions League qualification
-**Slug (lower-third):** Arne Slot: Liverpool's Premier League title defence is ov…  
-**When:** 2026-01-08 06:00 (America/Winnipeg)  •  **Published:** 2026-01-08 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+## Story 4: USA midfielder Sam Coffey in talks to join Manchester City from Portland Thorns
+**Slug (lower-third):** USA midfielder Sam Coffey in talks to join Manchester Cit…  
+**When:** 2026-01-08 12:19 (America/Winnipeg)  •  **Published:** 2026-01-08 18:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arne Slot: Liverpool's Premier League title defence is over, our focus is Champions League qualification. Liverpool head to the Emirates 14 points behind league leaders Arsenal, Watch Arsenal vs Liverpool on Sky Sports Premier League & Main Event from 7pm on Thursday; kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+USA midfielder Sam Coffey in talks to join Manchester City from Portland Thorns. Manchester City are in advanced talks to sign the United States midfielder Sam Coffey from Portland Thorns, the Guardian understands Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -159,7 +109,7 @@ Arne Slot: Liverpool's Premier League title defence is over, our focus is Champi
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arne Slot: Liverpool's Premier League title defence is over, our focus is Champions League qualification. https://www.skysports.com/football/news/12040/13491691/arne-slot-liverpools-premier-league-title-defence-is-over-our-focus-is-champions-league-qualification
+- theguardian.com — USA midfielder Sam Coffey in talks to join Manchester City from Portland Thorns. https://www.theguardian.com/football/2026/jan/08/sam-coffey-manchester-city-portland-thorns-transfer-talks-uswnt-midfielder
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -168,13 +118,13 @@ Arne Slot: Liverpool's Premier League title defence is over, our focus is Champi
 
 ---
 
-## Story 7: Arsenal: What next for forward Ethan Nwaneri?
-**Slug (lower-third):** Arsenal: What next for forward Ethan Nwaneri?  
-**When:** 2026-01-08 05:52 (America/Winnipeg)  •  **Published:** 2026-01-08 11:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Steve Beaton in prime position to regain PDC Tour Card after quarter-final run at Q-School
+**Slug (lower-third):** Steve Beaton in prime position to regain PDC Tour Card af…  
+**When:** 2026-01-08 12:15 (America/Winnipeg)  •  **Published:** 2026-01-08 18:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Arsenal: What next for forward Ethan Nwaneri?. Ethan Nwaneri had a breakout season last term - but the young Arsenal forward is in a fight for the game time needed to fulfil his promise. Relevance to standings and momentum.
+Steve Beaton in prime position to regain PDC Tour Card after quarter-final run at Q-School. 128 players compete in Final Stage at UK and European Qualifying Schools from January 8-11, with 29 Tour Cards on offer for players to secure a spot on the PDC circuit for 2026/27; you can watch Premier League live on Sky Sports from February until the finale at The O2 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -183,7 +133,7 @@ Arsenal: What next for forward Ethan Nwaneri?. Ethan Nwaneri had a breakout seas
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arsenal: What next for forward Ethan Nwaneri?. https://www.bbc.com/sport/football/articles/c70le84y10do?at_medium=RSS&at_campaign=rss
+- skysports.com — Steve Beaton in prime position to regain PDC Tour Card after quarter-final run at Q-School. https://www.skysports.com/darts/news/12040/13492119/steve-beaton-in-prime-position-to-regain-pdc-tour-card-after-quarter-final-run-at-q-school
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -192,13 +142,13 @@ Arsenal: What next for forward Ethan Nwaneri?. Ethan Nwaneri had a breakout seas
 
 ---
 
-## Story 8: Exeter City's plea for more FA Cup cash from Manchester City turned down
-**Slug (lower-third):** Exeter City's plea for more FA Cup cash from Manchester C…  
-**When:** 2026-01-08 05:00 (America/Winnipeg)  •  **Published:** 2026-01-08 11:00 (UTC)  
+## Story 6: Football Daily | Celebrating the Premier League's unbridled wildness and joyous puerility
+**Slug (lower-third):** Football Daily | Celebrating the Premier League's unbridl…  
+**When:** 2026-01-08 10:49 (America/Winnipeg)  •  **Published:** 2026-01-08 16:49 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Exeter City's plea for more FA Cup cash from Manchester City turned down. Manchester City will not offer Exeter extra money after the financially troubled League One club asked for a greater proportion of gate receipts Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football Daily | Celebrating the Premier League's unbridled wildness and joyous puerility. In today's Football Daily: Oh what a night Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -207,7 +157,7 @@ Exeter City's plea for more FA Cup cash from Manchester City turned down. Manche
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Exeter City's plea for more FA Cup cash from Manchester City turned down. https://www.theguardian.com/football/2026/jan/08/exeter-city-manchester-city-fa-cup-plea-share-gate-receipts
+- theguardian.com — Football Daily | Celebrating the Premier League's unbridled wildness and joyous puerility. https://www.theguardian.com/football/2026/jan/08/football-daily-newsletter-premier-league-drama
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -216,13 +166,13 @@ Exeter City's plea for more FA Cup cash from Manchester City turned down. Manche
 
 ---
 
-## Story 9: Martin Chivers was a heavyweight Spurs legend with the heart of a poet
-**Slug (lower-third):** Martin Chivers was a heavyweight Spurs legend with the he…  
-**When:** 2026-01-08 04:30 (America/Winnipeg)  •  **Published:** 2026-01-08 10:30 (UTC)  
+## Story 7: Cristian Romero takes apparent swipe at Spurs board for staying silent as team struggle
+**Slug (lower-third):** Cristian Romero takes apparent swipe at Spurs board for s…  
+**When:** 2026-01-08 10:01 (America/Winnipeg)  •  **Published:** 2026-01-08 16:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Martin Chivers was a heavyweight Spurs legend with the heart of a poet. Tottenham totem shone under Bill Nicholson's tough love, inspiring League and Uefa Cup triumphs, but struggled with the stresses of fame Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Cristian Romero takes apparent swipe at Spurs board for staying silent as team struggle. Cristian Romero has taken an apparent swipe at Tottenham's board for staying silent amid the team's struggles Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -231,7 +181,7 @@ Martin Chivers was a heavyweight Spurs legend with the heart of a poet. Tottenha
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Martin Chivers was a heavyweight Spurs legend with the heart of a poet. https://www.theguardian.com/football/2026/jan/08/martin-chivers-was-a-heavyweight-spurs-legend-with-the-heart-of-a-poet
+- theguardian.com — Cristian Romero takes apparent swipe at Spurs board for staying silent as team struggle. https://www.theguardian.com/football/2026/jan/08/cristian-romero-spurs-board-staying-silent-team-struggle
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -240,13 +190,13 @@ Martin Chivers was a heavyweight Spurs legend with the heart of a poet. Tottenha
 
 ---
 
-## Story 10: Cristian Romero appears to take aim at senior figures at Tottenham
-**Slug (lower-third):** Cristian Romero appears to take aim at senior figures at …  
-**When:** 2026-01-08 04:15 (America/Winnipeg)  •  **Published:** 2026-01-08 10:15 (UTC)  
+## Story 8: Kevin McDonald: 'A gift I can never repay' - Exeter City midfielder on playing with brother's kidney
+**Slug (lower-third):** Kevin McDonald: 'A gift I can never repay' - Exeter City …  
+**When:** 2026-01-08 08:42 (America/Winnipeg)  •  **Published:** 2026-01-08 14:42 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Cristian Romero appears to take aim at senior figures at Tottenham. Tottenham captain Cristian Romero appears to take aim at the club's hierarchy, accusing them of telling "lies" in a since edited Instagram post. Relevance to standings and momentum.
+Kevin McDonald: 'A gift I can never repay' - Exeter City midfielder on playing with brother's kidney. Five years after receiving a kidney from his brother, Exeter midfielder Kevin McDonald is preparing to face Manchester City in the FA Cup. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -255,7 +205,55 @@ Cristian Romero appears to take aim at senior figures at Tottenham. Tottenham ca
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Cristian Romero appears to take aim at senior figures at Tottenham. https://www.bbc.com/sport/football/articles/c8d04mz2y34o?at_medium=RSS&at_campaign=rss
+- bbc.com — Kevin McDonald: 'A gift I can never repay' - Exeter City midfielder on playing with brother's kidney. https://www.bbc.com/sport/football/articles/cgkep218r30o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Cristian Romero: Tottenham captain appears to blast Spurs hierarchy in now-edited social media post
+**Slug (lower-third):** Cristian Romero: Tottenham captain appears to blast Spurs…  
+**When:** 2026-01-08 08:18 (America/Winnipeg)  •  **Published:** 2026-01-08 14:18 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Cristian Romero: Tottenham captain appears to blast Spurs hierarchy in now-edited social media post. Spurs loss at Bournemouth sparked toxic scenes on the south coast as players argued with away fans at full time, under-pressure boss Thomas Frank was seen drinking from an Arsenal cup and captain Cristian Romero appeared to take aim at clubs hierarchy in a now-edited social media post Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Cristian Romero: Tottenham captain appears to blast Spurs hierarchy in now-edited social media post. https://www.skysports.com/football/news/12040/13491900/cristian-romero-tottenham-captain-appears-to-blast-spurs-hierarchy-in-now-edited-social-media-post
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Latest winning goals in Premier League history after Newcastle beat Leeds
+**Slug (lower-third):** Latest winning goals in Premier League history after Newc…  
+**When:** 2026-01-08 07:48 (America/Winnipeg)  •  **Published:** 2026-01-08 13:48 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Latest winning goals in Premier League history after Newcastle beat Leeds. After Newcastle's stoppage-time victory over Leeds on Wednesday, BBC Sport lists the latest winners on record in the Premier League era. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Latest winning goals in Premier League history after Newcastle beat Leeds. https://www.bbc.com/sport/football/articles/cdx4qy1p646o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
