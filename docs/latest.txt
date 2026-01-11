@@ -1,80 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-11 06:44 (America/Winnipeg)  |  2026-01-11 12:44 (UTC)
+**Generated:** 2026-01-11 12:32 (America/Winnipeg)  |  2026-01-11 18:32 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~3m 22s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Conor Bradley: Liverpool defender ruled out for season with knee injury
-- Arne Slot hit with Conor Bradley injury blow as he vows to go strong against Barnsley
-- WSL FREE STREAMS: Watch Chelsea vs West Ham, Tottenham Hotspur vs Leicester City and Aston Villa vs Brighton
+- WSL highlights: Tottenham Hotspur 1-0 Leicester City
+- WSL highlights: Chelsea 5-0 West Ham
+- FA Cup highlights: Portsmouth 1-4 Arsenal
 
 ---
 
 ### Managerial Moves
 
-## Story 1: FA Cup highlights: Charlton 1-5 Chelsea
-**Slug (lower-third):** FA Cup highlights: Charlton 1-5 Chelsea  
-**When:** 2026-01-10 17:59 (America/Winnipeg)  •  **Published:** 2026-01-10 23:59 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-FA Cup highlights: Charlton 1-5 Chelsea. Liam Rosenior begins his reign as Chelsea head coach by overseeing a dominant display that saw off Championship side Charlton in the FA Cup third round. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — FA Cup highlights: Charlton 1-5 Chelsea. https://www.bbc.com/sport/football/videos/c75xd4le32qo?at_medium=RSS&at_campaign=rss
-- skysports.com — Charlton 1-5 Chelsea: Liam Rosenior wins first game as Blues boss in FA Cup third-round tie. https://www.skysports.com/football/charlton-athletic-vs-chelsea/report/550856
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: FA Cup: Tottenham Hotspur 1-2 Hotspur Aston Villa 2-1
-**Slug (lower-third):** FA Cup: Tottenham Hotspur 1-2 Hotspur Aston Villa 2-1  
-**When:** 2026-01-10 14:22 (America/Winnipeg)  •  **Published:** 2026-01-10 20:22 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-FA Cup: Tottenham Hotspur 1-2 Hotspur Aston Villa 2-1. Goals from Emiliano Buendia and Morgan Rogers knock a wasteful Tottenham Hotspur side out of the FA Cup to pile more pressure on manager Thomas Frank. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — FA Cup: Tottenham Hotspur 1-2 Hotspur Aston Villa 2-1. https://www.bbc.com/sport/football/videos/c24gqz3379eo?at_medium=RSS&at_campaign=rss
-- skysports.com — Tottenham 1-2 Aston Villa: Thomas Frank's side booed off as second-half comeback falls short leading to FA Cup exit. https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/report/550880
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 3: Conor Bradley: Liverpool defender ruled out for season with knee injury
-**Slug (lower-third):** Conor Bradley: Liverpool defender ruled out for season wi…  
-**When:** 2026-01-11 06:28 (America/Winnipeg)  •  **Published:** 2026-01-11 12:28 (UTC)  
+## Story 1: WSL highlights: Chelsea 5-0 West Ham
+**Slug (lower-third):** WSL highlights: Chelsea 5-0 West Ham  
+**When:** 2026-01-11 12:07 (America/Winnipeg)  •  **Published:** 2026-01-11 18:07 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Conor Bradley: Liverpool defender ruled out for season with knee injury. Liverpool defender Conor Bradley is ruled out for the rest of the domestic season after suffering a significant knee injury, involving damage to bone and ligament. Potential impact on the lineup and upcoming fixtures.
+WSL highlights: Chelsea 5-0 West Ham. Chelsea begin the new year with an impressive victory over West Ham in visiting manager Rita Guarino's first match in the Women's Super League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,8 +31,7 @@ Conor Bradley: Liverpool defender ruled out for season with knee injury. Liverpo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Conor Bradley: Liverpool defender ruled out for season with knee injury. https://www.bbc.com/sport/football/articles/cgqevx5pvk1o?at_medium=RSS&at_campaign=rss
-- skysports.com — Conor Bradley injury: Liverpool defender to miss rest of season with significant knee injury sustained at Arsenal. https://www.skysports.com/football/news/12040/13493040/conor-bradley-injury-liverpool-defender-to-miss-rest-of-season-with-significant-knee-injury-sustained-at-arsenal
+- bbc.com — WSL highlights: Chelsea 5-0 West Ham. https://www.bbc.com/sport/football/videos/cy05x8nglzyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -93,13 +40,13 @@ Conor Bradley: Liverpool defender ruled out for season with knee injury. Liverpo
 
 ---
 
-## Story 4: Arne Slot hit with Conor Bradley injury blow as he vows to go strong against Barnsley
-**Slug (lower-third):** Arne Slot hit with Conor Bradley injury blow as he vows t…  
-**When:** 2026-01-11 06:00 (America/Winnipeg)  •  **Published:** 2026-01-11 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+## Story 2: Gabriel Martinelli hat-trick shows 'big personality', says Mikel Arteta
+**Slug (lower-third):** Gabriel Martinelli hat-trick shows 'big personality', say…  
+**When:** 2026-01-11 11:39 (America/Winnipeg)  •  **Published:** 2026-01-11 17:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arne Slot hit with Conor Bradley injury blow as he vows to go strong against Barnsley. With Liverpool battling on fewer fronts, Arne Slot promises a strong squad will be picked for the FA Cup third-round tie against Barnsley Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Gabriel Martinelli hat-trick shows 'big personality', says Mikel Arteta. Gabriel Martinelli was branded an "idiot" a few days ago - but showed great personality to respond with an FA Cup hat-trick, according to Arsenal manager Mikel Arteta. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -108,7 +55,31 @@ Arne Slot hit with Conor Bradley injury blow as he vows to go strong against Bar
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Arne Slot hit with Conor Bradley injury blow as he vows to go strong against Barnsley. https://www.theguardian.com/football/2026/jan/11/arne-slot-to-pick-strong-liverpool-team-a-year-on-from-plymouth-fa-cup-upset
+- bbc.com — Gabriel Martinelli hat-trick shows 'big personality', says Mikel Arteta. https://www.bbc.com/sport/football/articles/c3685180x26o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: London City Lionesses: Eder Maestre wants players to match his ambition
+**Slug (lower-third):** London City Lionesses: Eder Maestre wants players to matc…  
+**When:** 2026-01-11 11:36 (America/Winnipeg)  •  **Published:** 2026-01-11 17:36 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+London City Lionesses: Eder Maestre wants players to match his ambition. Eder Maestre challenges London City Lionesses players to match his ambition after his managerial tenure with the Women's Super League club begins with a drab goalless draw against Liverpool. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — London City Lionesses: Eder Maestre wants players to match his ambition. https://www.bbc.com/sport/football/articles/c4glkr54mjyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -119,13 +90,13 @@ Arne Slot hit with Conor Bradley injury blow as he vows to go strong against Bar
 
 ### Club Updates
 
-## Story 5: WSL FREE STREAMS: Watch Chelsea vs West Ham, Tottenham Hotspur vs Leicester City and Aston Villa vs Brighton
-**Slug (lower-third):** WSL FREE STREAMS: Watch Chelsea vs West Ham, Tottenham Ho…  
-**When:** 2026-01-11 04:50 (America/Winnipeg)  •  **Published:** 2026-01-11 10:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 4: WSL highlights: Tottenham Hotspur 1-0 Leicester City
+**Slug (lower-third):** WSL highlights: Tottenham Hotspur 1-0 Leicester City  
+**When:** 2026-01-11 12:20 (America/Winnipeg)  •  **Published:** 2026-01-11 18:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL FREE STREAMS: Watch Chelsea vs West Ham, Tottenham Hotspur vs Leicester City and Aston Villa vs Brighton. Watch Chelsea vs West Ham, Tottenham Hotspur vs Leicester City and Aston Villa vs Brighton via live streams below; Manchester City vs Everton is available on Sky Sports Premier League; all matches kick-off at 12pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+WSL highlights: Tottenham Hotspur 1-0 Leicester City. Signe Gaupset impresses on her Women's Super League debut as Tottenham defeat Leicester City to boost their push for a Champions League place. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -134,7 +105,7 @@ WSL FREE STREAMS: Watch Chelsea vs West Ham, Tottenham Hotspur vs Leicester City
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — WSL FREE STREAMS: Watch Chelsea vs West Ham, Tottenham Hotspur vs Leicester City and Aston Villa vs Brighton. https://www.skysports.com/football/news/12040/13492632/wsl-free-streams-watch-chelsea-vs-west-ham-tottenham-hotspur-vs-leicester-city-and-aston-villa-vs-brighton
+- bbc.com — WSL highlights: Tottenham Hotspur 1-0 Leicester City. https://www.bbc.com/sport/football/videos/c9314dprez0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -143,13 +114,13 @@ WSL FREE STREAMS: Watch Chelsea vs West Ham, Tottenham Hotspur vs Leicester City
 
 ---
 
-## Story 6: Who makes the Sky Sports Championship team of the season so far?
-**Slug (lower-third):** Who makes the Sky Sports Championship team of the season …  
-**When:** 2026-01-11 04:00 (America/Winnipeg)  •  **Published:** 2026-01-11 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+## Story 5: FA Cup highlights: Portsmouth 1-4 Arsenal
+**Slug (lower-third):** FA Cup highlights: Portsmouth 1-4 Arsenal  
+**When:** 2026-01-11 12:06 (America/Winnipeg)  •  **Published:** 2026-01-11 18:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Who makes the Sky Sports Championship team of the season so far?. Simeon Gholam and David Prutton pick their Sky Sports Championship team of the season so far, with players featuring from Stoke, Middlesbrough, Coventry, Preston, Ipswich, Watford, Bristol City and Wrexham Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+FA Cup highlights: Portsmouth 1-4 Arsenal. Gabriel Martinelli scores the first hat-trick of his senior career as an Arsenal side showing 10 changes come from a goal down to beat Championship side Portsmouth 4-1 in the FA Cup third round. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -158,7 +129,8 @@ Who makes the Sky Sports Championship team of the season so far?. Simeon Gholam 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Who makes the Sky Sports Championship team of the season so far?. https://www.skysports.com/football/news/12040/13491180/who-makes-the-sky-sports-championship-team-of-the-season-so-far
+- bbc.com — FA Cup highlights: Portsmouth 1-4 Arsenal. https://www.bbc.com/sport/football/videos/cq5yw5d6vppo?at_medium=RSS&at_campaign=rss
+- skysports.com — Portsmouth 1-4 Arsenal: Gabriel Martinelli responds to recent criticism by scoring FA Cup third round hat-trick. https://www.skysports.com/football/portsmouth-vs-arsenal/report/550873
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +139,13 @@ Who makes the Sky Sports Championship team of the season so far?. Simeon Gholam 
 
 ---
 
-## Story 7: 'I've never celebrated a goal at 9-0 down in my life': inside Exeter's dressing room on a day to remember
-**Slug (lower-third):** 'I've never celebrated a goal at 9-0 down in my life': in…  
-**When:** 2026-01-11 02:00 (America/Winnipeg)  •  **Published:** 2026-01-11 08:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~22s
+## Story 6: WSL highlights: Manchester City 2-0 Everton
+**Slug (lower-third):** WSL highlights: Manchester City 2-0 Everton  
+**When:** 2026-01-11 12:01 (America/Winnipeg)  •  **Published:** 2026-01-11 18:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'I've never celebrated a goal at 9-0 down in my life': inside Exeter's dressing room on a day to remember. League One club offered behind-the-scenes access for their FA Cup tie and Gary Caldwell will not let their crushing loss at Manchester City define them Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+WSL highlights: Manchester City 2-0 Everton. Manchester City consolidate their place at the top of the Women's Super League table with a convincing win over Everton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +154,7 @@ Who makes the Sky Sports Championship team of the season so far?. Simeon Gholam 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'I've never celebrated a goal at 9-0 down in my life': inside Exeter's dressing room on a day to remember. https://www.theguardian.com/football/2026/jan/11/exeter-city-gary-caldwell-manchester-city-10-1-fa-cup
+- bbc.com — WSL highlights: Manchester City 2-0 Everton. https://www.bbc.com/sport/football/videos/c2k9vzj9lnwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +163,13 @@ Who makes the Sky Sports Championship team of the season so far?. Simeon Gholam 
 
 ---
 
-## Story 8: Julie Blakstad: Tottenham's new signing on unfinished business in WSL
-**Slug (lower-third):** Julie Blakstad: Tottenham's new signing on unfinished bus…  
-**When:** 2026-01-11 00:07 (America/Winnipeg)  •  **Published:** 2026-01-11 06:07 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 7: 'It's just surreal': jubilant Macclesfield fans reflect on FA Cup heroics
+**Slug (lower-third):** 'It's just surreal': jubilant Macclesfield fans reflect o…  
+**When:** 2026-01-11 12:00 (America/Winnipeg)  •  **Published:** 2026-01-11 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Julie Blakstad: Tottenham's new signing on unfinished business in WSL. Tottenham's new signing Julie Blakstad is aiming to make her mark on the Women's Super League second time around after a difficult spell with Manchester City. Relevance to standings and momentum.
+'It's just surreal': jubilant Macclesfield fans reflect on FA Cup heroics. Part-time squad's victory over Crystal Palace caps phoenix-like rise after club was wound up and sold on Rightmove Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +178,7 @@ Julie Blakstad: Tottenham's new signing on unfinished business in WSL. Tottenham
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Julie Blakstad: Tottenham's new signing on unfinished business in WSL. https://www.bbc.com/sport/football/articles/c0jvzpxy2d5o?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'It's just surreal': jubilant Macclesfield fans reflect on FA Cup heroics. https://www.theguardian.com/football/2026/jan/11/macclesfield-fc-fans-football-fa-cup-crystal-palace
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +187,13 @@ Julie Blakstad: Tottenham's new signing on unfinished business in WSL. Tottenham
 
 ---
 
-## Story 9: Fulham 3-1 Middlesbrough: Harry Wilson scores as Marco Silva's Whites come from behind to secure FA Cup fourth round berth
-**Slug (lower-third):** Fulham 3-1 Middlesbrough: Harry Wilson scores as Marco Si…  
-**When:** 2026-01-10 11:43 (America/Winnipeg)  •  **Published:** 2026-01-10 17:43 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
+## Story 8: Taty Castellanos edges West Ham past QPR in FA Cup to offer respite for Nuno
+**Slug (lower-third):** Taty Castellanos edges West Ham past QPR in FA Cup to off…  
+**When:** 2026-01-11 11:33 (America/Winnipeg)  •  **Published:** 2026-01-11 17:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham 3-1 Middlesbrough: Harry Wilson scores as Marco Silva's Whites come from behind to secure FA Cup fourth round berth. Harry Wilson, Emile Smith Rowe and Kevin all scored in the second half as Fulham fought from behind to secure a 3-1 FA Cup victory against Middlesbrough. Relevance to standings and momentum.
+Taty Castellanos edges West Ham past QPR in FA Cup to offer respite for Nuno. The new signing Taty Castellanos scored an extra-time winner for Nuno Espirito Santo's struggling West Ham in their home 2-1 FA Cup win over QPR Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,8 +202,7 @@ Fulham 3-1 Middlesbrough: Harry Wilson scores as Marco Silva's Whites come from 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Fulham 3-1 Middlesbrough: Harry Wilson scores as Marco Silva's Whites come from behind to secure FA Cup fourth round berth. https://www.skysports.com/football/fulham-vs-middlesbrough/report/550861
-- bbc.com — FA Cup: Fulham 3-1 Middlesbrough. https://www.bbc.com/sport/football/videos/c93149v66zgo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Taty Castellanos edges West Ham past QPR in FA Cup to offer respite for Nuno. https://www.theguardian.com/football/2026/jan/11/west-ham-qpr-fa-cup-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -240,13 +211,13 @@ Fulham 3-1 Middlesbrough: Harry Wilson scores as Marco Silva's Whites come from 
 
 ---
 
-## Story 10: Liam Rosenior sees no need for drastic change after opening win at Chelsea
-**Slug (lower-third):** Liam Rosenior sees no need for drastic change after openi…  
-**When:** 2026-01-10 17:48 (America/Winnipeg)  •  **Published:** 2026-01-10 23:48 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 9: WSL highlights: Liverpool 0-0 London City Lionesses
+**Slug (lower-third):** WSL highlights: Liverpool 0-0 London City Lionesses  
+**When:** 2026-01-11 11:21 (America/Winnipeg)  •  **Published:** 2026-01-11 17:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liam Rosenior sees no need for drastic change after opening win at Chelsea. Liam Rosenior does not see a need for drastic change at Chelsea - and that was part of the reason he was brought in. Relevance to standings and momentum.
+WSL highlights: Liverpool 0-0 London City Lionesses. Bottom club Liverpool remain without a win in the Women's Super League after being held to a drab goalless draw by London City Lionesses. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -255,7 +226,31 @@ Liam Rosenior sees no need for drastic change after opening win at Chelsea. Liam
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liam Rosenior sees no need for drastic change after opening win at Chelsea. https://www.bbc.com/sport/football/articles/crrnzerklyeo?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL highlights: Liverpool 0-0 London City Lionesses. https://www.bbc.com/sport/football/videos/cr4knexe4kno?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: West Ham 2-1 QPR (AET): Taty Castellanos scores his first Hammers goal to end 10-game winless run with victory in FA Cup
+**Slug (lower-third):** West Ham 2-1 QPR (AET): Taty Castellanos scores his first…  
+**When:** 2026-01-11 10:30 (America/Winnipeg)  •  **Published:** 2026-01-11 16:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+West Ham 2-1 QPR (AET): Taty Castellanos scores his first Hammers goal to end 10-game winless run with victory in FA Cup. Taty Castellanos scored his first goal for West Ham to end their 10-game winless run with a 2-1 victory after extra time over Championship side Queens Park Rangers in the FA Cup third round. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — West Ham 2-1 QPR (AET): Taty Castellanos scores his first Hammers goal to end 10-game winless run with victory in FA Cup. https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/report/550881
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
