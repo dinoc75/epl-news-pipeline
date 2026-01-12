@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-12 06:52 (America/Winnipeg)  |  2026-01-12 12:52 (UTC)
+**Generated:** 2026-01-12 12:36 (America/Winnipeg)  |  2026-01-12 18:36 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 33s
+**Estimated total video length:** ~4m 46s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- FA Cup quiz: Name every non-league team that has beaten a top-flight side
-- Macclesfield: John Rooney hails 'incredible' win as defender Sam Heathcote goes back to day job
-- WSL talking points: the Tullis-Joyce furore and Neville's nightmare return
+- Conor Gallagher: Aston Villa and Tottenham hold talks over move for Atletico Madrid man
+- Man Utd manager: Wayne Rooney reacts to Michael Carrick's possible Man Utd caretaker role
+- Lucas Paqueta asked not to play for West Ham in FA Cup and wants to join Flamengo
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Macclesfield: John Rooney hails 'incredible' win as defender Sam Heathcote goes back to day job
-**Slug (lower-third):** Macclesfield: John Rooney hails 'incredible' win as defen…  
-**When:** 2026-01-12 06:38 (America/Winnipeg)  •  **Published:** 2026-01-12 12:38 (UTC)  
+## Story 1: Man Utd manager: Wayne Rooney reacts to Michael Carrick's possible Man Utd caretaker role
+**Slug (lower-third):** Man Utd manager: Wayne Rooney reacts to Michael Carrick's…  
+**When:** 2026-01-12 12:00 (America/Winnipeg)  •  **Published:** 2026-01-12 18:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Macclesfield: John Rooney hails 'incredible' win as defender Sam Heathcote goes back to day job. Macclesfield manager John Rooney and defender Sam Heathcote talk to BBC Breakfast about their stunning FA Cup upset over holders Crystal Palace. Relevance to standings and momentum.
+Man Utd manager: Wayne Rooney reacts to Michael Carrick's possible Man Utd caretaker role. Wayne Rooney discusses Michael Carrickas potential role as Manchester United caretaker and whether head join the coaching staff. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Macclesfield: John Rooney hails 'incredible' win as defender Sam Heathcote goes 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Macclesfield: John Rooney hails 'incredible' win as defender Sam Heathcote goes back to day job. https://www.bbc.com/sport/football/videos/c9dvq680dzlo?at_medium=RSS&at_campaign=rss
+- bbc.com — Man Utd manager: Wayne Rooney reacts to Michael Carrick's possible Man Utd caretaker role. https://www.bbc.com/sport/football/videos/cp82d6901v9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Macclesfield: John Rooney hails 'incredible' win as defender Sam Heathcote goes 
 
 ---
 
-## Story 2: Man Utd next manager: Club to accelerate appointment after meetings with Michael Carrick and Ole Gunnar Solskjaer
-**Slug (lower-third):** Man Utd next manager: Club to accelerate appointment afte…  
-**When:** 2026-01-12 03:17 (America/Winnipeg)  •  **Published:** 2026-01-12 09:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+## Story 2: Manchester United Carrick: Wayne Rooney willing to join coaching staff
+**Slug (lower-third):** Manchester United Carrick: Wayne Rooney willing to join c…  
+**When:** 2026-01-12 11:20 (America/Winnipeg)  •  **Published:** 2026-01-12 17:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd next manager: Club to accelerate appointment after meetings with Michael Carrick and Ole Gunnar Solskjaer. Ruben Amorim was sacked by Manchester United last week; Michael Carrick is the favourite and is in detailed discussions about the interim role; Ole Gunnar Solskjaer has also been spoken to by his former club Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Manchester United Carrick: Wayne Rooney willing to join coaching staff. Wayne Rooney says it would be a "no-brainer" to rejoin Manchester United as a coach if Michael Carrick is appointed as a caretaker boss until the end of the season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Man Utd next manager: Club to accelerate appointment after meetings with Michael
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man Utd next manager: Club to accelerate appointment after meetings with Michael Carrick and Ole Gunnar Solskjaer. https://www.skysports.com/football/news/12040/13493241/man-utd-next-manager-club-to-accelerate-appointment-after-meetings-with-michael-carrick-and-ole-gunnar-solskjaer
+- bbc.com — Manchester United Carrick: Wayne Rooney willing to join coaching staff. https://www.bbc.com/sport/football/articles/c1klvl922rjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,39 +64,13 @@ Man Utd next manager: Club to accelerate appointment after meetings with Michael
 
 ---
 
-## Story 3: Man Utd manager latest: Michael Carrick favourite for Old Trafford caretaker job
-**Slug (lower-third):** Man Utd manager latest: Michael Carrick favourite for Old…  
-**When:** 2026-01-12 02:33 (America/Winnipeg)  •  **Published:** 2026-01-12 08:33 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man Utd manager latest: Michael Carrick favourite for Old Trafford caretaker job. Michael Carrick emerges as favourite for the Manchester United caretaker role with club chiefs hoping to have an appointment in place for when players return to training on Wednesday. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Man Utd manager latest: Michael Carrick favourite for Old Trafford caretaker job. https://www.bbc.com/sport/football/articles/crkr2zye3v1o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 4: Tottenham's Mathys Tel open to loan for more game time as World Cup looms
-**Slug (lower-third):** Tottenham's Mathys Tel open to loan for more game time as…  
-**When:** 2026-01-12 05:51 (America/Winnipeg)  •  **Published:** 2026-01-12 11:51 (UTC)  
+## Story 3: Xabi Alonso leaves Real Madrid after seven months and replaced by Alvaro Arbeloa
+**Slug (lower-third):** Xabi Alonso leaves Real Madrid after seven months and rep…  
+**When:** 2026-01-12 11:19 (America/Winnipeg)  •  **Published:** 2026-01-12 17:19 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Tottenham's Mathys Tel open to loan for more game time as World Cup looms. Mathys Tel has informed Spurs he is open to leaving on loan, frustrated at his lack of game time under Thomas Frank since a PS30m move from Bayern Munich Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Xabi Alonso leaves Real Madrid after seven months and replaced by Alvaro Arbeloa. Xabi Alonso has left Real Madrid after just over seven months as the head coach after their Super Cup final defeat by Barcelona and been succeeded by Alvaro Arbeloa Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +79,8 @@ Tottenham's Mathys Tel open to loan for more game time as World Cup looms. Mathy
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Tottenham's Mathys Tel open to loan for more game time as World Cup looms. https://www.theguardian.com/football/2026/jan/12/tottenham-mathys-tel-loan-thomas-frank-transfers
+- theguardian.com — Xabi Alonso leaves Real Madrid after seven months and replaced by Alvaro Arbeloa. https://www.theguardian.com/football/2026/jan/12/xabi-alonso-leaves-real-madrid-after-just-over-seven-months-as-head-coach
+- bbc.com — Manager Alonso leaves Real Madrid after eight months. https://www.bbc.com/sport/football/articles/cj3vj7ex748o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +89,13 @@ Tottenham's Mathys Tel open to loan for more game time as World Cup looms. Mathy
 
 ---
 
-## Story 5: Football transfer rumours: Liverpool and Chelsea eye Ramon? Gallagher to Spurs?
-**Slug (lower-third):** Football transfer rumours: Liverpool and Chelsea eye Ramo…  
-**When:** 2026-01-12 03:01 (America/Winnipeg)  •  **Published:** 2026-01-12 09:01 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 4: Xabi Alonso: Real Madrid head coach leaves club and is replaced by Alvaro Arbeloa
+**Slug (lower-third):** Xabi Alonso: Real Madrid head coach leaves club and is re…  
+**When:** 2026-01-12 11:14 (America/Winnipeg)  •  **Published:** 2026-01-12 17:14 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Football transfer rumours: Liverpool and Chelsea eye Ramon? Gallagher to Spurs?. Ben White to Everton? | Will Osula to Aston Villa | Oscar Bobb to Borussia Dortmund? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Xabi Alonso: Real Madrid head coach leaves club and is replaced by Alvaro Arbeloa. Real Madrid have parted company with Xabi Alonso and replaced him with Alvaro Arbeloa; decision comes a day after Real lost to Barcelona in Spanish Super Cup final in Saudi Arabia; Real are second in LaLiga, four points behind Barcelona and seventh in the Champions League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +104,7 @@ Football transfer rumours: Liverpool and Chelsea eye Ramon? Gallagher to Spurs?.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football transfer rumours: Liverpool and Chelsea eye Ramon? Gallagher to Spurs?. https://www.theguardian.com/football/2026/jan/12/football-transfer-rumours-liverpool-chelsea-spurs-arsenal
+- skysports.com — Xabi Alonso: Real Madrid head coach leaves club and is replaced by Alvaro Arbeloa. https://www.skysports.com/football/news/12040/13493479/xabi-alonso-real-madrid-head-coach-leaves-the-club
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +115,13 @@ Football transfer rumours: Liverpool and Chelsea eye Ramon? Gallagher to Spurs?.
 
 ### Injuries
 
-## Story 6: WSL talking points: the Tullis-Joyce furore and Neville's nightmare return
-**Slug (lower-third):** WSL talking points: the Tullis-Joyce furore and Neville's…  
-**When:** 2026-01-12 05:57 (America/Winnipeg)  •  **Published:** 2026-01-12 11:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Lucas Paqueta transfer news: West Ham midfielder wants to leave to join Brazilian side Flamengo
+**Slug (lower-third):** Lucas Paqueta transfer news: West Ham midfielder wants to…  
+**When:** 2026-01-12 08:54 (America/Winnipeg)  •  **Published:** 2026-01-12 14:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-WSL talking points: the Tullis-Joyce furore and Neville's nightmare return. Earring-gate prevents Estelle Cascarino from making her West Ham debut while City continue to lead the pack Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Lucas Paqueta transfer news: West Ham midfielder wants to leave to join Brazilian side Flamengo. Lucas Paqueta wants to leave West Ham this month; midfielder wants to return to Brazil to play for Flamengo, who are ready to pay PS26m (EUR30m) to sign the 28-year-old; relegation-threatened West Ham are reluctant to sell Paqueta with two Premier League clubs also interested Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +130,31 @@ WSL talking points: the Tullis-Joyce furore and Neville's nightmare return. Earr
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — WSL talking points: the Tullis-Joyce furore and Neville's nightmare return. https://www.theguardian.com/football/2026/jan/12/wsl-talking-points-tullis-joyce-furore-and-nevilles-nightmare-return
+- skysports.com — Lucas Paqueta transfer news: West Ham midfielder wants to leave to join Brazilian side Flamengo. https://www.skysports.com/football/news/12040/13493409/lucas-paqueta-transfer-news-west-ham-midfielder-wants-to-leave-to-join-brazilian-side-flamengo
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Tottenham's Rodrigo Bentancur to miss three months with hamstring issue
+**Slug (lower-third):** Tottenham's Rodrigo Bentancur to miss three months with h…  
+**When:** 2026-01-12 07:25 (America/Winnipeg)  •  **Published:** 2026-01-12 13:25 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham's Rodrigo Bentancur to miss three months with hamstring issue. Tottenham midfielder Rodrigo Bentancur requires hamstring surgery and is set to miss at least three months. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tottenham's Rodrigo Bentancur to miss three months with hamstring issue. https://www.bbc.com/sport/football/articles/c1wz398nd4eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +165,13 @@ WSL talking points: the Tullis-Joyce furore and Neville's nightmare return. Earr
 
 ### Club Updates
 
-## Story 7: FA Cup quiz: Name every non-league team that has beaten a top-flight side
-**Slug (lower-third):** FA Cup quiz: Name every non-league team that has beaten a…  
-**When:** 2026-01-12 06:47 (America/Winnipeg)  •  **Published:** 2026-01-12 12:47 (UTC)  
+## Story 7: Conor Gallagher: Aston Villa and Tottenham hold talks over move for Atletico Madrid man
+**Slug (lower-third):** Conor Gallagher: Aston Villa and Tottenham hold talks ove…  
+**When:** 2026-01-12 12:18 (America/Winnipeg)  •  **Published:** 2026-01-12 18:18 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-FA Cup quiz: Name every non-league team that has beaten a top-flight side. Crystal Palace became the ninth top-flight side to be knocked out of the FA Cup by a non-league team in the past 100 years. Relevance to standings and momentum.
+Conor Gallagher: Aston Villa and Tottenham hold talks over move for Atletico Madrid man. Aston Villa and Tottenham are holding talks over a move for Atletico Madrid midfielder Conor Gallagher this month. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +180,7 @@ FA Cup quiz: Name every non-league team that has beaten a top-flight side. Cryst
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FA Cup quiz: Name every non-league team that has beaten a top-flight side. https://www.bbc.com/sport/football/articles/cgk8dz2xymgo?at_medium=RSS&at_campaign=rss
+- bbc.com — Conor Gallagher: Aston Villa and Tottenham hold talks over move for Atletico Madrid man. https://www.bbc.com/sport/football/articles/cp3zq8v4ek5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +189,37 @@ FA Cup quiz: Name every non-league team that has beaten a top-flight side. Cryst
 
 ---
 
-## Story 8: WSL news: Estelle Cascarino earring a 'schoolgirl error' for West Ham - Fara Williams
-**Slug (lower-third):** WSL news: Estelle Cascarino earring a 'schoolgirl error' …  
-**When:** 2026-01-12 05:12 (America/Winnipeg)  •  **Published:** 2026-01-12 11:12 (UTC)  
+## Story 8: Lucas Paqueta asked not to play for West Ham in FA Cup and wants to join Flamengo
+**Slug (lower-third):** Lucas Paqueta asked not to play for West Ham in FA Cup an…  
+**When:** 2026-01-12 11:33 (America/Winnipeg)  •  **Published:** 2026-01-12 17:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Lucas Paqueta asked not to play for West Ham in FA Cup and wants to join Flamengo. Lucas Paqueta asked to be left out of West Ham's FA Cup tie against Queens Park Rangers and is keen to join Flamengo this month Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Lucas Paqueta asked not to play for West Ham in FA Cup and wants to join Flamengo. https://www.theguardian.com/football/2026/jan/12/lucas-paqueta-asked-not-to-play-for-west-ham-fa-cup-qpr-wants-to-join-flamengo
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Which players come back to haunt their former clubs?
+**Slug (lower-third):** Which players come back to haunt their former clubs?  
+**When:** 2026-01-12 09:47 (America/Winnipeg)  •  **Published:** 2026-01-12 15:47 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL news: Estelle Cascarino earring a 'schoolgirl error' for West Ham - Fara Williams. Fara Williams says West Ham's Estelle Cascarino made a "schoolgirl error" by being denied a debut because she could not remove an earring. Relevance to standings and momentum.
+Which players come back to haunt their former clubs?. After Brighton's Danny Welbeck scored again against Manchester United on Sunday, who has the best record against their former clubs in the Premier League era? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +228,7 @@ WSL news: Estelle Cascarino earring a 'schoolgirl error' for West Ham - Fara Wil
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL news: Estelle Cascarino earring a 'schoolgirl error' for West Ham - Fara Williams. https://www.bbc.com/sport/football/articles/c77k1z1017zo?at_medium=RSS&at_campaign=rss
+- bbc.com — Which players come back to haunt their former clubs?. https://www.bbc.com/sport/football/articles/c1je5epg6g4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +237,13 @@ WSL news: Estelle Cascarino earring a 'schoolgirl error' for West Ham - Fara Wil
 
 ---
 
-## Story 9: Champions League: Table, fixtures, results and which teams are on course for qualifying for the knockout phase
-**Slug (lower-third):** Champions League: Table, fixtures, results and which team…  
-**When:** 2026-01-12 04:35 (America/Winnipeg)  •  **Published:** 2026-01-12 10:35 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 10: Carabao Cup: Newcastle vs Man City and Chelsea vs Arsenal in semi-final first legs, live on Sky Sports
+**Slug (lower-third):** Carabao Cup: Newcastle vs Man City and Chelsea vs Arsenal…  
+**When:** 2026-01-12 07:30 (America/Winnipeg)  •  **Published:** 2026-01-12 13:30 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Champions League: Table, fixtures, results and which teams are on course for qualifying for the knockout phase. The Opta Supercomputer predicts the final Champions League table; Arsenal lead the way with three English clubs backed to finish in the top eight, qualifying automatically for the last 16; Sides ranked ninth to 24th go into a two-legged play-off to make the knockout rounds Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Carabao Cup: Newcastle vs Man City and Chelsea vs Arsenal in semi-final first legs, live on Sky Sports. Watch the Carabao Cup semi-finals live on Sky Sports; Newcastle host Man City on Tuesday before Chelsea take on Arsenal on Wednesday; both games kick-off at 8pm; the second legs will take place on February 3 and 4; the final is on Sunday March 22 at Wembley Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,31 +252,7 @@ Champions League: Table, fixtures, results and which teams are on course for qua
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Champions League: Table, fixtures, results and which teams are on course for qualifying for the knockout phase. https://www.skysports.com/football/news/12040/13474811/champions-league-table-fixtures-results-and-which-teams-are-on-course-for-qualifying-for-the-knockout-phase
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Today on Sky Sports Racing: Nunc Est Bibendum goes in search of hat-trick at Lingfield
-**Slug (lower-third):** Today on Sky Sports Racing: Nunc Est Bibendum goes in sea…  
-**When:** 2026-01-12 01:00 (America/Winnipeg)  •  **Published:** 2026-01-12 07:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Nunc Est Bibendum goes in search of hat-trick at Lingfield. Nunc Est Bibendum goes for three consecutive victories in our headline race at Lingfield today, whilst Hereford opens its gates for an intriguing National Hunt card; Wolverhampton hosts evening action - live on Sky Sports Racing. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Nunc Est Bibendum goes in search of hat-trick at Lingfield. https://www.skysports.com/racing/news/12040/13493190/today-on-sky-sports-racing-nunc-est-bibendum-goes-in-search-of-hat-trick-at-lingfield
+- skysports.com — Carabao Cup: Newcastle vs Man City and Chelsea vs Arsenal in semi-final first legs, live on Sky Sports. https://www.skysports.com/football/news/12040/13493355/carabao-cup-newcastle-vs-man-city-and-chelsea-vs-arsenal-in-semi-final-first-legs-live-on-sky-sports
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
