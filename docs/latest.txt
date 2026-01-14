@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-13 12:34 (America/Winnipeg)  |  2026-01-13 18:34 (UTC)
+**Generated:** 2026-01-13 19:57 (America/Winnipeg)  |  2026-01-14 01:57 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 44s
+**Estimated total video length:** ~4m 30s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Football fan died after being targeted by 'predatory' gambling sites
-- QUIZ: Manchester United's post-Sir Alex Ferguson managerial saga - how much do you remember of turbulent last 13 years?
-- Afcon 2025: Mohamed Salah and Sadio Mane rivalry renewed as Egypt face Senegal
+- Antoine Semenyo: New signing hails 'perfect environment' at Man City
+- The three ages of Michael Carrick ... and what they say about Manchester United
+- VAR: 'The game has gone' - a bad night for VAR in semi-final
 
 ---
 
 ### Managerial Moves
 
-## Story 1: QUIZ: Manchester United's post-Sir Alex Ferguson managerial saga - how much do you remember of turbulent last 13 years?
-**Slug (lower-third):** QUIZ: Manchester United's post-Sir Alex Ferguson manageri…  
-**When:** 2026-01-13 10:09 (America/Winnipeg)  •  **Published:** 2026-01-13 16:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 1: Man Utd not expected to back Michael Carrick in January transfer market - Paper Talk and football transfer gossip
+**Slug (lower-third):** Man Utd not expected to back Michael Carrick in January t…  
+**When:** 2026-01-13 16:40 (America/Winnipeg)  •  **Published:** 2026-01-13 22:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-QUIZ: Manchester United's post-Sir Alex Ferguson managerial saga - how much do you remember of turbulent last 13 years?. Man Utd have made 10 managerial appointments - six permanent and four interims - since Sir Alex Fergusons retirement, yet none have restored the Old Trafford glory days. As Michael Carrick closes in on return to club, how much do you remember from 13 years turbulent years? Relevance to standings and momentum.
+Man Utd not expected to back Michael Carrick in January transfer market - Paper Talk and football transfer gossip. Wednesdays other top stories include how Thomas Frank convinced Conor Gallagher to join Tottenham; Man United are eyeing up Luis Enrique as a potential target for the permanent managerial job; Chelsea forced their head of medical to join Enzo Maresca in the dugout before he left the club Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ QUIZ: Manchester United's post-Sir Alex Ferguson managerial saga - how much do y
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — QUIZ: Manchester United's post-Sir Alex Ferguson managerial saga - how much do you remember of turbulent last 13 years?. https://www.skysports.com/football/news/12040/13493845/quiz-manchester-uniteds-post8209sir-alex-ferguson-managerial-saga-how-much-do-you-remember-of-turbulent-last-13-years
+- skysports.com — Man Utd not expected to back Michael Carrick in January transfer market - Paper Talk and football transfer gossip. https://www.skysports.com/football/news/12040/13493984/man-utd-not-expected-to-back-michael-carrick-in-january-transfer-market-paper-talk-and-football-transfer-gossip
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ QUIZ: Manchester United's post-Sir Alex Ferguson managerial saga - how much do y
 
 ---
 
-## Story 2: Football Daily | Manchester United, crowd-pleasing nostalgia and failing to learn lessons of Seinfeld
-**Slug (lower-third):** Football Daily | Manchester United, crowd-pleasing nostal…  
-**When:** 2026-01-13 09:35 (America/Winnipeg)  •  **Published:** 2026-01-13 15:35 (UTC)  
+## Story 2: Liam Rosenior to talk to Raheem Sterling and Axel Disasi about Chelsea exile
+**Slug (lower-third):** Liam Rosenior to talk to Raheem Sterling and Axel Disasi …  
+**When:** 2026-01-13 16:30 (America/Winnipeg)  •  **Published:** 2026-01-13 22:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | Manchester United, crowd-pleasing nostalgia and failing to learn lessons of Seinfeld. In today's Football Daily: A new interim manager at Old Trafford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liam Rosenior to talk to Raheem Sterling and Axel Disasi about Chelsea exile. New Chelsea manager has pledged to speak to Raheem Sterling and Axel Disasi, who were left in limbo by the previous boss. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Football Daily | Manchester United, crowd-pleasing nostalgia and failing to lear
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | Manchester United, crowd-pleasing nostalgia and failing to learn lessons of Seinfeld. https://www.theguardian.com/football/2026/jan/13/manchester-united-crowd-pleasing-nostalgia-michael-carrick-seinfeld
+- bbc.com — Liam Rosenior to talk to Raheem Sterling and Axel Disasi about Chelsea exile. https://www.bbc.com/sport/football/articles/c5y42lg2w8lo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +64,13 @@ Football Daily | Manchester United, crowd-pleasing nostalgia and failing to lear
 
 ---
 
-## Story 3: Per Mertesacker: Why Arsenal losing academy director is a blow after bringing through likes of Bukayo Saka, Myles Lewis-Skelly and Max Dowman
-**Slug (lower-third):** Per Mertesacker: Why Arsenal losing academy director is a…  
-**When:** 2026-01-13 04:48 (America/Winnipeg)  •  **Published:** 2026-01-13 10:48 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~30s
+## Story 3: Arteta rues Arsenal's injury list before Carabao Cup semi-final trip to Chelsea
+**Slug (lower-third):** Arteta rues Arsenal's injury list before Carabao Cup semi…  
+**When:** 2026-01-13 16:30 (America/Winnipeg)  •  **Published:** 2026-01-13 22:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Per Mertesacker: Why Arsenal losing academy director is a blow after bringing through likes of Bukayo Saka, Myles Lewis-Skelly and Max Dowman. Per Mertesacker is stepping down from his role as Arsenal academy manager at the end of the season; since his tenure in 2018, Arsenal have brought through Bukayo Saka, Emile Smith Rowe, Myles Lewis-Skelly, Ethan Nwaneri and more; the German helped create Strong Young Gunners Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arteta rues Arsenal's injury list before Carabao Cup semi-final trip to Chelsea. The manager hoped to find a 'solution' to Arsenal's defensive problems, with William Saliba and the forward Leonard Trossard doubts for the trip to Chelsea Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +79,7 @@ Per Mertesacker: Why Arsenal losing academy director is a blow after bringing th
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Per Mertesacker: Why Arsenal losing academy director is a blow after bringing through likes of Bukayo Saka, Myles Lewis-Skelly and Max Dowman. https://www.skysports.com/football/news/12040/13493679/per-mertesacker-why-arsenal-losing-academy-director-is-a-blow-after-bringing-through-likes-of-bukayo-saka-myles-lewis-skelly-and-max-dowman
+- theguardian.com — Arteta rues Arsenal's injury list before Carabao Cup semi-final trip to Chelsea. https://www.theguardian.com/football/2026/jan/13/mikel-arteta-arsenal-injury-problems-carabao-cup-semi-final-first-leg-chelsea
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +90,13 @@ Per Mertesacker: Why Arsenal losing academy director is a blow after bringing th
 
 ### Transfers
 
-## Story 4: Football transfer rumours: Manchester United to bid PS30m for Marcos Llorente?
-**Slug (lower-third):** Football transfer rumours: Manchester United to bid PS30m…  
-**When:** 2026-01-13 02:18 (America/Winnipeg)  •  **Published:** 2026-01-13 08:18 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 4: Antoine Semenyo: New signing hails 'perfect environment' at Man City
+**Slug (lower-third):** Antoine Semenyo: New signing hails 'perfect environment' …  
+**When:** 2026-01-13 18:02 (America/Winnipeg)  •  **Published:** 2026-01-14 00:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football transfer rumours: Manchester United to bid PS30m for Marcos Llorente?. Donyell Malen to leave for Roma? | Bernardo Silva to make Como move? | Brentford to sign Lazio winger? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Antoine Semenyo: New signing hails 'perfect environment' at Man City. Antoine Semenyo has taken to life seamlessly at Manchester City by hitting the ground running and is already beginning to repay the APS62.5m fee Pep Guardiola handed to Bournemouth to sign him. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +105,33 @@ Football transfer rumours: Manchester United to bid PS30m for Marcos Llorente?. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football transfer rumours: Manchester United to bid PS30m for Marcos Llorente?. https://www.theguardian.com/football/2026/jan/13/football-transfer-rumours-manchester-united-to-bid-30m-for-marcos-llorente
+- bbc.com — Antoine Semenyo: New signing hails 'perfect environment' at Man City. https://www.bbc.com/sport/football/articles/c5y200qgp11o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 5: Football gossip: Man City prepare offer for Crystal Palace defender Marc Guehi
+**Slug (lower-third):** Football gossip: Man City prepare offer for Crystal Palac…  
+**When:** 2026-01-13 16:35 (America/Winnipeg)  •  **Published:** 2026-01-13 22:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Man City prepare offer for Crystal Palace defender Marc Guehi. Manchester City prepare offer for Marc Guehi, Bayern Munich chief tries to convince the Crystal Palace defender, and Rashford return to Manchester United is off the cards. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Man City prepare offer for Crystal Palace defender Marc Guehi. https://www.bbc.com/sport/football/articles/c394z1p7g04o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +142,13 @@ Football transfer rumours: Manchester United to bid PS30m for Marcos Llorente?. 
 
 ### Club Updates
 
-## Story 5: Football fan died after being targeted by 'predatory' gambling sites
-**Slug (lower-third):** Football fan died after being targeted by 'predatory' gam…  
-**When:** 2026-01-13 11:45 (America/Winnipeg)  •  **Published:** 2026-01-13 17:45 (UTC)  
+## Story 6: The three ages of Michael Carrick ... and what they say about Manchester United
+**Slug (lower-third):** The three ages of Michael Carrick ... and what they say a…  
+**When:** 2026-01-13 18:00 (America/Winnipeg)  •  **Published:** 2026-01-14 00:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football fan died after being targeted by 'predatory' gambling sites. A coroner concludes that a 36-year-old Liverpool fan took his own life after he was enticed to use illegal gambling websites to bet on football matches. Relevance to standings and momentum.
+The three ages of Michael Carrick ... and what they say about Manchester United. From his competitive debut to his first spell as interim, the former midfielder has seen much at Old Trafford over the past two decades Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +157,7 @@ Football fan died after being targeted by 'predatory' gambling sites. A coroner 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football fan died after being targeted by 'predatory' gambling sites. https://www.bbc.com/sport/football/articles/cly3x9ngj18o?at_medium=RSS&at_campaign=rss
+- theguardian.com — The three ages of Michael Carrick ... and what they say about Manchester United. https://www.theguardian.com/football/2026/jan/14/the-three-ages-of-michael-carrick-and-what-they-say-about-manchester-united
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +166,13 @@ Football fan died after being targeted by 'predatory' gambling sites. A coroner 
 
 ---
 
-## Story 6: Afcon 2025: Mohamed Salah and Sadio Mane rivalry renewed as Egypt face Senegal
-**Slug (lower-third):** Afcon 2025: Mohamed Salah and Sadio Mane rivalry renewed …  
-**When:** 2026-01-13 09:57 (America/Winnipeg)  •  **Published:** 2026-01-13 15:57 (UTC)  
+## Story 7: VAR: 'The game has gone' - a bad night for VAR in semi-final
+**Slug (lower-third):** VAR: 'The game has gone' - a bad night for VAR in semi-fi…  
+**When:** 2026-01-13 17:45 (America/Winnipeg)  •  **Published:** 2026-01-13 23:45 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Afcon 2025: Mohamed Salah and Sadio Mane rivalry renewed as Egypt face Senegal. Mohamed Salah's Egypt will face Senegal in the Afcon 2025 semi-finals, offering the chance of revenge against his old Liverpool team-mate Sadio Mane. Relevance to standings and momentum.
+VAR: 'The game has gone' - a bad night for VAR in semi-final. Manchester City's 2-0 win over Newcastle in the first leg of the Carabao Cup semi-final was overshadowed by a contentious decision to disallow a goal from Antoine Semenyo in the second half. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +181,7 @@ Afcon 2025: Mohamed Salah and Sadio Mane rivalry renewed as Egypt face Senegal. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Afcon 2025: Mohamed Salah and Sadio Mane rivalry renewed as Egypt face Senegal. https://www.bbc.com/sport/football/articles/c9dvg5lyz02o?at_medium=RSS&at_campaign=rss
+- bbc.com — VAR: 'The game has gone' - a bad night for VAR in semi-final. https://www.bbc.com/sport/football/articles/czdqvydez71o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +190,62 @@ Afcon 2025: Mohamed Salah and Sadio Mane rivalry renewed as Egypt face Senegal. 
 
 ---
 
-## Story 7: Arsenal: Mikel Arteta has his eyes set on Carabao Cup trophy
-**Slug (lower-third):** Arsenal: Mikel Arteta has his eyes set on Carabao Cup tro…  
-**When:** 2026-01-13 07:51 (America/Winnipeg)  •  **Published:** 2026-01-13 13:51 (UTC)  
+## Story 8: City defeat a reminder Newcastle have entered a level where it's eat or be eaten | Andy Brassell
+**Slug (lower-third):** City defeat a reminder Newcastle have entered a level whe…  
+**When:** 2026-01-13 17:27 (America/Winnipeg)  •  **Published:** 2026-01-13 23:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+City defeat a reminder Newcastle have entered a level where it's eat or be eaten | Andy Brassell. In terms of cold, hard silverware, domestic cups might be as good as it gets after Carabao Cup semi-final first-leg loss Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — City defeat a reminder Newcastle have entered a level where it's eat or be eaten | Andy Brassell. https://www.theguardian.com/football/2026/jan/13/newcastle-manchester-city-carabao-cup-semi-final-first-leg-analysis
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Pep rants over VAR on disallowed Semenyo goal
+**Slug (lower-third):** Pep rants over VAR on disallowed Semenyo goal  
+**When:** 2026-01-13 13:40 (America/Winnipeg)  •  **Published:** 2026-01-13 19:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Pep rants over VAR on disallowed Semenyo goal. Pep Guardiola said he expects an explanation from referees' chief Howard Webb during a post-match rant after Antoine Semenyo's disallowed goal during a Manchester City win over Newcastle United on Tuesday. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- espn.com — Pep rants over VAR on disallowed Semenyo goal. https://www.espn.com/soccer/story/_/id/47603386/pep-rants-var-disallowed-semenyo-goal-man-city
+- skysports.com — Pep Guardiola vents his VAR grievances amid Man City Carabao Cup controversy over Antoine Semenyo disallowed goal. https://www.skysports.com/football/news/12040/13494010/pep-guardiola-vents-his-var-grievances-amid-man-city-carabao-cup-controversy-over-antoine-semenyo-disallowed-goal
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Newcastle 0-2 Man City: Antoine Semenyo and Rayan Cherki hand Pep Guardiola's side Carabao Cup semi-final advantage
+**Slug (lower-third):** Newcastle 0-2 Man City: Antoine Semenyo and Rayan Cherki …  
+**When:** 2026-01-13 15:30 (America/Winnipeg)  •  **Published:** 2026-01-13 21:30 (UTC)  
 **Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal: Mikel Arteta has his eyes set on Carabao Cup trophy. Mikel Arteta has his eyes set on the Carabao Cup trophy after a painful defeat to Newcastle last season. Relevance to standings and momentum.
+Newcastle 0-2 Man City: Antoine Semenyo and Rayan Cherki hand Pep Guardiola's side Carabao Cup semi-final advantage. Antoine Semenyo scored again for Manchester City as his new club took control of their Carabao Cup semi-final against holders Newcastle - but was controversially denied another goal by VAR. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,79 +254,7 @@ Arsenal: Mikel Arteta has his eyes set on Carabao Cup trophy. Mikel Arteta has h
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal: Mikel Arteta has his eyes set on Carabao Cup trophy. https://www.skysports.com/watch/video/13493750/arsenal-mikel-arteta-has-his-eyes-set-on-carabao-cup-trophy
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Football gossip: Anderson, Guehi, Abraham, Malen, Gallagher
-**Slug (lower-third):** Football gossip: Anderson, Guehi, Abraham, Malen, Gallagh…  
-**When:** 2026-01-13 04:26 (America/Winnipeg)  •  **Published:** 2026-01-13 10:26 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Anderson, Guehi, Abraham, Malen, Gallagher. Manchester City are keen on England international Elliot Anderson, Bayern Munich continue chase for Marc Guehi and Roma agree deal for Aston Villa's Donyell Malen. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Anderson, Guehi, Abraham, Malen, Gallagher. https://www.bbc.com/sport/football/articles/cpwn7n42p1vo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: David Squires on ... the magic of the Cup as Macclesfield dethrone Crystal Palace
-**Slug (lower-third):** David Squires on ... the magic of the Cup as Macclesfield…  
-**When:** 2026-01-13 04:59 (America/Winnipeg)  •  **Published:** 2026-01-13 10:59 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-David Squires on ... the magic of the Cup as Macclesfield dethrone Crystal Palace. Our cartoonist looks back on a glorious day for the non-league side as they knocked out the FA Cup holders Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — David Squires on ... the magic of the Cup as Macclesfield dethrone Crystal Palace. https://www.theguardian.com/football/picture/2026/jan/13/david-squires-on-the-magic-of-the-cup-as-macclesfield-dethrone-crystal-palace
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Constitution Hill: Nicky Henderson's star could have Cheltenham Festival prep on the flat at Southwell in February
-**Slug (lower-third):** Constitution Hill: Nicky Henderson's star could have Chel…  
-**When:** 2026-01-13 04:11 (America/Winnipeg)  •  **Published:** 2026-01-13 10:11 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Constitution Hill: Nicky Henderson's star could have Cheltenham Festival prep on the flat at Southwell in February. Constitution Hill touted to run on the flat at Southwell after falling three times in his last four starts over hurdles, the latest on his comeback run at Newcastle in the Fighting Fifth; Southwells Friday Night Live fixture on February 20 now has a new race Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Constitution Hill: Nicky Henderson's star could have Cheltenham Festival prep on the flat at Southwell in February. https://www.skysports.com/racing/news/12040/13493661/constitution-hill-nicky-hendersons-star-could-have-cheltenham-festival-prep-on-the-flat-at-southwell-in-february
+- skysports.com — Newcastle 0-2 Man City: Antoine Semenyo and Rayan Cherki hand Pep Guardiola's side Carabao Cup semi-final advantage. https://www.skysports.com/football/newcastle-united-vs-manchester-city/report/551323
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
