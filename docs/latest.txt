@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-18 00:34 (America/Winnipeg)  |  2026-01-18 06:34 (UTC)
+**Generated:** 2026-01-18 06:44 (America/Winnipeg)  |  2026-01-18 12:44 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 23s
+**Estimated total video length:** ~4m 31s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League highlights: Manchester United 2-0 Manchester City
-- Premier League Highlights: Liverpool 1-1 Burnley
-- Premier League highlights: Tottenham 1-2 West Ham
+- Bundesliga highlights: RB Leipzig 1-5 Bayern Munich
+- Oliver Glasner future: Crystal Palace want manager to stay until end of season despite outburst
+- Virgil van Dijk says there is 'something lacking' about Liverpool
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Premier League highlights: Manchester United 2-0 Manchester City
-**Slug (lower-third):** Premier League highlights: Manchester United 2-0 Manchest…  
-**When:** 2026-01-17 14:01 (America/Winnipeg)  •  **Published:** 2026-01-17 20:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Oliver Glasner future: Crystal Palace want manager to stay until end of season despite outburst
+**Slug (lower-third):** Oliver Glasner future: Crystal Palace want manager to sta…  
+**When:** 2026-01-18 06:06 (America/Winnipeg)  •  **Published:** 2026-01-18 12:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Manchester United 2-0 Manchester City. Michael Carrick gets off to the perfect start in his first match as interim manager for Manchester United with a two-goal derby win against Manchester City, leaving Pep Guardiola's side winless in their past four matches. Relevance to standings and momentum.
+Oliver Glasner future: Crystal Palace want manager to stay until end of season despite outburst. Crystal Palace want Oliver Glasner to stay in charge until the end of the season despite his outburst after Saturdays loss at Sunderland; Palace want Austrian to leave in a dignified way in the summer after confirming he will leave when his contract expires this summer Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,8 +31,7 @@ Premier League highlights: Manchester United 2-0 Manchester City. Michael Carric
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Manchester United 2-0 Manchester City. https://www.bbc.com/sport/football/videos/ce3k7gqnx9xo?at_medium=RSS&at_campaign=rss
-- skysports.com — Man United 2-0 Man City | Premier League highlights. https://www.skysports.com/watch/video/13495365/man-united-2-0-man-city-premier-league-highlights
+- skysports.com — Oliver Glasner future: Crystal Palace want manager to stay until end of season despite outburst. https://www.skysports.com/football/news/12040/13495814/oliver-glasner-future-crystal-palace-want-manager-to-stay-until-end-of-season-despite-outburst
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -41,13 +40,13 @@ Premier League highlights: Manchester United 2-0 Manchester City. Michael Carric
 
 ---
 
-## Story 2: Premier League highlights: Chelsea 2-0 Brentford
-**Slug (lower-third):** Premier League highlights: Chelsea 2-0 Brentford  
-**When:** 2026-01-17 14:00 (America/Winnipeg)  •  **Published:** 2026-01-17 20:00 (UTC)  
+## Story 2: Thomas Frank: Tottenham Hotspur hierarchy consider manager's future
+**Slug (lower-third):** Thomas Frank: Tottenham Hotspur hierarchy consider manage…  
+**When:** 2026-01-18 03:43 (America/Winnipeg)  •  **Published:** 2026-01-18 09:43 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Chelsea 2-0 Brentford. Cole Palmer scored a penalty to secure the a for Chelsea against Brentford and give Liam Rosenior his first Premier League win as manager. Relevance to standings and momentum.
+Thomas Frank: Tottenham Hotspur hierarchy consider manager's future. Tottenham head coach Thomas Frank is under significant internal scrutiny with the club considering calling time on his seven-month reign. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -56,8 +55,7 @@ Premier League highlights: Chelsea 2-0 Brentford. Cole Palmer scored a penalty t
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Chelsea 2-0 Brentford. https://www.bbc.com/sport/football/videos/crkr682z434o?at_medium=RSS&at_campaign=rss
-- skysports.com — Chelsea 2-0 Brentford: Liam Rosenior earns first Premier League win as Blues survive against wasteful Bees. https://www.skysports.com/football/chelsea-vs-brentford/report/531341
+- bbc.com — Thomas Frank: Tottenham Hotspur hierarchy consider manager's future. https://www.bbc.com/sport/football/articles/cgrdqer05exo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -69,7 +67,7 @@ Premier League highlights: Chelsea 2-0 Brentford. Cole Palmer scored a penalty t
 ## Story 3: Man Utd 2-0 Man City: How Michael Carrick's side dismantled and frustrated Pep Guardiola's team
 **Slug (lower-third):** Man Utd 2-0 Man City: How Michael Carrick's side dismantl…  
 **When:** 2026-01-17 18:08 (America/Winnipeg)  •  **Published:** 2026-01-18 00:08 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man Utd 2-0 Man City: How Michael Carrick's side dismantled and frustrated Pep Guardiola's team. Match of the Day pundits Alan Shearer and Wayne Rooney break down how Manchester United's shape frustrated Manchester City in Michael Carrick's first game as interim manager. Relevance to standings and momentum.
@@ -92,13 +90,13 @@ Man Utd 2-0 Man City: How Michael Carrick's side dismantled and frustrated Pep G
 
 ### Club Updates
 
-## Story 4: Premier League Highlights: Liverpool 1-1 Burnley
-**Slug (lower-third):** Premier League Highlights: Liverpool 1-1 Burnley  
-**When:** 2026-01-17 14:01 (America/Winnipeg)  •  **Published:** 2026-01-17 20:01 (UTC)  
+## Story 4: Bundesliga highlights: RB Leipzig 1-5 Bayern Munich
+**Slug (lower-third):** Bundesliga highlights: RB Leipzig 1-5 Bayern Munich  
+**When:** 2026-01-18 06:20 (America/Winnipeg)  •  **Published:** 2026-01-18 12:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League Highlights: Liverpool 1-1 Burnley. Liverpool missed countless chances, including a Dominik Szoboszlai penalty, as a Michael Edwards equaliser grabbed Burnley an important point at Anfield. Relevance to standings and momentum.
+Bundesliga highlights: RB Leipzig 1-5 Bayern Munich. Former Crystal Palace forward Michael Olise comes off the bench to grab a goal and three assists to help Bayern Munich fight back and beat RB Leipzig 5-1 at the Red Bull Arena. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,8 +105,7 @@ Premier League Highlights: Liverpool 1-1 Burnley. Liverpool missed countless cha
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League Highlights: Liverpool 1-1 Burnley. https://www.bbc.com/sport/football/videos/c4g5dvkje9ro?at_medium=RSS&at_campaign=rss
-- skysports.com — Liverpool 1-1 Burnley | Premier League highlights. https://www.skysports.com/watch/video/13495511/liverpool-1-1-burnley-premier-league-highlights
+- bbc.com — Bundesliga highlights: RB Leipzig 1-5 Bayern Munich. https://www.bbc.com/sport/football/videos/cm2jlne24eno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -117,13 +114,13 @@ Premier League Highlights: Liverpool 1-1 Burnley. Liverpool missed countless cha
 
 ---
 
-## Story 5: Premier League highlights: Tottenham 1-2 West Ham
-**Slug (lower-third):** Premier League highlights: Tottenham 1-2 West Ham  
-**When:** 2026-01-17 14:01 (America/Winnipeg)  •  **Published:** 2026-01-17 20:01 (UTC)  
+## Story 5: Virgil van Dijk says there is 'something lacking' about Liverpool
+**Slug (lower-third):** Virgil van Dijk says there is 'something lacking' about L…  
+**When:** 2026-01-18 06:01 (America/Winnipeg)  •  **Published:** 2026-01-18 12:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Tottenham 1-2 West Ham. A last-minute Callum Wilson goal gives West Ham an important three points and increases the pressure on Tottenham boss Thomas Frank. Relevance to standings and momentum.
+Virgil van Dijk says there is 'something lacking' about Liverpool. Liverpool captain Virgil van Dijk says there is "something lacking" about his side after they draw 1-1 with Burnley. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,8 +129,7 @@ Premier League highlights: Tottenham 1-2 West Ham. A last-minute Callum Wilson g
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Tottenham 1-2 West Ham. https://www.bbc.com/sport/football/videos/c5y208yqe41o?at_medium=RSS&at_campaign=rss
-- skysports.com — Tottenham 1-2 West Ham | Premier League highlights. https://www.skysports.com/watch/video/13495530/tottenham-1-2-west-ham-premier-league-highlights
+- bbc.com — Virgil van Dijk says there is 'something lacking' about Liverpool. https://www.bbc.com/sport/football/articles/ce8r688gxmno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +138,61 @@ Premier League highlights: Tottenham 1-2 West Ham. A last-minute Callum Wilson g
 
 ---
 
-## Story 6: Mikel Arteta: Arsenal were denied 'very clear penalty' in Forest draw
-**Slug (lower-third):** Mikel Arteta: Arsenal were denied 'very clear penalty' in…  
-**When:** 2026-01-17 13:50 (America/Winnipeg)  •  **Published:** 2026-01-17 19:50 (UTC)  
+## Story 6: Lisandro Martinez hits back at Scholes and Manchester United punditocracy
+**Slug (lower-third):** Lisandro Martinez hits back at Scholes and Manchester Uni…  
+**When:** 2026-01-18 06:00 (America/Winnipeg)  •  **Published:** 2026-01-18 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Lisandro Martinez hits back at Scholes and Manchester United punditocracy. Lisandro Martinez has criticised Paul Scholes for mocking him on a podcast but not directly to the Manchester United defender's face Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Lisandro Martinez hits back at Scholes and Manchester United punditocracy. https://www.theguardian.com/football/2026/jan/18/lisandro-martinez-hits-back-paul-scholes-manchester-united-punditocracy
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: It's so toxic at Spurs even West Ham were shocked: Frank's race looks run | Jacob Steinberg
+**Slug (lower-third):** It's so toxic at Spurs even West Ham were shocked: Frank'…  
+**When:** 2026-01-18 02:00 (America/Winnipeg)  •  **Published:** 2026-01-18 08:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+It's so toxic at Spurs even West Ham were shocked: Frank's race looks run | Jacob Steinberg. Saturday's visiting fans know a thing or two about being a dysfunctional club but the level of hate inside Spurs' gleaming home surprised even them Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — It's so toxic at Spurs even West Ham were shocked: Frank's race looks run | Jacob Steinberg. https://www.theguardian.com/football/2026/jan/18/its-so-toxic-at-spurs-even-west-ham-were-shocked-franks-race-looks-run
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: 'I do remember everything': Katie McCabe on Arsenal, passion and WCL partying
+**Slug (lower-third):** 'I do remember everything': Katie McCabe on Arsenal, pass…  
+**When:** 2026-01-18 02:00 (America/Winnipeg)  •  **Published:** 2026-01-18 08:00 (UTC)  
 **Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mikel Arteta: Arsenal were denied 'very clear penalty' in Forest draw. Mikel Arteta has said Arsenal were denied a "very clear penalty" in Saturday's 0-0 draw at Nottingham Forest. Relevance to standings and momentum.
+'I do remember everything': Katie McCabe on Arsenal, passion and WCL partying. Full-back was at the centre of the club's Champions League celebrations and she knows how to party and recover, she tells Suzanne Wrack Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,8 +201,7 @@ Mikel Arteta: Arsenal were denied 'very clear penalty' in Forest draw. Mikel Art
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Mikel Arteta: Arsenal were denied 'very clear penalty' in Forest draw. https://www.espn.com/soccer/story/_/id/47642235/mikel-arteta-arsenal-nottingham-forest-premier-league-interview
-- skysports.com — Mikel Arteta believes Arsenal denied 'clear penalty' for Ola Aina handball in draw at Nottingham Forest. https://www.skysports.com/football/news/12040/13495662/mikel-arteta-believes-arsenal-denied-clear-penalty-for-ola-aina-handball-in-draw-at-nottingham-forest
+- theguardian.com — 'I do remember everything': Katie McCabe on Arsenal, passion and WCL partying. https://www.theguardian.com/football/2026/jan/18/i-do-remember-everything-katie-mccabe-on-arsenal-passion-and-wcl-partying
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +210,13 @@ Mikel Arteta: Arsenal were denied 'very clear penalty' in Forest draw. Mikel Art
 
 ---
 
-## Story 7: Oliver Glasner: MOTD pundit Alan Shearer expects Crystal Palace boss to leave this week after outburst
-**Slug (lower-third):** Oliver Glasner: MOTD pundit Alan Shearer expects Crystal …  
-**When:** 2026-01-17 18:33 (America/Winnipeg)  •  **Published:** 2026-01-18 00:33 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 9: Premier League sporting directors: who are they, and how much power do they all have?
+**Slug (lower-third):** Premier League sporting directors: who are they, and how …  
+**When:** 2026-01-18 02:00 (America/Winnipeg)  •  **Published:** 2026-01-18 08:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Oliver Glasner: MOTD pundit Alan Shearer expects Crystal Palace boss to leave this week after outburst. Match of the Day pundit Alan Shearer expects Oliver Glasner to leave Crystal Palace in the coming week, after his outburst against the board in the wake of their defeat by Sunderland. Relevance to standings and momentum.
+Premier League sporting directors: who are they, and how much power do they all have?. A guide to each club's setups, from Chelsea's multi-headed structure to Brentford's smooth planning and Manchester United's muddles Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +225,7 @@ Oliver Glasner: MOTD pundit Alan Shearer expects Crystal Palace boss to leave th
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Oliver Glasner: MOTD pundit Alan Shearer expects Crystal Palace boss to leave this week after outburst. https://www.bbc.com/sport/football/videos/crle5wkrd9ro?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League sporting directors: who are they, and how much power do they all have?. https://www.theguardian.com/football/2026/jan/18/premier-league-sporting-directors-who-are-they-and-how-much-power-do-they-all-have
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,34 +234,10 @@ Oliver Glasner: MOTD pundit Alan Shearer expects Crystal Palace boss to leave th
 
 ---
 
-## Story 8: Frank's future in doubt as Romero calls West Ham defeat 'a disaster' for Spurs
-**Slug (lower-third):** Frank's future in doubt as Romero calls West Ham defeat '…  
-**When:** 2026-01-17 16:46 (America/Winnipeg)  •  **Published:** 2026-01-17 22:46 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Frank's future in doubt as Romero calls West Ham defeat 'a disaster' for Spurs. Thomas Frank was barracked by the home crowd after Tottenham's last-gasp 2-1 defeat by West Ham and the club wonder if they can persist with him Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Frank's future in doubt as Romero calls West Ham defeat 'a disaster' for Spurs. https://www.theguardian.com/football/2026/jan/17/thomas-frank-tottenham-west-ham-premier-league
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Arsenal held to goalless draw at Nottingham Forest - but should Gunners have been awarded penalty?
+## Story 10: Arsenal held to goalless draw at Nottingham Forest - but should Gunners have been awarded penalty?
 **Slug (lower-third):** Arsenal held to goalless draw at Nottingham Forest - but …  
 **When:** 2026-01-17 16:13 (America/Winnipeg)  •  **Published:** 2026-01-17 22:13 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~22s
+**Virality score:** 84  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
 Arsenal held to goalless draw at Nottingham Forest - but should Gunners have been awarded penalty?. Arsenal have moved seven points clear at the top of the Premier League after a 0-0 draw at Nottingham Forest - but should the Gunners have been awarded a penalty? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -233,31 +252,7 @@ Arsenal held to goalless draw at Nottingham Forest - but should Gunners have bee
 - bbc.com — Arsenal held to goalless draw at Nottingham Forest - but should Gunners have been awarded penalty?. https://www.bbc.com/sport/football/articles/cx2p7dkxxgpo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Michael Carrick proves Manchester United DNA isn't a myth - Hits and misses
-**Slug (lower-third):** Michael Carrick proves Manchester United DNA isn't a myth…  
-**When:** 2026-01-17 15:00 (America/Winnipeg)  •  **Published:** 2026-01-17 21:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Michael Carrick proves Manchester United DNA isn't a myth - Hits and misses. The Sky Sports football writers analyse Saturdays Premier League action as Manchester United release the shackles, Tottenham play like relegation contenders and was Mikel Arteta wrong to drop Bukayo Saka? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Michael Carrick proves Manchester United DNA isn't a myth - Hits and misses. https://www.skysports.com/football/news/12040/13494155/michael-carrick-proves-manchester-united-dna-isnt-a-myth-hits-and-misses
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
