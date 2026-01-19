@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-18 12:31 (America/Winnipeg)  |  2026-01-18 18:31 (UTC)
+**Generated:** 2026-01-18 19:58 (America/Winnipeg)  |  2026-01-19 01:58 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~4m 42s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- 'Sensational!' | Barry squeezes it in from tight angle to give Everton lead!
-- Oleksandr Zinchenko transfer news: Ajax in talks over a loan deal for Arsenal defender
-- Liverpool: New signings help Reds spark to life in FA Cup win against London Bees but WSL test awaits
+- Arsenal overtake Chelsea at the top of WSL-dominated football rich list
+- Match of the Day: Everton disallowed goal against Aston Villa correct, says Joe Hart
+- West Ham could target Man City midfielder Mateo Kovacic if Lucas Paqueta leaves - Paper Talk and football transfer gossip
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Thomas Frank future: Tottenham board hold talks over head coach with Dane under increasing pressure to keep job
-**Slug (lower-third):** Thomas Frank future: Tottenham board hold talks over head…  
-**When:** 2026-01-18 08:00 (America/Winnipeg)  •  **Published:** 2026-01-18 14:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~29s
+## Story 1: Thomas Frank: Tottenham board looking at alternative head coach options after holding talks over Dane's future
+**Slug (lower-third):** Thomas Frank: Tottenham board looking at alternative head…  
+**When:** 2026-01-18 14:58 (America/Winnipeg)  •  **Published:** 2026-01-18 20:58 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Thomas Frank future: Tottenham board hold talks over head coach with Dane under increasing pressure to keep job. Spurs boss Thomas Frank under increasing pressure to keep his job; Talks are believed to have taken place at board level about whether Frank should continue after Saturdays 2-1 home defeat by West Ham; Spurs hierarchy are believed to be looking at all options at this point Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Thomas Frank: Tottenham board looking at alternative head coach options after holding talks over Dane's future. Spurs boss Thomas Frank under increasing pressure to keep his job; Talks are believed to have taken place at board level about whether Frank should continue after Saturdays 2-1 home defeat by West Ham; Spurs hierarchy looking at alternative options Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Thomas Frank future: Tottenham board hold talks over head coach with Dane under 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Thomas Frank future: Tottenham board hold talks over head coach with Dane under increasing pressure to keep job. https://www.skysports.com/football/news/12040/13495677/thomas-frank-future-tottenham-board-hold-talks-over-head-coach-with-dane-under-increasing-pressure-to-keep-job
+- skysports.com — Thomas Frank: Tottenham board looking at alternative head coach options after holding talks over Dane's future. https://www.skysports.com/football/news/12040/13495997/thomas-frank-tottenham-board-looking-at-alternative-head-coach-options-after-holding-talks-over-danes-future
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,13 @@ Thomas Frank future: Tottenham board hold talks over head coach with Dane under 
 
 ### Transfers
 
-## Story 2: Oleksandr Zinchenko transfer news: Ajax in talks over a loan deal for Arsenal defender
-**Slug (lower-third):** Oleksandr Zinchenko transfer news: Ajax in talks over a l…  
-**When:** 2026-01-18 11:49 (America/Winnipeg)  •  **Published:** 2026-01-18 17:49 (UTC)  
+## Story 2: Premier League Highlights: Aston Villa 0-1 Everton
+**Slug (lower-third):** Premier League Highlights: Aston Villa 0-1 Everton  
+**When:** 2026-01-18 14:00 (America/Winnipeg)  •  **Published:** 2026-01-18 20:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Oleksandr Zinchenko transfer news: Ajax in talks over a loan deal for Arsenal defender. Ajax are in talks over a loan move for Arsenal defender Oleksandr Zinchenko. Implications for the squad and table.
+Premier League Highlights: Aston Villa 0-1 Everton. Everton's Thierno Barry capitalises on a mistake by Aston Villa's Emi Martinez for a 1-0 win to The Toffees, which stops Villa going second in the Premier League. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,34 @@ Oleksandr Zinchenko transfer news: Ajax in talks over a loan deal for Arsenal de
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Oleksandr Zinchenko transfer news: Ajax in talks over a loan deal for Arsenal defender. https://www.bbc.com/sport/football/articles/c2d7rxe1p68o?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League Highlights: Aston Villa 0-1 Everton. https://www.bbc.com/sport/football/videos/c62r5xexrw9o?at_medium=RSS&at_campaign=rss
+- skysports.com — Aston Villa 0-1 Everton | Premier League highlights. https://www.skysports.com/watch/video/13495957/aston-villa-0-1-everton-premier-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: West Ham could target Man City midfielder Mateo Kovacic if Lucas Paqueta leaves - Paper Talk and football transfer gossip
+**Slug (lower-third):** West Ham could target Man City midfielder Mateo Kovacic i…  
+**When:** 2026-01-18 16:42 (America/Winnipeg)  •  **Published:** 2026-01-18 22:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+West Ham could target Man City midfielder Mateo Kovacic if Lucas Paqueta leaves - Paper Talk and football transfer gossip. Sundays other top stories include a coaching role for Andres Iniesta at 2026 World Cup; Xabi Alonso is in talks to return to coaching less than a week after he left Real Madrid; Jose Mourinho has denied rumours he could make a return to Bernabeu Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — West Ham could target Man City midfielder Mateo Kovacic if Lucas Paqueta leaves - Paper Talk and football transfer gossip. https://www.skysports.com/football/news/12040/13496020/west-ham-could-target-man-city-midfielder-mateo-kovacic-if-lucas-paqueta-leaves-paper-talk-and-football-transfer-gossip
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +95,13 @@ Oleksandr Zinchenko transfer news: Ajax in talks over a loan deal for Arsenal de
 
 ### Club Updates
 
-## Story 3: 'Sensational!' | Barry squeezes it in from tight angle to give Everton lead!
-**Slug (lower-third):** 'Sensational!' | Barry squeezes it in from tight angle to…  
-**When:** 2026-01-18 11:54 (America/Winnipeg)  •  **Published:** 2026-01-18 17:54 (UTC)  
+## Story 4: Arsenal overtake Chelsea at the top of WSL-dominated football rich list
+**Slug (lower-third):** Arsenal overtake Chelsea at the top of WSL-dominated foot…  
+**When:** 2026-01-18 18:01 (America/Winnipeg)  •  **Published:** 2026-01-19 00:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'Sensational!' | Barry squeezes it in from tight angle to give Everton lead!. Thierno Barry gives Everton the lead at Villa Park. Relevance to standings and momentum.
+Arsenal overtake Chelsea at the top of WSL-dominated football rich list. Arsenal have generated the largest revenue in Europe for the first time since Deloitte began charting the women's game's top earners Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +110,7 @@ Oleksandr Zinchenko transfer news: Ajax in talks over a loan deal for Arsenal de
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — 'Sensational!' | Barry squeezes it in from tight angle to give Everton lead!. https://www.skysports.com/watch/video/13495940/sensational-barry-squeezes-it-in-from-tight-angle-to-give-everton-lead
+- theguardian.com — Arsenal overtake Chelsea at the top of WSL-dominated football rich list. https://www.theguardian.com/football/2026/jan/19/arsenal-overtake-chelsea-top-wsl-dominated-football-rich-list
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +119,13 @@ Oleksandr Zinchenko transfer news: Ajax in talks over a loan deal for Arsenal de
 
 ---
 
-## Story 4: Liverpool: New signings help Reds spark to life in FA Cup win against London Bees but WSL test awaits
-**Slug (lower-third):** Liverpool: New signings help Reds spark to life in FA Cup…  
-**When:** 2026-01-18 11:15 (America/Winnipeg)  •  **Published:** 2026-01-18 17:15 (UTC)  
+## Story 5: Match of the Day: Everton disallowed goal against Aston Villa correct, says Joe Hart
+**Slug (lower-third):** Match of the Day: Everton disallowed goal against Aston V…  
+**When:** 2026-01-18 18:00 (America/Winnipeg)  •  **Published:** 2026-01-19 00:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool: New signings help Reds spark to life in FA Cup win against London Bees but WSL test awaits. Women's FA Cup fourtharound victory over fourth-tier London Bees finally offer Liverpool a moment of light in a campaign that has felt extremely bleak. Relevance to standings and momentum.
+Match of the Day: Everton disallowed goal against Aston Villa correct, says Joe Hart. Match of the Day pundit Joe Hart says Everton players and fans are right to be "frustrated" by their disallowed goal against Aston Villa, it was the correct decision. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +134,7 @@ Liverpool: New signings help Reds spark to life in FA Cup win against London Bee
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool: New signings help Reds spark to life in FA Cup win against London Bees but WSL test awaits. https://www.bbc.com/sport/football/articles/cy8pv9g3eleo?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day: Everton disallowed goal against Aston Villa correct, says Joe Hart. https://www.bbc.com/sport/football/videos/cx20n7v7k4jo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +143,13 @@ Liverpool: New signings help Reds spark to life in FA Cup win against London Bee
 
 ---
 
-## Story 5: Women's FA Cup: Liverpool, Man City & Man Utd cruise into fifth round
-**Slug (lower-third):** Women's FA Cup: Liverpool, Man City & Man Utd cruise into…  
-**When:** 2026-01-18 11:10 (America/Winnipeg)  •  **Published:** 2026-01-18 17:10 (UTC)  
+## Story 6: Arsenal top Deloitte Women's Money League; Chelsea 2nd
+**Slug (lower-third):** Arsenal top Deloitte Women's Money League; Chelsea 2nd  
+**When:** 2026-01-18 13:50 (America/Winnipeg)  •  **Published:** 2026-01-18 19:50 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Women's FA Cup: Liverpool, Man City & Man Utd cruise into fifth round. Liverpool, Manchester City and Manchester United all cruise into the fifth round of the Women's FA Cup as 55 goals are scored across 12 matches on Sunday. Relevance to standings and momentum.
+Arsenal top Deloitte Women's Money League; Chelsea 2nd. Arsenal Women topped the revenue list for the first time, generating EUR25.6 million ($29.6m, PS22.5m) as top ranked women's football clubs generated over EUR150m ($173.7m, PS130m), according to Deloitte Football Money League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +158,8 @@ Women's FA Cup: Liverpool, Man City & Man Utd cruise into fifth round. Liverpool
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Women's FA Cup: Liverpool, Man City & Man Utd cruise into fifth round. https://www.bbc.com/sport/football/articles/cwyrkl2xn76o?at_medium=RSS&at_campaign=rss
+- espn.com — Arsenal top Deloitte Women's Money League; Chelsea 2nd. https://www.espn.com/soccer/story/_/id/47653442/arsenal-top-deloitte-women-money-league-chelsea-2nd
+- bbc.com — Arsenal & Chelsea top Deloitte money league for women's football. https://www.bbc.com/sport/football/articles/ce3k535edx9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +168,13 @@ Women's FA Cup: Liverpool, Man City & Man Utd cruise into fifth round. Liverpool
 
 ---
 
-## Story 6: 'Moyes will be furious!' | Was Everton goal wrongly disallowed?
-**Slug (lower-third):** 'Moyes will be furious!' | Was Everton goal wrongly disal…  
-**When:** 2026-01-18 11:10 (America/Winnipeg)  •  **Published:** 2026-01-18 17:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Thomas Frank takes training as uncertainty rages over his Tottenham future
+**Slug (lower-third):** Thomas Frank takes training as uncertainty rages over his…  
+**When:** 2026-01-18 16:00 (America/Winnipeg)  •  **Published:** 2026-01-18 22:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'Moyes will be furious!' | Was Everton goal wrongly disallowed?. Jake OBriens goal for Everton against Aston Villa is disallowed. Relevance to standings and momentum.
+Thomas Frank takes training as uncertainty rages over his Tottenham future. Thomas Frank oversaw training at Tottenham on Sunday and maintained a business-as-usual front despite the uncertainty raging over his future Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +183,7 @@ Women's FA Cup: Liverpool, Man City & Man Utd cruise into fifth round. Liverpool
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — 'Moyes will be furious!' | Was Everton goal wrongly disallowed?. https://www.skysports.com/watch/video/13495909/moyes-will-be-furious-was-everton-goal-wrongly-disallowed
+- theguardian.com — Thomas Frank takes training as uncertainty rages over his Tottenham future. https://www.theguardian.com/football/2026/jan/18/tottenham-thomas-frank-spurs-fans-unrest
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +192,13 @@ Women's FA Cup: Liverpool, Man City & Man Utd cruise into fifth round. Liverpool
 
 ---
 
-## Story 7: Everton hit the post seconds after kick-off!
-**Slug (lower-third):** Everton hit the post seconds after kick-off!  
-**When:** 2026-01-18 10:36 (America/Winnipeg)  •  **Published:** 2026-01-18 16:36 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Football gossip: Fernandez, Gomes, Wharton, Anderson, Lucca, Mateta, Garcia
+**Slug (lower-third):** Football gossip: Fernandez, Gomes, Wharton, Anderson, Luc…  
+**When:** 2026-01-18 15:13 (America/Winnipeg)  •  **Published:** 2026-01-18 21:13 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton hit the post seconds after kick-off!. Everton almost take an early lead at Villa Park! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Fernandez, Gomes, Wharton, Anderson, Lucca, Mateta, Garcia. Chelsea tell Real Madrid they could sell Enzo Fernandez, Man Utd interested in Joao Gomes, and Nottingham Forest in talks for Lorenzo Lucca. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +207,7 @@ Everton hit the post seconds after kick-off!. Everton almost take an early lead 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Everton hit the post seconds after kick-off!. https://www.skysports.com/watch/video/13495899/everton-hit-the-post-seconds-after-kick-off
+- bbc.com — Football gossip: Fernandez, Gomes, Wharton, Anderson, Lucca, Mateta, Garcia. https://www.bbc.com/sport/football/articles/cgk8z7ky0yno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +216,13 @@ Everton hit the post seconds after kick-off!. Everton almost take an early lead 
 
 ---
 
-## Story 8: Women's FA Cup round-up: Vivianne Miedema bags brace from bench as Man City breeze past Bournemouth
-**Slug (lower-third):** Women's FA Cup round-up: Vivianne Miedema bags brace from…  
-**When:** 2026-01-18 10:25 (America/Winnipeg)  •  **Published:** 2026-01-18 16:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Saudi Arabia Darts Masters: Draw and schedule as Luke Littler, Michael van Gerwen, Luke Humphries take part
+**Slug (lower-third):** Saudi Arabia Darts Masters: Draw and schedule as Luke Lit…  
+**When:** 2026-01-18 14:36 (America/Winnipeg)  •  **Published:** 2026-01-18 20:36 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Women's FA Cup round-up: Vivianne Miedema bags brace from bench as Man City breeze past Bournemouth. There were wins for Manchester City, Arsenal, Manchester United, Liverpool, Tottenham and Brighton in the FA Cup; The Womens FA Cup fifth round draw will take place on Monday. Relevance to standings and momentum.
+Saudi Arabia Darts Masters: Draw and schedule as Luke Littler, Michael van Gerwen, Luke Humphries take part. Michael Van Gerwen seeks back-to-back World Series of Darts titles at Saudi Arabia Darts Masters January 19-20; Luke Littler, Luke Humphries, Gerwyn Price, Stephen Bunting in action; watch Premier League Darts live on Sky Sports every Thursday from February 5 to May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +231,7 @@ Women's FA Cup round-up: Vivianne Miedema bags brace from bench as Man City bree
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Women's FA Cup round-up: Vivianne Miedema bags brace from bench as Man City breeze past Bournemouth. https://www.skysports.com/football/news/12040/13495896/womens-fa-cup-round-up-vivianne-miedema-bags-brace-from-bench-as-man-city-breeze-past-bournemouth
+- skysports.com — Saudi Arabia Darts Masters: Draw and schedule as Luke Littler, Michael van Gerwen, Luke Humphries take part. https://www.skysports.com/darts/news/12040/13495995/saudi-arabia-darts-masters-draw-and-schedule-as-luke-littler-michael-van-gerwen-luke-humphries-take-part
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +240,13 @@ Women's FA Cup round-up: Vivianne Miedema bags brace from bench as Man City bree
 
 ---
 
-## Story 9: Newcastle struggle to find cutting edge in drab stalemate with Wolves
-**Slug (lower-third):** Newcastle struggle to find cutting edge in drab stalemate…  
-**When:** 2026-01-18 10:12 (America/Winnipeg)  •  **Published:** 2026-01-18 16:12 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Premier League Highlights: Wolves 0-0 Newcastle United
+**Slug (lower-third):** Premier League Highlights: Wolves 0-0 Newcastle United  
+**When:** 2026-01-18 14:01 (America/Winnipeg)  •  **Published:** 2026-01-18 20:01 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle struggle to find cutting edge in drab stalemate with Wolves. Newcastle failed to make the most of dominating possession in a 0-0 draw at Wolves Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League Highlights: Wolves 0-0 Newcastle United. Wolves held Newcastle United to a goalless draw to prevent Eddie Howe's side from climbing into the top five of the Premier League table. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,31 +255,7 @@ Newcastle struggle to find cutting edge in drab stalemate with Wolves. Newcastle
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Newcastle struggle to find cutting edge in drab stalemate with Wolves. https://www.theguardian.com/football/2026/jan/18/wolves-newcastle-premier-league-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Wolves 0-0 Newcastle: Premier League bottom club take another positive step as Magpies struggle at Molineux
-**Slug (lower-third):** Wolves 0-0 Newcastle: Premier League bottom club take ano…  
-**When:** 2026-01-18 09:45 (America/Winnipeg)  •  **Published:** 2026-01-18 15:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Wolves 0-0 Newcastle: Premier League bottom club take another positive step as Magpies struggle at Molineux. Toothless Newcastle blew the chance to go fifth in the Premier League with an underwhelming display as they drew 0-0 at bottom club Wolves. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Wolves 0-0 Newcastle: Premier League bottom club take another positive step as Magpies struggle at Molineux. https://www.skysports.com/football/wolverhampton-wanderers-vs-newcastle-united/report/531348
+- bbc.com — Premier League Highlights: Wolves 0-0 Newcastle United. https://www.bbc.com/sport/football/videos/cvgn9zz814do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
