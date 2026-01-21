@@ -1,28 +1,55 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-20 12:40 (America/Winnipeg)  |  2026-01-20 18:40 (UTC)
+**Generated:** 2026-01-20 19:56 (America/Winnipeg)  |  2026-01-21 01:56 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 31s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Canadian league to trial Arsene Wenger's offside idea
-- Rosenior adamant PSG and Real Madrid target Fernandez's long-term future is at Chelsea
-- VAR: Howard Webb backs officials over decision not to give Diogo Dalot red card
+- Thomas Frank buys time with Tottenham win over Borussia Dortmund in Champions League
+- Inter Milan 1-3 Arsenal: Gabriel Jesus enjoys two-goal haul for Gunners
+- Inter Milan 1-3 Arsenal: Mikel Arteta lauds Gabriel Jesus in Gunners win
+
+---
+
+### Managerial Moves
+
+## Story 1: Inter Milan 1-3 Arsenal: Mikel Arteta lauds Gabriel Jesus in Gunners win
+**Slug (lower-third):** Inter Milan 1-3 Arsenal: Mikel Arteta lauds Gabriel Jesus…  
+**When:** 2026-01-20 17:53 (America/Winnipeg)  •  **Published:** 2026-01-20 23:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Inter Milan 1-3 Arsenal: Mikel Arteta lauds Gabriel Jesus in Gunners win. Arsenal manager Mikel Arteta was delighted with Gabriel Jesus's display and two goals in the 3-1 Champions League win at Inter Milan, showing the "incredible" depth of quality in his squad. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Inter Milan 1-3 Arsenal: Mikel Arteta lauds Gabriel Jesus in Gunners win. https://www.bbc.com/sport/football/videos/crkr7jyg7dro?at_medium=RSS&at_campaign=rss
+- skysports.com — Inter Milan 1-3 Arsenal: Gabriel Jesus and Viktor Gyokeres give Mikel Arteta selection headache as Gunners win again in Europe. https://www.skysports.com/football/inter-milan-vs-arsenal/report/548021
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Transfers
 
-## Story 1: Oscar Bobb transfer news: Fulham in talks to sign Man City winger
-**Slug (lower-third):** Oscar Bobb transfer news: Fulham in talks to sign Man Cit…  
-**When:** 2026-01-20 09:01 (America/Winnipeg)  •  **Published:** 2026-01-20 15:01 (UTC)  
+## Story 2: Champions League: Thomas Frank on how he is managing the pressure at Spurs
+**Slug (lower-third):** Champions League: Thomas Frank on how he is managing the …  
+**When:** 2026-01-20 17:10 (America/Winnipeg)  •  **Published:** 2026-01-20 23:10 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Oscar Bobb transfer news: Fulham in talks to sign Man City winger. Fulham are in talks to sign winger Oscar Bobb from fellow Premier League side Manchester City. Implications for the squad and table.
+Champions League: Thomas Frank on how he is managing the pressure at Spurs. Thomas Frank feels his Tottenham Hotspur side are getting better and that he deserves patience following their two goal win over 10-man Borussia Dortmund in the Champions League. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +58,7 @@ Oscar Bobb transfer news: Fulham in talks to sign Man City winger. Fulham are in
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Oscar Bobb transfer news: Fulham in talks to sign Man City winger. https://www.bbc.com/sport/football/articles/cly93z00gxko?at_medium=RSS&at_campaign=rss
+- bbc.com — Champions League: Thomas Frank on how he is managing the pressure at Spurs. https://www.bbc.com/sport/football/videos/c0q457vnqy7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +67,15 @@ Oscar Bobb transfer news: Fulham in talks to sign Man City winger. Fulham are in
 
 ---
 
-## Story 2: Tammy Abraham transfer news: Aston Villa step up pursuit of striker as Donyell Malen replacement
-**Slug (lower-third):** Tammy Abraham transfer news: Aston Villa step up pursuit …  
-**When:** 2026-01-20 08:12 (America/Winnipeg)  •  **Published:** 2026-01-20 14:12 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~27s
+### Injuries
+
+## Story 3: Gianluigi Donnarumma preparing to return to Italy months after joining Manchester City - Paper Talk
+**Slug (lower-third):** Gianluigi Donnarumma preparing to return to Italy months …  
+**When:** 2026-01-20 16:30 (America/Winnipeg)  •  **Published:** 2026-01-20 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Tammy Abraham transfer news: Aston Villa step up pursuit of striker as Donyell Malen replacement. Aston Villa officials and the players representatives watched Tammy Abraham play for loan club Besiktas in Monday night with Unai Emerys side set to play in the city against Feenerbache on Thursday; Villa want to strengthen up front after Donyell Malen joined Roma Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Gianluigi Donnarumma preparing to return to Italy months after joining Manchester City - Paper Talk. Wednesdays other top stories include Chelsea joining PSG in the race to sign Atletico Madrid striker Julian Alvarez, Manchester United keeping track of Bournemouths Alex Scott and Tottenhams interest in Liverpools Curtis Jones Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,33 +84,7 @@ Tammy Abraham transfer news: Aston Villa step up pursuit of striker as Donyell M
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tammy Abraham transfer news: Aston Villa step up pursuit of striker as Donyell Malen replacement. https://www.skysports.com/football/news/12040/13496656/tammy-abraham-transfer-news-aston-villa-step-up-pursuit-of-striker-as-donyell-malen-replacement
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 3: Canadian league to trial Arsene Wenger's offside idea
-**Slug (lower-third):** Canadian league to trial Arsene Wenger's offside idea  
-**When:** 2026-01-20 12:24 (America/Winnipeg)  •  **Published:** 2026-01-20 18:24 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Canadian league to trial Arsene Wenger's offside idea. The Canadian Premier League is given permission to trial Arsene Wenger's "daylight" offside rule. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Canadian league to trial Arsene Wenger's offside idea. https://www.bbc.com/sport/football/articles/cpv7dr41yndo?at_medium=RSS&at_campaign=rss
+- skysports.com — Gianluigi Donnarumma preparing to return to Italy months after joining Manchester City - Paper Talk. https://www.skysports.com/football/news/12040/13496775/gianluigi-donnarumma-preparing-to-return-to-italy-months-after-joining-manchester-city-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +95,13 @@ Canadian league to trial Arsene Wenger's offside idea. The Canadian Premier Leag
 
 ### Club Updates
 
-## Story 4: Rosenior adamant PSG and Real Madrid target Fernandez's long-term future is at Chelsea
-**Slug (lower-third):** Rosenior adamant PSG and Real Madrid target Fernandez's l…  
-**When:** 2026-01-20 12:01 (America/Winnipeg)  •  **Published:** 2026-01-20 18:01 (UTC)  
+## Story 4: Thomas Frank buys time with Tottenham win over Borussia Dortmund in Champions League
+**Slug (lower-third):** Thomas Frank buys time with Tottenham win over Borussia D…  
+**When:** 2026-01-20 18:24 (America/Winnipeg)  •  **Published:** 2026-01-21 00:24 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Rosenior adamant PSG and Real Madrid target Fernandez's long-term future is at Chelsea. Liam Rosenior said Enzo Fernandez's long-term future remained at Chelsea dealing a blow to Paris Saint-Germain's and Real Madrid's hopes of signing him Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Thomas Frank buys time with Tottenham win over Borussia Dortmund in Champions League. Many Tottenham fans have already lost faith in Thomas Frank - but did Tuesday's 2-0 win over Borussia Dortmund give cause for optimism? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +110,7 @@ Rosenior adamant PSG and Real Madrid target Fernandez's long-term future is at C
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Rosenior adamant PSG and Real Madrid target Fernandez's long-term future is at Chelsea. https://www.theguardian.com/football/2026/jan/20/liam-rosenior-psg-real-madrid-enzo-fernandez-chelsea
+- bbc.com — Thomas Frank buys time with Tottenham win over Borussia Dortmund in Champions League. https://www.bbc.com/sport/football/articles/cj4lqy2np2zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +119,13 @@ Rosenior adamant PSG and Real Madrid target Fernandez's long-term future is at C
 
 ---
 
-## Story 5: VAR: Howard Webb backs officials over decision not to give Diogo Dalot red card
-**Slug (lower-third):** VAR: Howard Webb backs officials over decision not to giv…  
-**When:** 2026-01-20 11:28 (America/Winnipeg)  •  **Published:** 2026-01-20 17:28 (UTC)  
+## Story 5: Inter Milan 1-3 Arsenal: Gabriel Jesus enjoys two-goal haul for Gunners
+**Slug (lower-third):** Inter Milan 1-3 Arsenal: Gabriel Jesus enjoys two-goal ha…  
+**When:** 2026-01-20 17:57 (America/Winnipeg)  •  **Published:** 2026-01-20 23:57 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-VAR: Howard Webb backs officials over decision not to give Diogo Dalot red card. Premier League referees' boss Howard Webb rejects claims that his officials made a mistake by not sending off Diogo Dalot in Saturday's Manchester derby. Relevance to standings and momentum.
+Inter Milan 1-3 Arsenal: Gabriel Jesus enjoys two-goal haul for Gunners. Gabriel Jesus says he had "tears in my eyes" after scoring twice to help Arsenal win 3-1 at Inter Milan for a seventh successive win in the Champions League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +134,7 @@ VAR: Howard Webb backs officials over decision not to give Diogo Dalot red card.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — VAR: Howard Webb backs officials over decision not to give Diogo Dalot red card. https://www.bbc.com/sport/football/articles/cp3741nlep5o?at_medium=RSS&at_campaign=rss
+- bbc.com — Inter Milan 1-3 Arsenal: Gabriel Jesus enjoys two-goal haul for Gunners. https://www.bbc.com/sport/football/articles/cwy1wr2xryxo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +143,13 @@ VAR: Howard Webb backs officials over decision not to give Diogo Dalot red card.
 
 ---
 
-## Story 6: Football Daily | Lisandro Martinez, Manchester United criticism and the Butt of the joke
-**Slug (lower-third):** Football Daily | Lisandro Martinez, Manchester United cri…  
-**When:** 2026-01-20 09:52 (America/Winnipeg)  •  **Published:** 2026-01-20 15:52 (UTC)  
+## Story 6: FA Cup Highlights: Salford 3-2 Swindon
+**Slug (lower-third):** FA Cup Highlights: Salford 3-2 Swindon  
+**When:** 2026-01-20 17:39 (America/Winnipeg)  •  **Published:** 2026-01-20 23:39 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | Lisandro Martinez, Manchester United criticism and the Butt of the joke. In today's Football Daily: Chatty men on podcasts and some Old Trafford beef Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+FA Cup Highlights: Salford 3-2 Swindon. Luke Garbutt scores a sublime free-kick as Salford beat Swindon 3-2 in the FA Cup third round to set up a glamour tie with seven-time winners Manchester City. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +158,7 @@ Football Daily | Lisandro Martinez, Manchester United criticism and the Butt of 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | Lisandro Martinez, Manchester United criticism and the Butt of the joke. https://www.theguardian.com/football/2026/jan/20/lisandro-martinez-manchester-united-scholes-butt-criticism-football-daily-newsletter
+- bbc.com — FA Cup Highlights: Salford 3-2 Swindon. https://www.bbc.com/sport/football/videos/cgrdx7wrzz1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +167,13 @@ Football Daily | Lisandro Martinez, Manchester United criticism and the Butt of 
 
 ---
 
-## Story 7: Liverpool: Dominik Szoboszlai on Mo Salah & 'disrespectful' jibe
-**Slug (lower-third):** Liverpool: Dominik Szoboszlai on Mo Salah & 'disrespectfu…  
-**When:** 2026-01-20 09:41 (America/Winnipeg)  •  **Published:** 2026-01-20 15:41 (UTC)  
+## Story 7: Football gossip: Mateta, Guessand, Abraham, Ugarte, Martinez, Senesi, Bailey, Parrott, Isidor
+**Slug (lower-third):** Football gossip: Mateta, Guessand, Abraham, Ugarte, Marti…  
+**When:** 2026-01-20 17:25 (America/Winnipeg)  •  **Published:** 2026-01-20 23:25 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool: Dominik Szoboszlai on Mo Salah & 'disrespectful' jibe. Dominik Szoboszlai spoke to Mohamed Salah "almost every day" when he was at Afcon but refuses to speculate on the Egypt forward's future at Liverpool. Relevance to standings and momentum.
+Football gossip: Mateta, Guessand, Abraham, Ugarte, Martinez, Senesi, Bailey, Parrott, Isidor. Aston Villa explore Jean-Philippe Mateta and Tammy Abraham moves, Manchester United decline Ajax's Manuel Ugarte approach and Bournemouth fight to keep Marcos Senesi. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +182,7 @@ Liverpool: Dominik Szoboszlai on Mo Salah & 'disrespectful' jibe. Dominik Szobos
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool: Dominik Szoboszlai on Mo Salah & 'disrespectful' jibe. https://www.bbc.com/sport/football/articles/cje1k8807e0o?at_medium=RSS&at_campaign=rss
+- bbc.com — Football gossip: Mateta, Guessand, Abraham, Ugarte, Martinez, Senesi, Bailey, Parrott, Isidor. https://www.bbc.com/sport/football/articles/c1m78nynj89o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +191,13 @@ Liverpool: Dominik Szoboszlai on Mo Salah & 'disrespectful' jibe. Dominik Szobos
 
 ---
 
-## Story 8: Man who stalked Liverpool's Marie Hobinger given two-year restraining order
-**Slug (lower-third):** Man who stalked Liverpool's Marie Hobinger given two-year…  
-**When:** 2026-01-20 09:30 (America/Winnipeg)  •  **Published:** 2026-01-20 15:30 (UTC)  
+## Story 8: Championship roundup: Wright on time again for Coventry as Ipswich go second
+**Slug (lower-third):** Championship roundup: Wright on time again for Coventry a…  
+**When:** 2026-01-20 16:47 (America/Winnipeg)  •  **Published:** 2026-01-20 22:47 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man who stalked Liverpool's Marie Hobinger given two-year restraining order. A man who stalked the Liverpool midfielder Marie Hobinger has been handed a two-year restraining order and sentenced to 18 months' community service Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Championship roundup: Wright on time again for Coventry as Ipswich go second. Haji Wright scored the winner for the second time in three days as the leaders Coventry defeated Millwall 2-1 while Ipswich saw off Bristol City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +206,7 @@ Man who stalked Liverpool's Marie Hobinger given two-year restraining order. A m
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Man who stalked Liverpool's Marie Hobinger given two-year restraining order. https://www.theguardian.com/football/2026/jan/20/man-who-stalked-liverpool-footballer-marie-hobinger-given-two-year-restraining-order
+- theguardian.com — Championship roundup: Wright on time again for Coventry as Ipswich go second. https://www.theguardian.com/football/2026/jan/20/championship-roundup-wright-grabs-another-winner-for-coventry-as-ipswich-move-second
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +215,13 @@ Man who stalked Liverpool's Marie Hobinger given two-year restraining order. A m
 
 ---
 
-## Story 9: Patrick Bamford interview: Striker on extending stay at Sheffield United, recent form and being out of the game
-**Slug (lower-third):** Patrick Bamford interview: Striker on extending stay at S…  
-**When:** 2026-01-20 07:20 (America/Winnipeg)  •  **Published:** 2026-01-20 13:20 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~24s
+## Story 9: Why Man City's shock Champions League loss at Bodo/Glimt was very bad news for Pep Guardiola
+**Slug (lower-third):** Why Man City's shock Champions League loss at Bodo/Glimt …  
+**When:** 2026-01-20 16:15 (America/Winnipeg)  •  **Published:** 2026-01-20 22:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Patrick Bamford interview: Striker on extending stay at Sheffield United, recent form and being out of the game. Patrick Bamford tells Sky Sports about his time while not having a club, his recent form and extending his stay at Sheffield United. Watch Southampton vs Sheffield United live on Sky Sports+ and the Sky Sports app on Wednesday night; kick-off 7.45pm. Relevance to standings and momentum.
+Why Man City's shock Champions League loss at Bodo/Glimt was very bad news for Pep Guardiola. Man City were humbled by Bodo/Glimt in the Champions League; City still in with a good chance of making the top eight and host Galatasaray in their final game next Wednesday; City have not won in the league since Dec 27; Erling Haaland had not scored in open play for a month Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +230,7 @@ Patrick Bamford interview: Striker on extending stay at Sheffield United, recent
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Patrick Bamford interview: Striker on extending stay at Sheffield United, recent form and being out of the game. https://www.skysports.com/football/news/12040/13496597/patrick-bamford-interview-striker-on-extending-stay-at-sheffield-united-recent-form-and-being-out-of-the-game
+- skysports.com — Why Man City's shock Champions League loss at Bodo/Glimt was very bad news for Pep Guardiola. https://www.skysports.com/football/news/12040/13496248/why-man-citys-shock-champions-league-loss-at-bodo-glimt-was-very-bad-news-for-pep-guardiola
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +239,13 @@ Patrick Bamford interview: Striker on extending stay at Sheffield United, recent
 
 ---
 
-## Story 10: Aston Villa move for Jean-Philippe Mateta after Juventus offer falls short
-**Slug (lower-third):** Aston Villa move for Jean-Philippe Mateta after Juventus …  
-**When:** 2026-01-20 07:22 (America/Winnipeg)  •  **Published:** 2026-01-20 13:22 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 10: Man City 'battered in Bodo' - is this more than just a blip?
+**Slug (lower-third):** Man City 'battered in Bodo' - is this more than just a bl…  
+**When:** 2026-01-20 15:59 (America/Winnipeg)  •  **Published:** 2026-01-20 21:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa move for Jean-Philippe Mateta after Juventus offer falls short. Aston Villa have registered their interest in signing Jean-Philippe Mateta, with Crystal Palace weighing up a move for Villa's Evann Guessand as his replacement Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Man City 'battered in Bodo' - is this more than just a blip?. Manchester City suffered their very own "hell of a beating" moment in Norway on Tuesday - now Pep Guardiola and his players must turn around their fortunes in an increasingly trying January. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +254,7 @@ Aston Villa move for Jean-Philippe Mateta after Juventus offer falls short. Asto
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Aston Villa move for Jean-Philippe Mateta after Juventus offer falls short. https://www.theguardian.com/football/2026/jan/20/arsenal-ethan-nwaneri-marseille-loan-oleksandr-zinchenko-transfers
+- bbc.com — Man City 'battered in Bodo' - is this more than just a blip?. https://www.bbc.com/sport/articles/crkr76gkxr7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
