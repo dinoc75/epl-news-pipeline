@@ -1,22 +1,46 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-22 00:39 (America/Winnipeg)  |  2026-01-22 06:39 (UTC)
+**Generated:** 2026-01-22 06:55 (America/Winnipeg)  |  2026-01-22 12:55 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~4m 43s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Aston Villa: Morgan Rogers looks to prove worth for club and country
-- Morgan Rogers: Aston Villa star on how Unai Emery has improved him
-- Champions League: Marseille 0-3 Liverpool
+- Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen, Tammy Abraham, Joshua Zirkee - the strikers who could move in the January window
+- Why are English teams dominating the Champions League? Football Weekly Extra - podcast
+- Premier League Darts 2026 schedule confirmed as Luke Littler handed Gian van Veen opener in Newcastle
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Champions League: Marseille 0-3 Liverpool
+## Story 1: Everton's Kelly Gago 'free to go' if PSG offer APS500k release fee
+**Slug (lower-third):** Everton's Kelly Gago 'free to go' if PSG offer APS500k re…  
+**When:** 2026-01-22 04:26 (America/Winnipeg)  •  **Published:** 2026-01-22 10:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Everton's Kelly Gago 'free to go' if PSG offer APS500k release fee. Everton forward Kelly Gago "is free to go" if another club offers the release clause fee in her contract, says manager Brian Sorensen. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Everton's Kelly Gago 'free to go' if PSG offer APS500k release fee. https://www.bbc.com/sport/football/articles/c0jvv7w6ewvo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Champions League: Marseille 0-3 Liverpool
 **Slug (lower-third):** Champions League: Marseille 0-3 Liverpool  
 **When:** 2026-01-21 17:33 (America/Winnipeg)  •  **Published:** 2026-01-21 23:33 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~21s
@@ -41,15 +65,15 @@ Champions League: Marseille 0-3 Liverpool. Liverpool manager Arne Slot is proud 
 
 ---
 
-### Injuries
+### Transfers
 
-## Story 2: Champions League: Arne Slot praises Mohamed Salah return on important night for both
-**Slug (lower-third):** Champions League: Arne Slot praises Mohamed Salah return …  
-**When:** 2026-01-21 18:03 (America/Winnipeg)  •  **Published:** 2026-01-22 00:03 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 3: Transfer 360: Michael Carrick reveals big mistake in first Sir Alex Ferguson meeting!
+**Slug (lower-third):** Transfer 360: Michael Carrick reveals big mistake in firs…  
+**When:** 2026-01-22 04:48 (America/Winnipeg)  •  **Published:** 2026-01-22 10:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League: Arne Slot praises Mohamed Salah return on important night for both. Arne Slot praises the return of Mohamed Salah, with Liverpool's Champions League win in Marseille proving important for both. Relevance to standings and momentum.
+Transfer 360: Michael Carrick reveals big mistake in first Sir Alex Ferguson meeting!. Speaking on Transfer 360, Michael Carrick recalls one of his very first conversation with Sir Alex Ferguson after signing for Manchester United. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -58,7 +82,81 @@ Champions League: Arne Slot praises Mohamed Salah return on important night for 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League: Arne Slot praises Mohamed Salah return on important night for both. https://www.bbc.com/sport/football/articles/cn0yyexlvrgo?at_medium=RSS&at_campaign=rss
+- skysports.com — Transfer 360: Michael Carrick reveals big mistake in first Sir Alex Ferguson meeting!. https://www.skysports.com/watch/video/13497524/transfer-360-michael-carrick-reveals-big-mistake-in-first-sir-alex-ferguson-meeting
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Football transfer rumours: Real Madrid leading race to sign Adam Wharton?
+**Slug (lower-third):** Football transfer rumours: Real Madrid leading race to si…  
+**When:** 2026-01-22 03:39 (America/Winnipeg)  •  **Published:** 2026-01-22 09:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football transfer rumours: Real Madrid leading race to sign Adam Wharton?. Forest to move for Tsimikas? | Manchester United target Sadiki? | MLS on the radar for Lewandowski? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Football transfer rumours: Real Madrid leading race to sign Adam Wharton?. https://www.theguardian.com/football/2026/jan/22/football-transfer-rumours-real-madrid-leading-race-to-sign-adam-wharton
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 5: Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen, Tammy Abraham, Joshua Zirkee - the strikers who could move in the January window
+**Slug (lower-third):** Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen…  
+**When:** 2026-01-22 06:15 (America/Winnipeg)  •  **Published:** 2026-01-22 12:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
+
+### Presenter Script (3–5 sentences)
+Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen, Tammy Abraham, Joshua Zirkee - the strikers who could move in the January window. Strikers are hot property in the transfer market and Sky Sports News has identified eight forwards who could move in the final days of the window; Jean-Philippe Mateta wants to leave Crystal Palace, Tammy Abraham could return to England, while Jorgen Strand Larsen is back in the headlines Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen, Tammy Abraham, Joshua Zirkee - the strikers who could move in the January window. https://www.skysports.com/football/news/12040/13497534/transfer-news-jean-philippe-mateta-jorgen-strand-larsen-tammy-abraham-joshua-zirkee-the-strikers-who-could-move-in-the-january-window
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Premier League Darts 2026 schedule confirmed as Luke Littler handed Gian van Veen opener in Newcastle
+**Slug (lower-third):** Premier League Darts 2026 schedule confirmed as Luke Litt…  
+**When:** 2026-01-22 06:05 (America/Winnipeg)  •  **Published:** 2026-01-22 12:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Premier League Darts 2026 schedule confirmed as Luke Littler handed Gian van Veen opener in Newcastle. Complete fixtures schedule for 2026 Premier League Darts season, with Luke Humphries looking to defend his title after beating Luke Littler 11-8 in 2025 final; World Darts runner-up Gian van Veen and Josh Rock make their Premier League debuts, with Jonny Clayton also returning for 2026 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Premier League Darts 2026 schedule confirmed as Luke Littler handed Gian van Veen opener in Newcastle. https://www.skysports.com/darts/news/12040/13497577/premier-league-darts-2026-schedule-confirmed-as-luke-littler-handed-gian-van-veen-opener-in-newcastle
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -69,13 +167,13 @@ Champions League: Arne Slot praises Mohamed Salah return on important night for 
 
 ### Club Updates
 
-## Story 3: Aston Villa: Morgan Rogers looks to prove worth for club and country
-**Slug (lower-third):** Aston Villa: Morgan Rogers looks to prove worth for club …  
-**When:** 2026-01-22 00:17 (America/Winnipeg)  •  **Published:** 2026-01-22 06:17 (UTC)  
+## Story 7: Why are English teams dominating the Champions League? Football Weekly Extra - podcast
+**Slug (lower-third):** Why are English teams dominating the Champions League? Fo…  
+**When:** 2026-01-22 06:13 (America/Winnipeg)  •  **Published:** 2026-01-22 12:13 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa: Morgan Rogers looks to prove worth for club and country. Morgan Rogers says he "can be anything" - while the Aston Villa star is talking about his positional flexibility, rather than boasting about his quality, his confidence is well-placed. Relevance to standings and momentum.
+Why are English teams dominating the Champions League? Football Weekly Extra - podcast. Max Rushden is joined by Jonathan Liew, Lars Sivertsen and Paul Watson to discuss Premier League teams' success in the Champions League so far this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -84,7 +182,7 @@ Aston Villa: Morgan Rogers looks to prove worth for club and country. Morgan Rog
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa: Morgan Rogers looks to prove worth for club and country. https://www.bbc.com/sport/football/articles/cedwx4w43dyo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Why are English teams dominating the Champions League? Football Weekly Extra - podcast. https://www.theguardian.com/football/audio/2026/jan/22/why-are-english-teams-dominating-the-champions-league-football-weekly-extra-podcast
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -93,13 +191,37 @@ Aston Villa: Morgan Rogers looks to prove worth for club and country. Morgan Rog
 
 ---
 
-## Story 4: Morgan Rogers: Aston Villa star on how Unai Emery has improved him
-**Slug (lower-third):** Morgan Rogers: Aston Villa star on how Unai Emery has imp…  
-**When:** 2026-01-22 00:10 (America/Winnipeg)  •  **Published:** 2026-01-22 06:10 (UTC)  
+## Story 8: Manchester United: Michael Carrick's side have 'second chance' to prove Champions League credentials - Reporter Notebook
+**Slug (lower-third):** Manchester United: Michael Carrick's side have 'second ch…  
+**When:** 2026-01-22 06:00 (America/Winnipeg)  •  **Published:** 2026-01-22 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Manchester United: Michael Carrick's side have 'second chance' to prove Champions League credentials - Reporter Notebook. Man Utd have another chance to cement their Champions League credentials after stunning derby victory; Michael Carricks side sit fifth in the Premier League; watch Arsenal vs Man Utd on Sky Sports Main Event from 4pm on Super Sunday, kick-off 4.30pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Manchester United: Michael Carrick's side have 'second chance' to prove Champions League credentials - Reporter Notebook. https://www.skysports.com/football/news/12040/13497184/manchester-united-red-devils-have-second-chance-to-prove-their-champions-league-credentials-reporter-notebook
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Southampton's Leo Scienza: 'I am in the most difficult league in the world. It's a bloodbath'
+**Slug (lower-third):** Southampton's Leo Scienza: 'I am in the most difficult le…  
+**When:** 2026-01-22 04:09 (America/Winnipeg)  •  **Published:** 2026-01-22 10:09 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Morgan Rogers: Aston Villa star on how Unai Emery has improved him. Forward Morgan Rogers opens up on his relationship with "genius" Unai Emery and how the Aston Villa boss helped him through a tough start to this season. Relevance to standings and momentum.
+Southampton's Leo Scienza: 'I am in the most difficult league in the world. It's a bloodbath'. Brazilian endured hard times in the Swedish fifth tier after his father's death but has found a home in the Championship Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -108,7 +230,7 @@ Morgan Rogers: Aston Villa star on how Unai Emery has improved him. Forward Morg
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Morgan Rogers: Aston Villa star on how Unai Emery has improved him. https://www.bbc.com/sport/football/videos/cd7z49ww5elo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Southampton's Leo Scienza: 'I am in the most difficult league in the world. It's a bloodbath'. https://www.theguardian.com/football/2026/jan/22/southampton-leo-scienza-championship-interview-brazilian-sweden
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -117,13 +239,13 @@ Morgan Rogers: Aston Villa star on how Unai Emery has improved him. Forward Morg
 
 ---
 
-## Story 5: Champions League Highlights: Chelsea 1-0 Pafos
-**Slug (lower-third):** Champions League Highlights: Chelsea 1-0 Pafos  
-**When:** 2026-01-21 16:21 (America/Winnipeg)  •  **Published:** 2026-01-21 22:21 (UTC)  
+## Story 10: Man Utd 2008 v Arsenal 2026 - who would win?
+**Slug (lower-third):** Man Utd 2008 v Arsenal 2026 - who would win?  
+**When:** 2026-01-22 03:44 (America/Winnipeg)  •  **Published:** 2026-01-22 09:44 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League Highlights: Chelsea 1-0 Pafos. Moises Caicedo's 77th-minute goal keeps Chelsea's hopes of finishing in the Champions League top eight alive after victory of Pafos at Stamford Bridge. Relevance to standings and momentum.
+Man Utd 2008 v Arsenal 2026 - who would win?. After being challenged by Theo Walcott, Wayne Rooney said the Manchester United side of 2008 would "batter" the current Arsenal team. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,131 +254,7 @@ Champions League Highlights: Chelsea 1-0 Pafos. Moises Caicedo's 77th-minute goa
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League Highlights: Chelsea 1-0 Pafos. https://www.bbc.com/sport/football/videos/ce8rr0pvzy7o?at_medium=RSS&at_campaign=rss
-- skysports.com — Chelsea 1-0 Pafos: Moises Caicedo's late header lifts Liam Rosenior's Blues up to eighth in Champions League table. https://www.skysports.com/football/chelsea-vs-pafos/report/548029
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Champions League Highlights: Newcastle 3-0 PSV
-**Slug (lower-third):** Champions League Highlights: Newcastle 3-0 PSV  
-**When:** 2026-01-21 16:08 (America/Winnipeg)  •  **Published:** 2026-01-21 22:08 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League Highlights: Newcastle 3-0 PSV. Newcastle United clinch a Champions League last 16 play-off spot following a comfortable 3-0 win over PSV Eindhoven at St James's Park. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League Highlights: Newcastle 3-0 PSV. https://www.bbc.com/sport/football/videos/c801pnn9yvzo?at_medium=RSS&at_campaign=rss
-- skysports.com — Newcastle 3-0 PSV: Magpies move into top eight of Champions League table after cruising to win at St James' Park. https://www.skysports.com/football/newcastle-united-vs-psv-eindhoven/report/548034
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Women's League Cup highlights: Manchester City 0-1 Chelsea
-**Slug (lower-third):** Women's League Cup highlights: Manchester City 0-1 Chelsea  
-**When:** 2026-01-21 16:00 (America/Winnipeg)  •  **Published:** 2026-01-21 22:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Women's League Cup highlights: Manchester City 0-1 Chelsea. Holders Chelsea reach a seventh successive final of the Women's League Cup with a narrow victory over rivals Manchester City at Joie Stadium. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Women's League Cup highlights: Manchester City 0-1 Chelsea. https://www.bbc.com/sport/football/videos/c24g69vmgy5o?at_medium=RSS&at_campaign=rss
-- skysports.com — Man City 0-1 Chelsea: Holders book Women's League Cup final spot thanks to Wieke Kaptein winner. https://www.skysports.com/football/manchester-city-women-vs-chelsea-women/report/552036
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Jean-Philippe Mateta tells Crystal Palace he wants to leave - sources
-**Slug (lower-third):** Jean-Philippe Mateta tells Crystal Palace he wants to lea…  
-**When:** 2026-01-21 14:57 (America/Winnipeg)  •  **Published:** 2026-01-21 20:57 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Jean-Philippe Mateta tells Crystal Palace he wants to leave - sources. France forward Jean-Philippe Mateta has told Crystal Palace he wants to leave the club, sources confirmed to ESPN. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- espn.com — Jean-Philippe Mateta tells Crystal Palace he wants to leave - sources. https://www.espn.com/soccer/story/_/id/47683751/jean-philippe-mateta-crystal-palace-transfer-juventus-aston-villa
-- bbc.com — Crystal Palace striker Jean-Philippe Mateta tells club he wants to leave. https://www.bbc.com/sport/football/articles/c62wn91w5geo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Newcastle v PSV Eindhoven: Yoane Wissa inspires after 'coming for these nights'
-**Slug (lower-third):** Newcastle v PSV Eindhoven: Yoane Wissa inspires after 'co…  
-**When:** 2026-01-21 18:24 (America/Winnipeg)  •  **Published:** 2026-01-22 00:24 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Newcastle v PSV Eindhoven: Yoane Wissa inspires after 'coming for these nights'. Eddie Howe says Yoane Wissa came to Newcastle "for these nights" after his first Champions League goal at St James' Park. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Newcastle v PSV Eindhoven: Yoane Wissa inspires after 'coming for these nights'. https://www.bbc.com/sport/football/articles/cy599yy9reyo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Deloitte Football Money League: Man Utd fall to lowest position with Liverpool the highest-earning PL club and Real Madrid top
-**Slug (lower-third):** Deloitte Football Money League: Man Utd fall to lowest po…  
-**When:** 2026-01-21 18:01 (America/Winnipeg)  •  **Published:** 2026-01-22 00:01 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~31s
-
-### Presenter Script (3–5 sentences)
-Deloitte Football Money League: Man Utd fall to lowest position with Liverpool the highest-earning PL club and Real Madrid top. Man Utd, who have topped the Money League in 10 of its 29 editions, have fallen to their lowest position of eighth; Liverpool are the highest-earning PL club for the first time in fifth; United are the fourth-placed PL club behind Liverpool, Man City and Arsenal; Real Madrid are top Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Deloitte Football Money League: Man Utd fall to lowest position with Liverpool the highest-earning PL club and Real Madrid top. https://www.skysports.com/football/news/12040/13497208/deloitte-football-money-league-man-utd-fall-to-lowest-position-with-liverpool-the-highest-earning-pl-club-and-real-madrid-top
+- bbc.com — Man Utd 2008 v Arsenal 2026 - who would win?. https://www.bbc.com/sport/football/articles/cz7ynd8w742o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
