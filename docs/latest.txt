@@ -1,79 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-22 06:55 (America/Winnipeg)  |  2026-01-22 12:55 (UTC)
+**Generated:** 2026-01-22 12:37 (America/Winnipeg)  |  2026-01-22 18:37 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 43s
+**Estimated total video length:** ~4m 30s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen, Tammy Abraham, Joshua Zirkee - the strikers who could move in the January window
-- Why are English teams dominating the Champions League? Football Weekly Extra - podcast
-- Premier League Darts 2026 schedule confirmed as Luke Littler handed Gian van Veen opener in Newcastle
-
----
-
-### Managerial Moves
-
-## Story 1: Everton's Kelly Gago 'free to go' if PSG offer APS500k release fee
-**Slug (lower-third):** Everton's Kelly Gago 'free to go' if PSG offer APS500k re…  
-**When:** 2026-01-22 04:26 (America/Winnipeg)  •  **Published:** 2026-01-22 10:26 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Everton's Kelly Gago 'free to go' if PSG offer APS500k release fee. Everton forward Kelly Gago "is free to go" if another club offers the release clause fee in her contract, says manager Brian Sorensen. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Everton's Kelly Gago 'free to go' if PSG offer APS500k release fee. https://www.bbc.com/sport/football/articles/c0jvv7w6ewvo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Champions League: Marseille 0-3 Liverpool
-**Slug (lower-third):** Champions League: Marseille 0-3 Liverpool  
-**When:** 2026-01-21 17:33 (America/Winnipeg)  •  **Published:** 2026-01-21 23:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Champions League: Marseille 0-3 Liverpool. Liverpool manager Arne Slot is proud of the mentality of his Liverpool side who "constantly show up", after they beat Olympique Marseille in the Champions League. Slot believes the Reds performance should not be compared to their last Premier League match against Burnley which was not their "standard". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League: Marseille 0-3 Liverpool. https://www.bbc.com/sport/football/videos/cdexxn99254o?at_medium=RSS&at_campaign=rss
-- skysports.com — Marseille 0-1 Liverpool: Dominik Szoboszlai's free-kick helps boost Champions League knockout hopes. https://www.skysports.com/football/marseille-vs-liverpool/report/548033
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Barrow man who sent abuse to Fulham's Rodrigo Muniz sentenced
+- Casemiro: Man Utd's Brazil midfielder to leave club this summer
+- Frank Lampard criticised as Southampton and Coventry are fined for end-of-match confrontation
 
 ---
 
 ### Transfers
 
-## Story 3: Transfer 360: Michael Carrick reveals big mistake in first Sir Alex Ferguson meeting!
-**Slug (lower-third):** Transfer 360: Michael Carrick reveals big mistake in firs…  
-**When:** 2026-01-22 04:48 (America/Winnipeg)  •  **Published:** 2026-01-22 10:48 (UTC)  
+## Story 1: Casemiro: Man Utd's Brazil midfielder to leave club this summer
+**Slug (lower-third):** Casemiro: Man Utd's Brazil midfielder to leave club this …  
+**When:** 2026-01-22 11:42 (America/Winnipeg)  •  **Published:** 2026-01-22 17:42 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Transfer 360: Michael Carrick reveals big mistake in first Sir Alex Ferguson meeting!. Speaking on Transfer 360, Michael Carrick recalls one of his very first conversation with Sir Alex Ferguson after signing for Manchester United. Implications for the squad and table.
+Casemiro: Man Utd's Brazil midfielder to leave club this summer. Manchester United say midfielder Casemiro will leave the club when his contract expires at the end of this season. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -82,7 +31,7 @@ Transfer 360: Michael Carrick reveals big mistake in first Sir Alex Ferguson mee
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Transfer 360: Michael Carrick reveals big mistake in first Sir Alex Ferguson meeting!. https://www.skysports.com/watch/video/13497524/transfer-360-michael-carrick-reveals-big-mistake-in-first-sir-alex-ferguson-meeting
+- bbc.com — Casemiro: Man Utd's Brazil midfielder to leave club this summer. https://www.bbc.com/sport/football/articles/cgm44x9j3epo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -91,13 +40,13 @@ Transfer 360: Michael Carrick reveals big mistake in first Sir Alex Ferguson mee
 
 ---
 
-## Story 4: Football transfer rumours: Real Madrid leading race to sign Adam Wharton?
-**Slug (lower-third):** Football transfer rumours: Real Madrid leading race to si…  
-**When:** 2026-01-22 03:39 (America/Winnipeg)  •  **Published:** 2026-01-22 09:39 (UTC)  
+## Story 2: Casemiro to leave Manchester United in summer, Chelsea want Douglas Luiz
+**Slug (lower-third):** Casemiro to leave Manchester United in summer, Chelsea wa…  
+**When:** 2026-01-22 10:57 (America/Winnipeg)  •  **Published:** 2026-01-22 16:57 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football transfer rumours: Real Madrid leading race to sign Adam Wharton?. Forest to move for Tsimikas? | Manchester United target Sadiki? | MLS on the radar for Lewandowski? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Casemiro to leave Manchester United in summer, Chelsea want Douglas Luiz. Casemiro will leave Manchester United when his contract expires in the summer, the club have confirmed Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,7 +55,31 @@ Football transfer rumours: Real Madrid leading race to sign Adam Wharton?. Fores
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football transfer rumours: Real Madrid leading race to sign Adam Wharton?. https://www.theguardian.com/football/2026/jan/22/football-transfer-rumours-real-madrid-leading-race-to-sign-adam-wharton
+- theguardian.com — Casemiro to leave Manchester United in summer, Chelsea want Douglas Luiz. https://www.theguardian.com/football/2026/jan/22/casemiro-to-leave-manchester-united
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Micky van de Ven: Tottenham defender will not be allowed to leave with club planning new contract talks
+**Slug (lower-third):** Micky van de Ven: Tottenham defender will not be allowed …  
+**When:** 2026-01-22 10:19 (America/Winnipeg)  •  **Published:** 2026-01-22 16:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
+
+### Presenter Script (3–5 sentences)
+Micky van de Ven: Tottenham defender will not be allowed to leave with club planning new contract talks. Tottenham have no plans to allow Micky van de Vens exit; Van de Ven has three-and-a-half years left on his contract; Spurs intention is to sit down with Dutchmans representatives to discuss an improved contract; Spurs boss Thomas Frank insists Van de Ven is happy at the club Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Micky van de Ven: Tottenham defender will not be allowed to leave with club planning new contract talks. https://www.skysports.com/football/news/12040/13497700/micky-van-de-ven-tottenham-defender-will-not-be-allowed-to-leave-with-club-planning-new-contract-talks
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -117,13 +90,13 @@ Football transfer rumours: Real Madrid leading race to sign Adam Wharton?. Fores
 
 ### Injuries
 
-## Story 5: Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen, Tammy Abraham, Joshua Zirkee - the strikers who could move in the January window
-**Slug (lower-third):** Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen…  
-**When:** 2026-01-22 06:15 (America/Winnipeg)  •  **Published:** 2026-01-22 12:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~31s
+## Story 4: 'We are cursed': Thomas Frank fears Bergvall faces long injury layoff for Tottenham
+**Slug (lower-third):** 'We are cursed': Thomas Frank fears Bergvall faces long i…  
+**When:** 2026-01-22 11:40 (America/Winnipeg)  •  **Published:** 2026-01-22 17:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen, Tammy Abraham, Joshua Zirkee - the strikers who could move in the January window. Strikers are hot property in the transfer market and Sky Sports News has identified eight forwards who could move in the final days of the window; Jean-Philippe Mateta wants to leave Crystal Palace, Tammy Abraham could return to England, while Jorgen Strand Larsen is back in the headlines Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+'We are cursed': Thomas Frank fears Bergvall faces long injury layoff for Tottenham. Thomas Frank feels Tottenham are 'cursed' with injuries after confirming Lucas Bergvall is facing an extended period on the sidelines Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,7 +105,7 @@ Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen, Tammy Abraham, Joshua
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen, Tammy Abraham, Joshua Zirkee - the strikers who could move in the January window. https://www.skysports.com/football/news/12040/13497534/transfer-news-jean-philippe-mateta-jorgen-strand-larsen-tammy-abraham-joshua-zirkee-the-strikers-who-could-move-in-the-january-window
+- theguardian.com — 'We are cursed': Thomas Frank fears Bergvall faces long injury layoff for Tottenham. https://www.theguardian.com/football/2026/jan/22/tottenham-thomas-frank-lucas-bergvall-injury-curse
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,13 +114,15 @@ Transfer news: Jean-Philippe Mateta, Jorgen Strand Larsen, Tammy Abraham, Joshua
 
 ---
 
-## Story 6: Premier League Darts 2026 schedule confirmed as Luke Littler handed Gian van Veen opener in Newcastle
-**Slug (lower-third):** Premier League Darts 2026 schedule confirmed as Luke Litt…  
-**When:** 2026-01-22 06:05 (America/Winnipeg)  •  **Published:** 2026-01-22 12:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+### League & Regulation
+
+## Story 5: Barrow man who sent abuse to Fulham's Rodrigo Muniz sentenced
+**Slug (lower-third):** Barrow man who sent abuse to Fulham's Rodrigo Muniz sente…  
+**When:** 2026-01-22 11:48 (America/Winnipeg)  •  **Published:** 2026-01-22 17:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League Darts 2026 schedule confirmed as Luke Littler handed Gian van Veen opener in Newcastle. Complete fixtures schedule for 2026 Premier League Darts season, with Luke Humphries looking to defend his title after beating Luke Littler 11-8 in 2025 final; World Darts runner-up Gian van Veen and Josh Rock make their Premier League debuts, with Jonny Clayton also returning for 2026 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Barrow man who sent abuse to Fulham's Rodrigo Muniz sentenced. Harry Brown receives a football banning order after sending abuse online to Fulham's Rodrigo Muniz. Disciplinary outcome could affect availability.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,7 +131,7 @@ Premier League Darts 2026 schedule confirmed as Luke Littler handed Gian van Vee
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League Darts 2026 schedule confirmed as Luke Littler handed Gian van Veen opener in Newcastle. https://www.skysports.com/darts/news/12040/13497577/premier-league-darts-2026-schedule-confirmed-as-luke-littler-handed-gian-van-veen-opener-in-newcastle
+- bbc.com — Barrow man who sent abuse to Fulham's Rodrigo Muniz sentenced. https://www.bbc.com/news/articles/ckgjjy3e4l7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +142,13 @@ Premier League Darts 2026 schedule confirmed as Luke Littler handed Gian van Vee
 
 ### Club Updates
 
-## Story 7: Why are English teams dominating the Champions League? Football Weekly Extra - podcast
-**Slug (lower-third):** Why are English teams dominating the Champions League? Fo…  
-**When:** 2026-01-22 06:13 (America/Winnipeg)  •  **Published:** 2026-01-22 12:13 (UTC)  
+## Story 6: Frank Lampard criticised as Southampton and Coventry are fined for end-of-match confrontation
+**Slug (lower-third):** Frank Lampard criticised as Southampton and Coventry are …  
+**When:** 2026-01-22 11:42 (America/Winnipeg)  •  **Published:** 2026-01-22 17:42 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Why are English teams dominating the Champions League? Football Weekly Extra - podcast. Max Rushden is joined by Jonathan Liew, Lars Sivertsen and Paul Watson to discuss Premier League teams' success in the Champions League so far this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Frank Lampard criticised as Southampton and Coventry are fined for end-of-match confrontation. Disciplinary officials criticise Coventry boss Frank Lampard over an on-field melee at Southampton after fining both Championship clubs. Disciplinary outcome could affect availability.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +157,7 @@ Why are English teams dominating the Champions League? Football Weekly Extra - p
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Why are English teams dominating the Champions League? Football Weekly Extra - podcast. https://www.theguardian.com/football/audio/2026/jan/22/why-are-english-teams-dominating-the-champions-league-football-weekly-extra-podcast
+- bbc.com — Frank Lampard criticised as Southampton and Coventry are fined for end-of-match confrontation. https://www.bbc.com/sport/football/articles/crlee2d2rrlo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +166,13 @@ Why are English teams dominating the Champions League? Football Weekly Extra - p
 
 ---
 
-## Story 8: Manchester United: Michael Carrick's side have 'second chance' to prove Champions League credentials - Reporter Notebook
-**Slug (lower-third):** Manchester United: Michael Carrick's side have 'second ch…  
-**When:** 2026-01-22 06:00 (America/Winnipeg)  •  **Published:** 2026-01-22 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
+## Story 7: Nottingham Forest: Sean Dyche closing in on Napoli striker Lorenzo Lucca
+**Slug (lower-third):** Nottingham Forest: Sean Dyche closing in on Napoli strike…  
+**When:** 2026-01-22 11:08 (America/Winnipeg)  •  **Published:** 2026-01-22 17:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: Michael Carrick's side have 'second chance' to prove Champions League credentials - Reporter Notebook. Man Utd have another chance to cement their Champions League credentials after stunning derby victory; Michael Carricks side sit fifth in the Premier League; watch Arsenal vs Man Utd on Sky Sports Main Event from 4pm on Super Sunday, kick-off 4.30pm Relevance to standings and momentum.
+Nottingham Forest: Sean Dyche closing in on Napoli striker Lorenzo Lucca. Nottingham Forest are closing in on the signing of Napoli striker Lorenzo Lucca. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +181,7 @@ Manchester United: Michael Carrick's side have 'second chance' to prove Champion
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Manchester United: Michael Carrick's side have 'second chance' to prove Champions League credentials - Reporter Notebook. https://www.skysports.com/football/news/12040/13497184/manchester-united-red-devils-have-second-chance-to-prove-their-champions-league-credentials-reporter-notebook
+- bbc.com — Nottingham Forest: Sean Dyche closing in on Napoli striker Lorenzo Lucca. https://www.bbc.com/sport/football/articles/c1m7730nzlpo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +190,13 @@ Manchester United: Michael Carrick's side have 'second chance' to prove Champion
 
 ---
 
-## Story 9: Southampton's Leo Scienza: 'I am in the most difficult league in the world. It's a bloodbath'
-**Slug (lower-third):** Southampton's Leo Scienza: 'I am in the most difficult le…  
-**When:** 2026-01-22 04:09 (America/Winnipeg)  •  **Published:** 2026-01-22 10:09 (UTC)  
+## Story 8: Football Daily | Manchester United the TV show? Bring on the Battle of the Buffet
+**Slug (lower-third):** Football Daily | Manchester United the TV show? Bring on …  
+**When:** 2026-01-22 10:46 (America/Winnipeg)  •  **Published:** 2026-01-22 16:46 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Southampton's Leo Scienza: 'I am in the most difficult league in the world. It's a bloodbath'. Brazilian endured hard times in the Swedish fifth tier after his father's death but has found a home in the Championship Relevance to standings and momentum.
+Football Daily | Manchester United the TV show? Bring on the Battle of the Buffet. In today's Football Daily: Manchester United to get the small-screen treatment? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,7 +205,7 @@ Southampton's Leo Scienza: 'I am in the most difficult league in the world. It's
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Southampton's Leo Scienza: 'I am in the most difficult league in the world. It's a bloodbath'. https://www.theguardian.com/football/2026/jan/22/southampton-leo-scienza-championship-interview-brazilian-sweden
+- theguardian.com — Football Daily | Manchester United the TV show? Bring on the Battle of the Buffet. https://www.theguardian.com/football/2026/jan/22/football-daily-email-manchester-united-tv-show
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -239,13 +214,13 @@ Southampton's Leo Scienza: 'I am in the most difficult league in the world. It's
 
 ---
 
-## Story 10: Man Utd 2008 v Arsenal 2026 - who would win?
-**Slug (lower-third):** Man Utd 2008 v Arsenal 2026 - who would win?  
-**When:** 2026-01-22 03:44 (America/Winnipeg)  •  **Published:** 2026-01-22 09:44 (UTC)  
+## Story 9: Premier League predictions: Chris Sutton v 'Roy Keane' - Saipan star Aanna Hardwicke - and AI
+**Slug (lower-third):** Premier League predictions: Chris Sutton v 'Roy Keane' - …  
+**When:** 2026-01-22 10:44 (America/Winnipeg)  •  **Published:** 2026-01-22 16:44 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd 2008 v Arsenal 2026 - who would win?. After being challenged by Theo Walcott, Wayne Rooney said the Manchester United side of 2008 would "batter" the current Arsenal team. Relevance to standings and momentum.
+Premier League predictions: Chris Sutton v 'Roy Keane' - Saipan star Aanna Hardwicke - and AI. BBC Sport football expert Chris Sutton takes on actor Aanna Hardwicke, who plays Roy Keane in the new film Saipan - and AI - with his predictions for this week's Premier League fixtures. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -254,7 +229,31 @@ Man Utd 2008 v Arsenal 2026 - who would win?. After being challenged by Theo Wal
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man Utd 2008 v Arsenal 2026 - who would win?. https://www.bbc.com/sport/football/articles/cz7ynd8w742o?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League predictions: Chris Sutton v 'Roy Keane' - Saipan star Aanna Hardwicke - and AI. https://www.bbc.com/sport/football/articles/cn8j42l594mo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Champions League review: Bodo/Glimt stun again as McKennie leads a Juve revival
+**Slug (lower-third):** Champions League review: Bodo/Glimt stun again as McKenni…  
+**When:** 2026-01-22 10:43 (America/Winnipeg)  •  **Published:** 2026-01-22 16:43 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Champions League review: Bodo/Glimt stun again as McKennie leads a Juve revival. Arsenal remained on top of the Champions League on the penultimate matchday of the group phase, which also featured a targeted Jude Bellingham celebration Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Champions League review: Bodo/Glimt stun again as McKennie leads a Juve revival. https://www.theguardian.com/football/2026/jan/22/champions-league-bodo-glimt-juventus-weston-mckennie-arsenal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
