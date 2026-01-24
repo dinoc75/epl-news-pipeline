@@ -1,78 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-24 06:45 (America/Winnipeg)  |  2026-01-24 12:45 (UTC)
+**Generated:** 2026-01-24 12:33 (America/Winnipeg)  |  2026-01-24 18:33 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 26s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Howe looks to teenage talent Miley for Newcastle's critical duel with Aston Villa
-- T20 World Cup: Scotland handed last-minute spot after Bangladesh removed by ICC over refusal to play matches in India
-- Talk of Arsenal being champions-elect 'takes focus to wrong place', says Arteta
+- West Ham United 'clear the rot' and have rivals 'looking over their shoulders'
+- Farai Hallam makes 'brave' call to deny Man City penalty against Wolves
+- Manchester City 2-0 Wolves: Pep Guardiola post-match interview and reaction
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Liam Rosenior exclusive interview: Chelsea head coach on feeling 'at home' despite living in a hotel
-**Slug (lower-third):** Liam Rosenior exclusive interview: Chelsea head coach on …  
-**When:** 2026-01-24 04:00 (America/Winnipeg)  •  **Published:** 2026-01-24 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Liam Rosenior exclusive interview: Chelsea head coach on feeling 'at home' despite living in a hotel. Liam Rosenior sits down with Sky Sports News Gail Davis to analyse a whirlwind start to life as Chelsea boss; watch Crystal Palace vs Chelsea live on Sky Sports Premier League from 1pm on Sunday; kick-off 2pm Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Liam Rosenior exclusive interview: Chelsea head coach on feeling 'at home' despite living in a hotel. https://www.skysports.com/football/news/12040/13498079/liam-rosenior-exclusive-interview-chelsea-head-coach-on-feeling-at-home-despite-living-in-a-hotel
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Oliver Glasner calls Palace truce with Parish: 'We stick together, we work hard'
-**Slug (lower-third):** Oliver Glasner calls Palace truce with Parish: 'We stick …  
-**When:** 2026-01-24 02:00 (America/Winnipeg)  •  **Published:** 2026-01-24 08:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Oliver Glasner calls Palace truce with Parish: 'We stick together, we work hard'. Manager keen to finish season strongly after accusing Crystal Palace chair of abandoning him and the squad by selling Marc Guehi to Manchester City Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Oliver Glasner calls Palace truce with Parish: 'We stick together, we work hard'. https://www.theguardian.com/football/2026/jan/24/oliver-glasner-truce-steve-parish-crystal-palace
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 3: Trevoh Chalobah's resurgence is proof Chelsea can look within for answers | Jacob Steinberg
-**Slug (lower-third):** Trevoh Chalobah's resurgence is proof Chelsea can look wi…  
-**When:** 2026-01-24 04:00 (America/Winnipeg)  •  **Published:** 2026-01-24 10:00 (UTC)  
+## Story 1: Burnley 2-2 Tottenham: Thomas Frank post match interview and reaction
+**Slug (lower-third):** Burnley 2-2 Tottenham: Thomas Frank post match interview …  
+**When:** 2026-01-24 11:38 (America/Winnipeg)  •  **Published:** 2026-01-24 17:38 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Trevoh Chalobah's resurgence is proof Chelsea can look within for answers | Jacob Steinberg. Form of former Crystal Palace loanee has been huge plus amid fan unrest at relentless recruitment of young players Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Burnley 2-2 Tottenham: Thomas Frank post match interview and reaction. Tottenham Hotspur manager Thomas Frank says his side did "more than enough" to win the game but "did not defend well enough" as they drew 2-2 with Burnley at Turf Moor. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,31 +31,7 @@ Trevoh Chalobah's resurgence is proof Chelsea can look within for answers | Jaco
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Trevoh Chalobah's resurgence is proof Chelsea can look within for answers | Jacob Steinberg. https://www.theguardian.com/football/2026/jan/24/trevoh-chalobah-resurgence-is-proof-chelsea-can-look-within-for-answers
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Joao Palhinha on Tottenham's woes, coaching influences & international glory
-**Slug (lower-third):** Joao Palhinha on Tottenham's woes, coaching influences & …  
-**When:** 2026-01-24 00:21 (America/Winnipeg)  •  **Published:** 2026-01-24 06:21 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Joao Palhinha on Tottenham's woes, coaching influences & international glory. On-loan Tottenham midfielder Joao Palhinha chats to BBC Sport's Kelly Somers about his life and career. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Joao Palhinha on Tottenham's woes, coaching influences & international glory. https://www.bbc.com/sport/football/articles/c62ww08l0n6o?at_medium=RSS&at_campaign=rss
+- bbc.com — Burnley 2-2 Tottenham: Thomas Frank post match interview and reaction. https://www.bbc.com/sport/football/videos/cdxj5xdxlpro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +42,13 @@ Joao Palhinha on Tottenham's woes, coaching influences & international glory. On
 
 ### Injuries
 
-## Story 5: Ben Davies: Tottenham defender undergoes second ankle operation
-**Slug (lower-third):** Ben Davies: Tottenham defender undergoes second ankle ope…  
-**When:** 2026-01-24 04:36 (America/Winnipeg)  •  **Published:** 2026-01-24 10:36 (UTC)  
+## Story 2: Wilson stunner snatches last-gasp victory for Fulham to punish Brighton
+**Slug (lower-third):** Wilson stunner snatches last-gasp victory for Fulham to p…  
+**When:** 2026-01-24 11:18 (America/Winnipeg)  •  **Published:** 2026-01-24 17:18 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ben Davies: Tottenham defender undergoes second ankle operation. Tottenham defender Ben Davies has undergone a second operation on a broken ankle and is a doubt for the World Cup should Wales qualify. Relevance to standings and momentum.
+Wilson stunner snatches last-gasp victory for Fulham to punish Brighton. Harry Wilson snatched an injury-time winner for Fulham with an inspired free-kick in their 2-1 comeback victory against Brighton Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,57 +57,7 @@ Ben Davies: Tottenham defender undergoes second ankle operation. Tottenham defen
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Ben Davies: Tottenham defender undergoes second ankle operation. https://www.bbc.com/sport/football/articles/c93vjdkv74do?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Joao Palhinha: Tottenham midfielder discusses Spurs' poor form
-**Slug (lower-third):** Joao Palhinha: Tottenham midfielder discusses Spurs' poor…  
-**When:** 2026-01-24 00:15 (America/Winnipeg)  •  **Published:** 2026-01-24 06:15 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Joao Palhinha: Tottenham midfielder discusses Spurs' poor form. Tottenham Hotspur midfielder Joao Palhinha talks to Kelly Somers about returning to the Premier League, and why he is not worried about their poor form. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Joao Palhinha: Tottenham midfielder discusses Spurs' poor form. https://www.bbc.com/sport/football/videos/c05001dm152o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 7: T20 World Cup: Scotland handed last-minute spot after Bangladesh removed by ICC over refusal to play matches in India
-**Slug (lower-third):** T20 World Cup: Scotland handed last-minute spot after Ban…  
-**When:** 2026-01-24 06:00 (America/Winnipeg)  •  **Published:** 2026-01-24 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-T20 World Cup: Scotland handed last-minute spot after Bangladesh removed by ICC over refusal to play matches in India. Scotland will be handed a last-minute place in the ICC Mens T20 World Cup, replacing Bangladesh in next month's tournament in India and Sri Lanka, Sky Sports News understands. Disciplinary outcome could affect availability.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — T20 World Cup: Scotland handed last-minute spot after Bangladesh removed by ICC over refusal to play matches in India. https://www.skysports.com/cricket/news/12040/13498315/t20-world-cup-scotland-handed-last-minute-spot-after-bangladesh-removed-by-icc-over-refusal-to-play-matches-in-india
+- theguardian.com — Wilson stunner snatches last-gasp victory for Fulham to punish Brighton. https://www.theguardian.com/football/2026/jan/24/fulham-brighton-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -192,13 +68,13 @@ T20 World Cup: Scotland handed last-minute spot after Bangladesh removed by ICC 
 
 ### Club Updates
 
-## Story 8: Howe looks to teenage talent Miley for Newcastle's critical duel with Aston Villa
-**Slug (lower-third):** Howe looks to teenage talent Miley for Newcastle's critic…  
-**When:** 2026-01-24 06:00 (America/Winnipeg)  •  **Published:** 2026-01-24 12:00 (UTC)  
+## Story 3: West Ham United 'clear the rot' and have rivals 'looking over their shoulders'
+**Slug (lower-third):** West Ham United 'clear the rot' and have rivals 'looking …  
+**When:** 2026-01-24 12:10 (America/Winnipeg)  •  **Published:** 2026-01-24 18:10 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Howe looks to teenage talent Miley for Newcastle's critical duel with Aston Villa. If Bruno Guimaraes is out, the 19-year-old should get his chance in midfield for game that could decide Champions League spot Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+West Ham United 'clear the rot' and have rivals 'looking over their shoulders'. Back-to-back Premier League wins have taken West Ham United to within two points of 17th. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -207,7 +83,7 @@ Howe looks to teenage talent Miley for Newcastle's critical duel with Aston Vill
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Howe looks to teenage talent Miley for Newcastle's critical duel with Aston Villa. https://www.theguardian.com/football/2026/jan/24/eddie-howe-lewis-miley-newcastle-critical-champions-league-aston-villa
+- bbc.com — West Ham United 'clear the rot' and have rivals 'looking over their shoulders'. https://www.bbc.com/sport/football/articles/cpdy88wlwpjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -216,13 +92,13 @@ Howe looks to teenage talent Miley for Newcastle's critical duel with Aston Vill
 
 ---
 
-## Story 9: Talk of Arsenal being champions-elect 'takes focus to wrong place', says Arteta
-**Slug (lower-third):** Talk of Arsenal being champions-elect 'takes focus to wro…  
-**When:** 2026-01-24 04:50 (America/Winnipeg)  •  **Published:** 2026-01-24 10:50 (UTC)  
+## Story 4: Farai Hallam makes 'brave' call to deny Man City penalty against Wolves
+**Slug (lower-third):** Farai Hallam makes 'brave' call to deny Man City penalty …  
+**When:** 2026-01-24 12:07 (America/Winnipeg)  •  **Published:** 2026-01-24 18:07 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Talk of Arsenal being champions-elect 'takes focus to wrong place', says Arteta. Mikel Arteta said no one has more desire to win Premier League than him but warned his Arsenal players against losing focus on the task at hand Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Farai Hallam makes 'brave' call to deny Man City penalty against Wolves. Referee Farai Hallam was praised for choosing not to award Manchester City a penalty against Wolves on his Premier League debut. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -231,7 +107,7 @@ Talk of Arsenal being champions-elect 'takes focus to wrong place', says Arteta.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Talk of Arsenal being champions-elect 'takes focus to wrong place', says Arteta. https://www.theguardian.com/football/2026/jan/24/arsenal-mikel-arteta-premier-league-manchester-united
+- bbc.com — Farai Hallam makes 'brave' call to deny Man City penalty against Wolves. https://www.bbc.com/sport/football/articles/c4g477krp2go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -240,13 +116,13 @@ Talk of Arsenal being champions-elect 'takes focus to wrong place', says Arteta.
 
 ---
 
-## Story 10: Today on Sky Sports Racing: Doncaster, Lingfield, Newcastle and Uttoxeter
-**Slug (lower-third):** Today on Sky Sports Racing: Doncaster, Lingfield, Newcast…  
-**When:** 2026-01-24 01:00 (America/Winnipeg)  •  **Published:** 2026-01-24 07:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~21s
+## Story 5: Manchester City 2-0 Wolves: Pep Guardiola post-match interview and reaction
+**Slug (lower-third):** Manchester City 2-0 Wolves: Pep Guardiola post-match inte…  
+**When:** 2026-01-24 12:06 (America/Winnipeg)  •  **Published:** 2026-01-24 18:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Doncaster, Lingfield, Newcastle and Uttoxeter. The ultra-progressive Deep Cave faces a highly competitive field in his bid to complete the four-timer in the Great Yorkshire Chase at Doncaster. We also have a Raceday Preview featuring special guests ahead of our domestic action, live on Sky Sports Racing from 9.30am Relevance to standings and momentum.
+Manchester City 2-0 Wolves: Pep Guardiola post-match interview and reaction. Manchester City boss Pep Guardiola is really pleased with how new signing Marc Guehi played on his debut for his new team in their 2-0 win over Wolves. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -255,7 +131,127 @@ Today on Sky Sports Racing: Doncaster, Lingfield, Newcastle and Uttoxeter. The u
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Doncaster, Lingfield, Newcastle and Uttoxeter. https://www.skysports.com/racing/news/12040/13497678/today-on-sky-sports-racing-doncaster-lingfield-newcastle-and-uttoxeter
+- bbc.com — Manchester City 2-0 Wolves: Pep Guardiola post-match interview and reaction. https://www.bbc.com/sport/football/videos/c86vg6n7lzjo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Noah Caluori scores four tries as Saracens overwhelm Newcastle 73-14 in Gallagher Prem clash at StoneX Stadium
+**Slug (lower-third):** Noah Caluori scores four tries as Saracens overwhelm Newc…  
+**When:** 2026-01-24 11:47 (America/Winnipeg)  •  **Published:** 2026-01-24 17:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Noah Caluori scores four tries as Saracens overwhelm Newcastle 73-14 in Gallagher Prem clash at StoneX Stadium. Saracens conclude a turbulent week by hammering Newcastle 73-14 at StoneX Stadium; teenage star Noah Caluori scores four tries for Saracens; Caluori was not named in the England squad but put in a player-of-the-match performance; Leicester hand Harlequins a 36-7 home defeat Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Noah Caluori scores four tries as Saracens overwhelm Newcastle 73-14 in Gallagher Prem clash at StoneX Stadium. https://www.skysports.com/rugby-union/news/12040/13498587/noah-caluori-scores-four-tries-as-saracens-overwhelm-newcastle-73-14-in-gallagher-prem-clash-at-stonex-stadium
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Burnley 2-2 Tottenham Hotspur | Premier League highlights
+**Slug (lower-third):** Burnley 2-2 Tottenham Hotspur | Premier League highlights  
+**When:** 2026-01-24 11:36 (America/Winnipeg)  •  **Published:** 2026-01-24 17:36 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Burnley 2-2 Tottenham Hotspur | Premier League highlights. FREE TO WATCH: Highlights from Burnley's match against Tottenham Hotspur in the Premier League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Burnley 2-2 Tottenham Hotspur | Premier League highlights. https://www.skysports.com/watch/video/13498571/burnley-2-2-tottenham-hotspur-premier-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Manchester City get back on track against Wolves despite VAR handball rarity
+**Slug (lower-third):** Manchester City get back on track against Wolves despite …  
+**When:** 2026-01-24 11:31 (America/Winnipeg)  •  **Published:** 2026-01-24 17:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City get back on track against Wolves despite VAR handball rarity. Omar Marmoush and Antoine Semenyo scored the goals as Manchester City ended their Premier League wobble with a 2-0 win over Wolves Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Manchester City get back on track against Wolves despite VAR handball rarity. https://www.theguardian.com/football/2026/jan/24/manchester-city-wolves-premier-league-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Premier League predictions: Chris Sutton v 'Roy Keane' - Saipan star Aanna Hardwicke - and AI
+**Slug (lower-third):** Premier League predictions: Chris Sutton v 'Roy Keane' - …  
+**When:** 2026-01-24 11:21 (America/Winnipeg)  •  **Published:** 2026-01-24 17:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League predictions: Chris Sutton v 'Roy Keane' - Saipan star Aanna Hardwicke - and AI. BBC Sport football expert Chris Sutton takes on actor Aanna Hardwicke, who plays Roy Keane in the new film Saipan - and AI - with his predictions for this week's Premier League fixtures. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League predictions: Chris Sutton v 'Roy Keane' - Saipan star Aanna Hardwicke - and AI. https://www.bbc.com/sport/football/articles/cn8j42l594mo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Burnley 2-2 Tottenham: Cristian Romero's last-gasp goal spares under-pressure Spurs boss Thomas Frank's blushes
+**Slug (lower-third):** Burnley 2-2 Tottenham: Cristian Romero's last-gasp goal s…  
+**When:** 2026-01-24 11:15 (America/Winnipeg)  •  **Published:** 2026-01-24 17:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Burnley 2-2 Tottenham: Cristian Romero's last-gasp goal spares under-pressure Spurs boss Thomas Frank's blushes. Cristian Romero's 90th-minute equaliser spared under-pressure Tottenham boss Thomas Frank an embarrassing defeat at second-bottom Burnley as the defender's header snatched a 2-2 draw. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Burnley 2-2 Tottenham: Cristian Romero's last-gasp goal spares under-pressure Spurs boss Thomas Frank's blushes. https://www.skysports.com/football/burnley-vs-tottenham-hotspur/report/531352
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
