@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-25 06:47 (America/Winnipeg)  |  2026-01-25 12:47 (UTC)
+**Generated:** 2026-01-25 12:33 (America/Winnipeg)  |  2026-01-25 18:33 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 22s
+**Estimated total video length:** ~3m 20s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Fulham make APS28m bid to sign PSV striker Ricardo Pepi
-- Virgil van Dijk wants 'very important' Andy Robertson to stay at Liverpool
-- WSL FREE STREAMS: Watch Aston Villa vs Man Utd, Leicester vs West Ham and Liverpool vs Tottenham Hotspur
+- Arsenal vs Man United: Matheus Cunha puts Man Utd ahead again with brilliant strike!
+- Manchester United: Matheus Cunha breaks Arsenal hearts with dramatic late winner
+- Liam Rosenior: Chelsea manager continues positive start
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Tony Pulis column: Why Carrick's coaches are more than just 'a bunch of his mates'
-**Slug (lower-third):** Tony Pulis column: Why Carrick's coaches are more than ju…  
-**When:** 2026-01-25 01:54 (America/Winnipeg)  •  **Published:** 2026-01-25 07:54 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 1: Liam Rosenior: Chelsea manager continues positive start
+**Slug (lower-third):** Liam Rosenior: Chelsea manager continues positive start  
+**When:** 2026-01-25 12:09 (America/Winnipeg)  •  **Published:** 2026-01-25 18:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tony Pulis column: Why Carrick's coaches are more than just 'a bunch of his mates'. In his BBC Sport column, ex-Premier League boss Tony Pulis explains the thinking behind Michael Carrick's backroom staff appointments at Manchester United, and what a manager wants from those roles. Relevance to standings and momentum.
+Liam Rosenior: Chelsea manager continues positive start. Liam Rosenior has started well at Chelsea and it bodes well for the future amid ambitions to qualify for the Champions League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Tony Pulis column: Why Carrick's coaches are more than just 'a bunch of his mate
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tony Pulis column: Why Carrick's coaches are more than just 'a bunch of his mates'. https://www.bbc.com/sport/football/articles/cd7zrp8v3qgo?at_medium=RSS&at_campaign=rss
+- bbc.com — Liam Rosenior: Chelsea manager continues positive start. https://www.bbc.com/sport/football/articles/cx2yw86ep6eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Tony Pulis column: Why Carrick's coaches are more than just 'a bunch of his mate
 
 ---
 
-## Story 2: Newcastle vs Aston Villa: Eddie Howe out to 'upset the status quo'
-**Slug (lower-third):** Newcastle vs Aston Villa: Eddie Howe out to 'upset the st…  
-**When:** 2026-01-24 16:33 (America/Winnipeg)  •  **Published:** 2026-01-24 22:33 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 2: Marti Cifuentes: Leicester City sack manager after just six months in charge
+**Slug (lower-third):** Marti Cifuentes: Leicester City sack manager after just s…  
+**When:** 2026-01-25 10:58 (America/Winnipeg)  •  **Published:** 2026-01-25 16:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle vs Aston Villa: Eddie Howe out to 'upset the status quo'. Head coach Eddie Howe believes Newcastle United can still achieve "great things" despite financial restrictions as his side look to upset the league's status quo. Relevance to standings and momentum.
+Marti Cifuentes: Leicester City sack manager after just six months in charge. Marti Cifuentes is sacked as Leicester City manager after just six months in charge with the Foxes in the bottom half of the Championship. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,31 @@ Newcastle vs Aston Villa: Eddie Howe out to 'upset the status quo'. Head coach E
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Newcastle vs Aston Villa: Eddie Howe out to 'upset the status quo'. https://www.bbc.com/sport/football/articles/c8rmm7k8y57o?at_medium=RSS&at_campaign=rss
+- bbc.com — Marti Cifuentes: Leicester City sack manager after just six months in charge. https://www.bbc.com/sport/football/articles/cjezj5y0yw9o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Leicester City sack Marti Cifuentes after dropping to 14th in Championship
+**Slug (lower-third):** Leicester City sack Marti Cifuentes after dropping to 14t…  
+**When:** 2026-01-25 10:21 (America/Winnipeg)  •  **Published:** 2026-01-25 16:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Leicester City sack Marti Cifuentes after dropping to 14th in Championship. Marti Cifuentes has been sacked as manager after Leicester dropped to 14th in the Championship with Saturday's home defeat by Oxford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Leicester City sack Marti Cifuentes after dropping to 14th in Championship. https://www.theguardian.com/football/2026/jan/25/leicester-city-on-brink-of-sacking-marti-cifuentes-winless-run-oxford-united
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +90,13 @@ Newcastle vs Aston Villa: Eddie Howe out to 'upset the status quo'. Head coach E
 
 ### Club Updates
 
-## Story 3: Fulham make APS28m bid to sign PSV striker Ricardo Pepi
-**Slug (lower-third):** Fulham make APS28m bid to sign PSV striker Ricardo Pepi  
-**When:** 2026-01-25 06:17 (America/Winnipeg)  •  **Published:** 2026-01-25 12:17 (UTC)  
+## Story 4: Arsenal vs Man United: Matheus Cunha puts Man Utd ahead again with brilliant strike!
+**Slug (lower-third):** Arsenal vs Man United: Matheus Cunha puts Man Utd ahead a…  
+**When:** 2026-01-25 12:21 (America/Winnipeg)  •  **Published:** 2026-01-25 18:21 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham make APS28m bid to sign PSV striker Ricardo Pepi. Fulham make a APS28m bid to sign United States forward Ricardo Pepi from Dutch club PSV Eindhoven. Relevance to standings and momentum.
+Arsenal vs Man United: Matheus Cunha puts Man Utd ahead again with brilliant strike!. Matheus Cunha scores a brilliant goal for Manchester United to put them 3-2 up in their Premier League clash with Arsenal. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +105,7 @@ Fulham make APS28m bid to sign PSV striker Ricardo Pepi. Fulham make a APS28m bi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Fulham make APS28m bid to sign PSV striker Ricardo Pepi. https://www.bbc.com/sport/football/articles/cdx4kyr41k3o?at_medium=RSS&at_campaign=rss
+- skysports.com — Arsenal vs Man United: Matheus Cunha puts Man Utd ahead again with brilliant strike!. https://www.skysports.com/watch/video/13498971/goal-m-cunha-87-arsenal-2-3-manchester-utd
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +114,13 @@ Fulham make APS28m bid to sign PSV striker Ricardo Pepi. Fulham make a APS28m bi
 
 ---
 
-## Story 4: Virgil van Dijk wants 'very important' Andy Robertson to stay at Liverpool
-**Slug (lower-third):** Virgil van Dijk wants 'very important' Andy Robertson to …  
-**When:** 2026-01-25 06:02 (America/Winnipeg)  •  **Published:** 2026-01-25 12:02 (UTC)  
+## Story 5: Manchester United: Matheus Cunha breaks Arsenal hearts with dramatic late winner
+**Slug (lower-third):** Manchester United: Matheus Cunha breaks Arsenal hearts wi…  
+**When:** 2026-01-25 12:20 (America/Winnipeg)  •  **Published:** 2026-01-25 18:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Virgil van Dijk wants 'very important' Andy Robertson to stay at Liverpool. Liverpool captain Virgil van Dijk says he wants Andy Robertson, who is a target for Tottenham, to stay at the club as he remains a "very important" member of the squad. Relevance to standings and momentum.
+Manchester United: Matheus Cunha breaks Arsenal hearts with dramatic late winner. Matheus Cunhas superb strike saw Manchester United snatch a dramatic 3-2 win at Arsenal. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +129,7 @@ Virgil van Dijk wants 'very important' Andy Robertson to stay at Liverpool. Live
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Virgil van Dijk wants 'very important' Andy Robertson to stay at Liverpool. https://www.bbc.com/sport/football/articles/c07x0nrg7lyo?at_medium=RSS&at_campaign=rss
+- skysports.com — Manchester United: Matheus Cunha breaks Arsenal hearts with dramatic late winner. https://www.skysports.com/watch/video/13498970/manchester-united-matheus-cunha-breaks-arsenal-hearts-with-dramatic-late-winner
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,37 +138,13 @@ Virgil van Dijk wants 'very important' Andy Robertson to stay at Liverpool. Live
 
 ---
 
-## Story 5: WSL FREE STREAMS: Watch Aston Villa vs Man Utd, Leicester vs West Ham and Liverpool vs Tottenham Hotspur
-**Slug (lower-third):** WSL FREE STREAMS: Watch Aston Villa vs Man Utd, Leicester…  
-**When:** 2026-01-25 05:45 (America/Winnipeg)  •  **Published:** 2026-01-25 11:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-WSL FREE STREAMS: Watch Aston Villa vs Man Utd, Leicester vs West Ham and Liverpool vs Tottenham Hotspur. Watch Aston Villa vs Man Utd, Leicester vs West Ham and Liverpool vs Tottenham Hotspur via free live streams below; London City Lionesses vs Man City is available on Sky Sports Football; all matches kick off at 11.55am Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — WSL FREE STREAMS: Watch Aston Villa vs Man Utd, Leicester vs West Ham and Liverpool vs Tottenham Hotspur. https://www.skysports.com/football/news/12040/13497994/wsl-free-streams-watch-aston-villa-vs-man-utd-leicester-vs-west-ham-and-liverpool-vs-tottenham-hotspur
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Eberechi Eze: Arsenal APS67m buy now battling to get minutes
-**Slug (lower-third):** Eberechi Eze: Arsenal APS67m buy now battling to get minu…  
-**When:** 2026-01-25 03:35 (America/Winnipeg)  •  **Published:** 2026-01-25 09:35 (UTC)  
+## Story 6: WSL highlights: Aston Villa 1-4 Manchester United
+**Slug (lower-third):** WSL highlights: Aston Villa 1-4 Manchester United  
+**When:** 2026-01-25 11:57 (America/Winnipeg)  •  **Published:** 2026-01-25 17:57 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Eberechi Eze: Arsenal APS67m buy now battling to get minutes. Arsenal spent a lot of money to sign Eberechi Eze in August - but his Premier League game time has dropped off of late. BBC Sport examines why. Relevance to standings and momentum.
+WSL highlights: Aston Villa 1-4 Manchester United. Julia Zigiotti Olme scores straight from a corner to give Manchester United the lead at Aston Villa - and the visitors go on to win 4-1. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +153,7 @@ Eberechi Eze: Arsenal APS67m buy now battling to get minutes. Arsenal spent a lo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Eberechi Eze: Arsenal APS67m buy now battling to get minutes. https://www.bbc.com/sport/football/articles/c3eddezjq71o?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL highlights: Aston Villa 1-4 Manchester United. https://www.bbc.com/sport/football/videos/cvgp0njxqy1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +162,13 @@ Eberechi Eze: Arsenal APS67m buy now battling to get minutes. Arsenal spent a lo
 
 ---
 
-## Story 7: Denise O'Sullivan on new Liverpool challenge
-**Slug (lower-third):** Denise O'Sullivan on new Liverpool challenge  
-**When:** 2026-01-25 01:49 (America/Winnipeg)  •  **Published:** 2026-01-25 07:49 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 7: WSL highlights: London City Lionesses 1-2 Manchester City
+**Slug (lower-third):** WSL highlights: London City Lionesses 1-2 Manchester City  
+**When:** 2026-01-25 11:54 (America/Winnipeg)  •  **Published:** 2026-01-25 17:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Denise O'Sullivan on new Liverpool challenge. It was an "emotional" decision by Denise O'Sullivan to leave North Carolina Courage but the challenge at Liverpool was an exciting one. Relevance to standings and momentum.
+WSL highlights: London City Lionesses 1-2 Manchester City. A late goal from Women's Super League top scorer Khadija Shaw gives Manchester City victory against London City Lionesses, sending them nine points clear at the top. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +177,7 @@ Denise O'Sullivan on new Liverpool challenge. It was an "emotional" decision by 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Denise O'Sullivan on new Liverpool challenge. https://www.bbc.com/sport/football/articles/c701kj7p757o?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL highlights: London City Lionesses 1-2 Manchester City. https://www.bbc.com/sport/football/videos/c17zvdp4dwqo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +186,13 @@ Denise O'Sullivan on new Liverpool challenge. It was an "emotional" decision by 
 
 ---
 
-## Story 8: Nottingham Forest: Have they got value for APS180m summer spend?
-**Slug (lower-third):** Nottingham Forest: Have they got value for APS180m summer…  
-**When:** 2026-01-25 00:42 (America/Winnipeg)  •  **Published:** 2026-01-25 06:42 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 8: Man City 'got job done' - so is Women's Super League title race over?
+**Slug (lower-third):** Man City 'got job done' - so is Women's Super League titl…  
+**When:** 2026-01-25 10:57 (America/Winnipeg)  •  **Published:** 2026-01-25 16:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest: Have they got value for APS180m summer spend?. Despite spending about APS180m on summer signings Nottingham Forest are 17th in the Premier League - did they get value for money? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Man City 'got job done' - so is Women's Super League title race over?. Manchester City capitalised on Chelsea's defeat to open up a nine-point lead at the top of the Women's Super League. Is the title race over? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +201,7 @@ Nottingham Forest: Have they got value for APS180m summer spend?. Despite spendi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Nottingham Forest: Have they got value for APS180m summer spend?. https://www.bbc.com/sport/football/articles/cy055rxz5dro?at_medium=RSS&at_campaign=rss
+- bbc.com — Man City 'got job done' - so is Women's Super League title race over?. https://www.bbc.com/sport/football/articles/c2k935n12wwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +210,13 @@ Nottingham Forest: Have they got value for APS180m summer spend?. Despite spendi
 
 ---
 
-## Story 9: Farai Hallam makes 'brave' call to deny Man City penalty against Wolves
-**Slug (lower-third):** Farai Hallam makes 'brave' call to deny Man City penalty …  
-**When:** 2026-01-24 18:00 (America/Winnipeg)  •  **Published:** 2026-01-25 00:00 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 9: Igor Jesus and Awoniyi sink Brentford to ease Forest away from relegation danger
+**Slug (lower-third):** Igor Jesus and Awoniyi sink Brentford to ease Forest away…  
+**When:** 2026-01-25 10:23 (America/Winnipeg)  •  **Published:** 2026-01-25 16:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Farai Hallam makes 'brave' call to deny Man City penalty against Wolves. Referee Farai Hallam was praised for choosing not to award Manchester City a penalty against Wolves on his Premier League debut. Relevance to standings and momentum.
+Igor Jesus and Awoniyi sink Brentford to ease Forest away from relegation danger. Igor Jesus and Taiwo Awoniyi - the latter with his first goal since being in a coma - helped Nottingham Forest to a 2-0 win at Brentford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +225,7 @@ Farai Hallam makes 'brave' call to deny Man City penalty against Wolves. Referee
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Farai Hallam makes 'brave' call to deny Man City penalty against Wolves. https://www.bbc.com/sport/football/articles/c4g477krp2go?at_medium=RSS&at_campaign=rss
+- theguardian.com — Igor Jesus and Awoniyi sink Brentford to ease Forest away from relegation danger. https://www.theguardian.com/football/2026/jan/25/brentford-nottingham-forest-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +234,13 @@ Farai Hallam makes 'brave' call to deny Man City penalty against Wolves. Referee
 
 ---
 
-## Story 10: Bournemouth 3-2 Liverpool: Arne Slot's side lose long unbeaten run
-**Slug (lower-third):** Bournemouth 3-2 Liverpool: Arne Slot's side lose long unb…  
-**When:** 2026-01-24 16:48 (America/Winnipeg)  •  **Published:** 2026-01-24 22:48 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 10: Buendia and Watkins stun Newcastle to keep Aston Villa's title hopes alive
+**Slug (lower-third):** Buendia and Watkins stun Newcastle to keep Aston Villa's …  
+**When:** 2026-01-25 10:17 (America/Winnipeg)  •  **Published:** 2026-01-25 16:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bournemouth 3-2 Liverpool: Arne Slot's side lose long unbeaten run. Liverpool's struggles can no longer be hidden by their long unbeaten run after their last-gasp defeat at Bournemouth, writes Aadam Patel. Relevance to standings and momentum.
+Buendia and Watkins stun Newcastle to keep Aston Villa's title hopes alive. Emi Buendia scored with a curling, dipping shot in the first half and Ollie Watkins made sure of the points as Aston Villa beat Newcastle 2-0 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +249,7 @@ Bournemouth 3-2 Liverpool: Arne Slot's side lose long unbeaten run. Liverpool's 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Bournemouth 3-2 Liverpool: Arne Slot's side lose long unbeaten run. https://www.bbc.com/sport/football/articles/c338j0dzgx1o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Buendia and Watkins stun Newcastle to keep Aston Villa's title hopes alive. https://www.theguardian.com/football/2026/jan/25/newcastle-aston-villa-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
