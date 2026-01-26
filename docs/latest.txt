@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-25 12:33 (America/Winnipeg)  |  2026-01-25 18:33 (UTC)
+**Generated:** 2026-01-25 20:03 (America/Winnipeg)  |  2026-01-26 02:03 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 20s
@@ -8,21 +8,21 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arsenal vs Man United: Matheus Cunha puts Man Utd ahead again with brilliant strike!
-- Manchester United: Matheus Cunha breaks Arsenal hearts with dramatic late winner
-- Liam Rosenior: Chelsea manager continues positive start
+- Danny Murphy column: 'Another unbelievable result' - what is different about Man Utd now?
+- Michael Carrick makes case for Man Utd job after perfect start
+- Liverpool: Andy Robertson unlikely to join Tottenham during January transfer window
 
 ---
 
-### Managerial Moves
+### Transfers
 
-## Story 1: Liam Rosenior: Chelsea manager continues positive start
-**Slug (lower-third):** Liam Rosenior: Chelsea manager continues positive start  
-**When:** 2026-01-25 12:09 (America/Winnipeg)  •  **Published:** 2026-01-25 18:09 (UTC)  
+## Story 1: Danny Murphy column: 'Another unbelievable result' - what is different about Man Utd now?
+**Slug (lower-third):** Danny Murphy column: 'Another unbelievable result' - what…  
+**When:** 2026-01-25 17:26 (America/Winnipeg)  •  **Published:** 2026-01-25 23:26 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liam Rosenior: Chelsea manager continues positive start. Liam Rosenior has started well at Chelsea and it bodes well for the future amid ambitions to qualify for the Champions League. Relevance to standings and momentum.
+Danny Murphy column: 'Another unbelievable result' - what is different about Man Utd now?. MOTD pundit Danny Murphy explains how Manchester United earned their impressive win at Premier League leaders Arsenal, and how he feels the Gunners will react. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Liam Rosenior: Chelsea manager continues positive start. Liam Rosenior has start
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liam Rosenior: Chelsea manager continues positive start. https://www.bbc.com/sport/football/articles/cx2yw86ep6eo?at_medium=RSS&at_campaign=rss
+- bbc.com — Danny Murphy column: 'Another unbelievable result' - what is different about Man Utd now?. https://www.bbc.com/sport/football/articles/c62vk5l68x3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Liam Rosenior: Chelsea manager continues positive start. Liam Rosenior has start
 
 ---
 
-## Story 2: Marti Cifuentes: Leicester City sack manager after just six months in charge
-**Slug (lower-third):** Marti Cifuentes: Leicester City sack manager after just s…  
-**When:** 2026-01-25 10:58 (America/Winnipeg)  •  **Published:** 2026-01-25 16:58 (UTC)  
+## Story 2: Liverpool: Andy Robertson unlikely to join Tottenham during January transfer window
+**Slug (lower-third):** Liverpool: Andy Robertson unlikely to join Tottenham duri…  
+**When:** 2026-01-25 16:19 (America/Winnipeg)  •  **Published:** 2026-01-25 22:19 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Marti Cifuentes: Leicester City sack manager after just six months in charge. Marti Cifuentes is sacked as Leicester City manager after just six months in charge with the Foxes in the bottom half of the Championship. Relevance to standings and momentum.
+Liverpool: Andy Robertson unlikely to join Tottenham during January transfer window. Liverpool left-back Andy Robertson looks set to remain at Anfield after the Reds decide they are currently unable to proceed with a deal to sell him to Tottenham. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Marti Cifuentes: Leicester City sack manager after just six months in charge. Ma
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Marti Cifuentes: Leicester City sack manager after just six months in charge. https://www.bbc.com/sport/football/articles/cjezj5y0yw9o?at_medium=RSS&at_campaign=rss
+- bbc.com — Liverpool: Andy Robertson unlikely to join Tottenham during January transfer window. https://www.bbc.com/sport/football/articles/c6205841mngo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +64,13 @@ Marti Cifuentes: Leicester City sack manager after just six months in charge. Ma
 
 ---
 
-## Story 3: Leicester City sack Marti Cifuentes after dropping to 14th in Championship
-**Slug (lower-third):** Leicester City sack Marti Cifuentes after dropping to 14t…  
-**When:** 2026-01-25 10:21 (America/Winnipeg)  •  **Published:** 2026-01-25 16:21 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 3: Football gossip: Alexander-Arnold, Rayan, Alonso, Anselmino, Meite
+**Slug (lower-third):** Football gossip: Alexander-Arnold, Rayan, Alonso, Anselmi…  
+**When:** 2026-01-25 15:40 (America/Winnipeg)  •  **Published:** 2026-01-25 21:40 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leicester City sack Marti Cifuentes after dropping to 14th in Championship. Marti Cifuentes has been sacked as manager after Leicester dropped to 14th in the Championship with Saturday's home defeat by Oxford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Alexander-Arnold, Rayan, Alonso, Anselmino, Meite. Manchester City are keeping tabs on Trent Alexander-Arnold, Liverpool get positive response after approaching Xabi Alonso, Chelsea recall Aaron Anselmino from Borussia Dortmund loan, plus more. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +79,31 @@ Leicester City sack Marti Cifuentes after dropping to 14th in Championship. Mart
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Leicester City sack Marti Cifuentes after dropping to 14th in Championship. https://www.theguardian.com/football/2026/jan/25/leicester-city-on-brink-of-sacking-marti-cifuentes-winless-run-oxford-united
+- bbc.com — Football gossip: Alexander-Arnold, Rayan, Alonso, Anselmino, Meite. https://www.bbc.com/sport/football/articles/cn0yw87wyggo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Lucas Paqueta edges towards West Ham exit after PS35.8m Flamengo bid
+**Slug (lower-third):** Lucas Paqueta edges towards West Ham exit after PS35.8m F…  
+**When:** 2026-01-25 15:16 (America/Winnipeg)  •  **Published:** 2026-01-25 21:16 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Lucas Paqueta edges towards West Ham exit after PS35.8m Flamengo bid. The Brazilian club have made a PS35.8m offer for the 28-year-old, with the sale potentially allowing for further transfer spending Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Lucas Paqueta edges towards West Ham exit after PS35.8m Flamengo bid. https://www.theguardian.com/football/2026/jan/25/lucas-paqueta-edges-towards-west-ham-exit-flamengo-transfer-window
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +114,13 @@ Leicester City sack Marti Cifuentes after dropping to 14th in Championship. Mart
 
 ### Club Updates
 
-## Story 4: Arsenal vs Man United: Matheus Cunha puts Man Utd ahead again with brilliant strike!
-**Slug (lower-third):** Arsenal vs Man United: Matheus Cunha puts Man Utd ahead a…  
-**When:** 2026-01-25 12:21 (America/Winnipeg)  •  **Published:** 2026-01-25 18:21 (UTC)  
+## Story 5: Michael Carrick makes case for Man Utd job after perfect start
+**Slug (lower-third):** Michael Carrick makes case for Man Utd job after perfect …  
+**When:** 2026-01-25 16:41 (America/Winnipeg)  •  **Published:** 2026-01-25 22:41 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal vs Man United: Matheus Cunha puts Man Utd ahead again with brilliant strike!. Matheus Cunha scores a brilliant goal for Manchester United to put them 3-2 up in their Premier League clash with Arsenal. Relevance to standings and momentum.
+Michael Carrick makes case for Man Utd job after perfect start. As Michael Carrick's perfect start at Manchester United continues, is he building a case for the job longer term? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +129,7 @@ Arsenal vs Man United: Matheus Cunha puts Man Utd ahead again with brilliant str
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal vs Man United: Matheus Cunha puts Man Utd ahead again with brilliant strike!. https://www.skysports.com/watch/video/13498971/goal-m-cunha-87-arsenal-2-3-manchester-utd
+- bbc.com — Michael Carrick makes case for Man Utd job after perfect start. https://www.bbc.com/sport/football/articles/cdxjdk4rk1xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +138,13 @@ Arsenal vs Man United: Matheus Cunha puts Man Utd ahead again with brilliant str
 
 ---
 
-## Story 5: Manchester United: Matheus Cunha breaks Arsenal hearts with dramatic late winner
-**Slug (lower-third):** Manchester United: Matheus Cunha breaks Arsenal hearts wi…  
-**When:** 2026-01-25 12:20 (America/Winnipeg)  •  **Published:** 2026-01-25 18:20 (UTC)  
+## Story 6: Premier League Highlights: Arsenal 2-3 Man United
+**Slug (lower-third):** Premier League Highlights: Arsenal 2-3 Man United  
+**When:** 2026-01-25 14:00 (America/Winnipeg)  •  **Published:** 2026-01-25 20:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: Matheus Cunha breaks Arsenal hearts with dramatic late winner. Matheus Cunhas superb strike saw Manchester United snatch a dramatic 3-2 win at Arsenal. Relevance to standings and momentum.
+Premier League Highlights: Arsenal 2-3 Man United. Two sensational second-half strikes give Manchester United a huge win that takes them above Chelsea and Liverpool into fourth. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +153,8 @@ Manchester United: Matheus Cunha breaks Arsenal hearts with dramatic late winner
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Manchester United: Matheus Cunha breaks Arsenal hearts with dramatic late winner. https://www.skysports.com/watch/video/13498970/manchester-united-matheus-cunha-breaks-arsenal-hearts-with-dramatic-late-winner
+- bbc.com — Premier League Highlights: Arsenal 2-3 Man United. https://www.bbc.com/sport/football/videos/c3wz3x78d29o?at_medium=RSS&at_campaign=rss
+- skysports.com — Arsenal 2-3 Man Utd | Premier League highlights. https://www.skysports.com/watch/video/13498986/arsenal-2-3-man-utd-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +163,13 @@ Manchester United: Matheus Cunha breaks Arsenal hearts with dramatic late winner
 
 ---
 
-## Story 6: WSL highlights: Aston Villa 1-4 Manchester United
-**Slug (lower-third):** WSL highlights: Aston Villa 1-4 Manchester United  
-**When:** 2026-01-25 11:57 (America/Winnipeg)  •  **Published:** 2026-01-25 17:57 (UTC)  
+## Story 7: Premier League highlights: Newcastle 0-2 Aston Villa
+**Slug (lower-third):** Premier League highlights: Newcastle 0-2 Aston Villa  
+**When:** 2026-01-25 14:00 (America/Winnipeg)  •  **Published:** 2026-01-25 20:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL highlights: Aston Villa 1-4 Manchester United. Julia Zigiotti Olme scores straight from a corner to give Manchester United the lead at Aston Villa - and the visitors go on to win 4-1. Relevance to standings and momentum.
+Premier League highlights: Newcastle 0-2 Aston Villa. Emiliano Buendia and Ollie Watkins both score as high-flying Aston Villa end their long wait for a St James' Park victory against Newcastle United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +178,8 @@ WSL highlights: Aston Villa 1-4 Manchester United. Julia Zigiotti Olme scores st
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL highlights: Aston Villa 1-4 Manchester United. https://www.bbc.com/sport/football/videos/cvgp0njxqy1o?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League highlights: Newcastle 0-2 Aston Villa. https://www.bbc.com/sport/football/videos/ckgke865j00o?at_medium=RSS&at_campaign=rss
+- skysports.com — Newcastle 0-2 Aston Villa | Premier League highlights. https://www.skysports.com/watch/video/13498893/newcastle-0-2-aston-villa-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +188,13 @@ WSL highlights: Aston Villa 1-4 Manchester United. Julia Zigiotti Olme scores st
 
 ---
 
-## Story 7: WSL highlights: London City Lionesses 1-2 Manchester City
-**Slug (lower-third):** WSL highlights: London City Lionesses 1-2 Manchester City  
-**When:** 2026-01-25 11:54 (America/Winnipeg)  •  **Published:** 2026-01-25 17:54 (UTC)  
+## Story 8: Premier League highlights: Crystal Palace 1-3 Chelsea
+**Slug (lower-third):** Premier League highlights: Crystal Palace 1-3 Chelsea  
+**When:** 2026-01-25 13:59 (America/Winnipeg)  •  **Published:** 2026-01-25 19:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL highlights: London City Lionesses 1-2 Manchester City. A late goal from Women's Super League top scorer Khadija Shaw gives Manchester City victory against London City Lionesses, sending them nine points clear at the top. Relevance to standings and momentum.
+Premier League highlights: Crystal Palace 1-3 Chelsea. Estevao Willian replaces the injured Cole Palmer to inspire Chelsea to a comfortable win over Crystal Palace at Selhurst Park. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +203,8 @@ WSL highlights: London City Lionesses 1-2 Manchester City. A late goal from Wome
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL highlights: London City Lionesses 1-2 Manchester City. https://www.bbc.com/sport/football/videos/c17zvdp4dwqo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League highlights: Crystal Palace 1-3 Chelsea. https://www.bbc.com/sport/football/videos/c78vl6zx3wpo?at_medium=RSS&at_campaign=rss
+- skysports.com — Crystal Palace 1-3 Chelsea | Premier League highlights. https://www.skysports.com/watch/video/13498900/crystal-palace-1-3-chelsea-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +213,13 @@ WSL highlights: London City Lionesses 1-2 Manchester City. A late goal from Wome
 
 ---
 
-## Story 8: Man City 'got job done' - so is Women's Super League title race over?
-**Slug (lower-third):** Man City 'got job done' - so is Women's Super League titl…  
-**When:** 2026-01-25 10:57 (America/Winnipeg)  •  **Published:** 2026-01-25 16:57 (UTC)  
+## Story 9: Premier League Highlights: Brentford 0-2 Nottingham Forest
+**Slug (lower-third):** Premier League Highlights: Brentford 0-2 Nottingham Forest  
+**When:** 2026-01-25 13:59 (America/Winnipeg)  •  **Published:** 2026-01-25 19:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City 'got job done' - so is Women's Super League title race over?. Manchester City capitalised on Chelsea's defeat to open up a nine-point lead at the top of the Women's Super League. Is the title race over? Relevance to standings and momentum.
+Premier League Highlights: Brentford 0-2 Nottingham Forest. Nottingham Forest gave their hopes of Premier League survival a major boost with a hard-fought win against Brentford at Gtech Community Stadium. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +228,8 @@ Man City 'got job done' - so is Women's Super League title race over?. Mancheste
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man City 'got job done' - so is Women's Super League title race over?. https://www.bbc.com/sport/football/articles/c2k935n12wwo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League Highlights: Brentford 0-2 Nottingham Forest. https://www.bbc.com/sport/football/videos/cy4g177ew37o?at_medium=RSS&at_campaign=rss
+- skysports.com — Brentford 0-2 Nottingham Forest | Premier League highlights. https://www.skysports.com/watch/video/13498898/brentford-0-2-nottingham-forest-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +238,13 @@ Man City 'got job done' - so is Women's Super League title race over?. Mancheste
 
 ---
 
-## Story 9: Igor Jesus and Awoniyi sink Brentford to ease Forest away from relegation danger
-**Slug (lower-third):** Igor Jesus and Awoniyi sink Brentford to ease Forest away…  
-**When:** 2026-01-25 10:23 (America/Winnipeg)  •  **Published:** 2026-01-25 16:23 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Bruno Guimaraes: Why can't Newcastle win without Brazilian?
+**Slug (lower-third):** Bruno Guimaraes: Why can't Newcastle win without Brazilia…  
+**When:** 2026-01-25 14:01 (America/Winnipeg)  •  **Published:** 2026-01-25 20:01 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Igor Jesus and Awoniyi sink Brentford to ease Forest away from relegation danger. Igor Jesus and Taiwo Awoniyi - the latter with his first goal since being in a coma - helped Nottingham Forest to a 2-0 win at Brentford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Bruno Guimaraes: Why can't Newcastle win without Brazilian?. Newcastle United have yet to win a league game without Bruno Guimaraes since he made his debut for the club in 2022. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,31 +253,7 @@ Igor Jesus and Awoniyi sink Brentford to ease Forest away from relegation danger
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Igor Jesus and Awoniyi sink Brentford to ease Forest away from relegation danger. https://www.theguardian.com/football/2026/jan/25/brentford-nottingham-forest-premier-league-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Buendia and Watkins stun Newcastle to keep Aston Villa's title hopes alive
-**Slug (lower-third):** Buendia and Watkins stun Newcastle to keep Aston Villa's …  
-**When:** 2026-01-25 10:17 (America/Winnipeg)  •  **Published:** 2026-01-25 16:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Buendia and Watkins stun Newcastle to keep Aston Villa's title hopes alive. Emi Buendia scored with a curling, dipping shot in the first half and Ollie Watkins made sure of the points as Aston Villa beat Newcastle 2-0 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Buendia and Watkins stun Newcastle to keep Aston Villa's title hopes alive. https://www.theguardian.com/football/2026/jan/25/newcastle-aston-villa-premier-league-match-report
+- bbc.com — Bruno Guimaraes: Why can't Newcastle win without Brazilian?. https://www.bbc.com/sport/football/articles/czejxd0p7e7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
