@@ -1,28 +1,78 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-26 00:41 (America/Winnipeg)  |  2026-01-26 06:41 (UTC)
+**Generated:** 2026-01-26 06:54 (America/Winnipeg)  |  2026-01-26 12:54 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~4m 32s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Wayne Rooney: Manchester United have taken 'step' towards glory years formula under Michael Carrick
-- The Wayne Rooney Show - Man Utd Beat Arsenal! Did Arteta PANIC? And Wayne's PJs 'MARE! - BBC Sounds
-- Today on Sky Sports Racing: Ambiente Friendly looks to thrive over hurdles at Plumpton with Hereford and Wolverhampton also live on Monday
+- Marti Cifuentes: How Spanish boss ran out of time at Leicester City
+- West Ham verbally agree deal for Flamengo to buy Lucas Paqueta
+- Premier League: Was Chelsea's penalty at Crystal Palace a VAR error?
+
+---
+
+### Managerial Moves
+
+## Story 1: Marti Cifuentes: How Spanish boss ran out of time at Leicester City
+**Slug (lower-third):** Marti Cifuentes: How Spanish boss ran out of time at Leic…  
+**When:** 2026-01-26 06:36 (America/Winnipeg)  •  **Published:** 2026-01-26 12:36 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Marti Cifuentes: How Spanish boss ran out of time at Leicester City. BBC Sport looks at how Marti Cifuentes' time in charge of Leicester unravelled within hours of owner Khun Aiyawatt 'Top' Srivaddhanaprabha appearing to back the manager. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Marti Cifuentes: How Spanish boss ran out of time at Leicester City. https://www.bbc.com/sport/football/articles/cq6vjjjlr2do?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: EFL stories: Wondergoals, Spurs kids & being signed six times by the same manager
+**Slug (lower-third):** EFL stories: Wondergoals, Spurs kids & being signed six t…  
+**When:** 2026-01-26 04:00 (America/Winnipeg)  •  **Published:** 2026-01-26 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+EFL stories: Wondergoals, Spurs kids & being signed six times by the same manager. Sky Sports+ brings you every League One and League Two game on Tuesday night | Here are some stories from the EFL - Barnsleys Reyes Cleary, Lincoln Citys Reeco Hackett, Gillinghams Sam Gale, Notts Countys Spurs loanee Tyrese Hall and Colchester Uniteds Harry Anderson Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — EFL stories: Wondergoals, Spurs kids & being signed six times by the same manager. https://www.skysports.com/football/news/12040/13499152/efl-stories-wondergoals-spurs-kids-being-signed-six-times-by-the-same-manager
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Transfers
 
-## Story 1: Liverpool: Andy Robertson unlikely to join Tottenham during January transfer window
-**Slug (lower-third):** Liverpool: Andy Robertson unlikely to join Tottenham duri…  
-**When:** 2026-01-25 16:19 (America/Winnipeg)  •  **Published:** 2026-01-25 22:19 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 3: West Ham verbally agree deal for Flamengo to buy Lucas Paqueta
+**Slug (lower-third):** West Ham verbally agree deal for Flamengo to buy Lucas Pa…  
+**When:** 2026-01-26 06:32 (America/Winnipeg)  •  **Published:** 2026-01-26 12:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool: Andy Robertson unlikely to join Tottenham during January transfer window. Liverpool left-back Andy Robertson looks set to remain at Anfield after the Reds decide they are currently unable to proceed with a deal to sell him to Tottenham. Implications for the squad and table.
+West Ham verbally agree deal for Flamengo to buy Lucas Paqueta. Flamengo have verbally agreed a deal with West Ham to buy Lucas Paqueta without having to loan back the Brazil international Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +81,7 @@ Liverpool: Andy Robertson unlikely to join Tottenham during January transfer win
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool: Andy Robertson unlikely to join Tottenham during January transfer window. https://www.bbc.com/sport/football/articles/c6205841mngo?at_medium=RSS&at_campaign=rss
+- theguardian.com — West Ham verbally agree deal for Flamengo to buy Lucas Paqueta. https://www.theguardian.com/football/2026/jan/25/lucas-paqueta-edges-towards-west-ham-exit-flamengo-transfer-window
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +90,13 @@ Liverpool: Andy Robertson unlikely to join Tottenham during January transfer win
 
 ---
 
-## Story 2: Football gossip: Alexander-Arnold, Rayan, Alonso, Anselmino, Meite
-**Slug (lower-third):** Football gossip: Alexander-Arnold, Rayan, Alonso, Anselmi…  
-**When:** 2026-01-25 15:40 (America/Winnipeg)  •  **Published:** 2026-01-25 21:40 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 4: Liverpool pull out of talks with Spurs over Andy Robertson transfer
+**Slug (lower-third):** Liverpool pull out of talks with Spurs over Andy Robertso…  
+**When:** 2026-01-26 05:10 (America/Winnipeg)  •  **Published:** 2026-01-26 11:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Alexander-Arnold, Rayan, Alonso, Anselmino, Meite. Manchester City are keeping tabs on Trent Alexander-Arnold, Liverpool get positive response after approaching Xabi Alonso, Chelsea recall Aaron Anselmino from Borussia Dortmund loan, plus more. Implications for the squad and table.
+Liverpool pull out of talks with Spurs over Andy Robertson transfer. Andy Robertson, whose current contract at Liverpool ends in June, had not asked for a move and the club have pulled out of talks with Tottenham Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +105,7 @@ Football gossip: Alexander-Arnold, Rayan, Alonso, Anselmino, Meite. Manchester C
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Alexander-Arnold, Rayan, Alonso, Anselmino, Meite. https://www.bbc.com/sport/football/articles/cn0yw87wyggo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Liverpool pull out of talks with Spurs over Andy Robertson transfer. https://www.theguardian.com/football/2026/jan/26/liverpool-pull-out-andrew-robertson-transfer-talks-spurs
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +114,13 @@ Football gossip: Alexander-Arnold, Rayan, Alonso, Anselmino, Meite. Manchester C
 
 ---
 
-## Story 3: Lucas Paqueta edges towards West Ham exit after PS35.8m Flamengo bid
-**Slug (lower-third):** Lucas Paqueta edges towards West Ham exit after PS35.8m F…  
-**When:** 2026-01-25 15:16 (America/Winnipeg)  •  **Published:** 2026-01-25 21:16 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 5: Who could move on before Premier League transfer deadline?
+**Slug (lower-third):** Who could move on before Premier League transfer deadline?  
+**When:** 2026-01-26 04:57 (America/Winnipeg)  •  **Published:** 2026-01-26 10:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Lucas Paqueta edges towards West Ham exit after PS35.8m Flamengo bid. The Brazilian club have made a PS35.8m offer for the 28-year-old, with the sale potentially allowing for further transfer spending Implications for the squad and table.
+Who could move on before Premier League transfer deadline?. BBC Sport looks at some of the players that have been linked with moves before the Premier League transfer deadline on 2 February at 19:00 GMT. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +129,33 @@ Lucas Paqueta edges towards West Ham exit after PS35.8m Flamengo bid. The Brazil
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Lucas Paqueta edges towards West Ham exit after PS35.8m Flamengo bid. https://www.theguardian.com/football/2026/jan/25/lucas-paqueta-edges-towards-west-ham-exit-flamengo-transfer-window
+- bbc.com — Who could move on before Premier League transfer deadline?. https://www.bbc.com/sport/football/articles/c98pp7zd9d0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 6: Heading ball 'likely' contributed to Gordon McQueen's brain injury, coroner finds
+**Slug (lower-third):** Heading ball 'likely' contributed to Gordon McQueen's bra…  
+**When:** 2026-01-26 06:22 (America/Winnipeg)  •  **Published:** 2026-01-26 12:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Heading ball 'likely' contributed to Gordon McQueen's brain injury, coroner finds. Former Scotland defender, who played for Manchester United and Leeds during a 16-year career, died at his home in 2023, aged 70 Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Heading ball 'likely' contributed to Gordon McQueen's brain injury, coroner finds. https://www.theguardian.com/football/2026/jan/26/heading-ball-likely-contributed-to-gordon-mcqueen-brain-injury-coroner-finds
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +166,13 @@ Lucas Paqueta edges towards West Ham exit after PS35.8m Flamengo bid. The Brazil
 
 ### Club Updates
 
-## Story 4: Wayne Rooney: Manchester United have taken 'step' towards glory years formula under Michael Carrick
-**Slug (lower-third):** Wayne Rooney: Manchester United have taken 'step' towards…  
-**When:** 2026-01-26 00:18 (America/Winnipeg)  •  **Published:** 2026-01-26 06:18 (UTC)  
+## Story 7: Premier League: Was Chelsea's penalty at Crystal Palace a VAR error?
+**Slug (lower-third):** Premier League: Was Chelsea's penalty at Crystal Palace a…  
+**When:** 2026-01-26 06:30 (America/Winnipeg)  •  **Published:** 2026-01-26 12:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wayne Rooney: Manchester United have taken 'step' towards glory years formula under Michael Carrick. Manchester United have taken a "step" towards getting the club back to where it was in their glory days, says former captain and record goalscorer Wayne Rooney. Relevance to standings and momentum.
+Premier League: Was Chelsea's penalty at Crystal Palace a VAR error?. Jaydee Canvot blocked Joao Pedro's goal-bound shot with his arm and a penalty was awarded after a VAR intervention - but was it the right decision? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +181,7 @@ Wayne Rooney: Manchester United have taken 'step' towards glory years formula un
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Wayne Rooney: Manchester United have taken 'step' towards glory years formula under Michael Carrick. https://www.bbc.com/sport/football/articles/cm2y9663gmqo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League: Was Chelsea's penalty at Crystal Palace a VAR error?. https://www.bbc.com/sport/football/articles/cj3v77nmz8eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +190,13 @@ Wayne Rooney: Manchester United have taken 'step' towards glory years formula un
 
 ---
 
-## Story 5: The Wayne Rooney Show - Man Utd Beat Arsenal! Did Arteta PANIC? And Wayne's PJs 'MARE! - BBC Sounds
-**Slug (lower-third):** The Wayne Rooney Show - Man Utd Beat Arsenal! Did Arteta …  
-**When:** 2026-01-26 00:00 (America/Winnipeg)  •  **Published:** 2026-01-26 06:00 (UTC)  
+## Story 8: Scotland to face Ivory Coast at Everton's Hill Dickinson Stadium
+**Slug (lower-third):** Scotland to face Ivory Coast at Everton's Hill Dickinson …  
+**When:** 2026-01-26 06:01 (America/Winnipeg)  •  **Published:** 2026-01-26 12:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-The Wayne Rooney Show - Man Utd Beat Arsenal! Did Arteta PANIC? And Wayne's PJs 'MARE! - BBC Sounds. Wayne Rooney chats about Man Utd's 3-2 win at Arsenal. Relevance to standings and momentum.
+Scotland to face Ivory Coast at Everton's Hill Dickinson Stadium. Steve Clarke's Scotland will face Ivory Coast for the first time at Everton's Hill Dickinson Stadium on 31 March as part of their World Cup preparations. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +205,8 @@ The Wayne Rooney Show - Man Utd Beat Arsenal! Did Arteta PANIC? And Wayne's PJs 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — The Wayne Rooney Show - Man Utd Beat Arsenal! Did Arteta PANIC? And Wayne's PJs 'MARE! - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0mtpx10?at_medium=RSS&at_campaign=rss
+- bbc.com — Scotland to face Ivory Coast at Everton's Hill Dickinson Stadium. https://www.bbc.com/sport/football/articles/c0lxe2wjk48o?at_medium=RSS&at_campaign=rss
+- skysports.com — Scotland to face Ivory Coast in World Cup warm-up game at Everton's Hill Dickinson Stadium | Japan and Curacao to visit Hampden Park. https://www.skysports.com/football/news/12040/13499168/scotland-to-face-ivory-coast-in-world-cup-warm-up-game-at-evertons-hill-dickinson-stadium-japan-and-curacao-to-visit-hampden-park160
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,37 +215,13 @@ The Wayne Rooney Show - Man Utd Beat Arsenal! Did Arteta PANIC? And Wayne's PJs 
 
 ---
 
-## Story 6: Today on Sky Sports Racing: Ambiente Friendly looks to thrive over hurdles at Plumpton with Hereford and Wolverhampton also live on Monday
-**Slug (lower-third):** Today on Sky Sports Racing: Ambiente Friendly looks to th…  
-**When:** 2026-01-26 00:00 (America/Winnipeg)  •  **Published:** 2026-01-26 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Ambiente Friendly looks to thrive over hurdles at Plumpton with Hereford and Wolverhampton also live on Monday. Former classy Flat horse Ambiente Friendly goes in search of another victory over hurdles at Plumpton on Monday afternoon - live on Sky Sports Racing; there is also National Hunt racing from Hereford in store, before attention switches to all-weather action from Wolverhampton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Ambiente Friendly looks to thrive over hurdles at Plumpton with Hereford and Wolverhampton also live on Monday. https://www.skysports.com/racing/news/12040/13498802/today-on-sky-sports-racing-ambiente-friendly-looks-to-thrive-over-hurdles-at-plumpton-with-hereford-and-wolverhampton-also-live-on-monday
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Premier League Highlights: Arsenal 2-3 Man United
-**Slug (lower-third):** Premier League Highlights: Arsenal 2-3 Man United  
-**When:** 2026-01-25 14:00 (America/Winnipeg)  •  **Published:** 2026-01-25 20:00 (UTC)  
+## Story 9: WSL talking points: Liverpool finally get first win but are Chelsea out of title race?
+**Slug (lower-third):** WSL talking points: Liverpool finally get first win but a…  
+**When:** 2026-01-26 05:38 (America/Winnipeg)  •  **Published:** 2026-01-26 11:38 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League Highlights: Arsenal 2-3 Man United. Two sensational second-half strikes give Manchester United a huge win that takes them above Chelsea and Liverpool into fourth. Relevance to standings and momentum.
+WSL talking points: Liverpool finally get first win but are Chelsea out of title race?. With Chelsea stumbling at the hands of Arsenal at the top, bottom club Liverpool finally ended their long wait Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,8 +230,7 @@ Premier League Highlights: Arsenal 2-3 Man United. Two sensational second-half s
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League Highlights: Arsenal 2-3 Man United. https://www.bbc.com/sport/football/videos/c3wz3x78d29o?at_medium=RSS&at_campaign=rss
-- skysports.com — Arsenal 2-3 Man Utd | Premier League highlights. https://www.skysports.com/watch/video/13498986/arsenal-2-3-man-utd-premier-league-highlights
+- theguardian.com — WSL talking points: Liverpool finally get first win but are Chelsea out of title race?. https://www.theguardian.com/football/2026/jan/26/wsl-talking-points-liverpool-finally-get-first-win-but-are-chelsea-out-of-title-race
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -187,13 +239,13 @@ Premier League Highlights: Arsenal 2-3 Man United. Two sensational second-half s
 
 ---
 
-## Story 8: Premier League highlights: Crystal Palace 1-3 Chelsea
-**Slug (lower-third):** Premier League highlights: Crystal Palace 1-3 Chelsea  
-**When:** 2026-01-25 13:59 (America/Winnipeg)  •  **Published:** 2026-01-25 19:59 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: NBA: Golden State Warriors win 'sad' and 'bizarre' game with the Minnesota Timberwolves after Minneapolis shooting
+**Slug (lower-third):** NBA: Golden State Warriors win 'sad' and 'bizarre' game w…  
+**When:** 2026-01-26 05:10 (America/Winnipeg)  •  **Published:** 2026-01-26 11:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Crystal Palace 1-3 Chelsea. Estevao Willian replaces the injured Cole Palmer to inspire Chelsea to a comfortable win over Crystal Palace at Selhurst Park. Potential impact on the lineup and upcoming fixtures.
+NBA: Golden State Warriors win 'sad' and 'bizarre' game with the Minnesota Timberwolves after Minneapolis shooting. Golden State Warriors beat the Minnesota Timberwolves 111-85 in sombre atmosphere after the shooting of Alex Pretti by ICE agents in Minneapolis; Minnesotas sports teams, including Timberwolves and NFLs Vikings, pen open letter calling for peace and real solutions Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -202,57 +254,7 @@ Premier League highlights: Crystal Palace 1-3 Chelsea. Estevao Willian replaces 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Crystal Palace 1-3 Chelsea. https://www.bbc.com/sport/football/videos/c78vl6zx3wpo?at_medium=RSS&at_campaign=rss
-- skysports.com — Crystal Palace 1-3 Chelsea: Liam Rosenior's side now fifth in Premier League as Palace go 11 without a win. https://www.skysports.com/football/crystal-palace-vs-chelsea/report/531353
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League Highlights: Brentford 0-2 Nottingham Forest
-**Slug (lower-third):** Premier League Highlights: Brentford 0-2 Nottingham Forest  
-**When:** 2026-01-25 13:59 (America/Winnipeg)  •  **Published:** 2026-01-25 19:59 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League Highlights: Brentford 0-2 Nottingham Forest. Nottingham Forest gave their hopes of Premier League survival a major boost with a hard-fought win against Brentford at Gtech Community Stadium. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League Highlights: Brentford 0-2 Nottingham Forest. https://www.bbc.com/sport/football/videos/cy4g177ew37o?at_medium=RSS&at_campaign=rss
-- skysports.com — Brentford 0-2 Nottingham Forest | Premier League highlights. https://www.skysports.com/watch/video/13498898/brentford-0-2-nottingham-forest-premier-league-highlights
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Michael Carrick makes case for Man Utd job after perfect start
-**Slug (lower-third):** Michael Carrick makes case for Man Utd job after perfect …  
-**When:** 2026-01-25 16:41 (America/Winnipeg)  •  **Published:** 2026-01-25 22:41 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Michael Carrick makes case for Man Utd job after perfect start. As Michael Carrick's perfect start at Manchester United continues, is he building a case for the job longer term? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Michael Carrick makes case for Man Utd job after perfect start. https://www.bbc.com/sport/football/articles/cdxjdk4rk1xo?at_medium=RSS&at_campaign=rss
+- skysports.com — NBA: Golden State Warriors win 'sad' and 'bizarre' game with the Minnesota Timberwolves after Minneapolis shooting. https://www.skysports.com/nba/news/12040/13499163/nba-golden-state-warriors-win-sad-and-bizarre-game-with-the-minnesota-timberwolves-after-minneapolis-shooting
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
