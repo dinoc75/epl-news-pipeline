@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-27 19:56 (America/Winnipeg)  |  2026-01-28 01:56 (UTC)
+**Generated:** 2026-01-28 00:39 (America/Winnipeg)  |  2026-01-28 06:39 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 21s
+**Estimated total video length:** ~3m 24s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Champions League: Which clubs can make top eight and qualify for knockouts in league stage final round?
-- Chelsea fans told to use 'extreme caution' in Napoli after pair injured.
 - Randal Kolo Muani: Tottenham forward 'fine' after 'minor' car accident
+- Tammy Abraham transfer news: Aston Villa resign striker in APS18.25m deal
+- Champions League: Which clubs can make top eight and qualify for knockouts in league stage final round?
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Champions League news: Rosenior insists 'incredible player' Palmer is happy at Chelsea
 **Slug (lower-third):** Champions League news: Rosenior insists 'incredible playe…  
 **When:** 2026-01-27 16:16 (America/Winnipeg)  •  **Published:** 2026-01-27 22:16 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Champions League news: Rosenior insists 'incredible player' Palmer is happy at Chelsea. The Chelsea head coach dismissed rumours that Palmer wants to return to Manchester, saying his star player 'loves being here' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -40,9 +40,33 @@ Champions League news: Rosenior insists 'incredible player' Palmer is happy at C
 
 ---
 
+## Story 2: Arne Slot: Liverpool boss responds to recent criticism - urging his squad to "ignore the noise"
+**Slug (lower-third):** Arne Slot: Liverpool boss responds to recent criticism - …  
+**When:** 2026-01-27 13:42 (America/Winnipeg)  •  **Published:** 2026-01-27 19:42 (UTC)  
+**Virality score:** 90  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Arne Slot: Liverpool boss responds to recent criticism - urging his squad to "ignore the noise". Liverpool head coach Arne Slot admits he's aware of the "noise" around the club after just five wins in their past 18 Premier League matches, but refuses to define what an "acceptable" outcome to the season would look like to him. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arne Slot: Liverpool boss responds to recent criticism - urging his squad to "ignore the noise". https://www.bbc.com/sport/football/videos/cm2xpz7rvepo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ### Injuries
 
-## Story 2: Tammy Abraham transfer news: Aston Villa resign striker in APS18.25m deal
+## Story 3: Tammy Abraham transfer news: Aston Villa resign striker in APS18.25m deal
 **Slug (lower-third):** Tammy Abraham transfer news: Aston Villa resign striker i…  
 **When:** 2026-01-27 13:57 (America/Winnipeg)  •  **Published:** 2026-01-27 19:57 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -67,10 +91,10 @@ Tammy Abraham transfer news: Aston Villa resign striker in APS18.25m deal. Engla
 
 ---
 
-## Story 3: Frank's injury woes mount as Tottenham prepare for vital Champions League tie
+## Story 4: Frank's injury woes mount as Tottenham prepare for vital Champions League tie
 **Slug (lower-third):** Frank's injury woes mount as Tottenham prepare for vital …  
 **When:** 2026-01-27 14:42 (America/Winnipeg)  •  **Published:** 2026-01-27 20:42 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~21s
+**Virality score:** 90  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 Frank's injury woes mount as Tottenham prepare for vital Champions League tie. Porro and Van de Ven joined a lengthy injury list for Tottenham but Kolo Muani escaped unharmed after a tyre blowout led to a crash on motorway Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
@@ -93,55 +117,7 @@ Frank's injury woes mount as Tottenham prepare for vital Champions League tie. P
 
 ### Club Updates
 
-## Story 4: Champions League: Which clubs can make top eight and qualify for knockouts in league stage final round?
-**Slug (lower-third):** Champions League: Which clubs can make top eight and qual…  
-**When:** 2026-01-27 19:24 (America/Winnipeg)  •  **Published:** 2026-01-28 01:24 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League: Which clubs can make top eight and qualify for knockouts in league stage final round?. With the league phase of the Champions League almost over, which teams can join Arsenal and Bayern Munich in the top eight? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League: Which clubs can make top eight and qualify for knockouts in league stage final round?. https://www.bbc.com/sport/football/articles/c3ve1gnk26eo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Chelsea fans told to use 'extreme caution' in Napoli after pair injured.
-**Slug (lower-third):** Chelsea fans told to use 'extreme caution' in Napoli afte…  
-**When:** 2026-01-27 17:58 (America/Winnipeg)  •  **Published:** 2026-01-27 23:58 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea fans told to use 'extreme caution' in Napoli after pair injured.. Travelling Chelsea fans in Naples for Wednesday's Champions League game are told to "exercise extreme caution" after two supporters suffer injuries. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Chelsea fans told to use 'extreme caution' in Napoli after pair injured.. https://www.bbc.com/sport/football/articles/c74wdw5n4e5o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Randal Kolo Muani: Tottenham forward 'fine' after 'minor' car accident
+## Story 5: Randal Kolo Muani: Tottenham forward 'fine' after 'minor' car accident
 **Slug (lower-third):** Randal Kolo Muani: Tottenham forward 'fine' after 'minor'…  
 **When:** 2026-01-27 14:44 (America/Winnipeg)  •  **Published:** 2026-01-27 20:44 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -166,10 +142,58 @@ Randal Kolo Muani: Tottenham forward 'fine' after 'minor' car accident. Randal K
 
 ---
 
-## Story 7: Football gossip: Dunk, Palmer, Sterling, Kinsky, Disasi, Onana, Disasi, Gomes, Sinayoko
+## Story 6: Champions League: Which clubs can make top eight and qualify for knockouts in league stage final round?
+**Slug (lower-third):** Champions League: Which clubs can make top eight and qual…  
+**When:** 2026-01-27 19:24 (America/Winnipeg)  •  **Published:** 2026-01-28 01:24 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Champions League: Which clubs can make top eight and qualify for knockouts in league stage final round?. With the league phase of the Champions League almost over, which teams can join Arsenal and Bayern Munich in the top eight? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Champions League: Which clubs can make top eight and qualify for knockouts in league stage final round?. https://www.bbc.com/sport/football/articles/c3ve1gnk26eo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Chelsea fans told to use 'extreme caution' in Napoli after pair injured.
+**Slug (lower-third):** Chelsea fans told to use 'extreme caution' in Napoli afte…  
+**When:** 2026-01-27 17:58 (America/Winnipeg)  •  **Published:** 2026-01-27 23:58 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea fans told to use 'extreme caution' in Napoli after pair injured.. Travelling Chelsea fans in Naples for Wednesday's Champions League game are told to "exercise extreme caution" after two supporters suffer injuries. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Chelsea fans told to use 'extreme caution' in Napoli after pair injured.. https://www.bbc.com/sport/football/articles/c74wdw5n4e5o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Football gossip: Dunk, Palmer, Sterling, Kinsky, Disasi, Onana, Disasi, Gomes, Sinayoko
 **Slug (lower-third):** Football gossip: Dunk, Palmer, Sterling, Kinsky, Disasi, …  
 **When:** 2026-01-27 15:21 (America/Winnipeg)  •  **Published:** 2026-01-27 21:21 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Dunk, Palmer, Sterling, Kinsky, Disasi, Onana, Disasi, Gomes, Sinayoko. Brighton turn down an approach from Nottingham Forest for Lewis Dunk, while Chelsea consider Cole Palmer "untouchable" amid Manchester United interest. Relevance to standings and momentum.
@@ -190,10 +214,10 @@ Football gossip: Dunk, Palmer, Sterling, Kinsky, Disasi, Onana, Disasi, Gomes, S
 
 ---
 
-## Story 8: Global brand in an EFL world - Wrexham's finances explained as club eye Premier League
+## Story 9: Global brand in an EFL world - Wrexham's finances explained as club eye Premier League
 **Slug (lower-third):** Global brand in an EFL world - Wrexham's finances explain…  
 **When:** 2026-01-27 15:20 (America/Winnipeg)  •  **Published:** 2026-01-27 21:20 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Global brand in an EFL world - Wrexham's finances explained as club eye Premier League. After a new APS48m investment in Wrexham, what comes next for the club that is majority-owned by Ryan Reynolds and Rob McElhenney? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -214,10 +238,10 @@ Global brand in an EFL world - Wrexham's finances explained as club eye Premier 
 
 ---
 
-## Story 9: Concerns grow over fairness of Women's Champions Cup timing, location, and Fifa support
+## Story 10: Concerns grow over fairness of Women's Champions Cup timing, location, and Fifa support
 **Slug (lower-third):** Concerns grow over fairness of Women's Champions Cup timi…  
 **When:** 2026-01-27 15:24 (America/Winnipeg)  •  **Published:** 2026-01-27 21:24 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Concerns grow over fairness of Women's Champions Cup timing, location, and Fifa support. Some clubs have been dismayed at the built-in advantages afforded to Arsenal in the inaugural edition of Fifa's women's club competition Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -230,30 +254,6 @@ Concerns grow over fairness of Women's Champions Cup timing, location, and Fifa 
 
 ### Sources
 - theguardian.com — Concerns grow over fairness of Women's Champions Cup timing, location, and Fifa support. https://www.theguardian.com/football/2026/jan/27/womens-champions-cup-fairness-arsenal-gotham-corinthians-far
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League has the power but still faces reckoning with European giants | Jonathan Wilson
-**Slug (lower-third):** Premier League has the power but still faces reckoning wi…  
-**When:** 2026-01-27 14:00 (America/Winnipeg)  •  **Published:** 2026-01-27 20:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League has the power but still faces reckoning with European giants | Jonathan Wilson. English clubs stroll through Champions League group phase but fatigue tends to take its toll by the spring Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League has the power but still faces reckoning with European giants | Jonathan Wilson. https://www.theguardian.com/football/2026/jan/27/premier-league-has-power-faces-reckoning-with-european-giants
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
