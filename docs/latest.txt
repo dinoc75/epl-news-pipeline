@@ -1,76 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-28 12:40 (America/Winnipeg)  |  2026-01-28 18:40 (UTC)
+**Generated:** 2026-01-28 20:10 (America/Winnipeg)  |  2026-01-29 02:10 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 38s
+**Estimated total video length:** ~4m 39s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Aston Villa: Douglas Luiz rejoins after Youri Tielemans sidelined for 8-10 weeks
-- Douglas Luiz transfer news: Aston Villa re-sign midfielder on loan from Juventus with option to buy
-- Fulham to sign Manchester City's Bobb for PS27m, Paqueta heading to Flamengo
+- PSG 1-1 Newcastle: Howe's side prove they can mix it with European champions
+- Champions League - why are Premier League sides dominating?
+- Champions League Analysis: Arsenal 3-2 Kairat
 
 ---
 
 ### Transfers
 
-## Story 1: Douglas Luiz transfer news: Aston Villa re-sign midfielder on loan from Juventus with option to buy
-**Slug (lower-third):** Douglas Luiz transfer news: Aston Villa re-sign midfielde…  
-**When:** 2026-01-28 11:50 (America/Winnipeg)  •  **Published:** 2026-01-28 17:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Douglas Luiz transfer news: Aston Villa re-sign midfielder on loan from Juventus with option to buy. Aston Villa have re-signed Douglas Luiz from Juventus on loan; Unai Emerys side are suffering a midfielder shortage after injuries to Boubacar Kamara and John McGinn; Luiz has been on loan at Nottingham Forest this season but has only started five games in the Premier League Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Douglas Luiz transfer news: Aston Villa re-sign midfielder on loan from Juventus with option to buy. https://www.skysports.com/football/news/12040/13499944/douglas-luiz-transfer-news-aston-villa-re-sign-midfielder-on-loan-from-juventus-with-option-to-buy
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Raheem Sterling leaves Chelsea after three and a half years ahead of January transfer deadline
-**Slug (lower-third):** Raheem Sterling leaves Chelsea after three and a half yea…  
-**When:** 2026-01-28 10:30 (America/Winnipeg)  •  **Published:** 2026-01-28 16:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Raheem Sterling leaves Chelsea after three and a half years ahead of January transfer deadline. Chelsea say in a 60-word statement that a mutual agreement has been reached for Raheem Sterling to leave 18 months before the expiry of his contract; the winger had not played for Chelsea since May 2024 despite being one of the clubs best-paid players on a reported PS325,000 a week Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Raheem Sterling leaves Chelsea after three and a half years ahead of January transfer deadline. https://www.skysports.com/football/news/12040/13500231/raheem-sterling-leaves-chelsea-after-three-and-a-half-years-ahead-of-january-transfer-deadline
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Oscar Bobb transfer news: Fulham reach agreement for Manchester City winger
-**Slug (lower-third):** Oscar Bobb transfer news: Fulham reach agreement for Manc…  
-**When:** 2026-01-28 10:17 (America/Winnipeg)  •  **Published:** 2026-01-28 16:17 (UTC)  
+## Story 1: Football gossip: Kolo Muani, Zirkzee, Maguire, Dembele, Enrique, Yildiz, Goretzka, Lingard
+**Slug (lower-third):** Football gossip: Kolo Muani, Zirkzee, Maguire, Dembele, E…  
+**When:** 2026-01-28 17:06 (America/Winnipeg)  •  **Published:** 2026-01-28 23:06 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Oscar Bobb transfer news: Fulham reach agreement for Manchester City winger. Fulham agree a APS27million deal with Manchester City to sign Oscar Bobb. Implications for the squad and table.
+Football gossip: Kolo Muani, Zirkzee, Maguire, Dembele, Enrique, Yildiz, Goretzka, Lingard. Spurs' Randal Kolo Muani and Manchester United's Joshua Zirkzee are attracting interest from Juventus, Harry Maguire is waiting for contract talks, Bournemouth want Inter Milan winger Luis Henrique, plus more. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +31,7 @@ Oscar Bobb transfer news: Fulham reach agreement for Manchester City winger. Ful
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Oscar Bobb transfer news: Fulham reach agreement for Manchester City winger. https://www.bbc.com/sport/football/articles/cly5ep60ypro?at_medium=RSS&at_campaign=rss
+- bbc.com — Football gossip: Kolo Muani, Zirkzee, Maguire, Dembele, Enrique, Yildiz, Goretzka, Lingard. https://www.bbc.com/sport/football/articles/cvgd8yy251ro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +42,13 @@ Oscar Bobb transfer news: Fulham reach agreement for Manchester City winger. Ful
 
 ### Injuries
 
-## Story 4: Aston Villa: Douglas Luiz rejoins after Youri Tielemans sidelined for 8-10 weeks
-**Slug (lower-third):** Aston Villa: Douglas Luiz rejoins after Youri Tielemans s…  
-**When:** 2026-01-28 12:14 (America/Winnipeg)  •  **Published:** 2026-01-28 18:14 (UTC)  
+## Story 2: Champions League Analysis: Arsenal 3-2 Kairat
+**Slug (lower-third):** Champions League Analysis: Arsenal 3-2 Kairat  
+**When:** 2026-01-28 18:15 (America/Winnipeg)  •  **Published:** 2026-01-29 00:15 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa: Douglas Luiz rejoins after Youri Tielemans sidelined for 8-10 weeks. Douglas Luiz returns to Aston Villa from Juventus, following a loan spell at Nottingham Forest, to boost Unai Emery's midfield after Youri Tielemans is ruled out for 10 weeks. Implications for the squad and table.
+Champions League Analysis: Arsenal 3-2 Kairat. Match of the Day pundit Nedum Onuoha analyses how Kai Havertz's return gives a "big boost" to Mikel Arteta's Arsenal side. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +57,7 @@ Aston Villa: Douglas Luiz rejoins after Youri Tielemans sidelined for 8-10 weeks
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa: Douglas Luiz rejoins after Youri Tielemans sidelined for 8-10 weeks. https://www.bbc.com/sport/articles/c78vq29w4x1o?at_medium=RSS&at_campaign=rss
+- bbc.com — Champions League Analysis: Arsenal 3-2 Kairat. https://www.bbc.com/sport/football/videos/c0mkyv70n1do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +68,13 @@ Aston Villa: Douglas Luiz rejoins after Youri Tielemans sidelined for 8-10 weeks
 
 ### Club Updates
 
-## Story 5: Fulham to sign Manchester City's Bobb for PS27m, Paqueta heading to Flamengo
-**Slug (lower-third):** Fulham to sign Manchester City's Bobb for PS27m, Paqueta …  
-**When:** 2026-01-28 11:13 (America/Winnipeg)  •  **Published:** 2026-01-28 17:13 (UTC)  
+## Story 3: PSG 1-1 Newcastle: Howe's side prove they can mix it with European champions
+**Slug (lower-third):** PSG 1-1 Newcastle: Howe's side prove they can mix it with…  
+**When:** 2026-01-28 18:40 (America/Winnipeg)  •  **Published:** 2026-01-29 00:40 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham to sign Manchester City's Bobb for PS27m, Paqueta heading to Flamengo. Manchester City have done a PS27m deal to sell Oscar Bobb to Fulham on a day when West Ham reached an agreement for Lucas Paqueta to join Flamengo Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+PSG 1-1 Newcastle: Howe's side prove they can mix it with European champions. Newcastle United have experienced all manner of emotions at the Parc des Princes, but the visitors left with immense pride following a 1-1 draw against Paris St-Germain Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +83,7 @@ Fulham to sign Manchester City's Bobb for PS27m, Paqueta heading to Flamengo. Ma
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Fulham to sign Manchester City's Bobb for PS27m, Paqueta heading to Flamengo. https://www.theguardian.com/football/2026/jan/28/west-ham-james-ward-prowse-burnley-adama-traore-transfer-latest
+- bbc.com — PSG 1-1 Newcastle: Howe's side prove they can mix it with European champions. https://www.bbc.com/sport/football/articles/cp82r3qmz65o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +92,13 @@ Fulham to sign Manchester City's Bobb for PS27m, Paqueta heading to Flamengo. Ma
 
 ---
 
-## Story 6: WSL's West Ham sign Bayern Munich defender Tuva Hansen
-**Slug (lower-third):** WSL's West Ham sign Bayern Munich defender Tuva Hansen  
-**When:** 2026-01-28 09:47 (America/Winnipeg)  •  **Published:** 2026-01-28 15:47 (UTC)  
+## Story 4: Champions League - why are Premier League sides dominating?
+**Slug (lower-third):** Champions League - why are Premier League sides dominatin…  
+**When:** 2026-01-28 18:24 (America/Winnipeg)  •  **Published:** 2026-01-29 00:24 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL's West Ham sign Bayern Munich defender Tuva Hansen. West Ham sign 28-year-old defender Tuva Hansen from Bayern Munich with the Norway international bringing a wealth of experience. Relevance to standings and momentum.
+Champions League - why are Premier League sides dominating?. Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +107,7 @@ WSL's West Ham sign Bayern Munich defender Tuva Hansen. West Ham sign 28-year-ol
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL's West Ham sign Bayern Munich defender Tuva Hansen. https://www.bbc.com/sport/football/articles/cx2l1x2jdy8o?at_medium=RSS&at_campaign=rss
+- bbc.com — Champions League - why are Premier League sides dominating?. https://www.bbc.com/sport/football/articles/cy0520ey7jjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +116,13 @@ WSL's West Ham sign Bayern Munich defender Tuva Hansen. West Ham sign 28-year-ol
 
 ---
 
-## Story 7: West Ham agree APS35.5m sale of Lucas Paqueta to Flamengo
-**Slug (lower-third):** West Ham agree APS35.5m sale of Lucas Paqueta to Flamengo  
-**When:** 2026-01-28 09:15 (America/Winnipeg)  •  **Published:** 2026-01-28 15:15 (UTC)  
+## Story 5: Liverpool 6-0 Qarabag: Can Champions League rescue Liverpool's season of turmoil?
+**Slug (lower-third):** Liverpool 6-0 Qarabag: Can Champions League rescue Liverp…  
+**When:** 2026-01-28 17:48 (America/Winnipeg)  •  **Published:** 2026-01-28 23:48 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham agree APS35.5m sale of Lucas Paqueta to Flamengo. West Ham agree a deal to sell Brazil forward Lucas Paqueta to Flamengo for more than 41m euros (APS35.5m). Relevance to standings and momentum.
+Liverpool 6-0 Qarabag: Can Champions League rescue Liverpool's season of turmoil?. After sweeping their way into the last 16, chief football writer Phil McNulty asks can the Champions League rescue Liverpool's season of turmoil? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +131,7 @@ West Ham agree APS35.5m sale of Lucas Paqueta to Flamengo. West Ham agree a deal
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — West Ham agree APS35.5m sale of Lucas Paqueta to Flamengo. https://www.bbc.com/sport/football/articles/ceqzp4zjwpdo?at_medium=RSS&at_campaign=rss
+- bbc.com — Liverpool 6-0 Qarabag: Can Champions League rescue Liverpool's season of turmoil?. https://www.bbc.com/sport/football/articles/c5y2zdwjzkvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +140,13 @@ West Ham agree APS35.5m sale of Lucas Paqueta to Flamengo. West Ham agree a deal
 
 ---
 
-## Story 8: Raheem Sterling leaves Chelsea by mutual agreement
-**Slug (lower-third):** Raheem Sterling leaves Chelsea by mutual agreement  
-**When:** 2026-01-28 07:25 (America/Winnipeg)  •  **Published:** 2026-01-28 13:25 (UTC)  
+## Story 6: Champions League: Is the Premier League on course for a fifth place in next year's competition?
+**Slug (lower-third):** Champions League: Is the Premier League on course for a f…  
+**When:** 2026-01-28 17:22 (America/Winnipeg)  •  **Published:** 2026-01-28 23:22 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Raheem Sterling leaves Chelsea by mutual agreement. Raheem Sterling is a free agent after the forward reached an agreement with Chelsea to end his contact, the club confirmed on Wednesday. Relevance to standings and momentum.
+Champions League: Is the Premier League on course for a fifth place in next year's competition?. Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,9 +155,7 @@ Raheem Sterling leaves Chelsea by mutual agreement. Raheem Sterling is a free ag
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Raheem Sterling leaves Chelsea by mutual agreement. https://www.espn.com/soccer/story/_/id/47755357/raheem-sterling-leaves-chelsea-mutual-agreement
-- theguardian.com — Raheem Sterling leaves Chelsea by mutual consent and seeks fresh start. https://www.theguardian.com/football/2026/jan/28/raheem-sterling-leaves-chelsea-by-mutual-consent-seeks-fresh-start-contract
-- bbc.com — Raheem Sterling leaves Chelsea by mutual consent. https://www.bbc.com/sport/football/articles/cm2yp21zjzqo?at_medium=RSS&at_campaign=rss
+- bbc.com — Champions League: Is the Premier League on course for a fifth place in next year's competition?. https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +164,13 @@ Raheem Sterling leaves Chelsea by mutual agreement. Raheem Sterling is a free ag
 
 ---
 
-## Story 9: Tottenham Hotspur: Jamie O'Hara believes Spurs could be in a relegation fight | 'The next four games are HUGE'
-**Slug (lower-third):** Tottenham Hotspur: Jamie O'Hara believes Spurs could be i…  
-**When:** 2026-01-28 05:50 (America/Winnipeg)  •  **Published:** 2026-01-28 11:50 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 7: Champions League play-offs and knockouts: What we know so far as Arsenal, Liverpool, Spurs, Chelsea and Man City go straight into last 16
+**Slug (lower-third):** Champions League play-offs and knockouts: What we know so…  
+**When:** 2026-01-28 16:45 (America/Winnipeg)  •  **Published:** 2026-01-28 22:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Tottenham Hotspur: Jamie O'Hara believes Spurs could be in a relegation fight | 'The next four games are HUGE'. Jamie O'Hara believes Spurs could be in a relegation fight if they continue playing the way they are in the Premier League. Relevance to standings and momentum.
+Champions League play-offs and knockouts: What we know so far as Arsenal, Liverpool, Spurs, Chelsea and Man City go straight into last 16. The Premier League has five clubs in the last 16 of the Champions League, with Newcastle hoping to make it six via the play-offs; Arsenal to benefit from home second legs up to the semi-finals; Jose Mourinhos Benfica claim play-off spot in remarkable style Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +179,7 @@ Tottenham Hotspur: Jamie O'Hara believes Spurs could be in a relegation fight | 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham Hotspur: Jamie O'Hara believes Spurs could be in a relegation fight | 'The next four games are HUGE'. https://www.skysports.com/watch/video/13500092/tottenham-hotspur-jamie-ohara-believes-spurs-could-be-in-a-relegation-fight-the-next-four-games-are-huge
+- skysports.com — Champions League play-offs and knockouts: What we know so far as Arsenal, Liverpool, Spurs, Chelsea and Man City go straight into last 16. https://www.skysports.com/football/news/12040/13500238/champions-league-play-offs-and-knockouts-what-we-know-so-far-as-arsenal-liverpool-spurs-chelsea-and-man-city-go-straight-into-last-16
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +188,13 @@ Tottenham Hotspur: Jamie O'Hara believes Spurs could be in a relegation fight | 
 
 ---
 
-## Story 10: Manchester City: How club have turned exits of young players into big business
-**Slug (lower-third):** Manchester City: How club have turned exits of young play…  
-**When:** 2026-01-28 02:15 (America/Winnipeg)  •  **Published:** 2026-01-28 08:15 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 8: Champions League: PSG 1-1 Newcastle - highlights
+**Slug (lower-third):** Champions League: PSG 1-1 Newcastle - highlights  
+**When:** 2026-01-28 16:24 (America/Winnipeg)  •  **Published:** 2026-01-28 22:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester City: How club have turned exits of young players into big business. Manchester City have made more than APS250m selling young players from their talent factory over the last five years. Relevance to standings and momentum.
+Champions League: PSG 1-1 Newcastle - highlights. Joe Willock scores for Newcastle as they draw 1-1 with PSG at the Parc des Princes to confirm their place in the Champions League play-offs. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +203,57 @@ Manchester City: How club have turned exits of young players into big business. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester City: How club have turned exits of young players into big business. https://www.bbc.com/sport/football/articles/ceqzpj2vv7go?at_medium=RSS&at_campaign=rss
+- bbc.com — Champions League: PSG 1-1 Newcastle - highlights. https://www.bbc.com/sport/football/videos/cqxy1jrlg7jo?at_medium=RSS&at_campaign=rss
+- skysports.com — PSG 1-1 Newcastle: Both sides miss out on Champions League top eight after entertaining draw in Paris. https://www.skysports.com/football/paris-saint-germain-vs-newcastle-united/report/548053
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Napoli 2-3 Chelsea: Joao Pedro fires Blues into Champions League round of 16 after win in Naples
+**Slug (lower-third):** Napoli 2-3 Chelsea: Joao Pedro fires Blues into Champions…  
+**When:** 2026-01-28 16:15 (America/Winnipeg)  •  **Published:** 2026-01-28 22:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Napoli 2-3 Chelsea: Joao Pedro fires Blues into Champions League round of 16 after win in Naples. Match report as Chelsea beat Napoli to finish sixth in the Champions League league phase; Joao Pedro scored two brilliant goals to win it for Liam Roseniors side; Enzo Fernandez had put Chelsea ahead in the first half; the Blues go straight into the round of 16 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Napoli 2-3 Chelsea: Joao Pedro fires Blues into Champions League round of 16 after win in Naples. https://www.skysports.com/football/news/12040/13500246/napoli-2-3-chelsea-joao-pedro-fires-blues-into-champions-league-round-of-16-after-win-in-naples
+- bbc.com — Champions League: Napoli 2-3 Chelsea - highlights. https://www.bbc.com/sport/football/videos/ckglpgzldgpo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Champions League: Manchester City 2-0 Galatasaray
+**Slug (lower-third):** Champions League: Manchester City 2-0 Galatasaray  
+**When:** 2026-01-28 16:11 (America/Winnipeg)  •  **Published:** 2026-01-28 22:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Champions League: Manchester City 2-0 Galatasaray. Manchester City beat Galatasaray to confirm a spot in the round of 16 of the UEFA Champions League by narrowly finishing eighth in the league phase. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Champions League: Manchester City 2-0 Galatasaray. https://www.bbc.com/sport/football/videos/cm24r05ln74o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
