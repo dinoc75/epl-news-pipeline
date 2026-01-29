@@ -1,52 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-29 07:02 (America/Winnipeg)  |  2026-01-29 13:02 (UTC)
+**Generated:** 2026-01-29 12:52 (America/Winnipeg)  |  2026-01-29 18:52 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Conor Bradley: Losing Liverpool defender for play-off 'big blow' for Northern Ireland - Michael O'Neill
-- Crystal Palace agree PS50m deal to buy Jorgen Strand Larsen from Wolves
-- Manchester United: Why Steve Holland could be key to revival under Michael Carrick
+- Jorgen Strand Larsen: Crystal Palace's APS50m move for Wolves striker in doubt
+- Champions League 2026: How English clubs got smart to dominate this season's league phase
+- Arsenal in talks to sign Barcelona's Ona Batlle in summer
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Conor Bradley: Losing Liverpool defender for play-off 'big blow' for Northern Ireland - Michael O'Neill
-**Slug (lower-third):** Conor Bradley: Losing Liverpool defender for play-off 'bi…  
-**When:** 2026-01-29 06:48 (America/Winnipeg)  •  **Published:** 2026-01-29 12:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Conor Bradley: Losing Liverpool defender for play-off 'big blow' for Northern Ireland - Michael O'Neill. Northern Ireland manager Michael O'Neill says it "would certainly be nice" for the injured Conor Bradley to still be a part of the squad for their 2026 World Cup play-offs against Italy in March. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Conor Bradley: Losing Liverpool defender for play-off 'big blow' for Northern Ireland - Michael O'Neill. https://www.bbc.com/sport/football/articles/cn8jk4j3y92o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Manchester United: Why Steve Holland could be key to revival under Michael Carrick
-**Slug (lower-third):** Manchester United: Why Steve Holland could be key to revi…  
-**When:** 2026-01-29 06:16 (America/Winnipeg)  •  **Published:** 2026-01-29 12:16 (UTC)  
+## Story 1: Sonia Bompastor tracks back on 'WSL title gone' comments
+**Slug (lower-third):** Sonia Bompastor tracks back on 'WSL title gone' comments  
+**When:** 2026-01-29 10:48 (America/Winnipeg)  •  **Published:** 2026-01-29 16:48 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: Why Steve Holland could be key to revival under Michael Carrick. Why former England and Chelsea coach Steve Holland could be the key appointment in new boss Michael Carrick's coaching team at Manchester United. Relevance to standings and momentum.
+Sonia Bompastor tracks back on 'WSL title gone' comments. Chelsea manager Sonia Bompastor has tracked back on her comments saying the WSL title is "probably over" by insisting her side will "never give up". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +31,7 @@ Manchester United: Why Steve Holland could be key to revival under Michael Carri
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester United: Why Steve Holland could be key to revival under Michael Carrick. https://www.bbc.com/sport/football/articles/c75x9234gy3o?at_medium=RSS&at_campaign=rss
+- bbc.com — Sonia Bompastor tracks back on 'WSL title gone' comments. https://www.bbc.com/sport/football/articles/clye0zq328no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +42,13 @@ Manchester United: Why Steve Holland could be key to revival under Michael Carri
 
 ### Transfers
 
-## Story 3: Football transfer rumours: Rafael Leao or Iliman Ndiaye to Manchester United?
-**Slug (lower-third):** Football transfer rumours: Rafael Leao or Iliman Ndiaye t…  
-**When:** 2026-01-29 02:00 (America/Winnipeg)  •  **Published:** 2026-01-29 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 2: Arsenal in talks to sign Barcelona's Ona Batlle in summer
+**Slug (lower-third):** Arsenal in talks to sign Barcelona's Ona Batlle in summer  
+**When:** 2026-01-29 11:10 (America/Winnipeg)  •  **Published:** 2026-01-29 17:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football transfer rumours: Rafael Leao or Iliman Ndiaye to Manchester United?. Axel Disasi to join Fiorentina? | Harry Wilson to leave Fulham on free? | Joel Piroe to leave Leeds for Ipswich? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Arsenal in talks to sign Barcelona's Ona Batlle in summer. Arsenal have held advanced discussions with Barcelona full-back Ona Batlle in the hope of reaching a pre-contract agreement to sign her in the summer. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +57,31 @@ Football transfer rumours: Rafael Leao or Iliman Ndiaye to Manchester United?. A
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football transfer rumours: Rafael Leao or Iliman Ndiaye to Manchester United?. https://www.theguardian.com/football/2026/jan/29/football-transfer-rumours-rafael-leao-or-iliman-ndiaye-to-manchester-united
+- bbc.com — Arsenal in talks to sign Barcelona's Ona Batlle in summer. https://www.bbc.com/sport/football/articles/cew8q8xj9e2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Crystal Palace stall on PS50m Strand Larsen deal but close on Guessand loan
+**Slug (lower-third):** Crystal Palace stall on PS50m Strand Larsen deal but clos…  
+**When:** 2026-01-29 08:40 (America/Winnipeg)  •  **Published:** 2026-01-29 14:40 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Crystal Palace stall on PS50m Strand Larsen deal but close on Guessand loan. Jorgen Strand Larsen's PS50m move from Wolves to Crystal Palace is in serious doubt after Oliver Glasner's side stalled on the deal on Thursday Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Crystal Palace stall on PS50m Strand Larsen deal but close on Guessand loan. https://www.theguardian.com/football/2026/jan/29/transfer-latest-wolves-jorgen-strand-larsen-crystal-palace
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -95,7 +95,7 @@ Football transfer rumours: Rafael Leao or Iliman Ndiaye to Manchester United?. A
 ## Story 4: Aston Villa: Do Villa have the squad depth to end their 30-year trophy drought?
 **Slug (lower-third):** Aston Villa: Do Villa have the squad depth to end their 3…  
 **When:** 2026-01-29 05:52 (America/Winnipeg)  •  **Published:** 2026-01-29 11:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Aston Villa: Do Villa have the squad depth to end their 30-year trophy drought?. An injury crisis and a returning hero. Aston Villa's season continues to take sharp turns. Potential impact on the lineup and upcoming fixtures.
@@ -118,13 +118,13 @@ Aston Villa: Do Villa have the squad depth to end their 30-year trophy drought?.
 
 ### Club Updates
 
-## Story 5: Crystal Palace agree PS50m deal to buy Jorgen Strand Larsen from Wolves
-**Slug (lower-third):** Crystal Palace agree PS50m deal to buy Jorgen Strand Lars…  
-**When:** 2026-01-29 06:40 (America/Winnipeg)  •  **Published:** 2026-01-29 12:40 (UTC)  
+## Story 5: Jorgen Strand Larsen: Crystal Palace's APS50m move for Wolves striker in doubt
+**Slug (lower-third):** Jorgen Strand Larsen: Crystal Palace's APS50m move for Wo…  
+**When:** 2026-01-29 12:36 (America/Winnipeg)  •  **Published:** 2026-01-29 18:36 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace agree PS50m deal to buy Jorgen Strand Larsen from Wolves. Wolves have agreed to sell Jorgen Strand Larsen to Crystal Palace after receiving a bid totalling PS50m for the Norway striker Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jorgen Strand Larsen: Crystal Palace's APS50m move for Wolves striker in doubt. Crystal Palace's APS50m move for Wolves striker Jorgen Strand Larsen is in the balance after the Eagles suggest they could walk away from the deal. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +133,7 @@ Crystal Palace agree PS50m deal to buy Jorgen Strand Larsen from Wolves. Wolves 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Crystal Palace agree PS50m deal to buy Jorgen Strand Larsen from Wolves. https://www.theguardian.com/football/2026/jan/29/transfer-latest-wolves-jorgen-strand-larsen-crystal-palace
+- bbc.com — Jorgen Strand Larsen: Crystal Palace's APS50m move for Wolves striker in doubt. https://www.bbc.com/sport/football/articles/c89q2qkdx97o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +142,13 @@ Crystal Palace agree PS50m deal to buy Jorgen Strand Larsen from Wolves. Wolves 
 
 ---
 
-## Story 6: Lucy Bronze: ''I can just adapt and still be at the highest level'
-**Slug (lower-third):** Lucy Bronze: ''I can just adapt and still be at the highe…  
-**When:** 2026-01-29 06:05 (America/Winnipeg)  •  **Published:** 2026-01-29 12:05 (UTC)  
+## Story 6: Champions League 2026: How English clubs got smart to dominate this season's league phase
+**Slug (lower-third):** Champions League 2026: How English clubs got smart to dom…  
+**When:** 2026-01-29 12:04 (America/Winnipeg)  •  **Published:** 2026-01-29 18:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Lucy Bronze: ''I can just adapt and still be at the highest level'. Chelsea's Lucy Bronze - England's most decorated female footballer - tells BBC Sport's Emma Sanders that she "found even more confidence in myself" after leaving Manchester City in 2022. Relevance to standings and momentum.
+Champions League 2026: How English clubs got smart to dominate this season's league phase. Premier League clubs always had the money, but now they also have the know-how they have dominated this season's Champions League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +157,7 @@ Lucy Bronze: ''I can just adapt and still be at the highest level'. Chelsea's Lu
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Lucy Bronze: ''I can just adapt and still be at the highest level'. https://www.bbc.com/sport/football/videos/czx32x07lzzo?at_medium=RSS&at_campaign=rss
+- bbc.com — Champions League 2026: How English clubs got smart to dominate this season's league phase. https://www.bbc.com/sport/football/articles/c9qp21lej5zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,10 +166,82 @@ Lucy Bronze: ''I can just adapt and still be at the highest level'. Chelsea's Lu
 
 ---
 
-## Story 7: Kerstin Casparij: Manchester City full-back meets Alex Scott for Eat & Yap
+## Story 7: Winmau World Masters darts 2026: Schedule, fixtures, results, draw as Luke Littler, Luke Humphries chase major TV title
+**Slug (lower-third):** Winmau World Masters darts 2026: Schedule, fixtures, resu…  
+**When:** 2026-01-29 11:00 (America/Winnipeg)  •  **Published:** 2026-01-29 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Winmau World Masters darts 2026: Schedule, fixtures, results, draw as Luke Littler, Luke Humphries chase major TV title. World champion Luke Littler is pre-tournament favourite and Luke Humphries looks to defend his title at Arena MK; Scores, results and schedule from the first PDC ranked major of 2026; Watch the Premier League live on Sky Sports from February 5 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Winmau World Masters darts 2026: Schedule, fixtures, results, draw as Luke Littler, Luke Humphries chase major TV title. https://www.skysports.com/darts/news/12040/13500736/winmau-world-masters-darts-2026-schedule-fixtures-results-draw-as-luke-littler-luke-humphries-chase-major-tv-title
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Sterling's time at Chelsea was not fruitful but he still has time to revive career
+**Slug (lower-third):** Sterling's time at Chelsea was not fruitful but he still …  
+**When:** 2026-01-29 10:21 (America/Winnipeg)  •  **Published:** 2026-01-29 16:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+Sterling's time at Chelsea was not fruitful but he still has time to revive career. The winger seems to have lost a yard of pace but he is only 31 and leaving Stamford Bridge to make a fresh start may be the best thing for him Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Sterling's time at Chelsea was not fruitful but he still has time to revive career. https://www.theguardian.com/football/2026/jan/29/chelsea-raheem-sterling-still-has-time-to-revive-career
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Palhinha ready for the real Spurs to stand up after Champions League stroll
+**Slug (lower-third):** Palhinha ready for the real Spurs to stand up after Champ…  
+**When:** 2026-01-29 08:36 (America/Winnipeg)  •  **Published:** 2026-01-29 14:36 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Palhinha ready for the real Spurs to stand up after Champions League stroll. Tottenham eased into the last 16 and the midfielder trusts their European uplift will provide 'a big jump' in the Premier League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Palhinha ready for the real Spurs to stand up after Champions League stroll. https://www.theguardian.com/football/2026/jan/29/joao-palhinha-tottenham-champions-league-premier-thomas-frank
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Kerstin Casparij: Manchester City full-back meets Alex Scott for Eat & Yap
 **Slug (lower-third):** Kerstin Casparij: Manchester City full-back meets Alex Sc…  
 **When:** 2026-01-29 05:12 (America/Winnipeg)  •  **Published:** 2026-01-29 11:12 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Kerstin Casparij: Manchester City full-back meets Alex Scott for Eat & Yap. Manchester City's exciting full-back Kerstin Casparij answers Alex Scott's quickfire questions in BBC Sport's new Eat & Yap series. Relevance to standings and momentum.
@@ -182,78 +254,6 @@ Kerstin Casparij: Manchester City full-back meets Alex Scott for Eat & Yap. Manc
 
 ### Sources
 - bbc.com — Kerstin Casparij: Manchester City full-back meets Alex Scott for Eat & Yap. https://www.bbc.com/sport/football/videos/c70lyxd2n0ko?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: England set to clinch fifth Champions League spot for second year running through UEFA coefficient table
-**Slug (lower-third):** England set to clinch fifth Champions League spot for sec…  
-**When:** 2026-01-29 05:00 (America/Winnipeg)  •  **Published:** 2026-01-29 11:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-England set to clinch fifth Champions League spot for second year running through UEFA coefficient table. England is top of UEFAs coefficient table and on track to clinch a fifth Champions League place for the second consecutive year; all nine of Englands clubs are still active in Europe; Arsenal, Liverpool, Tottenham, Chelsea and Man City are in the Champions League last 16 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — England set to clinch fifth Champions League spot for second year running through UEFA coefficient table. https://www.skysports.com/football/news/12040/13500551/england-set-to-clinch-fifth-champions-league-spot-for-second-year-running-through-uefa-coefficient-table
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Jorgen Strand Larsen: Crystal Palace agree deal in principle for Wolves striker
-**Slug (lower-third):** Jorgen Strand Larsen: Crystal Palace agree deal in princi…  
-**When:** 2026-01-29 04:47 (America/Winnipeg)  •  **Published:** 2026-01-29 10:47 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Jorgen Strand Larsen: Crystal Palace agree deal in principle for Wolves striker. Crystal Palace agree a deal in principle worth in the region of APS50m to sign Wolves striker Jorgen Strand Larsen. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Jorgen Strand Larsen: Crystal Palace agree deal in principle for Wolves striker. https://www.bbc.com/sport/football/articles/cr7jx97j8jjo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Jamie Vardy at Cremonese: Leicester hero is scoring goals in Serie A at 39 - and Foxes fans are still visiting him in Italy
-**Slug (lower-third):** Jamie Vardy at Cremonese: Leicester hero is scoring goals…  
-**When:** 2026-01-29 04:00 (America/Winnipeg)  •  **Published:** 2026-01-29 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Jamie Vardy at Cremonese: Leicester hero is scoring goals in Serie A at 39 - and Foxes fans are still visiting him in Italy. With Jamie Vardy preparing to face Inter with Cremonese in Serie A this weekend, Adam Bate visits Cremona to find out more about the former England strikers impact in Italy and discovers that many Leicester supporters are making the same journey... Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Jamie Vardy at Cremonese: Leicester hero is scoring goals in Serie A at 39 - and Foxes fans are still visiting him in Italy. https://www.skysports.com/football/news/12040/13488366/jamie-vardy-at-cremonese-leicester-hero-is-scoring-goals-in-serie-a-at-39-and-foxes-fans-are-still-visiting-him-in-italy
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
