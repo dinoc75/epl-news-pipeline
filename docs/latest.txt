@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-01-29 00:52 (America/Winnipeg)  |  2026-01-29 06:52 (UTC)
+**Generated:** 2026-01-29 07:02 (America/Winnipeg)  |  2026-01-29 13:02 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~4m 34s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Champions League Analysis: Arsenal 3-2 Kairat
-- Liverpool 6-0 Qarabag: Can Champions League rescue Liverpool's season of turmoil?
-- Champions League: PSG 1-1 Newcastle - highlights
+- Conor Bradley: Losing Liverpool defender for play-off 'big blow' for Northern Ireland - Michael O'Neill
+- Crystal Palace agree PS50m deal to buy Jorgen Strand Larsen from Wolves
+- Manchester United: Why Steve Holland could be key to revival under Michael Carrick
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Football gossip: Kolo Muani, Zirkzee, Maguire, Dembele, Enrique, Yildiz, Goretzka, Lingard
-**Slug (lower-third):** Football gossip: Kolo Muani, Zirkzee, Maguire, Dembele, E…  
-**When:** 2026-01-28 17:06 (America/Winnipeg)  •  **Published:** 2026-01-28 23:06 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 1: Conor Bradley: Losing Liverpool defender for play-off 'big blow' for Northern Ireland - Michael O'Neill
+**Slug (lower-third):** Conor Bradley: Losing Liverpool defender for play-off 'bi…  
+**When:** 2026-01-29 06:48 (America/Winnipeg)  •  **Published:** 2026-01-29 12:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Kolo Muani, Zirkzee, Maguire, Dembele, Enrique, Yildiz, Goretzka, Lingard. Spurs' Randal Kolo Muani and Manchester United's Joshua Zirkzee are attracting interest from Juventus, Harry Maguire is waiting for contract talks, Bournemouth want Inter Milan winger Luis Henrique, plus more. Implications for the squad and table.
+Conor Bradley: Losing Liverpool defender for play-off 'big blow' for Northern Ireland - Michael O'Neill. Northern Ireland manager Michael O'Neill says it "would certainly be nice" for the injured Conor Bradley to still be a part of the squad for their 2026 World Cup play-offs against Italy in March. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,57 @@ Football gossip: Kolo Muani, Zirkzee, Maguire, Dembele, Enrique, Yildiz, Goretzk
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Kolo Muani, Zirkzee, Maguire, Dembele, Enrique, Yildiz, Goretzka, Lingard. https://www.bbc.com/sport/football/articles/cvgd8yy251ro?at_medium=RSS&at_campaign=rss
+- bbc.com — Conor Bradley: Losing Liverpool defender for play-off 'big blow' for Northern Ireland - Michael O'Neill. https://www.bbc.com/sport/football/articles/cn8jk4j3y92o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Manchester United: Why Steve Holland could be key to revival under Michael Carrick
+**Slug (lower-third):** Manchester United: Why Steve Holland could be key to revi…  
+**When:** 2026-01-29 06:16 (America/Winnipeg)  •  **Published:** 2026-01-29 12:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United: Why Steve Holland could be key to revival under Michael Carrick. Why former England and Chelsea coach Steve Holland could be the key appointment in new boss Michael Carrick's coaching team at Manchester United. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester United: Why Steve Holland could be key to revival under Michael Carrick. https://www.bbc.com/sport/football/articles/c75x9234gy3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Football transfer rumours: Rafael Leao or Iliman Ndiaye to Manchester United?
+**Slug (lower-third):** Football transfer rumours: Rafael Leao or Iliman Ndiaye t…  
+**When:** 2026-01-29 02:00 (America/Winnipeg)  •  **Published:** 2026-01-29 08:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football transfer rumours: Rafael Leao or Iliman Ndiaye to Manchester United?. Axel Disasi to join Fiorentina? | Harry Wilson to leave Fulham on free? | Joel Piroe to leave Leeds for Ipswich? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Football transfer rumours: Rafael Leao or Iliman Ndiaye to Manchester United?. https://www.theguardian.com/football/2026/jan/29/football-transfer-rumours-rafael-leao-or-iliman-ndiaye-to-manchester-united
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +92,13 @@ Football gossip: Kolo Muani, Zirkzee, Maguire, Dembele, Enrique, Yildiz, Goretzk
 
 ### Injuries
 
-## Story 2: Champions League Analysis: Arsenal 3-2 Kairat
-**Slug (lower-third):** Champions League Analysis: Arsenal 3-2 Kairat  
-**When:** 2026-01-28 18:15 (America/Winnipeg)  •  **Published:** 2026-01-29 00:15 (UTC)  
+## Story 4: Aston Villa: Do Villa have the squad depth to end their 30-year trophy drought?
+**Slug (lower-third):** Aston Villa: Do Villa have the squad depth to end their 3…  
+**When:** 2026-01-29 05:52 (America/Winnipeg)  •  **Published:** 2026-01-29 11:52 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League Analysis: Arsenal 3-2 Kairat. Match of the Day pundit Nedum Onuoha analyses how Kai Havertz's return gives a "big boost" to Mikel Arteta's Arsenal side. Relevance to standings and momentum.
+Aston Villa: Do Villa have the squad depth to end their 30-year trophy drought?. An injury crisis and a returning hero. Aston Villa's season continues to take sharp turns. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +107,7 @@ Champions League Analysis: Arsenal 3-2 Kairat. Match of the Day pundit Nedum Onu
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League Analysis: Arsenal 3-2 Kairat. https://www.bbc.com/sport/football/videos/c0mkyv70n1do?at_medium=RSS&at_campaign=rss
+- bbc.com — Aston Villa: Do Villa have the squad depth to end their 30-year trophy drought?. https://www.bbc.com/sport/football/articles/cly3p24nnp2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +118,13 @@ Champions League Analysis: Arsenal 3-2 Kairat. Match of the Day pundit Nedum Onu
 
 ### Club Updates
 
-## Story 3: Liverpool 6-0 Qarabag: Can Champions League rescue Liverpool's season of turmoil?
-**Slug (lower-third):** Liverpool 6-0 Qarabag: Can Champions League rescue Liverp…  
-**When:** 2026-01-28 17:48 (America/Winnipeg)  •  **Published:** 2026-01-28 23:48 (UTC)  
+## Story 5: Crystal Palace agree PS50m deal to buy Jorgen Strand Larsen from Wolves
+**Slug (lower-third):** Crystal Palace agree PS50m deal to buy Jorgen Strand Lars…  
+**When:** 2026-01-29 06:40 (America/Winnipeg)  •  **Published:** 2026-01-29 12:40 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool 6-0 Qarabag: Can Champions League rescue Liverpool's season of turmoil?. After sweeping their way into the last 16, chief football writer Phil McNulty asks can the Champions League rescue Liverpool's season of turmoil? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Crystal Palace agree PS50m deal to buy Jorgen Strand Larsen from Wolves. Wolves have agreed to sell Jorgen Strand Larsen to Crystal Palace after receiving a bid totalling PS50m for the Norway striker Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +133,7 @@ Liverpool 6-0 Qarabag: Can Champions League rescue Liverpool's season of turmoil
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool 6-0 Qarabag: Can Champions League rescue Liverpool's season of turmoil?. https://www.bbc.com/sport/football/articles/c5y2zdwjzkvo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Crystal Palace agree PS50m deal to buy Jorgen Strand Larsen from Wolves. https://www.theguardian.com/football/2026/jan/29/transfer-latest-wolves-jorgen-strand-larsen-crystal-palace
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +142,13 @@ Liverpool 6-0 Qarabag: Can Champions League rescue Liverpool's season of turmoil
 
 ---
 
-## Story 4: Champions League: PSG 1-1 Newcastle - highlights
-**Slug (lower-third):** Champions League: PSG 1-1 Newcastle - highlights  
-**When:** 2026-01-28 16:24 (America/Winnipeg)  •  **Published:** 2026-01-28 22:24 (UTC)  
+## Story 6: Lucy Bronze: ''I can just adapt and still be at the highest level'
+**Slug (lower-third):** Lucy Bronze: ''I can just adapt and still be at the highe…  
+**When:** 2026-01-29 06:05 (America/Winnipeg)  •  **Published:** 2026-01-29 12:05 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League: PSG 1-1 Newcastle - highlights. Joe Willock scores for Newcastle as they draw 1-1 with PSG at the Parc des Princes to confirm their place in the Champions League play-offs. Relevance to standings and momentum.
+Lucy Bronze: ''I can just adapt and still be at the highest level'. Chelsea's Lucy Bronze - England's most decorated female footballer - tells BBC Sport's Emma Sanders that she "found even more confidence in myself" after leaving Manchester City in 2022. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,8 +157,7 @@ Champions League: PSG 1-1 Newcastle - highlights. Joe Willock scores for Newcast
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League: PSG 1-1 Newcastle - highlights. https://www.bbc.com/sport/football/videos/cqxy1jrlg7jo?at_medium=RSS&at_campaign=rss
-- skysports.com — PSG 1-1 Newcastle: Both sides miss out on Champions League top eight after entertaining draw in Paris. https://www.skysports.com/football/paris-saint-germain-vs-newcastle-united/report/548053
+- bbc.com — Lucy Bronze: ''I can just adapt and still be at the highest level'. https://www.bbc.com/sport/football/videos/czx32x07lzzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -117,38 +166,13 @@ Champions League: PSG 1-1 Newcastle - highlights. Joe Willock scores for Newcast
 
 ---
 
-## Story 5: Napoli 2-3 Chelsea: Joao Pedro fires Blues into Champions League round of 16 after win in Naples
-**Slug (lower-third):** Napoli 2-3 Chelsea: Joao Pedro fires Blues into Champions…  
-**When:** 2026-01-28 16:15 (America/Winnipeg)  •  **Published:** 2026-01-28 22:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Napoli 2-3 Chelsea: Joao Pedro fires Blues into Champions League round of 16 after win in Naples. Match report as Chelsea beat Napoli to finish sixth in the Champions League league phase; Joao Pedro scored two brilliant goals to win it for Liam Roseniors side; Enzo Fernandez had put Chelsea ahead in the first half; the Blues go straight into the round of 16 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Napoli 2-3 Chelsea: Joao Pedro fires Blues into Champions League round of 16 after win in Naples. https://www.skysports.com/football/news/12040/13500246/napoli-2-3-chelsea-joao-pedro-fires-blues-into-champions-league-round-of-16-after-win-in-naples
-- bbc.com — Champions League: Napoli 2-3 Chelsea - highlights. https://www.bbc.com/sport/football/videos/ckglpgzldgpo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Raheem Sterling leaves Chelsea by mutual agreement
-**Slug (lower-third):** Raheem Sterling leaves Chelsea by mutual agreement  
-**When:** 2026-01-28 16:14 (America/Winnipeg)  •  **Published:** 2026-01-28 22:14 (UTC)  
+## Story 7: Kerstin Casparij: Manchester City full-back meets Alex Scott for Eat & Yap
+**Slug (lower-third):** Kerstin Casparij: Manchester City full-back meets Alex Sc…  
+**When:** 2026-01-29 05:12 (America/Winnipeg)  •  **Published:** 2026-01-29 11:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Raheem Sterling leaves Chelsea by mutual agreement. Raheem Sterling is a free agent after the forward reached an agreement with Chelsea to end his contact, the club confirmed on Wednesday. Relevance to standings and momentum.
+Kerstin Casparij: Manchester City full-back meets Alex Scott for Eat & Yap. Manchester City's exciting full-back Kerstin Casparij answers Alex Scott's quickfire questions in BBC Sport's new Eat & Yap series. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,8 +181,7 @@ Raheem Sterling leaves Chelsea by mutual agreement. Raheem Sterling is a free ag
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Raheem Sterling leaves Chelsea by mutual agreement. https://www.espn.com/soccer/story/_/id/47755357/raheem-sterling-leaves-chelsea-mutual-agreement
-- theguardian.com — Raheem Sterling leaves Chelsea by mutual consent and seeks fresh start. https://www.theguardian.com/football/2026/jan/28/raheem-sterling-leaves-chelsea-by-mutual-consent-seeks-fresh-start-contract
+- bbc.com — Kerstin Casparij: Manchester City full-back meets Alex Scott for Eat & Yap. https://www.bbc.com/sport/football/videos/c70lyxd2n0ko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +190,37 @@ Raheem Sterling leaves Chelsea by mutual agreement. Raheem Sterling is a free ag
 
 ---
 
-## Story 7: Champions League: Eintracht Frankfurt 0-2 Tottenham Hotspur - highlights
-**Slug (lower-third):** Champions League: Eintracht Frankfurt 0-2 Tottenham Hotsp…  
-**When:** 2026-01-28 16:08 (America/Winnipeg)  •  **Published:** 2026-01-28 22:08 (UTC)  
+## Story 8: England set to clinch fifth Champions League spot for second year running through UEFA coefficient table
+**Slug (lower-third):** England set to clinch fifth Champions League spot for sec…  
+**When:** 2026-01-29 05:00 (America/Winnipeg)  •  **Published:** 2026-01-29 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+England set to clinch fifth Champions League spot for second year running through UEFA coefficient table. England is top of UEFAs coefficient table and on track to clinch a fifth Champions League place for the second consecutive year; all nine of Englands clubs are still active in Europe; Arsenal, Liverpool, Tottenham, Chelsea and Man City are in the Champions League last 16 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — England set to clinch fifth Champions League spot for second year running through UEFA coefficient table. https://www.skysports.com/football/news/12040/13500551/england-set-to-clinch-fifth-champions-league-spot-for-second-year-running-through-uefa-coefficient-table
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Jorgen Strand Larsen: Crystal Palace agree deal in principle for Wolves striker
+**Slug (lower-third):** Jorgen Strand Larsen: Crystal Palace agree deal in princi…  
+**When:** 2026-01-29 04:47 (America/Winnipeg)  •  **Published:** 2026-01-29 10:47 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League: Eintracht Frankfurt 0-2 Tottenham Hotspur - highlights. Goals from Randal Kolo Muani and Dominic Solanke give Tottenham a comfortable 2-0 away win against Eintracht Frankfurt, as Thomas Frank's side finish the league phase in fourth to automatically qualify for the last 16 of the Champions League. Relevance to standings and momentum.
+Jorgen Strand Larsen: Crystal Palace agree deal in principle for Wolves striker. Crystal Palace agree a deal in principle worth in the region of APS50m to sign Wolves striker Jorgen Strand Larsen. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,8 +229,7 @@ Champions League: Eintracht Frankfurt 0-2 Tottenham Hotspur - highlights. Goals 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League: Eintracht Frankfurt 0-2 Tottenham Hotspur - highlights. https://www.bbc.com/sport/football/videos/cgezp3lwrnvo?at_medium=RSS&at_campaign=rss
-- skysports.com — Eintracht Frankfurt 0-2 Tottenham: Spurs qualify for last 16 of Champions League with fourth-placed finish. https://www.skysports.com/football/eintracht-frankfurt-vs-tottenham-hotspur/report/548046
+- bbc.com — Jorgen Strand Larsen: Crystal Palace agree deal in principle for Wolves striker. https://www.bbc.com/sport/football/articles/cr7jx97j8jjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -192,13 +238,13 @@ Champions League: Eintracht Frankfurt 0-2 Tottenham Hotspur - highlights. Goals 
 
 ---
 
-## Story 8: PSG 1-1 Newcastle: Howe's side prove they can mix it with European champions
-**Slug (lower-third):** PSG 1-1 Newcastle: Howe's side prove they can mix it with…  
-**When:** 2026-01-28 18:40 (America/Winnipeg)  •  **Published:** 2026-01-29 00:40 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 10: Jamie Vardy at Cremonese: Leicester hero is scoring goals in Serie A at 39 - and Foxes fans are still visiting him in Italy
+**Slug (lower-third):** Jamie Vardy at Cremonese: Leicester hero is scoring goals…  
+**When:** 2026-01-29 04:00 (America/Winnipeg)  •  **Published:** 2026-01-29 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-PSG 1-1 Newcastle: Howe's side prove they can mix it with European champions. Newcastle United have experienced all manner of emotions at the Parc des Princes, but the visitors left with immense pride following a 1-1 draw against Paris St-Germain Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jamie Vardy at Cremonese: Leicester hero is scoring goals in Serie A at 39 - and Foxes fans are still visiting him in Italy. With Jamie Vardy preparing to face Inter with Cremonese in Serie A this weekend, Adam Bate visits Cremona to find out more about the former England strikers impact in Italy and discovers that many Leicester supporters are making the same journey... Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -207,55 +253,7 @@ PSG 1-1 Newcastle: Howe's side prove they can mix it with European champions. Ne
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — PSG 1-1 Newcastle: Howe's side prove they can mix it with European champions. https://www.bbc.com/sport/football/articles/cp82r3qmz65o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Champions League - why are Premier League sides dominating?
-**Slug (lower-third):** Champions League - why are Premier League sides dominatin…  
-**When:** 2026-01-28 18:24 (America/Winnipeg)  •  **Published:** 2026-01-29 00:24 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League - why are Premier League sides dominating?. Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League - why are Premier League sides dominating?. https://www.bbc.com/sport/football/articles/cy0520ey7jjo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Champions League: Is the Premier League on course for a fifth place in next year's competition?
-**Slug (lower-third):** Champions League: Is the Premier League on course for a f…  
-**When:** 2026-01-28 17:22 (America/Winnipeg)  •  **Published:** 2026-01-28 23:22 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League: Is the Premier League on course for a fifth place in next year's competition?. Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League: Is the Premier League on course for a fifth place in next year's competition?. https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&at_campaign=rss
+- skysports.com — Jamie Vardy at Cremonese: Leicester hero is scoring goals in Serie A at 39 - and Foxes fans are still visiting him in Italy. https://www.skysports.com/football/news/12040/13488366/jamie-vardy-at-cremonese-leicester-hero-is-scoring-goals-in-serie-a-at-39-and-foxes-fans-are-still-visiting-him-in-italy
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
