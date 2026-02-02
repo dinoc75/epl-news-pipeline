@@ -1,14 +1,5 @@
-resp_01f23253a88a95f3006980a21b26688193b4e4b0b0e763750e
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_01f23253a88a95f3006980a21b6908819388438368c8896d50
-reasoning
-auto
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Good morning — Jonathan Wilson argues in The Guardian that Manchester City's \"snakebitten\" second halves are systematically undermining their Premier League title bid. Pep Guardiola's side, Wilson writes, would be top of the table if they had managed to hold more leads late in games; exact figures for points dropped or the number of affected matches are Not specified in the source. The article singles out the pattern of conceding after half-time as the defining problem for City against rivals such as Arsenal and outlines tactical and psychological reasons for the collapse. Published 2026-02-02 10:40 (local), this piece demands a close look at City's run-in and Guardiola's response.",
+  "why": [
+    "It explains a recurring second-half problem that directly affects the title race outcome.",
+    "
