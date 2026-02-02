@@ -1,54 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-01 12:38 (America/Winnipeg)  |  2026-02-01 18:38 (UTC)
+**Generated:** 2026-02-01 20:26 (America/Winnipeg)  |  2026-02-02 02:26 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 36s
+**Estimated total video length:** ~4m 30s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Spurs vs Manchester City: Solanke scores SCORPION KICK equaliser against City!
-- Spurs vs Manchester City: Guehi own-goal halves Spurs' deficit
-- Jorgen Strand Larsen: Crystal Palace's reduced APS48m bid for Wolves striker accepted
-
----
-
-### League & Regulation
-
-## Story 1: Aston Villa controversially denied equaliser against Brentford by VAR despite lack of conclusive evidence
-**Slug (lower-third):** Aston Villa controversially denied equaliser against Bren…  
-**When:** 2026-02-01 10:46 (America/Winnipeg)  •  **Published:** 2026-02-01 16:46 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Aston Villa controversially denied equaliser against Brentford by VAR despite lack of conclusive evidence. Aston Villa were controversially denied an equaliser by VAR in the 1-0 defeat to Brentford; Tammy Abraham scored but VAR ruled the ball had gone out of play 19 seconds beforehand; referee claimed it was factually out of play but no conclusive evidence shown Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Aston Villa controversially denied equaliser against Brentford by VAR despite lack of conclusive evidence. https://www.skysports.com/football/news/12040/13501991/aston-villa-controversially-denied-equaliser-against-brentford-by-var-despite-lack-of-conclusive-evidence
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Match of the Day - 2025/26: 01/02/2026
+- Danny Murphy column: 'Complacent and lost control' - Man City's second-half problem
+- Liverpool beat Chelsea to agree PS60m summer deal for Rennes centre-back Jeremy Jacquet
 
 ---
 
 ### Club Updates
 
-## Story 2: Spurs vs Manchester City: Solanke scores SCORPION KICK equaliser against City!
-**Slug (lower-third):** Spurs vs Manchester City: Solanke scores SCORPION KICK eq…  
-**When:** 2026-02-01 12:08 (America/Winnipeg)  •  **Published:** 2026-02-01 18:08 (UTC)  
+## Story 1: Match of the Day - 2025/26: 01/02/2026
+**Slug (lower-third):** Match of the Day - 2025/26: 01/02/2026  
+**When:** 2026-02-01 17:41 (America/Winnipeg)  •  **Published:** 2026-02-01 23:41 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Spurs vs Manchester City: Solanke scores SCORPION KICK equaliser against City!. Solanke scores SCORPION KICK equaliser for Spurs against Manchester City in the Premier League. Relevance to standings and momentum.
+Match of the Day - 2025/26: 01/02/2026. Highlights of four Premier League games, including Tottenham v Manchester City. Also on the programme, Manchester United v Fulham, Aston Villa v Brentford and Nottingham Forest v Crystal Palace. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +31,7 @@ Spurs vs Manchester City: Solanke scores SCORPION KICK equaliser against City!. 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Spurs vs Manchester City: Solanke scores SCORPION KICK equaliser against City!. https://www.skysports.com/watch/video/13502037/goal-d-solanke-70-spurs-2-2-manchester-city
+- bbc.co.uk — Match of the Day - 2025/26: 01/02/2026. https://www.bbc.co.uk/iplayer/episode/m002qwy6/match-of-the-day-202526-01022026?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +40,13 @@ Spurs vs Manchester City: Solanke scores SCORPION KICK equaliser against City!. 
 
 ---
 
-## Story 3: Spurs vs Manchester City: Guehi own-goal halves Spurs' deficit
-**Slug (lower-third):** Spurs vs Manchester City: Guehi own-goal halves Spurs' de…  
-**When:** 2026-02-01 11:48 (America/Winnipeg)  •  **Published:** 2026-02-01 17:48 (UTC)  
+## Story 2: Danny Murphy column: 'Complacent and lost control' - Man City's second-half problem
+**Slug (lower-third):** Danny Murphy column: 'Complacent and lost control' - Man …  
+**When:** 2026-02-01 17:25 (America/Winnipeg)  •  **Published:** 2026-02-01 23:25 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Spurs vs Manchester City: Guehi own-goal halves Spurs' deficit. Guehi own-goal halves Spurs deficit against Manchester City in the Premier League. Relevance to standings and momentum.
+Danny Murphy column: 'Complacent and lost control' - Man City's second-half problem. MOTD pundit Danny Murphy explains why Manchester City's collapse from a 2-0 half-time lead to draw 2-2 with Tottenham was not just a tactical issue. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +55,7 @@ Spurs vs Manchester City: Guehi own-goal halves Spurs' deficit. Guehi own-goal h
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Spurs vs Manchester City: Guehi own-goal halves Spurs' deficit. https://www.skysports.com/watch/video/13502029/goal-m-guehi-53-og-spurs-1-2-manchester-city
+- bbc.com — Danny Murphy column: 'Complacent and lost control' - Man City's second-half problem. https://www.bbc.com/sport/football/articles/cj4ljn2jjjno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +64,13 @@ Spurs vs Manchester City: Guehi own-goal halves Spurs' deficit. Guehi own-goal h
 
 ---
 
-## Story 4: Jorgen Strand Larsen: Crystal Palace's reduced APS48m bid for Wolves striker accepted
-**Slug (lower-third):** Jorgen Strand Larsen: Crystal Palace's reduced APS48m bid…  
-**When:** 2026-02-01 10:55 (America/Winnipeg)  •  **Published:** 2026-02-01 16:55 (UTC)  
+## Story 3: Liverpool beat Chelsea to agree PS60m summer deal for Rennes centre-back Jeremy Jacquet
+**Slug (lower-third):** Liverpool beat Chelsea to agree PS60m summer deal for Ren…  
+**When:** 2026-02-01 17:06 (America/Winnipeg)  •  **Published:** 2026-02-01 23:06 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jorgen Strand Larsen: Crystal Palace's reduced APS48m bid for Wolves striker accepted. Wolves have accepted a reduced offer worth APS48m for striker Jorgen Strand Larsen from Crystal Palace. Relevance to standings and momentum.
+Liverpool beat Chelsea to agree PS60m summer deal for Rennes centre-back Jeremy Jacquet. Liverpool have agreed a PS60m deal for the Rennes defender Jeremy Jacquet, while Wolves have accepted Palace's PS48m bid for Jorgen Strand Larsen Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +79,8 @@ Jorgen Strand Larsen: Crystal Palace's reduced APS48m bid for Wolves striker acc
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Jorgen Strand Larsen: Crystal Palace's reduced APS48m bid for Wolves striker accepted. https://www.bbc.com/sport/football/articles/cy59zngnxd1o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Liverpool beat Chelsea to agree PS60m summer deal for Rennes centre-back Jeremy Jacquet. https://www.theguardian.com/football/2026/feb/01/crystal-palace-agree-48m-deal-for-strand-larsen-as-liverpool-eye-geertruida-move
+- bbc.com — Jeremy Jacquet: Liverpool agree APS60m deal for Rennes defender. https://www.bbc.com/sport/football/articles/c20glv2qwdgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +89,13 @@ Jorgen Strand Larsen: Crystal Palace's reduced APS48m bid for Wolves striker acc
 
 ---
 
-## Story 5: Man Utd 3-2 Fulham: VAR found different foul because referee John Brooks' decision was 'so bad', claims Marco Silva
-**Slug (lower-third):** Man Utd 3-2 Fulham: VAR found different foul because refe…  
-**When:** 2026-02-01 10:55 (America/Winnipeg)  •  **Published:** 2026-02-01 16:55 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+## Story 4: Premier League Highlights: Tottenham Hotspur 2-2 Manchester City
+**Slug (lower-third):** Premier League Highlights: Tottenham Hotspur 2-2 Manchest…  
+**When:** 2026-02-01 13:59 (America/Winnipeg)  •  **Published:** 2026-02-01 19:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd 3-2 Fulham: VAR found different foul because referee John Brooks' decision was 'so bad', claims Marco Silva. Fulham lost 3-2 at Manchester United on Sunday after Benjamin Seskos late winner; United went ahead from a free-kick after John Brooks penalty decision was overturned; Fulham boss Marco Silva believes the penalty was given for a different foul than the one VAR decided on Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League Highlights: Tottenham Hotspur 2-2 Manchester City. Dominic Solanke scores twice, including a spectacular scorpion kick, as Tottenham come from behind to draw against Manchester City with a rousing second-half performance. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +104,8 @@ Man Utd 3-2 Fulham: VAR found different foul because referee John Brooks' decisi
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man Utd 3-2 Fulham: VAR found different foul because referee John Brooks' decision was 'so bad', claims Marco Silva. https://www.skysports.com/football/news/12040/13501997/man-utd-3-2-fulham-var-found-different-foul-because-referee-john-brooks-decision-was-so-bad-claims-marco-silva
+- bbc.com — Premier League Highlights: Tottenham Hotspur 2-2 Manchester City. https://www.bbc.com/sport/football/videos/cvgp9d1xj29o?at_medium=RSS&at_campaign=rss
+- skysports.com — Spurs 2-2 Manchester City | Premier League highlights. https://www.skysports.com/watch/video/13502052/spurs-2-2-manchester-city-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +114,13 @@ Man Utd 3-2 Fulham: VAR found different foul because referee John Brooks' decisi
 
 ---
 
-## Story 6: Sesko seals dramatic win over Fulham to continue Manchester United revival
-**Slug (lower-third):** Sesko seals dramatic win over Fulham to continue Manchest…  
-**When:** 2026-02-01 10:48 (America/Winnipeg)  •  **Published:** 2026-02-01 16:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Football gossip: Beto, Marcus Rashford, Endrick, Davide Frattesi, Denzel Dumfries
+**Slug (lower-third):** Football gossip: Beto, Marcus Rashford, Endrick, Davide F…  
+**When:** 2026-02-01 16:17 (America/Winnipeg)  •  **Published:** 2026-02-01 22:17 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sesko seals dramatic win over Fulham to continue Manchester United revival. Benjamin Sesko scored in stoppage time to earn Manchester United a 3-2 win after Fulham had fought back from 2-0 down at Old Trafford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Beto, Marcus Rashford, Endrick, Davide Frattesi, Denzel Dumfries. Marcus Rashford's future may be out of Manchester United's control, Liverpool look set to miss out on a target and Newcastle United's Jamaal Lascelles could be heading for the Championship. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +129,7 @@ Sesko seals dramatic win over Fulham to continue Manchester United revival. Benj
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Sesko seals dramatic win over Fulham to continue Manchester United revival. https://www.theguardian.com/football/2026/feb/01/manchester-united-fulham-premier-league-match-report
+- bbc.com — Football gossip: Beto, Marcus Rashford, Endrick, Davide Frattesi, Denzel Dumfries. https://www.bbc.com/sport/football/articles/cp370nrklkqo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +138,13 @@ Sesko seals dramatic win over Fulham to continue Manchester United revival. Benj
 
 ---
 
-## Story 7: Kerolin crushes Chelsea's WSL hopes to send Manchester City 11 points clear at top
-**Slug (lower-third):** Kerolin crushes Chelsea's WSL hopes to send Manchester Ci…  
-**When:** 2026-02-01 10:41 (America/Winnipeg)  •  **Published:** 2026-02-01 16:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: Winmau World Darts Masters: Luke Littler pips Luke Humphries in final-set thriller to claim TV title in Milton Keynes
+**Slug (lower-third):** Winmau World Darts Masters: Luke Littler pips Luke Humphr…  
+**When:** 2026-02-01 16:10 (America/Winnipeg)  •  **Published:** 2026-02-01 22:10 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Kerolin crushes Chelsea's WSL hopes to send Manchester City 11 points clear at top. Kerolin scored a hat-trick as Manchester City thrashed champions Chelsea 5-1 to surge 11 points clear at the top of the Women's Super League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Winmau World Darts Masters: Luke Littler pips Luke Humphries in final-set thriller to claim TV title in Milton Keynes. Luke Littler saw off Josh Rock and Gerwyn Price before edging Luke Humphries in the final set: Littlers win is his 11th PDC major title and continues extraordinary career; watch Premier League Darts live from Thursday on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +153,7 @@ Kerolin crushes Chelsea's WSL hopes to send Manchester City 11 points clear at t
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Kerolin crushes Chelsea's WSL hopes to send Manchester City 11 points clear at top. https://www.theguardian.com/football/2026/feb/01/manchester-city-chelsea-wsl-match-report
+- skysports.com — Winmau World Darts Masters: Luke Littler pips Luke Humphries in final-set thriller to claim TV title in Milton Keynes. https://www.skysports.com/darts/news/12040/13501857/winmau-world-darts-masters-luke-littler-pips-luke-humphries-in-final-set-thriller-to-claim-tv-title-in-milton-keynes
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +162,13 @@ Kerolin crushes Chelsea's WSL hopes to send Manchester City 11 points clear at t
 
 ---
 
-## Story 8: Saint-Maximin parts with club 'after children racially abused'
-**Slug (lower-third):** Saint-Maximin parts with club 'after children racially ab…  
-**When:** 2026-02-01 10:36 (America/Winnipeg)  •  **Published:** 2026-02-01 16:36 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: 'Not often you can write Arsenal history' - Gunners claim Fifa Women's Champions Cup against Corinthians
+**Slug (lower-third):** 'Not often you can write Arsenal history' - Gunners claim…  
+**When:** 2026-02-01 16:06 (America/Winnipeg)  •  **Published:** 2026-02-01 22:06 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Saint-Maximin parts with club 'after children racially abused'. Former Newcastle United winger Allan Saint-Maximin leaves Mexican side Club America by mutual consent after saying his children were the victims of racist abuse. Relevance to standings and momentum.
+'Not often you can write Arsenal history' - Gunners claim Fifa Women's Champions Cup against Corinthians. The inaugural Women's Champions Cup delivered the kind of spectacle Fifa would have hoped for when launching the new inter-continental competition last March. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +177,7 @@ Saint-Maximin parts with club 'after children racially abused'. Former Newcastle
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Saint-Maximin parts with club 'after children racially abused'. https://www.bbc.com/sport/football/articles/c20gl91pwy1o?at_medium=RSS&at_campaign=rss
+- bbc.com — 'Not often you can write Arsenal history' - Gunners claim Fifa Women's Champions Cup against Corinthians. https://www.bbc.com/sport/football/articles/cn8jm4mmk8no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +186,13 @@ Saint-Maximin parts with club 'after children racially abused'. Former Newcastle
 
 ---
 
-## Story 9: Man City Women 5-1 Chelsea Women: Kerolin scores hat-trick to underline WSL title credentials as Blues exit race
-**Slug (lower-third):** Man City Women 5-1 Chelsea Women: Kerolin scores hat-tric…  
-**When:** 2026-02-01 10:30 (America/Winnipeg)  •  **Published:** 2026-02-01 16:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Race for Premier League title: Arsenal sitting pretty as rivals Man City and Aston Villa stumble
+**Slug (lower-third):** Race for Premier League title: Arsenal sitting pretty as …  
+**When:** 2026-02-01 15:01 (America/Winnipeg)  •  **Published:** 2026-02-01 21:01 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City Women 5-1 Chelsea Women: Kerolin scores hat-trick to underline WSL title credentials as Blues exit race. Manchester City opened up an 11-point gap at the top of the Women's Super League table after demolishing defending champions Chelsea 5-1 at the Etihad. Relevance to standings and momentum.
+Race for Premier League title: Arsenal sitting pretty as rivals Man City and Aston Villa stumble. Arsenal will only have themselves to blame if they do not win the title as their rivals stumble in a perfect weekend for the Gunners, says chief football writer Phil McNulty. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +201,7 @@ Man City Women 5-1 Chelsea Women: Kerolin scores hat-trick to underline WSL titl
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man City Women 5-1 Chelsea Women: Kerolin scores hat-trick to underline WSL title credentials as Blues exit race. https://www.skysports.com/football/manchester-city-women-vs-chelsea-women/report/545685
+- bbc.com — Race for Premier League title: Arsenal sitting pretty as rivals Man City and Aston Villa stumble. https://www.bbc.com/sport/football/articles/cd7z981295xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +210,13 @@ Man City Women 5-1 Chelsea Women: Kerolin scores hat-trick to underline WSL titl
 
 ---
 
-## Story 10: Aston Villa's title hopes dealt blow by 10-man Brentford amid VAR drama
-**Slug (lower-third):** Aston Villa's title hopes dealt blow by 10-man Brentford …  
-**When:** 2026-02-01 10:18 (America/Winnipeg)  •  **Published:** 2026-02-01 16:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Man City second-half sloppiness is punished at Spurs - Premier League hits and misses
+**Slug (lower-third):** Man City second-half sloppiness is punished at Spurs - Pr…  
+**When:** 2026-02-01 15:00 (America/Winnipeg)  •  **Published:** 2026-02-01 21:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa's title hopes dealt blow by 10-man Brentford amid VAR drama. Aston Villa were beaten 1-0 at home by Brentford, Dango Ouattara's brilliant strike settling the game despite Kevin Schade's red card for the visitors Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Man City second-half sloppiness is punished at Spurs - Premier League hits and misses. Sky Sports football writers analyse Sundays Premier League action, including Casemiros Man Utd renaissance and Man Citys sloppy second half is punished at Tottenham as Xavi Simons begins to show his quality in England Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +225,31 @@ Aston Villa's title hopes dealt blow by 10-man Brentford amid VAR drama. Aston V
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Aston Villa's title hopes dealt blow by 10-man Brentford amid VAR drama. https://www.theguardian.com/football/2026/feb/01/aston-villa-brentford-premier-league-match-report
+- skysports.com — Man City second-half sloppiness is punished at Spurs - Premier League hits and misses. https://www.skysports.com/football/news/12040/13501077/man-city-second-half-sloppiness-is-punished-at-spurs-premier-league-hits-and-misses
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Guardiola complains over Solanke's first goal after Manchester City blow 2-0 lead
+**Slug (lower-third):** Guardiola complains over Solanke's first goal after Manch…  
+**When:** 2026-02-01 15:11 (America/Winnipeg)  •  **Published:** 2026-02-01 21:11 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Guardiola complains over Solanke's first goal after Manchester City blow 2-0 lead. Pep Guardiola was left frustrated once again by a refereeing decision as Manchester City lost ground in the title race after a chaotic 2-2 draw at Tottenham Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Guardiola complains over Solanke's first goal after Manchester City blow 2-0 lead. https://www.theguardian.com/football/2026/feb/01/pep-guardiola-targets-referee-after-manchester-city-blow-2-0-lead-at-spurs
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
