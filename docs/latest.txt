@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-02 12:48 (America/Winnipeg)  |  2026-02-02 18:48 (UTC)
+**Generated:** 2026-02-02 20:24 (America/Winnipeg)  |  2026-02-03 02:24 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Transfer news: Full list of all done deals in February - including transfer deadline day
-- Tottenham transfer news: Wilson set to sign from hearts
-- Jean-Philippe Mateta move from Crystal Palace to AC Milan called off
+- Celtic: Junior Adamu, Benjamin Arthur and Joel Mvuka join on loan
+- Transfer deadline day: Record low deals completed on quiet day
+- Troy Deeney's Team of the Week: Hugo Ekitike, Florian Wirtz, Dominic Solanke, Gabriel, Enzo Fernandez
 
 ---
 
 ### Transfers
 
-## Story 1: Transfer news: Full list of all done deals in February - including transfer deadline day
-**Slug (lower-third):** Transfer news: Full list of all done deals in February - …  
-**When:** 2026-02-02 12:36 (America/Winnipeg)  •  **Published:** 2026-02-02 18:36 (UTC)  
+## Story 1: Celtic: Junior Adamu, Benjamin Arthur and Joel Mvuka join on loan
+**Slug (lower-third):** Celtic: Junior Adamu, Benjamin Arthur and Joel Mvuka join…  
+**When:** 2026-02-02 18:40 (America/Winnipeg)  •  **Published:** 2026-02-03 00:40 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Transfer news: Full list of all done deals in February - including transfer deadline day. Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League. Implications for the squad and table.
+Celtic: Junior Adamu, Benjamin Arthur and Joel Mvuka join on loan. Celtic have signed Austria striker Junior Adamu from Bundesliga club Freiburg, Brentford centre-half Benjamin Arthur and Lorient winger Joel Mvuka, all on loan to the end of the season. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,8 @@ Transfer news: Full list of all done deals in February - including transfer dead
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Transfer news: Full list of all done deals in February - including transfer deadline day. https://www.bbc.com/sport/football/articles/cy59zrq4ywgo?at_medium=RSS&at_campaign=rss
+- bbc.com — Celtic: Junior Adamu, Benjamin Arthur and Joel Mvuka join on loan. https://www.bbc.com/sport/football/articles/c99kdgge92ko?at_medium=RSS&at_campaign=rss
+- skysports.com — Celtic transfers: Junior Adamu, Benjamin Arthur and Joel Mvuka join on loan amid Alex Oxlade-Chamberlain interest as Arne Engels bids rejected. https://www.skysports.com/football/news/12040/13502552/celtic-transfers-junior-adamu-benjamin-arthur-and-joel-mvuka-join-on-loan-amid-alex-oxlade-chamberlain-interest-as-arne-engels-bids-rejected
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +41,13 @@ Transfer news: Full list of all done deals in February - including transfer dead
 
 ---
 
-## Story 2: Tottenham transfer news: Wilson set to sign from hearts
-**Slug (lower-third):** Tottenham transfer news: Wilson set to sign from hearts  
-**When:** 2026-02-02 11:56 (America/Winnipeg)  •  **Published:** 2026-02-02 17:56 (UTC)  
+## Story 2: Transfer deadline day: Record low deals completed on quiet day
+**Slug (lower-third):** Transfer deadline day: Record low deals completed on quie…  
+**When:** 2026-02-02 18:14 (America/Winnipeg)  •  **Published:** 2026-02-03 00:14 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham transfer news: Wilson set to sign from hearts. Tottenham are set to sign Hearts teenage striker James Wilson on loan. Implications for the squad and table.
+Transfer deadline day: Record low deals completed on quiet day. A low-key transfer deadline day ended with the fewest Premier League deals completed in a winter window. BBC Sport looks at the spending that was done, and examines why there was so little activity. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +56,7 @@ Tottenham transfer news: Wilson set to sign from hearts. Tottenham are set to si
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tottenham transfer news: Wilson set to sign from hearts. https://www.bbc.com/sport/football/articles/ce9yek20r53o?at_medium=RSS&at_campaign=rss
+- bbc.com — Transfer deadline day: Record low deals completed on quiet day. https://www.bbc.com/sport/football/articles/c30154v3r0zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +65,13 @@ Tottenham transfer news: Wilson set to sign from hearts. Tottenham are set to si
 
 ---
 
-## Story 3: Nottingham Forest transfer news: Club make third bid worth APS25m for Celtic's Arne Engels
-**Slug (lower-third):** Nottingham Forest transfer news: Club make third bid wort…  
-**When:** 2026-02-02 10:45 (America/Winnipeg)  •  **Published:** 2026-02-02 16:45 (UTC)  
+## Story 3: January transfer window: Your club's business assessed, including Man Utd, Liverpool and Arsenal
+**Slug (lower-third):** January transfer window: Your club's business assessed, i…  
+**When:** 2026-02-02 17:20 (America/Winnipeg)  •  **Published:** 2026-02-02 23:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest transfer news: Club make third bid worth APS25m for Celtic's Arne Engels. Nottingham Forest table a third offer for Celtic midfielder Arne Engels worth up to APS25m. Implications for the squad and table.
+January transfer window: Your club's business assessed, including Man Utd, Liverpool and Arsenal. The winter transfer window is closed and more than PS400m was spent on signings by Premier League teams - but how did your club do in the market? Sky Sports analyses every sides business in this window... Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +80,7 @@ Nottingham Forest transfer news: Club make third bid worth APS25m for Celtic's A
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Nottingham Forest transfer news: Club make third bid worth APS25m for Celtic's Arne Engels. https://www.bbc.com/sport/football/articles/cedw74ypqldo?at_medium=RSS&at_campaign=rss
+- skysports.com — January transfer window: Your club's business assessed, including Man Utd, Liverpool and Arsenal. https://www.skysports.com/football/news/12040/13502284/january-transfer-window-your-clubs-business-assessed-including-man-utd-liverpool-and-arsenal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -88,13 +89,13 @@ Nottingham Forest transfer news: Club make third bid worth APS25m for Celtic's A
 
 ---
 
-## Story 4: Kalvin Phillips: Man City midfielder set to complete loan move to Sheffield United
-**Slug (lower-third):** Kalvin Phillips: Man City midfielder set to complete loan…  
-**When:** 2026-02-02 10:39 (America/Winnipeg)  •  **Published:** 2026-02-02 16:39 (UTC)  
+## Story 4: Football Daily - Monday Night Club: Mateta's move off, City's slump and Liverpool's new star man - BBC Sounds
+**Slug (lower-third):** Football Daily - Monday Night Club: Mateta's move off, Ci…  
+**When:** 2026-02-02 16:59 (America/Winnipeg)  •  **Published:** 2026-02-02 22:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Kalvin Phillips: Man City midfielder set to complete loan move to Sheffield United. Manchester City midfielder Kalvin Phillips set to complete a loan move to Sheffield United. Implications for the squad and table.
+Football Daily - Monday Night Club: Mateta's move off, City's slump and Liverpool's new star man - BBC Sounds. Reaction to an underwhelming Transfer Deadline Day and Arsenal's six-point lead. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -103,7 +104,7 @@ Kalvin Phillips: Man City midfielder set to complete loan move to Sheffield Unit
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Kalvin Phillips: Man City midfielder set to complete loan move to Sheffield United. https://www.bbc.com/sport/football/articles/cwywzz99wwko?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Football Daily - Monday Night Club: Mateta's move off, City's slump and Liverpool's new star man - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0myptth?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -112,13 +113,13 @@ Kalvin Phillips: Man City midfielder set to complete loan move to Sheffield Unit
 
 ---
 
-## Story 5: Nottingham Forest transfer news: Celtic reject PS25m deadline day bid for Arne Engels
-**Slug (lower-third):** Nottingham Forest transfer news: Celtic reject PS25m dead…  
-**When:** 2026-02-02 09:42 (America/Winnipeg)  •  **Published:** 2026-02-02 15:42 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
+## Story 5: Wolves transfer news: Deadline Day double signing as Adam Armstrong and Angel Gomes complete moves to Molineux
+**Slug (lower-third):** Wolves transfer news: Deadline Day double signing as Adam…  
+**When:** 2026-02-02 16:24 (America/Winnipeg)  •  **Published:** 2026-02-02 22:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest transfer news: Celtic reject PS25m deadline day bid for Arne Engels. Nottingham Forest have seen a third bid for Celtic midfielder Arne Engels rejected; Forests deadline day offer was PS25m for the 22-year-old; Celtic turned down the offer for their club-record signing Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Wolves transfer news: Deadline Day double signing as Adam Armstrong and Angel Gomes complete moves to Molineux. Wolves have bolstered their squad with the signings of striker Adam Armstrong and midfielder Angel Gomes; Armstrong joins on a three-and-a-half-year deal; England international Gomes joins on loan for the rest of the season, with the deal including an option to buy Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -127,7 +128,7 @@ Nottingham Forest transfer news: Celtic reject PS25m deadline day bid for Arne E
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Nottingham Forest transfer news: Celtic reject PS25m deadline day bid for Arne Engels. https://www.skysports.com/football/news/12040/13502390/nottingham-forest-transfer-news-celtic-reject-25m-deadline-day-bid-for-arne-engels
+- skysports.com — Wolves transfer news: Deadline Day double signing as Adam Armstrong and Angel Gomes complete moves to Molineux. https://www.skysports.com/football/news/12040/13502441/wolves-transfer-news-deadline-day-double-signing-as-adam-armstrong-and-angel-gomes-complete-moves-to-molineux
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -136,13 +137,13 @@ Nottingham Forest transfer news: Celtic reject PS25m deadline day bid for Arne E
 
 ---
 
-## Story 6: Casemiro: Why Manchester United are not prepared to U-turn on Brazilian midfielder despite excellent Premier League form
-**Slug (lower-third):** Casemiro: Why Manchester United are not prepared to U-tur…  
-**When:** 2026-02-02 07:40 (America/Winnipeg)  •  **Published:** 2026-02-02 13:40 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~30s
+## Story 6: Axel Disasi joins West Ham on loan from Chelsea
+**Slug (lower-third):** Axel Disasi joins West Ham on loan from Chelsea  
+**When:** 2026-02-02 12:42 (America/Winnipeg)  •  **Published:** 2026-02-02 18:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Casemiro: Why Manchester United are not prepared to U-turn on Brazilian midfielder despite excellent Premier League form. Man Utd wont U-turn on the decision to allow Casemiro to leave when his contract expires in June despite improved Premier League form under Michael Carrick; the club are forward planning and expected to chase a number of midfield targets in the summer, with Elliot Anderson top of list Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Axel Disasi joins West Ham on loan from Chelsea. West Ham have signed defender Axel Disasi on loan from Chelsea until the end of the season. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -151,7 +152,9 @@ Casemiro: Why Manchester United are not prepared to U-turn on Brazilian midfield
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Casemiro: Why Manchester United are not prepared to U-turn on Brazilian midfielder despite excellent Premier League form. https://www.skysports.com/football/news/12040/13502285/casemiro-why-manchester-united-are-not-prepared-to-u-turn-on-brazilian-midfielder-despite-excellent-premier-league-form
+- espn.com — Axel Disasi joins West Ham on loan from Chelsea. https://www.espn.com/soccer/story/_/id/47805437/axel-disasi-west-ham-loan-chelsea-defender-transfers-premier-league
+- theguardian.com — West Ham convince Chelsea defender Axel Disasi to join on loan for season. https://www.theguardian.com/football/2026/feb/02/west-ham-chelsea-axel-disasi-loan-transfer-window
+- bbc.com — Axel Disasi: West Ham sign Chelsea defender on loan for remainder of the season. https://www.bbc.com/sport/football/articles/c1m7v1l7glzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +165,13 @@ Casemiro: Why Manchester United are not prepared to U-turn on Brazilian midfield
 
 ### Club Updates
 
-## Story 7: Jean-Philippe Mateta move from Crystal Palace to AC Milan called off
-**Slug (lower-third):** Jean-Philippe Mateta move from Crystal Palace to AC Milan…  
-**When:** 2026-02-02 11:49 (America/Winnipeg)  •  **Published:** 2026-02-02 17:49 (UTC)  
+## Story 7: Troy Deeney's Team of the Week: Hugo Ekitike, Florian Wirtz, Dominic Solanke, Gabriel, Enzo Fernandez
+**Slug (lower-third):** Troy Deeney's Team of the Week: Hugo Ekitike, Florian Wir…  
+**When:** 2026-02-02 17:23 (America/Winnipeg)  •  **Published:** 2026-02-02 23:23 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jean-Philippe Mateta move from Crystal Palace to AC Milan called off. Crystal Palace striker Jean-Philippe Mateta's move to AC Milan is called off because of issues with his medical. Relevance to standings and momentum.
+Troy Deeney's Team of the Week: Hugo Ekitike, Florian Wirtz, Dominic Solanke, Gabriel, Enzo Fernandez. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +180,7 @@ Jean-Philippe Mateta move from Crystal Palace to AC Milan called off. Crystal Pa
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Jean-Philippe Mateta move from Crystal Palace to AC Milan called off. https://www.bbc.com/sport/football/articles/cm2jrr8evvyo?at_medium=RSS&at_campaign=rss
+- bbc.com — Troy Deeney's Team of the Week: Hugo Ekitike, Florian Wirtz, Dominic Solanke, Gabriel, Enzo Fernandez. https://www.bbc.com/sport/football/articles/c5y4n8wnr6xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +189,13 @@ Jean-Philippe Mateta move from Crystal Palace to AC Milan called off. Crystal Pa
 
 ---
 
-## Story 8: Women's Champions Cup: Was Arsenal success 'a historic day for women's football'?
-**Slug (lower-third):** Women's Champions Cup: Was Arsenal success 'a historic da…  
-**When:** 2026-02-02 11:43 (America/Winnipeg)  •  **Published:** 2026-02-02 17:43 (UTC)  
+## Story 8: Football gossip: Rashford, Alonso, Upamecano, Akliouche, Malacia
+**Slug (lower-third):** Football gossip: Rashford, Alonso, Upamecano, Akliouche, …  
+**When:** 2026-02-02 16:57 (America/Winnipeg)  •  **Published:** 2026-02-02 22:57 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Women's Champions Cup: Was Arsenal success 'a historic day for women's football'?. After Arsenal won the Champions Cup on Sunday, we ponder whether Fifa's new competition has been a success. Relevance to standings and momentum.
+Football gossip: Rashford, Alonso, Upamecano, Akliouche, Malacia. Marcus Rashford is eyeing a permanent Barcelona switch, Raheem Sterling rejects a Bundesliga move, Tottenham miss out on Maghnes Akliouche, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +204,7 @@ Women's Champions Cup: Was Arsenal success 'a historic day for women's football'
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Women's Champions Cup: Was Arsenal success 'a historic day for women's football'?. https://www.bbc.com/sport/football/articles/cn8jmde3yzzo?at_medium=RSS&at_campaign=rss
+- bbc.com — Football gossip: Rashford, Alonso, Upamecano, Akliouche, Malacia. https://www.bbc.com/sport/football/articles/c5yvenzg6wyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +213,13 @@ Women's Champions Cup: Was Arsenal success 'a historic day for women's football'
 
 ---
 
-## Story 9: Man City's snakebitten second halves are destroying their title challenge | Jonathan Wilson
-**Slug (lower-third):** Man City's snakebitten second halves are destroying their…  
-**When:** 2026-02-02 10:40 (America/Winnipeg)  •  **Published:** 2026-02-02 16:40 (UTC)  
+## Story 9: Jeremy Jacquet: Why are Liverpool spending APS60m on Rennes centre-back?
+**Slug (lower-third):** Jeremy Jacquet: Why are Liverpool spending APS60m on Renn…  
+**When:** 2026-02-02 16:31 (America/Winnipeg)  •  **Published:** 2026-02-02 22:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City's snakebitten second halves are destroying their title challenge | Jonathan Wilson. Pep Guardiola's side would be on top of the league had they not consistently struggled to hold leads Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jeremy Jacquet: Why are Liverpool spending APS60m on Rennes centre-back?. Jeremy Jacquet will join Liverpool for APS60m from Rennes in the summer - but why are the Reds signing him? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +228,7 @@ Man City's snakebitten second halves are destroying their title challenge | Jona
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Man City's snakebitten second halves are destroying their title challenge | Jonathan Wilson. https://www.theguardian.com/football/2026/feb/02/manchester-city-title-challenge-arsenal-premier-league
+- bbc.com — Jeremy Jacquet: Why are Liverpool spending APS60m on Rennes centre-back?. https://www.bbc.com/sport/football/articles/c8rm67l3jpgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +237,13 @@ Man City's snakebitten second halves are destroying their title challenge | Jona
 
 ---
 
-## Story 10: WSL: 'Man City front three are frightening' - analysis
-**Slug (lower-third):** WSL: 'Man City front three are frightening' - analysis  
-**When:** 2026-02-02 06:04 (America/Winnipeg)  •  **Published:** 2026-02-02 12:04 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 10: Romero hits out at Spurs' 'disgraceful' squad shortage on social media post
+**Slug (lower-third):** Romero hits out at Spurs' 'disgraceful' squad shortage on…  
+**When:** 2026-02-02 16:17 (America/Winnipeg)  •  **Published:** 2026-02-02 22:17 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL: 'Man City front three are frightening' - analysis. Women's Football Show pundits Natasha Dowie and Fern Whelan analyse Manchester City's "ruthless" 5-1 display over Chelsea in the Women's Super League. Relevance to standings and momentum.
+Romero hits out at Spurs' 'disgraceful' squad shortage on social media post. The club captain, making the jibe after Spurs' comeback against Manchester City, said: 'We had 11 players available - unbelievable but true and disgraceful' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +252,7 @@ WSL: 'Man City front three are frightening' - analysis. Women's Football Show pu
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL: 'Man City front three are frightening' - analysis. https://www.bbc.com/sport/football/videos/cx2gz7ylwnwo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Romero hits out at Spurs' 'disgraceful' squad shortage on social media post. https://www.theguardian.com/football/2026/feb/02/christian-romero-tottenham-manchester-city-disgraceful-squad-shortage-social-media-post
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
