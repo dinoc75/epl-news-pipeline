@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-05 01:02 (America/Winnipeg)  |  2026-02-05 07:02 (UTC)
+**Generated:** 2026-02-05 07:07 (America/Winnipeg)  |  2026-02-05 13:07 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 27s
+**Estimated total video length:** ~4m 41s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League darts 2026: Schedule, fixtures, results, table as Luke Littler, Luke Humphries, Gian van Veen all feature
-- Nine-darters! Fan taunts! Luke Littler's top five Premier League moments
-- Josh King and Theo Walcott on pressure to break into Premier League
+- Are Chelsea-Strasbourg transfer deals bad for football?
+- Six Nations: Louis Rees-Zammit named in Wales XV for opener against England as he makes first tournament return in three years
+- As Manchester City advance, should Eddie Howe be under pressure? Football Weekly Extra - podcast
 
 ---
 
-### Managerial Moves
+### Transfers
 
-## Story 1: Mikey Moore: Is Tottenham loanee the answer to Rangers' open-play issues?
-**Slug (lower-third):** Mikey Moore: Is Tottenham loanee the answer to Rangers' o…  
-**When:** 2026-02-04 17:54 (America/Winnipeg)  •  **Published:** 2026-02-04 23:54 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 1: Are Chelsea-Strasbourg transfer deals bad for football?
+**Slug (lower-third):** Are Chelsea-Strasbourg transfer deals bad for football?  
+**When:** 2026-02-05 06:00 (America/Winnipeg)  •  **Published:** 2026-02-05 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mikey Moore: Is Tottenham loanee the answer to Rangers' open-play issues?. Consistency is the next step for Rangers winger Mikey Moore after a standout performance against Kilmarnock, says head coach Danny Rohl. Implications for the squad and table.
+Are Chelsea-Strasbourg transfer deals bad for football?. Chelsea and Strasbourg have completed 12 transfer deals this summer. Is it out of the ordinary, and might Fifa get involved? Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Mikey Moore: Is Tottenham loanee the answer to Rangers' open-play issues?. Consi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Mikey Moore: Is Tottenham loanee the answer to Rangers' open-play issues?. https://www.bbc.com/sport/football/articles/c150e9eqy98o?at_medium=RSS&at_campaign=rss
+- bbc.com — Are Chelsea-Strasbourg transfer deals bad for football?. https://www.bbc.com/sport/football/articles/c89qzpqe1qko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,15 @@ Mikey Moore: Is Tottenham loanee the answer to Rangers' open-play issues?. Consi
 
 ---
 
-### Transfers
+### Injuries
 
-## Story 2: Luka Vuskovic: The goalscoring Spurs defender making headlines in Germany
-**Slug (lower-third):** Luka Vuskovic: The goalscoring Spurs defender making head…  
-**When:** 2026-02-04 07:47 (America/Winnipeg)  •  **Published:** 2026-02-04 13:47 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
+## Story 2: Six Nations: Louis Rees-Zammit named in Wales XV for opener against England as he makes first tournament return in three years
+**Slug (lower-third):** Six Nations: Louis Rees-Zammit named in Wales XV for open…  
+**When:** 2026-02-05 05:38 (America/Winnipeg)  •  **Published:** 2026-02-05 11:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Luka Vuskovic: The goalscoring Spurs defender making headlines in Germany. Luka Vuskovic has earned a reputation for scoring goals on loan at Hamburg, but just how good is the teenage Tottenham defender? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Six Nations: Louis Rees-Zammit named in Wales XV for opener against England as he makes first tournament return in three years. Louis Rees-Zammit starts for Wales in Six Nations for first time in three years; Dewi Lake captains side in absence of injured Jac Morgan; Josh Macleod makes tournament debut at flanker as Eddie James replaces Max Llewellyn at outside centre Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,10 +57,10 @@ Luka Vuskovic: The goalscoring Spurs defender making headlines in Germany. Luka 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Luka Vuskovic: The goalscoring Spurs defender making headlines in Germany. https://www.bbc.com/sport/football/articles/c2e19erwv9eo?at_medium=RSS&at_campaign=rss
+- skysports.com — Six Nations: Louis Rees-Zammit named in Wales XV for opener against England as he makes first tournament return in three years. https://www.skysports.com/rugby-union/news/12040/13503587/six-nations-louis-rees-zammit-named-in-wales-xv-for-opener-against-england-as-he-makes-first-tournament-return-in-three-years
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -68,13 +68,13 @@ Luka Vuskovic: The goalscoring Spurs defender making headlines in Germany. Luka 
 
 ### League & Regulation
 
-## Story 3: Manchester City: Pep Guardiola calls for EFL Cup rule change so Marc Guehi can play in Wembley final
-**Slug (lower-third):** Manchester City: Pep Guardiola calls for EFL Cup rule cha…  
-**When:** 2026-02-04 17:50 (America/Winnipeg)  •  **Published:** 2026-02-04 23:50 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 3: Man City to appeal Marc Guehi's status for Carabao Cup final
+**Slug (lower-third):** Man City to appeal Marc Guehi's status for Carabao Cup fi…  
+**When:** 2026-02-05 01:26 (America/Winnipeg)  •  **Published:** 2026-02-05 07:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester City: Pep Guardiola calls for EFL Cup rule change so Marc Guehi can play in Wembley final. Manchester City boss Pep Guardiola wants the English Football League to change their rules to allow Marc Guehi to play in the Carabao Cup final against Arsenal. Relevance to standings and momentum.
+Man City to appeal Marc Guehi's status for Carabao Cup final. Manchester City are set to ask the English Football League for special permission to play Marc Guehi in the Carabao Cup final, according to Pep Guardiola. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,6 +83,8 @@ Manchester City: Pep Guardiola calls for EFL Cup rule change so Marc Guehi can p
 - Verified across reputable outlets.
 
 ### Sources
+- espn.com — Man City to appeal Marc Guehi's status for Carabao Cup final. https://www.espn.com/soccer/story/_/id/47831516/man-city-marc-guehi-carabao-cup-final-rule-pep-guardiola
+- skysports.com — Man City: Pep Guardiola called for Carabao Cup rule change to allow Marc Guehi to play in Wembley final - but EFL will turn down request. https://www.skysports.com/football/news/12040/13503499/man-city-pep-guardiola-calls-for-carabao-cup-rule-change-to-allow-marc-guehi-to-play-in-wembley-final
 - bbc.com — Manchester City: Pep Guardiola calls for EFL Cup rule change so Marc Guehi can play in Wembley final. https://www.bbc.com/sport/football/articles/cy8y677z23go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
@@ -94,13 +96,13 @@ Manchester City: Pep Guardiola calls for EFL Cup rule change so Marc Guehi can p
 
 ### Club Updates
 
-## Story 4: Premier League darts 2026: Schedule, fixtures, results, table as Luke Littler, Luke Humphries, Gian van Veen all feature
-**Slug (lower-third):** Premier League darts 2026: Schedule, fixtures, results, t…  
-**When:** 2026-02-05 01:00 (America/Winnipeg)  •  **Published:** 2026-02-05 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 4: As Manchester City advance, should Eddie Howe be under pressure? Football Weekly Extra - podcast
+**Slug (lower-third):** As Manchester City advance, should Eddie Howe be under pr…  
+**When:** 2026-02-05 05:22 (America/Winnipeg)  •  **Published:** 2026-02-05 11:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Premier League darts 2026: Schedule, fixtures, results, table as Luke Littler, Luke Humphries, Gian van Veen all feature. Luke Littler and Luke Humphries both chase a second Premier League Darts title; Michael van Gerwen, Gerwyn Price, Nathan Aspinall, Gian van Veen, Jonny Clayton and Stephen Bunting feature; scores, results and schedule, with matches live every Thursday on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+As Manchester City advance, should Eddie Howe be under pressure? Football Weekly Extra - podcast. Max Rushden is joined by Barry Glendenning, Sam Dalling and Dan Bardell as Manchester City comfortably set up a League Cup final against Arsenal after a 5-1 aggregate win over Newcastle Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,7 +111,7 @@ Premier League darts 2026: Schedule, fixtures, results, table as Luke Littler, L
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League darts 2026: Schedule, fixtures, results, table as Luke Littler, Luke Humphries, Gian van Veen all feature. https://www.skysports.com/darts/news/12040/13501171/premier-league-darts-2026-schedule-fixtures-results-table-as-luke-littler-luke-humphries-gian-van-veen-all-feature
+- theguardian.com — As Manchester City advance, should Eddie Howe be under pressure? Football Weekly Extra - podcast. https://www.theguardian.com/football/audio/2026/feb/05/manchester-city-newcastle-carabao-cup-football-weekly-extra-podcast
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,13 +120,13 @@ Premier League darts 2026: Schedule, fixtures, results, table as Luke Littler, L
 
 ---
 
-## Story 5: Nine-darters! Fan taunts! Luke Littler's top five Premier League moments
-**Slug (lower-third):** Nine-darters! Fan taunts! Luke Littler's top five Premier…  
-**When:** 2026-02-05 01:00 (America/Winnipeg)  •  **Published:** 2026-02-05 07:00 (UTC)  
+## Story 5: Why Jeremy Jacquet may be the 'heir to Virgil van Dijk' for Liverpool
+**Slug (lower-third):** Why Jeremy Jacquet may be the 'heir to Virgil van Dijk' f…  
+**When:** 2026-02-05 05:00 (America/Winnipeg)  •  **Published:** 2026-02-05 11:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nine-darters! Fan taunts! Luke Littler's top five Premier League moments. Watch five memorable moments involving Luke Littler in the Premier League. Relevance to standings and momentum.
+Why Jeremy Jacquet may be the 'heir to Virgil van Dijk' for Liverpool. The 20-year-old is a 'complete' player who combines Marcel Desailly's defensive ability with Laurent Blanc's creativity Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +135,7 @@ Nine-darters! Fan taunts! Luke Littler's top five Premier League moments. Watch 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Nine-darters! Fan taunts! Luke Littler's top five Premier League moments. https://www.skysports.com/watch/video/13503139/nine8209darters-fan-taunts-luke-littlers-top-five-premier-league-moments
+- theguardian.com — Why Jeremy Jacquet may be the 'heir to Virgil van Dijk' for Liverpool. https://www.theguardian.com/football/2026/feb/05/jeremy-jacquet-virgil-van-dijk-liverpool-player-marcel-desailly-laurent-blanc
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +144,13 @@ Nine-darters! Fan taunts! Luke Littler's top five Premier League moments. Watch 
 
 ---
 
-## Story 6: Josh King and Theo Walcott on pressure to break into Premier League
-**Slug (lower-third):** Josh King and Theo Walcott on pressure to break into Prem…  
-**When:** 2026-02-05 00:11 (America/Winnipeg)  •  **Published:** 2026-02-05 06:11 (UTC)  
+## Story 6: Manchester United prepare to honour Munich disaster victims
+**Slug (lower-third):** Manchester United prepare to honour Munich disaster victi…  
+**When:** 2026-02-05 04:18 (America/Winnipeg)  •  **Published:** 2026-02-05 10:18 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Josh King and Theo Walcott on pressure to break into Premier League. Fulham's Josh King and former England and Arsenal winger Theo Walcott open up on the challenges of breaking into first-team football. Relevance to standings and momentum.
+Manchester United prepare to honour Munich disaster victims. It is impossible to fully understand the magnitude of the crash that killed 23 people, eight of them Manchester United players, until you work for the club, says women's coach Marc Skinner. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +159,7 @@ Josh King and Theo Walcott on pressure to break into Premier League. Fulham's Jo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Josh King and Theo Walcott on pressure to break into Premier League. https://www.bbc.com/sport/football/videos/cdxjwxxlx1jo?at_medium=RSS&at_campaign=rss
+- bbc.com — Manchester United prepare to honour Munich disaster victims. https://www.bbc.com/sport/football/articles/c4g4npv518eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +168,13 @@ Josh King and Theo Walcott on pressure to break into Premier League. Fulham's Jo
 
 ---
 
-## Story 7: Newcastle: More questions than answers as Eddie Howe's men yet to catch fire this season
-**Slug (lower-third):** Newcastle: More questions than answers as Eddie Howe's me…  
-**When:** 2026-02-04 18:13 (America/Winnipeg)  •  **Published:** 2026-02-05 00:13 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 7: EFL will knock back Guardiola's push for Guehi to play in Carabao Cup final
+**Slug (lower-third):** EFL will knock back Guardiola's push for Guehi to play in…  
+**When:** 2026-02-05 04:15 (America/Winnipeg)  •  **Published:** 2026-02-05 10:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle: More questions than answers as Eddie Howe's men yet to catch fire this season. Holders Newcastle United were knocked out of the Carabao Cup by Manchester City on Wednesday night and a challenging season shows no sign of relenting. Relevance to standings and momentum.
+EFL will knock back Guardiola's push for Guehi to play in Carabao Cup final. Any attempt by Manchester City to clear Marc Guehi to play in the Carabao Cup final against Arsenal will be rebuffed by the EFL Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +183,7 @@ Newcastle: More questions than answers as Eddie Howe's men yet to catch fire thi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Newcastle: More questions than answers as Eddie Howe's men yet to catch fire this season. https://www.bbc.com/sport/football/articles/c17zkkjnqpno?at_medium=RSS&at_campaign=rss
+- theguardian.com — EFL will knock back Guardiola's push for Guehi to play in Carabao Cup final. https://www.theguardian.com/football/2026/feb/04/pep-guardiola-questions-rule-that-will-keep-marc-guehi-out-of-carabao-cup-final
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +192,13 @@ Newcastle: More questions than answers as Eddie Howe's men yet to catch fire thi
 
 ---
 
-## Story 8: Manchester City produce little big plan to bamboozle Newcastle | Will Unwin
-**Slug (lower-third):** Manchester City produce little big plan to bamboozle Newc…  
-**When:** 2026-02-04 17:26 (America/Winnipeg)  •  **Published:** 2026-02-04 23:26 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 8: SIx Nations: Scotland's Gregor Townsend hits out at timing of Newcastle Red Bulls 'speculation' as he names team for Italy opener
+**Slug (lower-third):** SIx Nations: Scotland's Gregor Townsend hits out at timin…  
+**When:** 2026-02-05 04:05 (America/Winnipeg)  •  **Published:** 2026-02-05 10:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Manchester City produce little big plan to bamboozle Newcastle | Will Unwin. Pep Guardiola replaced Haaland by using Egyptian and Semenyo in a way that had the visitors chasing shadows Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+SIx Nations: Scotland's Gregor Townsend hits out at timing of Newcastle Red Bulls 'speculation' as he names team for Italy opener. Gregor Townsend says report linking him to Newcastle Red Bulls after 2027 World Cup pure speculation; Townsend shakes up starting line-up for Scotlands first match of 2026 Six Nations against Italy in Rome on Saturday with Blair Kinghorn, Duhan van der Merwe and Darcy Graham omitted Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +207,7 @@ Manchester City produce little big plan to bamboozle Newcastle | Will Unwin. Pep
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Manchester City produce little big plan to bamboozle Newcastle | Will Unwin. https://www.theguardian.com/football/2026/feb/04/manchester-city-produce-little-big-plan-to-bamboozle-newcastle
+- skysports.com — SIx Nations: Scotland's Gregor Townsend hits out at timing of Newcastle Red Bulls 'speculation' as he names team for Italy opener. https://www.skysports.com/rugby-union/news/12040/13503542/scotland-six-nations-team-news-blair-kinghorn-darcy-graham-duhan-van-der-merwe-left-out-for-italy-opener
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +216,13 @@ Manchester City produce little big plan to bamboozle Newcastle | Will Unwin. Pep
 
 ---
 
-## Story 9: Football gossip: Ronaldo, Romero, Anderson, Casemiro, Tonali, Neves, Roefs, Nketiah
-**Slug (lower-third):** Football gossip: Ronaldo, Romero, Anderson, Casemiro, Ton…  
-**When:** 2026-02-04 16:03 (America/Winnipeg)  •  **Published:** 2026-02-04 22:03 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 9: Premier League launches new LGBTQ+ campaign after ending Stonewall partnership
+**Slug (lower-third):** Premier League launches new LGBTQ+ campaign after ending …  
+**When:** 2026-02-05 03:00 (America/Winnipeg)  •  **Published:** 2026-02-05 09:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Ronaldo, Romero, Anderson, Casemiro, Tonali, Neves, Roefs, Nketiah. Cristiano Ronaldo might ask to leave Al-Nassr, Nottingham Forest's Elliot Anderson tops Manchester United's list of midfield targets, Atletico Madrid want Tottenham's Cristian Romero, plus more. Relevance to standings and momentum.
+Premier League launches new LGBTQ+ campaign after ending Stonewall partnership. The Premier League launches its 'Premier League with Pride' campaign, effectively replacing its partnership with Stonewall and Rainbow Laces. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +231,7 @@ Football gossip: Ronaldo, Romero, Anderson, Casemiro, Tonali, Neves, Roefs, Nket
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Ronaldo, Romero, Anderson, Casemiro, Tonali, Neves, Roefs, Nketiah. https://www.bbc.com/sport/football/articles/cpwn48xdxldo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League launches new LGBTQ+ campaign after ending Stonewall partnership. https://www.bbc.com/sport/football/articles/cly1mnp21ezo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +240,13 @@ Football gossip: Ronaldo, Romero, Anderson, Casemiro, Tonali, Neves, Roefs, Nket
 
 ---
 
-## Story 10: Premier League Tactics: Man City striker Erling Haaland analysis
-**Slug (lower-third):** Premier League Tactics: Man City striker Erling Haaland a…  
-**When:** 2026-02-04 08:07 (America/Winnipeg)  •  **Published:** 2026-02-04 14:07 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
+## Story 10: Newcastle's Saudi vision is shrouded in bleak suspicion and unfulfilled promises | Jonathan Liew
+**Slug (lower-third):** Newcastle's Saudi vision is shrouded in bleak suspicion a…  
+**When:** 2026-02-05 02:00 (America/Winnipeg)  •  **Published:** 2026-02-05 08:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League Tactics: Man City striker Erling Haaland analysis. BBC Sport's football tactics correspondent Umir Irfan analyses why Manchester City striker Erling Haaland has stopped scoring in the Premier League and looks at ways Pep Guardiola can get the centre-forward scoring regularly again. Relevance to standings and momentum.
+Newcastle's Saudi vision is shrouded in bleak suspicion and unfulfilled promises | Jonathan Liew. Vivid dreamscape sold to fans in 2021 is yet to materialise amid layers upon layers of economics and geopolitics Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,10 +255,10 @@ Premier League Tactics: Man City striker Erling Haaland analysis. BBC Sport's fo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League Tactics: Man City striker Erling Haaland analysis. https://www.bbc.com/sport/football/videos/c1evwplgl1lo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Newcastle's Saudi vision is shrouded in bleak suspicion and unfulfilled promises | Jonathan Liew. https://www.theguardian.com/football/2026/feb/05/newcastle-united-saudi-vision-bleak-suspicion-unfulfilled-promises
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
