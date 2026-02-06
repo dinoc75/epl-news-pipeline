@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-06 07:05 (America/Winnipeg)  |  2026-02-06 13:05 (UTC)
+**Generated:** 2026-02-06 12:54 (America/Winnipeg)  |  2026-02-06 18:54 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 41s
+**Estimated total video length:** ~4m 34s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League Darts table 2026 - Latest standings as Luke Littler, Luke Humphries, Michael van Gerwen challenge for title
-- 'I enjoy the Championship': Burnley fans stay positive as relegation looms
-- Settled Xavi Simons finds his groove at Spurs after time spent in the shadows
+- Sonia Bompastor agrees Chelsea contract extension with club off WSL title pace
+- Winter Olympic wonders, Premier League thrills and Super Bowl LX - follow with us
+- Premier League team news: predicted lineups for the weekend action
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Tony Pulis column: 'Why young British managers need lower league experience'
-**Slug (lower-third):** Tony Pulis column: 'Why young British managers need lower…  
-**When:** 2026-02-06 04:29 (America/Winnipeg)  •  **Published:** 2026-02-06 10:29 (UTC)  
+## Story 1: Sonia Bompastor agrees Chelsea contract extension with club off WSL title pace
+**Slug (lower-third):** Sonia Bompastor agrees Chelsea contract extension with cl…  
+**When:** 2026-02-06 12:30 (America/Winnipeg)  •  **Published:** 2026-02-06 18:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tony Pulis column: 'Why young British managers need lower league experience'. In his BBC Sport column, ex-Premier League boss Tony Pulis explains why he thinks there is a negative reaction to British managers when they get jobs in the Premier League - and the path young coaches should take. Relevance to standings and momentum.
+Sonia Bompastor agrees Chelsea contract extension with club off WSL title pace. Sonia Bompastor has agreed a contract extension as Chelsea's head coach in a strong signal of the club's trust Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,79 @@ Tony Pulis column: 'Why young British managers need lower league experience'. In
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tony Pulis column: 'Why young British managers need lower league experience'. https://www.bbc.com/sport/football/articles/cn7j0p61n80o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Sonia Bompastor agrees Chelsea contract extension with club off WSL title pace. https://www.theguardian.com/football/2026/feb/06/sonia-bompastor-new-chelsea-contract-extension-wsl
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Crystal Palace: Knee injury could scupper Jean-Philippe Mateta's World Cup 'dream'
+**Slug (lower-third):** Crystal Palace: Knee injury could scupper Jean-Philippe M…  
+**When:** 2026-02-06 09:34 (America/Winnipeg)  •  **Published:** 2026-02-06 15:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Crystal Palace: Knee injury could scupper Jean-Philippe Mateta's World Cup 'dream'. Crystal Palace manager Oliver Glasner indicates the injury that scuppered Jean-Philippe Mateta's move to AC Milan could also thwart the striker's "dream" of playing for France at the World Cup, if surgery is needed. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Crystal Palace: Knee injury could scupper Jean-Philippe Mateta's World Cup 'dream'. https://www.bbc.com/sport/football/articles/c62v2e5ryr0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Jean-Philippe Mateta: Crystal Palace striker may undergo surgery on knee issue, head coach Oliver Glasner confirms
+**Slug (lower-third):** Jean-Philippe Mateta: Crystal Palace striker may undergo …  
+**When:** 2026-02-06 08:30 (America/Winnipeg)  •  **Published:** 2026-02-06 14:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Jean-Philippe Mateta: Crystal Palace striker may undergo surgery on knee issue, head coach Oliver Glasner confirms. Crystal Palace and Jean-Philippe Mateta will sit down next week with a consultant to decide whether it is in the forwards best interests to undergo knee surgery this season or wait until after this summers World Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Jean-Philippe Mateta: Crystal Palace striker may undergo surgery on knee issue, head coach Oliver Glasner confirms. https://www.skysports.com/football/news/12040/13504103/jean-philippe-mateta-crystal-palace-striker-may-undergo-surgery-on-knee-issue-head-coach-oliver-glasner-confirms
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Pep Guardiola: Man City boss asks 'why should I not express how I feel?'
+**Slug (lower-third):** Pep Guardiola: Man City boss asks 'why should I not expre…  
+**When:** 2026-02-06 07:45 (America/Winnipeg)  •  **Published:** 2026-02-06 13:45 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Pep Guardiola: Man City boss asks 'why should I not express how I feel?'. Pep Guardiola defended his stance of speaking up about global conflicts by asking, "why should I not express what I feel, just because I am a manager?" Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Pep Guardiola: Man City boss asks 'why should I not express how I feel?'. https://www.bbc.com/sport/football/articles/crlel3dyzdzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +114,13 @@ Tony Pulis column: 'Why young British managers need lower league experience'. In
 
 ### League & Regulation
 
-## Story 2: Three years on: what is the latest with Premier League charges against Manchester City? | Paul MacInnes
-**Slug (lower-third):** Three years on: what is the latest with Premier League ch…  
-**When:** 2026-02-06 04:28 (America/Winnipeg)  •  **Published:** 2026-02-06 10:28 (UTC)  
+## Story 5: Leicester City: How did we get here and what does points deduction mean for Championship club?
+**Slug (lower-third):** Leicester City: How did we get here and what does points …  
+**When:** 2026-02-06 10:41 (America/Winnipeg)  •  **Published:** 2026-02-06 16:41 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Three years on: what is the latest with Premier League charges against Manchester City? | Paul MacInnes. In February 2023 more than 100 charges were laid against the serial champions but we are still waiting for the verdict Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Leicester City: How did we get here and what does points deduction mean for Championship club?. Leicester, Premier League champions a decade ago, face a relegation fight after being docked 10 points for financial rule breaches. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +129,55 @@ Three years on: what is the latest with Premier League charges against Mancheste
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Three years on: what is the latest with Premier League charges against Manchester City? | Paul MacInnes. https://www.theguardian.com/football/2026/feb/06/premier-league-charges-manchester-city-three-years-latest
+- bbc.com — Leicester City: How did we get here and what does points deduction mean for Championship club?. https://www.bbc.com/sport/football/articles/cz6y6jy1xdwo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Fabian Hurzeler under pressure from fans as Brighton face arch-rivals Crystal Palace in poor form - The Radar
+**Slug (lower-third):** Fabian Hurzeler under pressure from fans as Brighton face…  
+**When:** 2026-02-06 08:46 (America/Winnipeg)  •  **Published:** 2026-02-06 14:46 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Fabian Hurzeler under pressure from fans as Brighton face arch-rivals Crystal Palace in poor form - The Radar. Brighton have only won one of their last 11 Premier League games and fans are growing impatient, so whats going wrong for Fabian Hurzelers side? The Radar column takes a look as Crystal Palace bank on Jorgen Strand Larsen rediscovering his scoring touch Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Fabian Hurzeler under pressure from fans as Brighton face arch-rivals Crystal Palace in poor form - The Radar. https://www.skysports.com/football/news/12040/13504116/fabian-hurzeler-under-pressure-from-fans-as-brighton-face-arch-rivals-crystal-palace-in-poor-form-the-radar
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Leicester City: Foxes should 'take medicine' of points deduction, says Matty Fryatt
+**Slug (lower-third):** Leicester City: Foxes should 'take medicine' of points de…  
+**When:** 2026-02-06 07:47 (America/Winnipeg)  •  **Published:** 2026-02-06 13:47 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Leicester City: Foxes should 'take medicine' of points deduction, says Matty Fryatt. Leicester City "should take their medicine" and accept their points penalty for breaking spending rules, says former Foxes striker Matty Fryatt. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Leicester City: Foxes should 'take medicine' of points deduction, says Matty Fryatt. https://www.bbc.com/sport/football/articles/c1lzlgr0v7yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,37 +188,13 @@ Three years on: what is the latest with Premier League charges against Mancheste
 
 ### Club Updates
 
-## Story 3: Premier League Darts table 2026 - Latest standings as Luke Littler, Luke Humphries, Michael van Gerwen challenge for title
-**Slug (lower-third):** Premier League Darts table 2026 - Latest standings as Luk…  
-**When:** 2026-02-06 06:39 (America/Winnipeg)  •  **Published:** 2026-02-06 12:39 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Premier League Darts table 2026 - Latest standings as Luke Littler, Luke Humphries, Michael van Gerwen challenge for title. Keep up to date with the Premier League Darts table for 2026; defending champion Luke Humphries, Luke Littler and Michael van Gerwen among the eight players involved; watch Premier League Darts live on Sky Sports every Thursday up to and including the final on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Premier League Darts table 2026 - Latest standings as Luke Littler, Luke Humphries, Michael van Gerwen challenge for title. https://www.skysports.com/darts/news/12040/13504059/premier-league-darts-table-2026-latest-standings-as-luke-littler-luke-humphries-michael-van-gerwen-challenge-for-title
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: 'I enjoy the Championship': Burnley fans stay positive as relegation looms
-**Slug (lower-third):** 'I enjoy the Championship': Burnley fans stay positive as…  
-**When:** 2026-02-06 06:19 (America/Winnipeg)  •  **Published:** 2026-02-06 12:19 (UTC)  
+## Story 8: Winter Olympic wonders, Premier League thrills and Super Bowl LX - follow with us
+**Slug (lower-third):** Winter Olympic wonders, Premier League thrills and Super …  
+**When:** 2026-02-06 11:41 (America/Winnipeg)  •  **Published:** 2026-02-06 17:41 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'I enjoy the Championship': Burnley fans stay positive as relegation looms. Clarets host must-win game with West Ham on Saturday with the club facing a third demotion in three Premier League seasons Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Winter Olympic wonders, Premier League thrills and Super Bowl LX - follow with us. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +203,7 @@ Premier League Darts table 2026 - Latest standings as Luke Littler, Luke Humphri
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'I enjoy the Championship': Burnley fans stay positive as relegation looms. https://www.theguardian.com/football/2026/feb/06/burnley-west-ham-premier-league-championship-relegation
+- theguardian.com — Winter Olympic wonders, Premier League thrills and Super Bowl LX - follow with us. https://www.theguardian.com/sport/2026/feb/06/your-guardian-sport-weekend-winter-olympics-wonders-premier-league-thrills-and-super-bowl-lx
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +212,13 @@ Premier League Darts table 2026 - Latest standings as Luke Littler, Luke Humphri
 
 ---
 
-## Story 5: Settled Xavi Simons finds his groove at Spurs after time spent in the shadows
-**Slug (lower-third):** Settled Xavi Simons finds his groove at Spurs after time …  
-**When:** 2026-02-06 06:06 (America/Winnipeg)  •  **Published:** 2026-02-06 12:06 (UTC)  
+## Story 9: Premier League team news: predicted lineups for the weekend action
+**Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
+**When:** 2026-02-06 11:30 (America/Winnipeg)  •  **Published:** 2026-02-06 17:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Settled Xavi Simons finds his groove at Spurs after time spent in the shadows. The Dutch midfielder has rubbed shoulders with Messi, Neymar and Mbappe but is now making his own name at Tottenham Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League team news: predicted lineups for the weekend action. Manchester United face Tottenham on Saturday while Liverpool host Manchester City at Anfield on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +227,7 @@ Settled Xavi Simons finds his groove at Spurs after time spent in the shadows. T
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Settled Xavi Simons finds his groove at Spurs after time spent in the shadows. https://www.theguardian.com/football/2026/feb/06/settled-xavi-simons-finds-his-groove-at-spurs-after-time-spent-in-the-shadows
+- theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/football/2026/feb/06/premier-league-team-news-predicted-lineups-for-the-weekend-action
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +236,13 @@ Settled Xavi Simons finds his groove at Spurs after time spent in the shadows. T
 
 ---
 
-## Story 6: Jhon Duran: Ex-Aston Villa striker set for sixth club aged just 22
-**Slug (lower-third):** Jhon Duran: Ex-Aston Villa striker set for sixth club age…  
-**When:** 2026-02-06 05:44 (America/Winnipeg)  •  **Published:** 2026-02-06 11:44 (UTC)  
+## Story 10: Premier League news: Guardiola refuses to be silenced; Arteta apologises to Rosenior
+**Slug (lower-third):** Premier League news: Guardiola refuses to be silenced; Ar…  
+**When:** 2026-02-06 09:39 (America/Winnipeg)  •  **Published:** 2026-02-06 15:39 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jhon Duran: Ex-Aston Villa striker set for sixth club aged just 22. Former Aston Villa striker Jhon Duran is set to join the sixth club of his career at the age of just 22. Relevance to standings and momentum.
+Premier League news: Guardiola refuses to be silenced; Arteta apologises to Rosenior. A defiant Pep Guardiola has defended his right to condemn Israel's attacks on Gaza after being told to 'focus on football' by a Jewish group in Manchester Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,103 +251,7 @@ Jhon Duran: Ex-Aston Villa striker set for sixth club aged just 22. Former Aston
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Jhon Duran: Ex-Aston Villa striker set for sixth club aged just 22. https://www.bbc.com/sport/football/articles/cp878md787xo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Enzo Fernandez interview: 'I want to follow in Frank Lampard's footsteps at Chelsea and win lots more trophies'
-**Slug (lower-third):** Enzo Fernandez interview: 'I want to follow in Frank Lamp…  
-**When:** 2026-02-06 04:30 (America/Winnipeg)  •  **Published:** 2026-02-06 10:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Enzo Fernandez interview: 'I want to follow in Frank Lampard's footsteps at Chelsea and win lots more trophies'. Enzo Fernandez tells Sky Sports why he is excited to be part of Chelseas future under Liam Rosenior and how he is modelling his game on Frank Lampard; Argentina international, who has 11 goals in 36 games this season, also responds to praise from Jamie Carragher Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Enzo Fernandez interview: 'I want to follow in Frank Lampard's footsteps at Chelsea and win lots more trophies'. https://www.skysports.com/football/news/12040/13503279/enzo-fernandez-exclusive-interview-i-want-to-follow-in-frank-lampards-footsteps-at-chelsea-and-win-lots-more-trophies
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Virgil van Dijk: Liverpool captain chats with Gary Neville on Reds change this season, Champions League and retirement plans
-**Slug (lower-third):** Virgil van Dijk: Liverpool captain chats with Gary Nevill…  
-**When:** 2026-02-06 03:55 (America/Winnipeg)  •  **Published:** 2026-02-06 09:55 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Virgil van Dijk: Liverpool captain chats with Gary Neville on Reds change this season, Champions League and retirement plans. Virgil van Dijk also discusses Erling Haaland and a duty of responsibility from pundits towards the younger generation; Watch Liverpool vs Man City live on Sky Sports Premier League and Main Event from 4pm on Super Sunday. Kick-off 4.30pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Virgil van Dijk: Liverpool captain chats with Gary Neville on Reds change this season, Champions League and retirement plans. https://www.skysports.com/football/news/12040/13503648/virgil-van-dijk-liverpool-captain-chats-with-gary-neville-on-reds-change-this-season-champions-league-and-retirement-plans
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Virgil van Dijk says pundits have 'duty of responsibility' to current players
-**Slug (lower-third):** Virgil van Dijk says pundits have 'duty of responsibility…  
-**When:** 2026-02-06 03:50 (America/Winnipeg)  •  **Published:** 2026-02-06 09:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Virgil van Dijk says pundits have 'duty of responsibility' to current players. Former players turned pundits have a "duty of responsibility" to the new generation of footballers when commenting on their performances, Liverpool captain Virgil van Dijk says. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Virgil van Dijk says pundits have 'duty of responsibility' to current players. https://www.bbc.com/sport/football/articles/c3wzw6we5l4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Fantasy Premier League talking point: Double up on Arsenal defenders
-**Slug (lower-third):** Fantasy Premier League talking point: Double up on Arsena…  
-**When:** 2026-02-06 02:40 (America/Winnipeg)  •  **Published:** 2026-02-06 08:40 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Fantasy Premier League talking point: Double up on Arsenal defenders. With a desirable set of fixtures, it is time to put three Arsenal players into your Fantasy Premier League team. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Fantasy Premier League talking point: Double up on Arsenal defenders. https://www.bbc.com/sport/football/articles/c205xpn2n8go?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League news: Guardiola refuses to be silenced; Arteta apologises to Rosenior. https://www.theguardian.com/football/2026/feb/06/premier-league-news-guardiola-manchester-city-newcastle-united
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
