@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-06 12:54 (America/Winnipeg)  |  2026-02-06 18:54 (UTC)
+**Generated:** 2026-02-06 20:09 (America/Winnipeg)  |  2026-02-07 02:09 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~4m 46s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Sonia Bompastor agrees Chelsea contract extension with club off WSL title pace
-- Winter Olympic wonders, Premier League thrills and Super Bowl LX - follow with us
-- Premier League team news: predicted lineups for the weekend action
+- Leeds 3-1 Nottingham Forest: What does result mean for relegation battle
+- Cristiano Ronaldo: Saudi Pro League ready to let Portugal captain leave for PS43m - Paper Talk
+- Leeds United 3-1 Nottingham Forest: Sean Dyche bemoans 'awful' goals conceded
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Sonia Bompastor agrees Chelsea contract extension with club off WSL title pace
-**Slug (lower-third):** Sonia Bompastor agrees Chelsea contract extension with cl…  
-**When:** 2026-02-06 12:30 (America/Winnipeg)  •  **Published:** 2026-02-06 18:30 (UTC)  
+## Story 1: Leeds United 3-1 Nottingham Forest: Sean Dyche bemoans 'awful' goals conceded
+**Slug (lower-third):** Leeds United 3-1 Nottingham Forest: Sean Dyche bemoans 'a…  
+**When:** 2026-02-06 16:59 (America/Winnipeg)  •  **Published:** 2026-02-06 22:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sonia Bompastor agrees Chelsea contract extension with club off WSL title pace. Sonia Bompastor has agreed a contract extension as Chelsea's head coach in a strong signal of the club's trust Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Leeds United 3-1 Nottingham Forest: Sean Dyche bemoans 'awful' goals conceded. Nottingham Forest manager Sean Dyche is critical of defensive mistakes as they lose 3-1 at Leeds United in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Sonia Bompastor agrees Chelsea contract extension with club off WSL title pace. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Sonia Bompastor agrees Chelsea contract extension with club off WSL title pace. https://www.theguardian.com/football/2026/feb/06/sonia-bompastor-new-chelsea-contract-extension-wsl
+- bbc.com — Leeds United 3-1 Nottingham Forest: Sean Dyche bemoans 'awful' goals conceded. https://www.bbc.com/sport/football/videos/c62w2xnerkeo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,37 @@ Sonia Bompastor agrees Chelsea contract extension with club off WSL title pace. 
 
 ---
 
-## Story 2: Crystal Palace: Knee injury could scupper Jean-Philippe Mateta's World Cup 'dream'
-**Slug (lower-third):** Crystal Palace: Knee injury could scupper Jean-Philippe M…  
-**When:** 2026-02-06 09:34 (America/Winnipeg)  •  **Published:** 2026-02-06 15:34 (UTC)  
+## Story 2: Next Man Utd manager: Michael Carrick says club cannot make 'knee-jerk' decision on long-term head coach despite his good form
+**Slug (lower-third):** Next Man Utd manager: Michael Carrick says club cannot ma…  
+**When:** 2026-02-06 16:57 (America/Winnipeg)  •  **Published:** 2026-02-06 22:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Next Man Utd manager: Michael Carrick says club cannot make 'knee-jerk' decision on long-term head coach despite his good form. Michael Carrick has said nothing has changed on his Man Utd situation after winning his first three games; Carrick has beaten Man City, Arsenal and Fulham in the Premier League so far; Carrick: The results over a short period of time dont change that. It cant be so knee-jerk Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Next Man Utd manager: Michael Carrick says club cannot make 'knee-jerk' decision on long-term head coach despite his good form. https://www.skysports.com/football/news/12040/13504315/next-man-utd-manager-michael-carrick-says-club-cannot-make-knee-jerk-decision-on-long-term-head-coach-despite-his-good-form
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Michael Carrick: Man Utd interim boss hints he wants to stay full time
+**Slug (lower-third):** Michael Carrick: Man Utd interim boss hints he wants to s…  
+**When:** 2026-02-06 16:30 (America/Winnipeg)  •  **Published:** 2026-02-06 22:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace: Knee injury could scupper Jean-Philippe Mateta's World Cup 'dream'. Crystal Palace manager Oliver Glasner indicates the injury that scuppered Jean-Philippe Mateta's move to AC Milan could also thwart the striker's "dream" of playing for France at the World Cup, if surgery is needed. Potential impact on the lineup and upcoming fixtures.
+Michael Carrick: Man Utd interim boss hints he wants to stay full time. Michael Carrick drops the first hint he wants to remain as Manchester United head coach beyond the end of this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +79,7 @@ Crystal Palace: Knee injury could scupper Jean-Philippe Mateta's World Cup 'drea
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Crystal Palace: Knee injury could scupper Jean-Philippe Mateta's World Cup 'dream'. https://www.bbc.com/sport/football/articles/c62v2e5ryr0o?at_medium=RSS&at_campaign=rss
+- bbc.com — Michael Carrick: Man Utd interim boss hints he wants to stay full time. https://www.bbc.com/sport/football/articles/ckgyg2n10q0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,63 +88,13 @@ Crystal Palace: Knee injury could scupper Jean-Philippe Mateta's World Cup 'drea
 
 ---
 
-## Story 3: Jean-Philippe Mateta: Crystal Palace striker may undergo surgery on knee issue, head coach Oliver Glasner confirms
-**Slug (lower-third):** Jean-Philippe Mateta: Crystal Palace striker may undergo …  
-**When:** 2026-02-06 08:30 (America/Winnipeg)  •  **Published:** 2026-02-06 14:30 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Jean-Philippe Mateta: Crystal Palace striker may undergo surgery on knee issue, head coach Oliver Glasner confirms. Crystal Palace and Jean-Philippe Mateta will sit down next week with a consultant to decide whether it is in the forwards best interests to undergo knee surgery this season or wait until after this summers World Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Jean-Philippe Mateta: Crystal Palace striker may undergo surgery on knee issue, head coach Oliver Glasner confirms. https://www.skysports.com/football/news/12040/13504103/jean-philippe-mateta-crystal-palace-striker-may-undergo-surgery-on-knee-issue-head-coach-oliver-glasner-confirms
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Pep Guardiola: Man City boss asks 'why should I not express how I feel?'
-**Slug (lower-third):** Pep Guardiola: Man City boss asks 'why should I not expre…  
-**When:** 2026-02-06 07:45 (America/Winnipeg)  •  **Published:** 2026-02-06 13:45 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Pep Guardiola: Man City boss asks 'why should I not express how I feel?'. Pep Guardiola defended his stance of speaking up about global conflicts by asking, "why should I not express what I feel, just because I am a manager?" Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Pep Guardiola: Man City boss asks 'why should I not express how I feel?'. https://www.bbc.com/sport/football/articles/crlel3dyzdzo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 5: Leicester City: How did we get here and what does points deduction mean for Championship club?
-**Slug (lower-third):** Leicester City: How did we get here and what does points …  
-**When:** 2026-02-06 10:41 (America/Winnipeg)  •  **Published:** 2026-02-06 16:41 (UTC)  
+## Story 4: Sonia Bompastor: Chelsea head coach extends contract until 2030
+**Slug (lower-third):** Sonia Bompastor: Chelsea head coach extends contract unti…  
+**When:** 2026-02-06 14:48 (America/Winnipeg)  •  **Published:** 2026-02-06 20:48 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leicester City: How did we get here and what does points deduction mean for Championship club?. Leicester, Premier League champions a decade ago, face a relegation fight after being docked 10 points for financial rule breaches. Relevance to standings and momentum.
+Sonia Bompastor: Chelsea head coach extends contract until 2030. Chelsea head coach Sonia Bompastor signs a contract extension with the Women's Super League club until 2030. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +103,8 @@ Leicester City: How did we get here and what does points deduction mean for Cham
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Leicester City: How did we get here and what does points deduction mean for Championship club?. https://www.bbc.com/sport/football/articles/cz6y6jy1xdwo?at_medium=RSS&at_campaign=rss
+- bbc.com — Sonia Bompastor: Chelsea head coach extends contract until 2030. https://www.bbc.com/sport/football/articles/cg7y711k7j0o?at_medium=RSS&at_campaign=rss
+- skysports.com — Sonia Bompastor: Chelsea Women head coach signs new contract until 2030. https://www.skysports.com/football/news/12040/13504233/sonia-bompastor-chelsea-women-head-coach-signs-new-contract-until-2030
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +113,13 @@ Leicester City: How did we get here and what does points deduction mean for Cham
 
 ---
 
-## Story 6: Fabian Hurzeler under pressure from fans as Brighton face arch-rivals Crystal Palace in poor form - The Radar
-**Slug (lower-third):** Fabian Hurzeler under pressure from fans as Brighton face…  
-**When:** 2026-02-06 08:46 (America/Winnipeg)  •  **Published:** 2026-02-06 14:46 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~28s
+## Story 5: 'You have to be able to laugh at yourself': Rosenior shrugs off online mockery
+**Slug (lower-third):** 'You have to be able to laugh at yourself': Rosenior shru…  
+**When:** 2026-02-06 16:30 (America/Winnipeg)  •  **Published:** 2026-02-06 22:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fabian Hurzeler under pressure from fans as Brighton face arch-rivals Crystal Palace in poor form - The Radar. Brighton have only won one of their last 11 Premier League games and fans are growing impatient, so whats going wrong for Fabian Hurzelers side? The Radar column takes a look as Crystal Palace bank on Jorgen Strand Larsen rediscovering his scoring touch Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+'You have to be able to laugh at yourself': Rosenior shrugs off online mockery. Liam Rosenior is happy to embrace becoming a figure of fun since taking over as head coach at Chelsea Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +128,7 @@ Fabian Hurzeler under pressure from fans as Brighton face arch-rivals Crystal Pa
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Fabian Hurzeler under pressure from fans as Brighton face arch-rivals Crystal Palace in poor form - The Radar. https://www.skysports.com/football/news/12040/13504116/fabian-hurzeler-under-pressure-from-fans-as-brighton-face-arch-rivals-crystal-palace-in-poor-form-the-radar
+- theguardian.com — 'You have to be able to laugh at yourself': Rosenior shrugs off online mockery. https://www.theguardian.com/football/2026/feb/06/you-have-to-be-able-to-laugh-at-yourself-rosenior-shrugs-off-online-mockery
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +137,13 @@ Fabian Hurzeler under pressure from fans as Brighton face arch-rivals Crystal Pa
 
 ---
 
-## Story 7: Leicester City: Foxes should 'take medicine' of points deduction, says Matty Fryatt
-**Slug (lower-third):** Leicester City: Foxes should 'take medicine' of points de…  
-**When:** 2026-02-06 07:47 (America/Winnipeg)  •  **Published:** 2026-02-06 13:47 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 6: Slot hopes to press on with Liverpool's recovery as Manchester City provide litmus test
+**Slug (lower-third):** Slot hopes to press on with Liverpool's recovery as Manch…  
+**When:** 2026-02-06 16:30 (America/Winnipeg)  •  **Published:** 2026-02-06 22:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leicester City: Foxes should 'take medicine' of points deduction, says Matty Fryatt. Leicester City "should take their medicine" and accept their points penalty for breaking spending rules, says former Foxes striker Matty Fryatt. Relevance to standings and momentum.
+Slot hopes to press on with Liverpool's recovery as Manchester City provide litmus test. Head coach says champions were 'outplayed for large parts' in 3-0 reverse last November, but are now more dangerous Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +152,33 @@ Leicester City: Foxes should 'take medicine' of points deduction, says Matty Fry
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Leicester City: Foxes should 'take medicine' of points deduction, says Matty Fryatt. https://www.bbc.com/sport/football/articles/c1lzlgr0v7yo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Slot hopes to press on with Liverpool's recovery as Manchester City provide litmus test. https://www.theguardian.com/football/2026/feb/06/arne-slot-liverpool-manchester-city-premier-league
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 7: Harvey Elliott: Unai Emery accepts Aston Villa are 'damaging' Liverpool loanee over loan terms - but says Arne Slot's side hold key to his future
+**Slug (lower-third):** Harvey Elliott: Unai Emery accepts Aston Villa are 'damag…  
+**When:** 2026-02-06 16:30 (America/Winnipeg)  •  **Published:** 2026-02-06 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~34s
+
+### Presenter Script (3–5 sentences)
+Harvey Elliott: Unai Emery accepts Aston Villa are 'damaging' Liverpool loanee over loan terms - but says Arne Slot's side hold key to his future. Harvey Elliott is on loan at Aston Villa at Liverpool but the deal will become permanent if he plays 10 games for the club; Unai Emery has used the midfielder sparingly because of this permanent clause - and reveals the club are in talks with Liverpool over getting rid of the clause Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Harvey Elliott: Unai Emery accepts Aston Villa are 'damaging' Liverpool loanee over loan terms - but says Arne Slot's side hold key to his future. https://www.skysports.com/football/news/12040/13504166/harvey-elliott-unai-emery-accepts-aston-villa-are-damaging-liverpool-loanee-over-loan-terms-but-says-arne-slots-side-hold-key-to-his-future
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +189,13 @@ Leicester City: Foxes should 'take medicine' of points deduction, says Matty Fry
 
 ### Club Updates
 
-## Story 8: Winter Olympic wonders, Premier League thrills and Super Bowl LX - follow with us
-**Slug (lower-third):** Winter Olympic wonders, Premier League thrills and Super …  
-**When:** 2026-02-06 11:41 (America/Winnipeg)  •  **Published:** 2026-02-06 17:41 (UTC)  
+## Story 8: Leeds 3-1 Nottingham Forest: What does result mean for relegation battle
+**Slug (lower-third):** Leeds 3-1 Nottingham Forest: What does result mean for re…  
+**When:** 2026-02-06 17:57 (America/Winnipeg)  •  **Published:** 2026-02-06 23:57 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Winter Olympic wonders, Premier League thrills and Super Bowl LX - follow with us. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Leeds 3-1 Nottingham Forest: What does result mean for relegation battle. After Leeds' win over Nottingham Forest on Friday, BBC Sport looks at what it all means for the Premier League relegation battle. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +204,7 @@ Winter Olympic wonders, Premier League thrills and Super Bowl LX - follow with u
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Winter Olympic wonders, Premier League thrills and Super Bowl LX - follow with us. https://www.theguardian.com/sport/2026/feb/06/your-guardian-sport-weekend-winter-olympics-wonders-premier-league-thrills-and-super-bowl-lx
+- bbc.com — Leeds 3-1 Nottingham Forest: What does result mean for relegation battle. https://www.bbc.com/sport/football/articles/cp9j92l7rd3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +213,13 @@ Winter Olympic wonders, Premier League thrills and Super Bowl LX - follow with u
 
 ---
 
-## Story 9: Premier League team news: predicted lineups for the weekend action
-**Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
-**When:** 2026-02-06 11:30 (America/Winnipeg)  •  **Published:** 2026-02-06 17:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Cristiano Ronaldo: Saudi Pro League ready to let Portugal captain leave for PS43m - Paper Talk
+**Slug (lower-third):** Cristiano Ronaldo: Saudi Pro League ready to let Portugal…  
+**When:** 2026-02-06 17:15 (America/Winnipeg)  •  **Published:** 2026-02-06 23:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Premier League team news: predicted lineups for the weekend action. Manchester United face Tottenham on Saturday while Liverpool host Manchester City at Anfield on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Cristiano Ronaldo: Saudi Pro League ready to let Portugal captain leave for PS43m - Paper Talk. Saturdays other top stories include that Luis Enrique will snub a move to Manchester United to sign a new deal with PSG; Manchester City are lining up Nottingham Forests Elliot Anderson and Brentfords Michael Kayode as summer signings Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +228,7 @@ Premier League team news: predicted lineups for the weekend action. Manchester U
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/football/2026/feb/06/premier-league-team-news-predicted-lineups-for-the-weekend-action
+- skysports.com — Cristiano Ronaldo: Saudi Pro League ready to let Portugal captain leave for PS43m - Paper Talk. https://www.skysports.com/football/news/12040/13504319/cristiano-ronaldo-saudi-pro-league-ready-to-let-portugal-captain-leave-for-43m-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,8 +239,8 @@ Premier League team news: predicted lineups for the weekend action. Manchester U
 
 ## Story 10: Premier League news: Guardiola refuses to be silenced; Arteta apologises to Rosenior
 **Slug (lower-third):** Premier League news: Guardiola refuses to be silenced; Ar…  
-**When:** 2026-02-06 09:39 (America/Winnipeg)  •  **Published:** 2026-02-06 15:39 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**When:** 2026-02-06 16:30 (America/Winnipeg)  •  **Published:** 2026-02-06 22:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League news: Guardiola refuses to be silenced; Arteta apologises to Rosenior. A defiant Pep Guardiola has defended his right to condemn Israel's attacks on Gaza after being told to 'focus on football' by a Jewish group in Manchester Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
