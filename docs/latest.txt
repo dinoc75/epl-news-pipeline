@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-09 01:07 (America/Winnipeg)  |  2026-02-09 07:07 (UTC)
+**Generated:** 2026-02-09 07:14 (America/Winnipeg)  |  2026-02-09 13:14 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 36s
+**Estimated total video length:** ~3m 22s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Today on Sky Sports Racing: Plumpton and Wolverhampton
-- The Wayne Rooney Show: Tottenham Hotspur in relegation battle, says ex-England striker
-- The Wayne Rooney Show - Rooney Reacts: Liverpool-Man City DRAMA & Romero sent off AGAIN! - BBC Sounds
+- Erling Haaland admits 'statement' Manchester City win means more than three points
+- Eddie Howe insists he would quit if he did not believe he was right man for Newcastle
+- Newcastle: Eddie Howe would resign as manager if he had doubts
 
 ---
 
 ### Managerial Moves
 
-## Story 1: 'I know who I am' - Sonia Bompastor defiant after 'tough' week
-**Slug (lower-third):** 'I know who I am' - Sonia Bompastor defiant after 'tough'…  
-**When:** 2026-02-08 15:04 (America/Winnipeg)  •  **Published:** 2026-02-08 21:04 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 1: Newcastle: Eddie Howe would resign as manager if he had doubts
+**Slug (lower-third):** Newcastle: Eddie Howe would resign as manager if he had d…  
+**When:** 2026-02-09 05:06 (America/Winnipeg)  •  **Published:** 2026-02-09 11:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'I know who I am' - Sonia Bompastor defiant after 'tough' week. Chelsea manager Sonia Bompastor has not had many tougher weeks in her managerial career and was defiant following their win at Tottenham. Relevance to standings and momentum.
+Newcastle: Eddie Howe would resign as manager if he had doubts. Eddie Howe says there is "no doubt in my mind" he is still the right manager for Newcastle despite one win in eight games. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — 'I know who I am' - Sonia Bompastor defiant after 'tough' week. https://www.bbc.com/sport/football/articles/cjwz3nw5xz2o?at_medium=RSS&at_campaign=rss
+- bbc.com — Newcastle: Eddie Howe would resign as manager if he had doubts. https://www.bbc.com/sport/football/articles/crrxl8rnnneo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,15 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ---
 
-## Story 2: Michael Carrick: Manchester United won't be forced into making managerial appointment now by wins, says Gary Neville
-**Slug (lower-third):** Michael Carrick: Manchester United won't be forced into m…  
-**When:** 2026-02-08 14:42 (America/Winnipeg)  •  **Published:** 2026-02-08 20:42 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~26s
+### Injuries
+
+## Story 2: Kobbie Mainoo's Man Utd form under Michael Carrick shows why Ruben Amorim made a mistake in ignoring him
+**Slug (lower-third):** Kobbie Mainoo's Man Utd form under Michael Carrick shows …  
+**When:** 2026-02-09 02:30 (America/Winnipeg)  •  **Published:** 2026-02-09 08:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Michael Carrick: Manchester United won't be forced into making managerial appointment now by wins, says Gary Neville. Gary Neville on Man Utd potentially appointing Michael Carrick: What United have said is theyre not going to be bounced into, irrespective of wins or draws or losses on the pitch in this next couple of months, making an appointment. Theyre going to wait until the end of the season Relevance to standings and momentum.
+Kobbie Mainoo's Man Utd form under Michael Carrick shows why Ruben Amorim made a mistake in ignoring him. Kobbie Mainoos impressive return to the Manchester United team shows what Ruben Amorim was missing. Also in The Debrief: More Bruno Fernandes numbers, Bernardo Silvas influential display, Enzo Fernandezs new position and Angel Gomes debut Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +57,7 @@ Michael Carrick: Manchester United won't be forced into making managerial appoin
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Michael Carrick: Manchester United won't be forced into making managerial appointment now by wins, says Gary Neville. https://www.skysports.com/football/news/12040/13505094/michael-carrick-manchester-united-wont-be-forced-into-making-managerial-appointment-now-by-wins-says-gary-neville
+- skysports.com — Kobbie Mainoo's Man Utd form under Michael Carrick shows why Ruben Amorim made a mistake in ignoring him. https://www.skysports.com/football/news/12040/13504090/kobbie-mainoos-man-utd-form-under-michael-carrick-shows-why-ruben-amorim-made-a-mistake-in-ignoring-him
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,10 +68,154 @@ Michael Carrick: Manchester United won't be forced into making managerial appoin
 
 ### Club Updates
 
-## Story 3: Today on Sky Sports Racing: Plumpton and Wolverhampton
+## Story 3: Erling Haaland admits 'statement' Manchester City win means more than three points
+**Slug (lower-third):** Erling Haaland admits 'statement' Manchester City win mea…  
+**When:** 2026-02-09 06:00 (America/Winnipeg)  •  **Published:** 2026-02-09 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Erling Haaland admits 'statement' Manchester City win means more than three points. Erling Haaland says Manchester City's 2-1 win meant more than just the points and represented a statement in terms of the Premier League title race Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Erling Haaland admits 'statement' Manchester City win means more than three points. https://www.theguardian.com/football/2026/feb/09/erling-haaland-manchester-city-statement-win-more-than-three-points-liverpool
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Eddie Howe insists he would quit if he did not believe he was right man for Newcastle
+**Slug (lower-third):** Eddie Howe insists he would quit if he did not believe he…  
+**When:** 2026-02-09 05:37 (America/Winnipeg)  •  **Published:** 2026-02-09 11:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Eddie Howe insists he would quit if he did not believe he was right man for Newcastle. Eddie Howe has said he would offer Newcastle his resignation if he believed he was no longer the right man to lead the presently struggling club Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Eddie Howe insists he would quit if he did not believe he was right man for Newcastle. https://www.theguardian.com/football/2026/feb/09/eddie-howe-newcastle-insists-right-man-for-job
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: WSL talking points: Arsenal punish City and Chelsea get into the groove
+**Slug (lower-third):** WSL talking points: Arsenal punish City and Chelsea get i…  
+**When:** 2026-02-09 04:58 (America/Winnipeg)  •  **Published:** 2026-02-09 10:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+WSL talking points: Arsenal punish City and Chelsea get into the groove. Arsenal make the leaders pay, Sonia Bompastor is defiant and Manchester United's squad is working in harmony Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — WSL talking points: Arsenal punish City and Chelsea get into the groove. https://www.theguardian.com/football/2026/feb/09/wsl-talking-points-arsenal-punish-city-and-chelsea-get-into-the-groove
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Ref Watch:Should Man City's third goal have stood vs Liverpool?
+**Slug (lower-third):** Ref Watch:Should Man City's third goal have stood vs Live…  
+**When:** 2026-02-09 03:22 (America/Winnipeg)  •  **Published:** 2026-02-09 09:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ref Watch:Should Man City's third goal have stood vs Liverpool?. Ref Watch takes a closer look at the chaotic, last-gasp VAR drama at Anfield and asks whether or not referee Craig Pawson should have allowed Manchester Citys third goal to stand and NOT send off Dominik Szoboszlai. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Ref Watch:Should Man City's third goal have stood vs Liverpool?. https://www.skysports.com/watch/video/13505199/ref-watchshould-man-citys-3rd-goal-have-stood-vs-liverpool
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Premier League: 10 talking points from the weekend's action
+**Slug (lower-third):** Premier League: 10 talking points from the weekend's acti…  
+**When:** 2026-02-09 02:00 (America/Winnipeg)  •  **Published:** 2026-02-09 08:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: 10 talking points from the weekend's action. Liverpool rue costly mistakes, Viktor Gyokeres builds up a head of steam and Rayan gets the hype train chugging Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League: 10 talking points from the weekend's action. https://www.theguardian.com/football/2026/feb/09/premier-league-10-talking-points-from-the-weekends-action
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Football quiz: Name the players with most Premier League appearances
+**Slug (lower-third):** Football quiz: Name the players with most Premier League …  
+**When:** 2026-02-09 01:21 (America/Winnipeg)  •  **Published:** 2026-02-09 07:21 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football quiz: Name the players with most Premier League appearances. James Milner is poised to equal the record for most Premier League appearances. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football quiz: Name the players with most Premier League appearances. https://www.bbc.com/sport/football/articles/c5y2y4xeq87o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Today on Sky Sports Racing: Plumpton and Wolverhampton
 **Slug (lower-third):** Today on Sky Sports Racing: Plumpton and Wolverhampton  
 **When:** 2026-02-09 01:00 (America/Winnipeg)  •  **Published:** 2026-02-09 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Today on Sky Sports Racing: Plumpton and Wolverhampton. In today's feature, the Clive Cox-trained Horwich looks to extend his unbeaten run over the Wolverhampton seven furlongs to three on his handicap debut. We also have competitive jumps action from Plumpton, live on Sky Sports Racing from 1.45pm. Relevance to standings and momentum.
@@ -90,10 +236,10 @@ Today on Sky Sports Racing: Plumpton and Wolverhampton. In today's feature, the 
 
 ---
 
-## Story 4: The Wayne Rooney Show: Tottenham Hotspur in relegation battle, says ex-England striker
+## Story 10: The Wayne Rooney Show: Tottenham Hotspur in relegation battle, says ex-England striker
 **Slug (lower-third):** The Wayne Rooney Show: Tottenham Hotspur in relegation ba…  
 **When:** 2026-02-09 00:04 (America/Winnipeg)  •  **Published:** 2026-02-09 06:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 The Wayne Rooney Show: Tottenham Hotspur in relegation battle, says ex-England striker. Tottenham Hotspur are in a relegation battle, says former England captain Wayne Rooney. Relevance to standings and momentum.
@@ -106,151 +252,6 @@ The Wayne Rooney Show: Tottenham Hotspur in relegation battle, says ex-England s
 
 ### Sources
 - bbc.com — The Wayne Rooney Show: Tottenham Hotspur in relegation battle, says ex-England striker. https://www.bbc.com/sport/football/articles/cn5gr167x3yo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: The Wayne Rooney Show - Rooney Reacts: Liverpool-Man City DRAMA & Romero sent off AGAIN! - BBC Sounds
-**Slug (lower-third):** The Wayne Rooney Show - Rooney Reacts: Liverpool-Man City…  
-**When:** 2026-02-09 00:00 (America/Winnipeg)  •  **Published:** 2026-02-09 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-The Wayne Rooney Show - Rooney Reacts: Liverpool-Man City DRAMA & Romero sent off AGAIN! - BBC Sounds. Wayne Rooney talks late Liverpool-Man City drama, title race pressure and sorry Spurs. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — The Wayne Rooney Show - Rooney Reacts: Liverpool-Man City DRAMA & Romero sent off AGAIN! - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0myv14t?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Premier League highlights: Liverpool 1-2 Manchester City
-**Slug (lower-third):** Premier League highlights: Liverpool 1-2 Manchester City  
-**When:** 2026-02-08 14:00 (America/Winnipeg)  •  **Published:** 2026-02-08 20:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Liverpool 1-2 Manchester City. Erling Haaland's 93rd-minute penalty gives Manchester City a crucial comeback win over Liverpool, who end the game with 10 men as Dominik Szoboszlai is sent off in stoppage time at Anfield. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Liverpool 1-2 Manchester City. https://www.bbc.com/sport/football/videos/cgrdel2dvqeo?at_medium=RSS&at_campaign=rss
-- skysports.com — Liverpool 1-2 Manchester City | Premier League highlights. https://www.skysports.com/watch/video/13505050/liverpool-1-2-manchester-city-premier-league-highlights
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Football Daily - Premier League Review: Late drama at Anfield keeps title race alive - BBC Sounds
-**Slug (lower-third):** Football Daily - Premier League Review: Late drama at Anf…  
-**When:** 2026-02-08 16:29 (America/Winnipeg)  •  **Published:** 2026-02-08 22:29 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football Daily - Premier League Review: Late drama at Anfield keeps title race alive - BBC Sounds. Aaron Paul, Clinton Morrison and Luke Edwards review the weekend's Premier League action. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football Daily - Premier League Review: Late drama at Anfield keeps title race alive - BBC Sounds. https://www.bbc.co.uk/sounds/play/m002r1n8?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Troy Deeney's Team of the Week: Donnarumma, Fernandes, Szoboszlai, Gyokeres
-**Slug (lower-third):** Troy Deeney's Team of the Week: Donnarumma, Fernandes, Sz…  
-**When:** 2026-02-08 16:04 (America/Winnipeg)  •  **Published:** 2026-02-08 22:04 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Troy Deeney's Team of the Week: Donnarumma, Fernandes, Szoboszlai, Gyokeres. After every round of Premier League matches this season Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Troy Deeney's Team of the Week: Donnarumma, Fernandes, Szoboszlai, Gyokeres. https://www.bbc.com/sport/football/articles/c0j5pd3x0glo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Man City's Pep Guardiola, Erling Haaland and Gianluigi Donnarumma can inspire 'something special' in Premier League title race, says Gary Neville
-**Slug (lower-third):** Man City's Pep Guardiola, Erling Haaland and Gianluigi Do…  
-**When:** 2026-02-08 14:33 (America/Winnipeg)  •  **Published:** 2026-02-08 20:33 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~30s
-
-### Presenter Script (3–5 sentences)
-Man City's Pep Guardiola, Erling Haaland and Gianluigi Donnarumma can inspire 'something special' in Premier League title race, says Gary Neville. Manchester City gave their Premier League title race hopes a major boost with a 2-1 comeback win at Liverpool; Gary Neville says Pep Guardiola, Erling Haaland and Gianluigi Donnarumma can help City chase down best team Arsenal, who now hold a six-point advantage in the standings Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Man City's Pep Guardiola, Erling Haaland and Gianluigi Donnarumma can inspire 'something special' in Premier League title race, says Gary Neville. https://www.skysports.com/football/news/12040/13505088/man-citys-pep-guardiola-erling-haaland-and-gianluigi-donnarumma-can-inspire-something-special-in-premier-league-title-race-says-gary-neville
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League highlights: Brighton & Hove Albion 0-1 Crystal Palace
-**Slug (lower-third):** Premier League highlights: Brighton & Hove Albion 0-1 Cry…  
-**When:** 2026-02-08 14:00 (America/Winnipeg)  •  **Published:** 2026-02-08 20:00 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Brighton & Hove Albion 0-1 Crystal Palace. Ismaila Sarr scores the only goal of the game as Crystal Palace end a run of nine Premier League games without a win, by beating rivals Brighton 1-0 at the AMEX Stadium. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Brighton & Hove Albion 0-1 Crystal Palace. https://www.bbc.com/sport/football/videos/cvg12ew3evyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
