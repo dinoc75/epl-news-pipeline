@@ -1,28 +1,52 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-11 01:04 (America/Winnipeg)  |  2026-02-11 07:04 (UTC)
+**Generated:** 2026-02-11 07:15 (America/Winnipeg)  |  2026-02-11 13:15 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 33s
+**Estimated total video length:** ~4m 43s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Everton stadium disabled access 'a struggle', say fans
-- Premier League highlights: West Ham United 1-1 Manchester United
-- Erling Haaland should not put pressure on himself to score, says Guardiola
+- Roberto De Zerbi, Oliver Glasner or back to Mauricio Pochettino? Where will Spurs turn after Thomas Frank's sacking?
+- Tottenham's soaring dreams for Thomas Frank quickly hit the buffers of grim reality | David Hytner
+- Tottenham quiz: Can you name the past 10 permanent Spurs managers?
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Premier League highlights: West Ham United 1-1 Manchester United
-**Slug (lower-third):** Premier League highlights: West Ham United 1-1 Manchester…  
-**When:** 2026-02-10 16:51 (America/Winnipeg)  •  **Published:** 2026-02-10 22:51 (UTC)  
+## Story 1: Roberto De Zerbi, Oliver Glasner or back to Mauricio Pochettino? Where will Spurs turn after Thomas Frank's sacking?
+**Slug (lower-third):** Roberto De Zerbi, Oliver Glasner or back to Mauricio Poch…  
+**When:** 2026-02-11 06:30 (America/Winnipeg)  •  **Published:** 2026-02-11 12:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Roberto De Zerbi, Oliver Glasner or back to Mauricio Pochettino? Where will Spurs turn after Thomas Frank's sacking?. Tottenham have sacked Thomas Frank after less than eight months in charge; Spurs are sat 16th in the Premier League table, five points above the relegation zone; So, whats next? Club will now look for a sixth permanent manager in seven years to replace Frank Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Roberto De Zerbi, Oliver Glasner or back to Mauricio Pochettino? Where will Spurs turn after Thomas Frank's sacking?. https://www.skysports.com/football/news/12040/13506188/roberto-de-zerbi-oliver-glasner-or-back-to-mauricio-pochettino-where-will-spurs-turn-after-thomas-franks-sacking
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Tottenham quiz: Can you name the past 10 permanent Spurs managers?
+**Slug (lower-third):** Tottenham quiz: Can you name the past 10 permanent Spurs …  
+**When:** 2026-02-11 06:13 (America/Winnipeg)  •  **Published:** 2026-02-11 12:13 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: West Ham United 1-1 Manchester United. Benjamin Sesko rescues a point for Manchester United as thier winning run under interim head coach Michael Carrick ends in a 1-1 draw at West Ham. Relevance to standings and momentum.
+Tottenham quiz: Can you name the past 10 permanent Spurs managers?. Thomas Frank has been sacked by Tottenham after just under eight months in charge - can you name the managers who came before him? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,8 +55,7 @@ Premier League highlights: West Ham United 1-1 Manchester United. Benjamin Sesko
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: West Ham United 1-1 Manchester United. https://www.bbc.com/sport/football/videos/cvg8d1r8wd4o?at_medium=RSS&at_campaign=rss
-- skysports.com — West Ham 1-1 Man United | Premier League highlights. https://www.skysports.com/watch/video/13505996/west-ham-1-1-man-united-premier-league-highlights
+- bbc.com — Tottenham quiz: Can you name the past 10 permanent Spurs managers?. https://www.bbc.com/sport/football/articles/cpd8vldvy2xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -41,13 +64,37 @@ Premier League highlights: West Ham United 1-1 Manchester United. Benjamin Sesko
 
 ---
 
-## Story 2: Erling Haaland should not put pressure on himself to score, says Guardiola
-**Slug (lower-third):** Erling Haaland should not put pressure on himself to scor…  
-**When:** 2026-02-10 16:30 (America/Winnipeg)  •  **Published:** 2026-02-10 22:30 (UTC)  
+## Story 3: Thomas Frank sacked by Spurs after eight months in charge: What went wrong for the former Brentford boss?
+**Slug (lower-third):** Thomas Frank sacked by Spurs after eight months in charge…  
+**When:** 2026-02-11 05:15 (America/Winnipeg)  •  **Published:** 2026-02-11 11:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Thomas Frank sacked by Spurs after eight months in charge: What went wrong for the former Brentford boss?. Thomas Frank has been sacked by Tottenham Hotspur after eight months in charge; the Dane leaves with Spurs 16th in the Premier League table and just five points above the relegation zone; what went wrong for the former Brentford boss? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Thomas Frank sacked by Spurs after eight months in charge: What went wrong for the former Brentford boss?. https://www.skysports.com/football/news/12040/13505760/thomas-frank-sacked-by-spurs-after-eight-months-in-charge-what-went-wrong-for-the-former-brentford-boss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Thomas Frank sacking: Tottenham appointment a gamble that ended in failure
+**Slug (lower-third):** Thomas Frank sacking: Tottenham appointment a gamble that…  
+**When:** 2026-02-11 04:36 (America/Winnipeg)  •  **Published:** 2026-02-11 10:36 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Erling Haaland should not put pressure on himself to score, says Guardiola. The City manager said current standing in Champions League and Premier League 'would not be possible' without Norwegian striker Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Thomas Frank sacking: Tottenham appointment a gamble that ended in failure. Thomas Frank's appointment by Tottenham was a gamble that ended in a storm of toxicity, writes Phil McNulty. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -56,8 +103,7 @@ Erling Haaland should not put pressure on himself to score, says Guardiola. The 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Erling Haaland should not put pressure on himself to score, says Guardiola. https://www.theguardian.com/football/2026/feb/10/erling-haaland-should-not-pressure-himself-to-score-guardiola
-- bbc.com — Man City: Erling Haaland puts 'pressure on himself' to score, says Pep Guardiola. https://www.bbc.com/sport/football/articles/c4g2lwnppjyo?at_medium=RSS&at_campaign=rss
+- bbc.com — Thomas Frank sacking: Tottenham appointment a gamble that ended in failure. https://www.bbc.com/sport/football/articles/c783jxqlpv9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +112,13 @@ Erling Haaland should not put pressure on himself to score, says Guardiola. The 
 
 ---
 
-## Story 3: Michael Carrick happy with his start as Manchester United boss
-**Slug (lower-third):** Michael Carrick happy with his start as Manchester United…  
-**When:** 2026-02-10 18:30 (America/Winnipeg)  •  **Published:** 2026-02-11 00:30 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 5: Thomas Frank Sacked: Boos rung out at Tottenham Hotspur stadium after Newcastle defeat
+**Slug (lower-third):** Thomas Frank Sacked: Boos rung out at Tottenham Hotspur s…  
+**When:** 2026-02-11 04:33 (America/Winnipeg)  •  **Published:** 2026-02-11 10:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Michael Carrick happy with his start as Manchester United boss. Michael Carrick is happy with his start as Manchester United head coach despite dropping his first points in 1-1 draw at West Ham. Relevance to standings and momentum.
+Thomas Frank Sacked: Boos rung out at Tottenham Hotspur stadium after Newcastle defeat. Spurs fans let their frustrations be heard at the full-time whistle after defeat to Newcastle in Thomas Franks last game in charge. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +127,7 @@ Michael Carrick happy with his start as Manchester United boss. Michael Carrick 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Michael Carrick happy with his start as Manchester United boss. https://www.bbc.com/sport/football/articles/cpv82340kxno?at_medium=RSS&at_campaign=rss
+- skysports.com — Thomas Frank Sacked: Boos rung out at Tottenham Hotspur stadium after Newcastle defeat. https://www.skysports.com/watch/video/13506148/full-time-boos-ringed-out-around-the-tottenham-hotspur-stadium-as-thomas-franks-last-game-ended-in-defeat
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +136,13 @@ Michael Carrick happy with his start as Manchester United boss. Michael Carrick 
 
 ---
 
-## Story 4: Spurs 1-2 Newcastle: Eddie Howe savours 'special connection' after supporters' response
-**Slug (lower-third):** Spurs 1-2 Newcastle: Eddie Howe savours 'special connecti…  
-**When:** 2026-02-10 17:54 (America/Winnipeg)  •  **Published:** 2026-02-10 23:54 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 6: Liverpool Arne Slot: How much pressure is the manager really under?
+**Slug (lower-third):** Liverpool Arne Slot: How much pressure is the manager rea…  
+**When:** 2026-02-11 04:11 (America/Winnipeg)  •  **Published:** 2026-02-11 10:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Spurs 1-2 Newcastle: Eddie Howe savours 'special connection' after supporters' response. Eddie Howe savours a "special connection" with fans after Newcastle win on the road at Spurs - in direct contrast to Tottenham's relationship with their manager. Relevance to standings and momentum.
+Liverpool Arne Slot: How much pressure is the manager really under?. Liverpool have won just once in the Premier League in 2026 - so will they stick with Arne Slot, who took them to the title last season? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +151,7 @@ Spurs 1-2 Newcastle: Eddie Howe savours 'special connection' after supporters' r
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Spurs 1-2 Newcastle: Eddie Howe savours 'special connection' after supporters' response. https://www.bbc.com/sport/football/articles/c0q3z2gk48xo?at_medium=RSS&at_campaign=rss
+- bbc.com — Liverpool Arne Slot: How much pressure is the manager really under?. https://www.bbc.com/sport/football/articles/cgl5kd6y8gro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +160,13 @@ Spurs 1-2 Newcastle: Eddie Howe savours 'special connection' after supporters' r
 
 ---
 
-## Story 5: Thomas Frank insists he's 'safe' at Spurs - but can he avoid the sack?
-**Slug (lower-third):** Thomas Frank insists he's 'safe' at Spurs - but can he av…  
-**When:** 2026-02-10 17:41 (America/Winnipeg)  •  **Published:** 2026-02-10 23:41 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~21s
+## Story 7: Thomas Frank sacked by Tottenham after eight months as head coach
+**Slug (lower-third):** Thomas Frank sacked by Tottenham after eight months as he…  
+**When:** 2026-02-11 04:06 (America/Winnipeg)  •  **Published:** 2026-02-11 10:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Thomas Frank insists he's 'safe' at Spurs - but can he avoid the sack?. Tottenham manager Thomas Frank insists his job is not under threat despite dropping to five points from the Premier League relegation zone - but will the Dane avoid the sack? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Thomas Frank sacked by Tottenham after eight months as head coach. Thomas Frank has been sacked after Tottenham's defeat by Newcastle took their run without a league win to eight matches Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,55 +175,9 @@ Thomas Frank insists he's 'safe' at Spurs - but can he avoid the sack?. Tottenha
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Thomas Frank insists he's 'safe' at Spurs - but can he avoid the sack?. https://www.bbc.com/sport/football/articles/cm28yrl3vrxo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Liam Rosenior reflects on Chelsea's 2-2 draw with Leeds United
-**Slug (lower-third):** Liam Rosenior reflects on Chelsea's 2-2 draw with Leeds U…  
-**When:** 2026-02-10 17:14 (America/Winnipeg)  •  **Published:** 2026-02-10 23:14 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liam Rosenior reflects on Chelsea's 2-2 draw with Leeds United. Chelsea head coach Liam Rosenior reflects on his side's 2-2 draw with Leeds United after conceding twice in "six minutes of madness". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Liam Rosenior reflects on Chelsea's 2-2 draw with Leeds United. https://www.bbc.com/sport/football/videos/crl48pp3rgwo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Eddie Howe post-match interview: Tottenham Hotspur 1-2 Newcastle United Eddie Howe
-**Slug (lower-third):** Eddie Howe post-match interview: Tottenham Hotspur 1-2 Ne…  
-**When:** 2026-02-10 17:10 (America/Winnipeg)  •  **Published:** 2026-02-10 23:10 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Eddie Howe post-match interview: Tottenham Hotspur 1-2 Newcastle United Eddie Howe. Newcastle United manager Eddie Howe praises his players for their attitude in their 2-1 win at Tottenham. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Eddie Howe post-match interview: Tottenham Hotspur 1-2 Newcastle United Eddie Howe. https://www.bbc.com/sport/football/videos/c62dgrvd0gdo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Thomas Frank sacked by Tottenham after eight months as head coach. https://www.theguardian.com/football/2026/feb/11/thomas-frank-sacked-tottenham-head-coach
+- bbc.com — Thomas Frank: Tottenham sack head coach after eight months in charge. https://www.bbc.com/sport/football/articles/ckgzqdzz1zdo?at_medium=RSS&at_campaign=rss
+- skysports.com — Thomas Frank sacked: Tottenham head coach departs after less than eight months in charge. https://www.skysports.com/football/news/12040/13477299/thomas-frank-sacked-tottenham-head-coach-departs-after-less-than-eight-months-in-charge
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +188,37 @@ Eddie Howe post-match interview: Tottenham Hotspur 1-2 Newcastle United Eddie Ho
 
 ### Club Updates
 
-## Story 8: Everton stadium disabled access 'a struggle', say fans
-**Slug (lower-third):** Everton stadium disabled access 'a struggle', say fans  
-**When:** 2026-02-11 00:28 (America/Winnipeg)  •  **Published:** 2026-02-11 06:28 (UTC)  
+## Story 8: Tottenham's soaring dreams for Thomas Frank quickly hit the buffers of grim reality | David Hytner
+**Slug (lower-third):** Tottenham's soaring dreams for Thomas Frank quickly hit t…  
+**When:** 2026-02-11 06:18 (America/Winnipeg)  •  **Published:** 2026-02-11 12:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Tottenham's soaring dreams for Thomas Frank quickly hit the buffers of grim reality | David Hytner. Supposedly a pragmatic upgrade on Postecoglou, the Dane's relationship with fans unravelled after early cup exits and league defeats in which they showed negligible attacking threat Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Tottenham's soaring dreams for Thomas Frank quickly hit the buffers of grim reality | David Hytner. https://www.theguardian.com/football/2026/feb/11/tottenhams-soaring-dreams-for-thomas-frank-quickly-hit-the-buffers-of-grim-reality
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Leicester City 3-4 Southampton: How 'infuriating' loss sums Foxes season up in 'a nutshell'
+**Slug (lower-third):** Leicester City 3-4 Southampton: How 'infuriating' loss su…  
+**When:** 2026-02-11 04:59 (America/Winnipeg)  •  **Published:** 2026-02-11 10:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton stadium disabled access 'a struggle', say fans. Some Everton fans with disabilities are considering giving up their season tickets due to access issues. Relevance to standings and momentum.
+Leicester City 3-4 Southampton: How 'infuriating' loss sums Foxes season up in 'a nutshell'. Leicester City's sensation 4-3 defeat by Southampton, in a game they had led 3-0 at half-time, is described by pundits, players and coaches as "infuriating", "completely unacceptable" and "a capitulation". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +227,7 @@ Everton stadium disabled access 'a struggle', say fans. Some Everton fans with d
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Everton stadium disabled access 'a struggle', say fans. https://www.bbc.com/news/articles/cvg8drydrkmo?at_medium=RSS&at_campaign=rss
+- bbc.com — Leicester City 3-4 Southampton: How 'infuriating' loss sums Foxes season up in 'a nutshell'. https://www.bbc.com/sport/football/articles/c2d1pd8dlp9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +236,13 @@ Everton stadium disabled access 'a struggle', say fans. Some Everton fans with d
 
 ---
 
-## Story 9: Everton 1-2 AFC Bournemouth: Andoni Iraola post-match interview
-**Slug (lower-third):** Everton 1-2 AFC Bournemouth: Andoni Iraola post-match int…  
-**When:** 2026-02-10 17:36 (America/Winnipeg)  •  **Published:** 2026-02-10 23:36 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 10: Championship play-offs: EFL likely to opt for six-team expanded format in 2026/27 ahead of general meeting
+**Slug (lower-third):** Championship play-offs: EFL likely to opt for six-team ex…  
+**When:** 2026-02-11 04:45 (America/Winnipeg)  •  **Published:** 2026-02-11 10:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Everton 1-2 AFC Bournemouth: Andoni Iraola post-match interview. Bournemouth's Andoni Iraola is full of praise for new signing Rayan after he bounced back from conceding a penalty to score in their 2-1 comeback win against Everton. Relevance to standings and momentum.
+Championship play-offs: EFL likely to opt for six-team expanded format in 2026/27 ahead of general meeting. EFL clubs are set to decide whether to expand next seasons play-offs in a general meeting next month; The current format involves the four teams that finish directly below the automatic promotion places; The Premier League has some concerns that it may dilute quality Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,31 +251,7 @@ Everton 1-2 AFC Bournemouth: Andoni Iraola post-match interview. Bournemouth's A
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Everton 1-2 AFC Bournemouth: Andoni Iraola post-match interview. https://www.bbc.com/sport/football/videos/cn8zj2zgnj5o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Arne Slot: Liverpool boss says there's no guarantee he stays after this season if they miss out on Champions League football
-**Slug (lower-third):** Arne Slot: Liverpool boss says there's no guarantee he st…  
-**When:** 2026-02-10 17:20 (America/Winnipeg)  •  **Published:** 2026-02-10 23:20 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~32s
-
-### Presenter Script (3–5 sentences)
-Arne Slot: Liverpool boss says there's no guarantee he stays after this season if they miss out on Champions League football. Arne Slot is under pressure at Liverpool, with Jamie Carragher saying he has no leg to stand on if club misses out on Champions League football; Slot says there are no guarantees he stays - but points out Liverpool stood by Jurgen Klopp after missing out on Champions League in 2023 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Arne Slot: Liverpool boss says there's no guarantee he stays after this season if they miss out on Champions League football. https://www.skysports.com/football/news/12040/13506025/arne-slot-liverpool-boss-says-theres-no-guarantee-he-stays-after-this-season-if-they-miss-out-on-champions-league-football
+- skysports.com — Championship play-offs: EFL likely to opt for six-team expanded format in 2026/27 ahead of general meeting. https://www.skysports.com/football/news/12040/13506165/championship-play-offs-efl-likely-to-opt-for-six-team-expanded-format-in-2026-27-ahead-of-general-meeting
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
