@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-11 13:06 (America/Winnipeg)  |  2026-02-11 19:06 (UTC)
+**Generated:** 2026-02-11 20:28 (America/Winnipeg)  |  2026-02-12 02:28 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~3m 20s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- UK being 'colonised by immigrants', says Man United co-owner Sir Jim Ratcliffe
-- Grand Slam of Darts expands to 48-player field for first time at WV Active Aldersley in Wolverhampton - live on Sky Sports
-- 'Wins like this are rare': The best EFL comeback victories
+- Sean Dyche sacked by Nottingham Forest after Wolves draw
+- Sean Dyche sacked by Nottingham Forest with club in relegation fight
+- Celtic: 'Big asset' Alex Oxlade-Chamberlain has immediate impact with 'class goal'
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Thomas Frank sacking: Tottenham appointment a gamble that ended in failure
-**Slug (lower-third):** Thomas Frank sacking: Tottenham appointment a gamble that…  
-**When:** 2026-02-11 04:36 (America/Winnipeg)  •  **Published:** 2026-02-11 10:36 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 1: Sean Dyche sacked by Nottingham Forest after Wolves draw
+**Slug (lower-third):** Sean Dyche sacked by Nottingham Forest after Wolves draw  
+**When:** 2026-02-11 20:08 (America/Winnipeg)  •  **Published:** 2026-02-12 02:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Thomas Frank sacking: Tottenham appointment a gamble that ended in failure. Thomas Frank's sacking came as no surprise on Wednesday. His appointment by Tottenham was a gamble that ended in a storm of toxicity, writes Phil McNulty. Relevance to standings and momentum.
+Sean Dyche sacked by Nottingham Forest after Wolves draw. Forest failed to take any of a litany of chances in a 0-0 draw with Wolves and now await a fourth head coach of the season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,8 @@ Thomas Frank sacking: Tottenham appointment a gamble that ended in failure. Thom
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Thomas Frank sacking: Tottenham appointment a gamble that ended in failure. https://www.bbc.com/sport/football/articles/c783jxqlpv9o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Sean Dyche sacked by Nottingham Forest after Wolves draw. https://www.theguardian.com/football/2026/feb/11/nottingham-forest-wolves-premier-league-match-report
+- skysports.com — Nottingham Forest 0-0 Wolves: Sean Dyche sacked after hosts held despite having 35 shots in blow to survival hopes. https://www.skysports.com/football/nottingham-forest-vs-wolverhampton-wanderers/report/531385
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +41,13 @@ Thomas Frank sacking: Tottenham appointment a gamble that ended in failure. Thom
 
 ---
 
-## Story 2: Liverpool Arne Slot: How much pressure is the manager really under?
-**Slug (lower-third):** Liverpool Arne Slot: How much pressure is the manager rea…  
-**When:** 2026-02-11 04:11 (America/Winnipeg)  •  **Published:** 2026-02-11 10:11 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 2: Sean Dyche sacked by Nottingham Forest with club in relegation fight
+**Slug (lower-third):** Sean Dyche sacked by Nottingham Forest with club in releg…  
+**When:** 2026-02-11 18:42 (America/Winnipeg)  •  **Published:** 2026-02-12 00:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool Arne Slot: How much pressure is the manager really under?. Liverpool have won just once in the Premier League in 2026 - so will they stick with Arne Slot, who took them to the title last season? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sean Dyche sacked by Nottingham Forest with club in relegation fight. Nottingham Forest sack Sean Dyche as head coach after just 114 days in charge and are looking for their fourth boss of the season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +56,7 @@ Liverpool Arne Slot: How much pressure is the manager really under?. Liverpool h
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool Arne Slot: How much pressure is the manager really under?. https://www.bbc.com/sport/football/articles/cgl5kd6y8gro?at_medium=RSS&at_campaign=rss
+- bbc.com — Sean Dyche sacked by Nottingham Forest with club in relegation fight. https://www.bbc.com/sport/football/articles/c98p80g568do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +65,13 @@ Liverpool Arne Slot: How much pressure is the manager really under?. Liverpool h
 
 ---
 
-## Story 3: Nottingham Forest: Problems or solutions? Forest battle the drop under Sean Dyche
-**Slug (lower-third):** Nottingham Forest: Problems or solutions? Forest battle t…  
-**When:** 2026-02-11 03:00 (America/Winnipeg)  •  **Published:** 2026-02-11 09:00 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 3: Match of the Day: Thomas Frank dismissal needed as Tottenham in danger of relegation - Alan Shearer
+**Slug (lower-third):** Match of the Day: Thomas Frank dismissal needed as Totten…  
+**When:** 2026-02-11 18:20 (America/Winnipeg)  •  **Published:** 2026-02-12 00:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest: Problems or solutions? Forest battle the drop under Sean Dyche. Sean Dyche was nominated for January's Manager of the Month yet it does not save the Nottingham Forest boss from uncertainty. Relevance to standings and momentum.
+Match of the Day: Thomas Frank dismissal needed as Tottenham in danger of relegation - Alan Shearer. Match of the Day pundit Alan Shearer believes Tottenham had no choice but to sack manager Thomas Frank as the club are currently in a relegation battle. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +80,7 @@ Nottingham Forest: Problems or solutions? Forest battle the drop under Sean Dych
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Nottingham Forest: Problems or solutions? Forest battle the drop under Sean Dyche. https://www.bbc.com/sport/football/articles/cde4nyz2p98o?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day: Thomas Frank dismissal needed as Tottenham in danger of relegation - Alan Shearer. https://www.bbc.com/sport/football/videos/cvgk47zr8e2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +91,13 @@ Nottingham Forest: Problems or solutions? Forest battle the drop under Sean Dych
 
 ### Club Updates
 
-## Story 4: UK being 'colonised by immigrants', says Man United co-owner Sir Jim Ratcliffe
-**Slug (lower-third):** UK being 'colonised by immigrants', says Man United co-ow…  
-**When:** 2026-02-11 12:10 (America/Winnipeg)  •  **Published:** 2026-02-11 18:10 (UTC)  
+## Story 4: Celtic: 'Big asset' Alex Oxlade-Chamberlain has immediate impact with 'class goal'
+**Slug (lower-third):** Celtic: 'Big asset' Alex Oxlade-Chamberlain has immediate…  
+**When:** 2026-02-11 18:32 (America/Winnipeg)  •  **Published:** 2026-02-12 00:32 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-UK being 'colonised by immigrants', says Man United co-owner Sir Jim Ratcliffe. Britain's seventh-richest man, who vocally backed Brexit then moved to Monaco, also hits out at people on benefits Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Celtic: 'Big asset' Alex Oxlade-Chamberlain has immediate impact with 'class goal'. Martin O'Neill hails Alex Oxlade-Chamberlain's impact after the former Arsenal and Liverpool midfielder nets a crucial winner on his Celtic debut. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +106,7 @@ UK being 'colonised by immigrants', says Man United co-owner Sir Jim Ratcliffe. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — UK being 'colonised by immigrants', says Man United co-owner Sir Jim Ratcliffe. https://www.theguardian.com/business/2026/feb/11/uk-immigrants-man-utd-sir-jim-ratcliffe-tax-monaco
+- bbc.com — Celtic: 'Big asset' Alex Oxlade-Chamberlain has immediate impact with 'class goal'. https://www.bbc.com/sport/football/articles/cp32nq7v3n5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,37 +115,13 @@ UK being 'colonised by immigrants', says Man United co-owner Sir Jim Ratcliffe. 
 
 ---
 
-## Story 5: Grand Slam of Darts expands to 48-player field for first time at WV Active Aldersley in Wolverhampton - live on Sky Sports
-**Slug (lower-third):** Grand Slam of Darts expands to 48-player field for first …  
-**When:** 2026-02-11 10:57 (America/Winnipeg)  •  **Published:** 2026-02-11 16:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~31s
-
-### Presenter Script (3–5 sentences)
-Grand Slam of Darts expands to 48-player field for first time at WV Active Aldersley in Wolverhampton - live on Sky Sports. Luke Littler headlines the early confirmed stars to feature at the Grand Slam of Darts at WV Active Aldersley in Wolverhampton in November; you can watch Premier League Darts live on Sky Sports every Thursday all the way through until the finale at The O2 on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Grand Slam of Darts expands to 48-player field for first time at WV Active Aldersley in Wolverhampton - live on Sky Sports. https://www.skysports.com/darts/news/12040/13506330/grand-slam-of-darts-expands-to-48-player-field-for-first-time-at-wv-active-aldersley-in-wolverhampton-live-on-sky-sports
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: 'Wins like this are rare': The best EFL comeback victories
-**Slug (lower-third):** 'Wins like this are rare': The best EFL comeback victories  
-**When:** 2026-02-11 09:57 (America/Winnipeg)  •  **Published:** 2026-02-11 15:57 (UTC)  
+## Story 5: Premier League: Burnley deepen Crystal Palace woes
+**Slug (lower-third):** Premier League: Burnley deepen Crystal Palace woes  
+**When:** 2026-02-11 18:13 (America/Winnipeg)  •  **Published:** 2026-02-12 00:13 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'Wins like this are rare': The best EFL comeback victories. From Southampton's 4-3 win at Leicester to 'the Miracle of Hillsborough', BBC Sport takes a look at the EFL's best comeback wins. Relevance to standings and momentum.
+Premier League: Burnley deepen Crystal Palace woes. The Clarets' remarkable first-half fightback keeps alive their slim hopes of Premier League survival, but where does it leave Crystal Palace? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +130,7 @@ Grand Slam of Darts expands to 48-player field for first time at WV Active Alder
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — 'Wins like this are rare': The best EFL comeback victories. https://www.bbc.com/sport/football/articles/c78j18glmgpo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League: Burnley deepen Crystal Palace woes. https://www.bbc.com/sport/football/articles/c626jvne615o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +139,13 @@ Grand Slam of Darts expands to 48-player field for first time at WV Active Alder
 
 ---
 
-## Story 7: Tottenham's soaring dreams for Thomas Frank quickly hit the buffers of grim reality | David Hytner
-**Slug (lower-third):** Tottenham's soaring dreams for Thomas Frank quickly hit t…  
-**When:** 2026-02-11 06:18 (America/Winnipeg)  •  **Published:** 2026-02-11 12:18 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~21s
+## Story 6: Match of the Day: Florian Wirtz analysis - Liverpool v Sunderland
+**Slug (lower-third):** Match of the Day: Florian Wirtz analysis - Liverpool v Su…  
+**When:** 2026-02-11 18:00 (America/Winnipeg)  •  **Published:** 2026-02-12 00:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham's soaring dreams for Thomas Frank quickly hit the buffers of grim reality | David Hytner. Supposedly a pragmatic upgrade on Postecoglou, the Dane's relationship with fans unravelled after early cup exits and league defeats in which they showed negligible attacking threat Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Match of the Day: Florian Wirtz analysis - Liverpool v Sunderland. Match of the Day pundit Danny Murphy says Florian Wirtz was "pulling the strings" for Liverpool in their 1-0 against Sunderland. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +154,7 @@ Tottenham's soaring dreams for Thomas Frank quickly hit the buffers of grim real
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Tottenham's soaring dreams for Thomas Frank quickly hit the buffers of grim reality | David Hytner. https://www.theguardian.com/football/2026/feb/11/tottenhams-soaring-dreams-for-thomas-frank-quickly-hit-the-buffers-of-grim-reality
+- bbc.com — Match of the Day: Florian Wirtz analysis - Liverpool v Sunderland. https://www.bbc.com/sport/football/videos/clyx2gr1vlno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +163,13 @@ Tottenham's soaring dreams for Thomas Frank quickly hit the buffers of grim real
 
 ---
 
-## Story 8: Jack Grealish fined PS1k after running red light
-**Slug (lower-third):** Jack Grealish fined PS1k after running red light  
-**When:** 2026-02-11 03:58 (America/Winnipeg)  •  **Published:** 2026-02-11 09:58 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 7: Match of the Day analysis: Should Phil Foden have been sent off for tackle against Fulham
+**Slug (lower-third):** Match of the Day analysis: Should Phil Foden have been se…  
+**When:** 2026-02-11 18:00 (America/Winnipeg)  •  **Published:** 2026-02-12 00:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jack Grealish fined PS1k after running red light. The footballer was caught on camera driving his Lamborghini supercar through the signals in Liverpool. Relevance to standings and momentum.
+Match of the Day analysis: Should Phil Foden have been sent off for tackle against Fulham. Match of the Day pundit Danny Murphy believes Manchester City's Phil Foden was "lucky" not to have been sent off for a tackle on Fulham's Calvin Bassey. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +178,7 @@ Jack Grealish fined PS1k after running red light. The footballer was caught on c
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Jack Grealish fined PS1k after running red light. https://www.bbc.com/news/articles/cdjmej9v83ko?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day analysis: Should Phil Foden have been sent off for tackle against Fulham. https://www.bbc.com/sport/football/videos/cpd8v49jg81o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +187,13 @@ Jack Grealish fined PS1k after running red light. The footballer was caught on c
 
 ---
 
-## Story 9: Abdukodir Khusanov: How Man City player has turned form around
-**Slug (lower-third):** Abdukodir Khusanov: How Man City player has turned form a…  
-**When:** 2026-02-11 02:48 (America/Winnipeg)  •  **Published:** 2026-02-11 08:48 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 8: Premier League: Will West Ham make 40-point mark crucial in relegation fight?
+**Slug (lower-third):** Premier League: Will West Ham make 40-point mark crucial …  
+**When:** 2026-02-11 17:39 (America/Winnipeg)  •  **Published:** 2026-02-11 23:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Abdukodir Khusanov: How Man City player has turned form around. Abdukodir Khusanov endured a nightmare debut for Manchester City but has since recovered to become a mainstay in the team. Relevance to standings and momentum.
+Premier League: Will West Ham make 40-point mark crucial in relegation fight?. The 40-point mark - or thereabouts - could well be back in vogue when it comes to guaranteeing survival this term, with an in-form West Ham attempting to chase down the sides above them. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +202,7 @@ Abdukodir Khusanov: How Man City player has turned form around. Abdukodir Khusan
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Abdukodir Khusanov: How Man City player has turned form around. https://www.bbc.com/sport/football/articles/c98q1nvqprgo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League: Will West Ham make 40-point mark crucial in relegation fight?. https://www.bbc.com/sport/football/articles/c4gjplk9rr7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +211,13 @@ Abdukodir Khusanov: How Man City player has turned form around. Abdukodir Khusan
 
 ---
 
-## Story 10: James Milner - Has Premier League record pursuit become a problem for Brighton?
-**Slug (lower-third):** James Milner - Has Premier League record pursuit become a…  
-**When:** 2026-02-11 02:01 (America/Winnipeg)  •  **Published:** 2026-02-11 08:01 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+## Story 9: Man City 3-0 Fulham: Pep Guardiola's side close in on leaders Arsenal
+**Slug (lower-third):** Man City 3-0 Fulham: Pep Guardiola's side close in on lea…  
+**When:** 2026-02-11 17:13 (America/Winnipeg)  •  **Published:** 2026-02-11 23:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-James Milner - Has Premier League record pursuit become a problem for Brighton?. James Milner is one game away from drawing level with Gareth Barry for most Premier League appearances, but has the record become a problem for Brighton? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Man City 3-0 Fulham: Pep Guardiola's side close in on leaders Arsenal. Pep Guardiola vowed his Manchester City side would "breathe down the neck of Arsenal" as they aim to hunt down the Premier League leaders in this fascinating title race. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +226,31 @@ James Milner - Has Premier League record pursuit become a problem for Brighton?.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — James Milner - Has Premier League record pursuit become a problem for Brighton?. https://www.bbc.com/sport/football/articles/ce3g8xlw47po?at_medium=RSS&at_campaign=rss
+- bbc.com — Man City 3-0 Fulham: Pep Guardiola's side close in on leaders Arsenal. https://www.bbc.com/sport/football/articles/c7438z9d983o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Premier League: Aston Villa 1-0 Brighton & Hove Albion - highlights
+**Slug (lower-third):** Premier League: Aston Villa 1-0 Brighton & Hove Albion - …  
+**When:** 2026-02-11 17:06 (America/Winnipeg)  •  **Published:** 2026-02-11 23:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Aston Villa 1-0 Brighton & Hove Albion - highlights. A late Jack Hinshelwood own goal gives Aston Villa a 1-0 win over Brighton, in a game where their former midfielder James Milner equals the all-time Premier League appearance record. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Aston Villa 1-0 Brighton & Hove Albion - highlights. https://www.bbc.com/sport/football/videos/c0ljppx0eezo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
