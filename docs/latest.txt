@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-15 06:56 (America/Winnipeg)  |  2026-02-15 12:56 (UTC)
+**Generated:** 2026-02-15 12:39 (America/Winnipeg)  |  2026-02-15 18:39 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 37s
+**Estimated total video length:** ~3m 20s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Nottingham Forest: Vitor Pereira announced as new boss on 18-month deal
-- Virgil van Djik says Mohamed Salah is 'so important' for Liverpool and he wants him to stay
-- Vitor Pereira announced as new Nottingham Forest head coach replacing Sean Dyche at the City Ground
+- Premier League Wolves edge League Two Grimsby in FA Cup 'throwback'
+- WSL: Chelsea 2-0 Liverpool highlights
+- WSL: Manchester United 2-1 London City Lionesses highlights
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Nottingham Forest: Vitor Pereira announced as new boss on 18-month deal
-**Slug (lower-third):** Nottingham Forest: Vitor Pereira announced as new boss on…  
-**When:** 2026-02-15 06:19 (America/Winnipeg)  •  **Published:** 2026-02-15 12:19 (UTC)  
+## Story 1: Vitor Pereira appointed as Nottingham Forest head coach
+**Slug (lower-third):** Vitor Pereira appointed as Nottingham Forest head coach  
+**When:** 2026-02-15 06:11 (America/Winnipeg)  •  **Published:** 2026-02-15 12:11 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest: Vitor Pereira announced as new boss on 18-month deal. Nottingham Forest appoint Vitor Pereira on an 18-month deal as the 57-year-old becomes the club's fourth manager of the campaign. Relevance to standings and momentum.
+Vitor Pereira appointed as Nottingham Forest head coach. Nottingham Forest have named Vitor Pereira as their new head coach, following the sacking of Sean Dyche. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,8 @@ Nottingham Forest: Vitor Pereira announced as new boss on 18-month deal. Notting
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Nottingham Forest: Vitor Pereira announced as new boss on 18-month deal. https://www.bbc.com/sport/football/articles/c62678ldqmpo?at_medium=RSS&at_campaign=rss
+- espn.com — Vitor Pereira appointed as Nottingham Forest head coach. https://www.espn.com/soccer/story/_/id/47908746/vitor-pereira-appointed-nottingham-forest-head-coach
+- theguardian.com — Nottingham Forest confirm Vitor Pereira as fourth head coach of season. https://www.theguardian.com/football/2026/feb/15/nottingham-forest-confirm-vitor-pereira-as-head-coach
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +41,15 @@ Nottingham Forest: Vitor Pereira announced as new boss on 18-month deal. Notting
 
 ---
 
-## Story 2: Vitor Pereira announced as new Nottingham Forest head coach replacing Sean Dyche at the City Ground
-**Slug (lower-third):** Vitor Pereira announced as new Nottingham Forest head coa…  
-**When:** 2026-02-15 06:00 (America/Winnipeg)  •  **Published:** 2026-02-15 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+### Injuries
+
+## Story 2: WSL: Manchester United 2-1 London City Lionesses highlights
+**Slug (lower-third):** WSL: Manchester United 2-1 London City Lionesses highligh…  
+**When:** 2026-02-15 12:09 (America/Winnipeg)  •  **Published:** 2026-02-15 18:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Vitor Pereira announced as new Nottingham Forest head coach replacing Sean Dyche at the City Ground. Former Wolves boss Vitor Pereira has been confirmed as new Nottingham Forest head coach; Forest sacked their third boss of the season in Sean Dyche; the decision came after the 0-0 draw with Wolves; Dyche lasted just 114 days in the role; Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+WSL: Manchester United 2-1 London City Lionesses highlights. Millie Turner assists and then scores on her first start back from injury to help Manchester United come from behind and beat London City Lionesses 2-1. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,59 +58,7 @@ Vitor Pereira announced as new Nottingham Forest head coach replacing Sean Dyche
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Vitor Pereira announced as new Nottingham Forest head coach replacing Sean Dyche at the City Ground. https://www.skysports.com/football/news/12040/13507371/vitor-pereira-announced-as-new-nottingham-forest-head-coach-replacing-sean-dyche-at-the-city-ground
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 3: 'The perfect place for people like me': how one couple started UK's first women's sports bar
-**Slug (lower-third):** 'The perfect place for people like me': how one couple st…  
-**When:** 2026-02-15 02:00 (America/Winnipeg)  •  **Published:** 2026-02-15 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-'The perfect place for people like me': how one couple started UK's first women's sports bar. Lucy and Pippa Tallant have opened the Crossbar, in Brighton, to create a place for women to feel comfortable watching all sport Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — 'The perfect place for people like me': how one couple started UK's first women's sports bar. https://www.theguardian.com/football/2026/feb/15/the-perfect-place-for-people-like-me-how-one-couple-started-uks-first-womens-sports-bar
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 4: FA Cup winners' medal, Odegaard's armband & Pictionary with Arteta
-**Slug (lower-third):** FA Cup winners' medal, Odegaard's armband & Pictionary wi…  
-**When:** 2026-02-15 02:16 (America/Winnipeg)  •  **Published:** 2026-02-15 08:16 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-FA Cup winners' medal, Odegaard's armband & Pictionary with Arteta. As his team prepare to face his old club Arsenal, Wigan midfielder Matt Smith tells BBC Sport about his FA Cup final winners' medal and the advice Mikel Arteta gave him before he left. Disciplinary outcome could affect availability.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — FA Cup winners' medal, Odegaard's armband & Pictionary with Arteta. https://www.bbc.com/sport/football/articles/c87r285p1x7o?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL: Manchester United 2-1 London City Lionesses highlights. https://www.bbc.com/sport/football/videos/c15xzkg5k81o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,13 +69,13 @@ FA Cup winners' medal, Odegaard's armband & Pictionary with Arteta. As his team 
 
 ### Club Updates
 
-## Story 5: Virgil van Djik says Mohamed Salah is 'so important' for Liverpool and he wants him to stay
-**Slug (lower-third):** Virgil van Djik says Mohamed Salah is 'so important' for …  
-**When:** 2026-02-15 06:01 (America/Winnipeg)  •  **Published:** 2026-02-15 12:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+## Story 3: Premier League Wolves edge League Two Grimsby in FA Cup 'throwback'
+**Slug (lower-third):** Premier League Wolves edge League Two Grimsby in FA Cup '…  
+**When:** 2026-02-15 12:29 (America/Winnipeg)  •  **Published:** 2026-02-15 18:29 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Virgil van Djik says Mohamed Salah is 'so important' for Liverpool and he wants him to stay. Liverpool captain hails the importance of Mohamed Salah, why the Egyptian brings more than goals and his desire for Salah to stay beyond the summer Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League Wolves edge League Two Grimsby in FA Cup 'throwback'. Premier League Wolves edge League Two Grimsby in an "old school cup tie" which provided an FA Cup "throwback". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +84,7 @@ Virgil van Djik says Mohamed Salah is 'so important' for Liverpool and he wants 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Virgil van Djik says Mohamed Salah is 'so important' for Liverpool and he wants him to stay. https://www.bbc.com/sport/football/articles/c0k158g7700o?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League Wolves edge League Two Grimsby in FA Cup 'throwback'. https://www.bbc.com/sport/football/articles/c14mnp0z0vro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +93,13 @@ Virgil van Djik says Mohamed Salah is 'so important' for Liverpool and he wants 
 
 ---
 
-## Story 6: WSL FREE STREAMS: Watch Man Utd vs London City, Everton vs West Ham, Aston Villa vs Tottenham
-**Slug (lower-third):** WSL FREE STREAMS: Watch Man Utd vs London City, Everton v…  
-**When:** 2026-02-15 05:00 (America/Winnipeg)  •  **Published:** 2026-02-15 11:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 4: WSL: Chelsea 2-0 Liverpool highlights
+**Slug (lower-third):** WSL: Chelsea 2-0 Liverpool highlights  
+**When:** 2026-02-15 12:27 (America/Winnipeg)  •  **Published:** 2026-02-15 18:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL FREE STREAMS: Watch Man Utd vs London City, Everton vs West Ham, Aston Villa vs Tottenham. Watch Man Utd vs London City Lionesses, Everton vs West Ham and Aston Villa vs Tottenham via free live streams below; Chelsea vs Liverpool is available on Sky Sports Football; all matches kick off at 12pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+WSL: Chelsea 2-0 Liverpool highlights. Lauren James is instrumental in Chelsea's 2-0 win over Liverpool as she assists Nusken before scoring her side's second. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +108,7 @@ WSL FREE STREAMS: Watch Man Utd vs London City, Everton vs West Ham, Aston Villa
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — WSL FREE STREAMS: Watch Man Utd vs London City, Everton vs West Ham, Aston Villa vs Tottenham. https://www.skysports.com/football/news/12040/13507369/wsl-free-streams-watch-man-utd-vs-london-city-everton-vs-west-ham-aston-villa-vs-tottenham
+- bbc.com — WSL: Chelsea 2-0 Liverpool highlights. https://www.bbc.com/sport/football/videos/cewz5jx185xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +117,13 @@ WSL FREE STREAMS: Watch Man Utd vs London City, Everton vs West Ham, Aston Villa
 
 ---
 
-## Story 7: 'Ferryman' Igor Tudor has the record to steer Tottenham to safety
-**Slug (lower-third):** 'Ferryman' Igor Tudor has the record to steer Tottenham t…  
-**When:** 2026-02-15 02:00 (America/Winnipeg)  •  **Published:** 2026-02-15 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 5: FA Cup highlights: Stoke City 1-2 Fulham
+**Slug (lower-third):** FA Cup highlights: Stoke City 1-2 Fulham  
+**When:** 2026-02-15 11:54 (America/Winnipeg)  •  **Published:** 2026-02-15 17:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'Ferryman' Igor Tudor has the record to steer Tottenham to safety. The Croat never stays long but is an expert at doing what is necessary and also comes with a reputation as a taskmaster Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+FA Cup highlights: Stoke City 1-2 Fulham. Second half goals from Kevin and Harrison Reed helped Fulham beat Stoke City and earn a place in the FA Cup fifth round. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +132,8 @@ WSL FREE STREAMS: Watch Man Utd vs London City, Everton vs West Ham, Aston Villa
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'Ferryman' Igor Tudor has the record to steer Tottenham to safety. https://www.theguardian.com/football/2026/feb/15/ferryman-igor-tudor-has-the-record-to-steer-tottenham-to-safety
+- bbc.com — FA Cup highlights: Stoke City 1-2 Fulham. https://www.bbc.com/sport/football/videos/cx2457y27dyo?at_medium=RSS&at_campaign=rss
+- skysports.com — Stoke City 1-2 Fulham: Harrison Reed's late winner sends Marco Silva's Cottagers into FA Cup fifth round. https://www.skysports.com/football/stoke-city-vs-fulham/report/552099
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +142,13 @@ WSL FREE STREAMS: Watch Man Utd vs London City, Everton vs West Ham, Aston Villa
 
 ---
 
-## Story 8: Eden Hazard: 'I'm more of a taxi driver than a football player now, but it's OK'
-**Slug (lower-third):** Eden Hazard: 'I'm more of a taxi driver than a football p…  
-**When:** 2026-02-15 02:00 (America/Winnipeg)  •  **Published:** 2026-02-15 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~24s
+## Story 6: FA Cup highlights: Grimsby Town 1-1 Wolverhampton Wanderers
+**Slug (lower-third):** FA Cup highlights: Grimsby Town 1-1 Wolverhampton Wandere…  
+**When:** 2026-02-15 11:23 (America/Winnipeg)  •  **Published:** 2026-02-15 17:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Eden Hazard: 'I'm more of a taxi driver than a football player now, but it's OK'. The former Chelsea and Real Madrid idol wants nothing more than to be remembered as 'a good player and a funny guy' after a vintage career of league titles, European triumphs and spats with Jose Mourinho Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+FA Cup highlights: Grimsby Town 1-1 Wolverhampton Wanderers. Watch Premier League strugglers Wolves overcome a muddy pitch to beat Grimsby Town at Blundell Park and reach the FA Cup fifth round. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +157,7 @@ Eden Hazard: 'I'm more of a taxi driver than a football player now, but it's OK'
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Eden Hazard: 'I'm more of a taxi driver than a football player now, but it's OK'. https://www.theguardian.com/football/2026/feb/15/eden-hazard-im-more-of-a-taxi-driver-than-a-football-player-now-but-its-ok
+- bbc.com — FA Cup highlights: Grimsby Town 1-1 Wolverhampton Wanderers. https://www.bbc.com/sport/football/videos/cwy8j7pxwkgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +166,13 @@ Eden Hazard: 'I'm more of a taxi driver than a football player now, but it's OK'
 
 ---
 
-## Story 9: Martin Zubimendi: Is midfielder Arsenal's best player?
-**Slug (lower-third):** Martin Zubimendi: Is midfielder Arsenal's best player?  
-**When:** 2026-02-15 00:52 (America/Winnipeg)  •  **Published:** 2026-02-15 06:52 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 7: Bompastor admits pain of 'emotional week' after Chelsea beat Liverpool in WSL
+**Slug (lower-third):** Bompastor admits pain of 'emotional week' after Chelsea b…  
+**When:** 2026-02-15 11:12 (America/Winnipeg)  •  **Published:** 2026-02-15 17:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Martin Zubimendi: Is midfielder Arsenal's best player?. After an impressive start to his Arsenal career, BBC Sport looks at whether Martin Zubimendi is the Gunners' most important player. Relevance to standings and momentum.
+Bompastor admits pain of 'emotional week' after Chelsea beat Liverpool in WSL. Lauren James set up Sjoeke Nusken's opener and scored the second in Chelsea's 2-0 win against Liverpool in the Women's Super League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +181,7 @@ Martin Zubimendi: Is midfielder Arsenal's best player?. After an impressive star
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Martin Zubimendi: Is midfielder Arsenal's best player?. https://www.bbc.com/sport/football/articles/c2lr9rp9q12o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Bompastor admits pain of 'emotional week' after Chelsea beat Liverpool in WSL. https://www.theguardian.com/football/2026/feb/15/wsl-chelsea-liverpool-womens-super-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +190,13 @@ Martin Zubimendi: Is midfielder Arsenal's best player?. After an impressive star
 
 ---
 
-## Story 10: Today on Sky Sports Racing: Silky Lass takes on Lakota Chief in Newcastle novice contest
-**Slug (lower-third):** Today on Sky Sports Racing: Silky Lass takes on Lakota Ch…  
-**When:** 2026-02-15 00:00 (America/Winnipeg)  •  **Published:** 2026-02-15 06:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 8: 'I'm buzzing' - Man Utd's Marc Skinner toasts seventh-straight win
+**Slug (lower-third):** 'I'm buzzing' - Man Utd's Marc Skinner toasts seventh-str…  
+**When:** 2026-02-15 09:56 (America/Winnipeg)  •  **Published:** 2026-02-15 15:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Silky Lass takes on Lakota Chief in Newcastle novice contest. The Sky Sports Racing cameras head to the North-East today, with an eight-race All-Weather Championships card scheduled; Watch every race live on Sky Sports Racing from 1.42pm. Relevance to standings and momentum.
+'I'm buzzing' - Man Utd's Marc Skinner toasts seventh-straight win. Manchester United are getting the job done when it matters most - and their seven-game winning streak has gone under the radar. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +205,55 @@ Today on Sky Sports Racing: Silky Lass takes on Lakota Chief in Newcastle novice
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Silky Lass takes on Lakota Chief in Newcastle novice contest. https://www.skysports.com/racing/news/12040/13507159/today-on-sky-sports-racing-silky-lass-takes-on-lakota-chief-in-newcastle-novice-contest
+- bbc.com — 'I'm buzzing' - Man Utd's Marc Skinner toasts seventh-straight win. https://www.bbc.com/sport/football/articles/cze0pyjl6jlo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Arsenal 4-0 Wigan: Gunners cruise into FA Cup fifth round with dominant victory against League One opponents
+**Slug (lower-third):** Arsenal 4-0 Wigan: Gunners cruise into FA Cup fifth round…  
+**When:** 2026-02-15 08:00 (America/Winnipeg)  •  **Published:** 2026-02-15 14:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal 4-0 Wigan: Gunners cruise into FA Cup fifth round with dominant victory against League One opponents. Arsenal dispatched Wigan with ease to progress into the fifth round of the FA Cup with a dominant 4-0 win, keeping their quest for silverware across all four fronts alive. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal 4-0 Wigan: Gunners cruise into FA Cup fifth round with dominant victory against League One opponents. https://www.skysports.com/football/arsenal-vs-wigan-athletic/report/552093
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: WSL: Brighton v Arsenal postponed because of waterlogged pitch
+**Slug (lower-third):** WSL: Brighton v Arsenal postponed because of waterlogged …  
+**When:** 2026-02-15 07:53 (America/Winnipeg)  •  **Published:** 2026-02-15 13:53 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+WSL: Brighton v Arsenal postponed because of waterlogged pitch. Brighton's game at home to Arsenal in the Women's Super League on Sunday is postponed because of a waterlogged pitch. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — WSL: Brighton v Arsenal postponed because of waterlogged pitch. https://www.bbc.com/sport/football/articles/cedznv6qv1go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
