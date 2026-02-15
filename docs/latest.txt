@@ -1,48 +1,24 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-14 12:38 (America/Winnipeg)  |  2026-02-14 18:38 (UTC)
+**Generated:** 2026-02-14 20:29 (America/Winnipeg)  |  2026-02-15 02:29 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- FA Cup highlights: Burton Albion 0-1 West Ham United
-- FA Cup highlights: Southampton 2-1 Leicester City
-- FA Cup: Mansfield's Louis Reed scores fabulous free-kick to upset Burnley
+- FA Cup analysis: How Dominik Szoboszlai shone for Liverpool against Brighton
+- FA Cup highlights: Liverpool 3-0 Brighton & Hove Albion
+- Manchester United players want Harry Maguire to be offered a new contract - Paper Talk
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Tottenham appoint Igor Tudor - Football Focus explain
-**Slug (lower-third):** Tottenham appoint Igor Tudor - Football Focus explain  
-**When:** 2026-02-14 11:00 (America/Winnipeg)  •  **Published:** 2026-02-14 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham appoint Igor Tudor - Football Focus explain. Senior football correspondent explains Tottenham's reasons for sacking Thomas Frank and why Igor Tudor is unlikely to remain at Spurs until the end of the season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Tottenham appoint Igor Tudor - Football Focus explain. https://www.bbc.com/sport/football/videos/cz0grv02e1do?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Tottenham appoint Igor Tudor as new head coach
+## Story 1: Tottenham appoint Igor Tudor as new head coach
 **Slug (lower-third):** Tottenham appoint Igor Tudor as new head coach  
-**When:** 2026-02-14 07:00 (America/Winnipeg)  •  **Published:** 2026-02-14 13:00 (UTC)  
+**When:** 2026-02-14 14:17 (America/Winnipeg)  •  **Published:** 2026-02-14 20:17 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -57,7 +33,6 @@ Tottenham appoint Igor Tudor as new head coach. Tottenham Hotspur have appointed
 ### Sources
 - espn.com — Tottenham appoint Igor Tudor as new head coach. https://www.espn.com/soccer/story/_/id/47921270/tottenham-juventus-igor-tudor-thomas-frank-sacked-premier-league-serie-a
 - theguardian.com — 'It is an honour': Tottenham confirm Igor Tudor as interim head coach until end of season. https://www.theguardian.com/football/2026/feb/14/tottenham-igor-tudor-interim-head-coach-premier-league
-- skysports.com — Igor Tudor: Tottenham confirm former Juventus boss as head coach for rest of season. https://www.skysports.com/football/news/12040/13507362/igor-tudor-tottenham-confirm-former-juventus-boss-as-head-coach-for-rest-of-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +41,13 @@ Tottenham appoint Igor Tudor as new head coach. Tottenham Hotspur have appointed
 
 ---
 
-## Story 3: Igor Tudor: What will new Tottenham manager bring to club?
-**Slug (lower-third):** Igor Tudor: What will new Tottenham manager bring to club?  
-**When:** 2026-02-14 06:23 (America/Winnipeg)  •  **Published:** 2026-02-14 12:23 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 2: Keith Andrews's gravity-defying miracle has Brentford dreaming of Europe | Jonathan Wilson
+**Slug (lower-third):** Keith Andrews's gravity-defying miracle has Brentford dre…  
+**When:** 2026-02-14 14:00 (America/Winnipeg)  •  **Published:** 2026-02-14 20:00 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Igor Tudor: What will new Tottenham manager bring to club?. After Igor Tudor agrees to take charge of Tottenham for the remainder of the season, BBC Sport takes a look at what supporters can expect to see from his side. Relevance to standings and momentum.
+Keith Andrews's gravity-defying miracle has Brentford dreaming of Europe | Jonathan Wilson. Their best players and managers may move on, but this thoroughly modern club keep punching above their weight Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +56,57 @@ Igor Tudor: What will new Tottenham manager bring to club?. After Igor Tudor agr
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Igor Tudor: What will new Tottenham manager bring to club?. https://www.bbc.com/sport/football/articles/ckg13nkvd2eo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Keith Andrews's gravity-defying miracle has Brentford dreaming of Europe | Jonathan Wilson. https://www.theguardian.com/football/2026/feb/14/keith-andrewss-gravity-defying-miracle-has-brentford-dreaming-of-europe
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Brilliant Mansfield pile pressure on Parker - is his time up at Burnley?
+**Slug (lower-third):** Brilliant Mansfield pile pressure on Parker - is his time…  
+**When:** 2026-02-14 13:35 (America/Winnipeg)  •  **Published:** 2026-02-14 19:35 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Brilliant Mansfield pile pressure on Parker - is his time up at Burnley?. Burnley manager Scott Parker is under increasing pressure as the Premier League side are dumped out of the FA Cup by League One Mansfield. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Brilliant Mansfield pile pressure on Parker - is his time up at Burnley?. https://www.bbc.com/sport/football/articles/cy0dnxwxyl0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 4: Manchester United players want Harry Maguire to be offered a new contract - Paper Talk
+**Slug (lower-third):** Manchester United players want Harry Maguire to be offere…  
+**When:** 2026-02-14 16:50 (America/Winnipeg)  •  **Published:** 2026-02-14 22:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Manchester United players want Harry Maguire to be offered a new contract - Paper Talk. Sundays other top stories include: Chelsea and Aston Villa are interested in Lucas Bergvall; Roberto Martinez has added fuel to rumours over a Celtic move; England and Scotland World Cup games are under threat Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Manchester United players want Harry Maguire to be offered a new contract - Paper Talk. https://www.skysports.com/football/news/12040/13507751/manchester-united-players-want-harry-maguire-to-be-offered-a-new-contract-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +117,13 @@ Igor Tudor: What will new Tottenham manager bring to club?. After Igor Tudor agr
 
 ### Club Updates
 
-## Story 4: FA Cup highlights: Burton Albion 0-1 West Ham United
-**Slug (lower-third):** FA Cup highlights: Burton Albion 0-1 West Ham United  
-**When:** 2026-02-14 12:17 (America/Winnipeg)  •  **Published:** 2026-02-14 18:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: FA Cup analysis: How Dominik Szoboszlai shone for Liverpool against Brighton
+**Slug (lower-third):** FA Cup analysis: How Dominik Szoboszlai shone for Liverpo…  
+**When:** 2026-02-14 18:09 (America/Winnipeg)  •  **Published:** 2026-02-15 00:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-FA Cup highlights: Burton Albion 0-1 West Ham United. Crysencio Summerville scores his sixth goal in seven games to give West Ham a 1-0 away win over Burton Albion after extra time in the fourth round of the FA Cup. Relevance to standings and momentum.
+FA Cup analysis: How Dominik Szoboszlai shone for Liverpool against Brighton. BBC Sport pundit Shay Given believes Dominik Szoboszlai has "gone up a level" despite his team's dip in form this season, as the Hungarian midfielder was on the scoresheet once again for Liverpool in their 3-0 win over Brighton in the FA Cup. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,8 +132,7 @@ FA Cup highlights: Burton Albion 0-1 West Ham United. Crysencio Summerville scor
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FA Cup highlights: Burton Albion 0-1 West Ham United. https://www.bbc.com/sport/football/videos/c3dze2rpmv2o?at_medium=RSS&at_campaign=rss
-- skysports.com — Burton Albion 0-1 West Ham (AET): Crysencio Summerville extra-time goal enough for Hammers to edge into FA Cup fifth round. https://www.skysports.com/football/burton-albion-vs-west-ham-united/report/552095
+- bbc.com — FA Cup analysis: How Dominik Szoboszlai shone for Liverpool against Brighton. https://www.bbc.com/sport/football/videos/cde49n14pdwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -117,13 +141,13 @@ FA Cup highlights: Burton Albion 0-1 West Ham United. Crysencio Summerville scor
 
 ---
 
-## Story 5: FA Cup highlights: Southampton 2-1 Leicester City
-**Slug (lower-third):** FA Cup highlights: Southampton 2-1 Leicester City  
-**When:** 2026-02-14 12:09 (America/Winnipeg)  •  **Published:** 2026-02-14 18:09 (UTC)  
+## Story 6: FA Cup highlights: Liverpool 3-0 Brighton & Hove Albion
+**Slug (lower-third):** FA Cup highlights: Liverpool 3-0 Brighton & Hove Albion  
+**When:** 2026-02-14 17:54 (America/Winnipeg)  •  **Published:** 2026-02-14 23:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-FA Cup highlights: Southampton 2-1 Leicester City. James Bree's header in the 109th minute of extra time gives Southampton a 2-1 win over fellow Championship side Leicester City in the fourth round of the FA Cup. Relevance to standings and momentum.
+FA Cup highlights: Liverpool 3-0 Brighton & Hove Albion. Goals from Curtis Jones, Dominik Szoboszlai and Mohamed Salah give Liverpool a comfortable 3-0 win over Brighton in the fourth round of the FA Cup at Anfield. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,7 +156,7 @@ FA Cup highlights: Southampton 2-1 Leicester City. James Bree's header in the 10
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FA Cup highlights: Southampton 2-1 Leicester City. https://www.bbc.com/sport/football/videos/cy7jd2vp63xo?at_medium=RSS&at_campaign=rss
+- bbc.com — FA Cup highlights: Liverpool 3-0 Brighton & Hove Albion. https://www.bbc.com/sport/football/videos/c5yg5x9yx3jo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,13 +165,13 @@ FA Cup highlights: Southampton 2-1 Leicester City. James Bree's header in the 10
 
 ---
 
-## Story 6: FA Cup: Mansfield's Louis Reed scores fabulous free-kick to upset Burnley
-**Slug (lower-third):** FA Cup: Mansfield's Louis Reed scores fabulous free-kick …  
-**When:** 2026-02-14 11:26 (America/Winnipeg)  •  **Published:** 2026-02-14 17:26 (UTC)  
+## Story 7: Aston Villa 1-3 Newcastle: An advert for VAR? How many big decisions were wrong in FA Cup tie?
+**Slug (lower-third):** Aston Villa 1-3 Newcastle: An advert for VAR? How many bi…  
+**When:** 2026-02-14 15:04 (America/Winnipeg)  •  **Published:** 2026-02-14 21:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-FA Cup: Mansfield's Louis Reed scores fabulous free-kick to upset Burnley. Watch Mansfield Town's Louis Reed produce "set-piece sorcery," scoring a sensational free kick to stun Premier League side Burnley and reach the FA Cup fifth round. Relevance to standings and momentum.
+Aston Villa 1-3 Newcastle: An advert for VAR? How many big decisions were wrong in FA Cup tie?. Newcastle United beat Aston Villa in the FA Cup fourth round in a match dominated by a number of controversial decisions without VAR. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,7 +180,7 @@ FA Cup: Mansfield's Louis Reed scores fabulous free-kick to upset Burnley. Watch
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FA Cup: Mansfield's Louis Reed scores fabulous free-kick to upset Burnley. https://www.bbc.com/sport/football/videos/cp8rn3v2lmgo?at_medium=RSS&at_campaign=rss
+- bbc.com — Aston Villa 1-3 Newcastle: An advert for VAR? How many big decisions were wrong in FA Cup tie?. https://www.bbc.com/sport/football/articles/c70ke0zglk5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -165,13 +189,13 @@ FA Cup: Mansfield's Louis Reed scores fabulous free-kick to upset Burnley. Watch
 
 ---
 
-## Story 7: FA Cup highlights: Burnley 1-2 Mansfield Town
-**Slug (lower-third):** FA Cup highlights: Burnley 1-2 Mansfield Town  
-**When:** 2026-02-14 11:21 (America/Winnipeg)  •  **Published:** 2026-02-14 17:21 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: FA Cup: Eddie Howe shouldn't be under any pressure of losing Newcastle job - Shearer & Rooney analysis
+**Slug (lower-third):** FA Cup: Eddie Howe shouldn't be under any pressure of los…  
+**When:** 2026-02-14 16:07 (America/Winnipeg)  •  **Published:** 2026-02-14 22:07 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-FA Cup highlights: Burnley 1-2 Mansfield Town. League One side Mansfield Town score two unanswered second-half goals to beat Premier League strugglers Burnley 2-1 at Turf Moor in the fourth round of the FA Cup. Relevance to standings and momentum.
+FA Cup: Eddie Howe shouldn't be under any pressure of losing Newcastle job - Shearer & Rooney analysis. BBC Sport pundits Alan Shearer, Wayne Rooney and Dion Dublin believe Eddie Howe has the support of his players and that his future at the club shouldn't be called into question, regardless of any dips in form for Newcastle this season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -180,7 +204,7 @@ FA Cup highlights: Burnley 1-2 Mansfield Town. League One side Mansfield Town sc
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FA Cup highlights: Burnley 1-2 Mansfield Town. https://www.bbc.com/sport/football/videos/c3dze2r3rv9o?at_medium=RSS&at_campaign=rss
+- bbc.com — FA Cup: Eddie Howe shouldn't be under any pressure of losing Newcastle job - Shearer & Rooney analysis. https://www.bbc.com/sport/football/videos/crl4kr56l5ko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -189,13 +213,13 @@ FA Cup highlights: Burnley 1-2 Mansfield Town. League One side Mansfield Town sc
 
 ---
 
-## Story 8: Guehi scores first Manchester City goal but Guardiola labels Salford win 'boring'
-**Slug (lower-third):** Guehi scores first Manchester City goal but Guardiola lab…  
-**When:** 2026-02-14 11:18 (America/Winnipeg)  •  **Published:** 2026-02-14 17:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Football gossip: Gordon, Salah, Lukeba, Bergvall, Trafford, Maresca
+**Slug (lower-third):** Football gossip: Gordon, Salah, Lukeba, Bergvall, Traffor…  
+**When:** 2026-02-14 15:40 (America/Winnipeg)  •  **Published:** 2026-02-14 21:40 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Guehi scores first Manchester City goal but Guardiola labels Salford win 'boring'. Marc Guehi ensured Manchester City beat Salford 2-0 to reach the FA Cup fifth round but Pep Guardiola was not impressed Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Gordon, Salah, Lukeba, Bergvall, Trafford, Maresca. Anthony Gordon could be heading back to Merseyside as Mohamed Salah looks set to leave Liverpool, Arsenal target Castello Lukeba, while Manchester United watch Serie A duo. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -204,7 +228,7 @@ Guehi scores first Manchester City goal but Guardiola labels Salford win 'boring
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Guehi scores first Manchester City goal but Guardiola labels Salford win 'boring'. https://www.theguardian.com/football/2026/feb/14/manchester-city-salford-fa-cup-fourth-round-match-report
+- bbc.com — Football gossip: Gordon, Salah, Lukeba, Bergvall, Trafford, Maresca. https://www.bbc.com/sport/football/articles/cev7gw3y97ro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -213,13 +237,13 @@ Guehi scores first Manchester City goal but Guardiola labels Salford win 'boring
 
 ---
 
-## Story 9: FA Cup highlights: Manchester City 2-0 Salford City
-**Slug (lower-third):** FA Cup highlights: Manchester City 2-0 Salford City  
-**When:** 2026-02-14 11:17 (America/Winnipeg)  •  **Published:** 2026-02-14 17:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Man City 2-0 Salford City: James Trafford on reality of his situation after FA Cup
+**Slug (lower-third):** Man City 2-0 Salford City: James Trafford on reality of h…  
+**When:** 2026-02-14 13:25 (America/Winnipeg)  •  **Published:** 2026-02-14 19:25 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-FA Cup highlights: Manchester City 2-0 Salford City. Marc Guehi scores his first goal for Manchester City to seal a 2-0 win for the Premier League side over League Two Salford City in the fourth round of the FA Cup. Relevance to standings and momentum.
+Man City 2-0 Salford City: James Trafford on reality of his situation after FA Cup. James Trafford admits his role as second choice at Manchester City is not what he expected "coming into the season" after the win over Salford City in the FA Cup. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -228,32 +252,7 @@ FA Cup highlights: Manchester City 2-0 Salford City. Marc Guehi scores his first
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FA Cup highlights: Manchester City 2-0 Salford City. https://www.bbc.com/sport/football/videos/c8xypwr02jyo?at_medium=RSS&at_campaign=rss
-- skysports.com — Man City 2-0 Salford: Marc Guehi scores first City goal as Pep Guardiola's side reach FA Cup fifth round. https://www.skysports.com/football/manchester-city-vs-salford-city/report/552106
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: West Ham: Crysencio Summerville the key to Hammers' Premier League survival
-**Slug (lower-third):** West Ham: Crysencio Summerville the key to Hammers' Premi…  
-**When:** 2026-02-14 10:39 (America/Winnipeg)  •  **Published:** 2026-02-14 16:39 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-West Ham: Crysencio Summerville the key to Hammers' Premier League survival. Crysencio Summerville is West Ham's saviour again as the Hammers beat Burton to move into the FA Cup fifth round. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — West Ham: Crysencio Summerville the key to Hammers' Premier League survival. https://www.bbc.com/sport/football/articles/cd03e8xnkypo?at_medium=RSS&at_campaign=rss
+- bbc.com — Man City 2-0 Salford City: James Trafford on reality of his situation after FA Cup. https://www.bbc.com/sport/football/articles/cvg1m2nxndgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
