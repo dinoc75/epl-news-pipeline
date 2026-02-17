@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-17 07:08 (America/Winnipeg)  |  2026-02-17 13:08 (UTC)
+**Generated:** 2026-02-17 13:00 (America/Winnipeg)  |  2026-02-17 19:00 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 30s
+**Estimated total video length:** ~3m 20s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League boosted by 25% rise in South American rights with PS450m ESPN deal
-- David Squires on ... Jim Ratcliffe's comments and his need for some home truths
-- FA Cup: Arsenal's Gabriel Jesus & Newcastle's Sandro Tonali star in fourth round's best goals
+- Arsenal announce rise in season-ticket prices for fifth consecutive season
+- David Raya talks Arsenal's bid to win silverware and squad togetherness
+- Tottenham: Igor Tudor says it is 'no time for excuses' as he looks to address 'unacceptable' form
 
 ---
 
 ### Managerial Moves
 
-## Story 1: 'It fills my heart': Andrews lauds Macclesfield for their dream FA Cup adventure
-**Slug (lower-third):** 'It fills my heart': Andrews lauds Macclesfield for their…  
-**When:** 2026-02-16 17:56 (America/Winnipeg)  •  **Published:** 2026-02-16 23:56 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 1: Tottenham: Igor Tudor says it is 'no time for excuses' as he looks to address 'unacceptable' form
+**Slug (lower-third):** Tottenham: Igor Tudor says it is 'no time for excuses' as…  
+**When:** 2026-02-17 09:23 (America/Winnipeg)  •  **Published:** 2026-02-17 15:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'It fills my heart': Andrews lauds Macclesfield for their dream FA Cup adventure. The Brentford head coach said Macclesfield's journey as a phoenix club 'fills my heart' after the Premier League side won 1-0 to reach the FA Cup fifth round Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Tottenham: Igor Tudor says it is 'no time for excuses' as he looks to address 'unacceptable' form. New Tottenham Hotspur interim manager Igor Tudor says "nobody can accept" the club's current position. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'It fills my heart': Andrews lauds Macclesfield for their dream FA Cup adventure. https://www.theguardian.com/football/2026/feb/16/brentford-maclesfield-keith-andrews-john-rooney-fa-cup-reaction
+- bbc.com — Tottenham: Igor Tudor says it is 'no time for excuses' as he looks to address 'unacceptable' form. https://www.bbc.com/sport/football/articles/cj0dqndpej5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,15 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ---
 
-### Injuries
+### Club Updates
 
-## Story 2: Football gossip: Mac Allister, Trafford, Jackson, Williams, El Mala, McTominay
-**Slug (lower-third):** Football gossip: Mac Allister, Trafford, Jackson, William…  
-**When:** 2026-02-16 16:21 (America/Winnipeg)  •  **Published:** 2026-02-16 22:21 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 2: Arsenal announce rise in season-ticket prices for fifth consecutive season
+**Slug (lower-third):** Arsenal announce rise in season-ticket prices for fifth c…  
+**When:** 2026-02-17 11:36 (America/Winnipeg)  •  **Published:** 2026-02-17 17:36 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Mac Allister, Trafford, Jackson, Williams, El Mala, McTominay. Man Utd consider swoop for Liverpool's Alexis Mac Allister, Man City not keen on James Trafford sale, Nicolas Jackson to return to Chelsea from Bayern Munich. Relevance to standings and momentum.
+Arsenal announce rise in season-ticket prices for fifth consecutive season. Arsenal's season-ticket prices will rise for a fifth season in a row, with the cost of a ticket for the most dedicated fans rising by an average of 3.9% Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,24 +57,142 @@ Football gossip: Mac Allister, Trafford, Jackson, Williams, El Mala, McTominay. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Mac Allister, Trafford, Jackson, Williams, El Mala, McTominay. https://www.bbc.com/sport/football/articles/c93wk7ypnpno?at_medium=RSS&at_campaign=rss
+- theguardian.com — Arsenal announce rise in season-ticket prices for fifth consecutive season. https://www.theguardian.com/football/2026/feb/17/mikel-arteta-arsenal-warmup-routines-players-injury
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### Club Updates
-
-## Story 3: Premier League boosted by 25% rise in South American rights with PS450m ESPN deal
-**Slug (lower-third):** Premier League boosted by 25% rise in South American righ…  
-**When:** 2026-02-17 06:37 (America/Winnipeg)  •  **Published:** 2026-02-17 12:37 (UTC)  
+## Story 3: David Raya talks Arsenal's bid to win silverware and squad togetherness
+**Slug (lower-third):** David Raya talks Arsenal's bid to win silverware and squa…  
+**When:** 2026-02-17 11:29 (America/Winnipeg)  •  **Published:** 2026-02-17 17:29 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League boosted by 25% rise in South American rights with PS450m ESPN deal. ESPN has agreed to extend its long-standing South American and Caribbean partnership with the Premier League until 2031 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+David Raya talks Arsenal's bid to win silverware and squad togetherness. David Raya discusses his sides bid to win silverware this season and togetherness in the Gunners squad Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — David Raya talks Arsenal's bid to win silverware and squad togetherness. https://www.skysports.com/watch/video/13508647/david-raya-talks-arsenals-bid-to-win-silverware-and-squad-togetherness
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Igor Tudor hopes courage and confidence can arrest Tottenham slide
+**Slug (lower-third):** Igor Tudor hopes courage and confidence can arrest Totten…  
+**When:** 2026-02-17 09:14 (America/Winnipeg)  •  **Published:** 2026-02-17 15:14 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Igor Tudor hopes courage and confidence can arrest Tottenham slide. Igor Tudor said there was 'no time to find excuses' as he began his attempt to lift a Tottenham side only five points above the Premier League relegation zone Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Igor Tudor hopes courage and confidence can arrest Tottenham slide. https://www.theguardian.com/football/2026/feb/17/igor-tudor-tottenham-interim-manager
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Vitor Pereira insists he shares trust with 'emotional' Evangelos Marinakis
+**Slug (lower-third):** Vitor Pereira insists he shares trust with 'emotional' Ev…  
+**When:** 2026-02-17 09:12 (America/Winnipeg)  •  **Published:** 2026-02-17 15:12 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Vitor Pereira insists he shares trust with 'emotional' Evangelos Marinakis. Vitor Pereira has said he believes the trust he has with Nottingham Forest's owner, Evangelos Marinakis, means he can survive the poisoned chalice of the City Ground job Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Vitor Pereira insists he shares trust with 'emotional' Evangelos Marinakis. https://www.theguardian.com/football/2026/feb/17/vitor-pereira-evangelos-marinakis-nottingham-forest
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Vitor Pereira: Nottingham Forest boss trusts Evangelos Marinakis
+**Slug (lower-third):** Vitor Pereira: Nottingham Forest boss trusts Evangelos Ma…  
+**When:** 2026-02-17 08:06 (America/Winnipeg)  •  **Published:** 2026-02-17 14:06 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Vitor Pereira: Nottingham Forest boss trusts Evangelos Marinakis. Nottingham Forest boss Vitor Pereira says "he trusts my work, I trust his personality" as he is reunited with Evangelos Marinakis. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Vitor Pereira: Nottingham Forest boss trusts Evangelos Marinakis. https://www.bbc.com/sport/football/articles/cgk2mzpknn3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: 'We had fun times': Dennis Wise on the Crazy Gang, Chelsea and Como
+**Slug (lower-third):** 'We had fun times': Dennis Wise on the Crazy Gang, Chelse…  
+**When:** 2026-02-17 07:00 (America/Winnipeg)  •  **Published:** 2026-02-17 13:00 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'We had fun times': Dennis Wise on the Crazy Gang, Chelsea and Como. Wise remembers long throws with Vinnie Jones, training in a park with Gus Poyet and scoring in Europe for Millwall Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'We had fun times': Dennis Wise on the Crazy Gang, Chelsea and Como. https://www.theguardian.com/football/2026/feb/17/dennis-wise-vinnie-jones-crazy-gang-chelsea-como-millwall-gus-poyet-europe
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Premier League boosted by 25% rise in South American rights with PS450m ESPN deal
+**Slug (lower-third):** Premier League boosted by 25% rise in South American righ…  
+**When:** 2026-02-17 06:37 (America/Winnipeg)  •  **Published:** 2026-02-17 12:37 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League boosted by 25% rise in South American rights with PS450m ESPN deal. ESPN has agreed to extend its longstanding South American and Caribbean partnership with the Premier League until 2031 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -92,10 +210,10 @@ Premier League boosted by 25% rise in South American rights with PS450m ESPN dea
 
 ---
 
-## Story 4: David Squires on ... Jim Ratcliffe's comments and his need for some home truths
+## Story 9: David Squires on ... Jim Ratcliffe's comments and his need for some home truths
 **Slug (lower-third):** David Squires on ... Jim Ratcliffe's comments and his nee…  
 **When:** 2026-02-17 05:48 (America/Winnipeg)  •  **Published:** 2026-02-17 11:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 David Squires on ... Jim Ratcliffe's comments and his need for some home truths. Our cartoonist reflects on the Manchester United co-owner's recent statements and electioneering, via the prism of Cracker's DCI Bilborough Relevance to standings and momentum.
@@ -116,107 +234,10 @@ David Squires on ... Jim Ratcliffe's comments and his need for some home truths.
 
 ---
 
-## Story 5: FA Cup: Arsenal's Gabriel Jesus & Newcastle's Sandro Tonali star in fourth round's best goals
-**Slug (lower-third):** FA Cup: Arsenal's Gabriel Jesus & Newcastle's Sandro Tona…  
-**When:** 2026-02-17 05:15 (America/Winnipeg)  •  **Published:** 2026-02-17 11:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-FA Cup: Arsenal's Gabriel Jesus & Newcastle's Sandro Tonali star in fourth round's best goals. Watch the best goals from across the FA Cup fourth-round weekend, including a stunning free kick from Mansfield's Louis Reed and a strike from outside the box by Newcastle's Sandro Tonali. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — FA Cup: Arsenal's Gabriel Jesus & Newcastle's Sandro Tonali star in fourth round's best goals. https://www.bbc.com/sport/football/videos/cgjz5dx595vo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: England Women squad: Leah Williamson and Lauren James included for World Cup qualifiers against Ukraine and Iceland
-**Slug (lower-third):** England Women squad: Leah Williamson and Lauren James inc…  
-**When:** 2026-02-17 05:00 (America/Winnipeg)  •  **Published:** 2026-02-17 11:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-England Women squad: Leah Williamson and Lauren James included for World Cup qualifiers against Ukraine and Iceland. Leah Williamson and Lauren James named in 25-player squad for first time since Euro 2025; England face Ukraine in their first World Cup qualifier on March 3 before hosting Iceland on March 7 at Nottingham Forests The City Ground; 2027 Womens World Cup takes place in Brazil Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — England Women squad: Leah Williamson and Lauren James included for World Cup qualifiers against Ukraine and Iceland. https://www.skysports.com/football/news/12040/13508449/england-women-squad-leah-williamson-and-lauren-james-included-for-world-cup-qualifiers-against-ukraine-and-iceland
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Tottenham accused of editing meeting minutes, fan group call for transparency
-**Slug (lower-third):** Tottenham accused of editing meeting minutes, fan group c…  
-**When:** 2026-02-17 01:28 (America/Winnipeg)  •  **Published:** 2026-02-17 07:28 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham accused of editing meeting minutes, fan group call for transparency. Tottenham Hotspur have been accused of selectively editing the minutes of a fans' meeting held earlier this month, including taking out a line saying the club "welcomed the input" of supporters. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- espn.com — Tottenham accused of editing meeting minutes, fan group call for transparency. https://www.espn.com/soccer/story/_/id/47953041/tottenham-fan-group-meeting-minutes-spurs-igor-tudor
-- bbc.com — Tottenham accused of editing meeting minutes by fans' group. https://www.bbc.com/sport/football/articles/c178qpevy59o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Today on Sky Sports Racing: Quebecois looks to get off the mark over fences at Newbury
-**Slug (lower-third):** Today on Sky Sports Racing: Quebecois looks to get off th…  
-**When:** 2026-02-17 00:00 (America/Winnipeg)  •  **Published:** 2026-02-17 06:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Quebecois looks to get off the mark over fences at Newbury. We go jumping at Newbury on Tuesday afternoon with an eye-catching card getting under way at 2.15pm - live on Sky Sports Racing; afterwards, attention turns to Wolverhampton where a nine-race All-Weather Championships card is scheduled Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Quebecois looks to get off the mark over fences at Newbury. https://www.skysports.com/racing/news/12040/13508114/today-on-sky-sports-racing-quebecois-looks-to-get-off-the-mark-over-fences-at-newbury
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: FA Cup: Macclesfield 0-1 Brentford highlights
+## Story 10: FA Cup: Macclesfield 0-1 Brentford highlights
 **Slug (lower-third):** FA Cup: Macclesfield 0-1 Brentford highlights  
 **When:** 2026-02-16 18:01 (America/Winnipeg)  •  **Published:** 2026-02-17 00:01 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+**Virality score:** 78  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 FA Cup: Macclesfield 0-1 Brentford highlights. Macclesfield's FA Cup dream ends in cruel fashion as Brentford win 1-0 after an own goal by Sam Heathcote. Relevance to standings and momentum.
@@ -229,30 +250,6 @@ FA Cup: Macclesfield 0-1 Brentford highlights. Macclesfield's FA Cup dream ends 
 
 ### Sources
 - bbc.com — FA Cup: Macclesfield 0-1 Brentford highlights. https://www.bbc.com/sport/football/videos/c9q544jqqe2o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: FA Cup fifth-round draw: League One Mansfield host Arsenal as Man City head to Newcastle
-**Slug (lower-third):** FA Cup fifth-round draw: League One Mansfield host Arsena…  
-**When:** 2026-02-16 13:08 (America/Winnipeg)  •  **Published:** 2026-02-16 19:08 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-FA Cup fifth-round draw: League One Mansfield host Arsenal as Man City head to Newcastle. League One club Mansfield will host record 14-time winners Arsenal at Field Mill in the FA Cup fifth round, as Manchester City head to Newcastle in a repeat of the League Cup semi-final. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — FA Cup fifth-round draw: League One Mansfield host Arsenal as Man City head to Newcastle. https://www.bbc.com/sport/football/articles/cwy9ewq4yp9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
