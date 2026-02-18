@@ -1,25 +1,49 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-18 07:09 (America/Winnipeg)  |  2026-02-18 13:09 (UTC)
+**Generated:** 2026-02-18 12:58 (America/Winnipeg)  |  2026-02-18 18:58 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 24s
+**Estimated total video length:** ~4m 38s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Southampton and Portsmouth handed big fines for derby day melee
-- 'The soul left': how Everton's move from Goodison hurt the area's pubs
-- Football quiz: Name every team to finish first and last in the Premier League
+- Vitor Pereira back on familiar ground as he begins Nottingham Forest revival mission
+- Josh Rock blames Premier League Darts struggles in Antwerp on pre-match toilet visit and reveals plan to prevent repeat
+- Michael van Gerwen major doubt for Premier League Darts in Glasgow due to 'medical issue'
 
 ---
 
 ### Managerial Moves
 
-## Story 1: 'The soul left': how Everton's move from Goodison hurt the area's pubs
+## Story 1: Leicester City: Gary Rowett set to be named new manager
+**Slug (lower-third):** Leicester City: Gary Rowett set to be named new manager  
+**When:** 2026-02-18 10:06 (America/Winnipeg)  •  **Published:** 2026-02-18 16:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Leicester City: Gary Rowett set to be named new manager. Relegation-threatened Championship strugglers Leicester City are poised to name Gary Rowett as their new head coach, BBC Radio Leicester report. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Leicester City: Gary Rowett set to be named new manager. https://www.bbc.com/sport/football/articles/c98q1d35g1ro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: 'The soul left': how Everton's move from Goodison hurt the area's pubs
 **Slug (lower-third):** 'The soul left': how Everton's move from Goodison hurt th…  
 **When:** 2026-02-18 04:27 (America/Winnipeg)  •  **Published:** 2026-02-18 10:27 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'The soul left': how Everton's move from Goodison hurt the area's pubs. The Winslow pub closed last month after serving pints to Everton players, managers and fans for 140 years Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -40,63 +64,15 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ---
 
-## Story 2: Arsenal manager Mike Arteta 'happy' to interact with fans but has felt 'exposed'
-**Slug (lower-third):** Arsenal manager Mike Arteta 'happy' to interact with fans…  
-**When:** 2026-02-17 16:50 (America/Winnipeg)  •  **Published:** 2026-02-17 22:50 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal manager Mike Arteta 'happy' to interact with fans but has felt 'exposed'. Arsenal manager Mikel Arteta says he is "happy" to interact with fans but there are times where he has felt "exposed" and "not very comfortable". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Arsenal manager Mike Arteta 'happy' to interact with fans but has felt 'exposed'. https://www.bbc.com/sport/football/articles/cp9myp1nlxmo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Harry Maguire linked with Saudi Arabia move - Paper talk and football transfer gossip
-**Slug (lower-third):** Harry Maguire linked with Saudi Arabia move - Paper talk …  
-**When:** 2026-02-17 15:21 (America/Winnipeg)  •  **Published:** 2026-02-17 21:21 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Harry Maguire linked with Saudi Arabia move - Paper talk and football transfer gossip. Latest from Wednesdays papers: Manchester United will undergo a full recruitment process for their next manager and consider all available options, despite Michael Carricks stunning start; Rafa Benitez is facing early dismissal as Panathinaikos manager Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Harry Maguire linked with Saudi Arabia move - Paper talk and football transfer gossip. https://www.skysports.com/football/news/12040/13508742/harry-maguire-linked-with-saudi-arabia-move-paper-talk-and-football-transfer-gossip
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 4: Southampton and Portsmouth handed big fines for derby day melee
-**Slug (lower-third):** Southampton and Portsmouth handed big fines for derby day…  
-**When:** 2026-02-18 05:54 (America/Winnipeg)  •  **Published:** 2026-02-18 11:54 (UTC)  
+## Story 3: Vitor Pereira back on familiar ground as he begins Nottingham Forest revival mission
+**Slug (lower-third):** Vitor Pereira back on familiar ground as he begins Nottin…  
+**When:** 2026-02-18 12:31 (America/Winnipeg)  •  **Published:** 2026-02-18 18:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Southampton and Portsmouth handed big fines for derby day melee. Portsmouth and Southampton both receive hefty fines after the mass confrontation that occurred in January's south coast derby. Relevance to standings and momentum.
+Vitor Pereira back on familiar ground as he begins Nottingham Forest revival mission. Portuguese managed Fenerbahce and leads his new side into their Europa League playoff sounding confident Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +81,7 @@ Southampton and Portsmouth handed big fines for derby day melee. Portsmouth and 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Southampton and Portsmouth handed big fines for derby day melee. https://www.bbc.com/sport/football/articles/c8xy8pdvgw2o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Vitor Pereira back on familiar ground as he begins Nottingham Forest revival mission. https://www.theguardian.com/football/2026/feb/18/vitor-pereira-back-on-familiar-ground-nottingham-forest-revival-mission-europa-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +90,13 @@ Southampton and Portsmouth handed big fines for derby day melee. Portsmouth and 
 
 ---
 
-## Story 5: Football quiz: Name every team to finish first and last in the Premier League
-**Slug (lower-third):** Football quiz: Name every team to finish first and last i…  
-**When:** 2026-02-18 03:27 (America/Winnipeg)  •  **Published:** 2026-02-18 09:27 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Josh Rock blames Premier League Darts struggles in Antwerp on pre-match toilet visit and reveals plan to prevent repeat
+**Slug (lower-third):** Josh Rock blames Premier League Darts struggles in Antwer…  
+**When:** 2026-02-18 10:35 (America/Winnipeg)  •  **Published:** 2026-02-18 16:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Football quiz: Name every team to finish first and last in the Premier League. We want you to name every team who has finished top or bottom in the Premier League era. Good luck! Relevance to standings and momentum.
+Josh Rock blames Premier League Darts struggles in Antwerp on pre-match toilet visit and reveals plan to prevent repeat. Josh Rock blamed his poor Premier League Darts showing against Michael van Gerwen in Antwerp on slippery Belgian soap that ruined his grip; Northern Irishman now carries chalk and wax to avoid repeat and hopes to bounce back on Night 3 in Glasgow, live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +105,7 @@ Football quiz: Name every team to finish first and last in the Premier League. W
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football quiz: Name every team to finish first and last in the Premier League. https://www.bbc.com/sport/football/articles/ce8wn2p17jxo?at_medium=RSS&at_campaign=rss
+- skysports.com — Josh Rock blames Premier League Darts struggles in Antwerp on pre-match toilet visit and reveals plan to prevent repeat. https://www.skysports.com/darts/news/12040/13509199/josh-rock-blames-premier-league-darts-struggles-in-antwerp-on-pre-match-toilet-visit-and-reveals-plan-to-prevent-repeat
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,10 +114,82 @@ Football quiz: Name every team to finish first and last in the Premier League. W
 
 ---
 
-## Story 6: Jacob Ramsey: Has Bruno Guimaraes given midfielder time to shine?
+## Story 5: Michael van Gerwen major doubt for Premier League Darts in Glasgow due to 'medical issue'
+**Slug (lower-third):** Michael van Gerwen major doubt for Premier League Darts i…  
+**When:** 2026-02-18 10:27 (America/Winnipeg)  •  **Published:** 2026-02-18 16:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Michael van Gerwen major doubt for Premier League Darts in Glasgow due to 'medical issue'. Michael van Gerwen is a huge doubt to take part in Thursday nights Premier League Darts in Glasgow as he awaits test results; you can watch Premier League Darts live on Sky Sports every Thursday all the way through until the finale at The O2 in London on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Michael van Gerwen major doubt for Premier League Darts in Glasgow due to 'medical issue'. https://www.skysports.com/darts/news/12040/13508984/michael-van-gerwen-major-doubt-for-premier-league-darts-in-glasgow-as-he-awaits-test-results
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Vinicius racism allegation: Man Utd's Tullis-Joyce speaks out
+**Slug (lower-third):** Vinicius racism allegation: Man Utd's Tullis-Joyce speaks…  
+**When:** 2026-02-18 10:21 (America/Winnipeg)  •  **Published:** 2026-02-18 16:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Vinicius racism allegation: Man Utd's Tullis-Joyce speaks out. Manchester United goalkeeper Phallon Tullis-Joyce says it is "shameful but not surprising" that football continues to be blighted by racism. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Vinicius racism allegation: Man Utd's Tullis-Joyce speaks out. https://www.bbc.com/sport/football/articles/c80j7yevmr8o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Jim Ratcliffe's shameless comments signal soccer's turn toward total Trumpism | Leander Schaerlaeckens
+**Slug (lower-third):** Jim Ratcliffe's shameless comments signal soccer's turn t…  
+**When:** 2026-02-18 09:13 (America/Winnipeg)  •  **Published:** 2026-02-18 15:13 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Jim Ratcliffe's shameless comments signal soccer's turn toward total Trumpism | Leander Schaerlaeckens. What made the Manchester United co-owner's anti-immigrant screed so revolting was his brazen willingness to say it all out loud. Remind you of anyone? Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Jim Ratcliffe's shameless comments signal soccer's turn toward total Trumpism | Leander Schaerlaeckens. https://www.theguardian.com/sport/2026/feb/18/jim-ratcliffe-immigrant-comments-manchester-united-trump
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Jacob Ramsey: Has Bruno Guimaraes given midfielder time to shine?
 **Slug (lower-third):** Jacob Ramsey: Has Bruno Guimaraes given midfielder time t…  
 **When:** 2026-02-18 02:12 (America/Winnipeg)  •  **Published:** 2026-02-18 08:12 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Jacob Ramsey: Has Bruno Guimaraes given midfielder time to shine?. Eddie Howe has called on his Newcastle players to continue to "step up" in Bruno Guimaraes' absence - is this Jacob Ramsey's time to shine? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -162,10 +210,10 @@ Jacob Ramsey: Has Bruno Guimaraes given midfielder time to shine?. Eddie Howe ha
 
 ---
 
-## Story 7: 'Different but the same': how Arsenal are keeping disabled fans in the game
+## Story 9: 'Different but the same': how Arsenal are keeping disabled fans in the game
 **Slug (lower-third):** 'Different but the same': how Arsenal are keeping disable…  
 **When:** 2026-02-18 02:00 (America/Winnipeg)  •  **Published:** 2026-02-18 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'Different but the same': how Arsenal are keeping disabled fans in the game. In tandem with Game Day Vision, the Premier League club are improving the matchday experience for supporters with a variety of conditions Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -186,34 +234,10 @@ Jacob Ramsey: Has Bruno Guimaraes given midfielder time to shine?. Eddie Howe ha
 
 ---
 
-## Story 8: Is VAR just as controversial in the rest of Europe's top leagues?
-**Slug (lower-third):** Is VAR just as controversial in the rest of Europe's top …  
-**When:** 2026-02-18 01:02 (America/Winnipeg)  •  **Published:** 2026-02-18 07:02 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Is VAR just as controversial in the rest of Europe's top leagues?. You do not need to look far to find people proclaiming that VAR works fine outside the Premier League. BBC Sport spoke to people across Europe's top leagues to find out. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Is VAR just as controversial in the rest of Europe's top leagues?. https://www.bbc.com/sport/football/articles/cdxz2ey2lz2o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Toney, Rashford, Murillo, Dewsbury-Hall, Szoboszlai, Woltemade, Rudiger
+## Story 10: Football gossip: Toney, Rashford, Murillo, Dewsbury-Hall, Szoboszlai, Woltemade, Rudiger
 **Slug (lower-third):** Football gossip: Toney, Rashford, Murillo, Dewsbury-Hall,…  
 **When:** 2026-02-17 17:00 (America/Winnipeg)  •  **Published:** 2026-02-17 23:00 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+**Virality score:** 76  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Toney, Rashford, Murillo, Dewsbury-Hall, Szoboszlai, Woltemade, Rudiger. Ivan Toney leaves the door open for a move back to the Premier League, Liverpool have no plans to sell Dominik Szoboszlai, Nick Woltemade is eyeing a move back to the Bundesliga, plus more. Relevance to standings and momentum.
@@ -226,30 +250,6 @@ Football gossip: Toney, Rashford, Murillo, Dewsbury-Hall, Szoboszlai, Woltemade,
 
 ### Sources
 - bbc.com — Football gossip: Toney, Rashford, Murillo, Dewsbury-Hall, Szoboszlai, Woltemade, Rudiger. https://www.bbc.com/sport/football/articles/c89kyq9z9pqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Igor Tudor hopes courage and confidence can arrest Tottenham slide
-**Slug (lower-third):** Igor Tudor hopes courage and confidence can arrest Totten…  
-**When:** 2026-02-17 09:14 (America/Winnipeg)  •  **Published:** 2026-02-17 15:14 (UTC)  
-**Virality score:** 73  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Igor Tudor hopes courage and confidence can arrest Tottenham slide. Igor Tudor said there was 'no time to find excuses' as he began his attempt to lift a Tottenham side only five points above the Premier League relegation zone Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Igor Tudor hopes courage and confidence can arrest Tottenham slide. https://www.theguardian.com/football/2026/feb/17/igor-tudor-tottenham-interim-manager
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
