@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-22 06:54 (America/Winnipeg)  |  2026-02-22 12:54 (UTC)
+**Generated:** 2026-02-22 12:39 (America/Winnipeg)  |  2026-02-22 18:39 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 33s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League: Dias shoves Burn into offside position before disallowed goal!
-- Burnley, Chelsea condemn racist abuse of Hannibal Mejbri, Wesley Fofana
-- 'You need to be a team': Rowett urges unity as depleted Leicester show fight
+- Tottenham vs Arsenal: Eberechi Eze's second puts visitors in command
+- Tottenham vs Arsenal: Randal Kolo Muani's equaliser is ruled out
+- Nottingham Forest 0-1 Liverpool: Vitor Pereira post-match interview
 
 ---
 
 ### Managerial Moves
 
-## Story 1: 'You need to be a team': Rowett urges unity as depleted Leicester show fight
-**Slug (lower-third):** 'You need to be a team': Rowett urges unity as depleted L…  
-**When:** 2026-02-22 02:00 (America/Winnipeg)  •  **Published:** 2026-02-22 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 1: Sunderland 1-3 Fulham: Regis Le Bris post-match interview
+**Slug (lower-third):** Sunderland 1-3 Fulham: Regis Le Bris post-match interview  
+**When:** 2026-02-22 11:33 (America/Winnipeg)  •  **Published:** 2026-02-22 17:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'You need to be a team': Rowett urges unity as depleted Leicester show fight. New manager Gary Rowett says Leicester's players must deprioritise 'individual ambitions' in their relegation battle Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sunderland 1-3 Fulham: Regis Le Bris post-match interview. Sunderland manager Regis Le Bris says it is not unusual for a newly promoted team to struggle but insists the Black Cats "team spirit is still there" despite losing 3-1 to Fulham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,83 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'You need to be a team': Rowett urges unity as depleted Leicester show fight. https://www.theguardian.com/football/2026/feb/22/gary-rowett-urges-unity-leicester-city-show-fight-championship
+- bbc.com — Sunderland 1-3 Fulham: Regis Le Bris post-match interview. https://www.bbc.com/sport/football/videos/cly1zrjrn22o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 2: Crystal Palace 1-0 Wolverhampton Wanderers: Rob Edwards post-match interview
+**Slug (lower-third):** Crystal Palace 1-0 Wolverhampton Wanderers: Rob Edwards p…  
+**When:** 2026-02-22 11:18 (America/Winnipeg)  •  **Published:** 2026-02-22 17:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Crystal Palace 1-0 Wolverhampton Wanderers: Rob Edwards post-match interview. Rob Edwards praises his side's performance and says "it feels harsh" for Wolves to be leaving with no points, after their 1-0 defeat to Crystal Palace at Selhurst Park in the Premier League. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Crystal Palace 1-0 Wolverhampton Wanderers: Rob Edwards post-match interview. https://www.bbc.com/sport/football/videos/c80jkd1e8p9o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Alex Iwobi seals Fulham's victory at Sunderland after Raul Jimenez double
+**Slug (lower-third):** Alex Iwobi seals Fulham's victory at Sunderland after Rau…  
+**When:** 2026-02-22 10:30 (America/Winnipeg)  •  **Published:** 2026-02-22 16:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Alex Iwobi seals Fulham's victory at Sunderland after Raul Jimenez double. Two second-half goals from Raul Jimenez set Fulham on the way to a 3-1 win against Sunderland, who scored through an Enzo Le Fee penalty Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Alex Iwobi seals Fulham's victory at Sunderland after Raul Jimenez double. https://www.theguardian.com/football/2026/feb/22/sunderland-fulham-premier-league-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 4: Tottenham vs Arsenal: Randal Kolo Muani's equaliser is ruled out
+**Slug (lower-third):** Tottenham vs Arsenal: Randal Kolo Muani's equaliser is ru…  
+**When:** 2026-02-22 12:07 (America/Winnipeg)  •  **Published:** 2026-02-22 18:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham vs Arsenal: Randal Kolo Muani's equaliser is ruled out. Randal Kolo Muanis equaliser is ruled out to deny Tottenham. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Tottenham vs Arsenal: Randal Kolo Muani's equaliser is ruled out. https://www.skysports.com/watch/video/13510886/disallowed-goal-r-kolo-muani-tottenham-hotspur-1-2-arsenal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +118,13 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ### League & Regulation
 
-## Story 2: 'Political pressure' may have influenced decision to ban Maccabi Tel Aviv fans from Aston Villa game, MPs say
-**Slug (lower-third):** 'Political pressure' may have influenced decision to ban …  
-**When:** 2026-02-21 18:01 (America/Winnipeg)  •  **Published:** 2026-02-22 00:01 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~30s
+## Story 5: Oliver Glasner says he didn't mean to show disrespect as Crystal Palace fans hit back with banner in Wolves win
+**Slug (lower-third):** Oliver Glasner says he didn't mean to show disrespect as …  
+**When:** 2026-02-22 11:15 (America/Winnipeg)  •  **Published:** 2026-02-22 17:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-'Political pressure' may have influenced decision to ban Maccabi Tel Aviv fans from Aston Villa game, MPs say. Maccabi Tel Aviv fans were barred from travelling to the game at Aston Villa on November 6 by the local safety advisory group (SAG), citing safety concerns based on advice from West Midlands Police and a review into the decision found an AI hallucination helped police justify the move Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Oliver Glasner says he didn't mean to show disrespect as Crystal Palace fans hit back with banner in Wolves win. Crystal Palace boss Oliver Glasner has denied disrespecting supporters; Glasner told fans to stay humble before the 1-0 win against Wolves on Sunday; a sign saying fans disrespected - Glasner finished was held up before kick-off at Selhurst Park Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +133,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — 'Political pressure' may have influenced decision to ban Maccabi Tel Aviv fans from Aston Villa game, MPs say. https://www.skysports.com/football/news/12040/13510110/political-pressure-may-have-influenced-decision-to-ban-maccabi-tel-aviv-fans-from-aston-villa-game-mps-say
+- skysports.com — Oliver Glasner says he didn't mean to show disrespect as Crystal Palace fans hit back with banner in Wolves win. https://www.skysports.com/football/news/12040/13510854/oliver-glasner-says-he-didnt-mean-to-show-disrespect-as-crystal-palace-fans-hit-back-with-banner-in-wolves-win
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +144,13 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ### Club Updates
 
-## Story 3: Premier League: Dias shoves Burn into offside position before disallowed goal!
-**Slug (lower-third):** Premier League: Dias shoves Burn into offside position be…  
-**When:** 2026-02-22 03:31 (America/Winnipeg)  •  **Published:** 2026-02-22 09:31 (UTC)  
+## Story 6: Tottenham vs Arsenal: Eberechi Eze's second puts visitors in command
+**Slug (lower-third):** Tottenham vs Arsenal: Eberechi Eze's second puts visitors…  
+**When:** 2026-02-22 12:12 (America/Winnipeg)  •  **Published:** 2026-02-22 18:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Dias shoves Burn into offside position before disallowed goal!. Manchester Citys Ruben Dias pushes Newcastle Uniteds Dan Burn into an offside position just before the defender headed in. Relevance to standings and momentum.
+Tottenham vs Arsenal: Eberechi Eze's second puts visitors in command. Tottenham vs Arsenal: Eberechi Ezes second puts Arsenal in command at Tottenham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +159,7 @@ Premier League: Dias shoves Burn into offside position before disallowed goal!. 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League: Dias shoves Burn into offside position before disallowed goal!. https://www.skysports.com/watch/video/13510683/premier-league-dias-shoves-burn-into-offside-position-before-disallowed-goal
+- skysports.com — Tottenham vs Arsenal: Eberechi Eze's second puts visitors in command. https://www.skysports.com/watch/video/13510890/goal-e-eze-61-tottenham-hotspur-1-3-arsenal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,9 +168,81 @@ Premier League: Dias shoves Burn into offside position before disallowed goal!. 
 
 ---
 
-## Story 4: Burnley, Chelsea condemn racist abuse of Hannibal Mejbri, Wesley Fofana
+## Story 7: Nottingham Forest 0-1 Liverpool: Vitor Pereira post-match interview
+**Slug (lower-third):** Nottingham Forest 0-1 Liverpool: Vitor Pereira post-match…  
+**When:** 2026-02-22 11:34 (America/Winnipeg)  •  **Published:** 2026-02-22 17:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Nottingham Forest 0-1 Liverpool: Vitor Pereira post-match interview. Vitor Pereira says "one point was a minimum" his Nottingham Forest side deserved against Liverpool and defeat "is not fair". Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Nottingham Forest 0-1 Liverpool: Vitor Pereira post-match interview. https://www.bbc.com/sport/football/videos/c33j1688lr0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Girma winner sinks Manchester United to send Chelsea into Women's FA Cup quarter-finals
+**Slug (lower-third):** Girma winner sinks Manchester United to send Chelsea into…  
+**When:** 2026-02-22 10:42 (America/Winnipeg)  •  **Published:** 2026-02-22 16:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Girma winner sinks Manchester United to send Chelsea into Women's FA Cup quarter-finals. Naomi Girma's extra-time winner gave Chelsea a 2-1 victory over Manchester United that puts them in the last eight of the Women's FA Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Girma winner sinks Manchester United to send Chelsea into Women's FA Cup quarter-finals. https://www.theguardian.com/football/2026/feb/22/chelsea-manchester-united-womens-fa-cup-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Mac Allister's last-gasp winner gives Liverpool points at Nottingham Forest
+**Slug (lower-third):** Mac Allister's last-gasp winner gives Liverpool points at…  
+**When:** 2026-02-22 10:13 (America/Winnipeg)  •  **Published:** 2026-02-22 16:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Mac Allister's last-gasp winner gives Liverpool points at Nottingham Forest. A stoppage-time goal from Alexis Mac Allister gave Liverpool a 1-0 win at Nottingham Forest Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Mac Allister's last-gasp winner gives Liverpool points at Nottingham Forest. https://www.theguardian.com/football/2026/feb/22/nottingham-forest-liverpool-premier-league-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Burnley, Chelsea condemn racist abuse of Hannibal Mejbri, Wesley Fofana
 **Slug (lower-third):** Burnley, Chelsea condemn racist abuse of Hannibal Mejbri,…  
-**When:** 2026-02-21 23:53 (America/Winnipeg)  •  **Published:** 2026-02-22 05:53 (UTC)  
+**When:** 2026-02-22 07:02 (America/Winnipeg)  •  **Published:** 2026-02-22 13:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -112,150 +260,6 @@ Burnley, Chelsea condemn racist abuse of Hannibal Mejbri, Wesley Fofana. Burnley
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Football quiz: Name the top scorers in north London derby
-**Slug (lower-third):** Football quiz: Name the top scorers in north London derby  
-**When:** 2026-02-22 00:47 (America/Winnipeg)  •  **Published:** 2026-02-22 06:47 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football quiz: Name the top scorers in north London derby. With the north London derby coming up on Sunday, can you name the top scorers across Arsenal and Tottenham's Premier League meetings? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football quiz: Name the top scorers in north London derby. https://www.bbc.com/sport/football/articles/cpw0zx2y8g1o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Match of the Day analysis: Why Chelsea's set-piece defending is too easy to play against - Micah Richards
-**Slug (lower-third):** Match of the Day analysis: Why Chelsea's set-piece defend…  
-**When:** 2026-02-21 17:56 (America/Winnipeg)  •  **Published:** 2026-02-21 23:56 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Match of the Day analysis: Why Chelsea's set-piece defending is too easy to play against - Micah Richards. Match of the Day pundit Micah Richards criticises Chelsea's inability to show "leadership and organisation" in defence, highlighting how Burnley were able to easily attack the home side from set-pieces in their 1-1 draw at Stamford Bridge in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Match of the Day analysis: Why Chelsea's set-piece defending is too easy to play against - Micah Richards. https://www.bbc.com/sport/football/videos/cn9eygppzzdo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Pep Guardiola tells team to 'enjoy life' with cocktails as Man City pile pressure on Arsenal
-**Slug (lower-third):** Pep Guardiola tells team to 'enjoy life' with cocktails a…  
-**When:** 2026-02-21 17:52 (America/Winnipeg)  •  **Published:** 2026-02-21 23:52 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Pep Guardiola tells team to 'enjoy life' with cocktails as Man City pile pressure on Arsenal. As Manchester City continue to crank up the pressure on Arsenal, Pep Guardiola tells his players to take three days off to "enjoy life" with "caipirinhas and daiquiris". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Pep Guardiola tells team to 'enjoy life' with cocktails as Man City pile pressure on Arsenal. https://www.bbc.com/sport/football/articles/ckgl393k2l0o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Football gossip: Nunez, Sulc, Gomez, Senesi, Delap, Bueno, Gordon, Southgate
-**Slug (lower-third):** Football gossip: Nunez, Sulc, Gomez, Senesi, Delap, Bueno…  
-**When:** 2026-02-21 16:31 (America/Winnipeg)  •  **Published:** 2026-02-21 22:31 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Nunez, Sulc, Gomez, Senesi, Delap, Bueno, Gordon, Southgate. Tottenham and Newcastle want to bring Darwin Nunez back to the Premier League, Joe Gomez might leave Liverpool this summer, Roma and Juventus join the race for Marcos Senesi, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Nunez, Sulc, Gomez, Senesi, Delap, Bueno, Gordon, Southgate. https://www.bbc.com/sport/football/articles/cwy8n4zw3wmo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League highlights: Aston Villa 1-1 Leeds United
-**Slug (lower-third):** Premier League highlights: Aston Villa 1-1 Leeds United  
-**When:** 2026-02-21 16:29 (America/Winnipeg)  •  **Published:** 2026-02-21 22:29 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Aston Villa 1-1 Leeds United. Tammy Abraham comes off the bench to score an 88th minute equaliser to cancel out Anton Stach's spectacular freekick, as Aston Villa rescue a 1-1 draw against Leeds United at Villa Park in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Aston Villa 1-1 Leeds United. https://www.bbc.com/sport/football/videos/cy8gn54mr0jo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League highlights: Brentford 0-2 Brighton & Hove Albion
-**Slug (lower-third):** Premier League highlights: Brentford 0-2 Brighton & Hove …  
-**When:** 2026-02-21 16:28 (America/Winnipeg)  •  **Published:** 2026-02-21 22:28 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Brentford 0-2 Brighton & Hove Albion. Goals from Diego Gomez and Danny Welbeck help Brighton to their first league win in six games, as Fabian Hurzeler's side see off Brentford 2-0 at the GTech Community Stadium. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Brentford 0-2 Brighton & Hove Albion. https://www.bbc.com/sport/football/videos/cgmlj2gyw2ko?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
