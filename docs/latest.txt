@@ -1,49 +1,25 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-23 07:10 (America/Winnipeg)  |  2026-02-23 13:10 (UTC)
+**Generated:** 2026-02-23 13:06 (America/Winnipeg)  |  2026-02-23 19:06 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 38s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Unlicensed betting firms face sponsorship ban
-- Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues
-- Scotland lose Kirsty Maclean and Chelsea Cornet for World Cup qualifying openers
+- Fatigue has shaped the balance and madness of today's Premier League | Jonathan Wilson
+- Premier League: How late goals continue to cost Leeds
+- 'Most of us spoke': crunch talks fired up Arsenal for derby win, reveals Gyokeres
 
 ---
 
 ### Injuries
 
-## Story 1: Scotland lose Kirsty Maclean and Chelsea Cornet for World Cup qualifying openers
-**Slug (lower-third):** Scotland lose Kirsty Maclean and Chelsea Cornet for World…  
-**When:** 2026-02-23 05:41 (America/Winnipeg)  •  **Published:** 2026-02-23 11:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Scotland lose Kirsty Maclean and Chelsea Cornet for World Cup qualifying openers. Scotland have lost midfield duo Kirsty Maclean and Chelsea Cornet to injury for their opening World Cup qualifiers against Luxembourg. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Scotland lose Kirsty Maclean and Chelsea Cornet for World Cup qualifying openers. https://www.bbc.com/sport/football/articles/cy0dqr1en95o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Tottenham: Relegation from Premier League a real possibility after north London derby thrashing by Arsenal
+## Story 1: Tottenham: Relegation from Premier League a real possibility after north London derby thrashing by Arsenal
 **Slug (lower-third):** Tottenham: Relegation from Premier League a real possibil…  
 **When:** 2026-02-23 02:24 (America/Winnipeg)  •  **Published:** 2026-02-23 08:24 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~24s
+**Virality score:** 90  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
 Tottenham: Relegation from Premier League a real possibility after north London derby thrashing by Arsenal. Tottenham are just four points above the Premier League relegation zone after their heavy defeat to Arsenal. With the worst recent form in the top-flight and an injury crisis, Spurs face a real battle against the drop. We assess their perilous situation... Potential impact on the lineup and upcoming fixtures.
@@ -64,15 +40,15 @@ Tottenham: Relegation from Premier League a real possibility after north London 
 
 ---
 
-### League & Regulation
+### Club Updates
 
-## Story 3: Unlicensed betting firms face sponsorship ban
-**Slug (lower-third):** Unlicensed betting firms face sponsorship ban  
-**When:** 2026-02-23 06:59 (America/Winnipeg)  •  **Published:** 2026-02-23 12:59 (UTC)  
+## Story 2: Fatigue has shaped the balance and madness of today's Premier League | Jonathan Wilson
+**Slug (lower-third):** Fatigue has shaped the balance and madness of today's Pre…  
+**When:** 2026-02-23 10:00 (America/Winnipeg)  •  **Published:** 2026-02-23 16:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Unlicensed betting firms face sponsorship ban. Gambling firms not licensed in the UK could be banned from sponsoring British sports teams - including Premier League clubs - as part of a government crackdown. Disciplinary outcome could affect availability.
+Fatigue has shaped the balance and madness of today's Premier League | Jonathan Wilson. The ever-increasing number of games, combined with financial regulation, has produced flat play on the field but a tighter table overall Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +57,7 @@ Unlicensed betting firms face sponsorship ban. Gambling firms not licensed in th
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Unlicensed betting firms face sponsorship ban. https://www.bbc.com/sport/football/articles/cx289xwl03vo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Fatigue has shaped the balance and madness of today's Premier League | Jonathan Wilson. https://www.theguardian.com/football/2026/feb/23/premier-league-arsenal-tottenham-club-world-cup-fatigue
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,12 +66,58 @@ Unlicensed betting firms face sponsorship ban. Gambling firms not licensed in th
 
 ---
 
-### Club Updates
+## Story 3: Premier League: How late goals continue to cost Leeds
+**Slug (lower-third):** Premier League: How late goals continue to cost Leeds  
+**When:** 2026-02-23 09:32 (America/Winnipeg)  •  **Published:** 2026-02-23 15:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
-## Story 4: Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues
+### Presenter Script (3–5 sentences)
+Premier League: How late goals continue to cost Leeds. After conceding another late goal on Saturday, we look at the stats that show Leeds would be ninth in the Premier League if games ended after 85 minutes. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: How late goals continue to cost Leeds. https://www.bbc.com/sport/football/articles/c8xy5ppnn15o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: 'Most of us spoke': crunch talks fired up Arsenal for derby win, reveals Gyokeres
+**Slug (lower-third):** 'Most of us spoke': crunch talks fired up Arsenal for der…  
+**When:** 2026-02-23 08:00 (America/Winnipeg)  •  **Published:** 2026-02-23 14:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'Most of us spoke': crunch talks fired up Arsenal for derby win, reveals Gyokeres. A frank team meeting following Arsenal's draw with Wolves led to an 'honest' exchange, Viktor Gyokeres has said, laying the groundwork for an emphatic derby triumph Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'Most of us spoke': crunch talks fired up Arsenal for derby win, reveals Gyokeres. https://www.theguardian.com/football/2026/feb/23/viktor-gyokeres-arsenal-tottenham-team-talk-derby-victory-title-race
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues
 **Slug (lower-third):** Women's FA Cup talking points: Kerr shows the way and Liv…  
 **When:** 2026-02-23 05:43 (America/Winnipeg)  •  **Published:** 2026-02-23 11:43 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues. Sam Kerr is ready for business end of season, Chatham's goalkeeper made to work and Kim Little continues to shine Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -116,34 +138,10 @@ Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence conti
 
 ---
 
-## Story 5: Ref Watch: Bernardo Silva lucky to escape red card for Man City against Newcastle after 'reckless' challenge on Dan Burn
-**Slug (lower-third):** Ref Watch: Bernardo Silva lucky to escape red card for Ma…  
-**When:** 2026-02-23 03:59 (America/Winnipeg)  •  **Published:** 2026-02-23 09:59 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Ref Watch: Bernardo Silva lucky to escape red card for Man City against Newcastle after 'reckless' challenge on Dan Burn. Former Premier League referee Dermot Gallagher is back with the latest Ref Watch after a busy weekend of incidents, including Manchester City avoiding another red card following Bernardo Silvas reckless challenge on Dan Burn. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Ref Watch: Bernardo Silva lucky to escape red card for Man City against Newcastle after 'reckless' challenge on Dan Burn. https://www.skysports.com/football/news/12040/13511080/ref-watch-bernardo-silva-lucky-to-escape-red-card-for-man-city-against-newcastle-after-reckless-challenge-on-dan-burn
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 6: Tottenham: Wayne Rooney on Spurs' Premier League relegation fears
 **Slug (lower-third):** Tottenham: Wayne Rooney on Spurs' Premier League relegati…  
 **When:** 2026-02-23 03:44 (America/Winnipeg)  •  **Published:** 2026-02-23 09:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Tottenham: Wayne Rooney on Spurs' Premier League relegation fears. Wayne Rooney discusses the possibility of Tottenham Hotspur getting relegated this season. Relevance to standings and momentum.
@@ -164,34 +162,10 @@ Tottenham: Wayne Rooney on Spurs' Premier League relegation fears. Wayne Rooney 
 
 ---
 
-## Story 7: Erling Haaland proving more than just a goalscorer as Man City battle to get closer to Arsenal in Premier League title race
-**Slug (lower-third):** Erling Haaland proving more than just a goalscorer as Man…  
-**When:** 2026-02-23 03:41 (America/Winnipeg)  •  **Published:** 2026-02-23 09:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
-
-### Presenter Script (3–5 sentences)
-Erling Haaland proving more than just a goalscorer as Man City battle to get closer to Arsenal in Premier League title race. Erling Haaland gave a player of the match performance despite not scoring either of Man Citys goals in victory over Newcastle; Pep Guardiola lauded the influence of his striker, calling his effort unforgettable; City remain five points off leaders Arsenal but have a game in hand Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Erling Haaland proving more than just a goalscorer as Man City battle to get closer to Arsenal in Premier League title race. https://www.skysports.com/football/news/12040/13511062/erling-haaland-proving-more-than-just-a-goalscorer-as-man-city-battle-to-get-closer-to-arsenal-in-premier-league-title-race
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Today on Sky Sports Racing: Cheltenham hopeful Mondo Man headlines Plumpton card
+## Story 7: Today on Sky Sports Racing: Cheltenham hopeful Mondo Man headlines Plumpton card
 **Slug (lower-third):** Today on Sky Sports Racing: Cheltenham hopeful Mondo Man …  
 **When:** 2026-02-23 02:52 (America/Winnipeg)  •  **Published:** 2026-02-23 08:52 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~23s
+**Virality score:** 91  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
 Today on Sky Sports Racing: Cheltenham hopeful Mondo Man headlines Plumpton card. Mondo Man takes on the likes of Thistle Be The One and Major Major in an intriguing opening race at Plumpton this afternoon; the Sussex track hosts a seven-race card before attention switches to Wolverhamptons all-weather Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -212,13 +186,13 @@ Today on Sky Sports Racing: Cheltenham hopeful Mondo Man headlines Plumpton card
 
 ---
 
-## Story 9: Bruno Fernandes is back in his best position and more effective than ever
-**Slug (lower-third):** Bruno Fernandes is back in his best position and more eff…  
-**When:** 2026-02-23 02:00 (America/Winnipeg)  •  **Published:** 2026-02-23 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 8: Football quiz: Name footballers who have played for Man Utd and Everton
+**Slug (lower-third):** Football quiz: Name footballers who have played for Man U…  
+**When:** 2026-02-23 00:39 (America/Winnipeg)  •  **Published:** 2026-02-23 06:39 (UTC)  
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bruno Fernandes is back in his best position and more effective than ever. In another season of change at Manchester United, the playmaker has been as consistent as ever Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football quiz: Name footballers who have played for Man Utd and Everton. Name all 17 players who have made at least one Premier League appearance for both Everton and Manchester United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +201,7 @@ Bruno Fernandes is back in his best position and more effective than ever. In an
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Bruno Fernandes is back in his best position and more effective than ever. https://www.theguardian.com/football/who-scored-blog/2026/feb/23/bruno-fernandes-best-position-effective-manchester-united-season
+- bbc.com — Football quiz: Name footballers who have played for Man Utd and Everton. https://www.bbc.com/sport/football/articles/c2k8qw1v92po?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +210,13 @@ Bruno Fernandes is back in his best position and more effective than ever. In an
 
 ---
 
-## Story 10: Premier League: 10 talking points from the weekend's action
-**Slug (lower-third):** Premier League: 10 talking points from the weekend's acti…  
-**When:** 2026-02-23 02:00 (America/Winnipeg)  •  **Published:** 2026-02-23 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 9: Match of the Day analysis: How did Liverpool recover from 'horrendous' first half to beat Nottingham Forest?
+**Slug (lower-third):** Match of the Day analysis: How did Liverpool recover from…  
+**When:** 2026-02-22 18:10 (America/Winnipeg)  •  **Published:** 2026-02-23 00:10 (UTC)  
+**Virality score:** 78  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: 10 talking points from the weekend's action. Rio Ngumoha lifts Liverpool, the tussle to be Harry Kane's England deputy and Chelsea self-destruct Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Match of the Day analysis: How did Liverpool recover from 'horrendous' first half to beat Nottingham Forest?. Match of the Day pundits Danny Murphy and Shay Given compare Liverpool's "flat" first-half performance against Nottingham Forest with their match-winning display in the second period. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,10 +225,34 @@ Premier League: 10 talking points from the weekend's action. Rio Ngumoha lifts L
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League: 10 talking points from the weekend's action. https://www.theguardian.com/football/2026/feb/23/premier-league-10-talking-points-from-the-weekends-action
+- bbc.com — Match of the Day analysis: How did Liverpool recover from 'horrendous' first half to beat Nottingham Forest?. https://www.bbc.com/sport/football/videos/cvg14dn3d9go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Michael Carrick says he has not spoken to Jim Ratcliffe since last month
+**Slug (lower-third):** Michael Carrick says he has not spoken to Jim Ratcliffe s…  
+**When:** 2026-02-22 16:30 (America/Winnipeg)  •  **Published:** 2026-02-22 22:30 (UTC)  
+**Virality score:** 74  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Michael Carrick says he has not spoken to Jim Ratcliffe since last month. Michael Carrick has said he last saw Jim Ratcliffe on 25 January and that 'I'm fine with that', as he prepares for Monday's trip to Everton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Michael Carrick says he has not spoken to Jim Ratcliffe since last month. https://www.theguardian.com/football/2026/feb/22/michael-carrick-jim-ratcliffe-manchester-united
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
