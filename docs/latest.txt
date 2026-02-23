@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-23 01:07 (America/Winnipeg)  |  2026-02-23 07:07 (UTC)
+**Generated:** 2026-02-23 07:10 (America/Winnipeg)  |  2026-02-23 13:10 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 44s
+**Estimated total video length:** ~4m 38s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Luke Littler believes victory in Poland can fuel a Premier League Darts comeback starting in Belfast on Thursday
-- Harry Maguire: Why Man Utd fans should be glad if defender stays
-- Match of the Day analysis: How did Liverpool recover from 'horrendous' first half to beat Nottingham Forest?
+- Unlicensed betting firms face sponsorship ban
+- Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues
+- Scotland lose Kirsty Maclean and Chelsea Cornet for World Cup qualifying openers
 
 ---
 
-### Managerial Moves
+### Injuries
 
-## Story 1: Match Of The Day analysis: Why Tottenham's disallowed goal against Arsenal was 'soft'
-**Slug (lower-third):** Match Of The Day analysis: Why Tottenham's disallowed goa…  
-**When:** 2026-02-22 18:00 (America/Winnipeg)  •  **Published:** 2026-02-23 00:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 1: Scotland lose Kirsty Maclean and Chelsea Cornet for World Cup qualifying openers
+**Slug (lower-third):** Scotland lose Kirsty Maclean and Chelsea Cornet for World…  
+**When:** 2026-02-23 05:41 (America/Winnipeg)  •  **Published:** 2026-02-23 11:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match Of The Day analysis: Why Tottenham's disallowed goal against Arsenal was 'soft'. Match of the Day pundits Shay Given and Danny Murphy believe Tottenham "have a reason to be disappointed" with Randal Kolo Muani's second 'goal' being ruled out for a foul on Arsenal defender Gabriel. Relevance to standings and momentum.
+Scotland lose Kirsty Maclean and Chelsea Cornet for World Cup qualifying openers. Scotland have lost midfield duo Kirsty Maclean and Chelsea Cornet to injury for their opening World Cup qualifiers against Luxembourg. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,57 @@ Match Of The Day analysis: Why Tottenham's disallowed goal against Arsenal was '
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match Of The Day analysis: Why Tottenham's disallowed goal against Arsenal was 'soft'. https://www.bbc.com/sport/football/videos/c20zp25g85yo?at_medium=RSS&at_campaign=rss
+- bbc.com — Scotland lose Kirsty Maclean and Chelsea Cornet for World Cup qualifying openers. https://www.bbc.com/sport/football/articles/cy0dqr1en95o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Tottenham: Relegation from Premier League a real possibility after north London derby thrashing by Arsenal
+**Slug (lower-third):** Tottenham: Relegation from Premier League a real possibil…  
+**When:** 2026-02-23 02:24 (America/Winnipeg)  •  **Published:** 2026-02-23 08:24 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Tottenham: Relegation from Premier League a real possibility after north London derby thrashing by Arsenal. Tottenham are just four points above the Premier League relegation zone after their heavy defeat to Arsenal. With the worst recent form in the top-flight and an injury crisis, Spurs face a real battle against the drop. We assess their perilous situation... Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Tottenham: Relegation from Premier League a real possibility after north London derby thrashing by Arsenal. https://www.skysports.com/football/news/12040/13511026/tottenham-relegation-from-premier-league-a-real-possibility-after-north-london-derby-thrashing-by-arsenal
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 3: Unlicensed betting firms face sponsorship ban
+**Slug (lower-third):** Unlicensed betting firms face sponsorship ban  
+**When:** 2026-02-23 06:59 (America/Winnipeg)  •  **Published:** 2026-02-23 12:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Unlicensed betting firms face sponsorship ban. Gambling firms not licensed in the UK could be banned from sponsoring British sports teams - including Premier League clubs - as part of a government crackdown. Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Unlicensed betting firms face sponsorship ban. https://www.bbc.com/sport/football/articles/cx289xwl03vo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,37 +92,13 @@ Match Of The Day analysis: Why Tottenham's disallowed goal against Arsenal was '
 
 ### Club Updates
 
-## Story 2: Luke Littler believes victory in Poland can fuel a Premier League Darts comeback starting in Belfast on Thursday
-**Slug (lower-third):** Luke Littler believes victory in Poland can fuel a Premie…  
-**When:** 2026-02-23 01:00 (America/Winnipeg)  •  **Published:** 2026-02-23 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Luke Littler believes victory in Poland can fuel a Premier League Darts comeback starting in Belfast on Thursday. Luke Littler ready to kick-start his Premier League Darts campaign against Jonny Clayton in Belfast on Thursday; you can watch the tungsten action on Sky Sports every Thursday all the way through until the finale at The O2 in London on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Luke Littler believes victory in Poland can fuel a Premier League Darts comeback starting in Belfast on Thursday. https://www.skysports.com/darts/news/12040/13510833/luke-littler-believes-victory-in-poland-can-fuel-a-premier-league-darts-comeback-starting-in-belfast-on-thursday
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Harry Maguire: Why Man Utd fans should be glad if defender stays
-**Slug (lower-third):** Harry Maguire: Why Man Utd fans should be glad if defende…  
-**When:** 2026-02-23 00:20 (America/Winnipeg)  •  **Published:** 2026-02-23 06:20 (UTC)  
+## Story 4: Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues
+**Slug (lower-third):** Women's FA Cup talking points: Kerr shows the way and Liv…  
+**When:** 2026-02-23 05:43 (America/Winnipeg)  •  **Published:** 2026-02-23 11:43 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Harry Maguire: Why Man Utd fans should be glad if defender stays. Fans should welcome the belief of sources on all sides that Harry Maguire will remain at Manchester United at least for next season, writes Simon Stone. Relevance to standings and momentum.
+Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues. Sam Kerr is ready for business end of season, Chatham's goalkeeper made to work and Kim Little continues to shine Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +107,7 @@ Harry Maguire: Why Man Utd fans should be glad if defender stays. Fans should we
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Harry Maguire: Why Man Utd fans should be glad if defender stays. https://www.bbc.com/sport/football/articles/cg4gvxw24l0o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues. https://www.theguardian.com/football/2026/feb/23/womens-fa-cup-talking-points-kerr-shows-the-way-and-liverpool-resurgence-continues
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +116,13 @@ Harry Maguire: Why Man Utd fans should be glad if defender stays. Fans should we
 
 ---
 
-## Story 4: Match of the Day analysis: How did Liverpool recover from 'horrendous' first half to beat Nottingham Forest?
-**Slug (lower-third):** Match of the Day analysis: How did Liverpool recover from…  
-**When:** 2026-02-22 18:10 (America/Winnipeg)  •  **Published:** 2026-02-23 00:10 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 5: Ref Watch: Bernardo Silva lucky to escape red card for Man City against Newcastle after 'reckless' challenge on Dan Burn
+**Slug (lower-third):** Ref Watch: Bernardo Silva lucky to escape red card for Ma…  
+**When:** 2026-02-23 03:59 (America/Winnipeg)  •  **Published:** 2026-02-23 09:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day analysis: How did Liverpool recover from 'horrendous' first half to beat Nottingham Forest?. Match of the Day pundits Danny Murphy and Shay Given compare Liverpool's "flat" first-half performance against Nottingham Forest with their match-winning display in the second period. Relevance to standings and momentum.
+Ref Watch: Bernardo Silva lucky to escape red card for Man City against Newcastle after 'reckless' challenge on Dan Burn. Former Premier League referee Dermot Gallagher is back with the latest Ref Watch after a busy weekend of incidents, including Manchester City avoiding another red card following Bernardo Silvas reckless challenge on Dan Burn. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +131,7 @@ Match of the Day analysis: How did Liverpool recover from 'horrendous' first hal
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the Day analysis: How did Liverpool recover from 'horrendous' first half to beat Nottingham Forest?. https://www.bbc.com/sport/football/videos/cvg14dn3d9go?at_medium=RSS&at_campaign=rss
+- skysports.com — Ref Watch: Bernardo Silva lucky to escape red card for Man City against Newcastle after 'reckless' challenge on Dan Burn. https://www.skysports.com/football/news/12040/13511080/ref-watch-bernardo-silva-lucky-to-escape-red-card-for-man-city-against-newcastle-after-reckless-challenge-on-dan-burn
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +140,13 @@ Match of the Day analysis: How did Liverpool recover from 'horrendous' first hal
 
 ---
 
-## Story 5: Match of the Day analysis: Bukayo Saka & Jurrien Timber link-up at Arsenal among best in Europe - Danny Murphy
-**Slug (lower-third):** Match of the Day analysis: Bukayo Saka & Jurrien Timber l…  
-**When:** 2026-02-22 18:00 (America/Winnipeg)  •  **Published:** 2026-02-23 00:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~21s
+## Story 6: Tottenham: Wayne Rooney on Spurs' Premier League relegation fears
+**Slug (lower-third):** Tottenham: Wayne Rooney on Spurs' Premier League relegati…  
+**When:** 2026-02-23 03:44 (America/Winnipeg)  •  **Published:** 2026-02-23 09:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day analysis: Bukayo Saka & Jurrien Timber link-up at Arsenal among best in Europe - Danny Murphy. Match of the Day pundit Danny Murphy looks at how the combination of Bukayo Saka and Jurrien Timber down the right side tormented Tottenham's defence in Arsenal's 4-1 win over their north London rivals. Relevance to standings and momentum.
+Tottenham: Wayne Rooney on Spurs' Premier League relegation fears. Wayne Rooney discusses the possibility of Tottenham Hotspur getting relegated this season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +155,7 @@ Match of the Day analysis: Bukayo Saka & Jurrien Timber link-up at Arsenal among
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the Day analysis: Bukayo Saka & Jurrien Timber link-up at Arsenal among best in Europe - Danny Murphy. https://www.bbc.com/sport/football/videos/cy4wn2z2255o?at_medium=RSS&at_campaign=rss
+- bbc.com — Tottenham: Wayne Rooney on Spurs' Premier League relegation fears. https://www.bbc.com/sport/football/videos/cgl5zld2wxzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +164,13 @@ Match of the Day analysis: Bukayo Saka & Jurrien Timber link-up at Arsenal among
 
 ---
 
-## Story 6: Racism in football: Tolu Arokodare and Romaine Mundle receive abuse on social media
-**Slug (lower-third):** Racism in football: Tolu Arokodare and Romaine Mundle rec…  
-**When:** 2026-02-22 17:35 (America/Winnipeg)  •  **Published:** 2026-02-22 23:35 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 7: Erling Haaland proving more than just a goalscorer as Man City battle to get closer to Arsenal in Premier League title race
+**Slug (lower-third):** Erling Haaland proving more than just a goalscorer as Man…  
+**When:** 2026-02-23 03:41 (America/Winnipeg)  •  **Published:** 2026-02-23 09:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Racism in football: Tolu Arokodare and Romaine Mundle receive abuse on social media. Wolves striker Tolu Arokodare and Sunderland winger Romaine Mundle have become the latest Premier League players to be sent racist abuse on social media this weekend. Relevance to standings and momentum.
+Erling Haaland proving more than just a goalscorer as Man City battle to get closer to Arsenal in Premier League title race. Erling Haaland gave a player of the match performance despite not scoring either of Man Citys goals in victory over Newcastle; Pep Guardiola lauded the influence of his striker, calling his effort unforgettable; City remain five points off leaders Arsenal but have a game in hand Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +179,7 @@ Racism in football: Tolu Arokodare and Romaine Mundle receive abuse on social me
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Racism in football: Tolu Arokodare and Romaine Mundle receive abuse on social media. https://www.bbc.com/sport/football/articles/cz6egezw1d3o?at_medium=RSS&at_campaign=rss
+- skysports.com — Erling Haaland proving more than just a goalscorer as Man City battle to get closer to Arsenal in Premier League title race. https://www.skysports.com/football/news/12040/13511062/erling-haaland-proving-more-than-just-a-goalscorer-as-man-city-battle-to-get-closer-to-arsenal-in-premier-league-title-race
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +188,13 @@ Racism in football: Tolu Arokodare and Romaine Mundle receive abuse on social me
 
 ---
 
-## Story 7: Dominik Szoboszlai is Liverpool's best player but his physicality also highlights what Arne Slot's side are missing
-**Slug (lower-third):** Dominik Szoboszlai is Liverpool's best player but his phy…  
-**When:** 2026-02-22 17:30 (America/Winnipeg)  •  **Published:** 2026-02-22 23:30 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~22s
+## Story 8: Today on Sky Sports Racing: Cheltenham hopeful Mondo Man headlines Plumpton card
+**Slug (lower-third):** Today on Sky Sports Racing: Cheltenham hopeful Mondo Man …  
+**When:** 2026-02-23 02:52 (America/Winnipeg)  •  **Published:** 2026-02-23 08:52 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Dominik Szoboszlai is Liverpool's best player but his physicality also highlights what Arne Slot's side are missing. Dominik Szoboszlai helps Liverpool snatch victory but Arne Slot needs lots more like him. Also in The Debrief: Vitor Pereira changing Nottingham Forests style, Erling Haalands adjusted role at Man City and Fabian Hurzeler looks to experience at Brighton Relevance to standings and momentum.
+Today on Sky Sports Racing: Cheltenham hopeful Mondo Man headlines Plumpton card. Mondo Man takes on the likes of Thistle Be The One and Major Major in an intriguing opening race at Plumpton this afternoon; the Sussex track hosts a seven-race card before attention switches to Wolverhamptons all-weather Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +203,7 @@ Dominik Szoboszlai is Liverpool's best player but his physicality also highlight
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Dominik Szoboszlai is Liverpool's best player but his physicality also highlights what Arne Slot's side are missing. https://www.skysports.com/football/news/12040/13510599/dominik-szoboszlai-is-liverpools-best-player-but-his-physicality-also-highlights-what-arne-slots-side-are-missing
+- skysports.com — Today on Sky Sports Racing: Cheltenham hopeful Mondo Man headlines Plumpton card. https://www.skysports.com/racing/news/12040/13511036/today-on-sky-sports-racing-cheltenham-hopeful-mondo-man-headlines-plumpton-card
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +212,13 @@ Dominik Szoboszlai is Liverpool's best player but his physicality also highlight
 
 ---
 
-## Story 8: Michael Carrick says he has not spoken to Jim Ratcliffe since last month
-**Slug (lower-third):** Michael Carrick says he has not spoken to Jim Ratcliffe s…  
-**When:** 2026-02-22 16:30 (America/Winnipeg)  •  **Published:** 2026-02-22 22:30 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 9: Bruno Fernandes is back in his best position and more effective than ever
+**Slug (lower-third):** Bruno Fernandes is back in his best position and more eff…  
+**When:** 2026-02-23 02:00 (America/Winnipeg)  •  **Published:** 2026-02-23 08:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Michael Carrick says he has not spoken to Jim Ratcliffe since last month. Michael Carrick has said he last saw Jim Ratcliffe on 25 January and that 'I'm fine with that', as he prepares for Monday's trip to Everton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Bruno Fernandes is back in his best position and more effective than ever. In another season of change at Manchester United, the playmaker has been as consistent as ever Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +227,7 @@ Michael Carrick says he has not spoken to Jim Ratcliffe since last month. Michae
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Michael Carrick says he has not spoken to Jim Ratcliffe since last month. https://www.theguardian.com/football/2026/feb/22/michael-carrick-jim-ratcliffe-manchester-united
+- theguardian.com — Bruno Fernandes is back in his best position and more effective than ever. https://www.theguardian.com/football/who-scored-blog/2026/feb/23/bruno-fernandes-best-position-effective-manchester-united-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +236,13 @@ Michael Carrick says he has not spoken to Jim Ratcliffe since last month. Michae
 
 ---
 
-## Story 9: Luke Littler defies nine-dart Gian van Veen to win first-ever Poland Darts Open and warm up for Premier League in Belfast in style
-**Slug (lower-third):** Luke Littler defies nine-dart Gian van Veen to win first-…  
-**When:** 2026-02-22 16:00 (America/Winnipeg)  •  **Published:** 2026-02-22 22:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~33s
+## Story 10: Premier League: 10 talking points from the weekend's action
+**Slug (lower-third):** Premier League: 10 talking points from the weekend's acti…  
+**When:** 2026-02-23 02:00 (America/Winnipeg)  •  **Published:** 2026-02-23 08:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Luke Littler defies nine-dart Gian van Veen to win first-ever Poland Darts Open and warm up for Premier League in Belfast in style. Luke Littler warmed up for Premier League Night Four with victory at the inaugural Poland Darts Open as he defied a nine-dart leg from Gian van Veen to win; you can watch Premier League Darts live on Sky Sports all the way through until the finale at The O2 on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: 10 talking points from the weekend's action. Rio Ngumoha lifts Liverpool, the tussle to be Harry Kane's England deputy and Chelsea self-destruct Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,31 +251,7 @@ Luke Littler defies nine-dart Gian van Veen to win first-ever Poland Darts Open 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Luke Littler defies nine-dart Gian van Veen to win first-ever Poland Darts Open and warm up for Premier League in Belfast in style. https://www.skysports.com/darts/news/12040/13510834/luke-littler-defies-nine-dart-gian-van-veen-to-win-first-ever-poland-darts-open-and-warm-up-for-premier-league-in-belfast-in-style
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League highlights: Nottingham Forest 0-1 Liverpool
-**Slug (lower-third):** Premier League highlights: Nottingham Forest 0-1 Liverpool  
-**When:** 2026-02-22 13:59 (America/Winnipeg)  •  **Published:** 2026-02-22 19:59 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Nottingham Forest 0-1 Liverpool. Alexis Mac Allister scores a 97th-minute winner as Liverpool beat Nottingham Forest in a chaotic finish at the City Ground. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Nottingham Forest 0-1 Liverpool. https://www.bbc.com/sport/football/videos/cvgvn0ed2ppo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League: 10 talking points from the weekend's action. https://www.theguardian.com/football/2026/feb/23/premier-league-10-talking-points-from-the-weekends-action
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
