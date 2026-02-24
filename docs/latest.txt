@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-23 13:06 (America/Winnipeg)  |  2026-02-23 19:06 (UTC)
+**Generated:** 2026-02-23 20:22 (America/Winnipeg)  |  2026-02-24 02:22 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 27s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Fatigue has shaped the balance and madness of today's Premier League | Jonathan Wilson
-- Premier League: How late goals continue to cost Leeds
-- 'Most of us spoke': crunch talks fired up Arsenal for derby win, reveals Gyokeres
+- Benjamin Sesko and Senne Lammens give Man Utd real hope of Champions League return
+- Troy Deeney's Team of the Week: Gyokeres, Jimenez, Eze, Van Dijk, Gomez, Fleming, Hall
+- Women's FA Cup quarter-final draw: Chelsea v Tottenham, Arsenal v Brighton
 
 ---
 
-### Injuries
+### Managerial Moves
 
-## Story 1: Tottenham: Relegation from Premier League a real possibility after north London derby thrashing by Arsenal
-**Slug (lower-third):** Tottenham: Relegation from Premier League a real possibil…  
-**When:** 2026-02-23 02:24 (America/Winnipeg)  •  **Published:** 2026-02-23 08:24 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~24s
+## Story 1: Everton 0-1 Manchester United: Toffees deserved more - David Moyes
+**Slug (lower-third):** Everton 0-1 Manchester United: Toffees deserved more - Da…  
+**When:** 2026-02-23 16:40 (America/Winnipeg)  •  **Published:** 2026-02-23 22:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham: Relegation from Premier League a real possibility after north London derby thrashing by Arsenal. Tottenham are just four points above the Premier League relegation zone after their heavy defeat to Arsenal. With the worst recent form in the top-flight and an injury crisis, Spurs face a real battle against the drop. We assess their perilous situation... Potential impact on the lineup and upcoming fixtures.
+Everton 0-1 Manchester United: Toffees deserved more - David Moyes. Everton manager David Moyes says his side were "worth more than a defeat" after losing 1-0 to Manchester United in the Premier League. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,83 @@ Tottenham: Relegation from Premier League a real possibility after north London 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham: Relegation from Premier League a real possibility after north London derby thrashing by Arsenal. https://www.skysports.com/football/news/12040/13511026/tottenham-relegation-from-premier-league-a-real-possibility-after-north-london-derby-thrashing-by-arsenal
+- bbc.com — Everton 0-1 Manchester United: Toffees deserved more - David Moyes. https://www.bbc.com/sport/football/videos/cy4wdv9znwyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 2: Football gossip: McTominay, Van de Ven, El Mala, Sangare, Casemiro, Delap
+**Slug (lower-third):** Football gossip: McTominay, Van de Ven, El Mala, Sangare,…  
+**When:** 2026-02-23 16:27 (America/Winnipeg)  •  **Published:** 2026-02-23 22:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: McTominay, Van de Ven, El Mala, Sangare, Casemiro, Delap. Manchester United are considering bringing Scott McTominay back to Old Trafford, Real Madrid are keeping an eye on Micky van de Ven's contract situation, and Brighton are hoping to complete a deal for Said El Mala. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: McTominay, Van de Ven, El Mala, Sangare, Casemiro, Delap. https://www.bbc.com/sport/football/articles/ckg2d8k80r1o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Benjamin Sesko and Senne Lammens give Man Utd real hope of Champions League return
+**Slug (lower-third):** Benjamin Sesko and Senne Lammens give Man Utd real hope o…  
+**When:** 2026-02-23 18:21 (America/Winnipeg)  •  **Published:** 2026-02-24 00:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Benjamin Sesko and Senne Lammens give Man Utd real hope of Champions League return. Striker Benjamin Sesko and goalkeeper Senne Lammens are the key figures as Manchester United gain a hugely valuable Premier League win at Everton. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Benjamin Sesko and Senne Lammens give Man Utd real hope of Champions League return. https://www.bbc.com/sport/football/articles/cn0zrgkeg1lo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Darwin Nunez could make surprising Premier League return with Tottenham and Newcastle interested - Paper talk and football transfer gossip
+**Slug (lower-third):** Darwin Nunez could make surprising Premier League return …  
+**When:** 2026-02-23 16:20 (America/Winnipeg)  •  **Published:** 2026-02-23 22:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Darwin Nunez could make surprising Premier League return with Tottenham and Newcastle interested - Paper talk and football transfer gossip. Latest from Tuesdays papers: Newcastle United are looking at a major regeneration project as part of a plan to build a new stadium next to St James Park; MLS is a potential next destination for Manchester United midfielder Casemiro Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Darwin Nunez could make surprising Premier League return with Tottenham and Newcastle interested - Paper talk and football transfer gossip. https://www.skysports.com/football/news/12040/13511335/darwin-nunez-could-make-surprising-premier-league-return-with-tottenham-and-newcastle-interested-paper-talk-and-football-transfer-gossip
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +118,13 @@ Tottenham: Relegation from Premier League a real possibility after north London 
 
 ### Club Updates
 
-## Story 2: Fatigue has shaped the balance and madness of today's Premier League | Jonathan Wilson
-**Slug (lower-third):** Fatigue has shaped the balance and madness of today's Pre…  
-**When:** 2026-02-23 10:00 (America/Winnipeg)  •  **Published:** 2026-02-23 16:00 (UTC)  
+## Story 5: Troy Deeney's Team of the Week: Gyokeres, Jimenez, Eze, Van Dijk, Gomez, Fleming, Hall
+**Slug (lower-third):** Troy Deeney's Team of the Week: Gyokeres, Jimenez, Eze, V…  
+**When:** 2026-02-23 18:01 (America/Winnipeg)  •  **Published:** 2026-02-24 00:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fatigue has shaped the balance and madness of today's Premier League | Jonathan Wilson. The ever-increasing number of games, combined with financial regulation, has produced flat play on the field but a tighter table overall Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Troy Deeney's Team of the Week: Gyokeres, Jimenez, Eze, Van Dijk, Gomez, Fleming, Hall. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +133,7 @@ Fatigue has shaped the balance and madness of today's Premier League | Jonathan 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Fatigue has shaped the balance and madness of today's Premier League | Jonathan Wilson. https://www.theguardian.com/football/2026/feb/23/premier-league-arsenal-tottenham-club-world-cup-fatigue
+- bbc.com — Troy Deeney's Team of the Week: Gyokeres, Jimenez, Eze, Van Dijk, Gomez, Fleming, Hall. https://www.bbc.com/sport/football/articles/c99jmn9mmljo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +142,13 @@ Fatigue has shaped the balance and madness of today's Premier League | Jonathan 
 
 ---
 
-## Story 3: Premier League: How late goals continue to cost Leeds
-**Slug (lower-third):** Premier League: How late goals continue to cost Leeds  
-**When:** 2026-02-23 09:32 (America/Winnipeg)  •  **Published:** 2026-02-23 15:32 (UTC)  
+## Story 6: Women's FA Cup quarter-final draw: Chelsea v Tottenham, Arsenal v Brighton
+**Slug (lower-third):** Women's FA Cup quarter-final draw: Chelsea v Tottenham, A…  
+**When:** 2026-02-23 16:43 (America/Winnipeg)  •  **Published:** 2026-02-23 22:43 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: How late goals continue to cost Leeds. After conceding another late goal on Saturday, we look at the stats that show Leeds would be ninth in the Premier League if games ended after 85 minutes. Relevance to standings and momentum.
+Women's FA Cup quarter-final draw: Chelsea v Tottenham, Arsenal v Brighton. Chelsea host Tottenham and WSL 2 leaders Charlton Athletic face Liverpool in the Women's FA Cup quarter-finals. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +157,7 @@ Premier League: How late goals continue to cost Leeds. After conceding another l
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: How late goals continue to cost Leeds. https://www.bbc.com/sport/football/articles/c8xy5ppnn15o?at_medium=RSS&at_campaign=rss
+- bbc.com — Women's FA Cup quarter-final draw: Chelsea v Tottenham, Arsenal v Brighton. https://www.bbc.com/sport/football/articles/c2046ddmm67o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +166,13 @@ Premier League: How late goals continue to cost Leeds. After conceding another l
 
 ---
 
-## Story 4: 'Most of us spoke': crunch talks fired up Arsenal for derby win, reveals Gyokeres
-**Slug (lower-third):** 'Most of us spoke': crunch talks fired up Arsenal for der…  
-**When:** 2026-02-23 08:00 (America/Winnipeg)  •  **Published:** 2026-02-23 14:00 (UTC)  
+## Story 7: Arsenal run riot at Spurs but Manchester City keep pace | Football Weekly
+**Slug (lower-third):** Arsenal run riot at Spurs but Manchester City keep pace |…  
+**When:** 2026-02-23 15:11 (America/Winnipeg)  •  **Published:** 2026-02-23 21:11 (UTC)  
 **Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'Most of us spoke': crunch talks fired up Arsenal for derby win, reveals Gyokeres. A frank team meeting following Arsenal's draw with Wolves led to an 'honest' exchange, Viktor Gyokeres has said, laying the groundwork for an emphatic derby triumph Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arsenal run riot at Spurs but Manchester City keep pace | Football Weekly. Max Rushden is joined by Barry Glendenning, Jonathan Wilson and John Brewin to discuss all of the weekend's Premier League action Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +181,7 @@ Premier League: How late goals continue to cost Leeds. After conceding another l
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'Most of us spoke': crunch talks fired up Arsenal for derby win, reveals Gyokeres. https://www.theguardian.com/football/2026/feb/23/viktor-gyokeres-arsenal-tottenham-team-talk-derby-victory-title-race
+- theguardian.com — Arsenal run riot at Spurs but Manchester City keep pace | Football Weekly. https://www.theguardian.com/football/video/2026/feb/23/arsenal-run-riot-at-spurs-but-manchester-city-keep-pace-football-weekly
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,10 +190,59 @@ Premier League: How late goals continue to cost Leeds. After conceding another l
 
 ---
 
-## Story 5: Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues
+## Story 8: Police investigate racist abuse aimed at four Premier League players
+**Slug (lower-third):** Police investigate racist abuse aimed at four Premier Lea…  
+**When:** 2026-02-23 07:53 (America/Winnipeg)  •  **Published:** 2026-02-23 13:53 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Police investigate racist abuse aimed at four Premier League players. Mark Roberts, the head of the UK Football Policing Unit, has said: 'Anyone who believes they can hide behind their keyboards should think again' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Police investigate racist abuse aimed at four Premier League players. https://www.theguardian.com/football/2026/feb/23/police-launch-investigation-racist-abuse-premier-league-players
+- bbc.com — Premier League: Police investigate online racist abuse of four players. https://www.bbc.com/sport/football/articles/cx24x0vg4jvo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Gary Neville: Manchester United can finish third in Premier League table as Jamie Carragher says club are 'guaranteed Champions League football'
+**Slug (lower-third):** Gary Neville: Manchester United can finish third in Premi…  
+**When:** 2026-02-23 06:52 (America/Winnipeg)  •  **Published:** 2026-02-23 12:52 (UTC)  
+**Virality score:** 86  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Gary Neville: Manchester United can finish third in Premier League table as Jamie Carragher says club are 'guaranteed Champions League football'. Man Utd remain unbeaten under Michael Carrick after 1-0 win at Everton; Gary Neville believes United could finish third, above Aston Villa, come the end of the season, with Jamie Carragher calling them guarantees for Champions League football next term Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Gary Neville: Manchester United can finish third in Premier League table as Jamie Carragher says club are 'guaranteed Champions League football'. https://www.skysports.com/football/news/12040/13511145/gary-neville-manchester-united-can-finish-third-in-premier-league-table-as-jamie-carragher-says-club-are-guaranteed-champions-league-football
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues
 **Slug (lower-third):** Women's FA Cup talking points: Kerr shows the way and Liv…  
 **When:** 2026-02-23 05:43 (America/Winnipeg)  •  **Published:** 2026-02-23 11:43 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+**Virality score:** 83  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues. Sam Kerr is ready for business end of season, Chatham's goalkeeper made to work and Kim Little continues to shine Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -130,126 +255,6 @@ Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence conti
 
 ### Sources
 - theguardian.com — Women's FA Cup talking points: Kerr shows the way and Liverpool resurgence continues. https://www.theguardian.com/football/2026/feb/23/womens-fa-cup-talking-points-kerr-shows-the-way-and-liverpool-resurgence-continues
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Tottenham: Wayne Rooney on Spurs' Premier League relegation fears
-**Slug (lower-third):** Tottenham: Wayne Rooney on Spurs' Premier League relegati…  
-**When:** 2026-02-23 03:44 (America/Winnipeg)  •  **Published:** 2026-02-23 09:44 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham: Wayne Rooney on Spurs' Premier League relegation fears. Wayne Rooney discusses the possibility of Tottenham Hotspur getting relegated this season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Tottenham: Wayne Rooney on Spurs' Premier League relegation fears. https://www.bbc.com/sport/football/videos/cgl5zld2wxzo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Today on Sky Sports Racing: Cheltenham hopeful Mondo Man headlines Plumpton card
-**Slug (lower-third):** Today on Sky Sports Racing: Cheltenham hopeful Mondo Man …  
-**When:** 2026-02-23 02:52 (America/Winnipeg)  •  **Published:** 2026-02-23 08:52 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Cheltenham hopeful Mondo Man headlines Plumpton card. Mondo Man takes on the likes of Thistle Be The One and Major Major in an intriguing opening race at Plumpton this afternoon; the Sussex track hosts a seven-race card before attention switches to Wolverhamptons all-weather Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Cheltenham hopeful Mondo Man headlines Plumpton card. https://www.skysports.com/racing/news/12040/13511036/today-on-sky-sports-racing-cheltenham-hopeful-mondo-man-headlines-plumpton-card
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Football quiz: Name footballers who have played for Man Utd and Everton
-**Slug (lower-third):** Football quiz: Name footballers who have played for Man U…  
-**When:** 2026-02-23 00:39 (America/Winnipeg)  •  **Published:** 2026-02-23 06:39 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football quiz: Name footballers who have played for Man Utd and Everton. Name all 17 players who have made at least one Premier League appearance for both Everton and Manchester United. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football quiz: Name footballers who have played for Man Utd and Everton. https://www.bbc.com/sport/football/articles/c2k8qw1v92po?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Match of the Day analysis: How did Liverpool recover from 'horrendous' first half to beat Nottingham Forest?
-**Slug (lower-third):** Match of the Day analysis: How did Liverpool recover from…  
-**When:** 2026-02-22 18:10 (America/Winnipeg)  •  **Published:** 2026-02-23 00:10 (UTC)  
-**Virality score:** 78  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Match of the Day analysis: How did Liverpool recover from 'horrendous' first half to beat Nottingham Forest?. Match of the Day pundits Danny Murphy and Shay Given compare Liverpool's "flat" first-half performance against Nottingham Forest with their match-winning display in the second period. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Match of the Day analysis: How did Liverpool recover from 'horrendous' first half to beat Nottingham Forest?. https://www.bbc.com/sport/football/videos/cvg14dn3d9go?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Michael Carrick says he has not spoken to Jim Ratcliffe since last month
-**Slug (lower-third):** Michael Carrick says he has not spoken to Jim Ratcliffe s…  
-**When:** 2026-02-22 16:30 (America/Winnipeg)  •  **Published:** 2026-02-22 22:30 (UTC)  
-**Virality score:** 74  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Michael Carrick says he has not spoken to Jim Ratcliffe since last month. Michael Carrick has said he last saw Jim Ratcliffe on 25 January and that 'I'm fine with that', as he prepares for Monday's trip to Everton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Michael Carrick says he has not spoken to Jim Ratcliffe since last month. https://www.theguardian.com/football/2026/feb/22/michael-carrick-jim-ratcliffe-manchester-united
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
