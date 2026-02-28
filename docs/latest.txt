@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-02-28 06:50 (America/Winnipeg)  |  2026-02-28 12:50 (UTC)
+**Generated:** 2026-02-28 12:36 (America/Winnipeg)  |  2026-02-28 18:36 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 20s
@@ -8,21 +8,21 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- West Ham face summer player sales after APS104m loss
-- Arsenal are easy targets for TikTok mockery - they must not be prisoners of that narrative | David Hytner
-- Chelsea's Chloe Sarwie: 'I'm expressing myself but my full self hasn't come out yet'
+- Leeds vs Manchester City: Semenyo fires City ahead right on the stroke of half-time!
+- Burnley 3-4 Brentford: Keith Andrews on seven-goal thriller
+- Liverpool 5-2 West Ham United: Arne Slot happy to be on right side of 'important' set-pieces
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Premier League news: Guardiola says silverware hunt decided 'in the head'; Gordon 'must stay focused'
-**Slug (lower-third):** Premier League news: Guardiola says silverware hunt decid…  
-**When:** 2026-02-27 16:30 (America/Winnipeg)  •  **Published:** 2026-02-27 22:30 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 1: Burnley 3-4 Brentford: Keith Andrews on seven-goal thriller
+**Slug (lower-third):** Burnley 3-4 Brentford: Keith Andrews on seven-goal thrill…  
+**When:** 2026-02-28 12:02 (America/Winnipeg)  •  **Published:** 2026-02-28 18:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League news: Guardiola says silverware hunt decided 'in the head'; Gordon 'must stay focused'. City manager wants players rested for run-in, Howe wary of Arsenal interest and Moyes wrestles with 'dark arts' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Burnley 3-4 Brentford: Keith Andrews on seven-goal thriller. Brentford manager Keith Andrews is pleased with his side's "grit and character" as they hold out against Burnley in a dramatic 4-3 win. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,22 +31,22 @@ Premier League news: Guardiola says silverware hunt decided 'in the head'; Gordo
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League news: Guardiola says silverware hunt decided 'in the head'; Gordon 'must stay focused'. https://www.theguardian.com/football/2026/feb/27/premier-league-news-guardiola-silverware-hunt-decided-in-the-head-gordon-must-stay-focused
+- bbc.com — Burnley 3-4 Brentford: Keith Andrews on seven-goal thriller. https://www.bbc.com/sport/football/videos/cp32xvg14zwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 2: Igor Tudor accuses 'fatigued' Tottenham squad of lacking fitness and desire
-**Slug (lower-third):** Igor Tudor accuses 'fatigued' Tottenham squad of lacking …  
-**When:** 2026-02-27 16:30 (America/Winnipeg)  •  **Published:** 2026-02-27 22:30 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 2: Newcastle United 2-3 Everton: Eddie Howe calls for accountability from squad
+**Slug (lower-third):** Newcastle United 2-3 Everton: Eddie Howe calls for accoun…  
+**When:** 2026-02-28 11:52 (America/Winnipeg)  •  **Published:** 2026-02-28 17:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Igor Tudor accuses 'fatigued' Tottenham squad of lacking fitness and desire. The interim head coach has expressed concern about the physical capacity of his injury-ravaged Tottenham squad to play in the style he wants Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Newcastle United 2-3 Everton: Eddie Howe calls for accountability from squad. Newcastle United manager Eddie Howe says his side must take collective accountability for their errors against Everton and their defensive track record over the past few weeks. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,24 +55,22 @@ Igor Tudor accuses 'fatigued' Tottenham squad of lacking fitness and desire. The
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Igor Tudor accuses 'fatigued' Tottenham squad of lacking fitness and desire. https://www.theguardian.com/football/2026/feb/27/igor-tudor-accuses-fatigued-tottenham-squad-lacking-fitness-desire
+- bbc.com — Newcastle United 2-3 Everton: Eddie Howe calls for accountability from squad. https://www.bbc.com/sport/football/videos/cwy87yn8q99o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### Injuries
-
-## Story 3: Liverpool's title win last season fuelled by Premier League's highest wage bill
-**Slug (lower-third):** Liverpool's title win last season fuelled by Premier Leag…  
-**When:** 2026-02-27 16:30 (America/Winnipeg)  •  **Published:** 2026-02-27 22:30 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 3: Newcastle United 2-3 Everton: Jordan Pickford save 'out of this world' - David Moyes
+**Slug (lower-third):** Newcastle United 2-3 Everton: Jordan Pickford save 'out o…  
+**When:** 2026-02-28 11:46 (America/Winnipeg)  •  **Published:** 2026-02-28 17:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool's title win last season fuelled by Premier League's highest wage bill. A Champions League return underpinned record growth for Liverpool but overall administrative costs resulted in a modest PS8m profit Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Newcastle United 2-3 Everton: Jordan Pickford save 'out of this world' - David Moyes. Everton manager David Moyes praises the late-game heroics of Jordan Pickford, who made a stunning save to deny Sandro Tonali in Everton's 3-2 win over Newcastle United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,10 +79,10 @@ Liverpool's title win last season fuelled by Premier League's highest wage bill.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool's title win last season fuelled by Premier League's highest wage bill. https://www.theguardian.com/football/2026/feb/27/liverpool-premier-league-highest-wage-bill-title-arne-slot
+- bbc.com — Newcastle United 2-3 Everton: Jordan Pickford save 'out of this world' - David Moyes. https://www.bbc.com/sport/football/videos/cqlg9l4ly66o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -92,13 +90,13 @@ Liverpool's title win last season fuelled by Premier League's highest wage bill.
 
 ### Club Updates
 
-## Story 4: West Ham face summer player sales after APS104m loss
-**Slug (lower-third):** West Ham face summer player sales after APS104m loss  
-**When:** 2026-02-28 04:03 (America/Winnipeg)  •  **Published:** 2026-02-28 10:03 (UTC)  
+## Story 4: Leeds vs Manchester City: Semenyo fires City ahead right on the stroke of half-time!
+**Slug (lower-third):** Leeds vs Manchester City: Semenyo fires City ahead right …  
+**When:** 2026-02-28 12:25 (America/Winnipeg)  •  **Published:** 2026-02-28 18:25 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham face summer player sales after APS104m loss. West Ham will need to sell players this summer even if they avoid relegation from the Premier League, after revealing a APS104.2m loss for the last financial year. Relevance to standings and momentum.
+Leeds vs Manchester City: Semenyo fires City ahead right on the stroke of half-time!. Semenyo fires Manchester City ahead right on the stroke of half-time against Leeds in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +105,7 @@ West Ham face summer player sales after APS104m loss. West Ham will need to sell
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — West Ham face summer player sales after APS104m loss. https://www.bbc.com/sport/football/articles/cn4g0e2weqdo?at_medium=RSS&at_campaign=rss
+- skysports.com — Leeds vs Manchester City: Semenyo fires City ahead right on the stroke of half-time!. https://www.skysports.com/watch/video/13513573/goal-a-semenyo-leeds-0-1-manchester-city
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +114,13 @@ West Ham face summer player sales after APS104m loss. West Ham will need to sell
 
 ---
 
-## Story 5: Arsenal are easy targets for TikTok mockery - they must not be prisoners of that narrative | David Hytner
-**Slug (lower-third):** Arsenal are easy targets for TikTok mockery - they must n…  
-**When:** 2026-02-28 01:00 (America/Winnipeg)  •  **Published:** 2026-02-28 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 5: Liverpool 5-2 West Ham United: Arne Slot happy to be on right side of 'important' set-pieces
+**Slug (lower-third):** Liverpool 5-2 West Ham United: Arne Slot happy to be on r…  
+**When:** 2026-02-28 11:57 (America/Winnipeg)  •  **Published:** 2026-02-28 17:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal are easy targets for TikTok mockery - they must not be prisoners of that narrative | David Hytner. Goaded by Tottenham and lampooned by Wolves, Mikel Arteta's side face Chelsea this weekend with rivals hoping to prey on their sensitivities Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liverpool 5-2 West Ham United: Arne Slot happy to be on right side of 'important' set-pieces. Arne Slot is happy that his side are using set-pieces to their advantage, after scoring 3 goals from corners against West Ham, as earlier in the season Liverpool's set-piece record was an issue. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +129,7 @@ Arsenal are easy targets for TikTok mockery - they must not be prisoners of that
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Arsenal are easy targets for TikTok mockery - they must not be prisoners of that narrative | David Hytner. https://www.theguardian.com/football/2026/feb/28/arsenal-easy-targets-tiktok-mockery-but-only-they-can-silence-laughter
+- bbc.com — Liverpool 5-2 West Ham United: Arne Slot happy to be on right side of 'important' set-pieces. https://www.bbc.com/sport/football/videos/c4g87g714e1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +138,13 @@ Arsenal are easy targets for TikTok mockery - they must not be prisoners of that
 
 ---
 
-## Story 6: Chelsea's Chloe Sarwie: 'I'm expressing myself but my full self hasn't come out yet'
-**Slug (lower-third):** Chelsea's Chloe Sarwie: 'I'm expressing myself but my ful…  
-**When:** 2026-02-28 01:00 (America/Winnipeg)  •  **Published:** 2026-02-28 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 6: Leeds vs Manchester City: Dominic Calvert-Lewin squanders golden chance!
+**Slug (lower-third):** Leeds vs Manchester City: Dominic Calvert-Lewin squanders…  
+**When:** 2026-02-28 11:37 (America/Winnipeg)  •  **Published:** 2026-02-28 17:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea's Chloe Sarwie: 'I'm expressing myself but my full self hasn't come out yet'. At 17, the England Under-23s defender is juggling the demands of first-team football with her engineering studies, with a little help from ballet Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Leeds vs Manchester City: Dominic Calvert-Lewin squanders golden chance!. Dominic Calvert-Lewin squanders a golden chance for Leeds against Manchester City in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +153,7 @@ Chelsea's Chloe Sarwie: 'I'm expressing myself but my full self hasn't come out 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Chelsea's Chloe Sarwie: 'I'm expressing myself but my full self hasn't come out yet'. https://www.theguardian.com/football/2026/feb/28/chelsea-chloe-sarwie-england-under-23-interview
+- skysports.com — Leeds vs Manchester City: Dominic Calvert-Lewin squanders golden chance!. https://www.skysports.com/watch/video/13513509/shot-d-calvert-lewin-4-leeds-0-0-manchester-city
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +162,13 @@ Chelsea's Chloe Sarwie: 'I'm expressing myself but my full self hasn't come out 
 
 ---
 
-## Story 7: What's next for Mohamed Salah and Liverpool?
-**Slug (lower-third):** What's next for Mohamed Salah and Liverpool?  
-**When:** 2026-02-28 00:18 (America/Winnipeg)  •  **Published:** 2026-02-28 06:18 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 7: Burnley 3-4 Brentford | Premier League highlights
+**Slug (lower-third):** Burnley 3-4 Brentford | Premier League highlights  
+**When:** 2026-02-28 11:33 (America/Winnipeg)  •  **Published:** 2026-02-28 17:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-What's next for Mohamed Salah and Liverpool?. Mohamed Salah is once again regularly starting for Liverpool but is this the start of a long goodbye for the record-breaking Egyptian at Anfield Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Burnley 3-4 Brentford | Premier League highlights. FREE TO WATCH: Highlights from Burnley's match against Brentford in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +177,7 @@ What's next for Mohamed Salah and Liverpool?. Mohamed Salah is once again regula
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — What's next for Mohamed Salah and Liverpool?. https://www.bbc.com/sport/football/articles/ce8w4r130z8o?at_medium=RSS&at_campaign=rss
+- skysports.com — Burnley 3-4 Brentford | Premier League highlights. https://www.skysports.com/watch/video/13513505/burnley-3-4-brentford-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +186,13 @@ What's next for Mohamed Salah and Liverpool?. Mohamed Salah is once again regula
 
 ---
 
-## Story 8: Premier League highlights: Wolverhampton Wanderers 2-0 Aston Villa
-**Slug (lower-third):** Premier League highlights: Wolverhampton Wanderers 2-0 As…  
-**When:** 2026-02-27 16:34 (America/Winnipeg)  •  **Published:** 2026-02-27 22:34 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 8: Liverpool's five-star display heaps more pressure on wobbling West Ham
+**Slug (lower-third):** Liverpool's five-star display heaps more pressure on wobb…  
+**When:** 2026-02-28 11:13 (America/Winnipeg)  •  **Published:** 2026-02-28 17:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Wolverhampton Wanderers 2-0 Aston Villa. Watch highlights as Wolves dent Aston Villa's Champions League qualification hopes with a 2-0 home win, ensuring they better the worst Premier League points tally set by Derby County. Relevance to standings and momentum.
+Liverpool's five-star display heaps more pressure on wobbling West Ham. West Ham's relegation worries increased as a 5-2 defeat at Liverpool left them anchored in the bottom three of the Premier League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,8 +201,7 @@ Premier League highlights: Wolverhampton Wanderers 2-0 Aston Villa. Watch highli
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Wolverhampton Wanderers 2-0 Aston Villa. https://www.bbc.com/sport/football/videos/cm217k34lg2o?at_medium=RSS&at_campaign=rss
-- skysports.com — Wolves 2-0 Aston Villa | Premier League highlights. https://www.skysports.com/watch/video/13513174/wolves-2-0-aston-villa-premier-league-highlights
+- theguardian.com — Liverpool's five-star display heaps more pressure on wobbling West Ham. https://www.theguardian.com/football/2026/feb/28/liverpool-west-ham-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -213,13 +210,13 @@ Premier League highlights: Wolverhampton Wanderers 2-0 Aston Villa. Watch highli
 
 ---
 
-## Story 9: Aston Villa: Premier League title dreams over as Unai Emery tries to salvage top-five hopes
-**Slug (lower-third):** Aston Villa: Premier League title dreams over as Unai Eme…  
-**When:** 2026-02-27 17:55 (America/Winnipeg)  •  **Published:** 2026-02-27 23:55 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 9: 'We missed him': Xhaka adds steel as Sunderland share point at Bournemouth
+**Slug (lower-third):** 'We missed him': Xhaka adds steel as Sunderland share poi…  
+**When:** 2026-02-28 08:52 (America/Winnipeg)  •  **Published:** 2026-02-28 14:52 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa: Premier League title dreams over as Unai Emery tries to salvage top-five hopes. Aston Villa boss Unai Emery concedes his Premier League title "dreams" are over, but will the club salvage their Champions League hopes? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+'We missed him': Xhaka adds steel as Sunderland share point at Bournemouth. Evanilson came off the substitutes' bench to cancel out Eliezer Mayenda's first-half goal as Bournemouth drew 1-1 at home with Sunderland Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -228,7 +225,7 @@ Aston Villa: Premier League title dreams over as Unai Emery tries to salvage top
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa: Premier League title dreams over as Unai Emery tries to salvage top-five hopes. https://www.bbc.com/sport/football/articles/c78x13vvnv5o?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'We missed him': Xhaka adds steel as Sunderland share point at Bournemouth. https://www.theguardian.com/football/2026/feb/28/bournemouth-sunderland-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -237,13 +234,13 @@ Aston Villa: Premier League title dreams over as Unai Emery tries to salvage top
 
 ---
 
-## Story 10: Premier League clubs angered by Uefa release of financial details without warning
-**Slug (lower-third):** Premier League clubs angered by Uefa release of financial…  
-**When:** 2026-02-27 12:42 (America/Winnipeg)  •  **Published:** 2026-02-27 18:42 (UTC)  
-**Virality score:** 78  •  **Estimated runtime:** ~20s
+## Story 10: Champions League: PSG match v Nantes postponed to give longer break between Chelsea ties
+**Slug (lower-third):** Champions League: PSG match v Nantes postponed to give lo…  
+**When:** 2026-02-28 08:22 (America/Winnipeg)  •  **Published:** 2026-02-28 14:22 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League clubs angered by Uefa release of financial details without warning. Premier League clubs are unhappy with Uefa's decision to reveal details of their financial results before some have been published and without warning Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Champions League: PSG match v Nantes postponed to give longer break between Chelsea ties. Paris St-Germain will have five days off between the two legs of their Champions League last-16 tie against Chelsea after their request to postpone a Ligue 1 match is granted. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -252,10 +249,10 @@ Premier League clubs angered by Uefa release of financial details without warnin
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League clubs angered by Uefa release of financial details without warning. https://www.theguardian.com/football/2026/feb/27/premier-league-clubs-angered-by-uefa-release-of-financial-details-without-warning
+- bbc.com — Champions League: PSG match v Nantes postponed to give longer break between Chelsea ties. https://www.bbc.com/sport/football/articles/cy4wp49wvp3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
