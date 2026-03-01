@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-01 06:53 (America/Winnipeg)  |  2026-03-01 12:53 (UTC)
+**Generated:** 2026-03-01 12:37 (America/Winnipeg)  |  2026-03-01 18:37 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~4m 40s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Youssef Chermiti scores 'Wayne Rooney-like' overhead wonder strike vs Celtic
-- St Totteringham's Day: Arsenal set to celebrate earlier than ever
-- Premier League highlights: Leeds United 0-1 Manchester City
+- Arsenal vs Chelsea: Raya pulls off magnificent 90+2' save to maintain Arsenal lead!
+- Arsenal vs Chelsea: Neto SENT OFF as Chelsea see SEVENTH red card this season
+- Igor Tudor: Tottenham boss criticises 'ridiculous' opener in Fulham loss as he accuses Raul Jimenez of 'cheating'
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Brentford: Keith Andrews leads Bees closer to Europe with 4-3 win at Burnley
-**Slug (lower-third):** Brentford: Keith Andrews leads Bees closer to Europe with…  
-**When:** 2026-02-28 14:53 (America/Winnipeg)  •  **Published:** 2026-02-28 20:53 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
+## Story 1: Fulham 2-1 Tottenham Hotspur: Igor Tudor labels offical Thomas Bramall a 'home team referee'
+**Slug (lower-third):** Fulham 2-1 Tottenham Hotspur: Igor Tudor labels offical T…  
+**When:** 2026-03-01 11:11 (America/Winnipeg)  •  **Published:** 2026-03-01 17:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brentford: Keith Andrews leads Bees closer to Europe with 4-3 win at Burnley. That Brentford are seventh in the Premier League is credit to Keith Andrews, who - it is easy to forget - is in his debut season as a manager. Relevance to standings and momentum.
+Fulham 2-1 Tottenham Hotspur: Igor Tudor labels offical Thomas Bramall a 'home team referee'. Tottenham Hotspur manager Igor Tudor call into doubt the decision-making of referee Thomas Bramall, after the official allowed Fulham's opening goal to stand, and demands greater consistency on fouls given for pushing. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,24 +31,22 @@ Brentford: Keith Andrews leads Bees closer to Europe with 4-3 win at Burnley. Th
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Brentford: Keith Andrews leads Bees closer to Europe with 4-3 win at Burnley. https://www.bbc.com/sport/football/articles/c15x740p2wko?at_medium=RSS&at_campaign=rss
+- bbc.com — Fulham 2-1 Tottenham Hotspur: Igor Tudor labels offical Thomas Bramall a 'home team referee'. https://www.bbc.com/sport/football/videos/c78x1887nd9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### Transfers
-
-## Story 2: Leeds 0-1 Man City: Antoine Semenyo takes goalsoring burden off Erling Haaland
-**Slug (lower-third):** Leeds 0-1 Man City: Antoine Semenyo takes goalsoring burd…  
-**When:** 2026-02-28 16:18 (America/Winnipeg)  •  **Published:** 2026-02-28 22:18 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 2: Manchester United 2-1 Crystal Palace: Starting Sesko is not a gamble - Michael Carrick
+**Slug (lower-third):** Manchester United 2-1 Crystal Palace: Starting Sesko is n…  
+**When:** 2026-03-01 11:08 (America/Winnipeg)  •  **Published:** 2026-03-01 17:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leeds 0-1 Man City: Antoine Semenyo takes goalsoring burden off Erling Haaland. Manchester City have often been accused of being too reliant on Erling Haaland this season. There are signs that could be changing. Relevance to standings and momentum.
+Manchester United 2-1 Crystal Palace: Starting Sesko is not a gamble - Michael Carrick. Manchester United manager Michael Carrick says it is "not a gamble" to change his preferred XI to start striker Benjamin Sesko, after the Slovenian scored the winner against Crystal Palace for his sixth goal in eight games. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,22 +55,24 @@ Leeds 0-1 Man City: Antoine Semenyo takes goalsoring burden off Erling Haaland. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Leeds 0-1 Man City: Antoine Semenyo takes goalsoring burden off Erling Haaland. https://www.bbc.com/sport/football/articles/cg5nm2n9zzpo?at_medium=RSS&at_campaign=rss
+- bbc.com — Manchester United 2-1 Crystal Palace: Starting Sesko is not a gamble - Michael Carrick. https://www.bbc.com/sport/football/videos/c4g04dvlv5xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 3: Football gossip: Rashford, Rodri, Jackson, Gordon, Nunez, Kolo Muani, Southgate
-**Slug (lower-third):** Football gossip: Rashford, Rodri, Jackson, Gordon, Nunez,…  
-**When:** 2026-02-28 14:56 (America/Winnipeg)  •  **Published:** 2026-02-28 20:56 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
+### League & Regulation
+
+## Story 3: Man Utd take big step under Michael Carrick after Gary Neville claims he is in 'box seat' for permanent job
+**Slug (lower-third):** Man Utd take big step under Michael Carrick after Gary Ne…  
+**When:** 2026-03-01 11:04 (America/Winnipeg)  •  **Published:** 2026-03-01 17:04 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Rashford, Rodri, Jackson, Gordon, Nunez, Kolo Muani, Southgate. Barcelona's on-loan Manchester United forward Marcus Rashford agrees a deal with the Spanish club, Aston Villa are keen on Chelsea striker Nicolas Jackson, Real Madrid want Manchester City's Rodri, plus more. Implications for the squad and table.
+Man Utd take big step under Michael Carrick after Gary Neville claims he is in 'box seat' for permanent job. Man Utd moved up to third in the Premier League after coming from behind to beat 10-man Crystal Palace 2-1 thanks to Bruno Fernandes penalty and Benjamin Seskos header as Michael Carrick extended his unbeaten run in charge to seven games and strengthened his case for the job full-time Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,10 +81,10 @@ Football gossip: Rashford, Rodri, Jackson, Gordon, Nunez, Kolo Muani, Southgate.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Rashford, Rodri, Jackson, Gordon, Nunez, Kolo Muani, Southgate. https://www.bbc.com/sport/football/articles/cn0e916y547o?at_medium=RSS&at_campaign=rss
+- skysports.com — Man Utd take big step under Michael Carrick after Gary Neville claims he is in 'box seat' for permanent job. https://www.skysports.com/football/news/12040/13513940/man-utd-take-big-step-under-michael-carrick-after-gary-neville-claims-he-is-in-box-seat-for-permanent-job
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -92,10 +92,154 @@ Football gossip: Rashford, Rodri, Jackson, Gordon, Nunez, Kolo Muani, Southgate.
 
 ### Club Updates
 
-## Story 4: Youssef Chermiti scores 'Wayne Rooney-like' overhead wonder strike vs Celtic
+## Story 4: Arsenal vs Chelsea: Raya pulls off magnificent 90+2' save to maintain Arsenal lead!
+**Slug (lower-third):** Arsenal vs Chelsea: Raya pulls off magnificent 90+2' save…  
+**When:** 2026-03-01 12:27 (America/Winnipeg)  •  **Published:** 2026-03-01 18:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal vs Chelsea: Raya pulls off magnificent 90+2' save to maintain Arsenal lead!. Raya pulls off magnificent 90+2 save to maintain Arsenal lead against Chelsea in the Premier League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal vs Chelsea: Raya pulls off magnificent 90+2' save to maintain Arsenal lead!. https://www.skysports.com/watch/video/13513974/save-d-raya-arsenal-2-1-chelsea
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Arsenal vs Chelsea: Neto SENT OFF as Chelsea see SEVENTH red card this season
+**Slug (lower-third):** Arsenal vs Chelsea: Neto SENT OFF as Chelsea see SEVENTH …  
+**When:** 2026-03-01 12:07 (America/Winnipeg)  •  **Published:** 2026-03-01 18:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal vs Chelsea: Neto SENT OFF as Chelsea see SEVENTH red card this season. Neto SENT OFF against Arsenal as Chelsea see SEVENTH red card this Premier League season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal vs Chelsea: Neto SENT OFF as Chelsea see SEVENTH red card this season. https://www.skysports.com/watch/video/13513968/off-p-neto-70-arsenal-2-1-chelsea
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Igor Tudor: Tottenham boss criticises 'ridiculous' opener in Fulham loss as he accuses Raul Jimenez of 'cheating'
+**Slug (lower-third):** Igor Tudor: Tottenham boss criticises 'ridiculous' opener…  
+**When:** 2026-03-01 11:30 (America/Winnipeg)  •  **Published:** 2026-03-01 17:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Igor Tudor: Tottenham boss criticises 'ridiculous' opener in Fulham loss as he accuses Raul Jimenez of 'cheating'. Tottenham boss Igor Tudor criticises ridiculous opener in Fulham loss as he accuses Raul Jimenez of cheating; Tudor felt Harry Wilsons goal should not have stood as Jimenez pushed Radu Dragusin in the back; VAR checked goal but deemed contact did not meet the threshold for a foul Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Igor Tudor: Tottenham boss criticises 'ridiculous' opener in Fulham loss as he accuses Raul Jimenez of 'cheating'. https://www.skysports.com/football/news/12040/13513779/igor-tudor-tottenham-boss-criticises-ridiculous-opener-in-fulham-loss-as-he-accuses-raul-jimenez-of-cheating
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Brighton 2-1 Nottingham Forest | Premier League highlights
+**Slug (lower-third):** Brighton 2-1 Nottingham Forest | Premier League highlights  
+**When:** 2026-03-01 10:14 (America/Winnipeg)  •  **Published:** 2026-03-01 16:14 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Brighton 2-1 Nottingham Forest | Premier League highlights. FREE TO WATCH: Highlights from Brighton's match against Nottingham Forest in the Premier League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Brighton 2-1 Nottingham Forest | Premier League highlights. https://www.skysports.com/watch/video/13513917/brighton-2-1-nottingham-forest-premier-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Welbeck lifts Brighton to pile pressure on Nottingham Forest and Vitor Pereira
+**Slug (lower-third):** Welbeck lifts Brighton to pile pressure on Nottingham For…  
+**When:** 2026-03-01 10:12 (America/Winnipeg)  •  **Published:** 2026-03-01 16:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Welbeck lifts Brighton to pile pressure on Nottingham Forest and Vitor Pereira. Brighton and Nottingham Forest exchanged early goals before Danny Welbeck made it 2-1 and left Forest only two points clear of relegation Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Welbeck lifts Brighton to pile pressure on Nottingham Forest and Vitor Pereira. https://www.theguardian.com/football/2026/mar/01/brighton-nottingham-forest-premier-league-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Jordan Pickford save: How good was Everton goalkeeper's stop?
+**Slug (lower-third):** Jordan Pickford save: How good was Everton goalkeeper's s…  
+**When:** 2026-03-01 07:01 (America/Winnipeg)  •  **Published:** 2026-03-01 13:01 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Jordan Pickford save: How good was Everton goalkeeper's stop?. Where does Jordan Pickford's flying save to deny Sandro Tonali rank among the best-ever stops? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Jordan Pickford save: How good was Everton goalkeeper's stop?. https://www.bbc.com/sport/football/articles/c0q354zdw44o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Youssef Chermiti scores 'Wayne Rooney-like' overhead wonder strike vs Celtic
 **Slug (lower-third):** Youssef Chermiti scores 'Wayne Rooney-like' overhead wond…  
 **When:** 2026-03-01 06:14 (America/Winnipeg)  •  **Published:** 2026-03-01 12:14 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Youssef Chermiti scores 'Wayne Rooney-like' overhead wonder strike vs Celtic. Rangers striker Youssef Chermiti scored an incredible overhead kick similar to the famous goal by Wayne Rooney for Manchester United. Relevance to standings and momentum.
@@ -111,151 +255,6 @@ Youssef Chermiti scores 'Wayne Rooney-like' overhead wonder strike vs Celtic. Ra
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: St Totteringham's Day: Arsenal set to celebrate earlier than ever
-**Slug (lower-third):** St Totteringham's Day: Arsenal set to celebrate earlier t…  
-**When:** 2026-03-01 00:27 (America/Winnipeg)  •  **Published:** 2026-03-01 06:27 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-St Totteringham's Day: Arsenal set to celebrate earlier than ever. The day it becomes impossible for Spurs to finish above Arsenal in the Premier League, St Totteringham's Day is set to arrive earlier than ever. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — St Totteringham's Day: Arsenal set to celebrate earlier than ever. https://www.bbc.com/sport/football/articles/cwygre5geq2o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Premier League highlights: Leeds United 0-1 Manchester City
-**Slug (lower-third):** Premier League highlights: Leeds United 0-1 Manchester Ci…  
-**When:** 2026-02-28 14:01 (America/Winnipeg)  •  **Published:** 2026-02-28 20:01 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Leeds United 0-1 Manchester City. Antoine Semenyo's goal for Man City moments before half-time is enough to beat Leeds United and close in on leaders Arsenal in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Leeds United 0-1 Manchester City. https://www.bbc.com/sport/football/videos/ce8wg3zrr29o?at_medium=RSS&at_campaign=rss
-- skysports.com — Leeds United 0-1 Manchester City | Premier League highlights. https://www.skysports.com/watch/video/13513623/leeds-united-0-1-manchester-city-premier-league-highlights
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Burnley 3-4 Brentford: How VAR denied one of the greatest Premier League comebacks
-**Slug (lower-third):** Burnley 3-4 Brentford: How VAR denied one of the greatest…  
-**When:** 2026-02-28 14:24 (America/Winnipeg)  •  **Published:** 2026-02-28 20:24 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Burnley 3-4 Brentford: How VAR denied one of the greatest Premier League comebacks. Burnley were set to complete one of the greatest Premier League comebacks - until VAR intervened. BBC Sport takes a look at whether the decisions were correct. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Burnley 3-4 Brentford: How VAR denied one of the greatest Premier League comebacks. https://www.bbc.com/sport/football/articles/cdjm83ljpmno?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Newcastle 2-3 Everton: Deja vu for Eddie Howe after another Premier League defeat
-**Slug (lower-third):** Newcastle 2-3 Everton: Deja vu for Eddie Howe after anoth…  
-**When:** 2026-02-28 14:16 (America/Winnipeg)  •  **Published:** 2026-02-28 20:16 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Newcastle 2-3 Everton: Deja vu for Eddie Howe after another Premier League defeat. Newcastle are languishing in 12th place in the Premier League for a reason - they have conceded 23 goals since they last kept a clean sheet in any competition. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Newcastle 2-3 Everton: Deja vu for Eddie Howe after another Premier League defeat. https://www.bbc.com/sport/football/articles/cly80vd4nvdo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Manchester United: Michael Carrick not interested in personal duel with Crystal Palace boss Oliver Glasner
-**Slug (lower-third):** Manchester United: Michael Carrick not interested in pers…  
-**When:** 2026-02-28 16:35 (America/Winnipeg)  •  **Published:** 2026-02-28 22:35 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester United: Michael Carrick not interested in personal duel with Crystal Palace boss Oliver Glasner. Manchester United interim boss Michael Carrick comes up against one of the major contenders for the permanent job when Oliver Glasner's Crystal Palace go to Old Trafford on Sunday. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Manchester United: Michael Carrick not interested in personal duel with Crystal Palace boss Oliver Glasner. https://www.bbc.com/sport/football/articles/cd03402x4edo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Leeds v Man City: Boos heard during Ramadan pause at Elland Road
-**Slug (lower-third):** Leeds v Man City: Boos heard during Ramadan pause at Ella…  
-**When:** 2026-02-28 15:02 (America/Winnipeg)  •  **Published:** 2026-02-28 21:02 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Leeds v Man City: Boos heard during Ramadan pause at Elland Road. Boos are heard during a brief break in play to allow players observing Ramadan to break their fast during Saturday's match between Leeds United and Manchester City. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Leeds v Man City: Boos heard during Ramadan pause at Elland Road. https://www.bbc.com/sport/football/articles/c178x0jppelo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
