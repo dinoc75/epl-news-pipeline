@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-01 20:22 (America/Winnipeg)  |  2026-03-02 02:22 (UTC)
+**Generated:** 2026-03-02 01:01 (America/Winnipeg)  |  2026-03-02 07:01 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 42s
+**Estimated total video length:** ~4m 46s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Football gossip: Nunez, Livramento, Schlotterbeck, Gimenez, Bayindir, Lucca
+- Today on Sky Sports Racing: Southwell and Wolverhampton host live Monday racing
 - Arsenal 2-1 Chelsea: Premier League player ratings
-- Mason Mount: Manchester United star attracting Premier League interest - Paper Talk and transfer gossip
+- Football gossip: Nunez, Livramento, Schlotterbeck, Gimenez, Bayindir, Lucca
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Michael Carrick: Would it be more of a gamble by Man Utd not to appoint him full-time?
 **Slug (lower-third):** Michael Carrick: Would it be more of a gamble by Man Utd …  
 **When:** 2026-03-01 14:40 (America/Winnipeg)  •  **Published:** 2026-03-01 20:40 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~23s
+**Virality score:** 90  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
 Michael Carrick: Would it be more of a gamble by Man Utd not to appoint him full-time?. With six wins and a draw from seven games in charge of Manchester United, would it prove more of a gamble not to give Michael Carrick the head coach position full-time? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -45,7 +45,7 @@ Michael Carrick: Would it be more of a gamble by Man Utd not to appoint him full
 ## Story 2: Mason Mount: Manchester United star attracting Premier League interest - Paper Talk and transfer gossip
 **Slug (lower-third):** Mason Mount: Manchester United star attracting Premier Le…  
 **When:** 2026-03-01 16:11 (America/Winnipeg)  •  **Published:** 2026-03-01 22:11 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~29s
+**Virality score:** 93  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
 Mason Mount: Manchester United star attracting Premier League interest - Paper Talk and transfer gossip. Latest from Mondays papers: Leeds boss Daniel Farke will appeal his red card following his sides home defeat to Manchester City - and ask the FA to review ref cam footage in a bid to get it overturned; Jesse Lingard has reached an agreement to join Brazilian side Corinthians Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -68,13 +68,13 @@ Mason Mount: Manchester United star attracting Premier League interest - Paper T
 
 ### Club Updates
 
-## Story 3: Football gossip: Nunez, Livramento, Schlotterbeck, Gimenez, Bayindir, Lucca
-**Slug (lower-third):** Football gossip: Nunez, Livramento, Schlotterbeck, Gimene…  
-**When:** 2026-03-01 16:37 (America/Winnipeg)  •  **Published:** 2026-03-01 22:37 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 3: Today on Sky Sports Racing: Southwell and Wolverhampton host live Monday racing
+**Slug (lower-third):** Today on Sky Sports Racing: Southwell and Wolverhampton h…  
+**When:** 2026-03-02 00:00 (America/Winnipeg)  •  **Published:** 2026-03-02 06:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Nunez, Livramento, Schlotterbeck, Gimenez, Bayindir, Lucca. Chelsea could join the race for Al-Hilal striker Darwin Nunez, Manchester City looking to make a big move for Newcastle United defender Tino Livramento, Crystal Palace determined to hold on to keeper Dean Henderson, plus more. Relevance to standings and momentum.
+Today on Sky Sports Racing: Southwell and Wolverhampton host live Monday racing. Smurfette locks horns with Solar System in the feature contest from Southwell on Monday, live on Sky Sports Racing; Wolverhampton hosts an evening card on the all-weather, with Francesi eyeing top spot in the Horse of the Year rankings Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +83,7 @@ Football gossip: Nunez, Livramento, Schlotterbeck, Gimenez, Bayindir, Lucca. Che
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Nunez, Livramento, Schlotterbeck, Gimenez, Bayindir, Lucca. https://www.bbc.com/sport/football/articles/c5yj93y4pk3o?at_medium=RSS&at_campaign=rss
+- skysports.com — Today on Sky Sports Racing: Southwell and Wolverhampton host live Monday racing. https://www.skysports.com/racing/news/12040/13513782/today-on-sky-sports-racing-southwell-and-wolverhampton-host-live-monday-racing
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,10 +118,34 @@ Arsenal 2-1 Chelsea: Premier League player ratings. A tale of contrasting fortun
 
 ---
 
-## Story 5: Arsenal: Ugly or a tactical masterclass? Gunners set-pieces prove decisive again
+## Story 5: Football gossip: Nunez, Livramento, Schlotterbeck, Gimenez, Bayindir, Lucca
+**Slug (lower-third):** Football gossip: Nunez, Livramento, Schlotterbeck, Gimene…  
+**When:** 2026-03-01 16:37 (America/Winnipeg)  •  **Published:** 2026-03-01 22:37 (UTC)  
+**Virality score:** 93  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Nunez, Livramento, Schlotterbeck, Gimenez, Bayindir, Lucca. Chelsea could join the race for Al-Hilal striker Darwin Nunez, Manchester City looking to make a big move for Newcastle United defender Tino Livramento, Crystal Palace determined to hold on to keeper Dean Henderson, plus more. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Nunez, Livramento, Schlotterbeck, Gimenez, Bayindir, Lucca. https://www.bbc.com/sport/football/articles/c5yj93y4pk3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Arsenal: Ugly or a tactical masterclass? Gunners set-pieces prove decisive again
 **Slug (lower-third):** Arsenal: Ugly or a tactical masterclass? Gunners set-piec…  
 **When:** 2026-03-01 16:08 (America/Winnipeg)  •  **Published:** 2026-03-01 22:08 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Arsenal: Ugly or a tactical masterclass? Gunners set-pieces prove decisive again. Arsenal move five points clear in the Premier League title race but is their reliance on set-pieces an issue? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -142,10 +166,10 @@ Arsenal: Ugly or a tactical masterclass? Gunners set-pieces prove decisive again
 
 ---
 
-## Story 6: Troy Deeney's Team of the Week: Pickford, Branthwaite, Saliba, Wilson, Fernandes, Ekitike
+## Story 7: Troy Deeney's Team of the Week: Pickford, Branthwaite, Saliba, Wilson, Fernandes, Ekitike
 **Slug (lower-third):** Troy Deeney's Team of the Week: Pickford, Branthwaite, Sa…  
 **When:** 2026-03-01 15:06 (America/Winnipeg)  •  **Published:** 2026-03-01 21:06 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Troy Deeney's Team of the Week: Pickford, Branthwaite, Saliba, Wilson, Fernandes, Ekitike. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
@@ -166,10 +190,10 @@ Troy Deeney's Team of the Week: Pickford, Branthwaite, Saliba, Wilson, Fernandes
 
 ---
 
-## Story 7: Mitchell Lawrie, 15, hits nine-darter on JDC advanced tour after being crowned youngest ever WDF world no 1
+## Story 8: Mitchell Lawrie, 15, hits nine-darter on JDC advanced tour after being crowned youngest ever WDF world no 1
 **Slug (lower-third):** Mitchell Lawrie, 15, hits nine-darter on JDC advanced tou…  
 **When:** 2026-03-01 14:58 (America/Winnipeg)  •  **Published:** 2026-03-01 20:58 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~30s
+**Virality score:** 91  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
 Mitchell Lawrie, 15, hits nine-darter on JDC advanced tour after being crowned youngest ever WDF world no 1. 15-year-old Mitchell Lawrie hit a nine-darter on the JDC Advanced Tour after being crowned as the youngest ever WDF world no 1; you can watch Premier League Darts live on Sky Sports every Thursday all the way through until the finale at The O2 in London on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -190,10 +214,10 @@ Mitchell Lawrie, 15, hits nine-darter on JDC advanced tour after being crowned y
 
 ---
 
-## Story 8: 'It's cultural' - red cards and set-pieces wrecking Chelsea's season
+## Story 9: 'It's cultural' - red cards and set-pieces wrecking Chelsea's season
 **Slug (lower-third):** 'It's cultural' - red cards and set-pieces wrecking Chels…  
 **When:** 2026-03-01 14:45 (America/Winnipeg)  •  **Published:** 2026-03-01 20:45 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'It's cultural' - red cards and set-pieces wrecking Chelsea's season. Two setapiece goals and a red card tell a familiar story for Chelsea, now six points adrift of the Premier League's top four and down to sixth in the table. Relevance to standings and momentum.
@@ -214,10 +238,10 @@ Mitchell Lawrie, 15, hits nine-darter on JDC advanced tour after being crowned y
 
 ---
 
-## Story 9: Premier League highlights: Manchester United 2-1 Crystal Palace
+## Story 10: Premier League highlights: Manchester United 2-1 Crystal Palace
 **Slug (lower-third):** Premier League highlights: Manchester United 2-1 Crystal …  
 **When:** 2026-03-01 14:00 (America/Winnipeg)  •  **Published:** 2026-03-01 20:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League highlights: Manchester United 2-1 Crystal Palace. Benjamin Sesko scores his sixth goal in eight games to help Manchester United secure a comeback victory against Crystal Palace and move up to third in the Premier League. Relevance to standings and momentum.
@@ -230,30 +254,6 @@ Premier League highlights: Manchester United 2-1 Crystal Palace. Benjamin Sesko 
 
 ### Sources
 - bbc.com — Premier League highlights: Manchester United 2-1 Crystal Palace. https://www.bbc.com/sport/football/videos/c78jzmj1xvro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League highlights: Fulham 2-1 Tottenham Hotspur
-**Slug (lower-third):** Premier League highlights: Fulham 2-1 Tottenham Hotspur  
-**When:** 2026-03-01 14:00 (America/Winnipeg)  •  **Published:** 2026-03-01 20:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Fulham 2-1 Tottenham Hotspur. Alex Iwobi scores a beautifully-placed goal as Fulham hold off late pressure from Tottenham Hotspur to win 2-1. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Fulham 2-1 Tottenham Hotspur. https://www.bbc.com/sport/football/videos/c5y59325wq9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
