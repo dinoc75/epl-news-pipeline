@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-05 07:05 (America/Winnipeg)  |  2026-03-05 13:05 (UTC)
+**Generated:** 2026-03-05 13:19 (America/Winnipeg)  |  2026-03-05 19:19 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 27s
+**Estimated total video length:** ~4m 34s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Gareth Bale: Ex-Wales, Spurs and Real Madrid star Bale reveals secret injury that ended his career
-- William Osula: Newcastle scorer won Man Utd skills contest aged 11
-- 'The steroids made me feel alone': Southampton's Amy Goddard on being diagnosed with Bell's palsy
+- Nottingham Forest tell Edu to stay away from training ground
+- Premier League predictions: Chris Sutton v Peaky Blinders creator Steven Knight - and AI
+- Fabian Hurzeler: Was Brighton boss's Arsenal criticism correct? Here are the stats that tell you...
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: 'The steroids made me feel alone': Southampton's Amy Goddard on being diagnosed with Bell's palsy
 **Slug (lower-third):** 'The steroids made me feel alone': Southampton's Amy Godd…  
 **When:** 2026-03-05 05:33 (America/Winnipeg)  •  **Published:** 2026-03-05 11:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+**Virality score:** 93  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 'The steroids made me feel alone': Southampton's Amy Goddard on being diagnosed with Bell's palsy. Amy Goddard opens up on the 'petrifying' time in 2021 when the left side of her face suddenly dropped as she wants to help others who are affected Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -40,41 +40,15 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ---
 
-### Injuries
-
-## Story 2: Gareth Bale: Ex-Wales, Spurs and Real Madrid star Bale reveals secret injury that ended his career
-**Slug (lower-third):** Gareth Bale: Ex-Wales, Spurs and Real Madrid star Bale re…  
-**When:** 2026-03-05 06:13 (America/Winnipeg)  •  **Published:** 2026-03-05 12:13 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Gareth Bale: Ex-Wales, Spurs and Real Madrid star Bale reveals secret injury that ended his career. Gareth Bale has revealed he carried a secret injury throughout his career, with the problem eventually leading to his early retirement at just 33. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Gareth Bale: Ex-Wales, Spurs and Real Madrid star Bale reveals secret injury that ended his career. https://www.bbc.com/sport/football/articles/c3ewwlv22pxo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### League & Regulation
 
-## Story 3: Carrick looks for 'lessons' after first Man Utd loss
-**Slug (lower-third):** Carrick looks for 'lessons' after first Man Utd loss  
-**When:** 2026-03-04 18:35 (America/Winnipeg)  •  **Published:** 2026-03-05 00:35 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 2: Man Utd boss Michael Carrick questioned by Paul Scholes after Newcastle defeat - but does he have a point?
+**Slug (lower-third):** Man Utd boss Michael Carrick questioned by Paul Scholes a…  
+**When:** 2026-03-05 04:26 (America/Winnipeg)  •  **Published:** 2026-03-05 10:26 (UTC)  
+**Virality score:** 93  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Carrick looks for 'lessons' after first Man Utd loss. MIchael Carrick says he will take "lessons" from his first defeat in charge of Manchester United in the Premier League. Relevance to standings and momentum.
+Man Utd boss Michael Carrick questioned by Paul Scholes after Newcastle defeat - but does he have a point?. Paul Scholes questioned his former team-mate Michael Carricks credentials for the Man Utd job after 10-man Newcastle inflicted his first defeat in charge - but does he have a point? Carrick has eight games left to answer scepticism after a dip in performances over the last four games Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +57,7 @@ Carrick looks for 'lessons' after first Man Utd loss. MIchael Carrick says he wi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Carrick looks for 'lessons' after first Man Utd loss. https://www.bbc.com/sport/football/articles/ce3ggel3nn5o?at_medium=RSS&at_campaign=rss
+- skysports.com — Man Utd boss Michael Carrick questioned by Paul Scholes after Newcastle defeat - but does he have a point?. https://www.skysports.com/football/news/12040/13515536/man-utd-boss-michael-carrick-questioned-by-paul-scholes-after-newcastle-defeat-but-does-he-have-a-point
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -94,10 +68,178 @@ Carrick looks for 'lessons' after first Man Utd loss. MIchael Carrick says he wi
 
 ### Club Updates
 
-## Story 4: William Osula: Newcastle scorer won Man Utd skills contest aged 11
+## Story 3: Nottingham Forest tell Edu to stay away from training ground
+**Slug (lower-third):** Nottingham Forest tell Edu to stay away from training gro…  
+**When:** 2026-03-05 12:21 (America/Winnipeg)  •  **Published:** 2026-03-05 18:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Nottingham Forest tell Edu to stay away from training ground. Nottingham Forest global head of football Edu is asked to stay away from the club's training ground. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Nottingham Forest tell Edu to stay away from training ground. https://www.bbc.com/sport/football/articles/cdjm7wn39m7o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Premier League predictions: Chris Sutton v Peaky Blinders creator Steven Knight - and AI
+**Slug (lower-third):** Premier League predictions: Chris Sutton v Peaky Blinders…  
+**When:** 2026-03-05 10:31 (America/Winnipeg)  •  **Published:** 2026-03-05 16:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League predictions: Chris Sutton v Peaky Blinders creator Steven Knight - and AI. BBC Sport football expert Chris Sutton takes on Peaky Blinders creator Steven Knight plus the BBC readers and AI with his predictions for this weekend's FA Cup fifth-round ties. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League predictions: Chris Sutton v Peaky Blinders creator Steven Knight - and AI. https://www.bbc.com/sport/football/articles/cjrqzw88g1wo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Fabian Hurzeler: Was Brighton boss's Arsenal criticism correct? Here are the stats that tell you...
+**Slug (lower-third):** Fabian Hurzeler: Was Brighton boss's Arsenal criticism co…  
+**When:** 2026-03-05 10:11 (America/Winnipeg)  •  **Published:** 2026-03-05 16:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Fabian Hurzeler: Was Brighton boss's Arsenal criticism correct? Here are the stats that tell you.... Following Fabian Hurzelers criticism of Arsenal, we take a look at the stats to see if the Brighton boss was fair in what he was saying. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Fabian Hurzeler: Was Brighton boss's Arsenal criticism correct? Here are the stats that tell you.... https://www.skysports.com/watch/video/13515747/fabian-hurzeler-was-brighton-bosss-arsenal-criticism-correct-here-are-the-stats-that-tell-you
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Tottenham Hotspur: Why is Dele Alli training at Spurs?
+**Slug (lower-third):** Tottenham Hotspur: Why is Dele Alli training at Spurs?  
+**When:** 2026-03-05 08:51 (America/Winnipeg)  •  **Published:** 2026-03-05 14:51 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham Hotspur: Why is Dele Alli training at Spurs?. Our Ask Me Anything team explain why Dele Alli is training at former club Tottenham Hotspur. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tottenham Hotspur: Why is Dele Alli training at Spurs?. https://www.bbc.com/sport/football/articles/c3v7700kneeo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Tamsin Greenway: Netball's introduction of 'choice kit' is no brainer, but doesn't spell end for traditional dress
+**Slug (lower-third):** Tamsin Greenway: Netball's introduction of 'choice kit' i…  
+**When:** 2026-03-05 08:00 (America/Winnipeg)  •  **Published:** 2026-03-05 14:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Tamsin Greenway: Netball's introduction of 'choice kit' is no brainer, but doesn't spell end for traditional dress. Watch LexisNexis Dragons against London Pulse on the Sky Sports+ and App from 7pm Friday, while Leeds Rhinos face Loughborough Lightning from 7.30pm on Sky Sports Mix; Nottingham Forest take on Birmingham Panthers at 4pm Sunday, also live on Sky Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Tamsin Greenway: Netball's introduction of 'choice kit' is no brainer, but doesn't spell end for traditional dress. https://www.skysports.com/netball/news/12040/13515619/tamsin-greenway-netballs-introduction-of-choice-kit-is-no-brainer-but-doesnt-spell-end-for-traditional-dress
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: When Chelsea beat Wrexham in the FA Cup - after 300 minutes of football
+**Slug (lower-third):** When Chelsea beat Wrexham in the FA Cup - after 300 minut…  
+**When:** 2026-03-05 08:00 (America/Winnipeg)  •  **Published:** 2026-03-05 14:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+When Chelsea beat Wrexham in the FA Cup - after 300 minutes of football. Wrexham host Chelsea in the FA Cup fifth round on Saturday. it took three matches in nine days to find a winner in 1982 Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — When Chelsea beat Wrexham in the FA Cup - after 300 minutes of football. https://www.theguardian.com/football/that-1980s-sports-blog/2026/mar/05/chelsea-wrexham-fa-cup-300-minutes-1982
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Tottenham: How Premier League relegation could cost Spurs more than APS250m
+**Slug (lower-third):** Tottenham: How Premier League relegation could cost Spurs…  
+**When:** 2026-03-05 07:28 (America/Winnipeg)  •  **Published:** 2026-03-05 13:28 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham: How Premier League relegation could cost Spurs more than APS250m. BBC Sport explores the potential financial impact should Spurs be relegated to the Championship. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tottenham: How Premier League relegation could cost Spurs more than APS250m. https://www.bbc.com/sport/football/articles/cvg11ypd7gko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: William Osula: Newcastle scorer won Man Utd skills contest aged 11
 **Slug (lower-third):** William Osula: Newcastle scorer won Man Utd skills contes…  
 **When:** 2026-03-05 05:54 (America/Winnipeg)  •  **Published:** 2026-03-05 11:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 William Osula: Newcastle scorer won Man Utd skills contest aged 11. William Osula won a Manchester United skills contest at the age of 11. More than a decade later, he scored Newcastle's winner against United. Relevance to standings and momentum.
@@ -110,150 +252,6 @@ William Osula: Newcastle scorer won Man Utd skills contest aged 11. William Osul
 
 ### Sources
 - bbc.com — William Osula: Newcastle scorer won Man Utd skills contest aged 11. https://www.bbc.com/sport/football/articles/crl4461jyx1o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Chloe Kelly: England forward says Barbie doll honour is 'so special'
-**Slug (lower-third):** Chloe Kelly: England forward says Barbie doll honour is '…  
-**When:** 2026-03-05 03:29 (America/Winnipeg)  •  **Published:** 2026-03-05 09:29 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chloe Kelly: England forward says Barbie doll honour is 'so special'. Arsenal and England forward Chloe Kelly is transformed into a Barbie doll as part of a special series to mark International Women's Day. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Chloe Kelly: England forward says Barbie doll honour is 'so special'. https://www.bbc.com/sport/football/articles/cqlggx232pno?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Fabian Hurzeler slammed Arsenal's time-wasting against Brighton but their ball in play time is above average this season
-**Slug (lower-third):** Fabian Hurzeler slammed Arsenal's time-wasting against Br…  
-**When:** 2026-03-05 03:25 (America/Winnipeg)  •  **Published:** 2026-03-05 09:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
-
-### Presenter Script (3–5 sentences)
-Fabian Hurzeler slammed Arsenal's time-wasting against Brighton but their ball in play time is above average this season. Fabian Hurzeler accused Arsenal of time-wasting tactics after their 1-0 win over Brighton at the Amex Stadium on Wednesday but what do the numbers reveal about the Gunners approach this season? The ball in play numbers may surprise you Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Fabian Hurzeler slammed Arsenal's time-wasting against Brighton but their ball in play time is above average this season. https://www.skysports.com/football/news/12040/13515517/fabian-hurzeler-slammed-arsenals-time-wasting-against-brighton-but-their-ball-in-play-time-is-above-average-this-season
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Today on Sky Sports Racing: Lingfield and Newcastle feature
-**Slug (lower-third):** Today on Sky Sports Racing: Lingfield and Newcastle featu…  
-**When:** 2026-03-05 00:00 (America/Winnipeg)  •  **Published:** 2026-03-05 06:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Lingfield and Newcastle feature. Doctor Khan Junior will be looking to record a seventh all-weather success when he goes to post for tonights feature from Newcastle - live on Sky Sports Racing; Beforehand, Lingfield opens its gates for a seven-race card. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Lingfield and Newcastle feature. https://www.skysports.com/racing/news/12040/13514699/today-on-sky-sports-racing-lingfield-and-newcastle-feature
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Crysencio Summerville proves he could be West Ham's saviour
-**Slug (lower-third):** Crysencio Summerville proves he could be West Ham's savio…  
-**When:** 2026-03-04 18:22 (America/Winnipeg)  •  **Published:** 2026-03-05 00:22 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Crysencio Summerville proves he could be West Ham's saviour. Crysencio Summerville is finding form at the right time for West Ham - and might yet prove the man to save them from relegation. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Crysencio Summerville proves he could be West Ham's saviour. https://www.bbc.com/sport/football/articles/cpqwwyz70rgo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: 'World-class' Joao Pedro fills Diego Costa's shoes at Chelsea
-**Slug (lower-third):** 'World-class' Joao Pedro fills Diego Costa's shoes at Che…  
-**When:** 2026-03-04 16:53 (America/Winnipeg)  •  **Published:** 2026-03-04 22:53 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-'World-class' Joao Pedro fills Diego Costa's shoes at Chelsea. It has taken nine years, but Chelsea look to have found a striker in Joao Pedro capable of leading the line in the way Diego Costa did during the 2016a17 titleawinning season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — 'World-class' Joao Pedro fills Diego Costa's shoes at Chelsea. https://www.bbc.com/sport/football/articles/c8d55r9j41po?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Football gossip: Rodri, Iraola, Frank, Thuram, Griezmann, Osimhen, Diomande
-**Slug (lower-third):** Football gossip: Rodri, Iraola, Frank, Thuram, Griezmann,…  
-**When:** 2026-03-04 16:52 (America/Winnipeg)  •  **Published:** 2026-03-04 22:52 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Rodri, Iraola, Frank, Thuram, Griezmann, Osimhen, Diomande. Real Madrid look to have ended interest in Manchester City's Rodri, three Premier League clubs keen on Juventus midfielder Khephren Thuram, Liverpool want RB Leipzig winger Yan Diomande, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Rodri, Iraola, Frank, Thuram, Griezmann, Osimhen, Diomande. https://www.bbc.com/sport/football/articles/c89kke80zndo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
