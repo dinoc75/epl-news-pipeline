@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-05 13:19 (America/Winnipeg)  |  2026-03-05 19:19 (UTC)
+**Generated:** 2026-03-05 20:12 (America/Winnipeg)  |  2026-03-06 02:12 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~4m 46s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Nottingham Forest tell Edu to stay away from training ground
-- Premier League predictions: Chris Sutton v Peaky Blinders creator Steven Knight - and AI
-- Fabian Hurzeler: Was Brighton boss's Arsenal criticism correct? Here are the stats that tell you...
+- Troy Deeney's Team of the Week: Sels, Gabriel, Anderson, Wharton, Summerville, Pedro
+- Tottenham 1-3 Crystal Palace: 'Disbelief' - thousands leave early as Spurs in freefall
+- Igor Tudor enacts ghostly role in the most stupid of hires with Tottenham too bad to stay up | Barney Ronay
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: 'The steroids made me feel alone': Southampton's Amy Goddard on being diagnosed with Bell's palsy
-**Slug (lower-third):** 'The steroids made me feel alone': Southampton's Amy Godd…  
-**When:** 2026-03-05 05:33 (America/Winnipeg)  •  **Published:** 2026-03-05 11:33 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~21s
+## Story 1: Tottenham 1-3 Crystal Palace: 'Disbelief' - thousands leave early as Spurs in freefall
+**Slug (lower-third):** Tottenham 1-3 Crystal Palace: 'Disbelief' - thousands lea…  
+**When:** 2026-03-05 18:02 (America/Winnipeg)  •  **Published:** 2026-03-06 00:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'The steroids made me feel alone': Southampton's Amy Goddard on being diagnosed with Bell's palsy. Amy Goddard opens up on the 'petrifying' time in 2021 when the left side of her face suddenly dropped as she wants to help others who are affected Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Tottenham 1-3 Crystal Palace: 'Disbelief' - thousands leave early as Spurs in freefall. Only three games in, Tottenham's head coach is facing crisis. Igor Tudor refused to comment on whether he is about to be sacked - but said some players will need "to leave the boat". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'The steroids made me feel alone': Southampton's Amy Goddard on being diagnosed with Bell's palsy. https://www.theguardian.com/football/2026/mar/05/southampton-amy-goddard-bells-palsy
+- bbc.com — Tottenham 1-3 Crystal Palace: 'Disbelief' - thousands leave early as Spurs in freefall. https://www.bbc.com/sport/football/articles/cr731n9g521o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ---
 
-### League & Regulation
-
-## Story 2: Man Utd boss Michael Carrick questioned by Paul Scholes after Newcastle defeat - but does he have a point?
-**Slug (lower-third):** Man Utd boss Michael Carrick questioned by Paul Scholes a…  
-**When:** 2026-03-05 04:26 (America/Winnipeg)  •  **Published:** 2026-03-05 10:26 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~30s
+## Story 2: Igor Tudor enacts ghostly role in the most stupid of hires with Tottenham too bad to stay up | Barney Ronay
+**Slug (lower-third):** Igor Tudor enacts ghostly role in the most stupid of hire…  
+**When:** 2026-03-05 17:47 (America/Winnipeg)  •  **Published:** 2026-03-05 23:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Man Utd boss Michael Carrick questioned by Paul Scholes after Newcastle defeat - but does he have a point?. Paul Scholes questioned his former team-mate Michael Carricks credentials for the Man Utd job after 10-man Newcastle inflicted his first defeat in charge - but does he have a point? Carrick has eight games left to answer scepticism after a dip in performances over the last four games Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Igor Tudor enacts ghostly role in the most stupid of hires with Tottenham too bad to stay up | Barney Ronay. The problem here is not the interim manager, it's the ad hoc interim ownership and the short-term sense of identity at this ghost town club Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,57 @@ Man Utd boss Michael Carrick questioned by Paul Scholes after Newcastle defeat -
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man Utd boss Michael Carrick questioned by Paul Scholes after Newcastle defeat - but does he have a point?. https://www.skysports.com/football/news/12040/13515536/man-utd-boss-michael-carrick-questioned-by-paul-scholes-after-newcastle-defeat-but-does-he-have-a-point
+- theguardian.com — Igor Tudor enacts ghostly role in the most stupid of hires with Tottenham too bad to stay up | Barney Ronay. https://www.theguardian.com/football/2026/mar/05/igor-tudor-tottenham-crystal-palace-premier-league-relegation
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Tottenham head coach Igor Tudor has increased belief of a Spurs survival despite Crystal Palace defeat
+**Slug (lower-third):** Tottenham head coach Igor Tudor has increased belief of a…  
+**When:** 2026-03-05 17:45 (America/Winnipeg)  •  **Published:** 2026-03-05 23:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Tottenham head coach Igor Tudor has increased belief of a Spurs survival despite Crystal Palace defeat. Tottenham head coach Igor Tudor insists there were positives to take despite losing 3-1 at home to Crystal Palace; Spurs have now won just 12 points from their last 20 Premier League games and are just one point away from the relegation zone Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Tottenham head coach Igor Tudor has increased belief of a Spurs survival despite Crystal Palace defeat. https://www.skysports.com/football/news/12040/13515921/tottenham-head-coach-igor-tudor-has-increased-belief-of-a-spurs-survival-despite-crystal-palace-defeat
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 4: PS70m- rated Elliot Anderson favours a move to Man City over Man Utd- Paper talk and football transfer gossip
+**Slug (lower-third):** PS70m- rated Elliot Anderson favours a move to Man City o…  
+**When:** 2026-03-05 16:25 (America/Winnipeg)  •  **Published:** 2026-03-05 22:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+PS70m- rated Elliot Anderson favours a move to Man City over Man Utd- Paper talk and football transfer gossip. Latest from Fridays papers: Arsenal will need to sell a first-team player this summer, with Martin Odegaard and Gabriel Martinelli among the potential candidates; Mike Ashley is set to lodge a revised bid for crisis club Sheffield Wednesday in the next 24 hours Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — PS70m- rated Elliot Anderson favours a move to Man City over Man Utd- Paper talk and football transfer gossip. https://www.skysports.com/football/news/12040/13515893/70m-rated-elliot-anderson-favours-a-move-to-man-city-over-man-utd-paper-talk-and-football-transfer-gossip
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +116,13 @@ Man Utd boss Michael Carrick questioned by Paul Scholes after Newcastle defeat -
 
 ### Club Updates
 
-## Story 3: Nottingham Forest tell Edu to stay away from training ground
-**Slug (lower-third):** Nottingham Forest tell Edu to stay away from training gro…  
-**When:** 2026-03-05 12:21 (America/Winnipeg)  •  **Published:** 2026-03-05 18:21 (UTC)  
+## Story 5: Troy Deeney's Team of the Week: Sels, Gabriel, Anderson, Wharton, Summerville, Pedro
+**Slug (lower-third):** Troy Deeney's Team of the Week: Sels, Gabriel, Anderson, …  
+**When:** 2026-03-05 18:40 (America/Winnipeg)  •  **Published:** 2026-03-06 00:40 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest tell Edu to stay away from training ground. Nottingham Forest global head of football Edu is asked to stay away from the club's training ground. Relevance to standings and momentum.
+Troy Deeney's Team of the Week: Sels, Gabriel, Anderson, Wharton, Summerville, Pedro. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +131,7 @@ Nottingham Forest tell Edu to stay away from training ground. Nottingham Forest 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Nottingham Forest tell Edu to stay away from training ground. https://www.bbc.com/sport/football/articles/cdjm7wn39m7o?at_medium=RSS&at_campaign=rss
+- bbc.com — Troy Deeney's Team of the Week: Sels, Gabriel, Anderson, Wharton, Summerville, Pedro. https://www.bbc.com/sport/football/articles/c62d4w645k5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +140,13 @@ Nottingham Forest tell Edu to stay away from training ground. Nottingham Forest 
 
 ---
 
-## Story 4: Premier League predictions: Chris Sutton v Peaky Blinders creator Steven Knight - and AI
-**Slug (lower-third):** Premier League predictions: Chris Sutton v Peaky Blinders…  
-**When:** 2026-03-05 10:31 (America/Winnipeg)  •  **Published:** 2026-03-05 16:31 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: Premier League Darts: Luke Littler beats Jonny Clayton in Cardiff final to secure impressive first night win of season
+**Slug (lower-third):** Premier League Darts: Luke Littler beats Jonny Clayton in…  
+**When:** 2026-03-05 17:03 (America/Winnipeg)  •  **Published:** 2026-03-05 23:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Premier League predictions: Chris Sutton v Peaky Blinders creator Steven Knight - and AI. BBC Sport football expert Chris Sutton takes on Peaky Blinders creator Steven Knight plus the BBC readers and AI with his predictions for this weekend's FA Cup fifth-round ties. Relevance to standings and momentum.
+Premier League Darts: Luke Littler beats Jonny Clayton in Cardiff final to secure impressive first night win of season. Luke Littler moves onto nine points alongside Gerwyn Price and Gian van Veen after winning Night Five in Cardiff; Littler beat Josh Rock, Price and Jonny Clayton to claim first nightly win of the year; watch the Premier League season every Thursday live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +155,7 @@ Premier League predictions: Chris Sutton v Peaky Blinders creator Steven Knight 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League predictions: Chris Sutton v Peaky Blinders creator Steven Knight - and AI. https://www.bbc.com/sport/football/articles/cjrqzw88g1wo?at_medium=RSS&at_campaign=rss
+- skysports.com — Premier League Darts: Luke Littler beats Jonny Clayton in Cardiff final to secure impressive first night win of season. https://www.skysports.com/darts/news/12040/13515871/premier-league-darts-luke-littler-beats-jonny-clayton-in-cardiff-final-to-secure-impressive-first-night-win-of-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,106 +164,10 @@ Premier League predictions: Chris Sutton v Peaky Blinders creator Steven Knight 
 
 ---
 
-## Story 5: Fabian Hurzeler: Was Brighton boss's Arsenal criticism correct? Here are the stats that tell you...
-**Slug (lower-third):** Fabian Hurzeler: Was Brighton boss's Arsenal criticism co…  
-**When:** 2026-03-05 10:11 (America/Winnipeg)  •  **Published:** 2026-03-05 16:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Fabian Hurzeler: Was Brighton boss's Arsenal criticism correct? Here are the stats that tell you.... Following Fabian Hurzelers criticism of Arsenal, we take a look at the stats to see if the Brighton boss was fair in what he was saying. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Fabian Hurzeler: Was Brighton boss's Arsenal criticism correct? Here are the stats that tell you.... https://www.skysports.com/watch/video/13515747/fabian-hurzeler-was-brighton-bosss-arsenal-criticism-correct-here-are-the-stats-that-tell-you
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Tottenham Hotspur: Why is Dele Alli training at Spurs?
-**Slug (lower-third):** Tottenham Hotspur: Why is Dele Alli training at Spurs?  
-**When:** 2026-03-05 08:51 (America/Winnipeg)  •  **Published:** 2026-03-05 14:51 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham Hotspur: Why is Dele Alli training at Spurs?. Our Ask Me Anything team explain why Dele Alli is training at former club Tottenham Hotspur. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Tottenham Hotspur: Why is Dele Alli training at Spurs?. https://www.bbc.com/sport/football/articles/c3v7700kneeo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Tamsin Greenway: Netball's introduction of 'choice kit' is no brainer, but doesn't spell end for traditional dress
-**Slug (lower-third):** Tamsin Greenway: Netball's introduction of 'choice kit' i…  
-**When:** 2026-03-05 08:00 (America/Winnipeg)  •  **Published:** 2026-03-05 14:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Tamsin Greenway: Netball's introduction of 'choice kit' is no brainer, but doesn't spell end for traditional dress. Watch LexisNexis Dragons against London Pulse on the Sky Sports+ and App from 7pm Friday, while Leeds Rhinos face Loughborough Lightning from 7.30pm on Sky Sports Mix; Nottingham Forest take on Birmingham Panthers at 4pm Sunday, also live on Sky Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Tamsin Greenway: Netball's introduction of 'choice kit' is no brainer, but doesn't spell end for traditional dress. https://www.skysports.com/netball/news/12040/13515619/tamsin-greenway-netballs-introduction-of-choice-kit-is-no-brainer-but-doesnt-spell-end-for-traditional-dress
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: When Chelsea beat Wrexham in the FA Cup - after 300 minutes of football
-**Slug (lower-third):** When Chelsea beat Wrexham in the FA Cup - after 300 minut…  
-**When:** 2026-03-05 08:00 (America/Winnipeg)  •  **Published:** 2026-03-05 14:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-When Chelsea beat Wrexham in the FA Cup - after 300 minutes of football. Wrexham host Chelsea in the FA Cup fifth round on Saturday. it took three matches in nine days to find a winner in 1982 Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — When Chelsea beat Wrexham in the FA Cup - after 300 minutes of football. https://www.theguardian.com/football/that-1980s-sports-blog/2026/mar/05/chelsea-wrexham-fa-cup-300-minutes-1982
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Tottenham: How Premier League relegation could cost Spurs more than APS250m
+## Story 7: Tottenham: How Premier League relegation could cost Spurs more than APS250m
 **Slug (lower-third):** Tottenham: How Premier League relegation could cost Spurs…  
-**When:** 2026-03-05 07:28 (America/Winnipeg)  •  **Published:** 2026-03-05 13:28 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**When:** 2026-03-05 16:06 (America/Winnipeg)  •  **Published:** 2026-03-05 22:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Tottenham: How Premier League relegation could cost Spurs more than APS250m. BBC Sport explores the potential financial impact should Spurs be relegated to the Championship. Relevance to standings and momentum.
@@ -236,13 +188,13 @@ Tottenham: How Premier League relegation could cost Spurs more than APS250m. BBC
 
 ---
 
-## Story 10: William Osula: Newcastle scorer won Man Utd skills contest aged 11
-**Slug (lower-third):** William Osula: Newcastle scorer won Man Utd skills contes…  
-**When:** 2026-03-05 05:54 (America/Winnipeg)  •  **Published:** 2026-03-05 11:54 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 8: Saka responds to criticism of Arsenal by insisting 'we don't listen to that stuff'
+**Slug (lower-third):** Saka responds to criticism of Arsenal by insisting 'we do…  
+**When:** 2026-03-05 16:30 (America/Winnipeg)  •  **Published:** 2026-03-05 22:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-William Osula: Newcastle scorer won Man Utd skills contest aged 11. William Osula won a Manchester United skills contest at the age of 11. More than a decade later, he scored Newcastle's winner against United. Relevance to standings and momentum.
+Saka responds to criticism of Arsenal by insisting 'we don't listen to that stuff'. Bukayo Saka says he is untroubled by the rising tide of criticism against Arsenal and wants to do one thing and one thing alone - win Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +203,55 @@ William Osula: Newcastle scorer won Man Utd skills contest aged 11. William Osul
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — William Osula: Newcastle scorer won Man Utd skills contest aged 11. https://www.bbc.com/sport/football/articles/crl4461jyx1o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Saka responds to criticism of Arsenal by insisting 'we don't listen to that stuff'. https://www.theguardian.com/football/2026/mar/05/saka-arsenal-criticism-we-dont-listen-to-that-stuff
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Football gossip: Anderson, Amissah, Salah, Fernandes, Odegaard, Pochettino, Alonso
+**Slug (lower-third):** Football gossip: Anderson, Amissah, Salah, Fernandes, Ode…  
+**When:** 2026-03-05 15:18 (America/Winnipeg)  •  **Published:** 2026-03-05 21:18 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Anderson, Amissah, Salah, Fernandes, Odegaard, Pochettino, Alonso. Several Premier League clubs are chasing Fulham's Samuel Amissah, while Elliot Anderson is closing in on a move to Manchester City. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Anderson, Amissah, Salah, Fernandes, Odegaard, Pochettino, Alonso. https://www.bbc.com/sport/football/articles/cx2dd2p186go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Nottingham Forest tell Edu to stay away from training ground
+**Slug (lower-third):** Nottingham Forest tell Edu to stay away from training gro…  
+**When:** 2026-03-05 12:21 (America/Winnipeg)  •  **Published:** 2026-03-05 18:21 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Nottingham Forest tell Edu to stay away from training ground. Nottingham Forest global head of football Edu is asked to stay away from the club's training ground. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Nottingham Forest tell Edu to stay away from training ground. https://www.bbc.com/sport/football/articles/cdjm7wn39m7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
