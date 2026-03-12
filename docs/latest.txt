@@ -1,25 +1,73 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-12 01:59 (America/Winnipeg)  |  2026-03-12 06:59 (UTC)
+**Generated:** 2026-03-12 08:04 (America/Winnipeg)  |  2026-03-12 13:04 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 21s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Georginio Rutter: Brighton forward on boss Fabian Hurzeler
-- Tottenham: Can Spurs afford the time Igor Tudor's tactics need?
-- Champions League: Federico Valverde's first-half hat-trick stuns Man City
+- Tottenham Hotspur: Will Tudor's tactics get Spurs relegated?
+- Tottenham extend season-ticket deadline amid Premier League relegation fears
+- 'I knew I had some responsibility': Clyde Best on being English football's first black superstar
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Georginio Rutter: Brighton forward on boss Fabian Hurzeler
+## Story 1: Tottenham Hotspur: Will Tudor's tactics get Spurs relegated?
+**Slug (lower-third):** Tottenham Hotspur: Will Tudor's tactics get Spurs relegat…  
+**When:** 2026-03-12 07:58 (America/Winnipeg)  •  **Published:** 2026-03-12 12:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham Hotspur: Will Tudor's tactics get Spurs relegated?. BBC football tactics correspondent Umir Irfan looks at how Tottenham Hotspur interim manager Igor Tudor's tactical principles could be the reason behind their poor run of form. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tottenham Hotspur: Will Tudor's tactics get Spurs relegated?. https://www.bbc.com/articles/c3ewkg9qdpxo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: It would be a macabre story but relegation needs to happen for Tottenham | Jonathan Liew
+**Slug (lower-third):** It would be a macabre story but relegation needs to happe…  
+**When:** 2026-03-12 03:00 (America/Winnipeg)  •  **Published:** 2026-03-12 08:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+It would be a macabre story but relegation needs to happen for Tottenham | Jonathan Liew. All the managers since Mauricio Pochettino have drained life from the club, which appears interested in anything but football right now Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — It would be a macabre story but relegation needs to happen for Tottenham | Jonathan Liew. https://www.theguardian.com/football/2026/mar/12/why-relegation-needs-to-happen-for-tottenham
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Georginio Rutter: Brighton forward on boss Fabian Hurzeler
 **Slug (lower-third):** Georginio Rutter: Brighton forward on boss Fabian Hurzeler  
 **When:** 2026-03-12 01:32 (America/Winnipeg)  •  **Published:** 2026-03-12 06:32 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Georginio Rutter: Brighton forward on boss Fabian Hurzeler. Forward Georginio Rutter discusses "very young" Brighton manager Fabian Hurzeler and says that despite his tender age, the German has plenty of football knowledge to pass on. Relevance to standings and momentum.
@@ -40,13 +88,15 @@ Georginio Rutter: Brighton forward on boss Fabian Hurzeler. Forward Georginio Ru
 
 ---
 
-## Story 2: Tottenham: Can Spurs afford the time Igor Tudor's tactics need?
-**Slug (lower-third):** Tottenham: Can Spurs afford the time Igor Tudor's tactics…  
-**When:** 2026-03-12 01:23 (America/Winnipeg)  •  **Published:** 2026-03-12 06:23 (UTC)  
+### League & Regulation
+
+## Story 4: FPL gameweek 30 tips: Captain Bruno Fernandes and triple Arsenal defence
+**Slug (lower-third):** FPL gameweek 30 tips: Captain Bruno Fernandes and triple …  
+**When:** 2026-03-12 04:07 (America/Winnipeg)  •  **Published:** 2026-03-12 09:07 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham: Can Spurs afford the time Igor Tudor's tactics need?. After Tottenham's Champions League collapse on Tuesday, the appointment of Igor Tudor and the tactics employed increasingly seems to have made their situation worse. Relevance to standings and momentum.
+FPL gameweek 30 tips: Captain Bruno Fernandes and triple Arsenal defence. There is still no Erling Haaland in the FPL team of the week while the captain's armband goes to one of the most trusty assets in the game. Disciplinary outcome could affect availability.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,55 +105,7 @@ Tottenham: Can Spurs afford the time Igor Tudor's tactics need?. After Tottenham
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tottenham: Can Spurs afford the time Igor Tudor's tactics need?. https://www.bbc.com/sport/football/articles/cvg37w0ll7xo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Premier League: Six teams, no wins in Champions League last-16 first legs
-**Slug (lower-third):** Premier League: Six teams, no wins in Champions League la…  
-**When:** 2026-03-11 19:20 (America/Winnipeg)  •  **Published:** 2026-03-12 00:20 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: Six teams, no wins in Champions League last-16 first legs. Chief football writer Phil McNulty examines the state of the Premier League after a disappointing week in Europe for all six of its clubs. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League: Six teams, no wins in Champions League last-16 first legs. https://www.bbc.com/sport/football/articles/cvg1x3lrmzko?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Champions League: 'He's lost the changing room' - Warnock
-**Slug (lower-third):** Champions League: 'He's lost the changing room' - Warnock  
-**When:** 2026-03-11 19:17 (America/Winnipeg)  •  **Published:** 2026-03-12 00:17 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League: 'He's lost the changing room' - Warnock. Champions League Match of the Day pundit Stephen Warnock believes Tottenham manager Igor Tudor has "lost the changing room" after their 5-2 defeat to Atletico Madrid in the last 16. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League: 'He's lost the changing room' - Warnock. https://www.bbc.com/sport/football/videos/c62dq4n020wo?at_medium=RSS&at_campaign=rss
+- bbc.com — FPL gameweek 30 tips: Captain Bruno Fernandes and triple Arsenal defence. https://www.bbc.com/sport/football/articles/cg7epzl0r00o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +116,13 @@ Champions League: 'He's lost the changing room' - Warnock. Champions League Matc
 
 ### Club Updates
 
-## Story 5: Champions League: Federico Valverde's first-half hat-trick stuns Man City
-**Slug (lower-third):** Champions League: Federico Valverde's first-half hat-tric…  
-**When:** 2026-03-11 17:24 (America/Winnipeg)  •  **Published:** 2026-03-11 22:24 (UTC)  
+## Story 5: Tottenham extend season-ticket deadline amid Premier League relegation fears
+**Slug (lower-third):** Tottenham extend season-ticket deadline amid Premier Leag…  
+**When:** 2026-03-12 07:48 (America/Winnipeg)  •  **Published:** 2026-03-12 12:48 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League: Federico Valverde's first-half hat-trick stuns Man City. Real Madrid's Federico Valverde scores a first-half hat-trick as the Spanish giants beat Manchester City 3-0 in their Champions League last-16 encounter at the Bernabeu. Relevance to standings and momentum.
+Tottenham extend season-ticket deadline amid Premier League relegation fears. Relegation-threatened Tottenham give their fans "an extended period" to decide if they want to renew their season tickets amid the "seriousness of the current league position" of their men's team. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,8 +131,7 @@ Champions League: Federico Valverde's first-half hat-trick stuns Man City. Real 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League: Federico Valverde's first-half hat-trick stuns Man City. https://www.bbc.com/sport/football/videos/cgjzx96jg49o?at_medium=RSS&at_campaign=rss
-- skysports.com — Real Madrid 3-0 Man City: Federico Valverde's stunning hat-trick leaves Pep Guardiola's side on verge of Champions League exit. https://www.skysports.com/football/real-madrid-vs-manchester-city/report/554899
+- bbc.com — Tottenham extend season-ticket deadline amid Premier League relegation fears. https://www.bbc.com/sport/football/articles/c3rz0rw2n8go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -139,13 +140,13 @@ Champions League: Federico Valverde's first-half hat-trick stuns Man City. Real 
 
 ---
 
-## Story 6: Champions League: Arsenal's Havertz scores penalty to draw at Leverkusen
-**Slug (lower-third):** Champions League: Arsenal's Havertz scores penalty to dra…  
-**When:** 2026-03-11 16:58 (America/Winnipeg)  •  **Published:** 2026-03-11 21:58 (UTC)  
+## Story 6: 'I knew I had some responsibility': Clyde Best on being English football's first black superstar
+**Slug (lower-third):** 'I knew I had some responsibility': Clyde Best on being E…  
+**When:** 2026-03-12 07:00 (America/Winnipeg)  •  **Published:** 2026-03-12 12:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League: Arsenal's Havertz scores penalty to draw at Leverkusen. Arsenal's Kai Havertz scores a late penalty against his former club Bayer Leverkusen to draw 1-1 in the first leg of their last-16 Champions League tie. Relevance to standings and momentum.
+'I knew I had some responsibility': Clyde Best on being English football's first black superstar. Clyde Best left Bermuda at 17 and joined West Ham, with Bobby Moore among his teammates, but he also faced horrendous abuse, he tells Jacob Steinberg Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -154,8 +155,7 @@ Champions League: Arsenal's Havertz scores penalty to draw at Leverkusen. Arsena
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League: Arsenal's Havertz scores penalty to draw at Leverkusen. https://www.bbc.com/sport/football/videos/cx2jxd458n6o?at_medium=RSS&at_campaign=rss
-- skysports.com — Bayer Leverkusen 1-1 Arsenal: Kai Havertz scores late penalty against former side to snatch draw in Champions League last 16. https://www.skysports.com/football/bayer-leverkusen-vs-arsenal/report/554847
+- theguardian.com — 'I knew I had some responsibility': Clyde Best on being English football's first black superstar. https://www.theguardian.com/football/2026/mar/12/clyde-best-english-football-first-black-superstar-west-ham-interview-film
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +164,13 @@ Champions League: Arsenal's Havertz scores penalty to draw at Leverkusen. Arsena
 
 ---
 
-## Story 7: Kvaratskhelia is PSG's hyper-skilled traveller to expose Chelsea's naivety | Barney Ronay
-**Slug (lower-third):** Kvaratskhelia is PSG's hyper-skilled traveller to expose …  
-**When:** 2026-03-11 19:20 (America/Winnipeg)  •  **Published:** 2026-03-12 00:20 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 7: Melvine Malard: Man Utd forward enjoying best goalscoring season in pursuit of success in WSL and Champions League
+**Slug (lower-third):** Melvine Malard: Man Utd forward enjoying best goalscoring…  
+**When:** 2026-03-12 07:00 (America/Winnipeg)  •  **Published:** 2026-03-12 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Kvaratskhelia is PSG's hyper-skilled traveller to expose Chelsea's naivety | Barney Ronay. European champions rediscover mojo thanks to maverick Georgian's late show to surely put tie beyond Chelsea's reach Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Melvine Malard: Man Utd forward enjoying best goalscoring season in pursuit of success in WSL and Champions League. Melvine Malard discusses her best season yet at Man Utd in an exclusive conversation with Sky Sports; watch Chelsea vs Man Utd in the Subway Cup final live on Sky Sports on Sunday; kick-off 2.15pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +179,7 @@ Kvaratskhelia is PSG's hyper-skilled traveller to expose Chelsea's naivety | Bar
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Kvaratskhelia is PSG's hyper-skilled traveller to expose Chelsea's naivety | Barney Ronay. https://www.theguardian.com/football/2026/mar/12/khvicha-kvaratskhelia-psg-chelsea-naivety-champions-league
+- skysports.com — Melvine Malard: Man Utd forward enjoying best goalscoring season in pursuit of success in WSL and Champions League. https://www.skysports.com/football/news/12040/13513037/melvine-malard-man-utd-forward-enjoying-best-goalscoring-season-in-pursuit-of-success-in-wsl-and-champions-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +188,13 @@ Kvaratskhelia is PSG's hyper-skilled traveller to expose Chelsea's naivety | Bar
 
 ---
 
-## Story 8: Federico Valverde: Real Madrid's 'most underrated player on the planet' stars against Manchester City
-**Slug (lower-third):** Federico Valverde: Real Madrid's 'most underrated player …  
-**When:** 2026-03-11 18:57 (America/Winnipeg)  •  **Published:** 2026-03-11 23:57 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 8: Premier League: How the run-in is shaping up - title, Champions League and relegation
+**Slug (lower-third):** Premier League: How the run-in is shaping up - title, Cha…  
+**When:** 2026-03-12 06:29 (America/Winnipeg)  •  **Published:** 2026-03-12 11:29 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Federico Valverde: Real Madrid's 'most underrated player on the planet' stars against Manchester City. Jude Bellingham stood open mouthed in disbelief while Kylian Mbappe jumped out of his seat to celebrate as Real Madrid team-mate Federico Valverde scored a stunning hat-trick to sink Manchester City in their Champions League first-leg tie. Relevance to standings and momentum.
+Premier League: How the run-in is shaping up - title, Champions League and relegation. Who has the easier title run-in? Which teams will clinch the Champions League places? Who is getting relegated? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +203,7 @@ Federico Valverde: Real Madrid's 'most underrated player on the planet' stars ag
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Federico Valverde: Real Madrid's 'most underrated player on the planet' stars against Manchester City. https://www.bbc.com/sport/football/articles/c4gj45gxedzo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League: How the run-in is shaping up - title, Champions League and relegation. https://www.bbc.com/sport/football/articles/cvg802m7kv8o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +212,13 @@ Federico Valverde: Real Madrid's 'most underrated player on the planet' stars ag
 
 ---
 
-## Story 9: Ball boy push: Chelsea's Pedro Neto apologises for pushing PSG ball boy
-**Slug (lower-third):** Ball boy push: Chelsea's Pedro Neto apologises for pushin…  
-**When:** 2026-03-11 18:33 (America/Winnipeg)  •  **Published:** 2026-03-11 23:33 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 9: Champions League: How did none of six Premier League teams in last 16 come away with first-leg wins?
+**Slug (lower-third):** Champions League: How did none of six Premier League team…  
+**When:** 2026-03-12 05:50 (America/Winnipeg)  •  **Published:** 2026-03-12 10:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Ball boy push: Chelsea's Pedro Neto apologises for pushing PSG ball boy. Pedro Neto apologises for pushing over a ball boy over during Chelsea's 5-2 defeat by Paris StaGermain in the Champions League. Relevance to standings and momentum.
+Champions League: How did none of six Premier League teams in last 16 come away with first-leg wins?. None of the six Premier League teams competing in last 16 of Champions League won a first-leg game; Liverpool, Tottenham, Chelsea and Man City all lost; Newcastle and Arsenal drew; the last time no English team recorded a last-16 first-leg European win was 2022/23 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +227,8 @@ Ball boy push: Chelsea's Pedro Neto apologises for pushing PSG ball boy. Pedro N
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Ball boy push: Chelsea's Pedro Neto apologises for pushing PSG ball boy. https://www.bbc.com/sport/football/articles/czd8m7plz17o?at_medium=RSS&at_campaign=rss
+- skysports.com — Champions League: How did none of six Premier League teams in last 16 come away with first-leg wins?. https://www.skysports.com/football/news/12040/13518577/champions-league-how-did-none-of-six-premier-league-teams-in-last-16-come-away-with-first-leg-wins
+- bbc.com — Premier League: Six teams, no wins in Champions League last-16 first legs. https://www.bbc.com/sport/football/articles/cvg1x3lrmzko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +237,13 @@ Ball boy push: Chelsea's Pedro Neto apologises for pushing PSG ball boy. Pedro N
 
 ---
 
-## Story 10: Valverde, Real's ever versatile Little Bird, goes on a flight of pure fantasy | Sid Lowe
-**Slug (lower-third):** Valverde, Real's ever versatile Little Bird, goes on a fl…  
-**When:** 2026-03-11 18:45 (America/Winnipeg)  •  **Published:** 2026-03-11 23:45 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~21s
+## Story 10: Champions League fifth place: Is Premier League on course for extra spot in next year's competition?
+**Slug (lower-third):** Champions League fifth place: Is Premier League on course…  
+**When:** 2026-03-12 04:47 (America/Winnipeg)  •  **Published:** 2026-03-12 09:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Valverde, Real's ever versatile Little Bird, goes on a flight of pure fantasy | Sid Lowe. Hat-trick hero helped out as an auxiliary right-back before becoming the 7, 8, 9 and 10 in one of the great European performances against Manchester City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Champions League fifth place: Is Premier League on course for extra spot in next year's competition?. Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +252,7 @@ Valverde, Real's ever versatile Little Bird, goes on a flight of pure fantasy | 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Valverde, Real's ever versatile Little Bird, goes on a flight of pure fantasy | Sid Lowe. https://www.theguardian.com/football/2026/mar/11/real-madrid-manchester-city-federico-valverde-champions-league
+- bbc.com — Champions League fifth place: Is Premier League on course for extra spot in next year's competition?. https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
