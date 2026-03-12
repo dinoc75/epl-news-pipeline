@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-11 13:56 (America/Winnipeg)  |  2026-03-11 18:56 (UTC)
+**Generated:** 2026-03-11 21:22 (America/Winnipeg)  |  2026-03-12 02:22 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Tottenham Hotspur owner to leave Tudor decision to club executives
-- Football Daily | Agent of chaos Tudor reduces Spurs rabble to international laughing stock
-- Tottenham: Club in 'doomsday scenario' and being hit by 'blow after blow', says Micky Van de Ven
+- Kvaratskhelia is PSG's hyper-skilled traveller to expose Chelsea's naivety | Barney Ronay
+- Premier League: Six teams, no wins in Champions League last-16 first legs
+- Champions League: 'He's lost the changing room' - Warnock
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Tottenham Hotspur owner to leave Tudor decision to club executives
-**Slug (lower-third):** Tottenham Hotspur owner to leave Tudor decision to club e…  
-**When:** 2026-03-11 13:46 (America/Winnipeg)  •  **Published:** 2026-03-11 18:46 (UTC)  
+## Story 1: Premier League: Six teams, no wins in Champions League last-16 first legs
+**Slug (lower-third):** Premier League: Six teams, no wins in Champions League la…  
+**When:** 2026-03-11 19:20 (America/Winnipeg)  •  **Published:** 2026-03-12 00:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham Hotspur owner to leave Tudor decision to club executives. Tottenham owner Enic does not plan to step in and take the decision over Igor Tudor's future out of the hands of the club's executive team despite the manager's poor start. Relevance to standings and momentum.
+Premier League: Six teams, no wins in Champions League last-16 first legs. Chief football writer Phil McNulty examines the state of the Premier League after a disappointing week in Europe for all six of its clubs. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,55 @@ Tottenham Hotspur owner to leave Tudor decision to club executives. Tottenham ow
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tottenham Hotspur owner to leave Tudor decision to club executives. https://www.bbc.com/sport/football/articles/czx4eg5gk03o?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League: Six teams, no wins in Champions League last-16 first legs. https://www.bbc.com/sport/football/articles/cvg1x3lrmzko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Champions League: 'He's lost the changing room' - Warnock
+**Slug (lower-third):** Champions League: 'He's lost the changing room' - Warnock  
+**When:** 2026-03-11 19:17 (America/Winnipeg)  •  **Published:** 2026-03-12 00:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Champions League: 'He's lost the changing room' - Warnock. Champions League Match of the Day pundit Stephen Warnock believes Tottenham manager Igor Tudor has "lost the changing room" after their 5-2 defeat to Atletico Madrid in the last 16. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Champions League: 'He's lost the changing room' - Warnock. https://www.bbc.com/sport/football/videos/c62dq4n020wo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Bayer Leverkusen 1-1 Arsenal: Gunners undone by own set-piece weapon
+**Slug (lower-third):** Bayer Leverkusen 1-1 Arsenal: Gunners undone by own set-p…  
+**When:** 2026-03-11 17:34 (America/Winnipeg)  •  **Published:** 2026-03-11 22:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Bayer Leverkusen 1-1 Arsenal: Gunners undone by own set-piece weapon. "You do it too, eh?". Those were the words from Arsenal's set-piece coach Nicolas Jover to Bayer Leverkusen manager Kasper Hjulmand after the German side scored from a corner in the 1-1 Champions League last-16 first-leg draw between the two sides. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Bayer Leverkusen 1-1 Arsenal: Gunners undone by own set-piece weapon. https://www.bbc.com/sport/football/articles/cwyklwdzljyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +90,13 @@ Tottenham Hotspur owner to leave Tudor decision to club executives. Tottenham ow
 
 ### Transfers
 
-## Story 2: Chelsea v Manchester United: Keira Walsh on why transfer was 'like being the new kid at school'
-**Slug (lower-third):** Chelsea v Manchester United: Keira Walsh on why transfer …  
-**When:** 2026-03-11 02:38 (America/Winnipeg)  •  **Published:** 2026-03-11 07:38 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+## Story 4: Arsenal will consider making a bid for Newcastle full-back Tino Livramento this summer - Paper talk and football transfer gossip
+**Slug (lower-third):** Arsenal will consider making a bid for Newcastle full-bac…  
+**When:** 2026-03-11 18:17 (America/Winnipeg)  •  **Published:** 2026-03-11 23:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Chelsea v Manchester United: Keira Walsh on why transfer was 'like being the new kid at school'. England midfielder Keira Walsh says adjusting to life at Chelsea after arriving in January 2025 was the "worst feeling". Implications for the squad and table.
+Arsenal will consider making a bid for Newcastle full-back Tino Livramento this summer - Paper talk and football transfer gossip. Latest from Thursdays papers: Nottingham Forest defender Murillo is one of several defenders on Man Utds shortlist of potential summer signings; Tottenham will allow goalkeeper Antonin Kinsky to leave the club on loan this summer to rebuild his confidence Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +105,7 @@ Chelsea v Manchester United: Keira Walsh on why transfer was 'like being the new
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Chelsea v Manchester United: Keira Walsh on why transfer was 'like being the new kid at school'. https://www.bbc.com/sport/football/articles/crrxxrqpd12o?at_medium=RSS&at_campaign=rss
+- skysports.com — Arsenal will consider making a bid for Newcastle full-back Tino Livramento this summer - Paper talk and football transfer gossip. https://www.skysports.com/football/news/12040/13518472/paper-talk-and-football-transfer-gossip
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +116,13 @@ Chelsea v Manchester United: Keira Walsh on why transfer was 'like being the new
 
 ### Club Updates
 
-## Story 3: Football Daily | Agent of chaos Tudor reduces Spurs rabble to international laughing stock
-**Slug (lower-third):** Football Daily | Agent of chaos Tudor reduces Spurs rabbl…  
-**When:** 2026-03-11 10:57 (America/Winnipeg)  •  **Published:** 2026-03-11 15:57 (UTC)  
+## Story 5: Kvaratskhelia is PSG's hyper-skilled traveller to expose Chelsea's naivety | Barney Ronay
+**Slug (lower-third):** Kvaratskhelia is PSG's hyper-skilled traveller to expose …  
+**When:** 2026-03-11 19:20 (America/Winnipeg)  •  **Published:** 2026-03-12 00:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | Agent of chaos Tudor reduces Spurs rabble to international laughing stock. In today's Football Daily: The ongoing bin-fire that is Spurs' season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Kvaratskhelia is PSG's hyper-skilled traveller to expose Chelsea's naivety | Barney Ronay. European champions rediscover mojo thanks to maverick Georgian's late show to surely put tie beyond Chelsea's reach Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +131,7 @@ Football Daily | Agent of chaos Tudor reduces Spurs rabble to international laug
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | Agent of chaos Tudor reduces Spurs rabble to international laughing stock. https://www.theguardian.com/football/2026/mar/11/football-daily-email-tottenham-tudor-kinsky
+- theguardian.com — Kvaratskhelia is PSG's hyper-skilled traveller to expose Chelsea's naivety | Barney Ronay. https://www.theguardian.com/football/2026/mar/12/khvicha-kvaratskhelia-psg-chelsea-naivety-champions-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +140,13 @@ Football Daily | Agent of chaos Tudor reduces Spurs rabble to international laug
 
 ---
 
-## Story 4: Tottenham: Club in 'doomsday scenario' and being hit by 'blow after blow', says Micky Van de Ven
-**Slug (lower-third):** Tottenham: Club in 'doomsday scenario' and being hit by '…  
-**When:** 2026-03-11 10:26 (America/Winnipeg)  •  **Published:** 2026-03-11 15:26 (UTC)  
+## Story 6: Federico Valverde: Real Madrid's 'most underrated player on the planet' stars against Manchester City
+**Slug (lower-third):** Federico Valverde: Real Madrid's 'most underrated player …  
+**When:** 2026-03-11 18:57 (America/Winnipeg)  •  **Published:** 2026-03-11 23:57 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham: Club in 'doomsday scenario' and being hit by 'blow after blow', says Micky Van de Ven. Micky Van de Ven says Tottenham found themselves in a "doomsday scenario" against Atletico Madrid, adding the club is "just taking blow after blow". Relevance to standings and momentum.
+Federico Valverde: Real Madrid's 'most underrated player on the planet' stars against Manchester City. Jude Bellingham stood open mouthed in disbelief while Kylian Mbappe jumped out of his seat to celebrate as Real Madrid team-mate Federico Valverde scored a stunning hat-trick to sink Manchester City in their Champions League first-leg tie. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +155,7 @@ Tottenham: Club in 'doomsday scenario' and being hit by 'blow after blow', says 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tottenham: Club in 'doomsday scenario' and being hit by 'blow after blow', says Micky Van de Ven. https://www.bbc.com/sport/football/articles/cqlgxeqz053o?at_medium=RSS&at_campaign=rss
+- bbc.com — Federico Valverde: Real Madrid's 'most underrated player on the planet' stars against Manchester City. https://www.bbc.com/sport/football/articles/c4gj45gxedzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +164,13 @@ Tottenham: Club in 'doomsday scenario' and being hit by 'blow after blow', says 
 
 ---
 
-## Story 5: Dibble to Duverger: other goalkeeper nightmares after Kinsky's horror show
-**Slug (lower-third):** Dibble to Duverger: other goalkeeper nightmares after Kin…  
-**When:** 2026-03-11 08:59 (America/Winnipeg)  •  **Published:** 2026-03-11 13:59 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 7: Valverde, Real's ever versatile Little Bird, goes on a flight of pure fantasy | Sid Lowe
+**Slug (lower-third):** Valverde, Real's ever versatile Little Bird, goes on a fl…  
+**When:** 2026-03-11 18:45 (America/Winnipeg)  •  **Published:** 2026-03-11 23:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Dibble to Duverger: other goalkeeper nightmares after Kinsky's horror show. After Antonin Kinsky's Spurs woes at Atletico, we recall five more matches the keeper in question would sooner forget Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Valverde, Real's ever versatile Little Bird, goes on a flight of pure fantasy | Sid Lowe. Hat-trick hero helped out as an auxiliary right-back before becoming the 7, 8, 9 and 10 in one of the great European performances against Manchester City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +179,7 @@ Dibble to Duverger: other goalkeeper nightmares after Kinsky's horror show. Afte
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Dibble to Duverger: other goalkeeper nightmares after Kinsky's horror show. https://www.theguardian.com/football/2026/mar/11/other-goalkeeper-nightmares-antonin-kinsky-spurs-atletico-madrid-dibble-to-duverger
+- theguardian.com — Valverde, Real's ever versatile Little Bird, goes on a flight of pure fantasy | Sid Lowe. https://www.theguardian.com/football/2026/mar/11/real-madrid-manchester-city-federico-valverde-champions-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +188,13 @@ Dibble to Duverger: other goalkeeper nightmares after Kinsky's horror show. Afte
 
 ---
 
-## Story 6: Fan attends wrong St James' Park football stadium 366 miles away
-**Slug (lower-third):** Fan attends wrong St James' Park football stadium 366 mil…  
-**When:** 2026-03-11 08:01 (America/Winnipeg)  •  **Published:** 2026-03-11 13:01 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 8: Ball boy push: Chelsea's Pedro Neto apologises for pushing PSG ball boy
+**Slug (lower-third):** Ball boy push: Chelsea's Pedro Neto apologises for pushin…  
+**When:** 2026-03-11 18:33 (America/Winnipeg)  •  **Published:** 2026-03-11 23:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fan attends wrong St James' Park football stadium 366 miles away. The supporter travelled from London to Exeter, instead of Newcastle. Relevance to standings and momentum.
+Ball boy push: Chelsea's Pedro Neto apologises for pushing PSG ball boy. Pedro Neto apologises for pushing over a ball boy over during Chelsea's 5-2 defeat by Paris StaGermain in the Champions League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +203,7 @@ Fan attends wrong St James' Park football stadium 366 miles away. The supporter 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Fan attends wrong St James' Park football stadium 366 miles away. https://www.bbc.com/news/articles/c309478l04go?at_medium=RSS&at_campaign=rss
+- bbc.com — Ball boy push: Chelsea's Pedro Neto apologises for pushing PSG ball boy. https://www.bbc.com/sport/football/articles/czd8m7plz17o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +212,13 @@ Fan attends wrong St James' Park football stadium 366 miles away. The supporter 
 
 ---
 
-## Story 7: Barcelona fan 'gutted' at missing Newcastle game after going to wrong St James' Park
-**Slug (lower-third):** Barcelona fan 'gutted' at missing Newcastle game after go…  
-**When:** 2026-03-11 07:46 (America/Winnipeg)  •  **Published:** 2026-03-11 12:46 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 9: Champions League: Federico Valverde's first-half hat-trick stuns Man City
+**Slug (lower-third):** Champions League: Federico Valverde's first-half hat-tric…  
+**When:** 2026-03-11 17:24 (America/Winnipeg)  •  **Published:** 2026-03-11 22:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Barcelona fan 'gutted' at missing Newcastle game after going to wrong St James' Park. A Barcelona fan ended up 366 miles from where his team were playing after confusing Exeter's St James Park with Newcastle's St James' Park Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Champions League: Federico Valverde's first-half hat-trick stuns Man City. Real Madrid's Federico Valverde scores a first-half hat-trick as the Spanish giants beat Manchester City 3-0 in their Champions League last-16 encounter at the Bernabeu. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +227,8 @@ Barcelona fan 'gutted' at missing Newcastle game after going to wrong St James' 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Barcelona fan 'gutted' at missing Newcastle game after going to wrong St James' Park. https://www.theguardian.com/football/2026/mar/11/barcelona-fan-wrong-st-james-park-misses-newcastle-game-exeter
+- bbc.com — Champions League: Federico Valverde's first-half hat-trick stuns Man City. https://www.bbc.com/sport/football/videos/cgjzx96jg49o?at_medium=RSS&at_campaign=rss
+- skysports.com — Real Madrid 3-0 Man City: Federico Valverde's stunning hat-trick leaves Pep Guardiola's side on verge of Champions League exit. https://www.skysports.com/football/real-madrid-vs-manchester-city/report/554899
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +237,13 @@ Barcelona fan 'gutted' at missing Newcastle game after going to wrong St James' 
 
 ---
 
-## Story 8: Could Premier League learn from Kidderminster's answer to corner chaos?
-**Slug (lower-third):** Could Premier League learn from Kidderminster's answer to…  
-**When:** 2026-03-11 06:12 (America/Winnipeg)  •  **Published:** 2026-03-11 11:12 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 10: Champions League: Lemina gives Galatasaray victory over Liverpool
+**Slug (lower-third):** Champions League: Lemina gives Galatasaray victory over L…  
+**When:** 2026-03-11 16:58 (America/Winnipeg)  •  **Published:** 2026-03-11 21:58 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Could Premier League learn from Kidderminster's answer to corner chaos?. As Premier League teams look for ways to stop Arsenal's corner-kick dominance, could National League North side Kidderminster have found an answer? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Champions League: Lemina gives Galatasaray victory over Liverpool. Galatasary midfielder Mario Lemina heads in the only goal of the game as Liverpool lose 1-0 to the Turkish champions, in their first leg Champions League last-16 tie. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,58 +252,10 @@ Could Premier League learn from Kidderminster's answer to corner chaos?. As Prem
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Could Premier League learn from Kidderminster's answer to corner chaos?. https://www.bbc.com/sport/football/articles/cpw0e9l7lvyo?at_medium=RSS&at_campaign=rss
+- bbc.com — Champions League: Lemina gives Galatasaray victory over Liverpool. https://www.bbc.com/sport/football/videos/ce82jee53rgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Roman Abramovich's Chelsea FC sale cash may be under investigation as 'proceeds of crime'
-**Slug (lower-third):** Roman Abramovich's Chelsea FC sale cash may be under inve…  
-**When:** 2026-03-11 05:38 (America/Winnipeg)  •  **Published:** 2026-03-11 10:38 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Roman Abramovich's Chelsea FC sale cash may be under investigation as 'proceeds of crime'. Documents filed at Companies House over 2022 deal could complicate row with UK over how money will be used Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Roman Abramovich's Chelsea FC sale cash may be under investigation as 'proceeds of crime'. https://www.theguardian.com/world/2026/mar/11/investigation-roman-abramovich-chelsea-sale-cash
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Championship roundup: Millwall keep promotion push going with win against Derby
-**Slug (lower-third):** Championship roundup: Millwall keep promotion push going …  
-**When:** 2026-03-10 17:56 (America/Winnipeg)  •  **Published:** 2026-03-10 22:56 (UTC)  
-**Virality score:** 75  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Championship roundup: Millwall keep promotion push going with win against Derby. Millwall closed the gap on Middlesbrough to one point after beating Derby while Leicester are out of the relegation zone after beating Bristol City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Championship roundup: Millwall keep promotion push going with win against Derby. https://www.theguardian.com/football/2026/mar/10/championship-roundup-millwall-keep-promotion-push-going-with-win-against-derby
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
