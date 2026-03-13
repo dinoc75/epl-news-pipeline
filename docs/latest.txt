@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-13 01:57 (America/Winnipeg)  |  2026-03-13 06:57 (UTC)
+**Generated:** 2026-03-13 08:03 (America/Winnipeg)  |  2026-03-13 13:03 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~4m 32s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Michael Carrick: Michael Owen 'can't believe' people questioning former team-mate for Man Utd job
-- Football Daily - Nathan Collins - The Football Interview - BBC Sounds
-- Aston Villa: Unai Emery reaches milestone in win over Lille
+- Wayne Rooney Show: Michael Owen on Michael Carrick at Man Utd
+- Andoni Iraola: Bournemouth boss says decision on future 'definitely' closer
+- Harry Redknapp reveals if he will return to Spurs ahead of Gold Cup at Cheltenham
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Michael Carrick: Michael Owen 'can't believe' people questioning former team-mate for Man Utd job
-**Slug (lower-third):** Michael Carrick: Michael Owen 'can't believe' people ques…  
-**When:** 2026-03-13 01:13 (America/Winnipeg)  •  **Published:** 2026-03-13 06:13 (UTC)  
+## Story 1: Wayne Rooney Show: Michael Owen on Michael Carrick at Man Utd
+**Slug (lower-third):** Wayne Rooney Show: Michael Owen on Michael Carrick at Man…  
+**When:** 2026-03-13 07:10 (America/Winnipeg)  •  **Published:** 2026-03-13 12:10 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Michael Carrick: Michael Owen 'can't believe' people questioning former team-mate for Man Utd job. Michael Owen says he "can't believe people are questioning" whether Michael Carrick should become the permanent manager of Manchester United. Relevance to standings and momentum.
+Wayne Rooney Show: Michael Owen on Michael Carrick at Man Utd. Michael Owen has said he "can't believe people are questioning" whether Michael Carrick should become the permanent manager of Manchester United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Michael Carrick: Michael Owen 'can't believe' people questioning former team-mat
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Michael Carrick: Michael Owen 'can't believe' people questioning former team-mate for Man Utd job. https://www.bbc.com/sport/football/articles/c4g8q928gp3o?at_medium=RSS&at_campaign=rss
+- bbc.com — Wayne Rooney Show: Michael Owen on Michael Carrick at Man Utd. https://www.bbc.com/sport/football/videos/cn714kp8e0zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Michael Carrick: Michael Owen 'can't believe' people questioning former team-mat
 
 ---
 
-## Story 2: Aston Villa: Unai Emery reaches milestone in win over Lille
-**Slug (lower-third):** Aston Villa: Unai Emery reaches milestone in win over Lil…  
-**When:** 2026-03-12 18:38 (America/Winnipeg)  •  **Published:** 2026-03-12 23:38 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 2: Andoni Iraola: Bournemouth boss says decision on future 'definitely' closer
+**Slug (lower-third):** Andoni Iraola: Bournemouth boss says decision on future '…  
+**When:** 2026-03-13 07:06 (America/Winnipeg)  •  **Published:** 2026-03-13 12:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa: Unai Emery reaches milestone in win over Lille. Unai Emery becomes the quickest of the three Aston Villa managers to reach 100 victories as his side defeat Lille in the Europa League last 16. Relevance to standings and momentum.
+Andoni Iraola: Bournemouth boss says decision on future 'definitely' closer. Bournemouth head coach Andoni Iraola says a decision on his future is "definitely" closer to being made. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,181 @@ Aston Villa: Unai Emery reaches milestone in win over Lille. Unai Emery becomes 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa: Unai Emery reaches milestone in win over Lille. https://www.bbc.com/sport/football/articles/c6204z3x4jqo?at_medium=RSS&at_campaign=rss
+- bbc.com — Andoni Iraola: Bournemouth boss says decision on future 'definitely' closer. https://www.bbc.com/sport/football/articles/cp32kdpdev4o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Liverpool boss Arne Slot not 'jumping to conclusions' about English clubs in Champions League
+**Slug (lower-third):** Liverpool boss Arne Slot not 'jumping to conclusions' abo…  
+**When:** 2026-03-13 06:05 (America/Winnipeg)  •  **Published:** 2026-03-13 11:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool boss Arne Slot not 'jumping to conclusions' about English clubs in Champions League. Liverpool manager Arne Slot says it is too early to be "jumping to conclusions" about why Premier League clubs struggled in the Champions League this week. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Liverpool boss Arne Slot not 'jumping to conclusions' about English clubs in Champions League. https://www.bbc.com/sport/football/articles/c4gelj59j3jo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Anthony Gordon: Howe defends Newcastle forward after Shearer and Keane criticism
+**Slug (lower-third):** Anthony Gordon: Howe defends Newcastle forward after Shea…  
+**When:** 2026-03-13 05:30 (America/Winnipeg)  •  **Published:** 2026-03-13 10:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Anthony Gordon: Howe defends Newcastle forward after Shearer and Keane criticism. Head coach Eddie Howe says it was his decision not to start Anthony Gordon against Barcelona after the unwell Newcastle United forward was criticised by pundits. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Anthony Gordon: Howe defends Newcastle forward after Shearer and Keane criticism. https://www.bbc.com/sport/football/articles/cdxg5rv41xyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Tony Pulis column: 'You have to convince players your way will work' - The mentality of winning a relegation battle
+**Slug (lower-third):** Tony Pulis column: 'You have to convince players your way…  
+**When:** 2026-03-13 04:48 (America/Winnipeg)  •  **Published:** 2026-03-13 09:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tony Pulis column: 'You have to convince players your way will work' - The mentality of winning a relegation battle. In his BBC Sport column, former Premier League boss Tony Pulis explains how your mindset is as important as your tactics when you are a manager battling relegation. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tony Pulis column: 'You have to convince players your way will work' - The mentality of winning a relegation battle. https://www.bbc.com/sport/football/articles/cvg37ryx1d5o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 6: Reece James: England defender wants to spend 'peak years' at Chelsea after signing long-term deal
+**Slug (lower-third):** Reece James: England defender wants to spend 'peak years'…  
+**When:** 2026-03-13 06:40 (America/Winnipeg)  •  **Published:** 2026-03-13 11:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Reece James: England defender wants to spend 'peak years' at Chelsea after signing long-term deal. Reece James has signed a new six-year contract at Chelsea; The club captains previous deal was set to expire in 2028 | Watch Chelsea vs Newcastle live on Sky Sports on Saturday; kick off 5.30pm Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Reece James: England defender wants to spend 'peak years' at Chelsea after signing long-term deal. https://www.skysports.com/football/news/12040/13519138/reece-james-england-defender-wants-to-spend-peak-years-at-chelsea-after-signing-long-term-deal
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 7: Harry Redknapp reveals if he will return to Spurs ahead of Gold Cup at Cheltenham
+**Slug (lower-third):** Harry Redknapp reveals if he will return to Spurs ahead o…  
+**When:** 2026-03-13 06:45 (America/Winnipeg)  •  **Published:** 2026-03-13 11:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Harry Redknapp reveals if he will return to Spurs ahead of Gold Cup at Cheltenham. Harry Redknapp shared his thoughts on Spurs after being asked if he would return to the club. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Harry Redknapp reveals if he will return to Spurs ahead of Gold Cup at Cheltenham. https://www.skysports.com/watch/video/13519141/harry-redknapp-reveals-if-he-will-return-to-spurs-ahead-of-gold-cup-at-cheltenham
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
+**Slug (lower-third):** Premier League and FPL team news: All your injury and Fan…  
+**When:** 2026-03-13 05:57 (America/Winnipeg)  •  **Published:** 2026-03-13 10:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. https://www.bbc.com/sport/articles/clyv7dk02g2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 9: Thomas Partey: Former Arsenal midfielder intends to deny two charges of rape, court told
+**Slug (lower-third):** Thomas Partey: Former Arsenal midfielder intends to deny …  
+**When:** 2026-03-13 05:46 (America/Winnipeg)  •  **Published:** 2026-03-13 10:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Thomas Partey: Former Arsenal midfielder intends to deny two charges of rape, court told. Thomas Partey charged with two counts of rape relating to one alleged victim in 2020; charges in addition to five counts of rape against two other women, and charge of sexual assault against another woman; Villarreals Partey joined Arsenal from Atletico Madrid in 2020 but left in June Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Thomas Partey: Former Arsenal midfielder intends to deny two charges of rape, court told. https://www.skysports.com/football/news/12040/13519122/thomas-partey-former-arsenal-midfielder-intends-to-deny-two-charges-of-rape-court-told
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +240,13 @@ Aston Villa: Unai Emery reaches milestone in win over Lille. Unai Emery becomes 
 
 ### Club Updates
 
-## Story 3: Football Daily - Nathan Collins - The Football Interview - BBC Sounds
-**Slug (lower-third):** Football Daily - Nathan Collins - The Football Interview …  
-**When:** 2026-03-13 01:00 (America/Winnipeg)  •  **Published:** 2026-03-13 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Newcastle: Anthony Gordon defended by Eddie Howe after Alan Shearer criticises substitute role in Barcelona Champions League tie
+**Slug (lower-third):** Newcastle: Anthony Gordon defended by Eddie Howe after Al…  
+**When:** 2026-03-13 05:28 (America/Winnipeg)  •  **Published:** 2026-03-13 10:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Football Daily - Nathan Collins - The Football Interview - BBC Sounds. Kelly Somers speaks to Brentford and Republic of Ireland captain Nathan Collins. Relevance to standings and momentum.
+Newcastle: Anthony Gordon defended by Eddie Howe after Alan Shearer criticises substitute role in Barcelona Champions League tie. Anthony Gordon began Newcastles Champions League match with Barcelona on bench due to illness, which drew criticism from club legend Alan Shearer; Eddie Howe has defended his player; Watch Chelsea vs Newcastle live on Sky Sports Premier League on Saturday from 5pm; kick-off 5.30pm. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,175 +255,7 @@ Football Daily - Nathan Collins - The Football Interview - BBC Sounds. Kelly Som
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football Daily - Nathan Collins - The Football Interview - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0n5s1vd?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Premier League: 10 things to look out for this weekend
-**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
-**When:** 2026-03-12 19:01 (America/Winnipeg)  •  **Published:** 2026-03-13 00:01 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: 10 things to look out for this weekend. Bukayo Saka could switch to No 10, Brentford's Igor Thiago sets sights on 20-goal mark and a key selection dilemma looms for Chelsea Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2026/mar/13/premier-league-10-things-to-look-out-for-this-weekend
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Premier League Darts: Limping Jonny Clayton wins Night Six against Luke Humphries amid whistling in Nottingham
-**Slug (lower-third):** Premier League Darts: Limping Jonny Clayton wins Night Si…  
-**When:** 2026-03-12 17:55 (America/Winnipeg)  •  **Published:** 2026-03-12 22:55 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Premier League Darts: Limping Jonny Clayton wins Night Six against Luke Humphries amid whistling in Nottingham. Jonny Clayton was suffering with gout but still won Night Six in Nottingham; Luke Humphries secured first win vs Luke Littler in nearly a year; watch Premier League Darts live on Sky Sports every Thursday all the way through until the finale at The O2 in London on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Premier League Darts: Limping Jonny Clayton wins Night Six against Luke Humphries amid whistling in Nottingham. https://www.skysports.com/darts/news/12040/13518108/premier-league-darts-limping-jonny-clayton-wins-night-six-against-luke-humphries-amid-whistling-in-nottingham
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Football gossip: Haaland, Wirtz, Dyche, Lewandowski, Camara, Trippier, Livramento, Alvarez, Bastoni, Barella, Fernandes, El Mala, Keane, Mason
-**Slug (lower-third):** Football gossip: Haaland, Wirtz, Dyche, Lewandowski, Cama…  
-**When:** 2026-03-12 17:54 (America/Winnipeg)  •  **Published:** 2026-03-12 22:54 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Haaland, Wirtz, Dyche, Lewandowski, Camara, Trippier, Livramento, Alvarez, Bastoni, Barella, Fernandes, El Mala, Keane, Mason. Manchester City and Barcelona hold talks over striker Erling Haaland, Manchester United scout West Ham midfielder Mateus Fernandes, Newcastle eye Monaco midfielder Lamine Camara, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Haaland, Wirtz, Dyche, Lewandowski, Camara, Trippier, Livramento, Alvarez, Bastoni, Barella, Fernandes, El Mala, Keane, Mason. https://www.bbc.com/sport/football/articles/ce94ez3lg8do?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Tottenham extend season-ticket deadline amid Premier League relegation fears
-**Slug (lower-third):** Tottenham extend season-ticket deadline amid Premier Leag…  
-**When:** 2026-03-12 17:12 (America/Winnipeg)  •  **Published:** 2026-03-12 22:12 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham extend season-ticket deadline amid Premier League relegation fears. Relegation-threatened Tottenham give their fans "an extended period" to decide if they want to renew their season tickets amid the "seriousness of the current league position". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Tottenham extend season-ticket deadline amid Premier League relegation fears. https://www.bbc.com/sport/football/articles/c3rz0rw2n8go?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Midtjylland weather the storm as Cho stuns wasteful Nottingham Forest
-**Slug (lower-third):** Midtjylland weather the storm as Cho stuns wasteful Notti…  
-**When:** 2026-03-12 17:10 (America/Winnipeg)  •  **Published:** 2026-03-12 22:10 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Midtjylland weather the storm as Cho stuns wasteful Nottingham Forest. Cho Gue-sung scored the only goal late in the game, after Nottingham Forest failed to make the most of their dominance, to secure a 1-0 first leg win for Midtjylland Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Midtjylland weather the storm as Cho stuns wasteful Nottingham Forest. https://www.theguardian.com/football/2026/mar/12/nottingham-forest-midtjylland-europa-league-last-16-first-leg-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Crystal Palace frustrated by Larnaca again in Conference League draw
-**Slug (lower-third):** Crystal Palace frustrated by Larnaca again in Conference …  
-**When:** 2026-03-12 17:05 (America/Winnipeg)  •  **Published:** 2026-03-12 22:05 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Crystal Palace frustrated by Larnaca again in Conference League draw. Jean-Philippe Mateta came closest to scoring as a second-half substitute in Crystal Palace's 0-0 draw with Larnaca in the Conference League last-16 first leg Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Crystal Palace frustrated by Larnaca again in Conference League draw. https://www.theguardian.com/football/2026/mar/12/crystal-palace-larnaca-conference-league-last-16-first-leg-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Nottingham Forest 0-1 FC Midtjylland: Vitor Pereira's side beaten in Europa League round of 16 first leg
-**Slug (lower-third):** Nottingham Forest 0-1 FC Midtjylland: Vitor Pereira's sid…  
-**When:** 2026-03-12 17:00 (America/Winnipeg)  •  **Published:** 2026-03-12 22:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Nottingham Forest 0-1 FC Midtjylland: Vitor Pereira's side beaten in Europa League round of 16 first leg. Nottingham Forest's profligacy was punished late on by FC Midtjylland as they fell to a 1-0 first-leg defeat in the Europa League round of 16 in treacherous conditions at the City Ground. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Nottingham Forest 0-1 FC Midtjylland: Vitor Pereira's side beaten in Europa League round of 16 first leg. https://www.skysports.com/football/nottingham-forest-vs-fc-midtjylland/report/554931
+- skysports.com — Newcastle: Anthony Gordon defended by Eddie Howe after Alan Shearer criticises substitute role in Barcelona Champions League tie. https://www.skysports.com/football/news/12040/13519103/newcastle-anthony-gordon-defended-by-eddie-howe-after-alan-shearer-criticises-substitute-role-in-barcelona-champions-league-tie
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
