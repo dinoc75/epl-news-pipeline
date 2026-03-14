@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-14 07:56 (America/Winnipeg)  |  2026-03-14 12:56 (UTC)
+**Generated:** 2026-03-14 13:41 (America/Winnipeg)  |  2026-03-14 18:41 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 31s
+**Estimated total video length:** ~3m 23s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- 'This is an unusual thing': Aston Villa Women's female leadership look to blaze a trail
-- Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing excellent job as interim head coach
-- Premier League quiz: Name the teams who have stayed up after winning Championship play-offs
+- Burnley 0-0 Bournemouth: Scott Parker post-match interview
+- Sunderland 0-1 Brighton: Regis Le Bris post-match interview
+- Sunderland 0-1 Brighton: Yankuba Minteh interview with Final Score after winning goal
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing excellent job as interim head coach
-**Slug (lower-third):** Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing …  
-**When:** 2026-03-14 06:59 (America/Winnipeg)  •  **Published:** 2026-03-14 11:59 (UTC)  
+## Story 1: Burnley 0-0 Bournemouth: Scott Parker post-match interview
+**Slug (lower-third):** Burnley 0-0 Bournemouth: Scott Parker post-match interview  
+**When:** 2026-03-14 13:36 (America/Winnipeg)  •  **Published:** 2026-03-14 18:36 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing excellent job as interim head coach. Manchester United co-owner Sir Jim Ratcliffe says Michael Carrick is doing an excellent job at Old Trafford but refuses to be drawn on whether he will get the role on a permanent basis. Relevance to standings and momentum.
+Burnley 0-0 Bournemouth: Scott Parker post-match interview. Burnley manager Scott Parker says his side remain focused and continue to work hard to avoid relegation, as The Clarets settle for a 0-0 draw at home to Bournemouth in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing excellent job as interi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing excellent job as interim head coach. https://www.bbc.com/sport/football/articles/cm2x4z79zvko?at_medium=RSS&at_campaign=rss
+- bbc.com — Burnley 0-0 Bournemouth: Scott Parker post-match interview. https://www.bbc.com/sport/football/videos/c1l71838qqqo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing excellent job as interi
 
 ---
 
-## Story 2: Sir Jim Ratcliffe says Michael Carrick doing 'excellent job' at Manchester United but refuses to discuss chances of permanent job
-**Slug (lower-third):** Sir Jim Ratcliffe says Michael Carrick doing 'excellent j…  
-**When:** 2026-03-14 04:35 (America/Winnipeg)  •  **Published:** 2026-03-14 09:35 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+## Story 2: Sunderland 0-1 Brighton: Regis Le Bris post-match interview
+**Slug (lower-third):** Sunderland 0-1 Brighton: Regis Le Bris post-match intervi…  
+**When:** 2026-03-14 13:31 (America/Winnipeg)  •  **Published:** 2026-03-14 18:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sir Jim Ratcliffe says Michael Carrick doing 'excellent job' at Manchester United but refuses to discuss chances of permanent job. Michael Carrick has won six of eight games since being appointed on short-term deal; Ratcliffe - speaking to Sky Sports in Shanghai - stops short of backing Carrick for full-time job ;watch Man Utd vs Aston Villa live on Sky Sports Premier League on Sunday - kick-off 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sunderland 0-1 Brighton: Regis Le Bris post-match interview. Sunderland manager Regis Le Bris hopes his side will "learn alot" from the "relentless" nature of the Premier League, as the Black Cats suffer their third consecutive home defeat, losing 1-0 to Brighton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Sir Jim Ratcliffe says Michael Carrick doing 'excellent job' at Manchester Unite
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sir Jim Ratcliffe says Michael Carrick doing 'excellent job' at Manchester United but refuses to discuss chances of permanent job. https://www.skysports.com/football/news/12040/13519531/sir-jim-ratcliffe-says-michael-carrick-doing-excellent-job-at-manchester-united-but-refuses-to-discuss-chances-of-permanent-job
+- bbc.com — Sunderland 0-1 Brighton: Regis Le Bris post-match interview. https://www.bbc.com/sport/football/videos/ceqve2qnv17o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,15 +64,15 @@ Sir Jim Ratcliffe says Michael Carrick doing 'excellent job' at Manchester Unite
 
 ---
 
-### League & Regulation
+### Injuries
 
-## Story 3: Pep Guardiola: Title race 'over' if Man City don't beat West Ham
-**Slug (lower-third):** Pep Guardiola: Title race 'over' if Man City don't beat W…  
-**When:** 2026-03-13 23:53 (America/Winnipeg)  •  **Published:** 2026-03-14 04:53 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 3: 'They know where I am' - could Harry Redknapp return to manage Tottenham?
+**Slug (lower-third):** 'They know where I am' - could Harry Redknapp return to m…  
+**When:** 2026-03-14 12:47 (America/Winnipeg)  •  **Published:** 2026-03-14 17:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Pep Guardiola: Title race 'over' if Man City don't beat West Ham. Pep Guardiola admits Manchester City do not have "many dollars in the bank" to mount a fightback against Real Madrid -- but insists his first priority is a must-win clash against West Ham. Disciplinary outcome could affect availability.
+'They know where I am' - could Harry Redknapp return to manage Tottenham?. Former Tottenham boss Harry Redknapp says the Spurs hierarchy "know where I am" if they decide to replace interim boss Igor Tudor a so could the 79-year-old make a sensational return to management? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,8 +81,7 @@ Pep Guardiola: Title race 'over' if Man City don't beat West Ham. Pep Guardiola 
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Pep Guardiola: Title race 'over' if Man City don't beat West Ham. https://www.espn.com/soccer/story/_/id/48195413/pep-guardiola-title-race-man-city-west-ham-premier-league-arsenal-real-madrid
-- bbc.com — Pep Guardiola: Manchester City boss says title race is over if they drop points at West Ham. https://www.bbc.com/sport/football/articles/crk838rpv50o?at_medium=RSS&at_campaign=rss
+- bbc.com — 'They know where I am' - could Harry Redknapp return to manage Tottenham?. https://www.bbc.com/sport/football/articles/cj6dj53drdgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -93,13 +92,13 @@ Pep Guardiola: Title race 'over' if Man City don't beat West Ham. Pep Guardiola 
 
 ### Club Updates
 
-## Story 4: 'This is an unusual thing': Aston Villa Women's female leadership look to blaze a trail
-**Slug (lower-third):** 'This is an unusual thing': Aston Villa Women's female le…  
-**When:** 2026-03-14 07:00 (America/Winnipeg)  •  **Published:** 2026-03-14 12:00 (UTC)  
+## Story 4: Sunderland 0-1 Brighton: Yankuba Minteh interview with Final Score after winning goal
+**Slug (lower-third):** Sunderland 0-1 Brighton: Yankuba Minteh interview with Fi…  
+**When:** 2026-03-14 13:27 (America/Winnipeg)  •  **Published:** 2026-03-14 18:27 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'This is an unusual thing': Aston Villa Women's female leadership look to blaze a trail. Natalia Arroyo, Marisa Ewers and Maggie Murphy are savouring their autonomy in the club's major roles and are aiming high amid tough challenges Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sunderland 0-1 Brighton: Yankuba Minteh interview with Final Score after winning goal. Yankuba Minteh is interviewed by Final Score's Jason Mohammed after the Brighton forward scores the winning goal against Sunderland in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -108,7 +107,7 @@ Pep Guardiola: Title race 'over' if Man City don't beat West Ham. Pep Guardiola 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'This is an unusual thing': Aston Villa Women's female leadership look to blaze a trail. https://www.theguardian.com/football/2026/mar/14/a-big-responsibility-aston-villa-womens-female-leadership-look-to-blaze-a-trail
+- bbc.com — Sunderland 0-1 Brighton: Yankuba Minteh interview with Final Score after winning goal. https://www.bbc.com/sport/football/videos/cg4g71g4ww1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -117,13 +116,37 @@ Pep Guardiola: Title race 'over' if Man City don't beat West Ham. Pep Guardiola 
 
 ---
 
-## Story 5: Premier League quiz: Name the teams who have stayed up after winning Championship play-offs
-**Slug (lower-third):** Premier League quiz: Name the teams who have stayed up af…  
-**When:** 2026-03-14 04:37 (America/Winnipeg)  •  **Published:** 2026-03-14 09:37 (UTC)  
+## Story 5: Championship talking points: Ipswich capitalise on slip-ups around them as promotion race twists again
+**Slug (lower-third):** Championship talking points: Ipswich capitalise on slip-u…  
+**When:** 2026-03-14 13:00 (America/Winnipeg)  •  **Published:** 2026-03-14 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Championship talking points: Ipswich capitalise on slip-ups around them as promotion race twists again. The Sky Sports Football writers analyse the weekends Championship action as Ipswich were the only side in the top five to win on Saturday. Watch Portsmouth vs Derby live on Sky Sports Football from 7.30pm on Monday night; kick-off 8pm. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Championship talking points: Ipswich capitalise on slip-ups around them as promotion race twists again. https://www.skysports.com/football/news/12040/13519543/championship-talking-points-ipswich-capitalise-on-slip-ups-around-them-as-promotion-race-twists-again
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Chelsea huddle: Bizarre scenes as Chelsea huddle around ref Paul Tierney before kick-off!
+**Slug (lower-third):** Chelsea huddle: Bizarre scenes as Chelsea huddle around r…  
+**When:** 2026-03-14 12:38 (America/Winnipeg)  •  **Published:** 2026-03-14 17:38 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League quiz: Name the teams who have stayed up after winning Championship play-offs. Sunderland went up as Championship play-off winners last season and look set for Premier League survival this campaign. Relevance to standings and momentum.
+Chelsea huddle: Bizarre scenes as Chelsea huddle around ref Paul Tierney before kick-off!. Chelseas pre-match huddle featured a special guest ahead of kick-off against Newcastle! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,7 +155,7 @@ Premier League quiz: Name the teams who have stayed up after winning Championshi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League quiz: Name the teams who have stayed up after winning Championship play-offs. https://www.bbc.com/sport/football/articles/c5ygj30237zo?at_medium=RSS&at_campaign=rss
+- skysports.com — Chelsea huddle: Bizarre scenes as Chelsea huddle around ref Paul Tierney before kick-off!. https://www.skysports.com/watch/video/13519761/chelsea-huddle-bizarre-scenes-as-chelsea-huddle-around-ref-paul-tierney-before-kick-off
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,13 +164,13 @@ Premier League quiz: Name the teams who have stayed up after winning Championshi
 
 ---
 
-## Story 6: Arsenal: What's going on with Myles Lewis-Skelly?
-**Slug (lower-third):** Arsenal: What's going on with Myles Lewis-Skelly?  
-**When:** 2026-03-14 04:16 (America/Winnipeg)  •  **Published:** 2026-03-14 09:16 (UTC)  
+## Story 7: Evanilson denied as Burnley draw dents Bournemouth's European hopes
+**Slug (lower-third):** Evanilson denied as Burnley draw dents Bournemouth's Euro…  
+**When:** 2026-03-14 12:20 (America/Winnipeg)  •  **Published:** 2026-03-14 17:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal: What's going on with Myles Lewis-Skelly?. A year after starring in the Champions League against Real Madrid, Myles Lewis-Skelly is struggling for game time - what has happened? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Evanilson denied as Burnley draw dents Bournemouth's European hopes. Both teams hit the post in Burnley's 0-0 draw against Bournemouth, a result that little to boost their respective relegation and promotion hopes Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,7 +179,7 @@ Arsenal: What's going on with Myles Lewis-Skelly?. A year after starring in the 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arsenal: What's going on with Myles Lewis-Skelly?. https://www.bbc.com/sport/football/articles/c4gj7kxny1no?at_medium=RSS&at_campaign=rss
+- theguardian.com — Evanilson denied as Burnley draw dents Bournemouth's European hopes. https://www.theguardian.com/football/2026/mar/14/burnley-bournemouth-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -165,13 +188,13 @@ Arsenal: What's going on with Myles Lewis-Skelly?. A year after starring in the 
 
 ---
 
-## Story 7: Women's League Cup final: Chelsea v Man Utd - but who needs win more?
-**Slug (lower-third):** Women's League Cup final: Chelsea v Man Utd - but who nee…  
-**When:** 2026-03-14 03:48 (America/Winnipeg)  •  **Published:** 2026-03-14 08:48 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 8: Leicester City 1-3 Queens Park Rangers: Foxes plunged further into relegation jeopardy after QPR comeback win
+**Slug (lower-third):** Leicester City 1-3 Queens Park Rangers: Foxes plunged fur…  
+**When:** 2026-03-14 12:15 (America/Winnipeg)  •  **Published:** 2026-03-14 17:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Women's League Cup final: Chelsea v Man Utd - but who needs win more?. Chelsea and Manchester United will battle to lift the Women's League Cup trophy on Sunday - but who needs the success more? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Leicester City 1-3 Queens Park Rangers: Foxes plunged further into relegation jeopardy after QPR comeback win. QPR ended a dismal run of four-successive Championship defeats by claiming a 3-1 comeback victory over Leicester at the King Power Stadium to deepen the Foxes' relegation worries. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -180,7 +203,7 @@ Women's League Cup final: Chelsea v Man Utd - but who needs win more?. Chelsea a
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Women's League Cup final: Chelsea v Man Utd - but who needs win more?. https://www.bbc.com/sport/football/articles/cj6d4ex9l7lo?at_medium=RSS&at_campaign=rss
+- skysports.com — Leicester City 1-3 Queens Park Rangers: Foxes plunged further into relegation jeopardy after QPR comeback win. https://www.skysports.com/football/leicester-city-vs-queens-park-rangers/report/534765
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -189,13 +212,13 @@ Women's League Cup final: Chelsea v Man Utd - but who needs win more?. Chelsea a
 
 ---
 
-## Story 8: What happened the last time Spurs were relegated and are there lessons to learn?
-**Slug (lower-third):** What happened the last time Spurs were relegated and are …  
-**When:** 2026-03-14 03:00 (America/Winnipeg)  •  **Published:** 2026-03-14 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 9: Sheffield Wednesday 0-2 Ipswich Town: Ivan Azon and Jack Clarke's penalty lift Tractor Boys up to third
+**Slug (lower-third):** Sheffield Wednesday 0-2 Ipswich Town: Ivan Azon and Jack …  
+**When:** 2026-03-14 12:15 (America/Winnipeg)  •  **Published:** 2026-03-14 17:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-What happened the last time Spurs were relegated and are there lessons to learn?. It was a big shock when Keith Burkinshaw's talented side went down in 1977 - but will the current team avoid the same fate? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sheffield Wednesday 0-2 Ipswich Town: Ivan Azon and Jack Clarke's penalty lift Tractor Boys up to third. Ipswich climbed up to third in the Sky Bet Championship as goals from Ivan Azon and Jack Clarke earned them a 2-0 victory over relegated Sheffield Wednesday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -204,7 +227,7 @@ What happened the last time Spurs were relegated and are there lessons to learn?
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — What happened the last time Spurs were relegated and are there lessons to learn?. https://www.theguardian.com/football/2026/mar/14/tottenham-relegation-1977-lessons-to-learn
+- skysports.com — Sheffield Wednesday 0-2 Ipswich Town: Ivan Azon and Jack Clarke's penalty lift Tractor Boys up to third. https://www.skysports.com/football/sheffield-wednesday-vs-ipswich-town/report/534771
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -213,13 +236,13 @@ What happened the last time Spurs were relegated and are there lessons to learn?
 
 ---
 
-## Story 9: Today on Sky Sports Racing: Fontwell, Newcastle, Southwell and Uttoxeter feature live on Saturday
-**Slug (lower-third):** Today on Sky Sports Racing: Fontwell, Newcastle, Southwel…  
-**When:** 2026-03-14 02:00 (America/Winnipeg)  •  **Published:** 2026-03-14 07:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~21s
+## Story 10: Sunderland need to stay hungry to progress in Premier League - director of football Ghisolfi
+**Slug (lower-third):** Sunderland need to stay hungry to progress in Premier Lea…  
+**When:** 2026-03-14 10:54 (America/Winnipeg)  •  **Published:** 2026-03-14 15:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Fontwell, Newcastle, Southwell and Uttoxeter feature live on Saturday. In Saturdays feature, JArrive De LEst and Aworkinprogress head the market for what looks another open edition of the Midlands National at Uttoxeter; we also have competitive action from Fontwell, Newcastle and Southwell, live on Sky Sports Racing from 1.25pm Relevance to standings and momentum.
+Sunderland need to stay hungry to progress in Premier League - director of football Ghisolfi. Sunderland's director of football Florent Ghisolfi joins the Football Focus team at the Stadium of Light to talk about the club's objectives in the short and long term. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -228,31 +251,7 @@ Today on Sky Sports Racing: Fontwell, Newcastle, Southwell and Uttoxeter feature
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Fontwell, Newcastle, Southwell and Uttoxeter feature live on Saturday. https://www.skysports.com/racing/news/12040/13518811/today-on-sky-sports-racing-fontwell-newcastle-southwell-and-uttoxeter-feature-live-on-saturday
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Brentford and Ireland captain Nathan Collins on World Cup dreams
-**Slug (lower-third):** Brentford and Ireland captain Nathan Collins on World Cup…  
-**When:** 2026-03-14 01:15 (America/Winnipeg)  •  **Published:** 2026-03-14 06:15 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Brentford and Ireland captain Nathan Collins on World Cup dreams. Brentford and Republic of Ireland captain Nathan Collins tells Kelly Somers about his dreams of the World Cup. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Brentford and Ireland captain Nathan Collins on World Cup dreams. https://www.bbc.com/sport/football/articles/ckgldyd23j3o?at_medium=RSS&at_campaign=rss
+- bbc.com — Sunderland need to stay hungry to progress in Premier League - director of football Ghisolfi. https://www.bbc.com/sport/football/videos/c3v7qpq66nvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
