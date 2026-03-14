@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-14 01:51 (America/Winnipeg)  |  2026-03-14 06:51 (UTC)
+**Generated:** 2026-03-14 07:56 (America/Winnipeg)  |  2026-03-14 12:56 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~4m 31s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Brentford and Ireland captain Nathan Collins on World Cup dreams
-- Football gossip: Rashford, Tudor, Goretzka, Hojlund, Carrick Adams, Bastoni
-- Man Utd open to selling Mason Mount, Manuel Ugarte and three other players this summer - Paper talk and football transfer gossip
+- 'This is an unusual thing': Aston Villa Women's female leadership look to blaze a trail
+- Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing excellent job as interim head coach
+- Premier League quiz: Name the teams who have stayed up after winning Championship play-offs
 
 ---
 
 ### Managerial Moves
 
-## Story 1: 'You can cry or fight': Igor Tudor orders struggling Spurs to stop playing the victim
-**Slug (lower-third):** 'You can cry or fight': Igor Tudor orders struggling Spur…  
-**When:** 2026-03-13 17:30 (America/Winnipeg)  •  **Published:** 2026-03-13 22:30 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 1: Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing excellent job as interim head coach
+**Slug (lower-third):** Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing …  
+**When:** 2026-03-14 06:59 (America/Winnipeg)  •  **Published:** 2026-03-14 11:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'You can cry or fight': Igor Tudor orders struggling Spurs to stop playing the victim. The interim manager has told his Tottenham players to stand up and fight rather than wallow in the role of victims Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing excellent job as interim head coach. Manchester United co-owner Sir Jim Ratcliffe says Michael Carrick is doing an excellent job at Old Trafford but refuses to be drawn on whether he will get the role on a permanent basis. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'You can cry or fight': Igor Tudor orders struggling Spurs to stop playing the victim. https://www.theguardian.com/football/2026/mar/13/igor-tudor-spurs-victim-cry-or-fight
+- bbc.com — Man Utd: Sir Jim Ratcliffe says Michael Carrick is doing excellent job as interim head coach. https://www.bbc.com/sport/football/articles/cm2x4z79zvko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ---
 
-## Story 2: 'Every time I lose, boom': Guardiola offers feisty defence of City's tactics
-**Slug (lower-third):** 'Every time I lose, boom': Guardiola offers feisty defenc…  
-**When:** 2026-03-13 17:30 (America/Winnipeg)  •  **Published:** 2026-03-13 22:30 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 2: Sir Jim Ratcliffe says Michael Carrick doing 'excellent job' at Manchester United but refuses to discuss chances of permanent job
+**Slug (lower-third):** Sir Jim Ratcliffe says Michael Carrick doing 'excellent j…  
+**When:** 2026-03-14 04:35 (America/Winnipeg)  •  **Published:** 2026-03-14 09:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-'Every time I lose, boom': Guardiola offers feisty defence of City's tactics. The Manchester City manager pointed to his 17-year record in the Champions League during a four-and-a-half-minute speech Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sir Jim Ratcliffe says Michael Carrick doing 'excellent job' at Manchester United but refuses to discuss chances of permanent job. Michael Carrick has won six of eight games since being appointed on short-term deal; Ratcliffe - speaking to Sky Sports in Shanghai - stops short of backing Carrick for full-time job ;watch Man Utd vs Aston Villa live on Sky Sports Premier League on Sunday - kick-off 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'Every time I lose, boom': Guardiola offers feisty defence of City's tactics. https://www.theguardian.com/football/2026/mar/13/pep-guardiola-feisty-defence-manchester-city-tactics
+- skysports.com — Sir Jim Ratcliffe says Michael Carrick doing 'excellent job' at Manchester United but refuses to discuss chances of permanent job. https://www.skysports.com/football/news/12040/13519531/sir-jim-ratcliffe-says-michael-carrick-doing-excellent-job-at-manchester-united-but-refuses-to-discuss-chances-of-permanent-job
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +64,15 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ---
 
-## Story 3: Pep Guardiola: Man City boss defends selection against Real Madrid
-**Slug (lower-third):** Pep Guardiola: Man City boss defends selection against Re…  
-**When:** 2026-03-13 11:18 (America/Winnipeg)  •  **Published:** 2026-03-13 16:18 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+### League & Regulation
+
+## Story 3: Pep Guardiola: Title race 'over' if Man City don't beat West Ham
+**Slug (lower-third):** Pep Guardiola: Title race 'over' if Man City don't beat W…  
+**When:** 2026-03-13 23:53 (America/Winnipeg)  •  **Published:** 2026-03-14 04:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pep Guardiola: Man City boss defends selection against Real Madrid. Manchester City manager Pep Guardiola defends his team selection for their 3-0 defeat by Real Madrid in the Champions League last-16 first leg. Relevance to standings and momentum.
+Pep Guardiola: Title race 'over' if Man City don't beat West Ham. Pep Guardiola admits Manchester City do not have "many dollars in the bank" to mount a fightback against Real Madrid -- but insists his first priority is a must-win clash against West Ham. Disciplinary outcome could affect availability.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,107 +81,8 @@ Pep Guardiola: Man City boss defends selection against Real Madrid. Manchester C
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Pep Guardiola: Man City boss defends selection against Real Madrid. https://www.bbc.com/sport/football/videos/cq6q3qv36m1o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 4: Man Utd open to selling Mason Mount, Manuel Ugarte and three other players this summer - Paper talk and football transfer gossip
-**Slug (lower-third):** Man Utd open to selling Mason Mount, Manuel Ugarte and th…  
-**When:** 2026-03-13 17:58 (America/Winnipeg)  •  **Published:** 2026-03-13 22:58 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Man Utd open to selling Mason Mount, Manuel Ugarte and three other players this summer - Paper talk and football transfer gossip. Latest from Saturdays papers: Arsenal have approached Declan Rice over a new long-term deal; Aston Villa are braced for transfer interest in Morgan Rogers and Youri Tielemans; Barcelona could target Chelsea winger Pedro Neto as a Marcus Rashford alternative Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Man Utd open to selling Mason Mount, Manuel Ugarte and three other players this summer - Paper talk and football transfer gossip. https://www.skysports.com/football/news/12040/13519407/man-utd-open-to-selling-mason-mount-manuel-ugarte-and-three-other-players-this-summer-paper-talk-and-football-transfer-gossip
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: England's Lauren James signs new deal with Chelsea until 2030
-**Slug (lower-third):** England's Lauren James signs new deal with Chelsea until …  
-**When:** 2026-03-13 15:26 (America/Winnipeg)  •  **Published:** 2026-03-13 20:26 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-England's Lauren James signs new deal with Chelsea until 2030. England forward Lauren James signs a new contract with Chelsea, keeping her at the club until 2030. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — England's Lauren James signs new deal with Chelsea until 2030. https://www.bbc.com/sport/football/articles/cgl57390kjlo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 6: Football gossip: Rashford, Tudor, Goretzka, Hojlund, Carrick Adams, Bastoni
-**Slug (lower-third):** Football gossip: Rashford, Tudor, Goretzka, Hojlund, Carr…  
-**When:** 2026-03-13 18:48 (America/Winnipeg)  •  **Published:** 2026-03-13 23:48 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Rashford, Tudor, Goretzka, Hojlund, Carrick Adams, Bastoni. Marcus Rashford could return to Manchester United in the summer, Tottenham look at potential replacements for Igor Tudor, Arsenal prepare Leon Goretzka deal. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Rashford, Tudor, Goretzka, Hojlund, Carrick Adams, Bastoni. https://www.bbc.com/sport/football/articles/czj1zgrx3lyo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Premier League news: Arteta denies his team 'block' at set pieces; Slot rues Isak absence
-**Slug (lower-third):** Premier League news: Arteta denies his team 'block' at se…  
-**When:** 2026-03-13 17:30 (America/Winnipeg)  •  **Published:** 2026-03-13 22:30 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League news: Arteta denies his team 'block' at set pieces; Slot rues Isak absence. Michael Carrick says Harry Maguire is ready for England return, while Liam Rosenior is happy with Chelsea's keeper dilemma Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League news: Arteta denies his team 'block' at set pieces; Slot rues Isak absence. https://www.theguardian.com/football/2026/mar/13/premier-league-news-manchester-united-chelsea-liverpool-arsenal-newcastle
+- espn.com — Pep Guardiola: Title race 'over' if Man City don't beat West Ham. https://www.espn.com/soccer/story/_/id/48195413/pep-guardiola-title-race-man-city-west-ham-premier-league-arsenal-real-madrid
+- bbc.com — Pep Guardiola: Manchester City boss says title race is over if they drop points at West Ham. https://www.bbc.com/sport/football/articles/crk838rpv50o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,10 +93,154 @@ Premier League news: Arteta denies his team 'block' at set pieces; Slot rues Isa
 
 ### Club Updates
 
-## Story 8: Brentford and Ireland captain Nathan Collins on World Cup dreams
+## Story 4: 'This is an unusual thing': Aston Villa Women's female leadership look to blaze a trail
+**Slug (lower-third):** 'This is an unusual thing': Aston Villa Women's female le…  
+**When:** 2026-03-14 07:00 (America/Winnipeg)  •  **Published:** 2026-03-14 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'This is an unusual thing': Aston Villa Women's female leadership look to blaze a trail. Natalia Arroyo, Marisa Ewers and Maggie Murphy are savouring their autonomy in the club's major roles and are aiming high amid tough challenges Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'This is an unusual thing': Aston Villa Women's female leadership look to blaze a trail. https://www.theguardian.com/football/2026/mar/14/a-big-responsibility-aston-villa-womens-female-leadership-look-to-blaze-a-trail
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Premier League quiz: Name the teams who have stayed up after winning Championship play-offs
+**Slug (lower-third):** Premier League quiz: Name the teams who have stayed up af…  
+**When:** 2026-03-14 04:37 (America/Winnipeg)  •  **Published:** 2026-03-14 09:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League quiz: Name the teams who have stayed up after winning Championship play-offs. Sunderland went up as Championship play-off winners last season and look set for Premier League survival this campaign. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League quiz: Name the teams who have stayed up after winning Championship play-offs. https://www.bbc.com/sport/football/articles/c5ygj30237zo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Arsenal: What's going on with Myles Lewis-Skelly?
+**Slug (lower-third):** Arsenal: What's going on with Myles Lewis-Skelly?  
+**When:** 2026-03-14 04:16 (America/Winnipeg)  •  **Published:** 2026-03-14 09:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal: What's going on with Myles Lewis-Skelly?. A year after starring in the Champions League against Real Madrid, Myles Lewis-Skelly is struggling for game time - what has happened? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arsenal: What's going on with Myles Lewis-Skelly?. https://www.bbc.com/sport/football/articles/c4gj7kxny1no?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Women's League Cup final: Chelsea v Man Utd - but who needs win more?
+**Slug (lower-third):** Women's League Cup final: Chelsea v Man Utd - but who nee…  
+**When:** 2026-03-14 03:48 (America/Winnipeg)  •  **Published:** 2026-03-14 08:48 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Women's League Cup final: Chelsea v Man Utd - but who needs win more?. Chelsea and Manchester United will battle to lift the Women's League Cup trophy on Sunday - but who needs the success more? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Women's League Cup final: Chelsea v Man Utd - but who needs win more?. https://www.bbc.com/sport/football/articles/cj6d4ex9l7lo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: What happened the last time Spurs were relegated and are there lessons to learn?
+**Slug (lower-third):** What happened the last time Spurs were relegated and are …  
+**When:** 2026-03-14 03:00 (America/Winnipeg)  •  **Published:** 2026-03-14 08:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+What happened the last time Spurs were relegated and are there lessons to learn?. It was a big shock when Keith Burkinshaw's talented side went down in 1977 - but will the current team avoid the same fate? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — What happened the last time Spurs were relegated and are there lessons to learn?. https://www.theguardian.com/football/2026/mar/14/tottenham-relegation-1977-lessons-to-learn
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Today on Sky Sports Racing: Fontwell, Newcastle, Southwell and Uttoxeter feature live on Saturday
+**Slug (lower-third):** Today on Sky Sports Racing: Fontwell, Newcastle, Southwel…  
+**When:** 2026-03-14 02:00 (America/Winnipeg)  •  **Published:** 2026-03-14 07:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Today on Sky Sports Racing: Fontwell, Newcastle, Southwell and Uttoxeter feature live on Saturday. In Saturdays feature, JArrive De LEst and Aworkinprogress head the market for what looks another open edition of the Midlands National at Uttoxeter; we also have competitive action from Fontwell, Newcastle and Southwell, live on Sky Sports Racing from 1.25pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Today on Sky Sports Racing: Fontwell, Newcastle, Southwell and Uttoxeter feature live on Saturday. https://www.skysports.com/racing/news/12040/13518811/today-on-sky-sports-racing-fontwell-newcastle-southwell-and-uttoxeter-feature-live-on-saturday
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Brentford and Ireland captain Nathan Collins on World Cup dreams
 **Slug (lower-third):** Brentford and Ireland captain Nathan Collins on World Cup…  
 **When:** 2026-03-14 01:15 (America/Winnipeg)  •  **Published:** 2026-03-14 06:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Brentford and Ireland captain Nathan Collins on World Cup dreams. Brentford and Republic of Ireland captain Nathan Collins tells Kelly Somers about his dreams of the World Cup. Relevance to standings and momentum.
@@ -206,54 +253,6 @@ Brentford and Ireland captain Nathan Collins on World Cup dreams. Brentford and 
 
 ### Sources
 - bbc.com — Brentford and Ireland captain Nathan Collins on World Cup dreams. https://www.bbc.com/sport/football/articles/ckgldyd23j3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Steve Cram on Sunderland's rise from League One to Premier League
-**Slug (lower-third):** Steve Cram on Sunderland's rise from League One to Premie…  
-**When:** 2026-03-13 13:20 (America/Winnipeg)  •  **Published:** 2026-03-13 18:20 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Steve Cram on Sunderland's rise from League One to Premier League. Sunderland fan and BBC Sport commentator Steve Cram charts the highs and lows of supporting the Black Cats, from the depths of League One to the dizzy heights of the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Steve Cram on Sunderland's rise from League One to Premier League. https://www.bbc.com/sport/football/videos/c4g25438d5zo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Igor Tudor exclusive: Spurs boss says a new coach won't instantly change club's problems
-**Slug (lower-third):** Igor Tudor exclusive: Spurs boss says a new coach won't i…  
-**When:** 2026-03-13 12:00 (America/Winnipeg)  •  **Published:** 2026-03-13 17:00 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Igor Tudor exclusive: Spurs boss says a new coach won't instantly change club's problems. Igor Tudor speaks exclusively to Sky Sports as he discusses Tottenhams problems and his belief that he can turn things around at the north London club; watch Liverpool vs Tottenham live on Super Sunday on Sky Sports; kick-off 4.30pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Igor Tudor exclusive: Spurs boss says a new coach won't instantly change club's problems. https://www.skysports.com/football/news/12040/13519257/igor-tudor-exclusive-spurs-boss-says-a-new-coach-wont-instantly-change-clubs-problems
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
