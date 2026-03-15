@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-15 07:58 (America/Winnipeg)  |  2026-03-15 12:58 (UTC)
+**Generated:** 2026-03-15 13:42 (America/Winnipeg)  |  2026-03-15 18:42 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- WSL FREE STREAMS: Watch London City Lionesses vs Arsenal, Liverpool vs Leicester and Tottenham vs Everton
-- Ellen White discusses pregnancy with Manchester United's Celin Bizet Donnum
-- Nerves were meant to afflict Arsenal, but Manchester City lack that energy | Barney Ronay
+- Crystal Palace 0-0 Leeds United: Oliver Glasner post-match interview
+- Man United 3-1 Aston Villa: Unai Emery post-match interview
+- Ashley Cole: Former England defender appointed manager of Serie B side Cesena
 
 ---
 
 ### Managerial Moves
 
-## Story 1: West Ham United 1-1 Manchester City: Pep Guardiola post-match interview
-**Slug (lower-third):** West Ham United 1-1 Manchester City: Pep Guardiola post-m…  
-**When:** 2026-03-14 18:23 (America/Winnipeg)  •  **Published:** 2026-03-14 23:23 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 1: Crystal Palace 0-0 Leeds United: Oliver Glasner post-match interview
+**Slug (lower-third):** Crystal Palace 0-0 Leeds United: Oliver Glasner post-matc…  
+**When:** 2026-03-15 13:33 (America/Winnipeg)  •  **Published:** 2026-03-15 18:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham United 1-1 Manchester City: Pep Guardiola post-match interview. Manchester City manager Pep Guardiola says his side still have "hope" in the title race but admits they lack consistency compared to previous seasons, after their 1-1 draw at West Ham. Relevance to standings and momentum.
+Crystal Palace 0-0 Leeds United: Oliver Glasner post-match interview. Crystal Palace manager Oliver Glasner says his side are "losing our structure" going forward and need to stay "calm" pursuing a winning goal, as the Eagles play out a goalless draw with Leeds United at Selhurst Park. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,79 @@ West Ham United 1-1 Manchester City: Pep Guardiola post-match interview. Manches
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — West Ham United 1-1 Manchester City: Pep Guardiola post-match interview. https://www.bbc.com/sport/football/videos/cvgvj7l40qgo?at_medium=RSS&at_campaign=rss
+- bbc.com — Crystal Palace 0-0 Leeds United: Oliver Glasner post-match interview. https://www.bbc.com/sport/football/videos/c8egz33wjgeo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Man United 3-1 Aston Villa: Unai Emery post-match interview
+**Slug (lower-third):** Man United 3-1 Aston Villa: Unai Emery post-match intervi…  
+**When:** 2026-03-15 13:18 (America/Winnipeg)  •  **Published:** 2026-03-15 18:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man United 3-1 Aston Villa: Unai Emery post-match interview. Aston Villa manager Unai Emery admits his side were unable to "control" enough possession of the ball to contain Manchester United as Villa suffer a 3-1 defeat at Old Trafford. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Man United 3-1 Aston Villa: Unai Emery post-match interview. https://www.bbc.com/sport/football/videos/ce8nr7l8623o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Ashley Cole: Former England defender appointed manager of Serie B side Cesena
+**Slug (lower-third):** Ashley Cole: Former England defender appointed manager of…  
+**When:** 2026-03-15 12:28 (America/Winnipeg)  •  **Published:** 2026-03-15 17:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ashley Cole: Former England defender appointed manager of Serie B side Cesena. Former Arsenal and Chelsea defender Ashley Cole appointed manager of Serie B side Cesena until the end of the season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Ashley Cole: Former England defender appointed manager of Serie B side Cesena. https://www.bbc.com/sport/football/articles/c93wzv4k5v5o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Nottingham Forest 0-0 Fulham: Vitor Pereira still winless in Premier League as hosts move out of relegation zone with draw
+**Slug (lower-third):** Nottingham Forest 0-0 Fulham: Vitor Pereira still winless…  
+**When:** 2026-03-15 11:00 (America/Winnipeg)  •  **Published:** 2026-03-15 16:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Nottingham Forest 0-0 Fulham: Vitor Pereira still winless in Premier League as hosts move out of relegation zone with draw. Nottingham Forest moved out of the relegation zone on goal difference with a 0-0 draw at home to Fulham, but head coach Vitor Pereira remains winless from his four Premier League games in charge. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Nottingham Forest 0-0 Fulham: Vitor Pereira still winless in Premier League as hosts move out of relegation zone with draw. https://www.skysports.com/football/nottingham-forest-vs-fulham/report/531426
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +114,13 @@ West Ham United 1-1 Manchester City: Pep Guardiola post-match interview. Manches
 
 ### Club Updates
 
-## Story 2: WSL FREE STREAMS: Watch London City Lionesses vs Arsenal, Liverpool vs Leicester and Tottenham vs Everton
-**Slug (lower-third):** WSL FREE STREAMS: Watch London City Lionesses vs Arsenal,…  
-**When:** 2026-03-15 06:45 (America/Winnipeg)  •  **Published:** 2026-03-15 11:45 (UTC)  
+## Story 5: Women's League Cup final highlights: Chelsea 2-0 Manchester United
+**Slug (lower-third):** Women's League Cup final highlights: Chelsea 2-0 Manchest…  
+**When:** 2026-03-15 12:03 (America/Winnipeg)  •  **Published:** 2026-03-15 17:03 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL FREE STREAMS: Watch London City Lionesses vs Arsenal, Liverpool vs Leicester and Tottenham vs Everton. Watch London City Lionesses vs Arsenal, Liverpool vs Leicester and Tottenham vs Everton via free live streams below; Aston Villa vs Man City is available on Sky Sports+; all matches kick off at 11.55am Relevance to standings and momentum.
+Women's League Cup final highlights: Chelsea 2-0 Manchester United. Lauren James gets on the scoresheet to put Chelsea on their way to a 2-0 win over Manchester United in the Women's League Cup Final at Ashton Gate. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +129,7 @@ WSL FREE STREAMS: Watch London City Lionesses vs Arsenal, Liverpool vs Leicester
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — WSL FREE STREAMS: Watch London City Lionesses vs Arsenal, Liverpool vs Leicester and Tottenham vs Everton. https://www.skysports.com/football/news/12040/13519100/wsl-free-streams-watch-london-city-lionesses-vs-arsenal-liverpool-vs-leicester-and-tottenham-vs-everton
+- bbc.com — Women's League Cup final highlights: Chelsea 2-0 Manchester United. https://www.bbc.com/sport/football/videos/cgml0d0xy4po?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +138,13 @@ WSL FREE STREAMS: Watch London City Lionesses vs Arsenal, Liverpool vs Leicester
 
 ---
 
-## Story 3: Ellen White discusses pregnancy with Manchester United's Celin Bizet Donnum
-**Slug (lower-third):** Ellen White discusses pregnancy with Manchester United's …  
-**When:** 2026-03-15 05:15 (America/Winnipeg)  •  **Published:** 2026-03-15 10:15 (UTC)  
+## Story 6: Chelsea's James leads way to win League Cup final against Manchester United
+**Slug (lower-third):** Chelsea's James leads way to win League Cup final against…  
+**When:** 2026-03-15 11:32 (America/Winnipeg)  •  **Published:** 2026-03-15 16:32 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ellen White discusses pregnancy with Manchester United's Celin Bizet Donnum. Ellen White sits down with Manchester United forward Celin Bizet Donnum for Mother's Day to talk through the Norwegian's pregnancy journey - from the decision-making process to the support policies in place. Relevance to standings and momentum.
+Chelsea's James leads way to win League Cup final against Manchester United. Lauren James and Aggie Beever-Jones won the Women's League Cup for Chelsea with goals in a 2-0 victory over Manchester United at Ashton Gate Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +153,7 @@ Ellen White discusses pregnancy with Manchester United's Celin Bizet Donnum. Ell
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Ellen White discusses pregnancy with Manchester United's Celin Bizet Donnum. https://www.bbc.com/sport/football/videos/crm89pwx7y0o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Chelsea's James leads way to win League Cup final against Manchester United. https://www.theguardian.com/football/2026/mar/15/chelsea-manchester-united-womens-league-cup-final-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +162,13 @@ Ellen White discusses pregnancy with Manchester United's Celin Bizet Donnum. Ell
 
 ---
 
-## Story 4: Nerves were meant to afflict Arsenal, but Manchester City lack that energy | Barney Ronay
-**Slug (lower-third):** Nerves were meant to afflict Arsenal, but Manchester City…  
-**When:** 2026-03-15 05:11 (America/Winnipeg)  •  **Published:** 2026-03-15 10:11 (UTC)  
+## Story 7: Leeds keep on track for survival despite Gudmundsson red card against Palace
+**Slug (lower-third):** Leeds keep on track for survival despite Gudmundsson red …  
+**When:** 2026-03-15 11:27 (America/Winnipeg)  •  **Published:** 2026-03-15 16:27 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nerves were meant to afflict Arsenal, but Manchester City lack that energy | Barney Ronay. The draw at West Ham shows City trying to create a sense of who they are, but Arsenal know their identity even in bad moments Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Leeds keep on track for survival despite Gudmundsson red card against Palace. Gabriel Gudmundsson was sent off at Selhurst Park in Crystal Palace's 0-0 draw against Leeds but Daniel Farke's side dug in for a point Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +177,7 @@ Nerves were meant to afflict Arsenal, but Manchester City lack that energy | Bar
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Nerves were meant to afflict Arsenal, but Manchester City lack that energy | Barney Ronay. https://www.theguardian.com/football/2026/mar/15/arsenal-manchester-city-west-ham-premier-league-title-race
+- theguardian.com — Leeds keep on track for survival despite Gudmundsson red card against Palace. https://www.theguardian.com/football/2026/mar/15/crystal-palace-leeds-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +186,13 @@ Nerves were meant to afflict Arsenal, but Manchester City lack that energy | Bar
 
 ---
 
-## Story 5: Football quiz: Can you name every team to reach the Women's League Cup final?
-**Slug (lower-third):** Football quiz: Can you name every team to reach the Women…  
-**When:** 2026-03-15 03:11 (America/Winnipeg)  •  **Published:** 2026-03-15 08:11 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 8: VAR denies Dan Ndoye and Nottingham Forest in stalemate against Fulham
+**Slug (lower-third):** VAR denies Dan Ndoye and Nottingham Forest in stalemate a…  
+**When:** 2026-03-15 11:17 (America/Winnipeg)  •  **Published:** 2026-03-15 16:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football quiz: Can you name every team to reach the Women's League Cup final?. The Women's League Cup final takes place on Sunday as Manchester United take on Chelsea at Ashton Gate. Can you name every finalist in the competition's short history? Relevance to standings and momentum.
+VAR denies Dan Ndoye and Nottingham Forest in stalemate against Fulham. Dan Ndoye had a second-half goal chalked off by VAR but Nottingham Forest's 0-0 draw against Fulham was enough to get his side out of the relegation places Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +201,7 @@ Football quiz: Can you name every team to reach the Women's League Cup final?. T
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football quiz: Can you name every team to reach the Women's League Cup final?. https://www.bbc.com/sport/football/articles/cgl57kdnekro?at_medium=RSS&at_campaign=rss
+- theguardian.com — VAR denies Dan Ndoye and Nottingham Forest in stalemate against Fulham. https://www.theguardian.com/football/2026/mar/15/nottingham-forest-fulham-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +210,13 @@ Football quiz: Can you name every team to reach the Women's League Cup final?. T
 
 ---
 
-## Story 6: Man Utd v Aston Villa: How Jadon Sancho's dream United move became a nightmare
-**Slug (lower-third):** Man Utd v Aston Villa: How Jadon Sancho's dream United mo…  
-**When:** 2026-03-15 01:31 (America/Winnipeg)  •  **Published:** 2026-03-15 06:31 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 9: Manchester United sink Aston Villa to tighten grip on Champions League spot
+**Slug (lower-third):** Manchester United sink Aston Villa to tighten grip on Cha…  
+**When:** 2026-03-15 11:13 (America/Winnipeg)  •  **Published:** 2026-03-15 16:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd v Aston Villa: How Jadon Sancho's dream United move became a nightmare. Jadon Sancho is set to leave Manchester United this summer, almost three years after his last Premier League appearance for the club. Relevance to standings and momentum.
+Manchester United sink Aston Villa to tighten grip on Champions League spot. Casemiro, Matheus Cunha and Benjamin Sesko were on target in the second half as Manchester United beat Aston Villa 3-1 at Old Trafford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +225,7 @@ Man Utd v Aston Villa: How Jadon Sancho's dream United move became a nightmare. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man Utd v Aston Villa: How Jadon Sancho's dream United move became a nightmare. https://www.bbc.com/sport/football/articles/c6204jpy7v6o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Manchester United sink Aston Villa to tighten grip on Champions League spot. https://www.theguardian.com/football/2026/mar/15/manchester-united-aston-villa-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +234,13 @@ Man Utd v Aston Villa: How Jadon Sancho's dream United move became a nightmare. 
 
 ---
 
-## Story 7: Chelsea huddle: Match Of The Day pundits question referee Paul Tierney
-**Slug (lower-third):** Chelsea huddle: Match Of The Day pundits question referee…  
-**When:** 2026-03-14 18:42 (America/Winnipeg)  •  **Published:** 2026-03-14 23:42 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~21s
+## Story 10: Stephen Bunting left 'really hurt' as fan whistling 'spoils' match with Niko Springer at European Darts Trophy in Germany
+**Slug (lower-third):** Stephen Bunting left 'really hurt' as fan whistling 'spoi…  
+**When:** 2026-03-15 11:11 (America/Winnipeg)  •  **Published:** 2026-03-15 16:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Chelsea huddle: Match Of The Day pundits question referee Paul Tierney. Match of the Day pundits Ashley Williams and Joe Hart question why referee Paul Tierney protected the match ball on the centre spot, by getting in the middle of the Chelsea players' pre-match huddle before their Premier League game against Newcastle. Relevance to standings and momentum.
+Stephen Bunting left 'really hurt' as fan whistling 'spoils' match with Niko Springer at European Darts Trophy in Germany. Stephen Bunting was met by boos during his defeat to Niko Springer at the Elten Safety Shoes European Darts Trophy 2026, just days after competing in the Premier League Darts Night Six in Nottingham, a night also marred by loud whistling Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,82 +249,10 @@ Chelsea huddle: Match Of The Day pundits question referee Paul Tierney. Match of
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Chelsea huddle: Match Of The Day pundits question referee Paul Tierney. https://www.bbc.com/sport/football/videos/c3wlvn7ewgdo?at_medium=RSS&at_campaign=rss
+- skysports.com — Stephen Bunting left 'really hurt' as fan whistling 'spoils' match with Niko Springer at European Darts Trophy in Germany. https://www.skysports.com/darts/news/12040/13520156/stephen-bunting-left-really-hurt-as-fan-whistling-spoils-match-with-niko-springer-at-european-darts-trophy-in-germany
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: European Darts Trophy: Michael van Gerwen suffers shock exit Niels Zonneveld despite the three-time world champion averaging 107
-**Slug (lower-third):** European Darts Trophy: Michael van Gerwen suffers shock e…  
-**When:** 2026-03-14 18:06 (America/Winnipeg)  •  **Published:** 2026-03-14 23:06 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-European Darts Trophy: Michael van Gerwen suffers shock exit Niels Zonneveld despite the three-time world champion averaging 107. Michael van Gerwen averages 107 in shock defeat to Niels Zonneveld at the European Darts Trophy; you can watch Premier League Darts live on Sky Sports every Thursday all the way through until the finale at The O2 in London on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — European Darts Trophy: Michael van Gerwen suffers shock exit Niels Zonneveld despite the three-time world champion averaging 107. https://www.skysports.com/darts/news/12040/13519813/european-darts-trophy-michael-van-gerwen-suffers-shock-exit-niels-zonneveld-despite-the-three-time-world-champion-averaging-107
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League: Burnley 0-0 Bournemouth highlights
-**Slug (lower-third):** Premier League: Burnley 0-0 Bournemouth highlights  
-**When:** 2026-03-14 17:32 (America/Winnipeg)  •  **Published:** 2026-03-14 22:32 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: Burnley 0-0 Bournemouth highlights. Bournemouth lost further ground in the race for European football as they were held to a fourth consecutive Premier League draw by relegation-threatened Burnley at Turf Moor. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League: Burnley 0-0 Bournemouth highlights. https://www.bbc.com/sport/football/videos/cnv69023ezyo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League: Sunderland 0-1 Brighton - highlights
-**Slug (lower-third):** Premier League: Sunderland 0-1 Brighton - highlights  
-**When:** 2026-03-14 17:32 (America/Winnipeg)  •  **Published:** 2026-03-14 22:32 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: Sunderland 0-1 Brighton - highlights. Yankuba Minteh scores the only goal of the game in bizarre fashion as Brighton beat Sunderland 1-0 at the Stadium of Light, for their third win in four games in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League: Sunderland 0-1 Brighton - highlights. https://www.bbc.com/sport/football/videos/c363y9zzlg2o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
