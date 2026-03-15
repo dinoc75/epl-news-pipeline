@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-14 13:41 (America/Winnipeg)  |  2026-03-14 18:41 (UTC)
+**Generated:** 2026-03-14 21:35 (America/Winnipeg)  |  2026-03-15 02:35 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 23s
+**Estimated total video length:** ~4m 42s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Burnley 0-0 Bournemouth: Scott Parker post-match interview
-- Sunderland 0-1 Brighton: Regis Le Bris post-match interview
-- Sunderland 0-1 Brighton: Yankuba Minteh interview with Final Score after winning goal
+- Manchester City: Pep Guardiola's unbalanced team clinging to faint title hopes
+- Match Of The Day analysis: How Newcastle exploited Chelsea playing Reece James out of position
+- Max Dowman: Arsenal teenager is a special player full of confidence - Match Of The Day analysis
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Burnley 0-0 Bournemouth: Scott Parker post-match interview
-**Slug (lower-third):** Burnley 0-0 Bournemouth: Scott Parker post-match interview  
-**When:** 2026-03-14 13:36 (America/Winnipeg)  •  **Published:** 2026-03-14 18:36 (UTC)  
+## Story 1: West Ham United 1-1 Manchester City: Pep Guardiola post-match interview
+**Slug (lower-third):** West Ham United 1-1 Manchester City: Pep Guardiola post-m…  
+**When:** 2026-03-14 18:23 (America/Winnipeg)  •  **Published:** 2026-03-14 23:23 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Burnley 0-0 Bournemouth: Scott Parker post-match interview. Burnley manager Scott Parker says his side remain focused and continue to work hard to avoid relegation, as The Clarets settle for a 0-0 draw at home to Bournemouth in the Premier League. Relevance to standings and momentum.
+West Ham United 1-1 Manchester City: Pep Guardiola post-match interview. Manchester City manager Pep Guardiola says his side still have "hope" in the title race but admits they lack consistency compared to previous seasons, after their 1-1 draw at West Ham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,57 +31,7 @@ Burnley 0-0 Bournemouth: Scott Parker post-match interview. Burnley manager Scot
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Burnley 0-0 Bournemouth: Scott Parker post-match interview. https://www.bbc.com/sport/football/videos/c1l71838qqqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Sunderland 0-1 Brighton: Regis Le Bris post-match interview
-**Slug (lower-third):** Sunderland 0-1 Brighton: Regis Le Bris post-match intervi…  
-**When:** 2026-03-14 13:31 (America/Winnipeg)  •  **Published:** 2026-03-14 18:31 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Sunderland 0-1 Brighton: Regis Le Bris post-match interview. Sunderland manager Regis Le Bris hopes his side will "learn alot" from the "relentless" nature of the Premier League, as the Black Cats suffer their third consecutive home defeat, losing 1-0 to Brighton. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Sunderland 0-1 Brighton: Regis Le Bris post-match interview. https://www.bbc.com/sport/football/videos/ceqve2qnv17o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 3: 'They know where I am' - could Harry Redknapp return to manage Tottenham?
-**Slug (lower-third):** 'They know where I am' - could Harry Redknapp return to m…  
-**When:** 2026-03-14 12:47 (America/Winnipeg)  •  **Published:** 2026-03-14 17:47 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-'They know where I am' - could Harry Redknapp return to manage Tottenham?. Former Tottenham boss Harry Redknapp says the Spurs hierarchy "know where I am" if they decide to replace interim boss Igor Tudor a so could the 79-year-old make a sensational return to management? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — 'They know where I am' - could Harry Redknapp return to manage Tottenham?. https://www.bbc.com/sport/football/articles/cj6dj53drdgo?at_medium=RSS&at_campaign=rss
+- bbc.com — West Ham United 1-1 Manchester City: Pep Guardiola post-match interview. https://www.bbc.com/sport/football/videos/cvgvj7l40qgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +42,13 @@ Sunderland 0-1 Brighton: Regis Le Bris post-match interview. Sunderland manager 
 
 ### Club Updates
 
-## Story 4: Sunderland 0-1 Brighton: Yankuba Minteh interview with Final Score after winning goal
-**Slug (lower-third):** Sunderland 0-1 Brighton: Yankuba Minteh interview with Fi…  
-**When:** 2026-03-14 13:27 (America/Winnipeg)  •  **Published:** 2026-03-14 18:27 (UTC)  
+## Story 2: Manchester City: Pep Guardiola's unbalanced team clinging to faint title hopes
+**Slug (lower-third):** Manchester City: Pep Guardiola's unbalanced team clinging…  
+**When:** 2026-03-14 19:56 (America/Winnipeg)  •  **Published:** 2026-03-15 00:56 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sunderland 0-1 Brighton: Yankuba Minteh interview with Final Score after winning goal. Yankuba Minteh is interviewed by Final Score's Jason Mohammed after the Brighton forward scores the winning goal against Sunderland in the Premier League. Relevance to standings and momentum.
+Manchester City: Pep Guardiola's unbalanced team clinging to faint title hopes. Saturday evening, when Arsenal earned a dramatic late win over Everton before Man City were held at West Ham, felt as if it could be pivotal in the Premier League title race. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +57,7 @@ Sunderland 0-1 Brighton: Yankuba Minteh interview with Final Score after winning
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Sunderland 0-1 Brighton: Yankuba Minteh interview with Final Score after winning goal. https://www.bbc.com/sport/football/videos/cg4g71g4ww1o?at_medium=RSS&at_campaign=rss
+- bbc.com — Manchester City: Pep Guardiola's unbalanced team clinging to faint title hopes. https://www.bbc.com/sport/football/articles/c62dyng3vrro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +66,61 @@ Sunderland 0-1 Brighton: Yankuba Minteh interview with Final Score after winning
 
 ---
 
-## Story 5: Championship talking points: Ipswich capitalise on slip-ups around them as promotion race twists again
-**Slug (lower-third):** Championship talking points: Ipswich capitalise on slip-u…  
-**When:** 2026-03-14 13:00 (America/Winnipeg)  •  **Published:** 2026-03-14 18:00 (UTC)  
+## Story 3: Match Of The Day analysis: How Newcastle exploited Chelsea playing Reece James out of position
+**Slug (lower-third):** Match Of The Day analysis: How Newcastle exploited Chelse…  
+**When:** 2026-03-14 19:19 (America/Winnipeg)  •  **Published:** 2026-03-15 00:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Match Of The Day analysis: How Newcastle exploited Chelsea playing Reece James out of position. Match of the Day pundit Joe Hart explains how Newcastle were able to take advantage of Chelsea playing Reece James in midfield instead of his usual right-back position. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Match Of The Day analysis: How Newcastle exploited Chelsea playing Reece James out of position. https://www.bbc.com/sport/football/videos/c89kz0z7lkgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Max Dowman: Arsenal teenager is a special player full of confidence - Match Of The Day analysis
+**Slug (lower-third):** Max Dowman: Arsenal teenager is a special player full of …  
+**When:** 2026-03-14 18:42 (America/Winnipeg)  •  **Published:** 2026-03-14 23:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Max Dowman: Arsenal teenager is a special player full of confidence - Match Of The Day analysis. Match of the Day pundits Joe Hart and Ashley Williams praise Max Dowman after the 16-year old became the youngest goalscorer in the Premier League in Arsenal's 2-0 win over Everton. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Max Dowman: Arsenal teenager is a special player full of confidence - Match Of The Day analysis. https://www.bbc.com/sport/football/videos/ckgl549lv13o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Chelsea huddle: Match Of The Day pundits question referee Paul Tierney
+**Slug (lower-third):** Chelsea huddle: Match Of The Day pundits question referee…  
+**When:** 2026-03-14 18:42 (America/Winnipeg)  •  **Published:** 2026-03-14 23:42 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Championship talking points: Ipswich capitalise on slip-ups around them as promotion race twists again. The Sky Sports Football writers analyse the weekends Championship action as Ipswich were the only side in the top five to win on Saturday. Watch Portsmouth vs Derby live on Sky Sports Football from 7.30pm on Monday night; kick-off 8pm. Relevance to standings and momentum.
+Chelsea huddle: Match Of The Day pundits question referee Paul Tierney. Match of the Day pundits Ashley Williams and Joe Hart question why referee Paul Tierney protected the match ball on the centre spot, by getting in the middle of the Chelsea players' pre-match huddle before their Premier League game against Newcastle. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +129,7 @@ Championship talking points: Ipswich capitalise on slip-ups around them as promo
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Championship talking points: Ipswich capitalise on slip-ups around them as promotion race twists again. https://www.skysports.com/football/news/12040/13519543/championship-talking-points-ipswich-capitalise-on-slip-ups-around-them-as-promotion-race-twists-again
+- bbc.com — Chelsea huddle: Match Of The Day pundits question referee Paul Tierney. https://www.bbc.com/sport/football/videos/c3wlvn7ewgdo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +138,13 @@ Championship talking points: Ipswich capitalise on slip-ups around them as promo
 
 ---
 
-## Story 6: Chelsea huddle: Bizarre scenes as Chelsea huddle around ref Paul Tierney before kick-off!
-**Slug (lower-third):** Chelsea huddle: Bizarre scenes as Chelsea huddle around r…  
-**When:** 2026-03-14 12:38 (America/Winnipeg)  •  **Published:** 2026-03-14 17:38 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: European Darts Trophy: Michael van Gerwen suffers shock exit Niels Zonneveld despite the three-time world champion averaging 107
+**Slug (lower-third):** European Darts Trophy: Michael van Gerwen suffers shock e…  
+**When:** 2026-03-14 18:06 (America/Winnipeg)  •  **Published:** 2026-03-14 23:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Chelsea huddle: Bizarre scenes as Chelsea huddle around ref Paul Tierney before kick-off!. Chelseas pre-match huddle featured a special guest ahead of kick-off against Newcastle! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+European Darts Trophy: Michael van Gerwen suffers shock exit Niels Zonneveld despite the three-time world champion averaging 107. Michael van Gerwen averages 107 in shock defeat to Niels Zonneveld at the European Darts Trophy; you can watch Premier League Darts live on Sky Sports every Thursday all the way through until the finale at The O2 in London on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +153,7 @@ Chelsea huddle: Bizarre scenes as Chelsea huddle around ref Paul Tierney before 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea huddle: Bizarre scenes as Chelsea huddle around ref Paul Tierney before kick-off!. https://www.skysports.com/watch/video/13519761/chelsea-huddle-bizarre-scenes-as-chelsea-huddle-around-ref-paul-tierney-before-kick-off
+- skysports.com — European Darts Trophy: Michael van Gerwen suffers shock exit Niels Zonneveld despite the three-time world champion averaging 107. https://www.skysports.com/darts/news/12040/13519813/european-darts-trophy-michael-van-gerwen-suffers-shock-exit-niels-zonneveld-despite-the-three-time-world-champion-averaging-107
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +162,13 @@ Chelsea huddle: Bizarre scenes as Chelsea huddle around ref Paul Tierney before 
 
 ---
 
-## Story 7: Evanilson denied as Burnley draw dents Bournemouth's European hopes
-**Slug (lower-third):** Evanilson denied as Burnley draw dents Bournemouth's Euro…  
-**When:** 2026-03-14 12:20 (America/Winnipeg)  •  **Published:** 2026-03-14 17:20 (UTC)  
+## Story 7: Premier League: Burnley 0-0 Bournemouth highlights
+**Slug (lower-third):** Premier League: Burnley 0-0 Bournemouth highlights  
+**When:** 2026-03-14 17:32 (America/Winnipeg)  •  **Published:** 2026-03-14 22:32 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Evanilson denied as Burnley draw dents Bournemouth's European hopes. Both teams hit the post in Burnley's 0-0 draw against Bournemouth, a result that little to boost their respective relegation and promotion hopes Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: Burnley 0-0 Bournemouth highlights. Bournemouth lost further ground in the race for European football as they were held to a fourth consecutive Premier League draw by relegation-threatened Burnley at Turf Moor. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +177,7 @@ Evanilson denied as Burnley draw dents Bournemouth's European hopes. Both teams 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Evanilson denied as Burnley draw dents Bournemouth's European hopes. https://www.theguardian.com/football/2026/mar/14/burnley-bournemouth-premier-league-match-report
+- bbc.com — Premier League: Burnley 0-0 Bournemouth highlights. https://www.bbc.com/sport/football/videos/cnv69023ezyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +186,13 @@ Evanilson denied as Burnley draw dents Bournemouth's European hopes. Both teams 
 
 ---
 
-## Story 8: Leicester City 1-3 Queens Park Rangers: Foxes plunged further into relegation jeopardy after QPR comeback win
-**Slug (lower-third):** Leicester City 1-3 Queens Park Rangers: Foxes plunged fur…  
-**When:** 2026-03-14 12:15 (America/Winnipeg)  •  **Published:** 2026-03-14 17:15 (UTC)  
+## Story 8: Premier League: Sunderland 0-1 Brighton - highlights
+**Slug (lower-third):** Premier League: Sunderland 0-1 Brighton - highlights  
+**When:** 2026-03-14 17:32 (America/Winnipeg)  •  **Published:** 2026-03-14 22:32 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leicester City 1-3 Queens Park Rangers: Foxes plunged further into relegation jeopardy after QPR comeback win. QPR ended a dismal run of four-successive Championship defeats by claiming a 3-1 comeback victory over Leicester at the King Power Stadium to deepen the Foxes' relegation worries. Relevance to standings and momentum.
+Premier League: Sunderland 0-1 Brighton - highlights. Yankuba Minteh scores the only goal of the game in bizarre fashion as Brighton beat Sunderland 1-0 at the Stadium of Light, for their third win in four games in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +201,8 @@ Leicester City 1-3 Queens Park Rangers: Foxes plunged further into relegation je
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Leicester City 1-3 Queens Park Rangers: Foxes plunged further into relegation jeopardy after QPR comeback win. https://www.skysports.com/football/leicester-city-vs-queens-park-rangers/report/534765
+- bbc.com — Premier League: Sunderland 0-1 Brighton - highlights. https://www.bbc.com/sport/football/videos/c363y9zzlg2o?at_medium=RSS&at_campaign=rss
+- skysports.com — Sunderland 0-1 Brighton: Yankuba Minteh goal sends Fabian Hurzeler's side into Premier League top half. https://www.skysports.com/football/sunderland-vs-brighton-and-hove-albion/report/531427
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +211,13 @@ Leicester City 1-3 Queens Park Rangers: Foxes plunged further into relegation je
 
 ---
 
-## Story 9: Sheffield Wednesday 0-2 Ipswich Town: Ivan Azon and Jack Clarke's penalty lift Tractor Boys up to third
-**Slug (lower-third):** Sheffield Wednesday 0-2 Ipswich Town: Ivan Azon and Jack …  
-**When:** 2026-03-14 12:15 (America/Winnipeg)  •  **Published:** 2026-03-14 17:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: F1 confirms cancellation of Bahrain and Saudi Arabian Grands Prix due to war in Middle East as 2026 calendar reduced to 22 races
+**Slug (lower-third):** F1 confirms cancellation of Bahrain and Saudi Arabian Gra…  
+**When:** 2026-03-14 17:00 (America/Winnipeg)  •  **Published:** 2026-03-14 22:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~33s
 
 ### Presenter Script (3–5 sentences)
-Sheffield Wednesday 0-2 Ipswich Town: Ivan Azon and Jack Clarke's penalty lift Tractor Boys up to third. Ipswich climbed up to third in the Sky Bet Championship as goals from Ivan Azon and Jack Clarke earned them a 2-0 victory over relegated Sheffield Wednesday. Relevance to standings and momentum.
+F1 confirms cancellation of Bahrain and Saudi Arabian Grands Prix due to war in Middle East as 2026 calendar reduced to 22 races. Formula 1 cancels the Bahrain and Saudi Arabian Grands Prix due to ongoing Middle East conflict; decision to not replace events will see F1 2026 schedule reduced to 22 rounds; there will be a five-week gap between the Japanese Grand Prix on March 27-29 and the Miami Grand Prix on May 1-3 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +226,7 @@ Sheffield Wednesday 0-2 Ipswich Town: Ivan Azon and Jack Clarke's penalty lift T
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sheffield Wednesday 0-2 Ipswich Town: Ivan Azon and Jack Clarke's penalty lift Tractor Boys up to third. https://www.skysports.com/football/sheffield-wednesday-vs-ipswich-town/report/534771
+- skysports.com — F1 confirms cancellation of Bahrain and Saudi Arabian Grands Prix due to war in Middle East as 2026 calendar reduced to 22 races. https://www.skysports.com/f1/news/12040/13519453/f1-confirms-cancellation-of-bahrain-and-saudi-arabian-grands-prix-due-to-war-in-middle-east-as-2026-calendar-reduced-to-22-races
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +235,13 @@ Sheffield Wednesday 0-2 Ipswich Town: Ivan Azon and Jack Clarke's penalty lift T
 
 ---
 
-## Story 10: Sunderland need to stay hungry to progress in Premier League - director of football Ghisolfi
-**Slug (lower-third):** Sunderland need to stay hungry to progress in Premier Lea…  
-**When:** 2026-03-14 10:54 (America/Winnipeg)  •  **Published:** 2026-03-14 15:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Mavropanos earns vital draw for West Ham to hurt Manchester City title hopes
+**Slug (lower-third):** Mavropanos earns vital draw for West Ham to hurt Manchest…  
+**When:** 2026-03-14 17:14 (America/Winnipeg)  •  **Published:** 2026-03-14 22:14 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sunderland need to stay hungry to progress in Premier League - director of football Ghisolfi. Sunderland's director of football Florent Ghisolfi joins the Football Focus team at the Stadium of Light to talk about the club's objectives in the short and long term. Relevance to standings and momentum.
+Mavropanos earns vital draw for West Ham to hurt Manchester City title hopes. Konstantinos Mavropanos headed in an equaliser for West Ham to earn a 1-1 draw to damage Manchester City's Premier League title hopes Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +250,7 @@ Sunderland need to stay hungry to progress in Premier League - director of footb
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Sunderland need to stay hungry to progress in Premier League - director of football Ghisolfi. https://www.bbc.com/sport/football/videos/c3v7qpq66nvo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Mavropanos earns vital draw for West Ham to hurt Manchester City title hopes. https://www.theguardian.com/football/2026/mar/14/west-ham-manchester-city-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
