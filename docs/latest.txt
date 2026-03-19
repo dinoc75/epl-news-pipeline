@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-19 08:10 (America/Winnipeg)  |  2026-03-19 13:10 (UTC)
+**Generated:** 2026-03-19 14:01 (America/Winnipeg)  |  2026-03-19 19:01 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 31s
+**Estimated total video length:** ~4m 36s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Belgian Darts Open draw and schedule: Luke Littler faces potential Raymond van Barneveld clash
-- Van Dijk says bond between Liverpool and fans intact after Galatasaray rout
-- Uefa plans to offer Champions League streaming service direct to fans
+- Premier League & Carabao Cup final predictions: Chris Sutton v Crookhaven stars Amari Bacchus & Genesis Lynea - & AI
+- Sandro Tonali and Bruno Guimaraes: Newcastle duo face uncertain futures amid building transfer speculation
+- Premier League set to amend spending rules to give clubs more flexibility for transfers
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Manchester United: JJ Gabriel - the latest Old Trafford prodigy, aged 15
-**Slug (lower-third):** Manchester United: JJ Gabriel - the latest Old Trafford p…  
-**When:** 2026-03-19 02:49 (America/Winnipeg)  •  **Published:** 2026-03-19 07:49 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 1: Spurs' Igor Tudor charged with misconduct over 'home referee' claim
+**Slug (lower-third):** Spurs' Igor Tudor charged with misconduct over 'home refe…  
+**When:** 2026-03-19 10:17 (America/Winnipeg)  •  **Published:** 2026-03-19 15:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: JJ Gabriel - the latest Old Trafford prodigy, aged 15. At 15, Manchester United's JJ Gabriel is too young to play in the Premier League but he is already showing clear signs he is a huge talent. Relevance to standings and momentum.
+Spurs' Igor Tudor charged with misconduct over 'home referee' claim. Interim Tottenham manager Igor Tudor is charged with misconduct over his claim that referee Thomas Bramall favoured the "home team" in their loss at Fulham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Manchester United: JJ Gabriel - the latest Old Trafford prodigy, aged 15. At 15,
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester United: JJ Gabriel - the latest Old Trafford prodigy, aged 15. https://www.bbc.com/sport/football/articles/ckg8gp88m8xo?at_medium=RSS&at_campaign=rss
+- bbc.com — Spurs' Igor Tudor charged with misconduct over 'home referee' claim. https://www.bbc.com/sport/football/articles/c9qdglrv05lo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Manchester United: JJ Gabriel - the latest Old Trafford prodigy, aged 15. At 15,
 
 ---
 
-## Story 2: Midtjylland's innovators aiming to give Forest that sinking feeling
-**Slug (lower-third):** Midtjylland's innovators aiming to give Forest that sinki…  
-**When:** 2026-03-19 03:00 (America/Winnipeg)  •  **Published:** 2026-03-19 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 2: Enzo Fernandez 'completely committed' to Chelsea - Liam Rosenior
+**Slug (lower-third):** Enzo Fernandez 'completely committed' to Chelsea - Liam R…  
+**When:** 2026-03-19 09:22 (America/Winnipeg)  •  **Published:** 2026-03-19 14:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Midtjylland's innovators aiming to give Forest that sinking feeling. Nottingham Forest travel to the MCH Arena seeking to overturn a one-goal Europa League deficit against a familiar foe who were early champions of the set piece Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Enzo Fernandez 'completely committed' to Chelsea - Liam Rosenior. Liam Rosenior said Enzo Fernandez has told the Chelsea head coach that he is happy at the club after casting doubt on his future earlier this week. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,83 @@ Midtjylland's innovators aiming to give Forest that sinking feeling. Nottingham 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Midtjylland's innovators aiming to give Forest that sinking feeling. https://www.theguardian.com/football/2026/mar/19/midtjylland-nottingham-forest-europa-league
+- espn.com — Enzo Fernandez 'completely committed' to Chelsea - Liam Rosenior. https://www.espn.com/soccer/story/_/id/48249179/enzo-fernandez-completely-committed-chelsea-liam-rosenior
+- bbc.com — Enzo Fernandez fully committed to Chelsea - Liam Rosenior. https://www.bbc.com/sport/football/articles/ckgrwzx7ve5o?at_medium=RSS&at_campaign=rss
+- skysports.com — Enzo Fernandez: Liam Rosenior responds to 'concerning' comments from Chelsea midfielder. https://www.skysports.com/watch/video/13521776/enzo-fernandez-liam-rosenior-responds-to-concerning-comments-from-chelsea-midfielder
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Sandro Tonali and Bruno Guimaraes: Newcastle duo face uncertain futures amid building transfer speculation
+**Slug (lower-third):** Sandro Tonali and Bruno Guimaraes: Newcastle duo face unc…  
+**When:** 2026-03-19 12:41 (America/Winnipeg)  •  **Published:** 2026-03-19 17:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Sandro Tonali and Bruno Guimaraes: Newcastle duo face uncertain futures amid building transfer speculation. With both Sandro Tonali and Bruno Guimaraes facing uncertain futures at Newcastle following their Champions League exit, how likely are we to see departures this summer? Sky Sports News Keith Downie assess their current situation at St James Park Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Sandro Tonali and Bruno Guimaraes: Newcastle duo face uncertain futures amid building transfer speculation. https://www.skysports.com/football/news/12040/13521910/sandro-tonali-and-bruno-guimaraes-newcastle-duo-face-uncertain-futures-amid-building-transfer-speculation
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Premier League set to amend spending rules to give clubs more flexibility for transfers
+**Slug (lower-third):** Premier League set to amend spending rules to give clubs …  
+**When:** 2026-03-19 12:06 (America/Winnipeg)  •  **Published:** 2026-03-19 17:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League set to amend spending rules to give clubs more flexibility for transfers. The Premier League is poised to amend its new spending rules before they are introduced next season to give clubs greater flexibility in the transfer market Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League set to amend spending rules to give clubs more flexibility for transfers. https://www.theguardian.com/football/2026/mar/19/premier-league-spending-rules-squad-cost-ratio
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Manchester United transfer news: Casemiro replacement contenders include Anderson, Wharton and Tonali
+**Slug (lower-third):** Manchester United transfer news: Casemiro replacement con…  
+**When:** 2026-03-19 09:50 (America/Winnipeg)  •  **Published:** 2026-03-19 14:50 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United transfer news: Casemiro replacement contenders include Anderson, Wharton and Tonali. Senior football correspondent Sami Mokbel breaks down Manchester United's search for a new midfielder to replace the outgoing Casemiro. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester United transfer news: Casemiro replacement contenders include Anderson, Wharton and Tonali. https://www.bbc.com/sport/football/articles/czxr6dzr606o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +142,13 @@ Midtjylland's innovators aiming to give Forest that sinking feeling. Nottingham 
 
 ### Injuries
 
-## Story 3: Good to talk: Mathys Tel feels Spurs unity growing after dressing-room chats
-**Slug (lower-third):** Good to talk: Mathys Tel feels Spurs unity growing after …  
-**When:** 2026-03-19 07:00 (America/Winnipeg)  •  **Published:** 2026-03-19 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: John Fury says relationship with son Tyson Fury is 'completely destroyed' ahead of comeback fight
+**Slug (lower-third):** John Fury says relationship with son Tyson Fury is 'compl…  
+**When:** 2026-03-19 10:00 (America/Winnipeg)  •  **Published:** 2026-03-19 15:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Good to talk: Mathys Tel feels Spurs unity growing after dressing-room chats. Forward senses collective and individual belief returning as crucial Premier League game against Nottingham Forest looms Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+John Fury says relationship with son Tyson Fury is 'completely destroyed' ahead of comeback fight. Tyson Fury will return to the ring for the first time since December 2024 when he fights Arslanbek Makhmudov at Tottenham Hotspur Stadium on April 11; father John Fury warns that Makhmudov is a problem for the former heavyweight world champion. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +157,7 @@ Good to talk: Mathys Tel feels Spurs unity growing after dressing-room chats. Fo
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Good to talk: Mathys Tel feels Spurs unity growing after dressing-room chats. https://www.theguardian.com/football/2026/mar/19/mathys-tel-spurs-unity-dressing-room-talks-nottingham-forest-premier-league
+- skysports.com — John Fury says relationship with son Tyson Fury is 'completely destroyed' ahead of comeback fight. https://www.skysports.com/boxing/news/12040/13521746/john-fury-says-relationship-with-son-tyson-fury-is-completely-destroyed-ahead-of-comeback-fight
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,37 +168,13 @@ Good to talk: Mathys Tel feels Spurs unity growing after dressing-room chats. Fo
 
 ### Club Updates
 
-## Story 4: Belgian Darts Open draw and schedule: Luke Littler faces potential Raymond van Barneveld clash
-**Slug (lower-third):** Belgian Darts Open draw and schedule: Luke Littler faces …  
-**When:** 2026-03-19 07:58 (America/Winnipeg)  •  **Published:** 2026-03-19 12:58 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Belgian Darts Open draw and schedule: Luke Littler faces potential Raymond van Barneveld clash. Luke Littler could face Raymond van Barneveld in defence of Belgian Darts Open; Luke Humphries and Michael van Gerwen also in action; you can watch Premier League Darts live on Sky Sports every Thursday all the way through until the finale at The O2 on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Belgian Darts Open draw and schedule: Luke Littler faces potential Raymond van Barneveld clash. https://www.skysports.com/darts/news/12040/13521734/belgian-darts-open-draw-and-schedule-luke-littler-faces-potential-raymond-van-barneveld-clash
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Van Dijk says bond between Liverpool and fans intact after Galatasaray rout
-**Slug (lower-third):** Van Dijk says bond between Liverpool and fans intact afte…  
-**When:** 2026-03-19 07:28 (America/Winnipeg)  •  **Published:** 2026-03-19 12:28 (UTC)  
+## Story 7: Premier League & Carabao Cup final predictions: Chris Sutton v Crookhaven stars Amari Bacchus & Genesis Lynea - & AI
+**Slug (lower-third):** Premier League & Carabao Cup final predictions: Chris Sut…  
+**When:** 2026-03-19 13:20 (America/Winnipeg)  •  **Published:** 2026-03-19 18:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Van Dijk says bond between Liverpool and fans intact after Galatasaray rout. The Liverpool captain denied the relationship had broken down between team and fans, saying everyone was 'frustrated' after their success in 2025 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League & Carabao Cup final predictions: Chris Sutton v Crookhaven stars Amari Bacchus & Genesis Lynea - & AI. Chris Sutton takes on Crookhaven stars Amari Bacchus and Genesis Lynea plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures and the Carabao Cup final. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +183,7 @@ Van Dijk says bond between Liverpool and fans intact after Galatasaray rout. The
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Van Dijk says bond between Liverpool and fans intact after Galatasaray rout. https://www.theguardian.com/football/2026/mar/19/van-dijk-says-bond-between-liverpool-and-fans-intact-after-galatasaray-rout
+- bbc.com — Premier League & Carabao Cup final predictions: Chris Sutton v Crookhaven stars Amari Bacchus & Genesis Lynea - & AI. https://www.bbc.com/sport/football/articles/cj4zr17qn4ko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +192,13 @@ Van Dijk says bond between Liverpool and fans intact after Galatasaray rout. The
 
 ---
 
-## Story 6: Uefa plans to offer Champions League streaming service direct to fans
-**Slug (lower-third):** Uefa plans to offer Champions League streaming service di…  
-**When:** 2026-03-19 07:26 (America/Winnipeg)  •  **Published:** 2026-03-19 12:26 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Tottenham: 'Club's future on the line' against Nottingham Forest as Spurs look to build on their fragile foundation
+**Slug (lower-third):** Tottenham: 'Club's future on the line' against Nottingham…  
+**When:** 2026-03-19 11:30 (America/Winnipeg)  •  **Published:** 2026-03-19 16:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Uefa plans to offer Champions League streaming service direct to fans. Uefa hopes to follow in the Premier League's footsteps and trial a new direct-to-consumer streaming service for Champions League matches in the next TV rights cycle Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Tottenham: 'Club's future on the line' against Nottingham Forest as Spurs look to build on their fragile foundation. Paul Merson says Tottenhams game vs Nottingham Forest is one of biggest they have played with the clubs future on the line, Spurs and Forest are separated by one point as both battle for survival; watch Spurs vs Forest live on Sky Sports on Sunday, kick-off 2.15pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +207,7 @@ Uefa plans to offer Champions League streaming service direct to fans. Uefa hope
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Uefa plans to offer Champions League streaming service direct to fans. https://www.theguardian.com/football/2026/mar/19/uefa-plans-to-offer-champions-league-streaming-service-direct-to-fans
+- skysports.com — Tottenham: 'Club's future on the line' against Nottingham Forest as Spurs look to build on their fragile foundation. https://www.skysports.com/football/news/12040/13521679/tottenham-clubs-future-on-the-line-against-nottingham-forest-as-spurs-look-to-build-on-their-fragile-foundation
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +216,13 @@ Uefa plans to offer Champions League streaming service direct to fans. Uefa hope
 
 ---
 
-## Story 7: Noa Lang: Galatasaray midfielder set for surgery on cut thumb after Champions League defeat by Liverpool
-**Slug (lower-third):** Noa Lang: Galatasaray midfielder set for surgery on cut t…  
-**When:** 2026-03-19 06:00 (America/Winnipeg)  •  **Published:** 2026-03-19 11:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Liam Rosenior reveals Chelsea have 'dealt' with mole behind team leaks
+**Slug (lower-third):** Liam Rosenior reveals Chelsea have 'dealt' with mole behi…  
+**When:** 2026-03-19 10:19 (America/Winnipeg)  •  **Published:** 2026-03-19 15:19 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Noa Lang: Galatasaray midfielder set for surgery on cut thumb after Champions League defeat by Liverpool. Galatasaray midfielder Noa Lang is set to have surgery in Liverpool after suffering a "serious cut" at Anfield. Relevance to standings and momentum.
+Liam Rosenior reveals Chelsea have 'dealt' with mole behind team leaks. Liam Rosenior said he had spoken to Enzo Fernandez 'at length' after his comments about his future after Chelsea's European exit Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +231,7 @@ Noa Lang: Galatasaray midfielder set for surgery on cut thumb after Champions Le
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Noa Lang: Galatasaray midfielder set for surgery on cut thumb after Champions League defeat by Liverpool. https://www.bbc.com/sport/football/articles/c7vjvv119d0o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Liam Rosenior reveals Chelsea have 'dealt' with mole behind team leaks. https://www.theguardian.com/football/2026/mar/19/liam-rosenior-reveals-chelsea-have-dealt-with-mole-behind-team-leaks
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +240,13 @@ Noa Lang: Galatasaray midfielder set for surgery on cut thumb after Champions Le
 
 ---
 
-## Story 8: Today on Sky Sports Racing: Sedgefield and Newcastle feature live on Thursday
-**Slug (lower-third):** Today on Sky Sports Racing: Sedgefield and Newcastle feat…  
-**When:** 2026-03-19 01:00 (America/Winnipeg)  •  **Published:** 2026-03-19 06:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~21s
+## Story 10: Ipswich vs Millwall: Alex Neil hates 'little old Millwall' tagline his team have in Championship promotion race
+**Slug (lower-third):** Ipswich vs Millwall: Alex Neil hates 'little old Millwall…  
+**When:** 2026-03-19 09:30 (America/Winnipeg)  •  **Published:** 2026-03-19 14:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Sedgefield and Newcastle feature live on Thursday. Enjoy dAllen takes on Ballin Bay in the feature contest from Sedgefield, before attention moves a short distance to Newcastle for all-weather championships action; Watch every race live on Sky Sports Racing Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ipswich vs Millwall: Alex Neil hates 'little old Millwall' tagline his team have in Championship promotion race. Millwall take on Ipswich this weekend in a huge game at the top of the Championship; Ipswich have spent a lot of money but Alex Neil says his side are not underdogs; watch Ipswich vs Millwall live on Sky Sports Football on Saturday, kick-off 12.30pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,55 +255,7 @@ Today on Sky Sports Racing: Sedgefield and Newcastle feature live on Thursday. E
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Sedgefield and Newcastle feature live on Thursday. https://www.skysports.com/racing/news/12040/13520930/today-on-sky-sports-racing-sedgefield-and-newcastle-feature-live-on-thursday
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Champions League: How Barcelona exploited Newcastle's defensive weakness - analysis
-**Slug (lower-third):** Champions League: How Barcelona exploited Newcastle's def…  
-**When:** 2026-03-18 18:47 (America/Winnipeg)  •  **Published:** 2026-03-18 23:47 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-Champions League: How Barcelona exploited Newcastle's defensive weakness - analysis. Champions League Match of the Day pundits Stephen Warnock and Nedum Onuoha look at how Barcelona were able to repeatedly expose Newcastle United's centre-backs Dan Burn and Malick Thiaw during their 7-2 victory in the second leg of their last 16 tie in the Champions League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Champions League: How Barcelona exploited Newcastle's defensive weakness - analysis. https://www.bbc.com/sport/football/videos/ckgzg0598ggo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Tottenham 3-2 Atletico Madrid: Igor Tudor's side must now focus on Premier League survival
-**Slug (lower-third):** Tottenham 3-2 Atletico Madrid: Igor Tudor's side must now…  
-**When:** 2026-03-18 18:42 (America/Winnipeg)  •  **Published:** 2026-03-18 23:42 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham 3-2 Atletico Madrid: Igor Tudor's side must now focus on Premier League survival. Tottenham can take encouragement in their battle for Premier League survival despite a Champions League exit, writes Phil McNulty. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Tottenham 3-2 Atletico Madrid: Igor Tudor's side must now focus on Premier League survival. https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&at_campaign=rss
+- skysports.com — Ipswich vs Millwall: Alex Neil hates 'little old Millwall' tagline his team have in Championship promotion race. https://www.skysports.com/football/news/12040/13521798/ipswich-vs-millwall-alex-neil-hates-little-old-millwall-tagline-his-team-have-in-championship-promotion-race
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
