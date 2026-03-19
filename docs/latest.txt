@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-18 14:03 (America/Winnipeg)  |  2026-03-18 19:03 (UTC)
+**Generated:** 2026-03-18 21:28 (America/Winnipeg)  |  2026-03-19 02:28 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 41s
+**Estimated total video length:** ~3m 26s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Ricardo Pepi: Fulham medical set for PSV Eindhoven and USA striker before APS28.5m move
-- Football Daily | Why Aston Villa are all set to salvage the Premier League's rough European week
-- Premier League Darts: Could it be the year of 'The Ferret'? Why is the tournament made for Jonny Clayton?
+- WSL highlights: Chelsea 2-1 Brighton
+- Liverpool 4-0 Galatasaray: Arne Slot gets Reds performance he needed
+- Champions League: How Barcelona exploited Newcastle's defensive weakness - analysis
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Why Pep Guardiola has struggled to turn domestic dominance into repeated Champions League glory at Man City
-**Slug (lower-third):** Why Pep Guardiola has struggled to turn domestic dominanc…  
-**When:** 2026-03-18 08:25 (America/Winnipeg)  •  **Published:** 2026-03-18 13:25 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~27s
+## Story 1: Champions League: Highlights as Tottenham beat Atletico Madrid 3-2 but lose last 16-tie 7-5 on aggregate
+**Slug (lower-third):** Champions League: Highlights as Tottenham beat Atletico M…  
+**When:** 2026-03-18 17:32 (America/Winnipeg)  •  **Published:** 2026-03-18 22:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Why Pep Guardiola has struggled to turn domestic dominance into repeated Champions League glory at Man City. Real Madrid ended Man Citys Champions League hopes for a fourth time in the last five years with victory at the Etihad on Tuesday; only Carlo Ancelotti has won more than Pep Guardiolas three wins as a manager in the competition Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Champions League: Highlights as Tottenham beat Atletico Madrid 3-2 but lose last 16-tie 7-5 on aggregate. Tottenham beat Atletico Madrid 3-2 in the second leg of their last 16 tie in the Champions League, securing a first win for manager Igor Tudor but it's not enough to win the tie, as Atletico win 7-5 on aggregate to progress to the quarter finals. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Why Pep Guardiola has struggled to turn domestic dominance into repeated Champio
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Why Pep Guardiola has struggled to turn domestic dominance into repeated Champions League glory at Man City. https://www.skysports.com/football/news/12040/13521353/why-pep-guardiola-has-struggled-to-turn-domestic-dominance-into-repeated-champions-league-glory-at-man-city
+- bbc.com — Champions League: Highlights as Tottenham beat Atletico Madrid 3-2 but lose last 16-tie 7-5 on aggregate. https://www.bbc.com/sport/football/videos/cx2g49094m7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,15 @@ Why Pep Guardiola has struggled to turn domestic dominance into repeated Champio
 
 ---
 
-## Story 2: Liverpool may end up getting rid of Slot purely because they cannot think of what else to do | Jonathan Liew
-**Slug (lower-third):** Liverpool may end up getting rid of Slot purely because t…  
-**When:** 2026-03-18 03:00 (America/Winnipeg)  •  **Published:** 2026-03-18 08:00 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~23s
+### Transfers
+
+## Story 2: Football gossip: Rashford, Ndidi, Bayindir, Sancho, Camara, Risser, Disasi, Asllani
+**Slug (lower-third):** Football gossip: Rashford, Ndidi, Bayindir, Sancho, Camar…  
+**When:** 2026-03-18 18:24 (America/Winnipeg)  •  **Published:** 2026-03-18 23:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool may end up getting rid of Slot purely because they cannot think of what else to do | Jonathan Liew. The head coach is not responsible for many of the problems at Anfield but he is the most obvious target for those seeking reasons for the team's decline Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Rashford, Ndidi, Bayindir, Sancho, Camara, Risser, Disasi, Asllani. Barcelona want a second Marcus Rashford loan, Manchester United eye Wilfred Ndidi, Dortmund try to resign Jadon Sancho, plus more. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +57,7 @@ Liverpool may end up getting rid of Slot purely because they cannot think of wha
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool may end up getting rid of Slot purely because they cannot think of what else to do | Jonathan Liew. https://www.theguardian.com/football/2026/mar/18/liverpool-arne-slot-premier-league-champions-league-football
+- bbc.com — Football gossip: Rashford, Ndidi, Bayindir, Sancho, Camara, Risser, Disasi, Asllani. https://www.bbc.com/sport/football/articles/clyzy62qp4no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +68,13 @@ Liverpool may end up getting rid of Slot purely because they cannot think of wha
 
 ### Club Updates
 
-## Story 3: Ricardo Pepi: Fulham medical set for PSV Eindhoven and USA striker before APS28.5m move
-**Slug (lower-third):** Ricardo Pepi: Fulham medical set for PSV Eindhoven and US…  
-**When:** 2026-03-18 11:48 (America/Winnipeg)  •  **Published:** 2026-03-18 16:48 (UTC)  
+## Story 3: WSL highlights: Chelsea 2-1 Brighton
+**Slug (lower-third):** WSL highlights: Chelsea 2-1 Brighton  
+**When:** 2026-03-18 19:52 (America/Winnipeg)  •  **Published:** 2026-03-19 00:52 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ricardo Pepi: Fulham medical set for PSV Eindhoven and USA striker before APS28.5m move. Fulham are closing in on a APS28.5m deal for PSV Eindhoven striker Ricardo Pepi, who has arrived in London for a medical. Relevance to standings and momentum.
+WSL highlights: Chelsea 2-1 Brighton. 19-year-old Lexi Potter scores the winner on her first Chelsea start as the hosts beat Brighton 2-1 in the WSL. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +83,7 @@ Ricardo Pepi: Fulham medical set for PSV Eindhoven and USA striker before APS28.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Ricardo Pepi: Fulham medical set for PSV Eindhoven and USA striker before APS28.5m move. https://www.bbc.com/sport/football/articles/czr0r4n5zjpo?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL highlights: Chelsea 2-1 Brighton. https://www.bbc.com/sport/football/videos/cg7e74z2y9yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +92,13 @@ Ricardo Pepi: Fulham medical set for PSV Eindhoven and USA striker before APS28.
 
 ---
 
-## Story 4: Football Daily | Why Aston Villa are all set to salvage the Premier League's rough European week
-**Slug (lower-third):** Football Daily | Why Aston Villa are all set to salvage t…  
-**When:** 2026-03-18 11:19 (America/Winnipeg)  •  **Published:** 2026-03-18 16:19 (UTC)  
+## Story 4: Liverpool 4-0 Galatasaray: Arne Slot gets Reds performance he needed
+**Slug (lower-third):** Liverpool 4-0 Galatasaray: Arne Slot gets Reds performanc…  
+**When:** 2026-03-18 19:12 (America/Winnipeg)  •  **Published:** 2026-03-19 00:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | Why Aston Villa are all set to salvage the Premier League's rough European week. In today's Football Daily: Caf, pivoting boots, a lack of belief at Rotherham and Andy Carroll steps into management Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liverpool 4-0 Galatasaray: Arne Slot gets Reds performance he needed. Despite a difficult domestic campaign, Liverpool produce one of their best displays of the season against Galatasaray in the Champions League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +107,7 @@ Football Daily | Why Aston Villa are all set to salvage the Premier League's rou
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | Why Aston Villa are all set to salvage the Premier League's rough European week. https://www.theguardian.com/football/2026/mar/18/football-daily-aston-villa-europa-league
+- bbc.com — Liverpool 4-0 Galatasaray: Arne Slot gets Reds performance he needed. https://www.bbc.com/sport/football/articles/c99j92p8n5ro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +116,13 @@ Football Daily | Why Aston Villa are all set to salvage the Premier League's rou
 
 ---
 
-## Story 5: Premier League Darts: Could it be the year of 'The Ferret'? Why is the tournament made for Jonny Clayton?
-**Slug (lower-third):** Premier League Darts: Could it be the year of 'The Ferret…  
-**When:** 2026-03-18 08:27 (America/Winnipeg)  •  **Published:** 2026-03-18 13:27 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~31s
+## Story 5: Champions League: How Barcelona exploited Newcastle's defensive weakness - analysis
+**Slug (lower-third):** Champions League: How Barcelona exploited Newcastle's def…  
+**When:** 2026-03-18 18:47 (America/Winnipeg)  •  **Published:** 2026-03-18 23:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Premier League Darts: Could it be the year of 'The Ferret'? Why is the tournament made for Jonny Clayton?. Jonny Clayton won the Premier League title in 2021 - and he has put himself in a strong position to make Finals Night and a second crown; you can watch Premier League Darts live on Sky Sports every Thursday all the way through until the finale at The O2 on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Champions League: How Barcelona exploited Newcastle's defensive weakness - analysis. Champions League Match of the Day pundits Stephen Warnock and Nedum Onuoha look at how Barcelona were able to repeatedly expose Newcastle United's centre-backs Dan Burn and Malick Thiaw during their 7-2 victory in the second leg of their last 16 tie in the Champions League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +131,7 @@ Premier League Darts: Could it be the year of 'The Ferret'? Why is the tournamen
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League Darts: Could it be the year of 'The Ferret'? Why is the tournament made for Jonny Clayton?. https://www.skysports.com/darts/news/12040/13521307/premier-league-darts-could-it-be-the-year-of-the-ferret-why-is-the-tournament-made-for-jonny-clayton
+- bbc.com — Champions League: How Barcelona exploited Newcastle's defensive weakness - analysis. https://www.bbc.com/sport/football/videos/ckgzg0598ggo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +140,13 @@ Premier League Darts: Could it be the year of 'The Ferret'? Why is the tournamen
 
 ---
 
-## Story 6: Chelsea fine: Premier League 'extremely lenient', says Christian Purslow
-**Slug (lower-third):** Chelsea fine: Premier League 'extremely lenient', says Ch…  
-**When:** 2026-03-18 08:00 (America/Winnipeg)  •  **Published:** 2026-03-18 13:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 6: Tottenham 3-2 Atletico Madrid: Igor Tudor's side must now focus on Premier League survival
+**Slug (lower-third):** Tottenham 3-2 Atletico Madrid: Igor Tudor's side must now…  
+**When:** 2026-03-18 18:42 (America/Winnipeg)  •  **Published:** 2026-03-18 23:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea fine: Premier League 'extremely lenient', says Christian Purslow. Former Aston Villa chief executive Christian Purslow says Premier League has been "extremely lenient" in its punishment of Chelsea. Relevance to standings and momentum.
+Tottenham 3-2 Atletico Madrid: Igor Tudor's side must now focus on Premier League survival. Tottenham can take encouragement in their battle for Premier League survival despite a Champions League exit, writes Phil McNulty. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +155,7 @@ Chelsea fine: Premier League 'extremely lenient', says Christian Purslow. Former
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Chelsea fine: Premier League 'extremely lenient', says Christian Purslow. https://www.bbc.com/sport/football/articles/cy9g9nq9vxlo?at_medium=RSS&at_campaign=rss
+- bbc.com — Tottenham 3-2 Atletico Madrid: Igor Tudor's side must now focus on Premier League survival. https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +164,13 @@ Chelsea fine: Premier League 'extremely lenient', says Christian Purslow. Former
 
 ---
 
-## Story 7: Phallon Tullis-Joyce: Manchester United goalkeeper on love of nature and marine biology
-**Slug (lower-third):** Phallon Tullis-Joyce: Manchester United goalkeeper on lov…  
-**When:** 2026-03-18 07:19 (America/Winnipeg)  •  **Published:** 2026-03-18 12:19 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 7: Barcelona 7-2 Newcastle: What next for Eddie Howe's side?
+**Slug (lower-third):** Barcelona 7-2 Newcastle: What next for Eddie Howe's side?  
+**When:** 2026-03-18 18:18 (America/Winnipeg)  •  **Published:** 2026-03-18 23:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Phallon Tullis-Joyce: Manchester United goalkeeper on love of nature and marine biology. Manchester United goalkeeper Phallon Tullis-Joyce talks to BBC Sport about her love for marine biology and nature and says "it's important to have passions outside your job". Relevance to standings and momentum.
+Barcelona 7-2 Newcastle: What next for Eddie Howe's side?. After a humbling Champions League last-16 defeat by Barcelona, what next for Eddie Howe's Newcastle? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +179,7 @@ Phallon Tullis-Joyce: Manchester United goalkeeper on love of nature and marine 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Phallon Tullis-Joyce: Manchester United goalkeeper on love of nature and marine biology. https://www.bbc.com/sport/football/videos/cx242l1wr0ko?at_medium=RSS&at_campaign=rss
+- bbc.com — Barcelona 7-2 Newcastle: What next for Eddie Howe's side?. https://www.bbc.com/sport/football/articles/cjene4jj8xwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +188,13 @@ Phallon Tullis-Joyce: Manchester United goalkeeper on love of nature and marine 
 
 ---
 
-## Story 8: 'Still a lot to play for': Jeremy Doku focuses on Carabao Cup after Champions League exit
-**Slug (lower-third):** 'Still a lot to play for': Jeremy Doku focuses on Carabao…  
-**When:** 2026-03-18 07:13 (America/Winnipeg)  •  **Published:** 2026-03-18 12:13 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 8: Champions League: What has gone wrong for Premier League teams in last 16?
+**Slug (lower-third):** Champions League: What has gone wrong for Premier League …  
+**When:** 2026-03-18 18:18 (America/Winnipeg)  •  **Published:** 2026-03-18 23:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'Still a lot to play for': Jeremy Doku focuses on Carabao Cup after Champions League exit. City winger says beating Arsenal would be 'a good cure' after Real Madrid won Champions League last-16 tie 5-1 on aggregate Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Champions League: What has gone wrong for Premier League teams in last 16?. With just two out of six Premier League teams progressing to the Champions League quarter-finals, what went wrong for the English sides? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +203,7 @@ Phallon Tullis-Joyce: Manchester United goalkeeper on love of nature and marine 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'Still a lot to play for': Jeremy Doku focuses on Carabao Cup after Champions League exit. https://www.theguardian.com/football/2026/mar/18/jeremy-doku-carabao-cup-champions-league-defeat-manchester-city
+- bbc.com — Champions League: What has gone wrong for Premier League teams in last 16?. https://www.bbc.com/sport/football/articles/cqxd55dxrejo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +212,13 @@ Phallon Tullis-Joyce: Manchester United goalkeeper on love of nature and marine 
 
 ---
 
-## Story 9: Max Dowman's family get Fifa agent licences to manage Arsenal teenager's career
-**Slug (lower-third):** Max Dowman's family get Fifa agent licences to manage Ars…  
-**When:** 2026-03-18 05:00 (America/Winnipeg)  •  **Published:** 2026-03-18 10:00 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 9: Four English sides out - is fifth Champions League spot still on?
+**Slug (lower-third):** Four English sides out - is fifth Champions League spot s…  
+**When:** 2026-03-18 17:38 (America/Winnipeg)  •  **Published:** 2026-03-18 22:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Max Dowman's family get Fifa agent licences to manage Arsenal teenager's career. Max Dowman, who has just become the youngest Premier League goalscorer, has been inundated with agent approaches but his family are intent on managing his career Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Four English sides out - is fifth Champions League spot still on?. Could the Premier League get an extra place in the Champions League again? This is how it looks after the last 16. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +227,7 @@ Max Dowman's family get Fifa agent licences to manage Arsenal teenager's career.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Max Dowman's family get Fifa agent licences to manage Arsenal teenager's career. https://www.theguardian.com/football/2026/mar/18/max-dowman-family-fifa-licences-to-manage-arsenal-teenagers-career
+- bbc.com — Four English sides out - is fifth Champions League spot still on?. https://www.bbc.com/sport/football/articles/cwy9yxw8dy9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +236,13 @@ Max Dowman's family get Fifa agent licences to manage Arsenal teenager's career.
 
 ---
 
-## Story 10: Have Liverpool lost 'chaotic' edge that made them so feared?
-**Slug (lower-third):** Have Liverpool lost 'chaotic' edge that made them so fear…  
-**When:** 2026-03-18 03:09 (America/Winnipeg)  •  **Published:** 2026-03-18 08:09 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 10: Champions League highlights: Liverpool ease past Galatasaray to reach quarter-finals
+**Slug (lower-third):** Champions League highlights: Liverpool ease past Galatasa…  
+**When:** 2026-03-18 17:21 (America/Winnipeg)  •  **Published:** 2026-03-18 22:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Have Liverpool lost 'chaotic' edge that made them so feared?. BBC Sport's Umir Irfan looks at why Liverpool have struggled to replicate last season's title-winning form. Relevance to standings and momentum.
+Champions League highlights: Liverpool ease past Galatasaray to reach quarter-finals. Liverpool beat Galatasaray 4-0 at Anfield to advance 4-1 on aggregate in the last 16 of the Champions League to set up a quarter-final tie against Paris Saint-Germain. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +251,7 @@ Have Liverpool lost 'chaotic' edge that made them so feared?. BBC Sport's Umir I
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Have Liverpool lost 'chaotic' edge that made them so feared?. https://www.bbc.com/sport/football/articles/c93wr3nwk31o?at_medium=RSS&at_campaign=rss
+- bbc.com — Champions League highlights: Liverpool ease past Galatasaray to reach quarter-finals. https://www.bbc.com/sport/football/videos/c1mjy4z8v9ro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
