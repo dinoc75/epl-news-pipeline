@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-20 01:59 (America/Winnipeg)  |  2026-03-20 06:59 (UTC)
+**Generated:** 2026-03-20 08:04 (America/Winnipeg)  |  2026-03-20 13:04 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Football Daily - James Milner - The Football Interview - BBC Sounds
-- Today on Sky Sports Racing: Lingfield, Newbury and Wolverhampton feature live on Friday
-- Emi Martinez: Aston Villa goalkeeper puts them closer to Europa League glory under Unai Emery
+- Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
+- Paul Merson: Liam Rosenior has to stop being so honest with Chelsea right up against it to qualify for Champions League
+- Football quiz: The best Premier League teams to go down and worst teams to stay up
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Man Utd manager Michael Carrick does not know when injured Matthijs De Ligt will return
-**Slug (lower-third):** Man Utd manager Michael Carrick does not know when injure…  
-**When:** 2026-03-19 17:30 (America/Winnipeg)  •  **Published:** 2026-03-19 22:30 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 1: Chelsea goalkeepers: Has Rosenior's rotation of Sanchez and Jorgensen made situation worse?
+**Slug (lower-third):** Chelsea goalkeepers: Has Rosenior's rotation of Sanchez a…  
+**When:** 2026-03-20 02:39 (America/Winnipeg)  •  **Published:** 2026-03-20 07:39 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd manager Michael Carrick does not know when injured Matthijs De Ligt will return. Manchester United defender Matthijs de Ligt is "improving" but manager Michael Carrick is unable to put a timeframe on the Dutchman's return from a back injury. Potential impact on the lineup and upcoming fixtures.
+Chelsea goalkeepers: Has Rosenior's rotation of Sanchez and Jorgensen made situation worse?. There is increased scrutiny of Chelsea head coach Liam Rosenior, with his decision not to name a first-choice goalkeeper chief among the criticism he now faces. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,57 @@ Man Utd manager Michael Carrick does not know when injured Matthijs De Ligt will
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man Utd manager Michael Carrick does not know when injured Matthijs De Ligt will return. https://www.bbc.com/sport/football/articles/c6254rzpq80o?at_medium=RSS&at_campaign=rss
+- bbc.com — Chelsea goalkeepers: Has Rosenior's rotation of Sanchez and Jorgensen made situation worse?. https://www.bbc.com/sport/football/articles/cy0dx0x1vkro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: FPL talking point: Avoid the free hit & captain Bruno Fernandes
+**Slug (lower-third):** FPL talking point: Avoid the free hit & captain Bruno Fer…  
+**When:** 2026-03-20 02:23 (America/Winnipeg)  •  **Published:** 2026-03-20 07:23 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+FPL talking point: Avoid the free hit & captain Bruno Fernandes. With Arsenal and Manchester City meeting in the Carabao Cup final this weekend, FPL managers have been faced with several conundrums. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — FPL talking point: Avoid the free hit & captain Bruno Fernandes. https://www.bbc.com/sport/football/articles/c5ygy99gx7zo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
+**Slug (lower-third):** Premier League and FPL team news: All your injury and Fan…  
+**When:** 2026-03-20 06:09 (America/Winnipeg)  •  **Published:** 2026-03-20 11:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. https://www.bbc.com/sport/articles/c87wgx7g0zpo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +92,13 @@ Man Utd manager Michael Carrick does not know when injured Matthijs De Ligt will
 
 ### Club Updates
 
-## Story 2: Football Daily - James Milner - The Football Interview - BBC Sounds
-**Slug (lower-third):** Football Daily - James Milner - The Football Interview - …  
-**When:** 2026-03-20 01:00 (America/Winnipeg)  •  **Published:** 2026-03-20 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Paul Merson: Liam Rosenior has to stop being so honest with Chelsea right up against it to qualify for Champions League
+**Slug (lower-third):** Paul Merson: Liam Rosenior has to stop being so honest wi…  
+**When:** 2026-03-20 05:41 (America/Winnipeg)  •  **Published:** 2026-03-20 10:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Football Daily - James Milner - The Football Interview - BBC Sounds. Kelly Somers speaks to Brighton midfielder James Milner. Relevance to standings and momentum.
+Paul Merson: Liam Rosenior has to stop being so honest with Chelsea right up against it to qualify for Champions League. Paul Merson has given his latest column on Chelseas recent struggles after three straight defeats; Liam Rosenior has been criticised on and off the pitch amid this run; watch Everton vs Chelsea live on Sky Sports this Saturday Night Football from 5pm, kick-off 5.30pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +107,7 @@ Football Daily - James Milner - The Football Interview - BBC Sounds. Kelly Somer
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football Daily - James Milner - The Football Interview - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0n798kw?at_medium=RSS&at_campaign=rss
+- skysports.com — Paul Merson: Liam Rosenior has to stop being so honest with Chelsea right up against it to qualify for Champions League. https://www.skysports.com/football/news/12040/13522162/paul-merson-liam-rosenior-has-to-stop-being-so-honest-with-chelsea-right-up-against-it-to-qualify-for-champions-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,10 +116,34 @@ Football Daily - James Milner - The Football Interview - BBC Sounds. Kelly Somer
 
 ---
 
-## Story 3: Today on Sky Sports Racing: Lingfield, Newbury and Wolverhampton feature live on Friday
+## Story 5: Football quiz: The best Premier League teams to go down and worst teams to stay up
+**Slug (lower-third):** Football quiz: The best Premier League teams to go down a…  
+**When:** 2026-03-20 05:29 (America/Winnipeg)  •  **Published:** 2026-03-20 10:29 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football quiz: The best Premier League teams to go down and worst teams to stay up. To celebrate an especially competitive relegation battle, test yourself on the best Premier League teams to go down and the worst to stay up. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football quiz: The best Premier League teams to go down and worst teams to stay up. https://www.bbc.com/sport/football/articles/c2lr5ep4gqeo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Today on Sky Sports Racing: Lingfield, Newbury and Wolverhampton feature live on Friday
 **Slug (lower-third):** Today on Sky Sports Racing: Lingfield, Newbury and Wolver…  
 **When:** 2026-03-20 01:00 (America/Winnipeg)  •  **Published:** 2026-03-20 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
+**Virality score:** 95  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
 Today on Sky Sports Racing: Lingfield, Newbury and Wolverhampton feature live on Friday. In Friday's feature race, the progressive Came From Nowhere looks to make it three on the bounce in what looks an exciting novice to kickstart our action from Newbury; we also have competitive all-weather action from Lingfield and Wolverhampton, live on Sky Sports Racing from 2.00pm Relevance to standings and momentum.
@@ -90,10 +164,10 @@ Today on Sky Sports Racing: Lingfield, Newbury and Wolverhampton feature live on
 
 ---
 
-## Story 4: Emi Martinez: Aston Villa goalkeeper puts them closer to Europa League glory under Unai Emery
+## Story 7: Emi Martinez: Aston Villa goalkeeper puts them closer to Europa League glory under Unai Emery
 **Slug (lower-third):** Emi Martinez: Aston Villa goalkeeper puts them closer to …  
 **When:** 2026-03-19 19:06 (America/Winnipeg)  •  **Published:** 2026-03-20 00:06 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Emi Martinez: Aston Villa goalkeeper puts them closer to Europa League glory under Unai Emery. Aston Villa were urged not to become a "maybe" team. Yet maybe this is their year to end a 30-year trophy drought. Relevance to standings and momentum.
@@ -114,10 +188,10 @@ Emi Martinez: Aston Villa goalkeeper puts them closer to Europa League glory und
 
 ---
 
-## Story 5: Famous night for Nottingham Forest in a season to otherwise forget
+## Story 8: Famous night for Nottingham Forest in a season to otherwise forget
 **Slug (lower-third):** Famous night for Nottingham Forest in a season to otherwi…  
 **When:** 2026-03-19 18:35 (America/Winnipeg)  •  **Published:** 2026-03-19 23:35 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+**Virality score:** 86  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Famous night for Nottingham Forest in a season to otherwise forget. Nottingham Forest are fighting for Premier League survival but reaching the Europa League quarter-finals could provide hope in an otherwise torrid season. Relevance to standings and momentum.
@@ -138,10 +212,10 @@ Famous night for Nottingham Forest in a season to otherwise forget. Nottingham F
 
 ---
 
-## Story 6: Premier League and Carabao Cup: things to look out for this weekend
+## Story 9: Premier League and Carabao Cup: things to look out for this weekend
 **Slug (lower-third):** Premier League and Carabao Cup: things to look out for th…  
 **When:** 2026-03-19 19:00 (America/Winnipeg)  •  **Published:** 2026-03-20 00:00 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+**Virality score:** 85  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League and Carabao Cup: things to look out for this weekend. Igor Thiago looms over Leeds, Newcastle need to bounce back from Barca and Viktor Gyokeres aims for hero status Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -162,10 +236,10 @@ Premier League and Carabao Cup: things to look out for this weekend. Igor Thiago
 
 ---
 
-## Story 7: Football gossip: Guimaraes, Rashford, Romero, Kolo Muani, Salah, Sancho, Tielemans,
+## Story 10: Football gossip: Guimaraes, Rashford, Romero, Kolo Muani, Salah, Sancho, Tielemans,
 **Slug (lower-third):** Football gossip: Guimaraes, Rashford, Romero, Kolo Muani,…  
 **When:** 2026-03-19 18:15 (America/Winnipeg)  •  **Published:** 2026-03-19 23:15 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+**Virality score:** 85  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Guimaraes, Rashford, Romero, Kolo Muani, Salah, Sancho, Tielemans,. Newcastle United's Bruno Guimaraes is wanted by Manchester United and Real Madrid, Tottenham captain Cristian Romero plays down talk of a move, plus more. Relevance to standings and momentum.
@@ -178,78 +252,6 @@ Football gossip: Guimaraes, Rashford, Romero, Kolo Muani, Salah, Sancho, Tielema
 
 ### Sources
 - bbc.com — Football gossip: Guimaraes, Rashford, Romero, Kolo Muani, Salah, Sancho, Tielemans,. https://www.bbc.com/sport/football/articles/cn0w28r0pdvo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Premier League Darts: Luke Littler battles back from brink to edge Gerwyn Price in last-leg thriller in Dublin
-**Slug (lower-third):** Premier League Darts: Luke Littler battles back from brin…  
-**When:** 2026-03-19 17:30 (America/Winnipeg)  •  **Published:** 2026-03-19 22:30 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~31s
-
-### Presenter Script (3–5 sentences)
-Premier League Darts: Luke Littler battles back from brink to edge Gerwyn Price in last-leg thriller in Dublin. Luke Littler battles back from 5-0 down, reeling off six legs on the spin to beat Gerwyn Price to win Night Seven in Dublin; you can watch Premier League Darts live on Sky Sports every Thursday all the way through until the finale at The O2 in London on May 28 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Premier League Darts: Luke Littler battles back from brink to edge Gerwyn Price in last-leg thriller in Dublin. https://www.skysports.com/darts/news/12040/13521825/premier-league-darts-luke-littler-battles-back-from-brink-to-edge-gerwyn-price-in-last-leg-thriller-in-dublin
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Four English sides out - is fifth Champions League spot still on?
-**Slug (lower-third):** Four English sides out - is fifth Champions League spot s…  
-**When:** 2026-03-19 17:18 (America/Winnipeg)  •  **Published:** 2026-03-19 22:18 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Four English sides out - is fifth Champions League spot still on?. Could the Premier League get an extra place in the Champions League again? This is how it looks after the last 16. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Four English sides out - is fifth Champions League spot still on?. https://www.bbc.com/sport/football/articles/cwy9yxw8dy9o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Aston Villa 2-0 Lille (Agg:3-0): John McGinn and Leon Bailey goals send Villa into Europa League quarter-finals
-**Slug (lower-third):** Aston Villa 2-0 Lille (Agg:3-0): John McGinn and Leon Bai…  
-**When:** 2026-03-19 16:45 (America/Winnipeg)  •  **Published:** 2026-03-19 21:45 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Aston Villa 2-0 Lille (Agg:3-0): John McGinn and Leon Bailey goals send Villa into Europa League quarter-finals. Aston Villa are into the quarter-finals of the Europa League following a 2-0 win over Lille at Villa Park. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Aston Villa 2-0 Lille (Agg:3-0): John McGinn and Leon Bailey goals send Villa into Europa League quarter-finals. https://www.skysports.com/football/aston-villa-vs-lille/report/554910
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
