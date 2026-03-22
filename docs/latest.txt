@@ -1,28 +1,80 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-21 13:40 (America/Winnipeg)  |  2026-03-21 18:40 (UTC)
+**Generated:** 2026-03-21 21:28 (America/Winnipeg)  |  2026-03-22 02:28 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 26s
+**Estimated total video length:** ~3m 22s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- WSL highlights: Manchester City 5-2 Tottenham Hotspur
-- WSL: London City Lionesses 1-1 Chelsea highlights
-- Brighton 2-1 Liverpool: 'If Reds play like that at PSG it could be 10-0'
+- Match of the day: How Liverpool were 'bullied' by Brighton
+- Match of the day: 'Inexperienced' Chelsea should ditch transfer policy, say Wayne Rooney and Alan Shearer
+- The race no-one wants to win a are Everton serious top-five contenders?
+
+---
+
+### Managerial Moves
+
+## Story 1: Igor Tudor: Tottenham boss says he did not confuse Allan Taylor for Arne Slot
+**Slug (lower-third):** Igor Tudor: Tottenham boss says he did not confuse Allan …  
+**When:** 2026-03-21 17:30 (America/Winnipeg)  •  **Published:** 2026-03-21 22:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Igor Tudor: Tottenham boss says he did not confuse Allan Taylor for Arne Slot. Tottenham boss Igor Tudor clears up the viral moment where it was thought he mistakenly hugged someone thinking it was Liverpool manager Arne Slot. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Igor Tudor: Tottenham boss says he did not confuse Allan Taylor for Arne Slot. https://www.bbc.com/sport/football/articles/crk1dzp4kyyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 2: Match of the day: 'Inexperienced' Chelsea should ditch transfer policy, say Wayne Rooney and Alan Shearer
+**Slug (lower-third):** Match of the day: 'Inexperienced' Chelsea should ditch tr…  
+**When:** 2026-03-21 18:58 (America/Winnipeg)  •  **Published:** 2026-03-21 23:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+Match of the day: 'Inexperienced' Chelsea should ditch transfer policy, say Wayne Rooney and Alan Shearer. Match of the Day pundits Alan Shearer and Wayne Rooney insist Chelsea need to pivot away from their transfer strategy focused soley on purchasing younger players, believing their inexperienced squad may be the cause for their inconsistent form. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Match of the day: 'Inexperienced' Chelsea should ditch transfer policy, say Wayne Rooney and Alan Shearer. https://www.bbc.com/sport/football/videos/cwywlk3kx55o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Club Updates
 
-## Story 1: WSL highlights: Manchester City 5-2 Tottenham Hotspur
-**Slug (lower-third):** WSL highlights: Manchester City 5-2 Tottenham Hotspur  
-**When:** 2026-03-21 13:18 (America/Winnipeg)  •  **Published:** 2026-03-21 18:18 (UTC)  
+## Story 3: Match of the day: How Liverpool were 'bullied' by Brighton
+**Slug (lower-third):** Match of the day: How Liverpool were 'bullied' by Brighton  
+**When:** 2026-03-21 19:00 (America/Winnipeg)  •  **Published:** 2026-03-22 00:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL highlights: Manchester City 5-2 Tottenham Hotspur. Bunny Shaw scores a record-breaking hat-trick inside 21 minutes as Manchester City beat Tottenham Hotspur 5-2. Relevance to standings and momentum.
+Match of the day: How Liverpool were 'bullied' by Brighton. Match of the Day pundits Wayne Rooney and Alan Shearer break down what went wrong for Virgil van Dijk and Liverpool as they "absolutely bullied" by Brighton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +83,7 @@ WSL highlights: Manchester City 5-2 Tottenham Hotspur. Bunny Shaw scores a recor
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL highlights: Manchester City 5-2 Tottenham Hotspur. https://www.bbc.com/sport/football/videos/crl18dkwk1jo?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the day: How Liverpool were 'bullied' by Brighton. https://www.bbc.com/sport/football/videos/c0rx8pwp0l0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +92,13 @@ WSL highlights: Manchester City 5-2 Tottenham Hotspur. Bunny Shaw scores a recor
 
 ---
 
-## Story 2: WSL: London City Lionesses 1-1 Chelsea highlights
-**Slug (lower-third):** WSL: London City Lionesses 1-1 Chelsea highlights  
-**When:** 2026-03-21 13:18 (America/Winnipeg)  •  **Published:** 2026-03-21 18:18 (UTC)  
+## Story 4: The race no-one wants to win a are Everton serious top-five contenders?
+**Slug (lower-third):** The race no-one wants to win a are Everton serious top-fi…  
+**When:** 2026-03-21 18:49 (America/Winnipeg)  •  **Published:** 2026-03-21 23:49 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL: London City Lionesses 1-1 Chelsea highlights. Isobel Goodwin scores a late equaliser for London City Lionesses and ends Chelsea's five-game winning run. Relevance to standings and momentum.
+The race no-one wants to win a are Everton serious top-five contenders?. The fight for Champions League football appears to be turning into one no-one wants to win, but have Everton snuck into the race? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +107,7 @@ WSL: London City Lionesses 1-1 Chelsea highlights. Isobel Goodwin scores a late 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL: London City Lionesses 1-1 Chelsea highlights. https://www.bbc.com/sport/football/videos/cn8djvyq7dyo?at_medium=RSS&at_campaign=rss
+- bbc.com — The race no-one wants to win a are Everton serious top-five contenders?. https://www.bbc.com/sport/football/articles/czd7104md18o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,33 +116,9 @@ WSL: London City Lionesses 1-1 Chelsea highlights. Isobel Goodwin scores a late 
 
 ---
 
-## Story 3: Brighton 2-1 Liverpool: 'If Reds play like that at PSG it could be 10-0'
-**Slug (lower-third):** Brighton 2-1 Liverpool: 'If Reds play like that at PSG it…  
-**When:** 2026-03-21 13:03 (America/Winnipeg)  •  **Published:** 2026-03-21 18:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Brighton 2-1 Liverpool: 'If Reds play like that at PSG it could be 10-0'. Arne Slot needs answers quickly or Liverpool's unwanted records may no longer be his only worry. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Brighton 2-1 Liverpool: 'If Reds play like that at PSG it could be 10-0'. https://www.bbc.com/sport/football/articles/cevky4z9drgo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Danny Welbeck - should in-form Brighton forward go to World Cup with England?
+## Story 5: Danny Welbeck - should in-form Brighton forward go to World Cup with England?
 **Slug (lower-third):** Danny Welbeck - should in-form Brighton forward go to Wor…  
-**When:** 2026-03-21 12:34 (America/Winnipeg)  •  **Published:** 2026-03-21 17:34 (UTC)  
+**When:** 2026-03-21 17:54 (America/Winnipeg)  •  **Published:** 2026-03-21 22:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -112,13 +140,13 @@ Danny Welbeck - should in-form Brighton forward go to World Cup with England?. D
 
 ---
 
-## Story 5: Fulham 2-1 Burnley | Premier League highlights
-**Slug (lower-third):** Fulham 2-1 Burnley | Premier League highlights  
-**When:** 2026-03-21 12:32 (America/Winnipeg)  •  **Published:** 2026-03-21 17:32 (UTC)  
+## Story 6: Premier League Highlights: Leeds united 0-0 Brentford
+**Slug (lower-third):** Premier League Highlights: Leeds united 0-0 Brentford  
+**When:** 2026-03-21 17:34 (America/Winnipeg)  •  **Published:** 2026-03-21 22:34 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham 2-1 Burnley | Premier League highlights. FREE TO WATCH: Highlights from Fulham's match against Burnley in the Premier League. Relevance to standings and momentum.
+Premier League Highlights: Leeds united 0-0 Brentford. Leeds United play out a goalless draw against Brentford at Elland Road seeing themmove four points clear of the Premier League's bottom three. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -127,7 +155,7 @@ Fulham 2-1 Burnley | Premier League highlights. FREE TO WATCH: Highlights from F
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Fulham 2-1 Burnley | Premier League highlights. https://www.skysports.com/watch/video/13522747/fulham-2-1-burnley-premier-league-highlights
+- bbc.com — Premier League Highlights: Leeds united 0-0 Brentford. https://www.bbc.com/sport/football/videos/c5yxkek44kvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -136,13 +164,13 @@ Fulham 2-1 Burnley | Premier League highlights. FREE TO WATCH: Highlights from F
 
 ---
 
-## Story 6: Tearful Raul Jimenez wraps up Fulham win over Burnley then honours late father
-**Slug (lower-third):** Tearful Raul Jimenez wraps up Fulham win over Burnley the…  
-**When:** 2026-03-21 12:21 (America/Winnipeg)  •  **Published:** 2026-03-21 17:21 (UTC)  
+## Story 7: Premier League Highlights: Everton 3-0 Chelsea
+**Slug (lower-third):** Premier League Highlights: Everton 3-0 Chelsea  
+**When:** 2026-03-21 17:30 (America/Winnipeg)  •  **Published:** 2026-03-21 22:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tearful Raul Jimenez wraps up Fulham win over Burnley then honours late father. Raul Jimenez added a late penalty to seal Fulham's 3-1 comeback win against Burnley, who took the lead in the second half through Zian Flemming Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League Highlights: Everton 3-0 Chelsea. Beto scores twice for Everton to win 3-0 and condemn Chelsea to their fourth loss in a row across all competitions. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -151,7 +179,7 @@ Tearful Raul Jimenez wraps up Fulham win over Burnley then honours late father. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Tearful Raul Jimenez wraps up Fulham win over Burnley then honours late father. https://www.theguardian.com/football/2026/mar/21/fulham-burnley-premier-league-match-report
+- bbc.com — Premier League Highlights: Everton 3-0 Chelsea. https://www.bbc.com/sport/football/videos/cvgleze5g2yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -160,13 +188,13 @@ Tearful Raul Jimenez wraps up Fulham win over Burnley then honours late father. 
 
 ---
 
-## Story 7: Watford 0-0 Leicester City: Foxes stay in bottom three after goalless draw
-**Slug (lower-third):** Watford 0-0 Leicester City: Foxes stay in bottom three af…  
-**When:** 2026-03-21 12:15 (America/Winnipeg)  •  **Published:** 2026-03-21 17:15 (UTC)  
+## Story 8: Premier League Highlights: Fulham 3-1 Burnley
+**Slug (lower-third):** Premier League Highlights: Fulham 3-1 Burnley  
+**When:** 2026-03-21 17:30 (America/Winnipeg)  •  **Published:** 2026-03-21 22:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Watford 0-0 Leicester City: Foxes stay in bottom three after goalless draw. Patson Daka missed a penalty dented Leicester's Sky Bet Championship survival bid in their 0-0 draw against Watford at Vicarage Road. Relevance to standings and momentum.
+Premier League Highlights: Fulham 3-1 Burnley. Fulham boost their European hopes as they fought back to beat Premier League strugglers Burnley at Craven Cottage. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -175,7 +203,7 @@ Watford 0-0 Leicester City: Foxes stay in bottom three after goalless draw. Pats
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Watford 0-0 Leicester City: Foxes stay in bottom three after goalless draw. https://www.skysports.com/football/watford-vs-leicester-city/report/534786
+- bbc.com — Premier League Highlights: Fulham 3-1 Burnley. https://www.bbc.com/sport/football/videos/c4gxexgjwvno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -184,13 +212,13 @@ Watford 0-0 Leicester City: Foxes stay in bottom three after goalless draw. Pats
 
 ---
 
-## Story 8: Southampton 2-0 Oxford United: Saints strike early to ease to victory
-**Slug (lower-third):** Southampton 2-0 Oxford United: Saints strike early to eas…  
-**When:** 2026-03-21 12:15 (America/Winnipeg)  •  **Published:** 2026-03-21 17:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: 'We enjoy it': Gabriel relishing Carabao Cup final battle with Haaland
+**Slug (lower-third):** 'We enjoy it': Gabriel relishing Carabao Cup final battle…  
+**When:** 2026-03-21 17:30 (America/Winnipeg)  •  **Published:** 2026-03-21 22:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Southampton 2-0 Oxford United: Saints strike early to ease to victory. A Shea Charles wonder goal helped promotion-chasing Southampton secure their ninth Championship win in 12 games with a 2-0 victory over Oxford. Relevance to standings and momentum.
+'We enjoy it': Gabriel relishing Carabao Cup final battle with Haaland. Leader of Arsenal's defence 'gives everything for the badge' and hopes to shut out Manchester City at Wembley Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -199,7 +227,7 @@ Southampton 2-0 Oxford United: Saints strike early to ease to victory. A Shea Ch
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Southampton 2-0 Oxford United: Saints strike early to ease to victory. https://www.skysports.com/football/southampton-vs-oxford-united/report/534784
+- theguardian.com — 'We enjoy it': Gabriel relishing Carabao Cup final battle with Haaland. https://www.theguardian.com/football/2026/mar/21/gabriel-magalhaes-arsenal-manchester-city-carabao-cup-final
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -208,13 +236,13 @@ Southampton 2-0 Oxford United: Saints strike early to ease to victory. A Shea Ch
 
 ---
 
-## Story 9: Gallagher Prem: Northampton edge past bottom side Newcastle to go top as Exeter and Gloucester also win
-**Slug (lower-third):** Gallagher Prem: Northampton edge past bottom side Newcast…  
-**When:** 2026-03-21 12:01 (America/Winnipeg)  •  **Published:** 2026-03-21 17:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 10: Football gossip: Franca, Camavinga, Rashford, Guimaraes, Raphinha, Haaland, Rudiger, Ederson
+**Slug (lower-third):** Football gossip: Franca, Camavinga, Rashford, Guimaraes, …  
+**When:** 2026-03-21 17:05 (America/Winnipeg)  •  **Published:** 2026-03-21 22:05 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Gallagher Prem: Northampton edge past bottom side Newcastle to go top as Exeter and Gloucester also win. Newcastle threaten to pick up just their second win of the season with upset at Northampton as hosts clinch nervy 28-27 victory; Exeter beat Sale 26-14 to move third in Gallagher Prem, while Gloucester earn crucial 29-19 win at Harlequins Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Franca, Camavinga, Rashford, Guimaraes, Raphinha, Haaland, Rudiger, Ederson. Roma's Wesley Franca emerges as a target for Arsenal, Liverpool and Chelsea keen on Real Madrid midfielder Eduardo Camavinga while Marcus Rashford faces uncertain Barcelona future. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -223,31 +251,7 @@ Gallagher Prem: Northampton edge past bottom side Newcastle to go top as Exeter 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Gallagher Prem: Northampton edge past bottom side Newcastle to go top as Exeter and Gloucester also win. https://www.skysports.com/rugby-union/news/12040/13522673/gallagher-prem-northampton-edge-past-bottom-side-newcastle-to-go-top-as-exeter-and-gloucester-also-win
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Khadija Shaw's hat-trick heroics for Man City 'like watching a video game'
-**Slug (lower-third):** Khadija Shaw's hat-trick heroics for Man City 'like watch…  
-**When:** 2026-03-21 11:40 (America/Winnipeg)  •  **Published:** 2026-03-21 16:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Khadija Shaw's hat-trick heroics for Man City 'like watching a video game'. Khadija Shaw's performance against Tottenham was "like watching a video game", says team-mate Sam Coffey after latest three-goal display. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Khadija Shaw's hat-trick heroics for Man City 'like watching a video game'. https://www.bbc.com/sport/football/articles/cpqxzl5j1xgo?at_medium=RSS&at_campaign=rss
+- bbc.com — Football gossip: Franca, Camavinga, Rashford, Guimaraes, Raphinha, Haaland, Rudiger, Ederson. https://www.bbc.com/sport/football/articles/c20qjxg7w91o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
