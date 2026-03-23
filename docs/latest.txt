@@ -1,28 +1,80 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-22 13:40 (America/Winnipeg)  |  2026-03-22 18:40 (UTC)
+**Generated:** 2026-03-22 21:29 (America/Winnipeg)  |  2026-03-23 02:29 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~4m 30s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arsenal 0-2 Manchester City | Carabao Cup final highlights
-- Arsenal 0-2 Man City: Nico O'Reilly's double clinches Carabao Cup triumph and ends Gunners' quadruple hopes
-- Leicester City Women: Are Foxes destined for relegation play-off?
+- Match of the Day analysis: Elliot Anderson stars for Nottingham Forest
+- Match of the Day analysis: John McGinn stars for Aston Villa
+- Match of the Day: Newcastle United analysis
+
+---
+
+### Managerial Moves
+
+## Story 1: Kepa Arrizabalaga: Mikel Arteta's 'sentimental' goalkeeping decision that hurt Arsenal
+**Slug (lower-third):** Kepa Arrizabalaga: Mikel Arteta's 'sentimental' goalkeepi…  
+**When:** 2026-03-22 16:12 (America/Winnipeg)  •  **Published:** 2026-03-22 21:12 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Kepa Arrizabalaga: Mikel Arteta's 'sentimental' goalkeeping decision that hurt Arsenal. There is no hiding place for a manager when your decisions go wrong, and Mikel Arteta's call to stick by cup goalkeeper Kepa Arrizabalaga will haunt him. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Kepa Arrizabalaga: Mikel Arteta's 'sentimental' goalkeeping decision that hurt Arsenal. https://www.bbc.com/sport/football/articles/cg73g9g7j5ko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 2: Liverpool owners FSG abandon multi-club model plans - Paper talk and football transfer gossip
+**Slug (lower-third):** Liverpool owners FSG abandon multi-club model plans - Pap…  
+**When:** 2026-03-22 17:00 (America/Winnipeg)  •  **Published:** 2026-03-22 22:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool owners FSG abandon multi-club model plans - Paper talk and football transfer gossip. Latest from Mondays papers: Trent Alexander-Arnold dropped by Real Madrid after failing to report on time for training; Newcastle captain Bruno Guimaraes explains his Tyne-Wear derby absence Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Liverpool owners FSG abandon multi-club model plans - Paper talk and football transfer gossip. https://www.skysports.com/football/news/12040/13523253/liverpool-owners160fsg-abandon-multi-club-model-plans-paper-talk-and-football-transfer-gossip
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Club Updates
 
-## Story 1: Arsenal 0-2 Manchester City | Carabao Cup final highlights
-**Slug (lower-third):** Arsenal 0-2 Manchester City | Carabao Cup final highlights  
-**When:** 2026-03-22 13:31 (America/Winnipeg)  •  **Published:** 2026-03-22 18:31 (UTC)  
+## Story 3: Match of the Day analysis: Elliot Anderson stars for Nottingham Forest
+**Slug (lower-third):** Match of the Day analysis: Elliot Anderson stars for Nott…  
+**When:** 2026-03-22 19:04 (America/Winnipeg)  •  **Published:** 2026-03-23 00:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal 0-2 Manchester City | Carabao Cup final highlights. Highlights from the Carabao Cup final match between Arsenal and Manchester City. Relevance to standings and momentum.
+Match of the Day analysis: Elliot Anderson stars for Nottingham Forest. Kelly Cates, Joe Hart and Danny Murphy discuss why Nottingham Forest midfielder Elliot Anderson is "the favourite" to be in the starting XI for England in this summer's World Cup. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +83,7 @@ Arsenal 0-2 Manchester City | Carabao Cup final highlights. Highlights from the 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal 0-2 Manchester City | Carabao Cup final highlights. https://www.skysports.com/watch/video/13523165/arsenal-0-2-manchester-city-carabao-cup-final-highlights
+- bbc.com — Match of the Day analysis: Elliot Anderson stars for Nottingham Forest. https://www.bbc.com/sport/football/videos/cddq04vvyveo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +92,13 @@ Arsenal 0-2 Manchester City | Carabao Cup final highlights. Highlights from the 
 
 ---
 
-## Story 2: Arsenal 0-2 Man City: Nico O'Reilly's double clinches Carabao Cup triumph and ends Gunners' quadruple hopes
-**Slug (lower-third):** Arsenal 0-2 Man City: Nico O'Reilly's double clinches Car…  
-**When:** 2026-03-22 13:15 (America/Winnipeg)  •  **Published:** 2026-03-22 18:15 (UTC)  
+## Story 4: Match of the Day analysis: John McGinn stars for Aston Villa
+**Slug (lower-third):** Match of the Day analysis: John McGinn stars for Aston Vi…  
+**When:** 2026-03-22 19:04 (America/Winnipeg)  •  **Published:** 2026-03-23 00:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal 0-2 Man City: Nico O'Reilly's double clinches Carabao Cup triumph and ends Gunners' quadruple hopes. Manchester City won the Carabao Cup as Nico O'Reilly's double clinched a 2-0 win over Arsenal to end their hopes of a quadruple. Relevance to standings and momentum.
+Match of the Day analysis: John McGinn stars for Aston Villa. Kelly Cates, Joe Hart, Danny Murphy discuss the impact of midfielder John McGinn's "confidence" and "creativity" for Aston Villa in his side's 2-0 victory against West Ham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +107,7 @@ Arsenal 0-2 Man City: Nico O'Reilly's double clinches Carabao Cup triumph and en
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal 0-2 Man City: Nico O'Reilly's double clinches Carabao Cup triumph and ends Gunners' quadruple hopes. https://www.skysports.com/football/arsenal-vs-manchester-city/report/553923
+- bbc.com — Match of the Day analysis: John McGinn stars for Aston Villa. https://www.bbc.com/sport/football/videos/c70d4zllen4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +116,13 @@ Arsenal 0-2 Man City: Nico O'Reilly's double clinches Carabao Cup triumph and en
 
 ---
 
-## Story 3: Leicester City Women: Are Foxes destined for relegation play-off?
-**Slug (lower-third):** Leicester City Women: Are Foxes destined for relegation p…  
-**When:** 2026-03-22 13:05 (America/Winnipeg)  •  **Published:** 2026-03-22 18:05 (UTC)  
+## Story 5: Match of the Day: Newcastle United analysis
+**Slug (lower-third):** Match of the Day: Newcastle United analysis  
+**When:** 2026-03-22 19:04 (America/Winnipeg)  •  **Published:** 2026-03-23 00:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leicester City Women: Are Foxes destined for relegation play-off?. BBC Sport assesses how damaging Leicester's 2-1 defeat by Aston Villa is for their survival chances in the Women's Super League. Relevance to standings and momentum.
+Match of the Day: Newcastle United analysis. Match of the Day's Kelly Cates, Joe Hart and Danny Murphy discuss how Newcastle are "struggling with consistency" since competing in the Champions League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +131,7 @@ Leicester City Women: Are Foxes destined for relegation play-off?. BBC Sport ass
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Leicester City Women: Are Foxes destined for relegation play-off?. https://www.bbc.com/sport/football/articles/cqxlrnv53dzo?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day: Newcastle United analysis. https://www.bbc.com/sport/football/videos/cg5476vq938o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -88,13 +140,13 @@ Leicester City Women: Are Foxes destined for relegation play-off?. BBC Sport ass
 
 ---
 
-## Story 4: Igor Tudor at Tottenham: 'Impossible for him to stay' - what next for Spurs?
-**Slug (lower-third):** Igor Tudor at Tottenham: 'Impossible for him to stay' - w…  
-**When:** 2026-03-22 12:45 (America/Winnipeg)  •  **Published:** 2026-03-22 17:45 (UTC)  
+## Story 6: Match of the Day: Tottenham Hotspur and Igor Tudor analysis
+**Slug (lower-third):** Match of the Day: Tottenham Hotspur and Igor Tudor analys…  
+**When:** 2026-03-22 19:04 (America/Winnipeg)  •  **Published:** 2026-03-23 00:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Igor Tudor at Tottenham: 'Impossible for him to stay' - what next for Spurs?. How does boss Igor Tudor survive at Tottenham after another damaging defeat? Nick Mashiter analyses the situation. Relevance to standings and momentum.
+Match of the Day: Tottenham Hotspur and Igor Tudor analysis. Kelly Cates, Joe Hart and Danny Murphy discuss how a "fragile" Tottenham "fell apart" against Nottingham Forest, and what this could mean for interim boss Igor Tudor's position. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -103,7 +155,7 @@ Igor Tudor at Tottenham: 'Impossible for him to stay' - what next for Spurs?. Ho
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Igor Tudor at Tottenham: 'Impossible for him to stay' - what next for Spurs?. https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day: Tottenham Hotspur and Igor Tudor analysis. https://www.bbc.com/sport/football/videos/cwyd9ln0dp2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -112,13 +164,13 @@ Igor Tudor at Tottenham: 'Impossible for him to stay' - what next for Spurs?. Ho
 
 ---
 
-## Story 5: WSL roundup: Leicester rooted to bottom but Liverpool ease relegation fears
-**Slug (lower-third):** WSL roundup: Leicester rooted to bottom but Liverpool eas…  
-**When:** 2026-03-22 12:43 (America/Winnipeg)  •  **Published:** 2026-03-22 17:43 (UTC)  
+## Story 7: Football gossip: Lewis-Skelly, Silva, Guimaraes, Santos, Lewandowski, Tudor, Goretzka
+**Slug (lower-third):** Football gossip: Lewis-Skelly, Silva, Guimaraes, Santos, …  
+**When:** 2026-03-22 18:22 (America/Winnipeg)  •  **Published:** 2026-03-22 23:22 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL roundup: Leicester rooted to bottom but Liverpool ease relegation fears. Leicester let a 1-0 lead slip to lose 2-1 at home against Aston Villa, while Liverpool drew 0-0 at Brighton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Lewis-Skelly, Silva, Guimaraes, Santos, Lewandowski, Tudor, Goretzka. Arsenal defender Myles Lewis-Skelly is on Manchester United's radar, Manchester City midfielder Bernardo Silva has reservations over Barcelona switch, Newcastle midfielder Bruno Guimaraes has already held talks with Manchester United, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -127,7 +179,7 @@ WSL roundup: Leicester rooted to bottom but Liverpool ease relegation fears. Lei
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — WSL roundup: Leicester rooted to bottom but Liverpool ease relegation fears. https://www.theguardian.com/football/2026/mar/22/wsl-roundup-brighton-liverpool-leicester-aston-villa
+- bbc.com — Football gossip: Lewis-Skelly, Silva, Guimaraes, Santos, Lewandowski, Tudor, Goretzka. https://www.bbc.com/sport/football/articles/cgrly81gegxo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -136,13 +188,13 @@ WSL roundup: Leicester rooted to bottom but Liverpool ease relegation fears. Lei
 
 ---
 
-## Story 6: Newcastle-Sunderland match halted after report of racism towards Lutsharel Geertruida
-**Slug (lower-third):** Newcastle-Sunderland match halted after report of racism …  
-**When:** 2026-03-22 12:33 (America/Winnipeg)  •  **Published:** 2026-03-22 17:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Beau Greaves bounces back to start a new winning streak with back-to-back titles in Women's Series
+**Slug (lower-third):** Beau Greaves bounces back to start a new winning streak w…  
+**When:** 2026-03-22 18:07 (America/Winnipeg)  •  **Published:** 2026-03-22 23:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Newcastle-Sunderland match halted after report of racism towards Lutsharel Geertruida. Referee Anthony Taylor stopped the Premier League match in line with the competition's on-field anti-discrimination protocol. Relevance to standings and momentum.
+Beau Greaves bounces back to start a new winning streak with back-to-back titles in Women's Series. Darts star Beau Greaves bounced back to winning ways with back-to-back titles following a record-ending loss on Saturday; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -151,7 +203,7 @@ Newcastle-Sunderland match halted after report of racism towards Lutsharel Geert
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Newcastle-Sunderland match halted after report of racism towards Lutsharel Geertruida. https://www.bbc.com/sport/football/articles/c80mr4xjg85o?at_medium=RSS&at_campaign=rss
+- skysports.com — Beau Greaves bounces back to start a new winning streak with back-to-back titles in Women's Series. https://www.skysports.com/darts/news/12040/13523261/beau-greaves-bounces-back-to-start-a-new-winning-streak-with-back-to-back-titles-in-womens-series
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -160,13 +212,13 @@ Newcastle-Sunderland match halted after report of racism towards Lutsharel Geert
 
 ---
 
-## Story 7: Spurs struck by strange mix of panic and resignation as the abyss draws them in | Jonathan Wilson
-**Slug (lower-third):** Spurs struck by strange mix of panic and resignation as t…  
-**When:** 2026-03-22 12:28 (America/Winnipeg)  •  **Published:** 2026-03-22 17:28 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Luke Humphries wins Belgian Darts Open as Luke Littler's hopes of Wieze hat-trick ends in shock defeat
+**Slug (lower-third):** Luke Humphries wins Belgian Darts Open as Luke Littler's …  
+**When:** 2026-03-22 17:40 (America/Winnipeg)  •  **Published:** 2026-03-22 22:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Spurs struck by strange mix of panic and resignation as the abyss draws them in | Jonathan Wilson. It seems that no matter what Tottenham do, anxiety has set in as they see themselves plummet towards the Championship Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Luke Humphries wins Belgian Darts Open as Luke Littler's hopes of Wieze hat-trick ends in shock defeat. Luke Littler suffered a stunning 6-5 defeat to Niels Zonneveld in the third round of the Belgian Darts Open on Sunday afternoon as Luke Humphries collected title with victory against Jonny Clayton; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -175,7 +227,7 @@ Spurs struck by strange mix of panic and resignation as the abyss draws them in 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Spurs struck by strange mix of panic and resignation as the abyss draws them in | Jonathan Wilson. https://www.theguardian.com/football/2026/mar/22/tottenham-hotspur-nottingham-forest-premier-league-relegation
+- skysports.com — Luke Humphries wins Belgian Darts Open as Luke Littler's hopes of Wieze hat-trick ends in shock defeat. https://www.skysports.com/darts/news/12040/13523090/luke-humphries-wins-belgian-darts-open-as-luke-littlers-hopes-of-wieze-hat-trick-ends-in-shock-defeat
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -184,13 +236,13 @@ Spurs struck by strange mix of panic and resignation as the abyss draws them in 
 
 ---
 
-## Story 8: Tottenham 0-3 Nottingham Forest: Spurs in a relegation battle, says Bruno Saltor
-**Slug (lower-third):** Tottenham 0-3 Nottingham Forest: Spurs in a relegation ba…  
-**When:** 2026-03-22 12:25 (America/Winnipeg)  •  **Published:** 2026-03-22 17:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Premier League Highlights: Newcastle 1-2 Sunderland
+**Slug (lower-third):** Premier League Highlights: Newcastle 1-2 Sunderland  
+**When:** 2026-03-22 15:00 (America/Winnipeg)  •  **Published:** 2026-03-22 20:00 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham 0-3 Nottingham Forest: Spurs in a relegation battle, says Bruno Saltor. Coach Bruno Saltor admits everyone at Tottenham is aware they are in a relegation battle, and says a 3-0 Premier League defeat at home to fellow strugglers Nottingham Forest was a "tough one to take". Relevance to standings and momentum.
+Premier League Highlights: Newcastle 1-2 Sunderland. Brian Brobbey scores in the 90th minute for Sunderland as the Black Cats come from behind to beat rivals Newcastle United 2-1 in the Tyne-wear derby at St James' Park. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -199,55 +251,7 @@ Tottenham 0-3 Nottingham Forest: Spurs in a relegation battle, says Bruno Saltor
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tottenham 0-3 Nottingham Forest: Spurs in a relegation battle, says Bruno Saltor. https://www.bbc.com/sport/football/videos/cvgkdzj74j7o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Leicester Tigers 33-19 Bristol Bears: Tigers boost Gallagher Prem play-off hopes with bonus-point win
-**Slug (lower-third):** Leicester Tigers 33-19 Bristol Bears: Tigers boost Gallag…  
-**When:** 2026-03-22 12:09 (America/Winnipeg)  •  **Published:** 2026-03-22 17:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Leicester Tigers 33-19 Bristol Bears: Tigers boost Gallagher Prem play-off hopes with bonus-point win. Leicester took a huge step towards securing an end-of-season play-off spot with a hard-fought 33-19 victory over Bristol in an exciting Gallagher Prem contest. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Leicester Tigers 33-19 Bristol Bears: Tigers boost Gallagher Prem play-off hopes with bonus-point win. https://www.skysports.com/rugby-union/leicester-vs-bristol/111277
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Newcastle's season hits new low with Sunderland joy in Tyne-Wear derby
-**Slug (lower-third):** Newcastle's season hits new low with Sunderland joy in Ty…  
-**When:** 2026-03-22 12:08 (America/Winnipeg)  •  **Published:** 2026-03-22 17:08 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Newcastle's season hits new low with Sunderland joy in Tyne-Wear derby. From mocking and celebration to despair and disbelief - Newcastle fans go through every emotion as their poor Tyne-Wear derby record continues. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Newcastle's season hits new low with Sunderland joy in Tyne-Wear derby. https://www.bbc.com/sport/football/articles/cd6lqdqjlwzo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League Highlights: Newcastle 1-2 Sunderland. https://www.bbc.com/sport/football/videos/cgme7p7mkwjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
