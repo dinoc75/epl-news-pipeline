@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-23 08:12 (America/Winnipeg)  |  2026-03-23 13:12 (UTC)
+**Generated:** 2026-03-23 13:58 (America/Winnipeg)  |  2026-03-23 18:58 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 37s
+**Estimated total video length:** ~3m 24s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- English clubs' plea for bigger Champions League squads rejected after Spanish backlash
-- Dimitri Payet - former France and West Ham midfielder retires
-- England: Ben White gets first call-up since 2022 for Uruguay & Japan friendlies
+- Newcastle v the system - is Saudi 2030 vision unrealistic?
+- Harry Wilson: Fulham midfielder's form 'no surprise to Wales' says Ethan Ampadu
+- Chelsea: Appraising Liam Rosenior's early Chelsea tenure
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Michael Carrick: Man Utd yet to speak to other candidates for permanent manager position in boost for current head coach
-**Slug (lower-third):** Michael Carrick: Man Utd yet to speak to other candidates…  
-**When:** 2026-03-23 06:02 (America/Winnipeg)  •  **Published:** 2026-03-23 11:02 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 1: Chelsea: Appraising Liam Rosenior's early Chelsea tenure
+**Slug (lower-third):** Chelsea: Appraising Liam Rosenior's early Chelsea tenure  
+**When:** 2026-03-23 12:21 (America/Winnipeg)  •  **Published:** 2026-03-23 17:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Michael Carrick: Man Utd yet to speak to other candidates for permanent manager position in boost for current head coach. Michael Carrick is currently Manchester United head coach until the end of the season, after he replaced Ruben Amorim in January; United are currently top of the Premier League form table with 23 points from a possible 30 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea: Appraising Liam Rosenior's early Chelsea tenure. Liam Rosenior is facing criticism early in his tenure as Chelsea manager - but is it fair, and are his players on board as they head for the climax to the season? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,105 @@ Michael Carrick: Man Utd yet to speak to other candidates for permanent manager 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Michael Carrick: Man Utd yet to speak to other candidates for permanent manager position in boost for current head coach. https://www.skysports.com/football/news/12040/13523424/michael-carrick-man-utd-yet-to-speak-to-other-candidates-for-permanent-manager-position-in-boost-for-current-head-coach
+- bbc.com — Chelsea: Appraising Liam Rosenior's early Chelsea tenure. https://www.bbc.com/sport/football/articles/cg547vpj31zo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Tottenham's interim manager Igor Tudor mourns death of his father, Mario
+**Slug (lower-third):** Tottenham's interim manager Igor Tudor mourns death of hi…  
+**When:** 2026-03-23 12:16 (America/Winnipeg)  •  **Published:** 2026-03-23 17:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham's interim manager Igor Tudor mourns death of his father, Mario. Tudor informed of news following Spurs's 3-0 Forest while Cristian Romero promises '200%' in remaining games Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Tottenham's interim manager Igor Tudor mourns death of his father, Mario. https://www.theguardian.com/football/2026/mar/23/tottenham-premier-league-cristian-romero-relegation-battle
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Igor Tudor: Father of Tottenham interim coach dies as club offer condolences
+**Slug (lower-third):** Igor Tudor: Father of Tottenham interim coach dies as clu…  
+**When:** 2026-03-23 10:38 (America/Winnipeg)  •  **Published:** 2026-03-23 15:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Igor Tudor: Father of Tottenham interim coach dies as club offer condolences. Tottenham offer condolences to interim head coach Igor Tudor following the death of his father. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Igor Tudor: Father of Tottenham interim coach dies as club offer condolences. https://www.bbc.com/sport/football/articles/cy81n5w42wyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Chelsea: Champions League and Premier League defeats have left fans questioning Liam Rosenior and club owners
+**Slug (lower-third):** Chelsea: Champions League and Premier League defeats have…  
+**When:** 2026-03-23 09:41 (America/Winnipeg)  •  **Published:** 2026-03-23 14:41 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Chelsea: Champions League and Premier League defeats have left fans questioning Liam Rosenior and club owners. Chelsea sixth in Premier League and knocked out of Champions League after nightmare four-game losing streak; head coach Liam Rosenior and approach of club owners questioned by fans ahead of pivotal run of games Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Chelsea: Champions League and Premier League defeats have left fans questioning Liam Rosenior and club owners. https://www.skysports.com/football/news/12040/13523520/chelsea-champions-league-and-premier-league-defeats-have-left-fans-questioning-liam-rosenior-and-club-owners
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 5: Wayne Rooney: Phil Foden final appearance like a 'charity sub'
+**Slug (lower-third):** Wayne Rooney: Phil Foden final appearance like a 'charity…  
+**When:** 2026-03-23 11:53 (America/Winnipeg)  •  **Published:** 2026-03-23 16:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Wayne Rooney: Phil Foden final appearance like a 'charity sub'. Phil Foden's injury-time appearance in Manchester City's Carabao Cup final victory over Arsenal felt like a "charity" substitution, says former England captain Wayne Rooney. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Wayne Rooney: Phil Foden final appearance like a 'charity sub'. https://www.bbc.com/sport/football/articles/c2ev7mxr40go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +140,109 @@ Michael Carrick: Man Utd yet to speak to other candidates for permanent manager 
 
 ### Club Updates
 
-## Story 2: English clubs' plea for bigger Champions League squads rejected after Spanish backlash
-**Slug (lower-third):** English clubs' plea for bigger Champions League squads re…  
-**When:** 2026-03-23 07:30 (America/Winnipeg)  •  **Published:** 2026-03-23 12:30 (UTC)  
+## Story 6: Newcastle v the system - is Saudi 2030 vision unrealistic?
+**Slug (lower-third):** Newcastle v the system - is Saudi 2030 vision unrealistic?  
+**When:** 2026-03-23 13:36 (America/Winnipeg)  •  **Published:** 2026-03-23 18:36 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-English clubs' plea for bigger Champions League squads rejected after Spanish backlash. Premier League clubs wanted 28-man squads for Europe but the proposal has not been put forward for Uefa's executive committee Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Newcastle v the system - is Saudi 2030 vision unrealistic?. Newcastle want to be one of the top clubs in the world by 2030. BBC Sport examines why their Saudi owners are going to have to show a lot more ambition to get anywhere near that. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Newcastle v the system - is Saudi 2030 vision unrealistic?. https://www.bbc.com/sport/football/articles/cp8dxz6173xo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Harry Wilson: Fulham midfielder's form 'no surprise to Wales' says Ethan Ampadu
+**Slug (lower-third):** Harry Wilson: Fulham midfielder's form 'no surprise to Wa…  
+**When:** 2026-03-23 13:14 (America/Winnipeg)  •  **Published:** 2026-03-23 18:14 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Harry Wilson: Fulham midfielder's form 'no surprise to Wales' says Ethan Ampadu. Ethan Ampadu says Harry Wilsonas outstanding Fulham form comes as no surprise to those inside the Wales camp. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Harry Wilson: Fulham midfielder's form 'no surprise to Wales' says Ethan Ampadu. https://www.bbc.com/sport/football/videos/cj37m85g552o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Arsenal: Six players forced out of internationals as injuries bite for Premier League title hopefuls
+**Slug (lower-third):** Arsenal: Six players forced out of internationals as inju…  
+**When:** 2026-03-23 12:03 (America/Winnipeg)  •  **Published:** 2026-03-23 17:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal: Six players forced out of internationals as injuries bite for Premier League title hopefuls. Gabriel Magalhaes is the latest of six Arsenal players to become unavailable to play international games in the current window, with injuries hitting the Premier League leaders. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arsenal: Six players forced out of internationals as injuries bite for Premier League title hopefuls. https://www.bbc.com/sport/football/articles/c7478jx102yo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Anthony Gordon: Sunderland are 'not very good' compared with Newcastle United
+**Slug (lower-third):** Anthony Gordon: Sunderland are 'not very good' compared w…  
+**When:** 2026-03-23 10:08 (America/Winnipeg)  •  **Published:** 2026-03-23 15:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Anthony Gordon: Sunderland are 'not very good' compared with Newcastle United. Anthony Gordon says Newcastle United's defeat by rivals Sunderland is "not good enough" because the Black Cats are "not very good" compared with the Magpies. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Anthony Gordon: Sunderland are 'not very good' compared with Newcastle United. https://www.bbc.com/sport/football/articles/czx9ry2r0j2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: English clubs' plea for bigger Champions League squads rejected after Spanish backlash
+**Slug (lower-third):** English clubs' plea for bigger Champions League squads re…  
+**When:** 2026-03-23 07:30 (America/Winnipeg)  •  **Published:** 2026-03-23 12:30 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+English clubs' plea for bigger Champions League squads rejected after Spanish backlash. Premier League clubs wanted expanded 28-man squads for Champions League, but the proposal has not been put forward for Uefa's executive committee Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -58,198 +252,6 @@ English clubs' plea for bigger Champions League squads rejected after Spanish ba
 
 ### Sources
 - theguardian.com — English clubs' plea for bigger Champions League squads rejected after Spanish backlash. https://www.theguardian.com/football/2026/mar/23/english-clubs-plea-for-bigger-champions-league-squads-rejected-uefa-after-spanish-backlash
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Dimitri Payet - former France and West Ham midfielder retires
-**Slug (lower-third):** Dimitri Payet - former France and West Ham midfielder ret…  
-**When:** 2026-03-23 07:27 (America/Winnipeg)  •  **Published:** 2026-03-23 12:27 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Dimitri Payet - former France and West Ham midfielder retires. Former France and West Ham attacking midfielder Dimitri Payet says his retirement from a 20-year professional career "is the end of a beautiful journey". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Dimitri Payet - former France and West Ham midfielder retires. https://www.bbc.com/sport/football/articles/cre1zn2qr7ro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: England: Ben White gets first call-up since 2022 for Uruguay & Japan friendlies
-**Slug (lower-third):** England: Ben White gets first call-up since 2022 for Urug…  
-**When:** 2026-03-23 07:26 (America/Winnipeg)  •  **Published:** 2026-03-23 12:26 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-England: Ben White gets first call-up since 2022 for Uruguay & Japan friendlies. Arsenal defender Ben White is added to the England squad for the friendlies against Uruguay and Japan this month. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — England: Ben White gets first call-up since 2022 for Uruguay & Japan friendlies. https://www.bbc.com/sport/football/articles/cx2dy01l238o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: WSL talking points: hot-shots hit marks as Manchester United go second
-**Slug (lower-third):** WSL talking points: hot-shots hit marks as Manchester Uni…  
-**When:** 2026-03-23 07:08 (America/Winnipeg)  •  **Published:** 2026-03-23 12:08 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL talking points: hot-shots hit marks as Manchester United go second. Goal records and late winners caught the eye on a good weekend for both Manchester clubs Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — WSL talking points: hot-shots hit marks as Manchester United go second. https://www.theguardian.com/football/2026/mar/23/wsl-talking-points-khadija-shaw-kirsty-hanson-manchester-city-manchester-united
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Cristian Romero promises '200%' effort in Tottenham's battle against relegation
-**Slug (lower-third):** Cristian Romero promises '200%' effort in Tottenham's bat…  
-**When:** 2026-03-23 06:53 (America/Winnipeg)  •  **Published:** 2026-03-23 11:53 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Cristian Romero promises '200%' effort in Tottenham's battle against relegation. Cristian Romero has promised to put 200% into Tottenham's seven remaining 'finals' to avoid a seismic Premier League exit Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Cristian Romero promises '200%' effort in Tottenham's battle against relegation. https://www.theguardian.com/football/2026/mar/23/tottenham-premier-league-cristian-romero-relegation-battle
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: England squad: Harvey Barnes replaces injured Arsenal midfielder Eberechi Eze
-**Slug (lower-third):** England squad: Harvey Barnes replaces injured Arsenal mid…  
-**When:** 2026-03-23 06:42 (America/Winnipeg)  •  **Published:** 2026-03-23 11:42 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-England squad: Harvey Barnes replaces injured Arsenal midfielder Eberechi Eze. Newcastle winger Harvey Barnes earns call-up to Thomas Tuchel's England squad to replace the injured Eberechi Eze. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — England squad: Harvey Barnes replaces injured Arsenal midfielder Eberechi Eze. https://www.bbc.com/sport/football/articles/cgldklk5j34o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Women's Super League: Is Manchester City's Bunny Shaw a Ballon d'Or contender?
-**Slug (lower-third):** Women's Super League: Is Manchester City's Bunny Shaw a B…  
-**When:** 2026-03-23 06:20 (America/Winnipeg)  •  **Published:** 2026-03-23 11:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Women's Super League: Is Manchester City's Bunny Shaw a Ballon d'Or contender?. BBC Sport pundits Fara Williams and Nia Jones explain why Bunny Shaw is the best forward in the game right now. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Women's Super League: Is Manchester City's Bunny Shaw a Ballon d'Or contender?. https://www.bbc.com/sport/football/videos/c0rxgv0eq22o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Chelsea: Liam Rosenior not sitting well with fans and players don't look like they are on same page, says Paul Merson
-**Slug (lower-third):** Chelsea: Liam Rosenior not sitting well with fans and pla…  
-**When:** 2026-03-23 05:30 (America/Winnipeg)  •  **Published:** 2026-03-23 10:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
-
-### Presenter Script (3–5 sentences)
-Chelsea: Liam Rosenior not sitting well with fans and players don't look like they are on same page, says Paul Merson. Chelsea have lost their last four matches under Liam Rosenior after their 3-0 loss at Everton; Spurs are in real relegation trouble after being beaten by the same scoreline to Nottingham Forest; Newcastle also lost the Tyne-Wear derby to Sunderland to increase the pressure on Eddie Howe Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Chelsea: Liam Rosenior not sitting well with fans and players don't look like they are on same page, says Paul Merson. https://www.skysports.com/football/news/12040/13523384/chelsea-liam-rosenior-not-sitting-well-with-fans-and-players-dont-look-like-they-are-on-same-page-says-paul-merson
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Ref Watch: No penalty for Anthony Gordon but no dive either
-**Slug (lower-third):** Ref Watch: No penalty for Anthony Gordon but no dive eith…  
-**When:** 2026-03-23 04:46 (America/Winnipeg)  •  **Published:** 2026-03-23 09:46 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ref Watch: No penalty for Anthony Gordon but no dive either. Dermot Gallagher and Jay Bothroyd discuss whether Newcastle should have been given a penalty after Gordon goes down in the area during the first half against Sunderland. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Ref Watch: No penalty for Anthony Gordon but no dive either. https://www.skysports.com/watch/video/13523374/ref-watch-no-penalty-for-anthony-gordon-but-no-dive-either
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
