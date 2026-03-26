@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-26 08:21 (America/Winnipeg)  |  2026-03-26 13:21 (UTC)
+**Generated:** 2026-03-26 14:09 (America/Winnipeg)  |  2026-03-26 19:09 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 45s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- What do Rodri's 'La Liga' comments mean for midfielder and Manchester City
-- Refereeing and VAR errors increase in Premier League
-- Paris Saint-Germain: Ligue 1 postpone RC Lens fixture to ease fixture demands ahead of Liverpool Champions League tie
+- HUGE celebrations as Rock wins first Premier League match
+- Keely Hodgkinson: West Ham mocked as 800m Olympic champion backs London Stadium to stage 2029 World Athletics Championships
+- Kim Little: Arsenal captain signs one-year contract extension
 
 ---
 
 ### Transfers
 
-## Story 1: Rodri transfer news: Man City midfielder comments on potential move to Real Madrid in the future
-**Slug (lower-third):** Rodri transfer news: Man City midfielder comments on pote…  
-**When:** 2026-03-26 06:54 (America/Winnipeg)  •  **Published:** 2026-03-26 11:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+## Story 1: Kim Little: Arsenal captain signs one-year contract extension
+**Slug (lower-third):** Kim Little: Arsenal captain signs one-year contract exten…  
+**When:** 2026-03-26 12:30 (America/Winnipeg)  •  **Published:** 2026-03-26 17:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Rodri transfer news: Man City midfielder comments on potential move to Real Madrid in the future. Man City midfielder Rodri has said you cannot turn down the best clubs in the world after being asked about a potential move to Real Madrid; Rodri is contracted until 2027 at the Etihad; City want Rodri to stay and agree a new deal at the club Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Kim Little: Arsenal captain signs one-year contract extension. Arsenal captain Kim Little, 35, signs a one-year contract extension with the club. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Rodri transfer news: Man City midfielder comments on potential move to Real Madr
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Rodri transfer news: Man City midfielder comments on potential move to Real Madrid in the future. https://www.skysports.com/football/news/12040/13524651/rodri-transfer-news-man-city-midfielder-comments-on-potential-move-to-real-madrid-in-the-future
+- bbc.com — Kim Little: Arsenal captain signs one-year contract extension. https://www.bbc.com/sport/football/articles/c0rxqg770rno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ Rodri transfer news: Man City midfielder comments on potential move to Real Madr
 
 ---
 
-### Injuries
-
-## Story 2: What do Rodri's 'La Liga' comments mean for midfielder and Manchester City
-**Slug (lower-third):** What do Rodri's 'La Liga' comments mean for midfielder an…  
-**When:** 2026-03-26 07:20 (America/Winnipeg)  •  **Published:** 2026-03-26 12:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+## Story 2: Arsenal transfers: Khvicha Kvaratskhelia and Anthony Gordon among left-winger targets this summer
+**Slug (lower-third):** Arsenal transfers: Khvicha Kvaratskhelia and Anthony Gord…  
+**When:** 2026-03-26 10:00 (America/Winnipeg)  •  **Published:** 2026-03-26 15:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-What do Rodri's 'La Liga' comments mean for midfielder and Manchester City. Manchester City midfielder Rodri has cast doubt over his long-term future at the club after telling Spanish radio station Onda Cero he would be open to a return to La Liga one day AND possibly a move to Real Madrid . Relevance to standings and momentum.
+Arsenal transfers: Khvicha Kvaratskhelia and Anthony Gordon among left-winger targets this summer. Arsenal are also monitoring Elliot Anderson and Sandro Tonali as potential targets to improve their midfield but will need to make sales to fund those big investments; Khvicha Kvaratskhelia and Anthony Gordon have a long time left on their contracts and would be expensive to prise away Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,33 @@ What do Rodri's 'La Liga' comments mean for midfielder and Manchester City. Manc
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — What do Rodri's 'La Liga' comments mean for midfielder and Manchester City. https://www.skysports.com/watch/video/13524660/what-do-rodris-la-liga-comments-mean-for-midfielder-and-manchester-city
+- skysports.com — Arsenal transfers: Khvicha Kvaratskhelia and Anthony Gordon among left-winger targets this summer. https://www.skysports.com/football/news/12040/13524667/arsenal-transfers-khvicha-kvaratskhelia-and-anthony-gordon-among-left-winger-targets-this-summer
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 3: Rodri open to Real Madrid move when Manchester City stint ends
+**Slug (lower-third):** Rodri open to Real Madrid move when Manchester City stint…  
+**When:** 2026-03-26 09:33 (America/Winnipeg)  •  **Published:** 2026-03-26 14:33 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Rodri open to Real Madrid move when Manchester City stint ends. Manchester City midfielder Rodri says "you can't turn down the best clubs in the world" as he refuses to rule out a move to Real Madrid. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Rodri open to Real Madrid move when Manchester City stint ends. https://www.bbc.com/sport/football/articles/ce3dnnn50ppo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,10 +92,106 @@ What do Rodri's 'La Liga' comments mean for midfielder and Manchester City. Manc
 
 ### Club Updates
 
-## Story 3: Refereeing and VAR errors increase in Premier League
+## Story 4: HUGE celebrations as Rock wins first Premier League match
+**Slug (lower-third):** HUGE celebrations as Rock wins first Premier League match  
+**When:** 2026-03-26 13:41 (America/Winnipeg)  •  **Published:** 2026-03-26 18:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+HUGE celebrations as Rock wins first Premier League match. Josh Rock drops to the floor following his first ever Premier League match win as he topples Jonny Clayton 6-3. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — HUGE celebrations as Rock wins first Premier League match. https://www.skysports.com/watch/video/13524806/huge-celebrations-as-rock-wins-first-premier-league-match
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Keely Hodgkinson: West Ham mocked as 800m Olympic champion backs London Stadium to stage 2029 World Athletics Championships
+**Slug (lower-third):** Keely Hodgkinson: West Ham mocked as 800m Olympic champio…  
+**When:** 2026-03-26 13:18 (America/Winnipeg)  •  **Published:** 2026-03-26 18:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Keely Hodgkinson: West Ham mocked as 800m Olympic champion backs London Stadium to stage 2029 World Athletics Championships. GB track stars Keely Hodgkinson and Dina Asher-Smith have made jovial criticisms of West Ham after it emerged the club could prevent the 2029 World Athletics Championships from taking place in London. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Keely Hodgkinson: West Ham mocked as 800m Olympic champion backs London Stadium to stage 2029 World Athletics Championships. https://www.skysports.com/athletics/news/12040/13524798/keely-hodgkinson-west-ham-mocked-as-800m-olympic-champion-backs-london-stadium-to-stage-2029-world-athletics-championships
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: PSG's Ligue 1 match with Lens postponed because of Liverpool Champions League quarter-final
+**Slug (lower-third):** PSG's Ligue 1 match with Lens postponed because of Liverp…  
+**When:** 2026-03-26 08:51 (America/Winnipeg)  •  **Published:** 2026-03-26 13:51 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+PSG's Ligue 1 match with Lens postponed because of Liverpool Champions League quarter-final. Paris St-Germain's Ligue One match against Lens, which was set to take place between the two legs of their Champions League quarter-final against Liverpool, has been postponed. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — PSG's Ligue 1 match with Lens postponed because of Liverpool Champions League quarter-final. https://www.bbc.com/sport/football/articles/clyxe2znkp4o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: French league postpones Lens match to allow PSG weekend off between Liverpool games
+**Slug (lower-third):** French league postpones Lens match to allow PSG weekend o…  
+**When:** 2026-03-26 09:11 (America/Winnipeg)  •  **Published:** 2026-03-26 14:11 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+French league postpones Lens match to allow PSG weekend off between Liverpool games. Paris Saint-Germain's visit to Lens has been postponed to give PSG more time to prepare for their Champions League quarter-final against Liverpool Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — French league postpones Lens match to allow PSG weekend off between Liverpool games. https://www.theguardian.com/football/2026/mar/26/french-league-postpones-lens-psg
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Refereeing and VAR errors increase in Premier League
 **Slug (lower-third):** Refereeing and VAR errors increase in Premier League  
 **When:** 2026-03-26 07:18 (America/Winnipeg)  •  **Published:** 2026-03-26 12:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Refereeing and VAR errors increase in Premier League. Refereeing mistakes on the field and through the video assistant referee have risen across most categories in this season's Premier League. Relevance to standings and momentum.
@@ -92,58 +212,10 @@ Refereeing and VAR errors increase in Premier League. Refereeing mistakes on the
 
 ---
 
-## Story 4: Paris Saint-Germain: Ligue 1 postpone RC Lens fixture to ease fixture demands ahead of Liverpool Champions League tie
-**Slug (lower-third):** Paris Saint-Germain: Ligue 1 postpone RC Lens fixture to …  
-**When:** 2026-03-26 06:55 (America/Winnipeg)  •  **Published:** 2026-03-26 11:55 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Paris Saint-Germain: Ligue 1 postpone RC Lens fixture to ease fixture demands ahead of Liverpool Champions League tie. PSGs original fixture against Lens was due to take place on April 11, between their two Champions League quarter-final ties against Liverpool; The match has been given a new date of May 13 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Paris Saint-Germain: Ligue 1 postpone RC Lens fixture to ease fixture demands ahead of Liverpool Champions League tie. https://www.skysports.com/football/news/12040/13524659/paris-saint-germain-ligue-1-postpone-rc-lens-fixture-to-ease-fixture-demands-ahead-of-liverpool-champions-league-tie
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Keely Hodgkinson pokes fun at West Ham amid London's 2029 Athletic's Worlds bid
-**Slug (lower-third):** Keely Hodgkinson pokes fun at West Ham amid London's 2029…  
-**When:** 2026-03-26 06:19 (America/Winnipeg)  •  **Published:** 2026-03-26 11:19 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Keely Hodgkinson pokes fun at West Ham amid London's 2029 Athletic's Worlds bid. Keely Hodgkinson pokes fun at West Ham by claiming Great Britain will win more medals than the Hammers have ever if the 2029 World Championships are held at London Stadium. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Keely Hodgkinson pokes fun at West Ham amid London's 2029 Athletic's Worlds bid. https://www.bbc.com/sport/athletics/articles/c86e395jdlqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute
+## Story 9: Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute
 **Slug (lower-third):** Keely Hodgkinson pokes fun at West Ham over world champio…  
 **When:** 2026-03-26 05:46 (America/Winnipeg)  •  **Published:** 2026-03-26 10:46 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute. Keely Hodgkinson has playfully poked fun at West Ham after it emerged they could ruin London's chances of hosting the 2029 World Athletics Championships Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -164,10 +236,10 @@ Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute.
 
 ---
 
-## Story 7: Katja Snoeijs: Everton forward gives her experience of endometriosis
+## Story 10: Katja Snoeijs: Everton forward gives her experience of endometriosis
 **Slug (lower-third):** Katja Snoeijs: Everton forward gives her experience of en…  
 **When:** 2026-03-26 04:00 (America/Winnipeg)  •  **Published:** 2026-03-26 09:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Katja Snoeijs: Everton forward gives her experience of endometriosis. Everton forward Katja Snoeijs explains her journey to getting a diagnosis of endometriosis. Relevance to standings and momentum.
@@ -180,78 +252,6 @@ Katja Snoeijs: Everton forward gives her experience of endometriosis. Everton fo
 
 ### Sources
 - bbc.com — Katja Snoeijs: Everton forward gives her experience of endometriosis. https://www.bbc.com/sport/football/articles/cvg3g2gkw3po?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Middlesbrough striker Tommy Conway on achieving Scotland World Cup dream - 'I had to be in this camp'
-**Slug (lower-third):** Middlesbrough striker Tommy Conway on achieving Scotland …  
-**When:** 2026-03-26 04:00 (America/Winnipeg)  •  **Published:** 2026-03-26 09:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~31s
-
-### Presenter Script (3–5 sentences)
-Middlesbrough striker Tommy Conway on achieving Scotland World Cup dream - 'I had to be in this camp'. Scotland face Japan on March 28 at Hampden Park before a trip to Evertons Hill Dickinson Stadium on March 31 to play Ivory Coast in the first World Cup warm-up games; Curacao visit Glasgow on May 30 before the team depart for the USA; Opening group game is on June 14 against Haiti Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Middlesbrough striker Tommy Conway on achieving Scotland World Cup dream - 'I had to be in this camp'. https://www.skysports.com/football/news/12040/13524589/middlesbrough-striker-tommy-conway-on-achieving-scotland-world-cup-dream-i-had-to-be-in-this-camp
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: England's Phil Foden stuns Three Lions team-mates with a spectacular 180 in game of darts!
-**Slug (lower-third):** England's Phil Foden stuns Three Lions team-mates with a …  
-**When:** 2026-03-26 02:55 (America/Winnipeg)  •  **Published:** 2026-03-26 07:55 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-England's Phil Foden stuns Three Lions team-mates with a spectacular 180 in game of darts!. England and Manchester City midfielder Phil Foden stuns team-mates with a 180 on the darts board. Video credit: @England Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — England's Phil Foden stuns Three Lions team-mates with a spectacular 180 in game of darts!. https://www.skysports.com/watch/video/13524553/englands-phil-foden-stuns-three-lions-team-mates-with-a-spectacular-180-in-game-of-darts
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Bruno Fernandes is the true custodian of Manchester United in the age of Ratcliffe | Jonathan Liew
-**Slug (lower-third):** Bruno Fernandes is the true custodian of Manchester Unite…  
-**When:** 2026-03-26 03:00 (America/Winnipeg)  •  **Published:** 2026-03-26 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bruno Fernandes is the true custodian of Manchester United in the age of Ratcliffe | Jonathan Liew. As well as being one of the team's best performers, midfielder has become a talisman who is aware of the club's spirit and traditions Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Bruno Fernandes is the true custodian of Manchester United in the age of Ratcliffe | Jonathan Liew. https://www.theguardian.com/football/2026/mar/26/bruno-fernandes-manchester-united-saviour-jim-ratcliffe
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
