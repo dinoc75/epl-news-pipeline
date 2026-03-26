@@ -1,79 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-26 02:12 (America/Winnipeg)  |  2026-03-26 07:12 (UTC)
+**Generated:** 2026-03-26 08:21 (America/Winnipeg)  |  2026-03-26 13:21 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 59s
+**Estimated total video length:** ~4m 45s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arsena: Is Bukayo Saka's form a worry?
-- Conor Benn wants to bring Ryan Garcia title fight to UK stadium straight after next bout against Regis Prograis
-- Manchester United refuse to give up on Champions League dream
-
----
-
-### Managerial Moves
-
-## Story 1: Manchester United refuse to give up on Champions League dream
-**Slug (lower-third):** Manchester United refuse to give up on Champions League d…  
-**When:** 2026-03-25 18:52 (America/Winnipeg)  •  **Published:** 2026-03-25 23:52 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester United refuse to give up on Champions League dream. Manchester United suffered defeat by Bayern Munich in the home leg of their Champions League quarter-final, but manager Marc Skinner refuses to rule them out. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Manchester United refuse to give up on Champions League dream. https://www.bbc.com/sport/football/articles/clyr7xxx01go?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Liverpool and Wales legend John Toshack diagnosed with dementia
-**Slug (lower-third):** Liverpool and Wales legend John Toshack diagnosed with de…  
-**When:** 2026-03-25 08:40 (America/Winnipeg)  •  **Published:** 2026-03-25 13:40 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool and Wales legend John Toshack diagnosed with dementia. His son Cameron confirms the former Anfield striker, who enjoyed a glittering career as player and manager, has the disease Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Liverpool and Wales legend John Toshack diagnosed with dementia. https://www.theguardian.com/football/2026/mar/25/liverpool-and-wales-legend-john-toshack-diagnosed-with-dementia
-- bbc.com — John Toshack: Wales and Liverpool great diagnosed with dementia. https://www.bbc.com/sport/football/articles/cy01n951evwo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- What do Rodri's 'La Liga' comments mean for midfielder and Manchester City
+- Refereeing and VAR errors increase in Premier League
+- Paris Saint-Germain: Ligue 1 postpone RC Lens fixture to ease fixture demands ahead of Liverpool Champions League tie
 
 ---
 
 ### Transfers
 
-## Story 3: Liverpool target Bayern Munich's Michael Olise as Mohamed Salah replacement - Paper talk and football transfer gossip
-**Slug (lower-third):** Liverpool target Bayern Munich's Michael Olise as Mohamed…  
-**When:** 2026-03-25 18:00 (America/Winnipeg)  •  **Published:** 2026-03-25 23:00 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~27s
+## Story 1: Rodri transfer news: Man City midfielder comments on potential move to Real Madrid in the future
+**Slug (lower-third):** Rodri transfer news: Man City midfielder comments on pote…  
+**When:** 2026-03-26 06:54 (America/Winnipeg)  •  **Published:** 2026-03-26 11:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Liverpool target Bayern Munich's Michael Olise as Mohamed Salah replacement - Paper talk and football transfer gossip. Latest from Thursdays newspapers: Saudi Pro League are targeting both Michael Edwards and Richard Hughes from Liverpool; Arsenal are investigating a deal for PSGs Khvicha Kvaratskhelia; Inter Miami and LA Galaxy are interested in signing Casemiro when he leaves Manchester United Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Rodri transfer news: Man City midfielder comments on potential move to Real Madrid in the future. Man City midfielder Rodri has said you cannot turn down the best clubs in the world after being asked about a potential move to Real Madrid; Rodri is contracted until 2027 at the Etihad; City want Rodri to stay and agree a new deal at the club Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -82,34 +31,10 @@ Liverpool target Bayern Munich's Michael Olise as Mohamed Salah replacement - Pa
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Liverpool target Bayern Munich's Michael Olise as Mohamed Salah replacement - Paper talk and football transfer gossip. https://www.skysports.com/football/news/12040/13524485/liverpool-target-bayern-munichs-michael-olise-as-mohamed-salah-replacement-paper-talk-and-football-transfer-gossip
+- skysports.com — Rodri transfer news: Man City midfielder comments on potential move to Real Madrid in the future. https://www.skysports.com/football/news/12040/13524651/rodri-transfer-news-man-city-midfielder-comments-on-potential-move-to-real-madrid-in-the-future
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Newcastle transfer news: Magpies to target a striker and goalkeeper this summer with eight exits possible
-**Slug (lower-third):** Newcastle transfer news: Magpies to target a striker and …  
-**When:** 2026-03-25 11:23 (America/Winnipeg)  •  **Published:** 2026-03-25 16:23 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Newcastle transfer news: Magpies to target a striker and goalkeeper this summer with eight exits possible. Newcastle summer transfer plans detailed after wretched week which saw the Magpies hammered in Champions League at Barcelona and then lose at home to fierce local rivals Sunderland; Eddie Howe and his players were booed off at St James Park with European qualification hopes hit Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Newcastle transfer news: Magpies to target a striker and goalkeeper this summer with eight exits possible. https://www.skysports.com/football/news/12040/13524338/newcastle-transfer-news-magpies-to-target-a-striker-and-goalkeeper-this-summer-with-eight-exits-possible
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -117,13 +42,13 @@ Newcastle transfer news: Magpies to target a striker and goalkeeper this summer 
 
 ### Injuries
 
-## Story 5: Conor Benn wants to bring Ryan Garcia title fight to UK stadium straight after next bout against Regis Prograis
-**Slug (lower-third):** Conor Benn wants to bring Ryan Garcia title fight to UK s…  
-**When:** 2026-03-26 01:00 (America/Winnipeg)  •  **Published:** 2026-03-26 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~32s
+## Story 2: What do Rodri's 'La Liga' comments mean for midfielder and Manchester City
+**Slug (lower-third):** What do Rodri's 'La Liga' comments mean for midfielder an…  
+**When:** 2026-03-26 07:20 (America/Winnipeg)  •  **Published:** 2026-03-26 12:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Conor Benn wants to bring Ryan Garcia title fight to UK stadium straight after next bout against Regis Prograis. Conor Benn returns to the Tottenham Hotspur Stadium on April 11 to fight Regis Prograis and admits he doesnt know how the crowd will react to him; But if he is victorious he will target a title fight with Ryan Garcia and hopes to bring it to a UK stadium later this year Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+What do Rodri's 'La Liga' comments mean for midfielder and Manchester City. Manchester City midfielder Rodri has cast doubt over his long-term future at the club after telling Spanish radio station Onda Cero he would be open to a return to La Liga one day AND possibly a move to Real Madrid . Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,7 +57,7 @@ Conor Benn wants to bring Ryan Garcia title fight to UK stadium straight after n
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Conor Benn wants to bring Ryan Garcia title fight to UK stadium straight after next bout against Regis Prograis. https://www.skysports.com/boxing/news/12040/13524410/conor-benn-wants-to-bring-ryan-garcia-title-fight-to-uk-stadium-straight-after-next-bout-against-regis-prograis
+- skysports.com — What do Rodri's 'La Liga' comments mean for midfielder and Manchester City. https://www.skysports.com/watch/video/13524660/what-do-rodris-la-liga-comments-mean-for-midfielder-and-manchester-city
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -143,13 +68,13 @@ Conor Benn wants to bring Ryan Garcia title fight to UK stadium straight after n
 
 ### Club Updates
 
-## Story 6: Arsena: Is Bukayo Saka's form a worry?
-**Slug (lower-third):** Arsena: Is Bukayo Saka's form a worry?  
-**When:** 2026-03-26 02:01 (America/Winnipeg)  •  **Published:** 2026-03-26 07:01 (UTC)  
+## Story 3: Refereeing and VAR errors increase in Premier League
+**Slug (lower-third):** Refereeing and VAR errors increase in Premier League  
+**When:** 2026-03-26 07:18 (America/Winnipeg)  •  **Published:** 2026-03-26 12:18 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsena: Is Bukayo Saka's form a worry?. Are there worries about how Arsenal's reliance on Bukayo Saka are having an impact on his form? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Refereeing and VAR errors increase in Premier League. Refereeing mistakes on the field and through the video assistant referee have risen across most categories in this season's Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -158,7 +83,7 @@ Arsena: Is Bukayo Saka's form a worry?. Are there worries about how Arsenal's re
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arsena: Is Bukayo Saka's form a worry?. https://www.bbc.com/sport/football/articles/cg73rve0y33o?at_medium=RSS&at_campaign=rss
+- bbc.com — Refereeing and VAR errors increase in Premier League. https://www.bbc.com/sport/football/articles/c0rxqg9erewo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +92,13 @@ Arsena: Is Bukayo Saka's form a worry?. Are there worries about how Arsenal's re
 
 ---
 
-## Story 7: Women's Champions League highlights: Manchester United 2-3 Bayern Munich
-**Slug (lower-third):** Women's Champions League highlights: Manchester United 2-…  
-**When:** 2026-03-25 17:31 (America/Winnipeg)  •  **Published:** 2026-03-25 22:31 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 4: Paris Saint-Germain: Ligue 1 postpone RC Lens fixture to ease fixture demands ahead of Liverpool Champions League tie
+**Slug (lower-third):** Paris Saint-Germain: Ligue 1 postpone RC Lens fixture to …  
+**When:** 2026-03-26 06:55 (America/Winnipeg)  •  **Published:** 2026-03-26 11:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Women's Champions League highlights: Manchester United 2-3 Bayern Munich. Manchester United fan Pernille Harder scored twice against her childhood club at Old Trafford as Bayern Munich gained a precious first-leg advantage in their Champions League quarter-final tie. Relevance to standings and momentum.
+Paris Saint-Germain: Ligue 1 postpone RC Lens fixture to ease fixture demands ahead of Liverpool Champions League tie. PSGs original fixture against Lens was due to take place on April 11, between their two Champions League quarter-final ties against Liverpool; The match has been given a new date of May 13 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +107,7 @@ Women's Champions League highlights: Manchester United 2-3 Bayern Munich. Manche
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Women's Champions League highlights: Manchester United 2-3 Bayern Munich. https://www.bbc.com/sport/football/videos/c5y7wzygrzro?at_medium=RSS&at_campaign=rss
+- skysports.com — Paris Saint-Germain: Ligue 1 postpone RC Lens fixture to ease fixture demands ahead of Liverpool Champions League tie. https://www.skysports.com/football/news/12040/13524659/paris-saint-germain-ligue-1-postpone-rc-lens-fixture-to-ease-fixture-demands-ahead-of-liverpool-champions-league-tie
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +116,13 @@ Women's Champions League highlights: Manchester United 2-3 Bayern Munich. Manche
 
 ---
 
-## Story 8: Football gossip: Salah, Alonso, Olise, Diomande, Ndiaye, Rashford, Bastoni, Vinicius Jr, Vlahovic
-**Slug (lower-third):** Football gossip: Salah, Alonso, Olise, Diomande, Ndiaye, …  
-**When:** 2026-03-25 16:23 (America/Winnipeg)  •  **Published:** 2026-03-25 21:23 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 5: Keely Hodgkinson pokes fun at West Ham amid London's 2029 Athletic's Worlds bid
+**Slug (lower-third):** Keely Hodgkinson pokes fun at West Ham amid London's 2029…  
+**When:** 2026-03-26 06:19 (America/Winnipeg)  •  **Published:** 2026-03-26 11:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Salah, Alonso, Olise, Diomande, Ndiaye, Rashford, Bastoni, Vinicius Jr, Vlahovic. Al-Ittihad rekindle their efforts to sign Liverpool forward Mohamed Salah and Everton forward Iliman Ndiaye is among the players being considered by Manchester United. Relevance to standings and momentum.
+Keely Hodgkinson pokes fun at West Ham amid London's 2029 Athletic's Worlds bid. Keely Hodgkinson pokes fun at West Ham by claiming Great Britain will win more medals than the Hammers have ever if the 2029 World Championships are held at London Stadium. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +131,7 @@ Football gossip: Salah, Alonso, Olise, Diomande, Ndiaye, Rashford, Bastoni, Vini
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Salah, Alonso, Olise, Diomande, Ndiaye, Rashford, Bastoni, Vinicius Jr, Vlahovic. https://www.bbc.com/sport/football/articles/c4gx3x83zw9o?at_medium=RSS&at_campaign=rss
+- bbc.com — Keely Hodgkinson pokes fun at West Ham amid London's 2029 Athletic's Worlds bid. https://www.bbc.com/sport/athletics/articles/c86e395jdlqo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +140,13 @@ Football gossip: Salah, Alonso, Olise, Diomande, Ndiaye, Rashford, Bastoni, Vini
 
 ---
 
-## Story 9: Everton exploring legal options over lack of sporting sanctions against Chelsea
-**Slug (lower-third):** Everton exploring legal options over lack of sporting san…  
-**When:** 2026-03-25 14:22 (America/Winnipeg)  •  **Published:** 2026-03-25 19:22 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 6: Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute
+**Slug (lower-third):** Keely Hodgkinson pokes fun at West Ham over world champio…  
+**When:** 2026-03-26 05:46 (America/Winnipeg)  •  **Published:** 2026-03-26 10:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton exploring legal options over lack of sporting sanctions against Chelsea. Everton are exploring a possible legal challenge against the Premier League for their handling of Chelsea's undisclosed payments sanction Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute. Keely Hodgkinson has playfully poked fun at West Ham after it emerged they could ruin London's chances of hosting the 2029 World Athletics Championships Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,7 +155,7 @@ Everton exploring legal options over lack of sporting sanctions against Chelsea.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Everton exploring legal options over lack of sporting sanctions against Chelsea. https://www.theguardian.com/football/2026/mar/25/everton-exploring-legal-options-over-lack-sporting-sanctions-against-chelsea
+- theguardian.com — Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute. https://www.theguardian.com/sport/2026/mar/26/keely-hodgkinson-tweet-west-ham-world-championships-stadium-dispute
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -239,13 +164,13 @@ Everton exploring legal options over lack of sporting sanctions against Chelsea.
 
 ---
 
-## Story 10: Gerwyn Price has promised to show Gian van Veen 'no mercy' when they meet on stage in the Premier League Darts in Berlin on Thursday
-**Slug (lower-third):** Gerwyn Price has promised to show Gian van Veen 'no mercy…  
-**When:** 2026-03-25 12:25 (America/Winnipeg)  •  **Published:** 2026-03-25 17:25 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~32s
+## Story 7: Katja Snoeijs: Everton forward gives her experience of endometriosis
+**Slug (lower-third):** Katja Snoeijs: Everton forward gives her experience of en…  
+**When:** 2026-03-26 04:00 (America/Winnipeg)  •  **Published:** 2026-03-26 09:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Gerwyn Price has promised to show Gian van Veen 'no mercy' when they meet on stage in the Premier League Darts in Berlin on Thursday. Im up there not to show mercy to anyone - Gerwyn Price makes his intentions clear ahead of facing Gian van Veen in Berlin, while Michael van Gerwen defends Luke Humphries after he faced criticism; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Katja Snoeijs: Everton forward gives her experience of endometriosis. Everton forward Katja Snoeijs explains her journey to getting a diagnosis of endometriosis. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -254,7 +179,79 @@ Gerwyn Price has promised to show Gian van Veen 'no mercy' when they meet on sta
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Gerwyn Price has promised to show Gian van Veen 'no mercy' when they meet on stage in the Premier League Darts in Berlin on Thursday. https://www.skysports.com/darts/news/12040/13524271/gerwyn-price-has-promised-to-show-gian-van-veen-no-mercy-when-they-meet-on-stage-in-the-premier-league-darts-in-berlin-on-thursday
+- bbc.com — Katja Snoeijs: Everton forward gives her experience of endometriosis. https://www.bbc.com/sport/football/articles/cvg3g2gkw3po?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Middlesbrough striker Tommy Conway on achieving Scotland World Cup dream - 'I had to be in this camp'
+**Slug (lower-third):** Middlesbrough striker Tommy Conway on achieving Scotland …  
+**When:** 2026-03-26 04:00 (America/Winnipeg)  •  **Published:** 2026-03-26 09:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~31s
+
+### Presenter Script (3–5 sentences)
+Middlesbrough striker Tommy Conway on achieving Scotland World Cup dream - 'I had to be in this camp'. Scotland face Japan on March 28 at Hampden Park before a trip to Evertons Hill Dickinson Stadium on March 31 to play Ivory Coast in the first World Cup warm-up games; Curacao visit Glasgow on May 30 before the team depart for the USA; Opening group game is on June 14 against Haiti Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Middlesbrough striker Tommy Conway on achieving Scotland World Cup dream - 'I had to be in this camp'. https://www.skysports.com/football/news/12040/13524589/middlesbrough-striker-tommy-conway-on-achieving-scotland-world-cup-dream-i-had-to-be-in-this-camp
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: England's Phil Foden stuns Three Lions team-mates with a spectacular 180 in game of darts!
+**Slug (lower-third):** England's Phil Foden stuns Three Lions team-mates with a …  
+**When:** 2026-03-26 02:55 (America/Winnipeg)  •  **Published:** 2026-03-26 07:55 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+England's Phil Foden stuns Three Lions team-mates with a spectacular 180 in game of darts!. England and Manchester City midfielder Phil Foden stuns team-mates with a 180 on the darts board. Video credit: @England Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — England's Phil Foden stuns Three Lions team-mates with a spectacular 180 in game of darts!. https://www.skysports.com/watch/video/13524553/englands-phil-foden-stuns-three-lions-team-mates-with-a-spectacular-180-in-game-of-darts
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Bruno Fernandes is the true custodian of Manchester United in the age of Ratcliffe | Jonathan Liew
+**Slug (lower-third):** Bruno Fernandes is the true custodian of Manchester Unite…  
+**When:** 2026-03-26 03:00 (America/Winnipeg)  •  **Published:** 2026-03-26 08:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Bruno Fernandes is the true custodian of Manchester United in the age of Ratcliffe | Jonathan Liew. As well as being one of the team's best performers, midfielder has become a talisman who is aware of the club's spirit and traditions Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Bruno Fernandes is the true custodian of Manchester United in the age of Ratcliffe | Jonathan Liew. https://www.theguardian.com/football/2026/mar/26/bruno-fernandes-manchester-united-saviour-jim-ratcliffe
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
