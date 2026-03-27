@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-27 02:12 (America/Winnipeg)  |  2026-03-27 07:12 (UTC)
-**Stories in this rundown:** 10  |  **Style:** conversational broadcast
+**Generated:** 2026-03-27 08:11 (America/Winnipeg)  |  2026-03-27 13:11 (UTC)
+**Stories in this rundown:** 8  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 37s
+**Estimated total video length:** ~3m 58s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Today on Sky Sports Racing: Fontwell, Lingfield and Newcastle
-- Jess Park: Scouted by Steph Houghton to shining for Man Utd
-- Premier League Darts: Luke Littler moves top and sends warning to rivals after 'best night performance' and Berlin win
+- Everton to offer David Moyes new deal in recognition of success at club
+- Roy Hodgson appointed Bristol City head coach as Gerhard Struber sacked by Championship club
+- Man Utd v Man City: WSL title and European qualification in focus at derby match
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Mohamed Salah is an all-time great - Jurgen Klopp
-**Slug (lower-third):** Mohamed Salah is an all-time great - Jurgen Klopp  
-**When:** 2026-03-26 15:43 (America/Winnipeg)  •  **Published:** 2026-03-26 20:43 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 1: Roy Hodgson appointed Bristol City head coach as Gerhard Struber sacked by Championship club
+**Slug (lower-third):** Roy Hodgson appointed Bristol City head coach as Gerhard …  
+**When:** 2026-03-27 05:46 (America/Winnipeg)  •  **Published:** 2026-03-27 10:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Mohamed Salah is an all-time great - Jurgen Klopp. Former Liverpool head coach Jurgen Klopp says Mohamed Salah is "one of the all-time greats" and his legacy at the club will be difficult to top. Relevance to standings and momentum.
+Roy Hodgson appointed Bristol City head coach as Gerhard Struber sacked by Championship club. The former England, Liverpool and Crystal Palace manager takes over at Bristol City until the end of the season; Bristol City, who are winless in their last six, say Gerhard Struber was dismissed along with assistant Bernd Eibler because recent performances have not met expectations Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Mohamed Salah is an all-time great - Jurgen Klopp. Former Liverpool head coach J
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Mohamed Salah is an all-time great - Jurgen Klopp. https://www.bbc.com/sport/football/articles/c3931xlwxjro?at_medium=RSS&at_campaign=rss
+- skysports.com — Roy Hodgson appointed Bristol City head coach as Gerhard Struber sacked by Championship club. https://www.skysports.com/football/news/12040/13525028/roy-hodgson-appointed-bristol-city-head-coach-as-gerhard-struber-sacked-by-championship-club
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,13 @@ Mohamed Salah is an all-time great - Jurgen Klopp. Former Liverpool head coach J
 
 ### Transfers
 
-## Story 2: Sandro Tonali transfer news: Man Utd expected to make formal approach for Newcastle midfielder - Paper talk and football transfer gossip
-**Slug (lower-third):** Sandro Tonali transfer news: Man Utd expected to make for…  
-**When:** 2026-03-26 18:15 (America/Winnipeg)  •  **Published:** 2026-03-26 23:15 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~27s
+## Story 2: Everton to offer David Moyes new deal in recognition of success at club
+**Slug (lower-third):** Everton to offer David Moyes new deal in recognition of s…  
+**When:** 2026-03-27 07:23 (America/Winnipeg)  •  **Published:** 2026-03-27 12:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sandro Tonali transfer news: Man Utd expected to make formal approach for Newcastle midfielder - Paper talk and football transfer gossip. Latest from Fridays newspapers: Mohamed Salahs Liverpool farewell risks turning nasty like it did with Trent Alexander-Arnold last season, according to Roy Keane; a Bayern Munich official has launched a brutal attack on Liverpools transfer strategy Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Everton to offer David Moyes new deal in recognition of success at club. Everton are planning to offer David Moyes a new contract this summer in recognition of his achievements at the club Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,7 @@ Sandro Tonali transfer news: Man Utd expected to make formal approach for Newcas
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sandro Tonali transfer news: Man Utd expected to make formal approach for Newcastle midfielder - Paper talk and football transfer gossip. https://www.skysports.com/football/news/12040/13524782/x-paper-talk-and-football-transfer-gossip
+- theguardian.com — Everton to offer David Moyes new deal in recognition of success at club. https://www.theguardian.com/football/2026/mar/27/everton-to-offer-david-moyes-new-deal-in-recognition-of-success-at-club
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +68,13 @@ Sandro Tonali transfer news: Man Utd expected to make formal approach for Newcas
 
 ### Club Updates
 
-## Story 3: Today on Sky Sports Racing: Fontwell, Lingfield and Newcastle
-**Slug (lower-third):** Today on Sky Sports Racing: Fontwell, Lingfield and Newca…  
-**When:** 2026-03-27 02:00 (America/Winnipeg)  •  **Published:** 2026-03-27 07:00 (UTC)  
+## Story 3: Man Utd v Man City: WSL title and European qualification in focus at derby match
+**Slug (lower-third):** Man Utd v Man City: WSL title and European qualification …  
+**When:** 2026-03-27 04:36 (America/Winnipeg)  •  **Published:** 2026-03-27 09:36 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Fontwell, Lingfield and Newcastle. Power Fizz was rapidly progressive in the spring of last year and looks to resume his progression in a competitive handicap at Newcastle on Friday evening; we also have competitive action from Fontwell and Lingfield, live on Sky Sports Racing from 2.12pm Relevance to standings and momentum.
+Man Utd v Man City: WSL title and European qualification in focus at derby match. The race for the WSL title and European qualification adds extra spice to Saturday's Manchester derby as United host City at Old Trafford. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +83,7 @@ Today on Sky Sports Racing: Fontwell, Lingfield and Newcastle. Power Fizz was ra
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Fontwell, Lingfield and Newcastle. https://www.skysports.com/racing/news/12040/13524322/today-on-sky-sports-racing-fontwell-lingfield-and-newcastle
+- bbc.com — Man Utd v Man City: WSL title and European qualification in focus at derby match. https://www.bbc.com/sport/football/articles/c30rdl9l1nzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -95,7 +95,7 @@ Today on Sky Sports Racing: Fontwell, Lingfield and Newcastle. Power Fizz was ra
 ## Story 4: Jess Park: Scouted by Steph Houghton to shining for Man Utd
 **Slug (lower-third):** Jess Park: Scouted by Steph Houghton to shining for Man U…  
 **When:** 2026-03-27 01:11 (America/Winnipeg)  •  **Published:** 2026-03-27 06:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Jess Park: Scouted by Steph Houghton to shining for Man Utd. The origin story of Manchester United and England's Jess Park, from her grassroots in Brough to being scouted by Steph Houghton. Relevance to standings and momentum.
@@ -116,13 +116,13 @@ Jess Park: Scouted by Steph Houghton to shining for Man Utd. The origin story of
 
 ---
 
-## Story 5: Premier League Darts: Luke Littler moves top and sends warning to rivals after 'best night performance' and Berlin win
-**Slug (lower-third):** Premier League Darts: Luke Littler moves top and sends wa…  
-**When:** 2026-03-27 01:00 (America/Winnipeg)  •  **Published:** 2026-03-27 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+## Story 5: Glasgow City vs Rangers Women: Leanne Crichton believes league victory can calm nerves ahead of Sky Sports Cup final
+**Slug (lower-third):** Glasgow City vs Rangers Women: Leanne Crichton believes l…  
+**When:** 2026-03-26 17:00 (America/Winnipeg)  •  **Published:** 2026-03-26 22:00 (UTC)  
+**Virality score:** 83  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Premier League Darts: Luke Littler moves top and sends warning to rivals after 'best night performance' and Berlin win. Luke Littler sits top of the Premier League table at the halfway point of the season; Littlers nightly win in Berlin is his third in four weeks, leapfrogging Jonny Clayton at the top of the standings; watch Nine Nine in Manchester live on Sky Sports from 7pm on Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Glasgow City vs Rangers Women: Leanne Crichton believes league victory can calm nerves ahead of Sky Sports Cup final. Scottish Womens Premier League leaders Glasgow City face Sky Sports Cup holders Rangers in Sundays final at Fir Park; the Gers beat City 1-0 in the league last weekend; watch the Sky Sports Cup final live on Sky Sports on Sunday from 2.30pm, kick-off 3pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,22 +131,22 @@ Premier League Darts: Luke Littler moves top and sends warning to rivals after '
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League Darts: Luke Littler moves top and sends warning to rivals after 'best night performance' and Berlin win. https://www.skysports.com/darts/news/12040/13524721/premier-league-darts-luke-littler-moves-top-and-sends-warning-to-rivals-after-best-night-performance-and-berlin-win
+- skysports.com — Glasgow City vs Rangers Women: Leanne Crichton believes league victory can calm nerves ahead of Sky Sports Cup final. https://www.skysports.com/football/news/12040/13523553/glasgow-city-vs-rangers-women-leanne-crichton-believes-league-victory-can-calm-nerves-ahead-of-sky-sports-cup-final
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 6: Football gossip: Olise, Tonali, Rashford, Lewis-Skelly, Ndiaye, Alvarez
-**Slug (lower-third):** Football gossip: Olise, Tonali, Rashford, Lewis-Skelly, N…  
-**When:** 2026-03-26 18:03 (America/Winnipeg)  •  **Published:** 2026-03-26 23:03 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 6: Glasgow City vs Rangers Women: Leanne Ross believes a shot at silverware in Sky Sports Cup final can motivate players after first domestic defeat
+**Slug (lower-third):** Glasgow City vs Rangers Women: Leanne Ross believes a sho…  
+**When:** 2026-03-26 17:00 (America/Winnipeg)  •  **Published:** 2026-03-26 22:00 (UTC)  
+**Virality score:** 83  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Olise, Tonali, Rashford, Lewis-Skelly, Ndiaye, Alvarez. Bayern Munich want to keep Michael Olise, despite Liverpool interest and possible bid worth more than APS170m, while Manchester United will make a formal approach for Sandro Tonali and Arsenal's Myles Lewis-Skelly is another summer target. Relevance to standings and momentum.
+Glasgow City vs Rangers Women: Leanne Ross believes a shot at silverware in Sky Sports Cup final can motivate players after first domestic defeat. Scottish Womens Premier League leaders Glasgow City face Sky Sports Cup holders Rangers in Sundays final; City suffered a first league loss this season, against Rangers, last weekend; watch Sundays Sky Sports Cup final, live on Sky Sports, from 2.30pm, kick-off 3pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,43 +155,19 @@ Football gossip: Olise, Tonali, Rashford, Lewis-Skelly, Ndiaye, Alvarez. Bayern 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Olise, Tonali, Rashford, Lewis-Skelly, Ndiaye, Alvarez. https://www.bbc.com/sport/football/articles/cq59gg15ynlo?at_medium=RSS&at_campaign=rss
+- skysports.com — Glasgow City vs Rangers Women: Leanne Ross believes a shot at silverware in Sky Sports Cup final can motivate players after first domestic defeat. https://www.skysports.com/football/news/12040/13523439/glasgow-city-vs-rangers-women-leanne-ross-believes-a-shot-at-silverware-in-sky-sports-cup-final-can-motivate-players-after-first-domestic-defeat
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 7: Arsenal's Viktor Gyokeres scores hat-trick as Sweden book World Cup play-off final against Robert Lewandowski's Poland
-**Slug (lower-third):** Arsenal's Viktor Gyokeres scores hat-trick as Sweden book…  
-**When:** 2026-03-26 17:02 (America/Winnipeg)  •  **Published:** 2026-03-26 22:02 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal's Viktor Gyokeres scores hat-trick as Sweden book World Cup play-off final against Robert Lewandowski's Poland. World Cup play-off finals take place on March 31 - Sweden vs Poland, Bosnia-Herzegovina vs Italy, Kosovo vs Turkey and Czech Republic vs Denmark Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Arsenal's Viktor Gyokeres scores hat-trick as Sweden book World Cup play-off final against Robert Lewandowski's Poland. https://www.skysports.com/football/news/12040/13524890/arsenals-viktor-gyokeres-scores-hat-trick-as-sweden-book-world-cup-play-off-final-against-robert-lewandowskis-poland
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: World Cup Play-offs: Newcastle's Sandro Tonali puts Italy ahead against Northern Ireland in Bergamo
+## Story 7: World Cup Play-offs: Newcastle's Sandro Tonali puts Italy ahead against Northern Ireland in Bergamo
 **Slug (lower-third):** World Cup Play-offs: Newcastle's Sandro Tonali puts Italy…  
 **When:** 2026-03-26 16:57 (America/Winnipeg)  •  **Published:** 2026-03-26 21:57 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+**Virality score:** 83  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 World Cup Play-offs: Newcastle's Sandro Tonali puts Italy ahead against Northern Ireland in Bergamo. Watch as Newcastle United midfielder Sandro Tonali gives Italy the lead against Northern Ireland in their World Cup play-off semi-final in Bergamo. Relevance to standings and momentum.
@@ -206,19 +182,19 @@ World Cup Play-offs: Newcastle's Sandro Tonali puts Italy ahead against Northern
 - bbc.com — World Cup Play-offs: Newcastle's Sandro Tonali puts Italy ahead against Northern Ireland in Bergamo. https://www.bbc.com/sport/football/videos/cgj02g05xlxo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 9: Premier League Darts: Luke Littler takes out two big fishes in a row!
-**Slug (lower-third):** Premier League Darts: Luke Littler takes out two big fish…  
-**When:** 2026-03-26 16:44 (America/Winnipeg)  •  **Published:** 2026-03-26 21:44 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 8: French league postpones Lens match to allow PSG weekend off between Liverpool games
+**Slug (lower-third):** French league postpones Lens match to allow PSG weekend o…  
+**When:** 2026-03-26 09:11 (America/Winnipeg)  •  **Published:** 2026-03-26 14:11 (UTC)  
+**Virality score:** 71  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League Darts: Luke Littler takes out two big fishes in a row!. Luke Littler checked-out back-to-back 170s to win Week Eight of the Premier League. Relevance to standings and momentum.
+French league postpones Lens match to allow PSG weekend off between Liverpool games. Paris Saint-Germain's visit to Lens has been postponed to give PSG more time to prepare for their Champions League quarter-final against Liverpool Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,31 +203,7 @@ Premier League Darts: Luke Littler takes out two big fishes in a row!. Luke Litt
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League Darts: Luke Littler takes out two big fishes in a row!. https://www.skysports.com/watch/video/13524871/back-to-back-170s-luke-littler-takes-out-two-big-fishes-in-a-row
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute
-**Slug (lower-third):** Keely Hodgkinson pokes fun at West Ham over world champio…  
-**When:** 2026-03-26 05:46 (America/Winnipeg)  •  **Published:** 2026-03-26 10:46 (UTC)  
-**Virality score:** 75  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute. Keely Hodgkinson has playfully poked fun at West Ham after it emerged they could ruin London's chances of hosting the 2029 World Athletics Championships Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute. https://www.theguardian.com/sport/2026/mar/26/keely-hodgkinson-tweet-west-ham-world-championships-stadium-dispute
+- theguardian.com — French league postpones Lens match to allow PSG weekend off between Liverpool games. https://www.theguardian.com/football/2026/mar/26/french-league-postpones-lens-psg
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
