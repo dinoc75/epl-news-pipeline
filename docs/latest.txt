@@ -1,28 +1,54 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-26 14:09 (America/Winnipeg)  |  2026-03-26 19:09 (UTC)
-**Stories in this rundown:** 10  |  **Style:** conversational broadcast
+**Generated:** 2026-03-26 21:34 (America/Winnipeg)  |  2026-03-27 02:34 (UTC)
+**Stories in this rundown:** 9  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 27s
+**Estimated total video length:** ~3m 07s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- HUGE celebrations as Rock wins first Premier League match
-- Keely Hodgkinson: West Ham mocked as 800m Olympic champion backs London Stadium to stage 2029 World Athletics Championships
-- Kim Little: Arsenal captain signs one-year contract extension
+- Sandro Tonali transfer news: Man Utd expected to make formal approach for Newcastle midfielder - Paper talk and football transfer gossip
+- Football gossip: Olise, Tonali, Rashford, Lewis-Skelly, Ndiaye, Alvarez
+- Arsenal's Viktor Gyokeres scores hat-trick as Sweden book World Cup play-off final against Robert Lewandowski's Poland
+
+---
+
+### Managerial Moves
+
+## Story 1: Mohamed Salah is an all-time great - Jurgen Klopp
+**Slug (lower-third):** Mohamed Salah is an all-time great - Jurgen Klopp  
+**When:** 2026-03-26 15:43 (America/Winnipeg)  •  **Published:** 2026-03-26 20:43 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Mohamed Salah is an all-time great - Jurgen Klopp. Former Liverpool head coach Jurgen Klopp says Mohamed Salah is "one of the all-time greats" and his legacy at the club will be difficult to top. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Mohamed Salah is an all-time great - Jurgen Klopp. https://www.bbc.com/sport/football/articles/c3931xlwxjro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Transfers
 
-## Story 1: Kim Little: Arsenal captain signs one-year contract extension
-**Slug (lower-third):** Kim Little: Arsenal captain signs one-year contract exten…  
-**When:** 2026-03-26 12:30 (America/Winnipeg)  •  **Published:** 2026-03-26 17:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Sandro Tonali transfer news: Man Utd expected to make formal approach for Newcastle midfielder - Paper talk and football transfer gossip
+**Slug (lower-third):** Sandro Tonali transfer news: Man Utd expected to make for…  
+**When:** 2026-03-26 18:15 (America/Winnipeg)  •  **Published:** 2026-03-26 23:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Kim Little: Arsenal captain signs one-year contract extension. Arsenal captain Kim Little, 35, signs a one-year contract extension with the club. Implications for the squad and table.
+Sandro Tonali transfer news: Man Utd expected to make formal approach for Newcastle midfielder - Paper talk and football transfer gossip. Latest from Fridays newspapers: Mohamed Salahs Liverpool farewell risks turning nasty like it did with Trent Alexander-Arnold last season, according to Roy Keane; a Bayern Munich official has launched a brutal attack on Liverpools transfer strategy Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +57,7 @@ Kim Little: Arsenal captain signs one-year contract extension. Arsenal captain K
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Kim Little: Arsenal captain signs one-year contract extension. https://www.bbc.com/sport/football/articles/c0rxqg770rno?at_medium=RSS&at_campaign=rss
+- skysports.com — Sandro Tonali transfer news: Man Utd expected to make formal approach for Newcastle midfielder - Paper talk and football transfer gossip. https://www.skysports.com/football/news/12040/13524782/x-paper-talk-and-football-transfer-gossip
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +66,13 @@ Kim Little: Arsenal captain signs one-year contract extension. Arsenal captain K
 
 ---
 
-## Story 2: Arsenal transfers: Khvicha Kvaratskhelia and Anthony Gordon among left-winger targets this summer
-**Slug (lower-third):** Arsenal transfers: Khvicha Kvaratskhelia and Anthony Gord…  
-**When:** 2026-03-26 10:00 (America/Winnipeg)  •  **Published:** 2026-03-26 15:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~27s
+## Story 3: 'Trust your own feeling': Everton's Katja Snoeijs on her endometriosis diagnosis
+**Slug (lower-third):** 'Trust your own feeling': Everton's Katja Snoeijs on her …  
+**When:** 2026-03-26 04:04 (America/Winnipeg)  •  **Published:** 2026-03-26 09:04 (UTC)  
+**Virality score:** 79  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal transfers: Khvicha Kvaratskhelia and Anthony Gordon among left-winger targets this summer. Arsenal are also monitoring Elliot Anderson and Sandro Tonali as potential targets to improve their midfield but will need to make sales to fund those big investments; Khvicha Kvaratskhelia and Anthony Gordon have a long time left on their contracts and would be expensive to prise away Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+'Trust your own feeling': Everton's Katja Snoeijs on her endometriosis diagnosis. Everton's Katja Snoeijs tells Tom Garry about the condition that temporarily derailed her career and left her in so much pain she was in bed for three days Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,36 +81,10 @@ Arsenal transfers: Khvicha Kvaratskhelia and Anthony Gordon among left-winger ta
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal transfers: Khvicha Kvaratskhelia and Anthony Gordon among left-winger targets this summer. https://www.skysports.com/football/news/12040/13524667/arsenal-transfers-khvicha-kvaratskhelia-and-anthony-gordon-among-left-winger-targets-this-summer
+- theguardian.com — 'Trust your own feeling': Everton's Katja Snoeijs on her endometriosis diagnosis. https://www.theguardian.com/football/2026/mar/26/everton-wsl-katja-snoeijs-endometriosis-diagnosis
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 3: Rodri open to Real Madrid move when Manchester City stint ends
-**Slug (lower-third):** Rodri open to Real Madrid move when Manchester City stint…  
-**When:** 2026-03-26 09:33 (America/Winnipeg)  •  **Published:** 2026-03-26 14:33 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Rodri open to Real Madrid move when Manchester City stint ends. Manchester City midfielder Rodri says "you can't turn down the best clubs in the world" as he refuses to rule out a move to Real Madrid. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Rodri open to Real Madrid move when Manchester City stint ends. https://www.bbc.com/sport/football/articles/ce3dnnn50ppo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -92,13 +92,13 @@ Rodri open to Real Madrid move when Manchester City stint ends. Manchester City 
 
 ### Club Updates
 
-## Story 4: HUGE celebrations as Rock wins first Premier League match
-**Slug (lower-third):** HUGE celebrations as Rock wins first Premier League match  
-**When:** 2026-03-26 13:41 (America/Winnipeg)  •  **Published:** 2026-03-26 18:41 (UTC)  
+## Story 4: Football gossip: Olise, Tonali, Rashford, Lewis-Skelly, Ndiaye, Alvarez
+**Slug (lower-third):** Football gossip: Olise, Tonali, Rashford, Lewis-Skelly, N…  
+**When:** 2026-03-26 18:03 (America/Winnipeg)  •  **Published:** 2026-03-26 23:03 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-HUGE celebrations as Rock wins first Premier League match. Josh Rock drops to the floor following his first ever Premier League match win as he topples Jonny Clayton 6-3. Relevance to standings and momentum.
+Football gossip: Olise, Tonali, Rashford, Lewis-Skelly, Ndiaye, Alvarez. Bayern Munich want to keep Michael Olise, despite Liverpool interest and possible bid worth more than APS170m, while Manchester United will make a formal approach for Sandro Tonali and Arsenal's Myles Lewis-Skelly is another summer target. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +107,7 @@ HUGE celebrations as Rock wins first Premier League match. Josh Rock drops to th
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — HUGE celebrations as Rock wins first Premier League match. https://www.skysports.com/watch/video/13524806/huge-celebrations-as-rock-wins-first-premier-league-match
+- bbc.com — Football gossip: Olise, Tonali, Rashford, Lewis-Skelly, Ndiaye, Alvarez. https://www.bbc.com/sport/football/articles/cq59gg15ynlo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +116,13 @@ HUGE celebrations as Rock wins first Premier League match. Josh Rock drops to th
 
 ---
 
-## Story 5: Keely Hodgkinson: West Ham mocked as 800m Olympic champion backs London Stadium to stage 2029 World Athletics Championships
-**Slug (lower-third):** Keely Hodgkinson: West Ham mocked as 800m Olympic champio…  
-**When:** 2026-03-26 13:18 (America/Winnipeg)  •  **Published:** 2026-03-26 18:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Arsenal's Viktor Gyokeres scores hat-trick as Sweden book World Cup play-off final against Robert Lewandowski's Poland
+**Slug (lower-third):** Arsenal's Viktor Gyokeres scores hat-trick as Sweden book…  
+**When:** 2026-03-26 17:02 (America/Winnipeg)  •  **Published:** 2026-03-26 22:02 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Keely Hodgkinson: West Ham mocked as 800m Olympic champion backs London Stadium to stage 2029 World Athletics Championships. GB track stars Keely Hodgkinson and Dina Asher-Smith have made jovial criticisms of West Ham after it emerged the club could prevent the 2029 World Athletics Championships from taking place in London. Relevance to standings and momentum.
+Arsenal's Viktor Gyokeres scores hat-trick as Sweden book World Cup play-off final against Robert Lewandowski's Poland. World Cup play-off finals take place on March 31 - Sweden vs Poland, Bosnia-Herzegovina vs Italy, Kosovo vs Turkey and Czech Republic vs Denmark Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +131,7 @@ Keely Hodgkinson: West Ham mocked as 800m Olympic champion backs London Stadium 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Keely Hodgkinson: West Ham mocked as 800m Olympic champion backs London Stadium to stage 2029 World Athletics Championships. https://www.skysports.com/athletics/news/12040/13524798/keely-hodgkinson-west-ham-mocked-as-800m-olympic-champion-backs-london-stadium-to-stage-2029-world-athletics-championships
+- skysports.com — Arsenal's Viktor Gyokeres scores hat-trick as Sweden book World Cup play-off final against Robert Lewandowski's Poland. https://www.skysports.com/football/news/12040/13524890/arsenals-viktor-gyokeres-scores-hat-trick-as-sweden-book-world-cup-play-off-final-against-robert-lewandowskis-poland
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +140,13 @@ Keely Hodgkinson: West Ham mocked as 800m Olympic champion backs London Stadium 
 
 ---
 
-## Story 6: PSG's Ligue 1 match with Lens postponed because of Liverpool Champions League quarter-final
-**Slug (lower-third):** PSG's Ligue 1 match with Lens postponed because of Liverp…  
-**When:** 2026-03-26 08:51 (America/Winnipeg)  •  **Published:** 2026-03-26 13:51 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 6: World Cup Play-offs: Newcastle's Sandro Tonali puts Italy ahead against Northern Ireland in Bergamo
+**Slug (lower-third):** World Cup Play-offs: Newcastle's Sandro Tonali puts Italy…  
+**When:** 2026-03-26 16:57 (America/Winnipeg)  •  **Published:** 2026-03-26 21:57 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-PSG's Ligue 1 match with Lens postponed because of Liverpool Champions League quarter-final. Paris St-Germain's Ligue One match against Lens, which was set to take place between the two legs of their Champions League quarter-final against Liverpool, has been postponed. Relevance to standings and momentum.
+World Cup Play-offs: Newcastle's Sandro Tonali puts Italy ahead against Northern Ireland in Bergamo. Watch as Newcastle United midfielder Sandro Tonali gives Italy the lead against Northern Ireland in their World Cup play-off semi-final in Bergamo. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +155,7 @@ PSG's Ligue 1 match with Lens postponed because of Liverpool Champions League qu
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — PSG's Ligue 1 match with Lens postponed because of Liverpool Champions League quarter-final. https://www.bbc.com/sport/football/articles/clyxe2znkp4o?at_medium=RSS&at_campaign=rss
+- bbc.com — World Cup Play-offs: Newcastle's Sandro Tonali puts Italy ahead against Northern Ireland in Bergamo. https://www.bbc.com/sport/football/videos/cgj02g05xlxo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +164,13 @@ PSG's Ligue 1 match with Lens postponed because of Liverpool Champions League qu
 
 ---
 
-## Story 7: French league postpones Lens match to allow PSG weekend off between Liverpool games
-**Slug (lower-third):** French league postpones Lens match to allow PSG weekend o…  
-**When:** 2026-03-26 09:11 (America/Winnipeg)  •  **Published:** 2026-03-26 14:11 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 7: Luke Littler explains his decision to change darts! - 'That will get people talking!'
+**Slug (lower-third):** Luke Littler explains his decision to change darts! - 'Th…  
+**When:** 2026-03-26 16:57 (America/Winnipeg)  •  **Published:** 2026-03-26 21:57 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-French league postpones Lens match to allow PSG weekend off between Liverpool games. Paris Saint-Germain's visit to Lens has been postponed to give PSG more time to prepare for their Champions League quarter-final against Liverpool Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Luke Littler explains his decision to change darts! - 'That will get people talking!'. Luke Littler explains his decisions to change darts during night eight of the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +179,7 @@ French league postpones Lens match to allow PSG weekend off between Liverpool ga
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — French league postpones Lens match to allow PSG weekend off between Liverpool games. https://www.theguardian.com/football/2026/mar/26/french-league-postpones-lens-psg
+- skysports.com — Luke Littler explains his decision to change darts! - 'That will get people talking!'. https://www.skysports.com/watch/video/13524876/luke-littler-explains-his-decision-to-change-darts-that-will-get-people-talking
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +188,13 @@ French league postpones Lens match to allow PSG weekend off between Liverpool ga
 
 ---
 
-## Story 8: Refereeing and VAR errors increase in Premier League
-**Slug (lower-third):** Refereeing and VAR errors increase in Premier League  
-**When:** 2026-03-26 07:18 (America/Winnipeg)  •  **Published:** 2026-03-26 12:18 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 8: Premier League darts: Littler triumphant in Berlin with incredible display against MVG
+**Slug (lower-third):** Premier League darts: Littler triumphant in Berlin with i…  
+**When:** 2026-03-26 16:49 (America/Winnipeg)  •  **Published:** 2026-03-26 21:49 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Refereeing and VAR errors increase in Premier League. Refereeing mistakes on the field and through the video assistant referee have risen across most categories in this season's Premier League. Relevance to standings and momentum.
+Premier League darts: Littler triumphant in Berlin with incredible display against MVG. Highlights of the Premier League match between Luke Littler and Michael van Gerwen from Night 8 in Berlin. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +203,7 @@ Refereeing and VAR errors increase in Premier League. Refereeing mistakes on the
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Refereeing and VAR errors increase in Premier League. https://www.bbc.com/sport/football/articles/c0rxqg9erewo?at_medium=RSS&at_campaign=rss
+- skysports.com — Premier League darts: Littler triumphant in Berlin with incredible display against MVG. https://www.skysports.com/watch/video/13524874/premier-league-darts-littler-triumphant-in-berlin-with-incredible-display-against-mvg
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,7 +215,7 @@ Refereeing and VAR errors increase in Premier League. Refereeing mistakes on the
 ## Story 9: Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute
 **Slug (lower-third):** Keely Hodgkinson pokes fun at West Ham over world champio…  
 **When:** 2026-03-26 05:46 (America/Winnipeg)  •  **Published:** 2026-03-26 10:46 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+**Virality score:** 81  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute. Keely Hodgkinson has playfully poked fun at West Ham after it emerged they could ruin London's chances of hosting the 2029 World Athletics Championships Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -230,31 +230,7 @@ Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute.
 - theguardian.com — Keely Hodgkinson pokes fun at West Ham over world championships stadium dispute. https://www.theguardian.com/sport/2026/mar/26/keely-hodgkinson-tweet-west-ham-world-championships-stadium-dispute
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Katja Snoeijs: Everton forward gives her experience of endometriosis
-**Slug (lower-third):** Katja Snoeijs: Everton forward gives her experience of en…  
-**When:** 2026-03-26 04:00 (America/Winnipeg)  •  **Published:** 2026-03-26 09:00 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Katja Snoeijs: Everton forward gives her experience of endometriosis. Everton forward Katja Snoeijs explains her journey to getting a diagnosis of endometriosis. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Katja Snoeijs: Everton forward gives her experience of endometriosis. https://www.bbc.com/sport/football/articles/cvg3g2gkw3po?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
