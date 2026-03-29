@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-03-29 08:00 (America/Winnipeg)  |  2026-03-29 13:00 (UTC)
+**Generated:** 2026-03-29 13:46 (America/Winnipeg)  |  2026-03-29 18:46 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~4m 36s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Chelsea take vital lead in Kingsmeadow thriller!
-- Aston Villa level with Chelsea after thrilling first-half
-- Why are Scotland playing Ivory Coast in Liverpool?
+- Leeds Rhinos 26-22 Warrington Wolves: Maika Sivo hat-trick guides Leeds to hard-fought victory as Wolves suffer first loss of Super League season
+- 'Igor Tudor's departure was inevitable as Spurs roll the dice one final time in search of Premier League safety'
+- Igor Tudor leaves Tottenham Hotspur - what next for Spurs?
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Stones the exception to Tuchel's World Cup rule despite cold shoulder from Guardiola
-**Slug (lower-third):** Stones the exception to Tuchel's World Cup rule despite c…  
-**When:** 2026-03-28 14:00 (America/Winnipeg)  •  **Published:** 2026-03-28 19:00 (UTC)  
-**Virality score:** 78  •  **Estimated runtime:** ~20s
+## Story 1: Igor Tudor leaves Tottenham Hotspur - what next for Spurs?
+**Slug (lower-third):** Igor Tudor leaves Tottenham Hotspur - what next for Spurs?  
+**When:** 2026-03-29 12:09 (America/Winnipeg)  •  **Published:** 2026-03-29 17:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Stones the exception to Tuchel's World Cup rule despite cold shoulder from Guardiola. England's head coach still rates injury-prone Manchester City defender and seems likely to be a fundamental part of his squad this summer - if fit Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Igor Tudor leaves Tottenham Hotspur - what next for Spurs?. Chief executive Vinai Venkatesham and sporting director Johan Lange must get the next Tottenham appointment correct or else they could follow Igor Tudor, writes Phil McNulty. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,22 +31,22 @@ Stones the exception to Tuchel's World Cup rule despite cold shoulder from Guard
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Stones the exception to Tuchel's World Cup rule despite cold shoulder from Guardiola. https://www.theguardian.com/football/2026/mar/28/john-stones-thomas-tuchel-england-world-cup-football
+- bbc.com — Igor Tudor leaves Tottenham Hotspur - what next for Spurs?. https://www.bbc.com/sport/football/articles/c0le1l7dkdzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 2: Man City's 'statement' win at Man Utd shows they are handling WSL title race pressure
-**Slug (lower-third):** Man City's 'statement' win at Man Utd shows they are hand…  
-**When:** 2026-03-28 12:53 (America/Winnipeg)  •  **Published:** 2026-03-28 17:53 (UTC)  
-**Virality score:** 78  •  **Estimated runtime:** ~20s
+## Story 2: Igor Tudor sacked by Tottenham after only SEVEN games
+**Slug (lower-third):** Igor Tudor sacked by Tottenham after only SEVEN games  
+**When:** 2026-03-29 11:19 (America/Winnipeg)  •  **Published:** 2026-03-29 16:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City's 'statement' win at Man Utd shows they are handling WSL title race pressure. Manchester City's manager Andree Jeglertz says he "enjoyed" his side's performance in a dominating win at Manchester United that edges them closer to a first WSL title in a decade. Relevance to standings and momentum.
+Igor Tudor sacked by Tottenham after only SEVEN games. Tottenham have sacked Igor Tudor after just seven games, with the club in danger of being relegated from the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,10 +55,36 @@ Man City's 'statement' win at Man Utd shows they are handling WSL title race pre
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man City's 'statement' win at Man Utd shows they are handling WSL title race pressure. https://www.bbc.com/sport/football/articles/c3v6wdg6dq2o?at_medium=RSS&at_campaign=rss
+- skysports.com — Igor Tudor sacked by Tottenham after only SEVEN games. https://www.skysports.com/watch/video/13525864/premier-league-igor-tudor-sacked-by-tottenham-after-only-seven-games
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 3: 'Igor Tudor's departure was inevitable as Spurs roll the dice one final time in search of Premier League safety'
+**Slug (lower-third):** 'Igor Tudor's departure was inevitable as Spurs roll the …  
+**When:** 2026-03-29 13:20 (America/Winnipeg)  •  **Published:** 2026-03-29 18:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+'Igor Tudor's departure was inevitable as Spurs roll the dice one final time in search of Premier League safety'. Igor Tudor left Tottenham by mutual consent after seven games in charge; the Croatian replaced Thomas Frank in February but picked up just one point in the Premier League; Spurs are a solitary point above the relegation zone with seven games left to play Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — 'Igor Tudor's departure was inevitable as Spurs roll the dice one final time in search of Premier League safety'. https://www.skysports.com/football/news/12040/13525889/igor-tudors-departure-was-inevitable-as-spurs-roll-the-dice-one-final-time-in-search-of-premier-league-safety
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -66,13 +92,13 @@ Man City's 'statement' win at Man Utd shows they are handling WSL title race pre
 
 ### Club Updates
 
-## Story 3: Chelsea take vital lead in Kingsmeadow thriller!
-**Slug (lower-third):** Chelsea take vital lead in Kingsmeadow thriller!  
-**When:** 2026-03-29 08:43 (America/Winnipeg)  •  **Published:** 2026-03-29 13:43 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Leeds Rhinos 26-22 Warrington Wolves: Maika Sivo hat-trick guides Leeds to hard-fought victory as Wolves suffer first loss of Super League season
+**Slug (lower-third):** Leeds Rhinos 26-22 Warrington Wolves: Maika Sivo hat-tric…  
+**When:** 2026-03-29 14:20 (America/Winnipeg)  •  **Published:** 2026-03-29 19:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Chelsea take vital lead in Kingsmeadow thriller!. Sjoeke Nusken gives Chelsea the all important lead against Aston Villa in Kingsmeadow. Relevance to standings and momentum.
+Leeds Rhinos 26-22 Warrington Wolves: Maika Sivo hat-trick guides Leeds to hard-fought victory as Wolves suffer first loss of Super League season. Super League top try-scorer Maika Sivo scored a hat-trick that helped Leeds to the close 26-22 victory; It is Warringtons first loss of the season; Sky Sports is the only place to watch every Super League game live in 2026 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +107,7 @@ Chelsea take vital lead in Kingsmeadow thriller!. Sjoeke Nusken gives Chelsea th
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea take vital lead in Kingsmeadow thriller!. https://www.skysports.com/watch/video/13525828/chelsea-take-vital-lead-in-kingsmeadow-thriller
+- skysports.com — Leeds Rhinos 26-22 Warrington Wolves: Maika Sivo hat-trick guides Leeds to hard-fought victory as Wolves suffer first loss of Super League season. https://www.skysports.com/rugby-league/news/12040/13525796/leeds-rhinos-26-22-warrington-wolves-maika-sivo-hat-trick-guides-leeds-to-hard-fought-victory-as-wolves-suffer-first-loss-of-super-league-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +116,13 @@ Chelsea take vital lead in Kingsmeadow thriller!. Sjoeke Nusken gives Chelsea th
 
 ---
 
-## Story 4: Aston Villa level with Chelsea after thrilling first-half
-**Slug (lower-third):** Aston Villa level with Chelsea after thrilling first-half  
-**When:** 2026-03-29 07:51 (America/Winnipeg)  •  **Published:** 2026-03-29 12:51 (UTC)  
+## Story 5: WSL: Chelsea 4-3 Aston Villa - highlights
+**Slug (lower-third):** WSL: Chelsea 4-3 Aston Villa - highlights  
+**When:** 2026-03-29 11:59 (America/Winnipeg)  •  **Published:** 2026-03-29 16:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa level with Chelsea after thrilling first-half. Kirsty Hanson slots in the equaliser for Aston Villa at Kingsmedow. Relevance to standings and momentum.
+WSL: Chelsea 4-3 Aston Villa - highlights. Chelsea secure a vital three points as they beat Aston Villa 4-3 to go second in the league table and get back on track for Champions League qualification. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +131,8 @@ Aston Villa level with Chelsea after thrilling first-half. Kirsty Hanson slots i
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Aston Villa level with Chelsea after thrilling first-half. https://www.skysports.com/watch/video/13525824/aston-villa-level-with-chelsea-after-thrilling-first-half
+- bbc.com — WSL: Chelsea 4-3 Aston Villa - highlights. https://www.bbc.com/sport/football/videos/cz67pz09y4xo?at_medium=RSS&at_campaign=rss
+- skysports.com — Chelsea 4-3 Aston Villa: WSL champions edge seven-goal thriller to reclaim second place in table. https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/report/545713
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +141,13 @@ Aston Villa level with Chelsea after thrilling first-half. Kirsty Hanson slots i
 
 ---
 
-## Story 5: Why are Scotland playing Ivory Coast in Liverpool?
-**Slug (lower-third):** Why are Scotland playing Ivory Coast in Liverpool?  
-**When:** 2026-03-29 07:05 (America/Winnipeg)  •  **Published:** 2026-03-29 12:05 (UTC)  
+## Story 6: WSL: West Ham United 1-1 London City Lionesses - highlights
+**Slug (lower-third):** WSL: West Ham United 1-1 London City Lionesses - highligh…  
+**When:** 2026-03-29 11:59 (America/Winnipeg)  •  **Published:** 2026-03-29 16:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Why are Scotland playing Ivory Coast in Liverpool?. Scotland continue their World Cup preparations with a friendly against Ivory Coast on Tuesday, but why is this away game being played at Everton's new stadium in Liverpool? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+WSL: West Ham United 1-1 London City Lionesses - highlights. Oona Siren's stunning volley helps Women's Super League relegation battlers West Ham fight back to earn a point against London City Lionesses. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +156,7 @@ Why are Scotland playing Ivory Coast in Liverpool?. Scotland continue their Worl
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Why are Scotland playing Ivory Coast in Liverpool?. https://www.bbc.com/sport/football/articles/cvg043vjzv5o?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL: West Ham United 1-1 London City Lionesses - highlights. https://www.bbc.com/sport/football/videos/c7vqd4lq8p8o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,9 +165,33 @@ Why are Scotland playing Ivory Coast in Liverpool?. Scotland continue their Worl
 
 ---
 
-## Story 6: Alessia Russo nets hat trick as Arsenal thrash Tottenham
+## Story 7: Igor Tudor leaves Tottenham: The key stats
+**Slug (lower-third):** Igor Tudor leaves Tottenham: The key stats  
+**When:** 2026-03-29 11:30 (America/Winnipeg)  •  **Published:** 2026-03-29 16:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Igor Tudor leaves Tottenham: The key stats. The story of Igor Tudors reign at Tottenham Hotspur. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Igor Tudor leaves Tottenham: The key stats. https://www.skysports.com/watch/video/13525868/why-has-tudor-left-spurs-story-of-igors-reign
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Alessia Russo nets hat trick as Arsenal thrash Tottenham
 **Slug (lower-third):** Alessia Russo nets hat trick as Arsenal thrash Tottenham  
-**When:** 2026-03-28 23:27 (America/Winnipeg)  •  **Published:** 2026-03-29 04:27 (UTC)  
+**When:** 2026-03-29 07:45 (America/Winnipeg)  •  **Published:** 2026-03-29 12:45 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -163,13 +214,13 @@ Alessia Russo nets hat trick as Arsenal thrash Tottenham. Alessia Russo's first 
 
 ---
 
-## Story 7: Football gossip: Trafford, Tonali, Wharton, Dyche, Ndicka, Llorente
-**Slug (lower-third):** Football gossip: Trafford, Tonali, Wharton, Dyche, Ndicka…  
-**When:** 2026-03-28 17:00 (America/Winnipeg)  •  **Published:** 2026-03-28 22:00 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 9: Sonia Bompastor's relief as Chelsea edge Villa in seven-goal thriller - 'This win is huge!'
+**Slug (lower-third):** Sonia Bompastor's relief as Chelsea edge Villa in seven-g…  
+**When:** 2026-03-29 09:17 (America/Winnipeg)  •  **Published:** 2026-03-29 14:17 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Trafford, Tonali, Wharton, Dyche, Ndicka, Llorente. Manchester City's James Trafford remains a potential target for Newcastle, Real Madrid are among the clubs interested in Crystal Palace's Adam Wharton, plus more. Relevance to standings and momentum.
+Sonia Bompastor's relief as Chelsea edge Villa in seven-goal thriller - 'This win is huge!'. Sonia Bompastor expressed her joy and relief after Chelsea's dramatic 4-3 win over Aston Villa at Kingsmeadow,. The result kept Chelsea's WSL title hopes alive and gave them a huge lift heading into the run-in. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -178,22 +229,22 @@ Football gossip: Trafford, Tonali, Wharton, Dyche, Ndicka, Llorente. Manchester 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Trafford, Tonali, Wharton, Dyche, Ndicka, Llorente. https://www.bbc.com/sport/football/articles/cx2vep99y2qo?at_medium=RSS&at_campaign=rss
+- skysports.com — Sonia Bompastor's relief as Chelsea edge Villa in seven-goal thriller - 'This win is huge!'. https://www.skysports.com/watch/video/13525838/this-win-is-huge-sonia-bompastors-relief-as-chelsea-edge-villa-in-seven-goal-thriller
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 8: Alessia Russo 'stepping up' as Arsenal hunt down European place
-**Slug (lower-third):** Alessia Russo 'stepping up' as Arsenal hunt down European…  
-**When:** 2026-03-28 16:22 (America/Winnipeg)  •  **Published:** 2026-03-28 21:22 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
+## Story 10: Why are Scotland playing Ivory Coast in Liverpool?
+**Slug (lower-third):** Why are Scotland playing Ivory Coast in Liverpool?  
+**When:** 2026-03-29 07:05 (America/Winnipeg)  •  **Published:** 2026-03-29 12:05 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Alessia Russo 'stepping up' as Arsenal hunt down European place. With Arsenal chasing a place in next season's Champions League, England striker Alessia Russo has hit form at just the right time - as her 22-minute Women's Super League hat-trick against Tottenham proves. Relevance to standings and momentum.
+Why are Scotland playing Ivory Coast in Liverpool?. Scotland continue their World Cup preparations with a friendly against Ivory Coast on Tuesday, but why is this away game being played at Everton's new stadium in Liverpool? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -202,58 +253,10 @@ Alessia Russo 'stepping up' as Arsenal hunt down European place. With Arsenal ch
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Alessia Russo 'stepping up' as Arsenal hunt down European place. https://www.bbc.com/sport/football/articles/c1d94qq501lo?at_medium=RSS&at_campaign=rss
+- bbc.com — Why are Scotland playing Ivory Coast in Liverpool?. https://www.bbc.com/sport/football/articles/cvg043vjzv5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Running on empty? Premier League teams falter under weight of endless schedule | Jonathan Wilson
-**Slug (lower-third):** Running on empty? Premier League teams falter under weigh…  
-**When:** 2026-03-28 15:00 (America/Winnipeg)  •  **Published:** 2026-03-28 20:00 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Running on empty? Premier League teams falter under weight of endless schedule | Jonathan Wilson. Players are not covering the vast distances of old - they are not being lazy but adapting to the demands of an arduous season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Running on empty? Premier League teams falter under weight of endless schedule | Jonathan Wilson. https://www.theguardian.com/football/2026/mar/28/running-on-empty-premier-league-teams-falter-under-weight-of-endless-schedule
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: WSL: Everton 2-3 Liverpool highlights
-**Slug (lower-third):** WSL: Everton 2-3 Liverpool highlights  
-**When:** 2026-03-28 13:44 (America/Winnipeg)  •  **Published:** 2026-03-28 18:44 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL: Everton 2-3 Liverpool highlights. Ten-player Liverpool hold on for their first Women's Super League away win of the season with a hard-fought victory over local rivals Everton at Goodison Park. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — WSL: Everton 2-3 Liverpool highlights. https://www.bbc.com/sport/football/videos/cg54y9q6p59o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
