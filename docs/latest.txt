@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-04 13:45 (America/Winnipeg)  |  2026-04-04 18:45 (UTC)
+**Generated:** 2026-04-04 21:39 (America/Winnipeg)  |  2026-04-05 02:39 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 26s
+**Estimated total video length:** ~4m 32s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Chelsea 7-0 Port Vale: Liam Rosenior's side hammer League One visitors to reach FA Cup semi-finals at Wembley
-- Oscar: Former Chelsea and Brazil midfielder retires because of heart issue
-- Arne Slot: Liverpool manager under increasing pressure after FA Cup capitulation
+- Arsenal: FA Cup defeat at Southampton turns up heat in trophy hunt
+- Southampton beat Arsenal to set up FA Cup semi-final - but first comes Wrexham trip
+- Football gossip: Barco, Vicario, Palestra, Atcheson, Arribas, Gordon
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Arne Slot: Liverpool manager under increasing pressure after FA Cup capitulation
 **Slug (lower-third):** Arne Slot: Liverpool manager under increasing pressure af…  
 **When:** 2026-04-04 12:43 (America/Winnipeg)  •  **Published:** 2026-04-04 17:43 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Arne Slot: Liverpool manager under increasing pressure after FA Cup capitulation. Nobody would have believed that 12 months on from Liverpool's title win, a fanbase so united behind its team and its manager would be, at best, apathetic as to whether Arne Slot remains in the job. Relevance to standings and momentum.
@@ -43,7 +43,7 @@ Arne Slot: Liverpool manager under increasing pressure after FA Cup capitulation
 ## Story 2: If Newcastle really want to be taken seriously, then Eddie Howe must join the exodus | Jonathan Wilson
 **Slug (lower-third):** If Newcastle really want to be taken seriously, then Eddi…  
 **When:** 2026-04-04 12:00 (America/Winnipeg)  •  **Published:** 2026-04-04 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 If Newcastle really want to be taken seriously, then Eddie Howe must join the exodus | Jonathan Wilson. Most of what has gone wrong this season can be put down to poor recruitment - but the manager must share the blame Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -67,7 +67,7 @@ If Newcastle really want to be taken seriously, then Eddie Howe must join the ex
 ## Story 3: Survival or silverware? Farke faces dilemma as Leeds' season nears end
 **Slug (lower-third):** Survival or silverware? Farke faces dilemma as Leeds' sea…  
 **When:** 2026-04-04 04:00 (America/Winnipeg)  •  **Published:** 2026-04-04 09:00 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+**Virality score:** 79  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Survival or silverware? Farke faces dilemma as Leeds' season nears end. A first FA Cup semi-final since 1987 is within reach but manager says Premier League is 'our bread and butter' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -82,7 +82,7 @@ Survival or silverware? Farke faces dilemma as Leeds' season nears end. A first 
 - theguardian.com — Survival or silverware? Farke faces dilemma as Leeds' season nears end. https://www.theguardian.com/football/2026/apr/04/survival-or-glory-daniel-farke-leeds-fa-cup-premier-league
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -90,10 +90,34 @@ Survival or silverware? Farke faces dilemma as Leeds' season nears end. A first 
 
 ### Transfers
 
-## Story 4: 'Emotional' Trippier to leave Newcastle this summer when contract ends
+## Story 4: Chelsea: Liam Rosenior insists relationship with Enzo Fernandez 'in a very good place' despite midfielder being dropped amid transfer talk
+**Slug (lower-third):** Chelsea: Liam Rosenior insists relationship with Enzo Fer…  
+**When:** 2026-04-04 15:30 (America/Winnipeg)  •  **Published:** 2026-04-04 20:30 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Chelsea: Liam Rosenior insists relationship with Enzo Fernandez 'in a very good place' despite midfielder being dropped amid transfer talk. Enzo Fernandez is a Real Madrid summer target and cast doubt on his Chelsea future during the international break; midfielder missed the FA Cup win over Port Vale and will sit out the Premier League match with Man City by way of punishment Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Chelsea: Liam Rosenior insists relationship with Enzo Fernandez 'in a very good place' despite midfielder being dropped amid transfer talk. https://www.skysports.com/football/news/12040/13528037/chelsea-liam-rosenior-insists-relationship-with-enzo-fernandez-in-a-very-good-place-despite-midfielder-being-dropped-amid-transfer-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: 'Emotional' Trippier to leave Newcastle this summer when contract ends
 **Slug (lower-third):** 'Emotional' Trippier to leave Newcastle this summer when …  
 **When:** 2026-04-04 05:41 (America/Winnipeg)  •  **Published:** 2026-04-04 10:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'Emotional' Trippier to leave Newcastle this summer when contract ends. Kieran Trippier is to leave Newcastle when his contract ends this summer, heightening the sense of an era ending at the Saudi-owned club Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -115,41 +139,15 @@ Survival or silverware? Farke faces dilemma as Leeds' season nears end. A first 
 
 ---
 
-### Injuries
-
-## Story 5: Man City 4-0 Liverpool: Erling Haaland lays down gauntlet with hat-trick
-**Slug (lower-third):** Man City 4-0 Liverpool: Erling Haaland lays down gauntlet…  
-**When:** 2026-04-04 11:21 (America/Winnipeg)  •  **Published:** 2026-04-04 16:21 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man City 4-0 Liverpool: Erling Haaland lays down gauntlet with hat-trick. Manchester City have beaten Arsenal and taken apart Liverpool in their past two games and Erling Haaland's return to goalscoring form has laid down the gauntlet for the run-in. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Man City 4-0 Liverpool: Erling Haaland lays down gauntlet with hat-trick. https://www.bbc.com/sport/football/articles/c145g7z4xm0o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 6: Chelsea 7-0 Port Vale: Liam Rosenior's side hammer League One visitors to reach FA Cup semi-finals at Wembley
-**Slug (lower-third):** Chelsea 7-0 Port Vale: Liam Rosenior's side hammer League…  
-**When:** 2026-04-04 14:00 (America/Winnipeg)  •  **Published:** 2026-04-04 19:00 (UTC)  
+## Story 6: Arsenal: FA Cup defeat at Southampton turns up heat in trophy hunt
+**Slug (lower-third):** Arsenal: FA Cup defeat at Southampton turns up heat in tr…  
+**When:** 2026-04-04 18:32 (America/Winnipeg)  •  **Published:** 2026-04-04 23:32 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea 7-0 Port Vale: Liam Rosenior's side hammer League One visitors to reach FA Cup semi-finals at Wembley. Chelsea are into the FA Cup semi-finals at Wembley after thrashing League One bottom club Port Vale 7-0 at Stamford Bridge. Relevance to standings and momentum.
+Arsenal: FA Cup defeat at Southampton turns up heat in trophy hunt. Arsenal must regroup after their hopes of a quadruple were wrecked in two weeks by successive defeats for the first time this season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -158,7 +156,7 @@ Chelsea 7-0 Port Vale: Liam Rosenior's side hammer League One visitors to reach 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea 7-0 Port Vale: Liam Rosenior's side hammer League One visitors to reach FA Cup semi-finals at Wembley. https://www.skysports.com/football/chelsea-vs-port-vale/report/555130
+- bbc.com — Arsenal: FA Cup defeat at Southampton turns up heat in trophy hunt. https://www.bbc.com/sport/football/articles/cvg0350nlwzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +165,13 @@ Chelsea 7-0 Port Vale: Liam Rosenior's side hammer League One visitors to reach 
 
 ---
 
-## Story 7: Oscar: Former Chelsea and Brazil midfielder retires because of heart issue
-**Slug (lower-third):** Oscar: Former Chelsea and Brazil midfielder retires becau…  
-**When:** 2026-04-04 12:44 (America/Winnipeg)  •  **Published:** 2026-04-04 17:44 (UTC)  
+## Story 7: Southampton beat Arsenal to set up FA Cup semi-final - but first comes Wrexham trip
+**Slug (lower-third):** Southampton beat Arsenal to set up FA Cup semi-final - bu…  
+**When:** 2026-04-04 18:24 (America/Winnipeg)  •  **Published:** 2026-04-04 23:24 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Oscar: Former Chelsea and Brazil midfielder retires because of heart issue. Former Chelsea and Brazil midfielder Oscar retires after being diagnosed with a heart condition. Relevance to standings and momentum.
+Southampton beat Arsenal to set up FA Cup semi-final - but first comes Wrexham trip. Fifty years after their one and only FA Cup success, underdogs Southampton are again stunning top-flight opposition - and doing so in style. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +180,7 @@ Oscar: Former Chelsea and Brazil midfielder retires because of heart issue. Form
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Oscar: Former Chelsea and Brazil midfielder retires because of heart issue. https://www.bbc.com/sport/football/articles/c79jl729223o?at_medium=RSS&at_campaign=rss
+- bbc.com — Southampton beat Arsenal to set up FA Cup semi-final - but first comes Wrexham trip. https://www.bbc.com/sport/football/articles/c747d3ypngjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +189,13 @@ Oscar: Former Chelsea and Brazil midfielder retires because of heart issue. Form
 
 ---
 
-## Story 8: FA Cup: Danny Murphy on Liverpool's 4-0 defeat at Manchester City
-**Slug (lower-third):** FA Cup: Danny Murphy on Liverpool's 4-0 defeat at Manches…  
-**When:** 2026-04-04 12:36 (America/Winnipeg)  •  **Published:** 2026-04-04 17:36 (UTC)  
+## Story 8: Football gossip: Barco, Vicario, Palestra, Atcheson, Arribas, Gordon
+**Slug (lower-third):** Football gossip: Barco, Vicario, Palestra, Atcheson, Arri…  
+**When:** 2026-04-04 17:43 (America/Winnipeg)  •  **Published:** 2026-04-04 22:43 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-FA Cup: Danny Murphy on Liverpool's 4-0 defeat at Manchester City. Former Liverpool midfielder Danny Murphy describes Liverpool's 4-0 FA Cup defeat against Manchester City as "really damaging" and says their second-half performance "asked a lot of questions". Relevance to standings and momentum.
+Football gossip: Barco, Vicario, Palestra, Atcheson, Arribas, Gordon. Chelsea seek defender from partner club, Inter target Spurs goalkeeper and Liverpool look to add to defensive ranks, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +204,7 @@ FA Cup: Danny Murphy on Liverpool's 4-0 defeat at Manchester City. Former Liverp
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FA Cup: Danny Murphy on Liverpool's 4-0 defeat at Manchester City. https://www.bbc.com/sport/football/videos/crm14d209xko?at_medium=RSS&at_campaign=rss
+- bbc.com — Football gossip: Barco, Vicario, Palestra, Atcheson, Arribas, Gordon. https://www.bbc.com/sport/football/articles/cy51p7wwye6o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +213,13 @@ FA Cup: Danny Murphy on Liverpool's 4-0 defeat at Manchester City. Former Liverp
 
 ---
 
-## Story 9: Warrington Wolves 42-6 Leigh Leopards: Sam Burgess' side cruise to win as crisis-hit opponents slump to bottom of Super League table
-**Slug (lower-third):** Warrington Wolves 42-6 Leigh Leopards: Sam Burgess' side …  
-**When:** 2026-04-04 12:00 (America/Winnipeg)  •  **Published:** 2026-04-04 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: County Championship: James Anderson takes five-wicket haul to put Lancashire on top against Northamptonshire
+**Slug (lower-third):** County Championship: James Anderson takes five-wicket hau…  
+**When:** 2026-04-04 14:56 (America/Winnipeg)  •  **Published:** 2026-04-04 19:56 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Warrington Wolves 42-6 Leigh Leopards: Sam Burgess' side cruise to win as crisis-hit opponents slump to bottom of Super League table. Warrington Wolves moved back top of the Super League table with a 42-6 victory over Leigh Leopards in Rivals Round at the Halliwell Jones Stadium. Relevance to standings and momentum.
+County Championship: James Anderson takes five-wicket haul to put Lancashire on top against Northamptonshire. Former England seamer James Anderson takes five wickets in Lancashires County Championship game versus Northamptonshire; Sussex captain Ollie Robinson bags five-for against Leicestershire; Derbyshires Martin Andersson hits double hundred in clash with Worcestershire Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,7 +228,7 @@ Warrington Wolves 42-6 Leigh Leopards: Sam Burgess' side cruise to win as crisis
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Warrington Wolves 42-6 Leigh Leopards: Sam Burgess' side cruise to win as crisis-hit opponents slump to bottom of Super League table. https://www.skysports.com/rugby-league/warrington-vs-leigh/63202
+- skysports.com — County Championship: James Anderson takes five-wicket haul to put Lancashire on top against Northamptonshire. https://www.skysports.com/cricket/news/12040/13528036/county-championship-james-anderson-takes-five-wicket-haul-to-put-lancashire-on-top-against-northamptonshire
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -239,13 +237,13 @@ Warrington Wolves 42-6 Leigh Leopards: Sam Burgess' side cruise to win as crisis
 
 ---
 
-## Story 10: Today on Sky Sports Racing: Newton Abbot and Wolverhampton feature live on Saturday
-**Slug (lower-third):** Today on Sky Sports Racing: Newton Abbot and Wolverhampto…  
-**When:** 2026-04-04 02:00 (America/Winnipeg)  •  **Published:** 2026-04-04 07:00 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~26s
+## Story 10: Arne Slot's shot at redemption fades away after showreel of embarrassments | Andy Hunter
+**Slug (lower-third):** Arne Slot's shot at redemption fades away after showreel …  
+**When:** 2026-04-04 11:03 (America/Winnipeg)  •  **Published:** 2026-04-04 16:03 (UTC)  
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Newton Abbot and Wolverhampton feature live on Saturday. In Saturdays feature, the Nicky Henderson-trained Calimystic looks to make it three on the bounce and continue his climb through the ranks in a competitive heat from Newton Abbot; we also have competitive all-weather action from Wolverhampton, live on Sky Sports Racing from 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arne Slot's shot at redemption fades away after showreel of embarrassments | Andy Hunter. The spotlight intensifies on Liverpool's coach, but what of a group of players who in effect surrendered against Manchester City? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -254,7 +252,7 @@ Today on Sky Sports Racing: Newton Abbot and Wolverhampton feature live on Satur
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Newton Abbot and Wolverhampton feature live on Saturday. https://www.skysports.com/racing/news/12040/13527286/today-on-sky-sports-racing-newton-abbot-and-wolverhampton-feature-live-on-saturday
+- theguardian.com — Arne Slot's shot at redemption fades away after showreel of embarrassments | Andy Hunter. https://www.theguardian.com/football/2026/apr/04/arne-slots-shot-at-redemption-fades-away-after-showreel-of-embarrassments
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
