@@ -1,25 +1,49 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-06 08:16 (America/Winnipeg)  |  2026-04-06 13:16 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2026-04-06 14:04 (America/Winnipeg)  |  2026-04-06 19:04 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 10s
+**Estimated total video length:** ~4m 36s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Adam Gemili interview: Olympic sprinter on helping Chelsea's youngsters as he launches his own 'speed academy'
-- Reece James on track to deliver England World Cup boost with Chelsea return
-- Pep Lijnders on replacing 'unique' Bernardo Silva
+- County Championship: Jamie Smith scores century as Surrey secure final-draw with Warwickshire
+- Arsenal: Mikel Arteta left with selection dilemmas due to injury crisis ahead of Sporting and Bournemouth tests
+- Championship roundup: Norwich deal blow to Millwall's promotion push
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Pep Lijnders on replacing 'unique' Bernardo Silva
+## Story 1: Tonda Eckert interview: The boss who has Southampton back on the march
+**Slug (lower-third):** Tonda Eckert interview: The boss who has Southampton back…  
+**When:** 2026-04-06 08:00 (America/Winnipeg)  •  **Published:** 2026-04-06 13:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Tonda Eckert interview: The boss who has Southampton back on the march. Tonda Eckert was unexpectedly thrusted into the head coach job at Southampton, but hes now thriving at St Marys; Watch Wrexham vs Southampton live on Sky Sports+ and the Sky Sports app on Tuesday night; kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Tonda Eckert interview: The boss who has Southampton back on the march. https://www.skysports.com/football/news/12040/13527214/tonda-eckert-interview-the-boss-who-has-southampton-back-on-the-march
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Pep Lijnders on replacing 'unique' Bernardo Silva
 **Slug (lower-third):** Pep Lijnders on replacing 'unique' Bernardo Silva  
 **When:** 2026-04-06 05:21 (America/Winnipeg)  •  **Published:** 2026-04-06 10:21 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Pep Lijnders on replacing 'unique' Bernardo Silva. Manchester City assistant manager Pep Lijnders discusses captain Bernardo Silva's future at the club, saying "every good story comes to an end". Relevance to standings and momentum.
@@ -40,65 +64,15 @@ Pep Lijnders on replacing 'unique' Bernardo Silva. Manchester City assistant man
 
 ---
 
-## Story 2: Bernardo Silva: Manchester City assistant Pep Lijnders in departure hint
-**Slug (lower-third):** Bernardo Silva: Manchester City assistant Pep Lijnders in…  
-**When:** 2026-04-05 16:30 (America/Winnipeg)  •  **Published:** 2026-04-05 21:30 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bernardo Silva: Manchester City assistant Pep Lijnders in departure hint. Manchester City assistant manager Pep Lijnders hints that midfielder Bernardo Silva could be leaving in the summer. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Bernardo Silva: Manchester City assistant Pep Lijnders in departure hint. https://www.bbc.com/sport/football/articles/c1krz9kxrdvo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 3: Liverpool players hold emergency meeting after Man City thrashing ramps up pressure on Arne Slot - Paper Talk and football transfer gossip
-**Slug (lower-third):** Liverpool players hold emergency meeting after Man City t…  
-**When:** 2026-04-06 02:00 (America/Winnipeg)  •  **Published:** 2026-04-06 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Liverpool players hold emergency meeting after Man City thrashing ramps up pressure on Arne Slot - Paper Talk and football transfer gossip. Mondays top stories include reports of Man Utd planning a summer clear-out to fund their mega-money move for Nottingham Forest midfielder Elliot Anderson; Gabriel Martinelli to avoid FA action for shoving referee in Arsenals FA Cup quarter-final defeat at Southampton Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Liverpool players hold emergency meeting after Man City thrashing ramps up pressure on Arne Slot - Paper Talk and football transfer gossip. https://www.skysports.com/football/news/12040/13528351/liverpool-players-hold-emergency-meeting-after-man-city-thrashing-ramps-up-pressure-on-arne-slot-paper-talk-and-football-transfer-gossip
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Injuries
 
-## Story 4: Adam Gemili interview: Olympic sprinter on helping Chelsea's youngsters as he launches his own 'speed academy'
-**Slug (lower-third):** Adam Gemili interview: Olympic sprinter on helping Chelse…  
-**When:** 2026-04-06 07:00 (America/Winnipeg)  •  **Published:** 2026-04-06 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
+## Story 3: Arsenal: Mikel Arteta left with selection dilemmas due to injury crisis ahead of Sporting and Bournemouth tests
+**Slug (lower-third):** Arsenal: Mikel Arteta left with selection dilemmas due to…  
+**When:** 2026-04-06 14:42 (America/Winnipeg)  •  **Published:** 2026-04-06 19:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Adam Gemili interview: Olympic sprinter on helping Chelsea's youngsters as he launches his own 'speed academy'. From world champion sprinter to Chelsea's speed coach, former Olympian Adam Gemili speaks exclusively to Sky Sports to reflect on his career highs as well as explain his return to football and why he believes he can make footballers quicker... Relevance to standings and momentum.
+Arsenal: Mikel Arteta left with selection dilemmas due to injury crisis ahead of Sporting and Bournemouth tests. Arsenal aiming to get back on track after Carabao Cup final defeat to Man City and FA Cup exit to Southampton; injury issues to key players impact Mikel Artetas selection options ahead of Champions League Sporting tie and Bournemouth Premier League match Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +81,7 @@ Adam Gemili interview: Olympic sprinter on helping Chelsea's youngsters as he la
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Adam Gemili interview: Olympic sprinter on helping Chelsea's youngsters as he launches his own 'speed academy'. https://www.skysports.com/football/news/12040/13526011/adam-gemili-interview-olympic-sprinter-on-helping-chelseas-youngsters-as-he-launches-his-own-speed-academy
+- skysports.com — Arsenal: Mikel Arteta left with selection dilemmas due to injury crisis ahead of Sporting and Bournemouth tests. https://www.skysports.com/football/news/12040/13528327/arsenal-mikel-arteta-left-with-selection-dilemmas-due-to-injury-crisis-ahead-of-sporting-and-bournemouth-tests
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +90,13 @@ Adam Gemili interview: Olympic sprinter on helping Chelsea's youngsters as he la
 
 ---
 
-## Story 5: Reece James on track to deliver England World Cup boost with Chelsea return
-**Slug (lower-third):** Reece James on track to deliver England World Cup boost w…  
-**When:** 2026-04-06 05:26 (America/Winnipeg)  •  **Published:** 2026-04-06 10:26 (UTC)  
+## Story 4: Ipswich Town 2-1 Birmingham City: Tractor Boys boost promotion hopes with comeback win
+**Slug (lower-third):** Ipswich Town 2-1 Birmingham City: Tractor Boys boost prom…  
+**When:** 2026-04-06 12:15 (America/Winnipeg)  •  **Published:** 2026-04-06 17:15 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Reece James on track to deliver England World Cup boost with Chelsea return. Reece James could be fit by late April or early May after making good progress in his recovery from a hamstring injury Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Ipswich Town 2-1 Birmingham City: Tractor Boys boost promotion hopes with comeback win. Ipswich came from behind and boosted their hopes of an immediate return to the Premier League with a hard-fought 2-1 victory over Birmingham at Portman Road. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +105,7 @@ Reece James on track to deliver England World Cup boost with Chelsea return. Ree
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Reece James on track to deliver England World Cup boost with Chelsea return. https://www.theguardian.com/football/2026/apr/06/reece-james-england-world-cup-boost-chelsea-return-hamstring-injury
+- skysports.com — Ipswich Town 2-1 Birmingham City: Tractor Boys boost promotion hopes with comeback win. https://www.skysports.com/football/ipswich-town-vs-birmingham-city/report/534803
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +116,13 @@ Reece James on track to deliver England World Cup boost with Chelsea return. Ree
 
 ### Club Updates
 
-## Story 6: FA Cup quarter-finals: talking points from the men's and women's weekend ties
-**Slug (lower-third):** FA Cup quarter-finals: talking points from the men's and …  
-**When:** 2026-04-06 02:00 (America/Winnipeg)  •  **Published:** 2026-04-06 07:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 5: County Championship: Jamie Smith scores century as Surrey secure final-draw with Warwickshire
+**Slug (lower-third):** County Championship: Jamie Smith scores century as Surrey…  
+**When:** 2026-04-06 14:55 (America/Winnipeg)  •  **Published:** 2026-04-06 19:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-FA Cup quarter-finals: talking points from the men's and women's weekend ties. Kirby's class helps stun Arsenal, Palmer shows leadership potential for Chelsea and teenager Shaw makes her mark for Liverpool Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+County Championship: Jamie Smith scores century as Surrey secure final-draw with Warwickshire. England wicketkeeper Jamie Smith responds to Ashes struggles with 132 for Surrey; financially-challenged Sussex immediately wipe out their 12-point deduction with victory over Leicestershire; 43-year-old James Anderson denied victory in first match as Lancashire captain by one wicket Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +131,7 @@ FA Cup quarter-finals: talking points from the men's and women's weekend ties. K
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — FA Cup quarter-finals: talking points from the men's and women's weekend ties. https://www.theguardian.com/football/2026/apr/06/fa-cup-quarter-finals-10-talking-points-from-the-mens-and-womens-weekend-ties
+- skysports.com — County Championship: Jamie Smith scores century as Surrey secure final-draw with Warwickshire. https://www.skysports.com/cricket/news/12040/13528662/county-championship-jamie-smith-scores-century-as-surrey-secure-final-draw-with-warwickshire
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +140,13 @@ FA Cup quarter-finals: talking points from the men's and women's weekend ties. K
 
 ---
 
-## Story 7: FA Cup: Pascal Struijk scores winning penalty against West Ham as Leeds United reach semi-final
-**Slug (lower-third):** FA Cup: Pascal Struijk scores winning penalty against Wes…  
-**When:** 2026-04-05 15:40 (America/Winnipeg)  •  **Published:** 2026-04-05 20:40 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 6: Championship roundup: Norwich deal blow to Millwall's promotion push
+**Slug (lower-third):** Championship roundup: Norwich deal blow to Millwall's pro…  
+**When:** 2026-04-06 12:40 (America/Winnipeg)  •  **Published:** 2026-04-06 17:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-FA Cup: Pascal Struijk scores winning penalty against West Ham as Leeds United reach semi-final. Watch Pascal Struijk score the winning penalty in Leeds United's shootout win against West Ham to send the West Yorkshire side to their first FA Cup semi-final in 39 years. Relevance to standings and momentum.
+Championship roundup: Norwich deal blow to Millwall's promotion push. Oscar Schwartau climbed off the bench to fire Norwich to a 2-1 win over Millwall - and do their fierce rivals Ipswich a big favour Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +155,7 @@ FA Cup: Pascal Struijk scores winning penalty against West Ham as Leeds United r
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FA Cup: Pascal Struijk scores winning penalty against West Ham as Leeds United reach semi-final. https://www.bbc.com/sport/football/videos/cede5n1w689o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Championship roundup: Norwich deal blow to Millwall's promotion push. https://www.theguardian.com/football/2026/apr/06/championship-roundup-portsmouth-oxford-millwall-ipswich-hull-middlesbrough-coventry
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +164,13 @@ FA Cup: Pascal Struijk scores winning penalty against West Ham as Leeds United r
 
 ---
 
-## Story 8: FA Cup semi-final: Leeds delight fans by securing Wembley trip with dramatic win at West Ham
-**Slug (lower-third):** FA Cup semi-final: Leeds delight fans by securing Wembley…  
-**When:** 2026-04-05 17:02 (America/Winnipeg)  •  **Published:** 2026-04-05 22:02 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
+## Story 7: Monday Night Club - Arsenal Crisis? Liverpool Lost Identity & Man City Dominate
+**Slug (lower-third):** Monday Night Club - Arsenal Crisis? Liverpool Lost Identi…  
+**When:** 2026-04-06 12:37 (America/Winnipeg)  •  **Published:** 2026-04-06 17:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-FA Cup semi-final: Leeds delight fans by securing Wembley trip with dramatic win at West Ham. After a 39-year absence, Leeds are back in the FA Cup semi-finals, with supporters dreaming of a major trophy after a dramatic win over West Ham. Relevance to standings and momentum.
+Monday Night Club - Arsenal Crisis? Liverpool Lost Identity & Man City Dominate. Mark Chapman and guests debate this week's football. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,22 +179,22 @@ FA Cup semi-final: Leeds delight fans by securing Wembley trip with dramatic win
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FA Cup semi-final: Leeds delight fans by securing Wembley trip with dramatic win at West Ham. https://www.bbc.com/sport/football/articles/cly9x7755w0o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Monday Night Club - Arsenal Crisis? Liverpool Lost Identity & Man City Dominate. https://www.bbc.co.uk/iplayer/episode/l00583yk/monday-night-club-arsenal-crisis-liverpool-lost-identity-man-city-dominate?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 9: Football gossip: Ugarte, Vinicius Junior, Marcus Leonardo, Onana, Vuskovic, Roefs, Diomande
-**Slug (lower-third):** Football gossip: Ugarte, Vinicius Junior, Marcus Leonardo…  
-**When:** 2026-04-05 16:21 (America/Winnipeg)  •  **Published:** 2026-04-05 21:21 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
+## Story 8: Sheffield Wednesday 1-1 Leicester City: Jordan Ayew earns point but Foxes remain in bottom three
+**Slug (lower-third):** Sheffield Wednesday 1-1 Leicester City: Jordan Ayew earns…  
+**When:** 2026-04-06 12:15 (America/Winnipeg)  •  **Published:** 2026-04-06 17:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Ugarte, Vinicius Junior, Marcus Leonardo, Onana, Vuskovic, Roefs, Diomande. Manchester United look to sell Uruguayan midfielder, Real Madrid forward sparks Premier League interest, Liverpool eye swap deal, plus more. Relevance to standings and momentum.
+Sheffield Wednesday 1-1 Leicester City: Jordan Ayew earns point but Foxes remain in bottom three. Jordan Ayew's late goal denied Sheffield Wednesday their first home win of the Championship season but it was not enough to drag Leicester out of the relegation zone as they drew 1-1 with the league's bottom side. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,10 +203,58 @@ Football gossip: Ugarte, Vinicius Junior, Marcus Leonardo, Onana, Vuskovic, Roef
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Ugarte, Vinicius Junior, Marcus Leonardo, Onana, Vuskovic, Roefs, Diomande. https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss
+- skysports.com — Sheffield Wednesday 1-1 Leicester City: Jordan Ayew earns point but Foxes remain in bottom three. https://www.skysports.com/football/sheffield-wednesday-vs-leicester-city/report/534807
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: The FA Cup still has an important place. This weekend was proof
+**Slug (lower-third):** The FA Cup still has an important place. This weekend was…  
+**When:** 2026-04-06 10:45 (America/Winnipeg)  •  **Published:** 2026-04-06 15:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+The FA Cup still has an important place. This weekend was proof. From exposed anxieties to unexpected heroes, this weekend's cup contests papered over a weird three-week Premier League break Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — The FA Cup still has an important place. This weekend was proof. https://www.theguardian.com/football/2026/apr/06/fa-cup-premier-league-arsenal-southampton
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Buurman strikes late against Spurs to send Chelsea into Women's FA Cup semi-finals
+**Slug (lower-third):** Buurman strikes late against Spurs to send Chelsea into W…  
+**When:** 2026-04-06 10:01 (America/Winnipeg)  •  **Published:** 2026-04-06 15:01 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Buurman strikes late against Spurs to send Chelsea into Women's FA Cup semi-finals. Verle Buurman's wonderful drive and strike earned Chelsea a 2-1 win in an end-to-end battle with Tottenham, securing a place in the FA Cup semi-finals Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Buurman strikes late against Spurs to send Chelsea into Women's FA Cup semi-finals. https://www.theguardian.com/football/2026/apr/06/chelsea-tottenham-womens-fa-cup-quarter-final-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
