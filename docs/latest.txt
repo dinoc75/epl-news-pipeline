@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-06 21:35 (America/Winnipeg)  |  2026-04-07 02:35 (UTC)
+**Generated:** 2026-04-07 02:21 (America/Winnipeg)  |  2026-04-07 07:21 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 46s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Coventry City edge towards Premier League promotion - who will join them?
-- Football Daily - MNC: Arsenal's slump and can Slot turn Liverpool around? - BBC Sounds
-- Nathan Aspinall wins German Darts Grand Prix with victory over Danny Noppert in final
+- PSG vs Liverpool: What Arne Slot must fix for Champions League quarter-final first-leg clash at the Parc des Princes
+- Viktor who? Sporting's new Gyokeres has sights trained on Arsenal
+- Sporting v Arsenal: How Viktor Gyokeres could end old club's Champions League run
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Liverpool defender Ibrahima Konate increasingly likely to stay at Anfield - Paper Talk and football transfer gossip
-**Slug (lower-third):** Liverpool defender Ibrahima Konate increasingly likely to…  
-**When:** 2026-04-06 16:55 (America/Winnipeg)  •  **Published:** 2026-04-06 21:55 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~28s
+## Story 1: Pep Lijnders on replacing 'unique' Bernardo Silva
+**Slug (lower-third):** Pep Lijnders on replacing 'unique' Bernardo Silva  
+**When:** 2026-04-06 05:21 (America/Winnipeg)  •  **Published:** 2026-04-06 10:21 (UTC)  
+**Virality score:** 75  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool defender Ibrahima Konate increasingly likely to stay at Anfield - Paper Talk and football transfer gossip. Tuesdays top stories include ex-Man Utd head coach Ruben Amorim emerging as a contender to replace Jose Mourinho at Benfica; Southampton require special FA permission to wear their yellow shirt for the FA Cup semi-finals; Motherwell boss Jens Berthel Askou insists hes planning for future Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Pep Lijnders on replacing 'unique' Bernardo Silva. Manchester City assistant manager Pep Lijnders discusses captain Bernardo Silva's future at the club, saying "every good story comes to an end". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,33 @@ Liverpool defender Ibrahima Konate increasingly likely to stay at Anfield - Pape
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Liverpool defender Ibrahima Konate increasingly likely to stay at Anfield - Paper Talk and football transfer gossip. https://www.skysports.com/football/news/12040/13528678/liverpool-defender-ibrahima-konate-increasingly-likely-to-stay-at-anfield-paper-talk-and-football-transfer-gossip
+- bbc.com — Pep Lijnders on replacing 'unique' Bernardo Silva. https://www.bbc.com/sport/football/videos/c4g6j73v12po?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: Sporting v Arsenal: How Viktor Gyokeres could end old club's Champions League run
+**Slug (lower-third):** Sporting v Arsenal: How Viktor Gyokeres could end old clu…  
+**When:** 2026-04-07 00:08 (America/Winnipeg)  •  **Published:** 2026-04-07 05:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Sporting v Arsenal: How Viktor Gyokeres could end old club's Champions League run. Viktor Gyokeres' impact at Sporting will never be forgotten, but he returns on Tuesday hoping to help fire Arsenal into the Champions League semi-finals. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Sporting v Arsenal: How Viktor Gyokeres could end old club's Champions League run. https://www.bbc.com/sport/football/articles/c747wgze3meo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,12 +66,10 @@ Liverpool defender Ibrahima Konate increasingly likely to stay at Anfield - Pape
 
 ---
 
-### Injuries
-
-## Story 2: Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to second
+## Story 3: Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to second
 **Slug (lower-third):** Kasey McAteer seals controversial win over Birmingham to …  
 **When:** 2026-04-06 11:12 (America/Winnipeg)  •  **Published:** 2026-04-06 16:12 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+**Virality score:** 82  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to second. Ipswich scored twice in four minutes before half-time to win 2-1 against Birmingham, who had an equaliser controversially ruled out for going out of play Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -60,7 +84,31 @@ Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to seco
 - theguardian.com — Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to second. https://www.theguardian.com/football/2026/apr/06/ipswich-birmingham-chanpionship-match-report
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Reece James on track to deliver England World Cup boost with Chelsea return
+**Slug (lower-third):** Reece James on track to deliver England World Cup boost w…  
+**When:** 2026-04-06 05:26 (America/Winnipeg)  •  **Published:** 2026-04-06 10:26 (UTC)  
+**Virality score:** 74  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Reece James on track to deliver England World Cup boost with Chelsea return. Reece James could be fit by late April or early May after making good progress in his recovery from a hamstring injury Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Reece James on track to deliver England World Cup boost with Chelsea return. https://www.theguardian.com/football/2026/apr/06/reece-james-england-world-cup-boost-chelsea-return-hamstring-injury
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -68,10 +116,58 @@ Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to seco
 
 ### Club Updates
 
-## Story 3: Coventry City edge towards Premier League promotion - who will join them?
+## Story 5: PSG vs Liverpool: What Arne Slot must fix for Champions League quarter-final first-leg clash at the Parc des Princes
+**Slug (lower-third):** PSG vs Liverpool: What Arne Slot must fix for Champions L…  
+**When:** 2026-04-07 03:00 (America/Winnipeg)  •  **Published:** 2026-04-07 08:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~32s
+
+### Presenter Script (3–5 sentences)
+PSG vs Liverpool: What Arne Slot must fix for Champions League quarter-final first-leg clash at the Parc des Princes. Liverpool take on PSG in Champions League quarter-final first leg at the Parc des Princes on Wednesday; Arne Slots side travel to Paris on the back of a 4-0 loss at Man City in the FA Cup on Saturday; Reds are currently struggling at both ends of the field having lost 15 times this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — PSG vs Liverpool: What Arne Slot must fix for Champions League quarter-final first-leg clash at the Parc des Princes. https://www.skysports.com/football/news/12040/13528485/psg-vs-liverpool-what-arne-slot-must-fix-for-champions-league-quarter-final-first-leg-clash-at-the-parc-des-princes
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Viktor who? Sporting's new Gyokeres has sights trained on Arsenal
+**Slug (lower-third):** Viktor who? Sporting's new Gyokeres has sights trained on…  
+**When:** 2026-04-07 02:00 (America/Winnipeg)  •  **Published:** 2026-04-07 07:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Viktor who? Sporting's new Gyokeres has sights trained on Arsenal. The Sweden striker's goals had inspired Sporting for two years but in the Colombian Luis Suarez they have found an equally prolific target man Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Viktor who? Sporting's new Gyokeres has sights trained on Arsenal. https://www.theguardian.com/football/2026/apr/07/viktor-gyokeres-sporting-arsenal-champions-league-quarter-final-luis-suarez
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Coventry City edge towards Premier League promotion - who will join them?
 **Slug (lower-third):** Coventry City edge towards Premier League promotion - who…  
 **When:** 2026-04-06 17:26 (America/Winnipeg)  •  **Published:** 2026-04-06 22:26 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Coventry City edge towards Premier League promotion - who will join them?. As Coventry edge ever closer to ending their 25-year wait for Premier League football, who is best placed to join them? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -92,34 +188,10 @@ Coventry City edge towards Premier League promotion - who will join them?. As Co
 
 ---
 
-## Story 4: Football Daily - MNC: Arsenal's slump and can Slot turn Liverpool around? - BBC Sounds
-**Slug (lower-third):** Football Daily - MNC: Arsenal's slump and can Slot turn L…  
-**When:** 2026-04-06 17:17 (America/Winnipeg)  •  **Published:** 2026-04-06 22:17 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football Daily - MNC: Arsenal's slump and can Slot turn Liverpool around? - BBC Sounds. The Monday Night Club team assess how damaging Arsenal's FA Cup defeat is. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football Daily - MNC: Arsenal's slump and can Slot turn Liverpool around? - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0nbxg91?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Nathan Aspinall wins German Darts Grand Prix with victory over Danny Noppert in final
+## Story 8: Nathan Aspinall wins German Darts Grand Prix with victory over Danny Noppert in final
 **Slug (lower-third):** Nathan Aspinall wins German Darts Grand Prix with victory…  
 **When:** 2026-04-06 17:01 (America/Winnipeg)  •  **Published:** 2026-04-06 22:01 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~21s
+**Virality score:** 92  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 Nathan Aspinall wins German Darts Grand Prix with victory over Danny Noppert in final. Nathan Aspinall averages 100.35 and posts seven 180s in 8-5 final win over Danny Noppert, coming back from 5-4 down to claim his fourth European Tour title; watch Premier League Darts live on Sky Sports every Thursday night Relevance to standings and momentum.
@@ -140,10 +212,10 @@ Nathan Aspinall wins German Darts Grand Prix with victory over Danny Noppert in 
 
 ---
 
-## Story 6: Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche
+## Story 9: Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche
 **Slug (lower-third):** Football gossip: Camavinga, Bernardo Silva, Ugarte, Dioma…  
 **When:** 2026-04-06 16:29 (America/Winnipeg)  •  **Published:** 2026-04-06 21:29 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche. Liverpool target Real Madrid midfielder, Manchester City midfielder has European suitors, Juventus chase Manchester United man, plus more. Relevance to standings and momentum.
@@ -164,13 +236,13 @@ Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche. Liverpo
 
 ---
 
-## Story 7: Arsenal boss Mikel Arteta calls for perspective before crucial Sporting Champions League tie
-**Slug (lower-third):** Arsenal boss Mikel Arteta calls for perspective before cr…  
-**When:** 2026-04-06 15:43 (America/Winnipeg)  •  **Published:** 2026-04-06 20:43 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 10: Buurman strikes late against Spurs to send Chelsea into Women's FA Cup semi-finals
+**Slug (lower-third):** Buurman strikes late against Spurs to send Chelsea into W…  
+**When:** 2026-04-06 10:01 (America/Winnipeg)  •  **Published:** 2026-04-06 15:01 (UTC)  
+**Virality score:** 81  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal boss Mikel Arteta calls for perspective before crucial Sporting Champions League tie. Arsenal boss Mikel Arteta wants his side to channel the pain of back-to-back defeats when they take on Sporting in the Champions League quarter-finals. Relevance to standings and momentum.
+Buurman strikes late against Spurs to send Chelsea into Women's FA Cup semi-finals. Verle Buurman's wonderful drive and strike earned Chelsea a 2-1 win in an end-to-end battle with Tottenham, securing a place in the FA Cup semi-finals Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,82 +251,10 @@ Arsenal boss Mikel Arteta calls for perspective before crucial Sporting Champion
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arsenal boss Mikel Arteta calls for perspective before crucial Sporting Champions League tie. https://www.bbc.com/sport/football/articles/c77md5mp475o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Buurman strikes late against Spurs to send Chelsea into Women's FA Cup semi-finals. https://www.theguardian.com/football/2026/apr/06/chelsea-tottenham-womens-fa-cup-quarter-final-match-report
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Women's FA Cup: Holders Chelsea score late winner to sink Spurs and set up semi-final against WSL leaders Man City
-**Slug (lower-third):** Women's FA Cup: Holders Chelsea score late winner to sink…  
-**When:** 2026-04-06 15:18 (America/Winnipeg)  •  **Published:** 2026-04-06 20:18 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~31s
-
-### Presenter Script (3–5 sentences)
-Women's FA Cup: Holders Chelsea score late winner to sink Spurs and set up semi-final against WSL leaders Man City. Womens FA Cup holders Chelsea to host Manchester City in FA Cup semi-finals; Liverpool face Brighton at home in the other semi-final; Chelsea beat Spurs 2-1 to set up last-four tie against WSL leaders Man City, who won 1-0 at second-tier Birmingham; semis to be played on May 9/10 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Women's FA Cup: Holders Chelsea score late winner to sink Spurs and set up semi-final against WSL leaders Man City. https://www.skysports.com/football/news/12040/13528706/womens-fa-cup-holders-chelsea-score-late-winner-to-sink-spurs-and-set-up-semi-final-against-wsl-leaders-man-city
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: County Championship: Jamie Smith scores century as Surrey secure final-draw with Warwickshire
-**Slug (lower-third):** County Championship: Jamie Smith scores century as Surrey…  
-**When:** 2026-04-06 14:55 (America/Winnipeg)  •  **Published:** 2026-04-06 19:55 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-County Championship: Jamie Smith scores century as Surrey secure final-draw with Warwickshire. England wicketkeeper Jamie Smith responds to Ashes struggles with 132 for Surrey; financially-challenged Sussex immediately wipe out their 12-point deduction with victory over Leicestershire; 43-year-old James Anderson denied victory in first match as Lancashire captain by one wicket Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — County Championship: Jamie Smith scores century as Surrey secure final-draw with Warwickshire. https://www.skysports.com/cricket/news/12040/13528662/county-championship-jamie-smith-scores-century-as-surrey-secure-final-draw-with-warwickshire
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Championship talking points: Ipswich Town take control of promotion race but Leicester City in trouble
-**Slug (lower-third):** Championship talking points: Ipswich Town take control of…  
-**When:** 2026-04-06 13:00 (America/Winnipeg)  •  **Published:** 2026-04-06 18:00 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-Championship talking points: Ipswich Town take control of promotion race but Leicester City in trouble. Analysis of the Easter Monday Championship action as Ipswich take control of promotion race after Millwall and Middlesbrough slip up; Derby keep their play-off hopes alive; Leicester remain in bottom three Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Championship talking points: Ipswich Town take control of promotion race but Leicester City in trouble. https://www.skysports.com/football/news/12040/13527753/championship-talking-points-ipswich-town-take-control-of-promotion-race-but-leicester-city-in-trouble
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
