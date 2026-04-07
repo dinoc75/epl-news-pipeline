@@ -1,54 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-07 02:21 (America/Winnipeg)  |  2026-04-07 07:21 (UTC)
+**Generated:** 2026-04-07 08:23 (America/Winnipeg)  |  2026-04-07 13:23 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 33s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- PSG vs Liverpool: What Arne Slot must fix for Champions League quarter-final first-leg clash at the Parc des Princes
-- Viktor who? Sporting's new Gyokeres has sights trained on Arsenal
-- Sporting v Arsenal: How Viktor Gyokeres could end old club's Champions League run
+- Why Liverpool ticket price rise protests matter to rival fans
+- Ex-footballer Joey Barton denies attack at a Merseyside golf club
+- Tyson Fury wants 'brutal knockout' against Arslanbek Makhmudov at Tottenham Hotspur Stadium to prove he is back to his best
 
 ---
 
-### Managerial Moves
+### Transfers
 
-## Story 1: Pep Lijnders on replacing 'unique' Bernardo Silva
-**Slug (lower-third):** Pep Lijnders on replacing 'unique' Bernardo Silva  
-**When:** 2026-04-06 05:21 (America/Winnipeg)  •  **Published:** 2026-04-06 10:21 (UTC)  
-**Virality score:** 75  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Pep Lijnders on replacing 'unique' Bernardo Silva. Manchester City assistant manager Pep Lijnders discusses captain Bernardo Silva's future at the club, saying "every good story comes to an end". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Pep Lijnders on replacing 'unique' Bernardo Silva. https://www.bbc.com/sport/football/videos/c4g6j73v12po?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 2: Sporting v Arsenal: How Viktor Gyokeres could end old club's Champions League run
-**Slug (lower-third):** Sporting v Arsenal: How Viktor Gyokeres could end old clu…  
-**When:** 2026-04-07 00:08 (America/Winnipeg)  •  **Published:** 2026-04-07 05:08 (UTC)  
+## Story 1: EVERY Premier League goal by Harry Maguire for Manchester United
+**Slug (lower-third):** EVERY Premier League goal by Harry Maguire for Manchester…  
+**When:** 2026-04-07 06:02 (America/Winnipeg)  •  **Published:** 2026-04-07 11:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sporting v Arsenal: How Viktor Gyokeres could end old club's Champions League run. Viktor Gyokeres' impact at Sporting will never be forgotten, but he returns on Tuesday hoping to help fire Arsenal into the Champions League semi-finals. Relevance to standings and momentum.
+EVERY Premier League goal by Harry Maguire for Manchester United. After signing a new contract for Manchester United, we look at every Premier League goal Harry Maguire has scored for the Red Devils. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +31,7 @@ Sporting v Arsenal: How Viktor Gyokeres could end old club's Champions League ru
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Sporting v Arsenal: How Viktor Gyokeres could end old club's Champions League run. https://www.bbc.com/sport/football/articles/c747wgze3meo?at_medium=RSS&at_campaign=rss
+- skysports.com — EVERY Premier League goal by Harry Maguire for Manchester United. https://www.skysports.com/watch/video/13528864/every-premier-league-goal-by-harry-maguire-for-manchester-united
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +40,13 @@ Sporting v Arsenal: How Viktor Gyokeres could end old club's Champions League ru
 
 ---
 
-## Story 3: Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to second
-**Slug (lower-third):** Kasey McAteer seals controversial win over Birmingham to …  
-**When:** 2026-04-06 11:12 (America/Winnipeg)  •  **Published:** 2026-04-06 16:12 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
+## Story 2: Harry Maguire signs new Man United contract
+**Slug (lower-third):** Harry Maguire signs new Man United contract  
+**When:** 2026-04-07 02:54 (America/Winnipeg)  •  **Published:** 2026-04-07 07:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to second. Ipswich scored twice in four minutes before half-time to win 2-1 against Birmingham, who had an equaliser controversially ruled out for going out of play Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Harry Maguire signs new Man United contract. Harry Maguire has signed a new contract with Manchester United, the club have confirmed. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,22 +55,24 @@ Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to seco
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to second. https://www.theguardian.com/football/2026/apr/06/ipswich-birmingham-chanpionship-match-report
+- espn.com — Harry Maguire signs new Man United contract. https://www.espn.com/soccer/story/_/id/48418254/harry-maguire-signs-new-man-united-contract
+- bbc.com — Harry Maguire signs new one-year contract at Man Utd. https://www.bbc.com/sport/football/articles/cly92470le8o?at_medium=RSS&at_campaign=rss
+- skysports.com — Harry Maguire: Manchester United defender signs new one-year contract at Old Trafford. https://www.skysports.com/football/news/12040/13525206/harry-maguire-manchester-united-defender-signs-new-one-year-contract-at-old-trafford
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 4: Reece James on track to deliver England World Cup boost with Chelsea return
-**Slug (lower-third):** Reece James on track to deliver England World Cup boost w…  
-**When:** 2026-04-06 05:26 (America/Winnipeg)  •  **Published:** 2026-04-06 10:26 (UTC)  
-**Virality score:** 74  •  **Estimated runtime:** ~20s
+## Story 3: Harry Maguire takes wage cut to sign Manchester United contract extension
+**Slug (lower-third):** Harry Maguire takes wage cut to sign Manchester United co…  
+**When:** 2026-04-07 04:10 (America/Winnipeg)  •  **Published:** 2026-04-07 09:10 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Reece James on track to deliver England World Cup boost with Chelsea return. Reece James could be fit by late April or early May after making good progress in his recovery from a hamstring injury Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Harry Maguire takes wage cut to sign Manchester United contract extension. Harry Maguire has signed a contract extension with Manchester United until 2027, with the option for a further year Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,10 +81,10 @@ Reece James on track to deliver England World Cup boost with Chelsea return. Ree
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Reece James on track to deliver England World Cup boost with Chelsea return. https://www.theguardian.com/football/2026/apr/06/reece-james-england-world-cup-boost-chelsea-return-hamstring-injury
+- theguardian.com — Harry Maguire takes wage cut to sign Manchester United contract extension. https://www.theguardian.com/football/2026/apr/07/harry-maguire-signs-manchester-united-contract-extension
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -116,37 +92,13 @@ Reece James on track to deliver England World Cup boost with Chelsea return. Ree
 
 ### Club Updates
 
-## Story 5: PSG vs Liverpool: What Arne Slot must fix for Champions League quarter-final first-leg clash at the Parc des Princes
-**Slug (lower-third):** PSG vs Liverpool: What Arne Slot must fix for Champions L…  
-**When:** 2026-04-07 03:00 (America/Winnipeg)  •  **Published:** 2026-04-07 08:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~32s
-
-### Presenter Script (3–5 sentences)
-PSG vs Liverpool: What Arne Slot must fix for Champions League quarter-final first-leg clash at the Parc des Princes. Liverpool take on PSG in Champions League quarter-final first leg at the Parc des Princes on Wednesday; Arne Slots side travel to Paris on the back of a 4-0 loss at Man City in the FA Cup on Saturday; Reds are currently struggling at both ends of the field having lost 15 times this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — PSG vs Liverpool: What Arne Slot must fix for Champions League quarter-final first-leg clash at the Parc des Princes. https://www.skysports.com/football/news/12040/13528485/psg-vs-liverpool-what-arne-slot-must-fix-for-champions-league-quarter-final-first-leg-clash-at-the-parc-des-princes
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Viktor who? Sporting's new Gyokeres has sights trained on Arsenal
-**Slug (lower-third):** Viktor who? Sporting's new Gyokeres has sights trained on…  
-**When:** 2026-04-07 02:00 (America/Winnipeg)  •  **Published:** 2026-04-07 07:00 (UTC)  
+## Story 4: Why Liverpool ticket price rise protests matter to rival fans
+**Slug (lower-third):** Why Liverpool ticket price rise protests matter to rival …  
+**When:** 2026-04-07 07:49 (America/Winnipeg)  •  **Published:** 2026-04-07 12:49 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Viktor who? Sporting's new Gyokeres has sights trained on Arsenal. The Sweden striker's goals had inspired Sporting for two years but in the Colombian Luis Suarez they have found an equally prolific target man Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Why Liverpool ticket price rise protests matter to rival fans. Liverpool supporters' action against ticket price rises should be supported by rivals, according to the FSA Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +107,7 @@ Viktor who? Sporting's new Gyokeres has sights trained on Arsenal. The Sweden st
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Viktor who? Sporting's new Gyokeres has sights trained on Arsenal. https://www.theguardian.com/football/2026/apr/07/viktor-gyokeres-sporting-arsenal-champions-league-quarter-final-luis-suarez
+- bbc.com — Why Liverpool ticket price rise protests matter to rival fans. https://www.bbc.com/sport/football/articles/cq6jzlqy59no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,10 +116,106 @@ Viktor who? Sporting's new Gyokeres has sights trained on Arsenal. The Sweden st
 
 ---
 
-## Story 7: Coventry City edge towards Premier League promotion - who will join them?
+## Story 5: Ex-footballer Joey Barton denies attack at a Merseyside golf club
+**Slug (lower-third):** Ex-footballer Joey Barton denies attack at a Merseyside g…  
+**When:** 2026-04-07 07:49 (America/Winnipeg)  •  **Published:** 2026-04-07 12:49 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ex-footballer Joey Barton denies attack at a Merseyside golf club. The ex-Manchester City, Newcastle United, QPR, Burnley and Rangers player is accused of assault. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Ex-footballer Joey Barton denies attack at a Merseyside golf club. https://www.bbc.com/news/articles/c05d1j0q9jro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Tyson Fury wants 'brutal knockout' against Arslanbek Makhmudov at Tottenham Hotspur Stadium to prove he is back to his best
+**Slug (lower-third):** Tyson Fury wants 'brutal knockout' against Arslanbek Makh…  
+**When:** 2026-04-07 07:24 (America/Winnipeg)  •  **Published:** 2026-04-07 12:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Tyson Fury wants 'brutal knockout' against Arslanbek Makhmudov at Tottenham Hotspur Stadium to prove he is back to his best. Tyson Fury insists he is highly motivated for his comeback fight against Arslanbek Makhmudov: I want a brutal knockout!; former heavyweight champion Joseph Parker says Fury is smashing up his sparring partners; Fury fights Makhmudov on Saturday at the Tottenham Hotspur Stadium Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Tyson Fury wants 'brutal knockout' against Arslanbek Makhmudov at Tottenham Hotspur Stadium to prove he is back to his best. https://www.skysports.com/boxing/news/12040/13528897/tyson-fury-wants-brutal-knockout-against-arslanbek-makhmudov-at-tottenham-hotspur-stadium-to-prove-he-is-back-to-his-best
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: David Squires on ... the shocks and flops from the FA Cup quarter-finals
+**Slug (lower-third):** David Squires on ... the shocks and flops from the FA Cup…  
+**When:** 2026-04-07 07:06 (America/Winnipeg)  •  **Published:** 2026-04-07 12:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+David Squires on ... the shocks and flops from the FA Cup quarter-finals. Our cartoonist on humiliating exits for Arsenal and Liverpool, low-hanging fruit and Hugo Ekitike's shirt swap Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — David Squires on ... the shocks and flops from the FA Cup quarter-finals. https://www.theguardian.com/football/picture/2026/apr/07/david-squires-shocks-flops-fa-cup-quarter-finals-cartoon
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Champions League: previews and predictions for the quarter-finals
+**Slug (lower-third):** Champions League: previews and predictions for the quarte…  
+**When:** 2026-04-07 06:21 (America/Winnipeg)  •  **Published:** 2026-04-07 11:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Champions League: previews and predictions for the quarter-finals. All the stats for Sporting v Arsenal, Real Madrid v Bayern, Barcelona v Atletico Madrid and PSG v Liverpool Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Champions League: previews and predictions for the quarter-finals. https://www.theguardian.com/football/who-scored-blog/2026/apr/07/champions-league-quarter-finals-sporting-arsenal-real-madrid-bayern-munich-barcelona-atletico-madrid-psg-liverpool
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Coventry City edge towards Premier League promotion - who will join them?
 **Slug (lower-third):** Coventry City edge towards Premier League promotion - who…  
 **When:** 2026-04-06 17:26 (America/Winnipeg)  •  **Published:** 2026-04-06 22:26 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+**Virality score:** 84  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Coventry City edge towards Premier League promotion - who will join them?. As Coventry edge ever closer to ending their 25-year wait for Premier League football, who is best placed to join them? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -182,40 +230,16 @@ Coventry City edge towards Premier League promotion - who will join them?. As Co
 - bbc.com — Coventry City edge towards Premier League promotion - who will join them?. https://www.bbc.com/sport/football/articles/cddqmlzz34qo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 8: Nathan Aspinall wins German Darts Grand Prix with victory over Danny Noppert in final
-**Slug (lower-third):** Nathan Aspinall wins German Darts Grand Prix with victory…  
-**When:** 2026-04-06 17:01 (America/Winnipeg)  •  **Published:** 2026-04-06 22:01 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Nathan Aspinall wins German Darts Grand Prix with victory over Danny Noppert in final. Nathan Aspinall averages 100.35 and posts seven 180s in 8-5 final win over Danny Noppert, coming back from 5-4 down to claim his fourth European Tour title; watch Premier League Darts live on Sky Sports every Thursday night Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Nathan Aspinall wins German Darts Grand Prix with victory over Danny Noppert in final. https://www.skysports.com/darts/news/12040/13528735/nathan-aspinall-wins-german-darts-grand-prix-title-with-victory-over-danny-noppert-in-final
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche
+## Story 10: Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche
 **Slug (lower-third):** Football gossip: Camavinga, Bernardo Silva, Ugarte, Dioma…  
 **When:** 2026-04-06 16:29 (America/Winnipeg)  •  **Published:** 2026-04-06 21:29 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+**Virality score:** 82  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche. Liverpool target Real Madrid midfielder, Manchester City midfielder has European suitors, Juventus chase Manchester United man, plus more. Relevance to standings and momentum.
@@ -228,30 +252,6 @@ Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche. Liverpo
 
 ### Sources
 - bbc.com — Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche. https://www.bbc.com/sport/football/articles/c5yxgjlkrjlo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Buurman strikes late against Spurs to send Chelsea into Women's FA Cup semi-finals
-**Slug (lower-third):** Buurman strikes late against Spurs to send Chelsea into W…  
-**When:** 2026-04-06 10:01 (America/Winnipeg)  •  **Published:** 2026-04-06 15:01 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Buurman strikes late against Spurs to send Chelsea into Women's FA Cup semi-finals. Verle Buurman's wonderful drive and strike earned Chelsea a 2-1 win in an end-to-end battle with Tottenham, securing a place in the FA Cup semi-finals Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Buurman strikes late against Spurs to send Chelsea into Women's FA Cup semi-finals. https://www.theguardian.com/football/2026/apr/06/chelsea-tottenham-womens-fa-cup-quarter-final-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
