@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-07 08:23 (America/Winnipeg)  |  2026-04-07 13:23 (UTC)
-**Stories in this rundown:** 10  |  **Style:** conversational broadcast
+**Generated:** 2026-04-07 14:06 (America/Winnipeg)  |  2026-04-07 19:06 (UTC)
+**Stories in this rundown:** 9  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 28s
+**Estimated total video length:** ~3m 08s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Why Liverpool ticket price rise protests matter to rival fans
-- Ex-footballer Joey Barton denies attack at a Merseyside golf club
-- Tyson Fury wants 'brutal knockout' against Arslanbek Makhmudov at Tottenham Hotspur Stadium to prove he is back to his best
+- Florian Wirtz: Liverpool attacker disagrees with Virgil van Dijk's 'gave up' criticism after Man City FA Cup rout
+- Football Daily | The curious case of Arne Slot's Paris romance and Liverpool's slump
+- Harry Maguire signs new Man United contract
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: EVERY Premier League goal by Harry Maguire for Manchester United
-**Slug (lower-third):** EVERY Premier League goal by Harry Maguire for Manchester…  
-**When:** 2026-04-07 06:02 (America/Winnipeg)  •  **Published:** 2026-04-07 11:02 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Michael Carrick backed for Man Utd job by winger Amad Diallo
+**Slug (lower-third):** Michael Carrick backed for Man Utd job by winger Amad Dia…  
+**When:** 2026-04-07 09:02 (America/Winnipeg)  •  **Published:** 2026-04-07 14:02 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-EVERY Premier League goal by Harry Maguire for Manchester United. After signing a new contract for Manchester United, we look at every Premier League goal Harry Maguire has scored for the Red Devils. Implications for the squad and table.
+Michael Carrick backed for Man Utd job by winger Amad Diallo. Manchester United winger Amad Diallo backs interim boss Michael Carrick to become the club's permanent manager. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ EVERY Premier League goal by Harry Maguire for Manchester United. After signing 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — EVERY Premier League goal by Harry Maguire for Manchester United. https://www.skysports.com/watch/video/13528864/every-premier-league-goal-by-harry-maguire-for-manchester-united
+- bbc.com — Michael Carrick backed for Man Utd job by winger Amad Diallo. https://www.bbc.com/sport/football/articles/c62je742e0no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,9 +40,11 @@ EVERY Premier League goal by Harry Maguire for Manchester United. After signing 
 
 ---
 
+### Transfers
+
 ## Story 2: Harry Maguire signs new Man United contract
 **Slug (lower-third):** Harry Maguire signs new Man United contract  
-**When:** 2026-04-07 02:54 (America/Winnipeg)  •  **Published:** 2026-04-07 07:54 (UTC)  
+**When:** 2026-04-07 10:01 (America/Winnipeg)  •  **Published:** 2026-04-07 15:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -57,31 +59,6 @@ Harry Maguire signs new Man United contract. Harry Maguire has signed a new cont
 ### Sources
 - espn.com — Harry Maguire signs new Man United contract. https://www.espn.com/soccer/story/_/id/48418254/harry-maguire-signs-new-man-united-contract
 - bbc.com — Harry Maguire signs new one-year contract at Man Utd. https://www.bbc.com/sport/football/articles/cly92470le8o?at_medium=RSS&at_campaign=rss
-- skysports.com — Harry Maguire: Manchester United defender signs new one-year contract at Old Trafford. https://www.skysports.com/football/news/12040/13525206/harry-maguire-manchester-united-defender-signs-new-one-year-contract-at-old-trafford
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Harry Maguire takes wage cut to sign Manchester United contract extension
-**Slug (lower-third):** Harry Maguire takes wage cut to sign Manchester United co…  
-**When:** 2026-04-07 04:10 (America/Winnipeg)  •  **Published:** 2026-04-07 09:10 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Harry Maguire takes wage cut to sign Manchester United contract extension. Harry Maguire has signed a contract extension with Manchester United until 2027, with the option for a further year Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Harry Maguire takes wage cut to sign Manchester United contract extension. https://www.theguardian.com/football/2026/apr/07/harry-maguire-signs-manchester-united-contract-extension
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +69,13 @@ Harry Maguire takes wage cut to sign Manchester United contract extension. Harry
 
 ### Club Updates
 
-## Story 4: Why Liverpool ticket price rise protests matter to rival fans
-**Slug (lower-third):** Why Liverpool ticket price rise protests matter to rival …  
-**When:** 2026-04-07 07:49 (America/Winnipeg)  •  **Published:** 2026-04-07 12:49 (UTC)  
+## Story 3: Florian Wirtz: Liverpool attacker disagrees with Virgil van Dijk's 'gave up' criticism after Man City FA Cup rout
+**Slug (lower-third):** Florian Wirtz: Liverpool attacker disagrees with Virgil v…  
+**When:** 2026-04-07 14:45 (America/Winnipeg)  •  **Published:** 2026-04-07 19:45 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Why Liverpool ticket price rise protests matter to rival fans. Liverpool supporters' action against ticket price rises should be supported by rivals, according to the FSA Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Florian Wirtz: Liverpool attacker disagrees with Virgil van Dijk's 'gave up' criticism after Man City FA Cup rout. Liverpool attacker Florian Wirtz does not agree directly with captain Virgil van Dijks belief that they gave up in their FA Cup humiliation at Manchester City. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +84,7 @@ Why Liverpool ticket price rise protests matter to rival fans. Liverpool support
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Why Liverpool ticket price rise protests matter to rival fans. https://www.bbc.com/sport/football/articles/cq6jzlqy59no?at_medium=RSS&at_campaign=rss
+- skysports.com — Florian Wirtz: Liverpool attacker disagrees with Virgil van Dijk's 'gave up' criticism after Man City FA Cup rout. https://www.skysports.com/football/news/12040/13529031/florian-wirtz-liverpool-attacker-disagrees-with-virgil-van-dijks-gave-up-criticism-after-man-city-fa-cup-rout
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,10 +93,107 @@ Why Liverpool ticket price rise protests matter to rival fans. Liverpool support
 
 ---
 
-## Story 5: Ex-footballer Joey Barton denies attack at a Merseyside golf club
+## Story 4: Football Daily | The curious case of Arne Slot's Paris romance and Liverpool's slump
+**Slug (lower-third):** Football Daily | The curious case of Arne Slot's Paris ro…  
+**When:** 2026-04-07 11:13 (America/Winnipeg)  •  **Published:** 2026-04-07 16:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football Daily | The curious case of Arne Slot's Paris romance and Liverpool's slump. In today's Football Daily: Total romance, Aaron Ramsey says diolch to football and more flamin' correspondence Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Football Daily | The curious case of Arne Slot's Paris romance and Liverpool's slump. https://www.theguardian.com/football/2026/apr/07/arne-slot-liverpool-psg-football-daily-newsletter
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Aaron Ramsey, former Wales captain and Arsenal midfielder, retires aged 35
+**Slug (lower-third):** Aaron Ramsey, former Wales captain and Arsenal midfielder…  
+**When:** 2026-04-07 05:41 (America/Winnipeg)  •  **Published:** 2026-04-07 10:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Aaron Ramsey, former Wales captain and Arsenal midfielder, retires aged 35. Aaron Ramsey, who had been without a club since the end of last year, said on announcing his retirement: 'It has been my privilege to wear the Welsh shirt' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Aaron Ramsey, former Wales captain and Arsenal midfielder, retires aged 35. https://www.theguardian.com/football/2026/apr/07/aaron-ramsey-former-wales-captain-arsenal-midfielder-retires-35
+- bbc.com — Aaron Ramsey: Wales captain and ex-Arsenal midfielder retires. https://www.bbc.com/sport/football/articles/cp9jvpl3m8go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Enzo Fernandez may captain Chelsea again despite being dropped for Madrid comments
+**Slug (lower-third):** Enzo Fernandez may captain Chelsea again despite being dr…  
+**When:** 2026-04-07 08:41 (America/Winnipeg)  •  **Published:** 2026-04-07 13:41 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Enzo Fernandez may captain Chelsea again despite being dropped for Madrid comments. Chelsea are open to Enzo Fernandez captaining the side again this season and hope to reintegrate the midfielder after his comments over his future Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Enzo Fernandez may captain Chelsea again despite being dropped for Madrid comments. https://www.theguardian.com/football/2026/apr/07/enzo-fernandez-may-captain-chelsea-again-despite-being-dropped-for-madrid-comments
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Aaron Ramsey: Teenage star who became Wales' 'best midfielder'
+**Slug (lower-third):** Aaron Ramsey: Teenage star who became Wales' 'best midfie…  
+**When:** 2026-04-07 08:30 (America/Winnipeg)  •  **Published:** 2026-04-07 13:30 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Aaron Ramsey: Teenage star who became Wales' 'best midfielder'. Aaron Ramsey will be remembered as a great after overcoming shattering setbacks to become a brilliant midfielder for Wales and Arsenal. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Aaron Ramsey: Teenage star who became Wales' 'best midfielder'. https://www.bbc.com/sport/football/articles/cj9r4gjewmno?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Ex-footballer Joey Barton denies attack at a Merseyside golf club
 **Slug (lower-third):** Ex-footballer Joey Barton denies attack at a Merseyside g…  
 **When:** 2026-04-07 07:49 (America/Winnipeg)  •  **Published:** 2026-04-07 12:49 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Ex-footballer Joey Barton denies attack at a Merseyside golf club. The ex-Manchester City, Newcastle United, QPR, Burnley and Rangers player is accused of assault. Relevance to standings and momentum.
@@ -140,10 +214,10 @@ Ex-footballer Joey Barton denies attack at a Merseyside golf club. The ex-Manche
 
 ---
 
-## Story 6: Tyson Fury wants 'brutal knockout' against Arslanbek Makhmudov at Tottenham Hotspur Stadium to prove he is back to his best
+## Story 9: Tyson Fury wants 'brutal knockout' against Arslanbek Makhmudov at Tottenham Hotspur Stadium to prove he is back to his best
 **Slug (lower-third):** Tyson Fury wants 'brutal knockout' against Arslanbek Makh…  
 **When:** 2026-04-07 07:24 (America/Winnipeg)  •  **Published:** 2026-04-07 12:24 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+**Virality score:** 96  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 Tyson Fury wants 'brutal knockout' against Arslanbek Makhmudov at Tottenham Hotspur Stadium to prove he is back to his best. Tyson Fury insists he is highly motivated for his comeback fight against Arslanbek Makhmudov: I want a brutal knockout!; former heavyweight champion Joseph Parker says Fury is smashing up his sparring partners; Fury fights Makhmudov on Saturday at the Tottenham Hotspur Stadium Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -159,102 +233,6 @@ Tyson Fury wants 'brutal knockout' against Arslanbek Makhmudov at Tottenham Hots
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: David Squires on ... the shocks and flops from the FA Cup quarter-finals
-**Slug (lower-third):** David Squires on ... the shocks and flops from the FA Cup…  
-**When:** 2026-04-07 07:06 (America/Winnipeg)  •  **Published:** 2026-04-07 12:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-David Squires on ... the shocks and flops from the FA Cup quarter-finals. Our cartoonist on humiliating exits for Arsenal and Liverpool, low-hanging fruit and Hugo Ekitike's shirt swap Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — David Squires on ... the shocks and flops from the FA Cup quarter-finals. https://www.theguardian.com/football/picture/2026/apr/07/david-squires-shocks-flops-fa-cup-quarter-finals-cartoon
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Champions League: previews and predictions for the quarter-finals
-**Slug (lower-third):** Champions League: previews and predictions for the quarte…  
-**When:** 2026-04-07 06:21 (America/Winnipeg)  •  **Published:** 2026-04-07 11:21 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League: previews and predictions for the quarter-finals. All the stats for Sporting v Arsenal, Real Madrid v Bayern, Barcelona v Atletico Madrid and PSG v Liverpool Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Champions League: previews and predictions for the quarter-finals. https://www.theguardian.com/football/who-scored-blog/2026/apr/07/champions-league-quarter-finals-sporting-arsenal-real-madrid-bayern-munich-barcelona-atletico-madrid-psg-liverpool
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Coventry City edge towards Premier League promotion - who will join them?
-**Slug (lower-third):** Coventry City edge towards Premier League promotion - who…  
-**When:** 2026-04-06 17:26 (America/Winnipeg)  •  **Published:** 2026-04-06 22:26 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Coventry City edge towards Premier League promotion - who will join them?. As Coventry edge ever closer to ending their 25-year wait for Premier League football, who is best placed to join them? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Coventry City edge towards Premier League promotion - who will join them?. https://www.bbc.com/sport/football/articles/cddqmlzz34qo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche
-**Slug (lower-third):** Football gossip: Camavinga, Bernardo Silva, Ugarte, Dioma…  
-**When:** 2026-04-06 16:29 (America/Winnipeg)  •  **Published:** 2026-04-06 21:29 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche. Liverpool target Real Madrid midfielder, Manchester City midfielder has European suitors, Juventus chase Manchester United man, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Camavinga, Bernardo Silva, Ugarte, Diomande, Akliouche. https://www.bbc.com/sport/football/articles/c5yxgjlkrjlo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
