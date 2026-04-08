@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-08 02:24 (America/Winnipeg)  |  2026-04-08 07:24 (UTC)
+**Generated:** 2026-04-08 08:24 (America/Winnipeg)  |  2026-04-08 13:24 (UTC)
 **Stories in this rundown:** 9  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 16s
+**Estimated total video length:** ~3m 05s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Michael Olise's masterclass in Bayern Munich's win over Real Madrid underlines world-class ability as he outshines all
-- Sporting 0-1 Arsenal: Is David Raya the best goalkeeper in the world?
-- Premier League secures fifth Champions League spot for a second season running
+- Enzo Fernandez: Was dropping Chelsea midfielder a sign of Liam Rosenior's authority or a big risk?
+- Grand National: I Am Maximus headlines field of declared runners for 2026 Aintree showpiece alongside Nick Rockett
+- WSL academies: Can they improve to help homegrown talent?
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Michael Carrick backed for Man Utd job by winger Amad Diallo
-**Slug (lower-third):** Michael Carrick backed for Man Utd job by winger Amad Dia…  
-**When:** 2026-04-07 09:02 (America/Winnipeg)  •  **Published:** 2026-04-07 14:02 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
+## Story 1: WSL academies: Can they improve to help homegrown talent?
+**Slug (lower-third):** WSL academies: Can they improve to help homegrown talent?  
+**When:** 2026-04-08 04:34 (America/Winnipeg)  •  **Published:** 2026-04-08 09:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Michael Carrick backed for Man Utd job by winger Amad Diallo. Manchester United winger Amad Diallo backs interim boss Michael Carrick to become the club's permanent manager. Relevance to standings and momentum.
+WSL academies: Can they improve to help homegrown talent?. Chelsea manager Sonia Bompastor raised concerns over the gap between academy football and the first team - so is it an issue in the game and how could it be solved? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,24 +31,22 @@ Michael Carrick backed for Man Utd job by winger Amad Diallo. Manchester United 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Michael Carrick backed for Man Utd job by winger Amad Diallo. https://www.bbc.com/sport/football/articles/c62je742e0no?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL academies: Can they improve to help homegrown talent?. https://www.bbc.com/sport/football/articles/clyg0d2v5gyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### Transfers
-
-## Story 2: Harry Maguire signs new one-year contract at Man Utd
-**Slug (lower-third):** Harry Maguire signs new one-year contract at Man Utd  
-**When:** 2026-04-07 07:30 (America/Winnipeg)  •  **Published:** 2026-04-07 12:30 (UTC)  
-**Virality score:** 78  •  **Estimated runtime:** ~20s
+## Story 2: Champions League: Arsenal manager Mikel Arteta post match interview
+**Slug (lower-third):** Champions League: Arsenal manager Mikel Arteta post match…  
+**When:** 2026-04-07 17:45 (America/Winnipeg)  •  **Published:** 2026-04-07 22:45 (UTC)  
+**Virality score:** 84  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Harry Maguire signs new one-year contract at Man Utd. Former captain Harry Maguire signs a new one-year contract with Manchester United. Implications for the squad and table.
+Champions League: Arsenal manager Mikel Arteta post match interview. Arsenal manager Mikel Arteta says his side "had a point to prove" following back-to-back defeats and praises his side's reaction, as Kai Havertz's stoppage-time winner secures a first-leg advantage in their Champions League quarter-final against Sporting. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,7 @@ Harry Maguire signs new one-year contract at Man Utd. Former captain Harry Magui
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Harry Maguire signs new one-year contract at Man Utd. https://www.bbc.com/sport/football/articles/cly92470le8o?at_medium=RSS&at_campaign=rss
+- bbc.com — Champions League: Arsenal manager Mikel Arteta post match interview. https://www.bbc.com/sport/football/videos/cvg0w4y9x3do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
@@ -71,7 +69,7 @@ Harry Maguire signs new one-year contract at Man Utd. Former captain Harry Magui
 ## Story 3: Southampton leapfrog Wrexham after thrashing to climb into playoff spots
 **Slug (lower-third):** Southampton leapfrog Wrexham after thrashing to climb int…  
 **When:** 2026-04-07 16:44 (America/Winnipeg)  •  **Published:** 2026-04-07 21:44 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+**Virality score:** 82  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Southampton leapfrog Wrexham after thrashing to climb into playoff spots. Southampton continued their Championship charge as they thrashed Wrexham 5-1 to replace the Welsh side in the playoff places Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -86,7 +84,7 @@ Southampton leapfrog Wrexham after thrashing to climb into playoff spots. Southa
 - theguardian.com — Southampton leapfrog Wrexham after thrashing to climb into playoff spots. https://www.theguardian.com/football/2026/apr/07/southampton-thrash-wrexham-to-leapfrog-opponents-and-climb-into-playoff-spots
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -94,13 +92,13 @@ Southampton leapfrog Wrexham after thrashing to climb into playoff spots. Southa
 
 ### Club Updates
 
-## Story 4: Michael Olise's masterclass in Bayern Munich's win over Real Madrid underlines world-class ability as he outshines all
-**Slug (lower-third):** Michael Olise's masterclass in Bayern Munich's win over R…  
-**When:** 2026-04-08 00:49 (America/Winnipeg)  •  **Published:** 2026-04-08 05:49 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+## Story 4: Enzo Fernandez: Was dropping Chelsea midfielder a sign of Liam Rosenior's authority or a big risk?
+**Slug (lower-third):** Enzo Fernandez: Was dropping Chelsea midfielder a sign of…  
+**When:** 2026-04-08 06:01 (America/Winnipeg)  •  **Published:** 2026-04-08 11:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Michael Olise's masterclass in Bayern Munich's win over Real Madrid underlines world-class ability as he outshines all. Bayern Munichs 2-1 win over Real Madrid in the first leg of their Champions League quarter-final was fuelled by Michael Olise. Adam Bate was in the Santiago Bernabeu Stadium for Sky Sports to see a performance to remember from the former Crystal Palace player... Relevance to standings and momentum.
+Enzo Fernandez: Was dropping Chelsea midfielder a sign of Liam Rosenior's authority or a big risk?. Enzo Fernandez has given Chelsea boss Liam Rosenior the first major internal disciplinary issue of his brief tenure at Stamford Bridge - BBC Sport analyses the situation. Disciplinary outcome could affect availability.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,7 +107,7 @@ Michael Olise's masterclass in Bayern Munich's win over Real Madrid underlines w
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Michael Olise's masterclass in Bayern Munich's win over Real Madrid underlines world-class ability as he outshines all. https://www.skysports.com/football/news/12040/13529129/michael-olises-masterclass-in-bayern-munichs-win-over-real-madrid-underlines-world-class-ability-as-he-outshines-all
+- bbc.com — Enzo Fernandez: Was dropping Chelsea midfielder a sign of Liam Rosenior's authority or a big risk?. https://www.bbc.com/sport/football/articles/cwywk1yx772o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,10 +116,83 @@ Michael Olise's masterclass in Bayern Munich's win over Real Madrid underlines w
 
 ---
 
-## Story 5: Sporting 0-1 Arsenal: Is David Raya the best goalkeeper in the world?
+## Story 5: Grand National: I Am Maximus headlines field of declared runners for 2026 Aintree showpiece alongside Nick Rockett
+**Slug (lower-third):** Grand National: I Am Maximus headlines field of declared …  
+**When:** 2026-04-08 05:50 (America/Winnipeg)  •  **Published:** 2026-04-08 10:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Grand National: I Am Maximus headlines field of declared runners for 2026 Aintree showpiece alongside Nick Rockett. The 1-2-3-4 from 2025 look set to clash in the 2026 Aintree Grand National with the 2024 hero, and 2025 runner-up, I Am Maximus set to top the weights for the iconic contest in Liverpool on Saturday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Grand National: I Am Maximus headlines field of declared runners for 2026 Aintree showpiece alongside Nick Rockett. https://www.skysports.com/racing/news/12040/13529242/grand-national-i-am-maximus-headlines-field-of-declared-runners-for-2026-aintree-showpiece-alongside-nick-rockett
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Premier League secures fifth spot for next season's UCL - could Brentford or Everton snatch it?
+**Slug (lower-third):** Premier League secures fifth spot for next season's UCL -…  
+**When:** 2026-04-08 03:56 (America/Winnipeg)  •  **Published:** 2026-04-08 08:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League secures fifth spot for next season's UCL - could Brentford or Everton snatch it?. The Premier League will have at least five teams in next season's Champions League after securing an additional European Performance Spot. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- espn.com — Premier League secures fifth spot for next season's UCL - could Brentford or Everton snatch it?. https://www.espn.com/soccer/story/_/id/48426732/premier-league-fifth-spot-next-season-champions-league-2026-brentford-everton-liverpool-chelsea-arsenal-man-city-man-united-five-teams
+- bbc.com — Premier League secures fifth Champions League spot. https://www.bbc.com/sport/football/articles/c9vl1y7g1mjo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and can De Zerbi fix Spurs?
+**Slug (lower-third):** Pitch Points: Kane's Ballon d'Or chances, Balogun's US ro…  
+**When:** 2026-04-08 04:00 (America/Winnipeg)  •  **Published:** 2026-04-08 09:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and can De Zerbi fix Spurs?. The world of soccer throws up no shortage of questions. Today, Graham Ruthven endeavors to answer three of them Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and can De Zerbi fix Spurs?. https://www.theguardian.com/football/2026/apr/08/harry-kane-ballon-dor-folarin-balogun-roberto-de-zerbi-tottenham
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Sporting 0-1 Arsenal: Is David Raya the best goalkeeper in the world?
 **Slug (lower-third):** Sporting 0-1 Arsenal: Is David Raya the best goalkeeper i…  
 **When:** 2026-04-07 18:09 (America/Winnipeg)  •  **Published:** 2026-04-07 23:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Sporting 0-1 Arsenal: Is David Raya the best goalkeeper in the world?. David Raya is the best goalkeeper in the world, according to his Arsenal team-mates - and the Spaniard played a key role in his side's 1-0 win at Sporting. Relevance to standings and momentum.
@@ -143,35 +214,10 @@ Sporting 0-1 Arsenal: Is David Raya the best goalkeeper in the world?. David Ray
 
 ---
 
-## Story 6: Premier League secures fifth Champions League spot for a second season running
-**Slug (lower-third):** Premier League secures fifth Champions League spot for a …  
-**When:** 2026-04-07 17:15 (America/Winnipeg)  •  **Published:** 2026-04-07 22:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Premier League secures fifth Champions League spot for a second season running. Fifth-place Premier League finish will be enough to secure Champions League qualification; England earns additional Champions League spot for second season running; Arsenals quarter-final first leg win at Sporting confirms extra place with PL top of European Performance Standings Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Premier League secures fifth Champions League spot for a second season running. https://www.skysports.com/football/news/12040/13529094/premier-league-secures-fifth-champions-league-spot-for-a-second-season-running
-- bbc.com — Premier League secures fifth Champions League spot. https://www.bbc.com/sport/football/articles/c9vl1y7g1mjo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Football gossip: Trafford, Vicario, Fernandez, Maguire, Palestra
+## Story 9: Football gossip: Trafford, Vicario, Fernandez, Maguire, Palestra
 **Slug (lower-third):** Football gossip: Trafford, Vicario, Fernandez, Maguire, P…  
 **When:** 2026-04-07 17:00 (America/Winnipeg)  •  **Published:** 2026-04-07 22:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+**Virality score:** 83  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Trafford, Vicario, Fernandez, Maguire, Palestra. Tottenham choose Guglielmo Vicario replacement, Liverpool monitor Italy defender, Manchester United set to miss out on England midfielder. Relevance to standings and momentum.
@@ -184,54 +230,6 @@ Football gossip: Trafford, Vicario, Fernandez, Maguire, Palestra. Tottenham choo
 
 ### Sources
 - bbc.com — Football gossip: Trafford, Vicario, Fernandez, Maguire, Palestra. https://www.bbc.com/sport/football/articles/c4gv3zre8m5o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Florian Wirtz: Liverpool attacker disagrees with Virgil van Dijk's 'gave up' criticism after Man City FA Cup rout
-**Slug (lower-third):** Florian Wirtz: Liverpool attacker disagrees with Virgil v…  
-**When:** 2026-04-07 14:45 (America/Winnipeg)  •  **Published:** 2026-04-07 19:45 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Florian Wirtz: Liverpool attacker disagrees with Virgil van Dijk's 'gave up' criticism after Man City FA Cup rout. Florian Wirtz disagrees with Liverpool captain Virgil van Dijks gave up criticism after the 4-0 FA Cup humiliation at Manchester City; Wirtz said ahead of Wednesdays Champions League quarter-final first leg at PSG: I would not agree directly because we still tried to create chances Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Florian Wirtz: Liverpool attacker disagrees with Virgil van Dijk's 'gave up' criticism after Man City FA Cup rout. https://www.skysports.com/football/news/12040/13529031/florian-wirtz-liverpool-attacker-disagrees-with-virgil-van-dijks-gave-up-criticism-after-man-city-fa-cup-rout
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Enzo Fernandez may captain Chelsea again despite being dropped for Madrid comments
-**Slug (lower-third):** Enzo Fernandez may captain Chelsea again despite being dr…  
-**When:** 2026-04-07 08:41 (America/Winnipeg)  •  **Published:** 2026-04-07 13:41 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Enzo Fernandez may captain Chelsea again despite being dropped for Madrid comments. Chelsea are open to Enzo Fernandez captaining the side again this season and hope to reintegrate the midfielder after his comments over his future Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Enzo Fernandez may captain Chelsea again despite being dropped for Madrid comments. https://www.theguardian.com/football/2026/apr/07/enzo-fernandez-may-captain-chelsea-again-despite-being-dropped-for-madrid-comments
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
