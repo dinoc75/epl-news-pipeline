@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-10 02:45 (America/Winnipeg)  |  2026-04-10 07:45 (UTC)
+**Generated:** 2026-04-10 08:16 (America/Winnipeg)  |  2026-04-10 13:16 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 45s
+**Estimated total video length:** ~4m 54s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Luke Littler: World No 1 booed in Brighton - was his Premier League quarter-final exit a 'knock-on' from Gian van Veen spat?
-- Today on Sky Sports Racing: Wolverhampton & Sedgefield feature on Friday
-- FPL talking point: Is it time to use wildcard?
+- Pep Guardiola wants Bernardo Silva to 'finish career' at Man City
+- Nottingham Forest: Vitor Pereira urges Premier League to ease scheduling for teams in Europe
+- Premier League returns: How are fans feeling about final stages of season?
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Mikel Arteta contract: Arsenal hold talks with manager over extending deal - Paper Talk and football transfer gossip
-**Slug (lower-third):** Mikel Arteta contract: Arsenal hold talks with manager ov…  
-**When:** 2026-04-09 17:30 (America/Winnipeg)  •  **Published:** 2026-04-09 22:30 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~28s
+## Story 1: Eddie Howe: Newcastle head coach '100% committed' but 'just needs support
+**Slug (lower-third):** Eddie Howe: Newcastle head coach '100% committed' but 'ju…  
+**When:** 2026-04-10 05:49 (America/Winnipeg)  •  **Published:** 2026-04-10 10:49 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mikel Arteta contract: Arsenal hold talks with manager over extending deal - Paper Talk and football transfer gossip. Fridays top stories include Mikel Arteta wanting assurances that Arsenal will continue to back him following talks over a contract extension; Morgan Rogers is expected to be the Premier Leagues most in-demand player; Yankuba Minteh among Liverpool targets to replace Mo Salah Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Eddie Howe: Newcastle head coach '100% committed' but 'just needs support. Head coach Eddie Howe says he is "100% committed" to Newcastle United, but it is "very difficult" to look too far beyond the end of the season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,57 @@ Mikel Arteta contract: Arsenal hold talks with manager over extending deal - Pap
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Mikel Arteta contract: Arsenal hold talks with manager over extending deal - Paper Talk and football transfer gossip. https://www.skysports.com/football/news/12040/13529855/mikel-arteta-contract-arsenal-hold-talks-with-manager-over-extending-deal-paper-talk-and-football-transfer-gossip
+- bbc.com — Eddie Howe: Newcastle head coach '100% committed' but 'just needs support. https://www.bbc.com/sport/football/articles/ckgwdjjggy9o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Liverpool: I feel complete support from owners and fans, says Arne Slot
+**Slug (lower-third):** Liverpool: I feel complete support from owners and fans, …  
+**When:** 2026-04-10 04:20 (America/Winnipeg)  •  **Published:** 2026-04-10 09:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Liverpool: I feel complete support from owners and fans, says Arne Slot. Liverpool manager Arne Slot insists he feels "complete support" from the club's hierarchy and fans despite a run of poor on-field performances and growing discontent about his future as manager Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Liverpool: I feel complete support from owners and fans, says Arne Slot. https://www.bbc.com/sport/football/articles/ckgx9633e81o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Morgan Rogers transfer news: Man Utd, Arsenal, Chelsea and PSG considering move for Aston Villa forward
+**Slug (lower-third):** Morgan Rogers transfer news: Man Utd, Arsenal, Chelsea an…  
+**When:** 2026-04-10 06:25 (America/Winnipeg)  •  **Published:** 2026-04-10 11:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Morgan Rogers transfer news: Man Utd, Arsenal, Chelsea and PSG considering move for Aston Villa forward. Manchester United, Arsenal, Chelsea and Paris Saint-Germain are all considering a move for Aston Villa forward Morgan Rogers this summer; Rogers signed a new deal running until 2031 last year; the 23-year-old joined from Middlesbrough in 2024 and has scored 27 goals for Villa Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Morgan Rogers transfer news: Man Utd, Arsenal, Chelsea and PSG considering move for Aston Villa forward. https://www.skysports.com/football/news/12040/13530014/morgan-rogers-transfer-news-man-utd-arsenal-chelsea-and-psg-considering-move-for-aston-villa-forward
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +92,13 @@ Mikel Arteta contract: Arsenal hold talks with manager over extending deal - Pap
 
 ### Injuries
 
-## Story 2: FPL talking point: Is it time to use wildcard?
-**Slug (lower-third):** FPL talking point: Is it time to use wildcard?  
-**When:** 2026-04-10 00:35 (America/Winnipeg)  •  **Published:** 2026-04-10 05:35 (UTC)  
+## Story 4: Premier League returns: How are fans feeling about final stages of season?
+**Slug (lower-third):** Premier League returns: How are fans feeling about final …  
+**When:** 2026-04-10 07:19 (America/Winnipeg)  •  **Published:** 2026-04-10 12:19 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-FPL talking point: Is it time to use wildcard?. The Premier League returns this weekend and with two double gameweeks on the horizon, the big question: Do you play the wildcard now or hold off until gameweek 33? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League returns: How are fans feeling about final stages of season?. As the Premier League returns after a three-week hiatus, we asked fans how they are feeling about their club. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,55 +107,7 @@ FPL talking point: Is it time to use wildcard?. The Premier League returns this 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FPL talking point: Is it time to use wildcard?. https://www.bbc.com/sport/football/articles/cly09l7y1r3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Premier League Darts: Jonny Clayton returns to top of table after victory over Michael van Gerwen in Brighton
-**Slug (lower-third):** Premier League Darts: Jonny Clayton returns to top of tab…  
-**When:** 2026-04-09 18:00 (America/Winnipeg)  •  **Published:** 2026-04-09 23:00 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Premier League Darts: Jonny Clayton returns to top of table after victory over Michael van Gerwen in Brighton. Jonny Clayton is three points clear at the top of the Premier League table; Luke Littler registered his lowest ever TV average in his quarter-final with Stephen Bunting at 83.94 you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Premier League Darts: Jonny Clayton returns to top of table after victory over Michael van Gerwen in Brighton. https://www.skysports.com/darts/news/12040/13529730/premier-league-darts-jonny-clayton-returns-to-top-of-table-with-victory-over-michael-van-gerwen-in-brighton
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Crystal Palace 3-0 Fiorentina: Jean-Philippe Mateta scores on first start since January as Eagles take charge of Conference League quarter-final
-**Slug (lower-third):** Crystal Palace 3-0 Fiorentina: Jean-Philippe Mateta score…  
-**When:** 2026-04-09 17:10 (America/Winnipeg)  •  **Published:** 2026-04-09 22:10 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Crystal Palace 3-0 Fiorentina: Jean-Philippe Mateta scores on first start since January as Eagles take charge of Conference League quarter-final. Jean-Philippe Mateta marked his return to the Crystal Palace starting line-up with his first goal since New Year's Day as the Eagles put one foot into the Conference League semi-final with a 3-0 win over Fiorentina in the last eight first leg. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Crystal Palace 3-0 Fiorentina: Jean-Philippe Mateta scores on first start since January as Eagles take charge of Conference League quarter-final. https://www.skysports.com/football/crystal-palace-vs-fiorentina/report/555156
+- bbc.com — Premier League returns: How are fans feeling about final stages of season?. https://www.bbc.com/sport/football/articles/cz78np0yjego?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +118,85 @@ Crystal Palace 3-0 Fiorentina: Jean-Philippe Mateta scores on first start since 
 
 ### Club Updates
 
-## Story 5: Luke Littler: World No 1 booed in Brighton - was his Premier League quarter-final exit a 'knock-on' from Gian van Veen spat?
-**Slug (lower-third):** Luke Littler: World No 1 booed in Brighton - was his Prem…  
-**When:** 2026-04-10 02:59 (America/Winnipeg)  •  **Published:** 2026-04-10 07:59 (UTC)  
+## Story 5: Pep Guardiola wants Bernardo Silva to 'finish career' at Man City
+**Slug (lower-third):** Pep Guardiola wants Bernardo Silva to 'finish career' at …  
+**When:** 2026-04-10 07:45 (America/Winnipeg)  •  **Published:** 2026-04-10 12:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Pep Guardiola wants Bernardo Silva to 'finish career' at Man City. Pep Guardiola says he would "love" captain Bernardo Silva to "finish his career" at Manchester City but it is up to the player to make the decision on whether he stays or leaves this summer. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Pep Guardiola wants Bernardo Silva to 'finish career' at Man City. https://www.bbc.com/sport/football/articles/c8r43zp81lgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Nottingham Forest: Vitor Pereira urges Premier League to ease scheduling for teams in Europe
+**Slug (lower-third):** Nottingham Forest: Vitor Pereira urges Premier League to …  
+**When:** 2026-04-10 07:39 (America/Winnipeg)  •  **Published:** 2026-04-10 12:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Nottingham Forest: Vitor Pereira urges Premier League to ease scheduling for teams in Europe. Nottingham Forest boss Vitor Pereira has urged the Premier League to protect teams playing in Europe by easing their schedules. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Nottingham Forest: Vitor Pereira urges Premier League to ease scheduling for teams in Europe. https://www.bbc.com/sport/football/articles/c8x7d9g4q52o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Porto 1-1 Nottingham Forest: Is Martim Fernandes' own goal the worst of all-time?
+**Slug (lower-third):** Porto 1-1 Nottingham Forest: Is Martim Fernandes' own goa…  
+**When:** 2026-04-10 07:00 (America/Winnipeg)  •  **Published:** 2026-04-10 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Porto 1-1 Nottingham Forest: Is Martim Fernandes' own goal the worst of all-time?. Porto's Martim Fernandes scored a bizarre own goal for Porto against Nottingham Forest on Thursday, but how does it compare to the worst of all-time? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Porto 1-1 Nottingham Forest: Is Martim Fernandes' own goal the worst of all-time?. https://www.bbc.com/sport/football/articles/ckg9k8vn79zo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Frazer Clarke vows to upset Justis Huni and change public opinion following defeats to Fabio Wardley and Jeamie TKV
+**Slug (lower-third):** Frazer Clarke vows to upset Justis Huni and change public…  
+**When:** 2026-04-10 07:00 (America/Winnipeg)  •  **Published:** 2026-04-10 12:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Luke Littler: World No 1 booed in Brighton - was his Premier League quarter-final exit a 'knock-on' from Gian van Veen spat?. Luke Littler jeered in Brighton but was his quarter-final exit to Stephen Bunting a knock-on from his squabble with Gian van Veen in Manchester last week? Wayne Mardle believes it was; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Frazer Clarke vows to upset Justis Huni and change public opinion following defeats to Fabio Wardley and Jeamie TKV. Frazer Clarke admits he is haunted by his performance against Jeamie TKV to miss out on the British heavyweight title last year, but believes he can cause an upset by beating Justis Huni on the undercard of Tyson Furys fight against Arslanbek Makhmudov at Tottenham on Saturday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +205,7 @@ Luke Littler: World No 1 booed in Brighton - was his Premier League quarter-fina
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Luke Littler: World No 1 booed in Brighton - was his Premier League quarter-final exit a 'knock-on' from Gian van Veen spat?. https://www.skysports.com/darts/news/12040/13529896/luke-littler-world-no-1-booed-in-brighton-was-his-premier-league-quarter-final-exit-a-knock-on-from-gian-van-veen-spat
+- skysports.com — Frazer Clarke vows to upset Justis Huni and change public opinion following defeats to Fabio Wardley and Jeamie TKV. https://www.skysports.com/boxing/news/12040/13529656/frazer-clarke-vows-to-upset-justis-huni-and-change-public-opinion-following-defeats-to-fabio-wardley-and-jeamie-tkv
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +214,13 @@ Luke Littler: World No 1 booed in Brighton - was his Premier League quarter-fina
 
 ---
 
-## Story 6: Today on Sky Sports Racing: Wolverhampton & Sedgefield feature on Friday
-**Slug (lower-third):** Today on Sky Sports Racing: Wolverhampton & Sedgefield fe…  
-**When:** 2026-04-10 02:00 (America/Winnipeg)  •  **Published:** 2026-04-10 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Newcastle: Eddie Howe insists he is '100 per cent committed' after chief executive's comments on his future
+**Slug (lower-third):** Newcastle: Eddie Howe insists he is '100 per cent committ…  
+**When:** 2026-04-10 05:15 (America/Winnipeg)  •  **Published:** 2026-04-10 10:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Wolverhampton & Sedgefield feature on Friday. Anthelia and Sirius A clash in the opening race at Wolverhampton on Friday; Notable Speech headlines the Grade One Makers Mark Mile at Keeneland (10.16); watch every race live on Sky Sports Racing Relevance to standings and momentum.
+Newcastle: Eddie Howe insists he is '100 per cent committed' after chief executive's comments on his future. Eddie Howe reiterates dedication to Newcastle after chief executive David Hopkinson said he didnt have a stance on [Howes] future; Magpies aim to bounce back from Sunderland defeat Watch Crystal Palace vs Newcastle live on Sky Sports from 1pm on Sunday; kick-off 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +229,7 @@ Today on Sky Sports Racing: Wolverhampton & Sedgefield feature on Friday. Anthel
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Wolverhampton & Sedgefield feature on Friday. https://www.skysports.com/racing/news/12040/13529616/today-on-sky-sports-racing-wolverhampton-sedgefield-feature-on-friday
+- skysports.com — Newcastle: Eddie Howe insists he is '100 per cent committed' after chief executive's comments on his future. https://www.skysports.com/football/news/12040/13529959/newcastle-eddie-howe-insists-he-is-100-per-cent-committed-after-chief-executives-comments-on-his-future
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +238,13 @@ Today on Sky Sports Racing: Wolverhampton & Sedgefield feature on Friday. Anthel
 
 ---
 
-## Story 7: 'Legend' Andy Robertson to leave Liverpool at end of season
-**Slug (lower-third):** 'Legend' Andy Robertson to leave Liverpool at end of seas…  
-**When:** 2026-04-09 15:58 (America/Winnipeg)  •  **Published:** 2026-04-09 20:58 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Billie Jean King Cup: Teenager Mika Stojsavljevic and Harriet Dart put depleted Great Britain on brink of victory over Australia
+**Slug (lower-third):** Billie Jean King Cup: Teenager Mika Stojsavljevic and Har…  
+**When:** 2026-04-10 05:07 (America/Winnipeg)  •  **Published:** 2026-04-10 10:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-'Legend' Andy Robertson to leave Liverpool at end of season. Andy Robertson will leave Liverpool at the end of the current season after nine years at Anfield, the Premier League club confirmed Thursday. Relevance to standings and momentum.
+Billie Jean King Cup: Teenager Mika Stojsavljevic and Harriet Dart put depleted Great Britain on brink of victory over Australia. A depleted Great Britain team stun Australia in opening days action of Billie Jean King Cup qualifiers, taking 2-0 lead on Friday; Watch the ATP and WTA Tours live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,81 +253,7 @@ Today on Sky Sports Racing: Wolverhampton & Sedgefield feature on Friday. Anthel
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — 'Legend' Andy Robertson to leave Liverpool at end of season. https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season
-- theguardian.com — Liverpool announce Andy Robertson will leave at the end of the season. https://www.theguardian.com/football/2026/apr/09/andy-robertson-to-leave-liverpool-at-end-of-season
-- bbc.com — Andy Robertson: Liverpool defender to leave club at the end of the season. https://www.bbc.com/sport/football/articles/cp8d4jvj108o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Ollie Watkins: Aston Villa striker is man on mission but will England boss Thomas Tuchel take notice?
-**Slug (lower-third):** Ollie Watkins: Aston Villa striker is man on mission but …  
-**When:** 2026-04-09 17:53 (America/Winnipeg)  •  **Published:** 2026-04-09 22:53 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ollie Watkins: Aston Villa striker is man on mission but will England boss Thomas Tuchel take notice?. Ollie Watkins' response to being dropped by England has been nothing short of emphatic, with two strikes in Bologna adding to his goal against West Ham before the international break. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Ollie Watkins: Aston Villa striker is man on mission but will England boss Thomas Tuchel take notice?. https://www.bbc.com/sport/football/articles/cx2rdd3pv7eo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League: 10 things to look out for this weekend
-**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
-**When:** 2026-04-09 18:01 (America/Winnipeg)  •  **Published:** 2026-04-09 23:01 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: 10 things to look out for this weekend. There are protests planned at Anfield as Roberto De Zerbi starts his Tottenham tenure and Everton eye Europe Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2026/apr/10/premier-league-10-things-to-look-out-for-this-weekend
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Estevao: Brazil assistant Davide Ancelotti tips Chelsea winger to be tournament's surprise
-**Slug (lower-third):** Estevao: Brazil assistant Davide Ancelotti tips Chelsea w…  
-**When:** 2026-04-09 16:52 (America/Winnipeg)  •  **Published:** 2026-04-09 21:52 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Estevao: Brazil assistant Davide Ancelotti tips Chelsea winger to be tournament's surprise. Brazil assistant coach Davide Ancelotti has tipped Chelsea's 18-year-old winger Estevao Willian to be the surprise package at the summer's World Cup. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Estevao: Brazil assistant Davide Ancelotti tips Chelsea winger to be tournament's surprise. https://www.bbc.com/sport/football/articles/cjd8r27e48mo?at_medium=RSS&at_campaign=rss
+- skysports.com — Billie Jean King Cup: Teenager Mika Stojsavljevic and Harriet Dart put depleted Great Britain on brink of victory over Australia. https://www.skysports.com/tennis/news/12040/13529888/billie-jean-king-cup-teenager-mika-stojsavljevic-and-harriet-dart-put-depleted-great-britain-on-brink-of-victory-over-australia
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
