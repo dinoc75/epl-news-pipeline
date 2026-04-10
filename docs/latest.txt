@@ -1,78 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-10 08:16 (America/Winnipeg)  |  2026-04-10 13:16 (UTC)
+**Generated:** 2026-04-10 13:57 (America/Winnipeg)  |  2026-04-10 18:57 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 54s
+**Estimated total video length:** ~4m 37s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Pep Guardiola wants Bernardo Silva to 'finish career' at Man City
-- Nottingham Forest: Vitor Pereira urges Premier League to ease scheduling for teams in Europe
-- Premier League returns: How are fans feeling about final stages of season?
-
----
-
-### Managerial Moves
-
-## Story 1: Eddie Howe: Newcastle head coach '100% committed' but 'just needs support
-**Slug (lower-third):** Eddie Howe: Newcastle head coach '100% committed' but 'ju…  
-**When:** 2026-04-10 05:49 (America/Winnipeg)  •  **Published:** 2026-04-10 10:49 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Eddie Howe: Newcastle head coach '100% committed' but 'just needs support. Head coach Eddie Howe says he is "100% committed" to Newcastle United, but it is "very difficult" to look too far beyond the end of the season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Eddie Howe: Newcastle head coach '100% committed' but 'just needs support. https://www.bbc.com/sport/football/articles/ckgwdjjggy9o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Liverpool: I feel complete support from owners and fans, says Arne Slot
-**Slug (lower-third):** Liverpool: I feel complete support from owners and fans, …  
-**When:** 2026-04-10 04:20 (America/Winnipeg)  •  **Published:** 2026-04-10 09:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Liverpool: I feel complete support from owners and fans, says Arne Slot. Liverpool manager Arne Slot insists he feels "complete support" from the club's hierarchy and fans despite a run of poor on-field performances and growing discontent about his future as manager Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Liverpool: I feel complete support from owners and fans, says Arne Slot. https://www.bbc.com/sport/football/articles/ckgx9633e81o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Tyson Fury weighs in lighter than in Oleksandr Usyk rematch for Arslanbek Makhmudov fight at Tottenham Hotspur Stadium
+- Premier League team news: predicted lineups for the weekend action
+- Premier League news: Fernandez's Chelsea future in further doubt; Arteta praises Eze
 
 ---
 
 ### Transfers
 
-## Story 3: Morgan Rogers transfer news: Man Utd, Arsenal, Chelsea and PSG considering move for Aston Villa forward
-**Slug (lower-third):** Morgan Rogers transfer news: Man Utd, Arsenal, Chelsea an…  
-**When:** 2026-04-10 06:25 (America/Winnipeg)  •  **Published:** 2026-04-10 11:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 1: Vivien Endemann: Liverpool agree deal to sign Germany forward
+**Slug (lower-third):** Vivien Endemann: Liverpool agree deal to sign Germany for…  
+**When:** 2026-04-10 09:00 (America/Winnipeg)  •  **Published:** 2026-04-10 14:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Morgan Rogers transfer news: Man Utd, Arsenal, Chelsea and PSG considering move for Aston Villa forward. Manchester United, Arsenal, Chelsea and Paris Saint-Germain are all considering a move for Aston Villa forward Morgan Rogers this summer; Rogers signed a new deal running until 2031 last year; the 23-year-old joined from Middlesbrough in 2024 and has scored 27 goals for Villa Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Vivien Endemann: Liverpool agree deal to sign Germany forward. Liverpool have reached an agreement to sign Germany international Vivien Endemann upon the expiry of her contract at Wolfsburg. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +31,7 @@ Morgan Rogers transfer news: Man Utd, Arsenal, Chelsea and PSG considering move 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Morgan Rogers transfer news: Man Utd, Arsenal, Chelsea and PSG considering move for Aston Villa forward. https://www.skysports.com/football/news/12040/13530014/morgan-rogers-transfer-news-man-utd-arsenal-chelsea-and-psg-considering-move-for-aston-villa-forward
+- bbc.com — Vivien Endemann: Liverpool agree deal to sign Germany forward. https://www.bbc.com/sport/football/articles/c4gd4nj0nkno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,10 +42,58 @@ Morgan Rogers transfer news: Man Utd, Arsenal, Chelsea and PSG considering move 
 
 ### Injuries
 
+## Story 2: Tyson Fury weighs in lighter than in Oleksandr Usyk rematch for Arslanbek Makhmudov fight at Tottenham Hotspur Stadium
+**Slug (lower-third):** Tyson Fury weighs in lighter than in Oleksandr Usyk remat…  
+**When:** 2026-04-10 14:20 (America/Winnipeg)  •  **Published:** 2026-04-10 19:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Tyson Fury weighs in lighter than in Oleksandr Usyk rematch for Arslanbek Makhmudov fight at Tottenham Hotspur Stadium. Tyson Fury comes out of a year-long retirement to fight Arslanbek Makhmudov at the Tottenham Hotspur Stadium on Saturday; On the undercard Conor Benn returns to action against Regis Prograis; Benn is moving back down in weight after winning his rematch with Chris Eubank Jr last year Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Tyson Fury weighs in lighter than in Oleksandr Usyk rematch for Arslanbek Makhmudov fight at Tottenham Hotspur Stadium. https://www.skysports.com/boxing/news/12040/13529990/tyson-fury-weighs-in-lighter-than-in-oleksandr-usyk-rematch-for-arslanbek-makhmudov-fight-at-tottenham-hotspur-stadium
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Celtic: Alistair Johnston back in training but Julian Araujo may have played last game for Scottish Premiership champions
+**Slug (lower-third):** Celtic: Alistair Johnston back in training but Julian Ara…  
+**When:** 2026-04-10 09:00 (America/Winnipeg)  •  **Published:** 2026-04-10 14:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Celtic: Alistair Johnston back in training but Julian Araujo may have played last game for Scottish Premiership champions. Canada international Alistair Johnston has not featured for Celtic since October; Julian Araujo re-injured himself after returning to Bournemouth for treatment; Celtic are three points behind Premiership leaders Hearts with six games to play; they host St Mirren on Saturday, kick-off 3pm Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Celtic: Alistair Johnston back in training but Julian Araujo may have played last game for Scottish Premiership champions. https://www.skysports.com/football/news/12040/13530130/celtic-alistair-johnston-back-in-training-but-julian-araujo-may-have-played-last-game-for-scottish-premiership-champions
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ## Story 4: Premier League returns: How are fans feeling about final stages of season?
 **Slug (lower-third):** Premier League returns: How are fans feeling about final …  
 **When:** 2026-04-10 07:19 (America/Winnipeg)  •  **Published:** 2026-04-10 12:19 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League returns: How are fans feeling about final stages of season?. As the Premier League returns after a three-week hiatus, we asked fans how they are feeling about their club. Implications for the squad and table.
@@ -116,15 +114,138 @@ Premier League returns: How are fans feeling about final stages of season?. As t
 
 ---
 
+### League & Regulation
+
+## Story 5: Tottenham: Roberto de Zerbi says he is 'not better' than Thomas Frank or Igor Tudor
+**Slug (lower-third):** Tottenham: Roberto de Zerbi says he is 'not better' than …  
+**When:** 2026-04-10 09:21 (America/Winnipeg)  •  **Published:** 2026-04-10 14:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham: Roberto de Zerbi says he is 'not better' than Thomas Frank or Igor Tudor. Tottenham boss Roberto de Zerbi says he is "not better" than predecessors Thomas Frank or Igor Tudor as he prepares to take charge of his first game at the Premier League strugglers. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tottenham: Roberto de Zerbi says he is 'not better' than Thomas Frank or Igor Tudor. https://www.bbc.com/sport/football/articles/cdxde1g4dvqo?at_medium=RSS&at_campaign=rss
+- skysports.com — Roberto De Zerbi: Tottenham boss says he is not better than Thomas Frank or Igor Tudor but 'passion' can restore club's DNA. https://www.skysports.com/football/news/12040/13530101/roberto-de-zerbi-tottenham-boss-says-he-is-not-better-than-thomas-frank-or-igor-tudor-but-passion-can-restore-clubs-dna
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ### Club Updates
 
-## Story 5: Pep Guardiola wants Bernardo Silva to 'finish career' at Man City
-**Slug (lower-third):** Pep Guardiola wants Bernardo Silva to 'finish career' at …  
+## Story 6: Premier League team news: predicted lineups for the weekend action
+**Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
+**When:** 2026-04-10 12:57 (America/Winnipeg)  •  **Published:** 2026-04-10 17:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League team news: predicted lineups for the weekend action. Arsenal host Bournemouth at Saturday lunchtime and De Zerbi leads Tottenham out for the first time at Sunderland Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/football/2026/apr/10/premier-league-team-news-predicted-lineups-for-the-weekend-action
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Premier League news: Fernandez's Chelsea future in further doubt; Arteta praises Eze
+**Slug (lower-third):** Premier League news: Fernandez's Chelsea future in furthe…  
+**When:** 2026-04-10 11:11 (America/Winnipeg)  •  **Published:** 2026-04-10 16:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League news: Fernandez's Chelsea future in further doubt; Arteta praises Eze. Guardiola says City must win every game, Howe 'aligned' with Newcastle chief executive and Pereira wants fixture help Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League news: Fernandez's Chelsea future in further doubt; Arteta praises Eze. https://www.theguardian.com/football/2026/apr/10/premier-league-news-enzo-fernandez-chelsea-future-arsenal-manchester-city
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Masters magic, the Grand National and Premier League drama - follow with us
+**Slug (lower-third):** Masters magic, the Grand National and Premier League dram…  
+**When:** 2026-04-10 11:00 (America/Winnipeg)  •  **Published:** 2026-04-10 16:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Masters magic, the Grand National and Premier League drama - follow with us. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Masters magic, the Grand National and Premier League drama - follow with us. https://www.theguardian.com/sport/2026/apr/10/masters-magic-the-grand-national-and-premier-league-drama-follow-with-us
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Football Daily | Enzo Fernandez and Chelsea's very English approach to playing happy families
+**Slug (lower-third):** Football Daily | Enzo Fernandez and Chelsea's very Englis…  
+**When:** 2026-04-10 09:52 (America/Winnipeg)  •  **Published:** 2026-04-10 14:52 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football Daily | Enzo Fernandez and Chelsea's very English approach to playing happy families. In today's Football Daily: Enzo Fernandez says sorry Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Football Daily | Enzo Fernandez and Chelsea's very English approach to playing happy families. https://www.theguardian.com/football/2026/apr/10/enzo-fernandez-chelsea-football-daily-newsletter
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Bernardo Silva future: Pep Guardiola wants captain to 'finish career' at Man City
+**Slug (lower-third):** Bernardo Silva future: Pep Guardiola wants captain to 'fi…  
 **When:** 2026-04-10 07:45 (America/Winnipeg)  •  **Published:** 2026-04-10 12:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pep Guardiola wants Bernardo Silva to 'finish career' at Man City. Pep Guardiola says he would "love" captain Bernardo Silva to "finish his career" at Manchester City but it is up to the player to make the decision on whether he stays or leaves this summer. Relevance to standings and momentum.
+Bernardo Silva future: Pep Guardiola wants captain to 'finish career' at Man City. Pep Guardiola says he would "love" captain Bernardo Silva to "finish his career" at Manchester City but it is up to the player to make the decision on whether he stays or leaves this summer. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,127 +254,7 @@ Pep Guardiola wants Bernardo Silva to 'finish career' at Man City. Pep Guardiola
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Pep Guardiola wants Bernardo Silva to 'finish career' at Man City. https://www.bbc.com/sport/football/articles/c8r43zp81lgo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Nottingham Forest: Vitor Pereira urges Premier League to ease scheduling for teams in Europe
-**Slug (lower-third):** Nottingham Forest: Vitor Pereira urges Premier League to …  
-**When:** 2026-04-10 07:39 (America/Winnipeg)  •  **Published:** 2026-04-10 12:39 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Nottingham Forest: Vitor Pereira urges Premier League to ease scheduling for teams in Europe. Nottingham Forest boss Vitor Pereira has urged the Premier League to protect teams playing in Europe by easing their schedules. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Nottingham Forest: Vitor Pereira urges Premier League to ease scheduling for teams in Europe. https://www.bbc.com/sport/football/articles/c8x7d9g4q52o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Porto 1-1 Nottingham Forest: Is Martim Fernandes' own goal the worst of all-time?
-**Slug (lower-third):** Porto 1-1 Nottingham Forest: Is Martim Fernandes' own goa…  
-**When:** 2026-04-10 07:00 (America/Winnipeg)  •  **Published:** 2026-04-10 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Porto 1-1 Nottingham Forest: Is Martim Fernandes' own goal the worst of all-time?. Porto's Martim Fernandes scored a bizarre own goal for Porto against Nottingham Forest on Thursday, but how does it compare to the worst of all-time? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Porto 1-1 Nottingham Forest: Is Martim Fernandes' own goal the worst of all-time?. https://www.bbc.com/sport/football/articles/ckg9k8vn79zo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Frazer Clarke vows to upset Justis Huni and change public opinion following defeats to Fabio Wardley and Jeamie TKV
-**Slug (lower-third):** Frazer Clarke vows to upset Justis Huni and change public…  
-**When:** 2026-04-10 07:00 (America/Winnipeg)  •  **Published:** 2026-04-10 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Frazer Clarke vows to upset Justis Huni and change public opinion following defeats to Fabio Wardley and Jeamie TKV. Frazer Clarke admits he is haunted by his performance against Jeamie TKV to miss out on the British heavyweight title last year, but believes he can cause an upset by beating Justis Huni on the undercard of Tyson Furys fight against Arslanbek Makhmudov at Tottenham on Saturday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Frazer Clarke vows to upset Justis Huni and change public opinion following defeats to Fabio Wardley and Jeamie TKV. https://www.skysports.com/boxing/news/12040/13529656/frazer-clarke-vows-to-upset-justis-huni-and-change-public-opinion-following-defeats-to-fabio-wardley-and-jeamie-tkv
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Newcastle: Eddie Howe insists he is '100 per cent committed' after chief executive's comments on his future
-**Slug (lower-third):** Newcastle: Eddie Howe insists he is '100 per cent committ…  
-**When:** 2026-04-10 05:15 (America/Winnipeg)  •  **Published:** 2026-04-10 10:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Newcastle: Eddie Howe insists he is '100 per cent committed' after chief executive's comments on his future. Eddie Howe reiterates dedication to Newcastle after chief executive David Hopkinson said he didnt have a stance on [Howes] future; Magpies aim to bounce back from Sunderland defeat Watch Crystal Palace vs Newcastle live on Sky Sports from 1pm on Sunday; kick-off 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Newcastle: Eddie Howe insists he is '100 per cent committed' after chief executive's comments on his future. https://www.skysports.com/football/news/12040/13529959/newcastle-eddie-howe-insists-he-is-100-per-cent-committed-after-chief-executives-comments-on-his-future
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Billie Jean King Cup: Teenager Mika Stojsavljevic and Harriet Dart put depleted Great Britain on brink of victory over Australia
-**Slug (lower-third):** Billie Jean King Cup: Teenager Mika Stojsavljevic and Har…  
-**When:** 2026-04-10 05:07 (America/Winnipeg)  •  **Published:** 2026-04-10 10:07 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Billie Jean King Cup: Teenager Mika Stojsavljevic and Harriet Dart put depleted Great Britain on brink of victory over Australia. A depleted Great Britain team stun Australia in opening days action of Billie Jean King Cup qualifiers, taking 2-0 lead on Friday; Watch the ATP and WTA Tours live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Billie Jean King Cup: Teenager Mika Stojsavljevic and Harriet Dart put depleted Great Britain on brink of victory over Australia. https://www.skysports.com/tennis/news/12040/13529888/billie-jean-king-cup-teenager-mika-stojsavljevic-and-harriet-dart-put-depleted-great-britain-on-brink-of-victory-over-australia
+- bbc.com — Bernardo Silva future: Pep Guardiola wants captain to 'finish career' at Man City. https://www.bbc.com/sport/football/articles/c8r43zp81lgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
