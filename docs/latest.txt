@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-11 08:03 (America/Winnipeg)  |  2026-04-11 13:03 (UTC)
+**Generated:** 2026-04-11 13:49 (America/Winnipeg)  |  2026-04-11 18:49 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 51s
+**Estimated total video length:** ~3m 26s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Alejandro Garnacho opens up on Manchester United exit, saying he did some 'bad things'
-- Tyson Fury labelled best heavyweight in history by Arslanbek Makhmudov as Russian 'monster' threatens to retire Gypsy King
-- Alejandro Garnacho on his time Manchester United exit and shows his gratitude to the club
+- Liverpool 2-0 Fulham: Big win for Arne Slot as Rio Ngumoha opens Anfield account and Mo Salah scores second
+- Rio Ngumoha sparks Liverpool win over wasteful Fulham with first Anfield goal
+- Rio Ngumoha's dancing lights up Liverpool future on dramatic day for Arsenal - Premier League hits and misses
 
 ---
 
-### Injuries
+### Managerial Moves
 
-## Story 1: Marcelino Nunez interview: Ipswich midfielder ready for hostile Norwich reception as he targets Premier League
-**Slug (lower-third):** Marcelino Nunez interview: Ipswich midfielder ready for h…  
-**When:** 2026-04-11 02:00 (America/Winnipeg)  •  **Published:** 2026-04-11 07:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~24s
+## Story 1: Premier League: Disallowed goals 'finest of fine margins' - Scott Parker
+**Slug (lower-third):** Premier League: Disallowed goals 'finest of fine margins'…  
+**When:** 2026-04-11 12:43 (America/Winnipeg)  •  **Published:** 2026-04-11 17:43 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Marcelino Nunez interview: Ipswich midfielder ready for hostile Norwich reception as he targets Premier League. In one of his first major interviews since joining Ipswich from rivals Norwich, Marcelino Nunez tells Sky Sports why he made the move and why he doesnt fear his return to Carrow Road; watch the East Anglian derby live on Sky Sports on Saturday; kick-off 12.30pm Relevance to standings and momentum.
+Premier League: Disallowed goals 'finest of fine margins' - Scott Parker. Burnley manager Scott Parker said his sides disallowed goals were on the "finest of margins" as both Jaidon Anthony and Bashir Humphreys had efforts ruled out during Burnley's 2-0 defeat to Brighton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,79 @@ Marcelino Nunez interview: Ipswich midfielder ready for hostile Norwich receptio
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Marcelino Nunez interview: Ipswich midfielder ready for hostile Norwich reception as he targets Premier League. https://www.skysports.com/football/news/12040/13529575/marcelino-nunez-interview-ipswich-midfielder-ready-for-hostile-norwich-reception-as-he-targets-premier-league
+- bbc.com — Premier League: Disallowed goals 'finest of fine margins' - Scott Parker. https://www.bbc.com/sport/football/videos/ce8lgnd40m3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Premier League: 'We don't want to talk about Europe' - Fabian Hurzeler
+**Slug (lower-third):** Premier League: 'We don't want to talk about Europe' - Fa…  
+**When:** 2026-04-11 12:29 (America/Winnipeg)  •  **Published:** 2026-04-11 17:29 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: 'We don't want to talk about Europe' - Fabian Hurzeler. Brighton manager Fabian Hurzeler played down his sides chances of finishing in a European spot after they won a third straight game with a 2-0 victory over Burnley. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: 'We don't want to talk about Europe' - Fabian Hurzeler. https://www.bbc.com/sport/football/videos/c7vq002dypro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Premier League: Igor Thiago in an 'amazing place' - Keith Andrews
+**Slug (lower-third):** Premier League: Igor Thiago in an 'amazing place' - Keith…  
+**When:** 2026-04-11 12:13 (America/Winnipeg)  •  **Published:** 2026-04-11 17:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Igor Thiago in an 'amazing place' - Keith Andrews. Brentford manager Keith Andrews praises his striker Igor Thiago as he scores another two goals during a 2-2 draw against Everton to bring his total to 21 for the season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Igor Thiago in an 'amazing place' - Keith Andrews. https://www.bbc.com/sport/football/videos/ce3dkkeexe7o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Premier League: Rather Europe chase than relegation scrap - David Moyes
+**Slug (lower-third):** Premier League: Rather Europe chase than relegation scrap…  
+**When:** 2026-04-11 12:02 (America/Winnipeg)  •  **Published:** 2026-04-11 17:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Rather Europe chase than relegation scrap - David Moyes. Everton manager David Moyes says he's happier that his side are chasing a spot in Europe rather than fighting relegation, as they get a late equaliser against fellow European hopefuls Brentford. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Rather Europe chase than relegation scrap - David Moyes. https://www.bbc.com/sport/football/videos/cvg4rrzlp28o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,61 +114,13 @@ Marcelino Nunez interview: Ipswich midfielder ready for hostile Norwich receptio
 
 ### Club Updates
 
-## Story 2: Alejandro Garnacho opens up on Manchester United exit, saying he did some 'bad things'
-**Slug (lower-third):** Alejandro Garnacho opens up on Manchester United exit, sa…  
-**When:** 2026-04-11 07:00 (America/Winnipeg)  •  **Published:** 2026-04-11 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Alejandro Garnacho opens up on Manchester United exit, saying he did some 'bad things'. Garnacho left Man Utd to join Chelsea last summer; Argentine says he only has good memories of his time at Old Trafford and reveals pride at joining Blues in PS40m deal; watch Man Utd vs Leeds on Monday Night Football, live on Sky Sports from 6.30pm; kick-off 8pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Alejandro Garnacho opens up on Manchester United exit, saying he did some 'bad things'. https://www.skysports.com/football/news/12040/13530397/alejandro-garnacho-opens-up-on-manchester-united-exit-saying-he-regrets-the-way-he-left-club
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Tyson Fury labelled best heavyweight in history by Arslanbek Makhmudov as Russian 'monster' threatens to retire Gypsy King
-**Slug (lower-third):** Tyson Fury labelled best heavyweight in history by Arslan…  
-**When:** 2026-04-11 07:00 (America/Winnipeg)  •  **Published:** 2026-04-11 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Tyson Fury labelled best heavyweight in history by Arslanbek Makhmudov as Russian 'monster' threatens to retire Gypsy King. Arslanbek Makhmudovs promoter says the Russian heavyweight can send Tyson Fury into retirement with an upset victory at Tottenham this Saturday; Fury insists a fight with Anthony Joshua is yet to be signed and that his focus is on facing the best ever version of Makhmudov Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Tyson Fury labelled best heavyweight in history by Arslanbek Makhmudov as Russian 'monster' threatens to retire Gypsy King. https://www.skysports.com/boxing/news/12040/13529995/tyson-fury-labelled-best-heavyweight-in-history-by-arslanbek-makhmudov-as-russian-monster-threatens-to-retire-gypsy-king
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Alejandro Garnacho on his time Manchester United exit and shows his gratitude to the club
-**Slug (lower-third):** Alejandro Garnacho on his time Manchester United exit and…  
-**When:** 2026-04-11 05:13 (America/Winnipeg)  •  **Published:** 2026-04-11 10:13 (UTC)  
+## Story 5: Liverpool 2-0 Fulham: Big win for Arne Slot as Rio Ngumoha opens Anfield account and Mo Salah scores second
+**Slug (lower-third):** Liverpool 2-0 Fulham: Big win for Arne Slot as Rio Ngumoh…  
+**When:** 2026-04-11 14:30 (America/Winnipeg)  •  **Published:** 2026-04-11 19:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Alejandro Garnacho on his time Manchester United exit and shows his gratitude to the club. Alejandro Garnacho opens up on his Manchester United exit, admitting he could have done things differently during his last six months before moving to Chelsea, and insists theres no bad blood with his former club. Relevance to standings and momentum.
+Liverpool 2-0 Fulham: Big win for Arne Slot as Rio Ngumoha opens Anfield account and Mo Salah scores second. Liverpool ended a run of three straight defeats and eased the pressure on Arne Slot with a 2-0 win over Fulham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +129,7 @@ Alejandro Garnacho on his time Manchester United exit and shows his gratitude to
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Alejandro Garnacho on his time Manchester United exit and shows his gratitude to the club. https://www.skysports.com/watch/video/13530408/alejandro-garnacho-opens-up-on-his-last-six-months-at-manchester-united-and-how-his-exit-played-out
+- skysports.com — Liverpool 2-0 Fulham: Big win for Arne Slot as Rio Ngumoha opens Anfield account and Mo Salah scores second. https://www.skysports.com/football/liverpool-vs-fulham/report/531444
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +138,13 @@ Alejandro Garnacho on his time Manchester United exit and shows his gratitude to
 
 ---
 
-## Story 5: Premier League darts 2026: Fixtures, results and table as Luke Littler, Luke Humphries, Gian van Veen, Michael van Gerwen and more feature
-**Slug (lower-third):** Premier League darts 2026: Fixtures, results and table as…  
-**When:** 2026-04-11 04:30 (America/Winnipeg)  •  **Published:** 2026-04-11 09:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 6: Rio Ngumoha sparks Liverpool win over wasteful Fulham with first Anfield goal
+**Slug (lower-third):** Rio Ngumoha sparks Liverpool win over wasteful Fulham wit…  
+**When:** 2026-04-11 13:34 (America/Winnipeg)  •  **Published:** 2026-04-11 18:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League darts 2026: Fixtures, results and table as Luke Littler, Luke Humphries, Gian van Veen, Michael van Gerwen and more feature. Luke Littler and Luke Humphries chasing second titles; Michael van Gerwen, Gerwyn Price, Josh Rock, Gian van Veen, Jonny Clayton and Stephen Bunting also feature; latest scores, results and schedule, with matches live every Thursday on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Rio Ngumoha sparks Liverpool win over wasteful Fulham with first Anfield goal. The 17-year-old Rio Ngumoha's superb strike and a fine Mo Salah goal gave Liverpool a 2-0 win, but Fulham missed chances to get back in the game Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +153,7 @@ Premier League darts 2026: Fixtures, results and table as Luke Littler, Luke Hum
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League darts 2026: Fixtures, results and table as Luke Littler, Luke Humphries, Gian van Veen, Michael van Gerwen and more feature. https://www.skysports.com/darts/news/12040/13501171/premier-league-darts-2026-schedule-fixtures-results-table-as-luke-littler-luke-humphries-gian-van-veen-all-feature
+- theguardian.com — Rio Ngumoha sparks Liverpool win over wasteful Fulham with first Anfield goal. https://www.theguardian.com/football/2026/apr/11/liverpool-fulham-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +162,13 @@ Premier League darts 2026: Fixtures, results and table as Luke Littler, Luke Hum
 
 ---
 
-## Story 6: Lotte Wubben-Moy finds 'perfect storm' to show she is more than England stand-in
-**Slug (lower-third):** Lotte Wubben-Moy finds 'perfect storm' to show she is mor…  
-**When:** 2026-04-11 04:00 (America/Winnipeg)  •  **Published:** 2026-04-11 09:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 7: Rio Ngumoha's dancing lights up Liverpool future on dramatic day for Arsenal - Premier League hits and misses
+**Slug (lower-third):** Rio Ngumoha's dancing lights up Liverpool future on drama…  
+**When:** 2026-04-11 13:00 (America/Winnipeg)  •  **Published:** 2026-04-11 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Lotte Wubben-Moy finds 'perfect storm' to show she is more than England stand-in. Arsenal defender on embracing her England chance, maintaining self-belief and sharing training tips with her cyclist partner, Tao Geoghegan Hart Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Rio Ngumoha's dancing lights up Liverpool future on dramatic day for Arsenal - Premier League hits and misses. The Sky Sports football writers analyse Rio Ngumoha underlining his special talent at just 17, Arsenal slipping up in the Premier League title race, Brentford being pegged back by Everton in European chase, and Brighton easing past Burnley Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +177,7 @@ Lotte Wubben-Moy finds 'perfect storm' to show she is more than England stand-in
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Lotte Wubben-Moy finds 'perfect storm' to show she is more than England stand-in. https://www.theguardian.com/football/2026/apr/11/lotte-wubben-moy-england-arsenal-tao-geoghegan-hart
+- skysports.com — Rio Ngumoha's dancing lights up Liverpool future on dramatic day for Arsenal - Premier League hits and misses. https://www.skysports.com/football/news/12040/13530402/rio-ngumohas-dancing-lights-up-liverpool-future-on-dramatic-day-for-arsenal-premier-league-hits-and-misses
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +186,13 @@ Lotte Wubben-Moy finds 'perfect storm' to show she is more than England stand-in
 
 ---
 
-## Story 7: Tyson Fury vs Arslanbek Makhmudov big-fight predictions: Who wins heavyweight clash at the Tottenham Hotspur Stadium?
-**Slug (lower-third):** Tyson Fury vs Arslanbek Makhmudov big-fight predictions: …  
-**When:** 2026-04-11 02:00 (America/Winnipeg)  •  **Published:** 2026-04-11 07:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~27s
+## Story 8: Premier League: Arsenal have given Man City hope in title race - Chris Sutton
+**Slug (lower-third):** Premier League: Arsenal have given Man City hope in title…  
+**When:** 2026-04-11 12:18 (America/Winnipeg)  •  **Published:** 2026-04-11 17:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tyson Fury vs Arslanbek Makhmudov big-fight predictions: Who wins heavyweight clash at the Tottenham Hotspur Stadium?. Tyson Fury comes out of a year-long retirement to fight Arslanbek Makhmudov at the Tottenham Hotspur Stadium on Saturday; Heavyweight legend Lennox Lewis, former champion David Haye, title challenger Dillian Whyte and more give their expert analysis of Furys comeback bout with Makhmudov Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: Arsenal have given Man City hope in title race - Chris Sutton. The Final Score pundits react to Arsenal's loss to Bournemouth. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +201,7 @@ Tyson Fury vs Arslanbek Makhmudov big-fight predictions: Who wins heavyweight cl
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tyson Fury vs Arslanbek Makhmudov big-fight predictions: Who wins heavyweight clash at the Tottenham Hotspur Stadium?. https://www.skysports.com/boxing/news/12040/13530275/tyson-fury-vs-arslanbek-makhmudov-big-fight-predictions-who-wins-heavyweight-clash-at-the-tottenham-hotspur-stadium
+- bbc.com — Premier League: Arsenal have given Man City hope in title race - Chris Sutton. https://www.bbc.com/sport/football/videos/cn0wyynrwkqo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +210,13 @@ Tyson Fury vs Arslanbek Makhmudov big-fight predictions: Who wins heavyweight cl
 
 ---
 
-## Story 8: 'His car stunk of fish for weeks': Elliot Anderson on practical jokes and his World Cup dream
-**Slug (lower-third):** 'His car stunk of fish for weeks': Elliot Anderson on pra…  
-**When:** 2026-04-11 02:00 (America/Winnipeg)  •  **Published:** 2026-04-11 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 9: Southampton 2-1 Derby: Saints continue relentless run to climb to fifth
+**Slug (lower-third):** Southampton 2-1 Derby: Saints continue relentless run to …  
+**When:** 2026-04-11 12:15 (America/Winnipeg)  •  **Published:** 2026-04-11 17:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'His car stunk of fish for weeks': Elliot Anderson on practical jokes and his World Cup dream. Midfielder tells Ben Fisher about the prank-fuelled promotion at Bristol Rovers that kickstarted his career, confidence in Nottingham Forest's survival and modelling for England Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Southampton 2-1 Derby: Saints continue relentless run to climb to fifth. Southampton continued their march up the Championship table as they came from behind to beat fellow play-off hopefuls Derby 2-1 at St Mary's. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +225,7 @@ Tyson Fury vs Arslanbek Makhmudov big-fight predictions: Who wins heavyweight cl
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'His car stunk of fish for weeks': Elliot Anderson on practical jokes and his World Cup dream. https://www.theguardian.com/football/2026/apr/11/elliot-anderson-nottingham-forest-england
+- skysports.com — Southampton 2-1 Derby: Saints continue relentless run to climb to fifth. https://www.skysports.com/football/southampton-vs-derby-county/report/534820
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +234,13 @@ Tyson Fury vs Arslanbek Makhmudov big-fight predictions: Who wins heavyweight cl
 
 ---
 
-## Story 9: Premier League title race: Could April decide destiny for Arsenal and Man City?
-**Slug (lower-third):** Premier League title race: Could April decide destiny for…  
-**When:** 2026-04-11 01:01 (America/Winnipeg)  •  **Published:** 2026-04-11 06:01 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 10: How Bournemouth moved on from losing Antoine Semenyo
+**Slug (lower-third):** How Bournemouth moved on from losing Antoine Semenyo  
+**When:** 2026-04-11 12:10 (America/Winnipeg)  •  **Published:** 2026-04-11 17:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League title race: Could April decide destiny for Arsenal and Man City?. As the Premier League season approaches its finale, April could be the defining month for leaders Arsenal and closest challengers Manchester City. BBC Sport looks at the stats to explain why. Relevance to standings and momentum.
+How Bournemouth moved on from losing Antoine Semenyo. Bournemouth have not lost a game since star forward Antoine Semenyo left for Manchester City in January - how have they done it? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,31 +249,7 @@ Premier League title race: Could April decide destiny for Arsenal and Man City?.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League title race: Could April decide destiny for Arsenal and Man City?. https://www.bbc.com/sport/football/articles/cy81j3dd7m5o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Ollie Watkins reveals he has spoken to Michael Owen about his 'difficult' season
-**Slug (lower-third):** Ollie Watkins reveals he has spoken to Michael Owen about…  
-**When:** 2026-04-11 00:06 (America/Winnipeg)  •  **Published:** 2026-04-11 05:06 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ollie Watkins reveals he has spoken to Michael Owen about his 'difficult' season. Ollie Watkins speaks to Kelly Somers about Aston Villa, England and his World Cup dream. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Ollie Watkins reveals he has spoken to Michael Owen about his 'difficult' season. https://www.bbc.com/sport/football/articles/c87w429w3j5o?at_medium=RSS&at_campaign=rss
+- bbc.com — How Bournemouth moved on from losing Antoine Semenyo. https://www.bbc.com/sport/football/articles/cwyv1wxjd45o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
