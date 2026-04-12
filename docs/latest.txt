@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-11 21:47 (America/Winnipeg)  |  2026-04-12 02:47 (UTC)
+**Generated:** 2026-04-12 02:17 (America/Winnipeg)  |  2026-04-12 07:17 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 38s
+**Estimated total video length:** ~4m 31s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
+- 'Tottenham will go down from the Premier League ' - Chris Sutton
+- Alejandro Garnacho: What is going on with Chelsea winger?
 - Match of the Day: Should Liverpool start Rio Ngumoha against PSG?
-- Premier League: The impact 'complete' striker Igor Thiago has on Brentford
-- Match of the Day: Arsenal looked 'weak, vulnerable and very, very nervous' - Alan Shearer
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Morgan Rogers: Potential transfer could yield a world record sell-on fee for Middlesbrough - Paper Talk and football transfer gossip
 **Slug (lower-third):** Morgan Rogers: Potential transfer could yield a world rec…  
 **When:** 2026-04-11 17:00 (America/Winnipeg)  •  **Published:** 2026-04-11 22:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~23s
+**Virality score:** 92  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
 Morgan Rogers: Potential transfer could yield a world record sell-on fee for Middlesbrough - Paper Talk and football transfer gossip. Sundays top stories include more reaction to Enzo Fernandez being dropped for Chelsea and Fulham exploring a deal for Bayer Leverkusens 23-year-old attacking midfielder Malik Tillman Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -45,7 +45,7 @@ Morgan Rogers: Potential transfer could yield a world record sell-on fee for Mid
 ## Story 2: Tyson Fury returns to boxing to beat Arslanbek Makhmudov as mega-fight with Anthony Joshua looms later this year
 **Slug (lower-third):** Tyson Fury returns to boxing to beat Arslanbek Makhmudov …  
 **When:** 2026-04-11 16:00 (America/Winnipeg)  •  **Published:** 2026-04-11 21:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~28s
+**Virality score:** 90  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 Tyson Fury returns to boxing to beat Arslanbek Makhmudov as mega-fight with Anthony Joshua looms later this year. Tyson Fury comes back after over a year-long retirement from boxing to hand Arslanbek Makhmudov a decision defeat at the Tottenham Hotspur Stadium; With Anthony Joshua watching from ringside "the biggest fight in the history of England between pair beckons for later in the year Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -68,10 +68,58 @@ Tyson Fury returns to boxing to beat Arslanbek Makhmudov as mega-fight with Anth
 
 ### Club Updates
 
-## Story 3: Match of the Day: Should Liverpool start Rio Ngumoha against PSG?
+## Story 3: 'Tottenham will go down from the Premier League ' - Chris Sutton
+**Slug (lower-third):** 'Tottenham will go down from the Premier League ' - Chris…  
+**When:** 2026-04-12 01:00 (America/Winnipeg)  •  **Published:** 2026-04-12 06:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'Tottenham will go down from the Premier League ' - Chris Sutton. Football Focus pundits Chris Sutton and Steph Houghton discuss whether Roberto de Zerbi can improve Spurs and keep them in the Premier League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — 'Tottenham will go down from the Premier League ' - Chris Sutton. https://www.bbc.com/sport/football/videos/crk1r774yxgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Alejandro Garnacho: What is going on with Chelsea winger?
+**Slug (lower-third):** Alejandro Garnacho: What is going on with Chelsea winger?  
+**When:** 2026-04-12 00:50 (America/Winnipeg)  •  **Published:** 2026-04-12 05:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Alejandro Garnacho: What is going on with Chelsea winger?. Alejandro Garnacho is struggling to stand out at Chelsea - so can the APS40m signing from Manchester United still realise his potential at Stamford Bridge? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Alejandro Garnacho: What is going on with Chelsea winger?. https://www.bbc.com/sport/football/articles/c8x71741kkdo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Match of the Day: Should Liverpool start Rio Ngumoha against PSG?
 **Slug (lower-third):** Match of the Day: Should Liverpool start Rio Ngumoha agai…  
 **When:** 2026-04-11 17:57 (America/Winnipeg)  •  **Published:** 2026-04-11 22:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Match of the Day: Should Liverpool start Rio Ngumoha against PSG?. Alan Shearer and Danny Murphy debate whether 17-year-old Rio Ngumoha should start for Liverpool in their Champions League quarter-final second leg against PSG, after starring and scoring in the Reds' 2-0 win over Fulham. Relevance to standings and momentum.
@@ -92,10 +140,10 @@ Match of the Day: Should Liverpool start Rio Ngumoha against PSG?. Alan Shearer 
 
 ---
 
-## Story 4: Premier League: The impact 'complete' striker Igor Thiago has on Brentford
+## Story 6: Premier League: The impact 'complete' striker Igor Thiago has on Brentford
 **Slug (lower-third):** Premier League: The impact 'complete' striker Igor Thiago…  
 **When:** 2026-04-11 17:57 (America/Winnipeg)  •  **Published:** 2026-04-11 22:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League: The impact 'complete' striker Igor Thiago has on Brentford. Match of the Day's Alan Shearer analyses the performance of Brentford's Igor Thiago, as the Brazilian striker took his Premier League tally to 21 goals with a brace in his side's 2-2 draw with Everton. Relevance to standings and momentum.
@@ -116,10 +164,10 @@ Premier League: The impact 'complete' striker Igor Thiago has on Brentford. Matc
 
 ---
 
-## Story 5: Match of the Day: Arsenal looked 'weak, vulnerable and very, very nervous' - Alan Shearer
+## Story 7: Match of the Day: Arsenal looked 'weak, vulnerable and very, very nervous' - Alan Shearer
 **Slug (lower-third):** Match of the Day: Arsenal looked 'weak, vulnerable and ve…  
 **When:** 2026-04-11 17:57 (America/Winnipeg)  •  **Published:** 2026-04-11 22:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Match of the Day: Arsenal looked 'weak, vulnerable and very, very nervous' - Alan Shearer. Match of the Day pundits Alan Shearer and Danny Murphy look at how a "nervous" Arsenal side dropped points in the title race with a 2-1 home defeat to Bournemouth. Relevance to standings and momentum.
@@ -140,34 +188,10 @@ Match of the Day: Arsenal looked 'weak, vulnerable and very, very nervous' - Ala
 
 ---
 
-## Story 6: Match of the Day - 2025/26: 11/04/2026
-**Slug (lower-third):** Match of the Day - 2025/26: 11/04/2026  
-**When:** 2026-04-11 17:36 (America/Winnipeg)  •  **Published:** 2026-04-11 22:36 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Match of the Day - 2025/26: 11/04/2026. Highlights from five Premier League games as the season enters the final stretch. Leaders Arsenal are at home to Bournemouth looking to widen the gap at the top of the table. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Match of the Day - 2025/26: 11/04/2026. https://www.bbc.co.uk/iplayer/episode/m002v3p1/match-of-the-day-202526-11042026?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Football gossip: Gordon, Anderson, Minteh, Mingueza, Doekhi, Vermeeren, Schlotterbeck
+## Story 8: Football gossip: Gordon, Anderson, Minteh, Mingueza, Doekhi, Vermeeren, Schlotterbeck
 **Slug (lower-third):** Football gossip: Gordon, Anderson, Minteh, Mingueza, Doek…  
 **When:** 2026-04-11 17:08 (America/Winnipeg)  •  **Published:** 2026-04-11 22:08 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Gordon, Anderson, Minteh, Mingueza, Doekhi, Vermeeren, Schlotterbeck. Bayern Munich express interest in Anthony Gordon, Manchester United hope to beat their rivals to Elliot Anderson, Liverpool consider Brighton's Yankuba Minteh, plus more. Relevance to standings and momentum.
@@ -188,10 +212,10 @@ Football gossip: Gordon, Anderson, Minteh, Mingueza, Doekhi, Vermeeren, Schlotte
 
 ---
 
-## Story 8: Rio Ngumoha: Will Arne Slot play Liverpool teenager against PSG?
+## Story 9: Rio Ngumoha: Will Arne Slot play Liverpool teenager against PSG?
 **Slug (lower-third):** Rio Ngumoha: Will Arne Slot play Liverpool teenager again…  
 **When:** 2026-04-11 15:52 (America/Winnipeg)  •  **Published:** 2026-04-11 20:52 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Rio Ngumoha: Will Arne Slot play Liverpool teenager against PSG?. Liverpool's 17-year-old star Rio Ngumoha stole the show against Fulham - will Arne Slot now start him against PSG? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -212,34 +236,10 @@ Rio Ngumoha: Will Arne Slot play Liverpool teenager against PSG?. Liverpool's 17
 
 ---
 
-## Story 9: Anthony Joshua vs Tyson Fury: British heavyweights will 'probably' clash next but AJ refuses to confirm showdown
-**Slug (lower-third):** Anthony Joshua vs Tyson Fury: British heavyweights will '…  
-**When:** 2026-04-11 15:39 (America/Winnipeg)  •  **Published:** 2026-04-11 20:39 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Anthony Joshua vs Tyson Fury: British heavyweights will 'probably' clash next but AJ refuses to confirm showdown. Im not here to get in the ring and start shouting in somebodys face, says Anthony Joshua after awkward stand-off following Tyson Furys victory over Arslanbek Makhmudov at the Tottenham Hotspur Stadium; Turki Alalshikh had earlier teased a major fight announcement Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Anthony Joshua vs Tyson Fury: British heavyweights will 'probably' clash next but AJ refuses to confirm showdown. https://www.skysports.com/boxing/news/12040/13530782/anthony-joshua-vs-tyson-fury-british-heavyweights-will-probably-clash-next-but-aj-refuses-to-confirm-showdown
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 10: Aaron McLean's EFL takeaways: Ipswich Town looking good but Leicester City doomed
 **Slug (lower-third):** Aaron McLean's EFL takeaways: Ipswich Town looking good b…  
 **When:** 2026-04-11 14:45 (America/Winnipeg)  •  **Published:** 2026-04-11 19:45 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Aaron McLean's EFL takeaways: Ipswich Town looking good but Leicester City doomed. Final Score EFL pundit Aaron McLean reflects on the highs and lows after Saturday's action. Relevance to standings and momentum.
