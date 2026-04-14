@@ -1,25 +1,75 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-14 08:46 (America/Winnipeg)  |  2026-04-14 13:46 (UTC)
+**Generated:** 2026-04-14 14:19 (America/Winnipeg)  |  2026-04-14 19:19 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 42s
+**Estimated total video length:** ~4m 52s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Mikel Arteta: Arsenal manager admits he is on 'fire' as he responds to claims his team are bottling their season
-- Mikel Arteta adamant there is 'zero fear' for Arsenal run in
-- Will Andoni Iraola's Bournemouth departure speed up the managerial merry-go-round?
+- Javier Mascherano leaves Inter Miami role
+- Man Utd denied penalty at Bournemouth due to 'speed of attackers' as Amad Diallo and Evanilson incidents analysed
+- Antoine Semenyo: Man City forward highlights further racial abuse
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Mikel Arteta: Arsenal manager admits he is on 'fire' as he responds to claims his team are bottling their season
+## Story 1: Javier Mascherano leaves Inter Miami role
+**Slug (lower-third):** Javier Mascherano leaves Inter Miami role  
+**When:** 2026-04-14 12:20 (America/Winnipeg)  •  **Published:** 2026-04-14 17:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Javier Mascherano leaves Inter Miami role. Former Liverpool and Barcelona midfielder Javier Mascherano steps down as manager of MLS side Inter Miami. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Javier Mascherano leaves Inter Miami role. https://www.bbc.com/sport/football/articles/cd7jj8x1dq1o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Andoni Iraola to leave Bournemouth at the end of the season
+**Slug (lower-third):** Andoni Iraola to leave Bournemouth at the end of the seas…  
+**When:** 2026-04-14 09:39 (America/Winnipeg)  •  **Published:** 2026-04-14 14:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Andoni Iraola to leave Bournemouth at the end of the season. Bournemouth manager Andoni Iraola is to leave at the end of the season, the club have announced. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- espn.com — Andoni Iraola to leave Bournemouth at the end of the season. https://www.espn.com/soccer/story/_/id/48483590/andoni-iraola-leave-bournemouth-end-season
+- theguardian.com — Iraola to leave Bournemouth at end of season with Premier League rivals on notice. https://www.theguardian.com/football/2026/apr/14/andoni-iraola-leave-bournemouth-end-of-season-football
+- skysports.com — Andoni Iraola: Bournemouth head coach to leave at end of season. https://www.skysports.com/football/news/12040/13531626/andoni-iraola-bournemouth-head-coach-to-leave-at-end-of-season
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Mikel Arteta: Arsenal manager admits he is on 'fire' as he responds to claims his team are bottling their season
 **Slug (lower-third):** Mikel Arteta: Arsenal manager admits he is on 'fire' as h…  
 **When:** 2026-04-14 09:12 (America/Winnipeg)  •  **Published:** 2026-04-14 14:12 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+**Virality score:** 98  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
 Mikel Arteta: Arsenal manager admits he is on 'fire' as he responds to claims his team are bottling their season. Arsenal face Sporting CP in the Champions League quarter-final second leg, leading 1-0; the Gunners have been beaten in three out of their last four matches and Mikel Arteta has been questioned recently; Arteta wants to see no fear, pure fire from his team in the coming weeks Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -40,63 +90,15 @@ Mikel Arteta: Arsenal manager admits he is on 'fire' as he responds to claims hi
 
 ---
 
-## Story 2: Will Andoni Iraola's Bournemouth departure speed up the managerial merry-go-round?
-**Slug (lower-third):** Will Andoni Iraola's Bournemouth departure speed up the m…  
-**When:** 2026-04-14 08:05 (America/Winnipeg)  •  **Published:** 2026-04-14 13:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Will Andoni Iraola's Bournemouth departure speed up the managerial merry-go-round?. Andoni Iraola's decision to leave Bournemouth could make it a frantic summer in the Premier League's managerial market, says chief football writer Phil McNulty. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Will Andoni Iraola's Bournemouth departure speed up the managerial merry-go-round?. https://www.bbc.com/sport/football/articles/ckgeerk761mo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Premier League: Nedum Onuoha backs Roberto de Zerbi's plan to focus on raising confidence at Tottenham
-**Slug (lower-third):** Premier League: Nedum Onuoha backs Roberto de Zerbi's pla…  
-**When:** 2026-04-14 05:35 (America/Winnipeg)  •  **Published:** 2026-04-14 10:35 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Premier League: Nedum Onuoha backs Roberto de Zerbi's plan to focus on raising confidence at Tottenham. Speaking on the Monday Night Club, former Premier League defender Nedum Onuoha says new Tottenham head coach Roberto de Zerbi is right to focus on raising morale rather than tactics as he looks to keep the club in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League: Nedum Onuoha backs Roberto de Zerbi's plan to focus on raising confidence at Tottenham. https://www.bbc.com/sport/football/videos/czd77lnnp3mo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Transfers
 
-## Story 4: Mikel Arteta adamant there is 'zero fear' for Arsenal run in
-**Slug (lower-third):** Mikel Arteta adamant there is 'zero fear' for Arsenal run…  
-**When:** 2026-04-14 08:49 (America/Winnipeg)  •  **Published:** 2026-04-14 13:49 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Chelsea Q&A: Liam Rosenior future, transfer plans and importance of Champions League qualification
+**Slug (lower-third):** Chelsea Q&A: Liam Rosenior future, transfer plans and imp…  
+**When:** 2026-04-14 10:00 (America/Winnipeg)  •  **Published:** 2026-04-14 15:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Mikel Arteta adamant there is 'zero fear' for Arsenal run in. Mikel Arteta responds to questions around Arsenal feeling anxious heading into the final stages of the season. Implications for the squad and table.
+Chelsea Q&A: Liam Rosenior future, transfer plans and importance of Champions League qualification. How much pressure is Liam Rosenior under? Will he keep his job without a top-five finish? What would missing out on the Champions League mean for Chelsea? How busy will Chelsea be in the summer transfer window? Sky Sports News chief correspondent Kaveh Solhekol answers the key questions Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +107,83 @@ Mikel Arteta adamant there is 'zero fear' for Arsenal run in. Mikel Arteta respo
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Mikel Arteta adamant there is 'zero fear' for Arsenal run in. https://www.skysports.com/watch/video/13531672/mikel-arteta-adamant-there-is-zero-fear-for-arsenal-run-in
+- skysports.com — Chelsea Q&A: Liam Rosenior future, transfer plans and importance of Champions League qualification. https://www.skysports.com/football/news/12040/13531667/chelsea-qa-liam-rosenior-future-transfer-plans-and-importance-of-champions-league-qualification
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 5: Arsenal injury worries pile up with doubts over return of Saka from achilles issue
+**Slug (lower-third):** Arsenal injury worries pile up with doubts over return of…  
+**When:** 2026-04-14 09:43 (America/Winnipeg)  •  **Published:** 2026-04-14 14:43 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Arsenal injury worries pile up with doubts over return of Saka from achilles issue. Mikel Arteta has insisted that he has 'zero fear' that Arsenal could end the season without silverware amid major doubts over when Bukayo Saka will return from an achilles injury Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Arsenal injury worries pile up with doubts over return of Saka from achilles issue. https://www.theguardian.com/football/2026/apr/14/arsenal-sporting-champions-league-mikel-arteta-bukayo-saka-football
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 6: Should hair pulling be violent conduct? Does it deserve three-match ban?
+**Slug (lower-third):** Should hair pulling be violent conduct? Does it deserve t…  
+**When:** 2026-04-14 10:15 (America/Winnipeg)  •  **Published:** 2026-04-14 15:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Should hair pulling be violent conduct? Does it deserve three-match ban?. Manchester United's Lisandro Martinez faces a three-match ban for pulling Dominic Calvert-Lewin's hair. Is the punishment fair? Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Should hair pulling be violent conduct? Does it deserve three-match ban?. https://www.bbc.com/sport/football/articles/ckgrrywkvvvo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Football Daily | Manchester United are pulling their hair out but rules are rules
+**Slug (lower-third):** Football Daily | Manchester United are pulling their hair…  
+**When:** 2026-04-14 09:08 (America/Winnipeg)  •  **Published:** 2026-04-14 14:08 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football Daily | Manchester United are pulling their hair out but rules are rules. In today's Football Daily: A hair-raising incident at Old Trafford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Football Daily | Manchester United are pulling their hair out but rules are rules. https://www.theguardian.com/football/2026/apr/14/manchester-united-leeds-hair-pulling-football-daily-newsletter
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +194,37 @@ Mikel Arteta adamant there is 'zero fear' for Arsenal run in. Mikel Arteta respo
 
 ### Club Updates
 
-## Story 5: Iraola to leave Bournemouth at end of season with Premier League rivals on notice
-**Slug (lower-third):** Iraola to leave Bournemouth at end of season with Premier…  
-**When:** 2026-04-14 08:03 (America/Winnipeg)  •  **Published:** 2026-04-14 13:03 (UTC)  
+## Story 8: Man Utd denied penalty at Bournemouth due to 'speed of attackers' as Amad Diallo and Evanilson incidents analysed
+**Slug (lower-third):** Man Utd denied penalty at Bournemouth due to 'speed of at…  
+**When:** 2026-04-14 12:00 (America/Winnipeg)  •  **Published:** 2026-04-14 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+Man Utd denied penalty at Bournemouth due to 'speed of attackers' as Amad Diallo and Evanilson incidents analysed. Manchester United were denied a penalty and had one awarded against them in two similar incidents during their 2-2 draw at Bournemouth in March; Watch Match Officials Micd Up on Sky Sports Premier League tonight at 10.30pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man Utd denied penalty at Bournemouth due to 'speed of attackers' as Amad Diallo and Evanilson incidents analysed. https://www.skysports.com/football/news/12040/13531663/man-utd-denied-penalty-at-bournemouth-due-to-speed-of-attackers-as-amad-diallo-and-evanilson-incidents-analysed
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Antoine Semenyo: Man City forward highlights further racial abuse
+**Slug (lower-third):** Antoine Semenyo: Man City forward highlights further raci…  
+**When:** 2026-04-14 11:39 (America/Winnipeg)  •  **Published:** 2026-04-14 16:39 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Iraola to leave Bournemouth at end of season with Premier League rivals on notice. Andoni Iraola has informed Bournemouth he will leave the club at the end of the season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Antoine Semenyo: Man City forward highlights further racial abuse. Manchester City forward Antoine Semenyo has highlighted further racial abuse he has received this season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,8 +233,7 @@ Iraola to leave Bournemouth at end of season with Premier League rivals on notic
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Iraola to leave Bournemouth at end of season with Premier League rivals on notice. https://www.theguardian.com/football/2026/apr/14/andoni-iraola-leave-bournemouth-end-of-season-football
-- skysports.com — Andoni Iraola: Bournemouth head coach to leave at end of season. https://www.skysports.com/football/news/12040/13531626/andoni-iraola-bournemouth-head-coach-to-leave-at-end-of-season
+- bbc.com — Antoine Semenyo: Man City forward highlights further racial abuse. https://www.bbc.com/sport/football/articles/c5yww2pl869o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,13 +242,13 @@ Iraola to leave Bournemouth at end of season with Premier League rivals on notic
 
 ---
 
-## Story 6: Jamie Carragher Top 10 Central Midfielders in Premier League history
-**Slug (lower-third):** Jamie Carragher Top 10 Central Midfielders in Premier Lea…  
-**When:** 2026-04-14 06:12 (America/Winnipeg)  •  **Published:** 2026-04-14 11:12 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Premier League Darts: Will defending champion Luke Humphries miss out on the top four and fail to make the Play-Offs at London's O2?
+**Slug (lower-third):** Premier League Darts: Will defending champion Luke Humphr…  
+**When:** 2026-04-14 09:45 (America/Winnipeg)  •  **Published:** 2026-04-14 14:45 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Jamie Carragher Top 10 Central Midfielders in Premier League history. Jamie Carragher picks his top ten central midfielders in Premier League history. Relevance to standings and momentum.
+Premier League Darts: Will defending champion Luke Humphries miss out on the top four and fail to make the Play-Offs at London's O2?. Luke Humphries finds himself under pressure in his defence of the Premier League title with a clash against Gian van Veen in Rotterdam on Thursday from 6pm to come; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,103 +257,7 @@ Jamie Carragher Top 10 Central Midfielders in Premier League history. Jamie Carr
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Jamie Carragher Top 10 Central Midfielders in Premier League history. https://www.skysports.com/watch/video/13531618/jamie-carragher-top-10-central-midfielders-in-premier-league-history
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Mark Goldbridge: Gary Neville's The Overlap buys Manchester United influencer's YouTube channels
-**Slug (lower-third):** Mark Goldbridge: Gary Neville's The Overlap buys Manchest…  
-**When:** 2026-04-14 05:43 (America/Winnipeg)  •  **Published:** 2026-04-14 10:43 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Mark Goldbridge: Gary Neville's The Overlap buys Manchester United influencer's YouTube channels. Gary Neville's The Overlap buys Manchester United influencer Mark Goldbridge's YouTube channels. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Mark Goldbridge: Gary Neville's The Overlap buys Manchester United influencer's YouTube channels. https://www.bbc.com/sport/football/articles/c62jj766py3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Scotland: Aston Villa midfielder Miri Taylor on 'maturing' to play for country
-**Slug (lower-third):** Scotland: Aston Villa midfielder Miri Taylor on 'maturing…  
-**When:** 2026-04-14 02:59 (America/Winnipeg)  •  **Published:** 2026-04-14 07:59 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Scotland: Aston Villa midfielder Miri Taylor on 'maturing' to play for country. Miri Taylor "wasn't in the right headspace" to play for Scotland until she moved to Aston Villa. Now, she's striving for next summer's World Cup. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Scotland: Aston Villa midfielder Miri Taylor on 'maturing' to play for country. https://www.bbc.com/sport/football/articles/c33lm6lg00jo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Luis Garcia: 'I didn't expect football to give me that again. But there I was, crying'
-**Slug (lower-third):** Luis Garcia: 'I didn't expect football to give me that ag…  
-**When:** 2026-04-14 02:01 (America/Winnipeg)  •  **Published:** 2026-04-14 07:01 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Luis Garcia: 'I didn't expect football to give me that again. But there I was, crying'. The Liverpool legend Luis Garcia tells Sid Lowe about his memories of Istanbul, learning magic and his adventures in Malaysia with Johor Darul Ta'zim Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Luis Garcia: 'I didn't expect football to give me that again. But there I was, crying'. https://www.theguardian.com/football/2026/apr/14/luis-garcia-i-didnt-expect-football-to-give-me-that-again-but-there-i-was-crying
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Ipswich to edge closer to Premier League and Southampton to march on? | EFL on Tuesday night live on Sky Sports
-**Slug (lower-third):** Ipswich to edge closer to Premier League and Southampton …  
-**When:** 2026-04-14 01:00 (America/Winnipeg)  •  **Published:** 2026-04-14 06:00 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Ipswich to edge closer to Premier League and Southampton to march on? | EFL on Tuesday night live on Sky Sports. It is set to be another defining night in the EFL on Tuesday night with eight games live on Sky; watch Portsmouth vs Ipswich and Southampton vs Blackburn on Sky Sports, while there are also live games from League One and League Two Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Ipswich to edge closer to Premier League and Southampton to march on? | EFL on Tuesday night live on Sky Sports. https://www.skysports.com/football/news/12040/13531264/ipswich-to-edge-closer-to-premier-league-and-southampton-to-march-on-efl-on-tuesday-night-live-on-sky-sports
+- skysports.com — Premier League Darts: Will defending champion Luke Humphries miss out on the top four and fail to make the Play-Offs at London's O2?. https://www.skysports.com/darts/news/12040/13531668/premier-league-darts-will-defending-champion-luke-humphries-miss-out-on-the-top-four-and-fail-to-make-the-play-offs-at-londons-o2
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
