@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-15 08:29 (America/Winnipeg)  |  2026-04-15 13:29 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2026-04-15 14:20 (America/Winnipeg)  |  2026-04-15 19:20 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 24s
+**Estimated total video length:** ~3m 23s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Anthony Gordon: Newcastle forward's future amid Bayern and Arsenal links
-- Hugo Ekitike injury: Liverpool striker suffers suspected Achilles injury with fears he could miss at least six months
-- Liverpool: Arne Slot says VAR has gone against his side this season - is he right?
+- Hugo Ekitike injury: France striker to miss World Cup, says Didier Deschamps
+- Chris Wood: Striker opens up about knee injury recovery
+- Antoine Semenyo: Manchester City supporting forward after further racist abuse
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Bournemouth: Kieran McKenna on shortlist but Marco Rose believed to be frontrunner to replace Andoni Iraola
-**Slug (lower-third):** Bournemouth: Kieran McKenna on shortlist but Marco Rose b…  
-**When:** 2026-04-15 05:01 (America/Winnipeg)  •  **Published:** 2026-04-15 10:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 1: Hugo Ekitike injury: France striker to miss World Cup, says Didier Deschamps
+**Slug (lower-third):** Hugo Ekitike injury: France striker to miss World Cup, sa…  
+**When:** 2026-04-15 13:46 (America/Winnipeg)  •  **Published:** 2026-04-15 18:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bournemouth: Kieran McKenna on shortlist but Marco Rose believed to be frontrunner to replace Andoni Iraola. Bournemouth head coach Andoni Iraola is leaving at the end of the season; Sky Sports News understands the club have a shortlist of three potential successors that includes Ipswichs Kieran McKenna; However, Marco Rose is believed to be the frontrunner Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Hugo Ekitike injury: France striker to miss World Cup, says Didier Deschamps. France manager Didier Deschamps confirms striker Hugo Ekitike will miss the rest of the season and World Cup after suffering a suspected Achilles injury during Liverpool's Champions League quarter-final defeat by Paris St-Germain on Tuesday. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,57 +31,7 @@ Bournemouth: Kieran McKenna on shortlist but Marco Rose believed to be frontrunn
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Bournemouth: Kieran McKenna on shortlist but Marco Rose believed to be frontrunner to replace Andoni Iraola. https://www.skysports.com/football/news/12040/13532012/bournemouth-kieran-mckenna-on-shortlist-but-marco-rose-believed-to-be-frontrunner-to-replace-andoni-iraola
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: 'No fear. Pure fire': Mikel Arteta rallies wounded Arsenal before Sporting test
-**Slug (lower-third):** 'No fear. Pure fire': Mikel Arteta rallies wounded Arsena…  
-**When:** 2026-04-15 02:00 (America/Winnipeg)  •  **Published:** 2026-04-15 07:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-'No fear. Pure fire': Mikel Arteta rallies wounded Arsenal before Sporting test. The manager called on players and fans to embrace the chance of Champions League success despite three defeats in four domestic matches Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — 'No fear. Pure fire': Mikel Arteta rallies wounded Arsenal before Sporting test. https://www.theguardian.com/football/2026/apr/15/mikel-arteta-arsenal-sporting-champions-league-quarter-final-second-leg
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 3: Liverpool need to sell before buying this summer, says Arne Slot as pressure mounts after Champions League exit
-**Slug (lower-third):** Liverpool need to sell before buying this summer, says Ar…  
-**When:** 2026-04-15 04:52 (America/Winnipeg)  •  **Published:** 2026-04-15 09:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Liverpool need to sell before buying this summer, says Arne Slot as pressure mounts after Champions League exit. Liverpool are reaching the end of a cycle but Arne Slot says they need to sell before they can buy in this summers transfer window; watch Everton vs Liverpool live on Sky Sports Premier League and Main Event on Sunday; kick-off 2pm Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Liverpool need to sell before buying this summer, says Arne Slot as pressure mounts after Champions League exit. https://www.skysports.com/football/news/12040/13532007/liverpool-need-to-sell-before-buying-this-summer-says-arne-slot-as-pressure-mounts-after-champions-league-exit
+- bbc.com — Hugo Ekitike injury: France striker to miss World Cup, says Didier Deschamps. https://www.bbc.com/sport/football/articles/c4g443g0l76o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +42,13 @@ Liverpool need to sell before buying this summer, says Arne Slot as pressure mou
 
 ### Injuries
 
-## Story 4: Hugo Ekitike injury: Liverpool striker suffers suspected Achilles injury with fears he could miss at least six months
-**Slug (lower-third):** Hugo Ekitike injury: Liverpool striker suffers suspected …  
-**When:** 2026-04-15 07:00 (America/Winnipeg)  •  **Published:** 2026-04-15 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+## Story 2: Chris Wood: Striker opens up about knee injury recovery
+**Slug (lower-third):** Chris Wood: Striker opens up about knee injury recovery  
+**When:** 2026-04-15 13:10 (America/Winnipeg)  •  **Published:** 2026-04-15 18:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Hugo Ekitike injury: Liverpool striker suffers suspected Achilles injury with fears he could miss at least six months. Hugo Ekitike has suffered a suspected Achilles injury and there are growing fears he could miss at least six months; Ekitike suffered the injury in the 2-0 loss to Paris Saint-Germain on Wednesday; the striker is set for scans to determine the full extent of the setback Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Chris Wood: Striker opens up about knee injury recovery. Nottingham Forest striker Chris Wood says it felt like there was "no light at the end of the tunnel" during parts of his recovery. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +57,105 @@ Hugo Ekitike injury: Liverpool striker suffers suspected Achilles injury with fe
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Hugo Ekitike injury: Liverpool striker suffers suspected Achilles injury with fears he could miss at least six months. https://www.skysports.com/football/news/12040/13531985/hugo-ekitike-injury-liverpool-striker-suffers-suspected-achilles-injury-with-fears-he-could-miss-at-least-six-months
+- bbc.com — Chris Wood: Striker opens up about knee injury recovery. https://www.bbc.com/sport/football/videos/crk11gx1ej0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Nottingham Forest striker Chris Wood must manage knee injury for rest of his life
+**Slug (lower-third):** Nottingham Forest striker Chris Wood must manage knee inj…  
+**When:** 2026-04-15 11:04 (America/Winnipeg)  •  **Published:** 2026-04-15 16:04 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Nottingham Forest striker Chris Wood must manage knee injury for rest of his life. Nottingham Forest striker Chris Wood will have to manage his knee injury for the rest of his life. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Nottingham Forest striker Chris Wood must manage knee injury for rest of his life. https://www.bbc.com/sport/football/articles/cy711l1ryv6o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Slot's misplaced positivity does not tally with harsh reality of Liverpool's season | Andy Hunter
+**Slug (lower-third):** Slot's misplaced positivity does not tally with harsh rea…  
+**When:** 2026-04-15 10:11 (America/Winnipeg)  •  **Published:** 2026-04-15 15:11 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Slot's misplaced positivity does not tally with harsh reality of Liverpool's season | Andy Hunter. The return of Alexander Isak is all well and good, but it will not redeem a season of sustained underperformance Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Slot's misplaced positivity does not tally with harsh reality of Liverpool's season | Andy Hunter. https://www.theguardian.com/football/2026/apr/15/arne-slot-misplaced-positivity-liverpool-alexander-isak-champions-league-psg
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 5: Harry Maguire to miss Chelsea after Man Utd man gets further ban
+**Slug (lower-third):** Harry Maguire to miss Chelsea after Man Utd man gets furt…  
+**When:** 2026-04-15 10:46 (America/Winnipeg)  •  **Published:** 2026-04-15 15:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Harry Maguire to miss Chelsea after Man Utd man gets further ban. Manchester United defender Harry Maguire will miss Saturday's trip to Chelsea after receiving an additional one-match ban. Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Harry Maguire to miss Chelsea after Man Utd man gets further ban. https://www.bbc.com/sport/football/articles/cjr99vpwd2go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Harry Maguire given extra one-match ban for 'joke' comment towards officials
+**Slug (lower-third):** Harry Maguire given extra one-match ban for 'joke' commen…  
+**When:** 2026-04-15 10:52 (America/Winnipeg)  •  **Published:** 2026-04-15 15:52 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Harry Maguire given extra one-match ban for 'joke' comment towards officials. Harry Maguire will miss Manchester United's trip to Chelsea having been handed an additional one-match ban by the Football Association for his reaction to being sent off at Bournemouth Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Harry Maguire given extra one-match ban for 'joke' comment towards officials. https://www.theguardian.com/football/2026/apr/15/harry-maguire-given-extra-one-match-ban-manchester-united-chelsea
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,10 +166,82 @@ Hugo Ekitike injury: Liverpool striker suffers suspected Achilles injury with fe
 
 ### Club Updates
 
-## Story 5: Anthony Gordon: Newcastle forward's future amid Bayern and Arsenal links
+## Story 7: Antoine Semenyo: Manchester City supporting forward after further racist abuse
+**Slug (lower-third):** Antoine Semenyo: Manchester City supporting forward after…  
+**When:** 2026-04-15 12:55 (America/Winnipeg)  •  **Published:** 2026-04-15 17:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+Antoine Semenyo: Manchester City supporting forward after further racist abuse. Antoine Semenyo is being supported by Man City after being subjected to racist abuse online; the Ghana international reported an incident of racist abuse from a supporter when playing for Bournemouth against Liverpool earlier this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Antoine Semenyo: Manchester City supporting forward after further racist abuse. https://www.skysports.com/football/news/12040/13532227/antoine-semenyo-manchester-city-supporting-forward-after-further-racist-abuse
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Everton mark 37th anniversary of Hillsborough with tribute to 97 at Hill Dickinson Stadium
+**Slug (lower-third):** Everton mark 37th anniversary of Hillsborough with tribut…  
+**When:** 2026-04-15 11:30 (America/Winnipeg)  •  **Published:** 2026-04-15 16:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Everton mark 37th anniversary of Hillsborough with tribute to 97 at Hill Dickinson Stadium. Everton have marked the 37th anniversary of the Hillsborough disaster by unveiling a permanent tribute at Hill Dickinson Stadium to the 97 Liverpool supporters who were unlawfully killed Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Everton mark 37th anniversary of Hillsborough with tribute to 97 at Hill Dickinson Stadium. https://www.theguardian.com/football/2026/apr/15/everton-mark-37th-anniversary-of-hillsborough-with-tribute-to-97-at-hill-dickinson-stadium
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Football Daily - 72+ EFL Pod: Fuchs fighting & Leicester's 'last chance' - BBC Sounds
+**Slug (lower-third):** Football Daily - 72+ EFL Pod: Fuchs fighting & Leicester'…  
+**When:** 2026-04-15 10:44 (America/Winnipeg)  •  **Published:** 2026-04-15 15:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football Daily - 72+ EFL Pod: Fuchs fighting & Leicester's 'last chance' - BBC Sounds. Aaron Paul, Jobi McAnuff & Millwall's Massimo Luongo chat Championship promotion race. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Football Daily - 72+ EFL Pod: Fuchs fighting & Leicester's 'last chance' - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0ndkxf6?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Anthony Gordon: Newcastle forward's future amid Bayern and Arsenal links
 **Slug (lower-third):** Anthony Gordon: Newcastle forward's future amid Bayern an…  
 **When:** 2026-04-15 07:23 (America/Winnipeg)  •  **Published:** 2026-04-15 12:23 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Anthony Gordon: Newcastle forward's future amid Bayern and Arsenal links. Anthony Gordon faces a big summer - with World Cup hopes and the possibility that Newcastle will need to sell him. So what comes next for the England forward? Relevance to standings and momentum.
@@ -137,102 +257,6 @@ Anthony Gordon: Newcastle forward's future amid Bayern and Arsenal links. Anthon
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Liverpool: Arne Slot says VAR has gone against his side this season - is he right?
-**Slug (lower-third):** Liverpool: Arne Slot says VAR has gone against his side t…  
-**When:** 2026-04-15 06:35 (America/Winnipeg)  •  **Published:** 2026-04-15 11:35 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool: Arne Slot says VAR has gone against his side this season - is he right?. Liverpool's exit from the Champions League was hastened by a VAR intervention. BBC Sport analyses the key refereeing decisions in their season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Liverpool: Arne Slot says VAR has gone against his side this season - is he right?. https://www.bbc.com/sport/football/articles/cj0vvp030e5o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Wrexham: Does it matter if Premier League chasers don't get promoted this season?
-**Slug (lower-third):** Wrexham: Does it matter if Premier League chasers don't g…  
-**When:** 2026-04-15 00:20 (America/Winnipeg)  •  **Published:** 2026-04-15 05:20 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Wrexham: Does it matter if Premier League chasers don't get promoted this season?. BBC Sport examines whether it matters if Wrexham don't seal promotion to the Premier League this season at the first time of asking. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Wrexham: Does it matter if Premier League chasers don't get promoted this season?. https://www.bbc.com/sport/football/articles/cedeeyed2ppo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Championship: Southampton see off Blackburn and close gap to Ipswich
-**Slug (lower-third):** Championship: Southampton see off Blackburn and close gap…  
-**When:** 2026-04-14 16:52 (America/Winnipeg)  •  **Published:** 2026-04-14 21:52 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Championship: Southampton see off Blackburn and close gap to Ipswich. Southampton are three points off automatic promotion after a 3-0 victory over Blackburn, coupled with Ipswich's 2-0 defeat at Portsmouth Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Championship: Southampton see off Blackburn and close gap to Ipswich. https://www.theguardian.com/football/2026/apr/14/championship-southampton-blackburn-portsmouth-ipswich
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Kroupi, Senesi, Gordon, Trafford, Konate, McKenna
-**Slug (lower-third):** Football gossip: Kroupi, Senesi, Gordon, Trafford, Konate…  
-**When:** 2026-04-14 15:47 (America/Winnipeg)  •  **Published:** 2026-04-14 20:47 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Kroupi, Senesi, Gordon, Trafford, Konate, McKenna. Manchester United watch Premier League pair, Bayern Munich want Harry Kane's England team-mate, plus who is next for the Bournemouth job. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Kroupi, Senesi, Gordon, Trafford, Konate, McKenna. https://www.bbc.com/sport/football/articles/cx2660eyeedo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
