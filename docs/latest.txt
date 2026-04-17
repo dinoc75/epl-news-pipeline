@@ -1,52 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-17 08:24 (America/Winnipeg)  |  2026-04-17 13:24 (UTC)
+**Generated:** 2026-04-17 14:04 (America/Winnipeg)  |  2026-04-17 19:04 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 46s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Marco Silva: Fulham boss' appeal against ban and fine partially upheld
-- Hull FC appoint Steve McNamara as head coach from 2027 as John Cartwright steps down with immediate effect
-- Man City v Arsenal: Pep Guardiola says he enjoys watching Gunners
+- Alex Manninger: Martin Keown's tribute to 'one of Arsenal's greatest unsung heroes'
+- Bournemouth close to appointing Marco Rose as Andoni Iraola successor
+- Conor Benn signs multi-year deal with Zuffa Boxing as the British star continues to work with Dana White's new promotion
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Hull FC appoint Steve McNamara as head coach from 2027 as John Cartwright steps down with immediate effect
-**Slug (lower-third):** Hull FC appoint Steve McNamara as head coach from 2027 as…  
-**When:** 2026-04-17 08:13 (America/Winnipeg)  •  **Published:** 2026-04-17 13:13 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Hull FC appoint Steve McNamara as head coach from 2027 as John Cartwright steps down with immediate effect. Hull FC and Warrington Wolves have jointly confirmed that an agreement has been reached for Steve McNamara to become Hull FCs new head coach for the 2027 Betfred Super League season; John Cartwright has left his role as head coach of Hull FC with immediate effect Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Hull FC appoint Steve McNamara as head coach from 2027 as John Cartwright steps down with immediate effect. https://www.skysports.com/rugby-league/news/12040/13532969/hull-fc-appoint-steve-mcnamara-as-head-coach-from-2027-as-john-cartwright-steps-down-with-immediate-effect
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Man City v Arsenal: Pep Guardiola says he enjoys watching Gunners
-**Slug (lower-third):** Man City v Arsenal: Pep Guardiola says he enjoys watching…  
-**When:** 2026-04-17 08:08 (America/Winnipeg)  •  **Published:** 2026-04-17 13:08 (UTC)  
+## Story 1: Bournemouth close to appointing Marco Rose as Andoni Iraola successor
+**Slug (lower-third):** Bournemouth close to appointing Marco Rose as Andoni Irao…  
+**When:** 2026-04-17 12:11 (America/Winnipeg)  •  **Published:** 2026-04-17 17:11 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City v Arsenal: Pep Guardiola says he enjoys watching Gunners. Manchester City manager Pep Guardiola says he enjoys watching Arsenal play as he can "learn a lot" from them. Relevance to standings and momentum.
+Bournemouth close to appointing Marco Rose as Andoni Iraola successor. Bournemouth are close to appointing Marco Rose as Andoni Iraola's replacement as head coach. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +31,7 @@ Man City v Arsenal: Pep Guardiola says he enjoys watching Gunners. Manchester Ci
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man City v Arsenal: Pep Guardiola says he enjoys watching Gunners. https://www.bbc.com/sport/football/articles/cn08p0ep98do?at_medium=RSS&at_campaign=rss
+- bbc.com — Bournemouth close to appointing Marco Rose as Andoni Iraola successor. https://www.bbc.com/sport/football/articles/c5ywz3x4r2eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,39 +40,13 @@ Man City v Arsenal: Pep Guardiola says he enjoys watching Gunners. Manchester Ci
 
 ---
 
-## Story 3: Behdad Eghbali: Chelsea co-owner on Liam Rosenior, transfer policy and Enzo Maresca departure in rare interview
-**Slug (lower-third):** Behdad Eghbali: Chelsea co-owner on Liam Rosenior, transf…  
-**When:** 2026-04-17 02:30 (America/Winnipeg)  •  **Published:** 2026-04-17 07:30 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Behdad Eghbali: Chelsea co-owner on Liam Rosenior, transfer policy and Enzo Maresca departure in rare interview. Behdad Eghbali has given a rare interview on a range of matters at Chelsea; co-owner addresses transfer policy, head coach Liam Rosenior, Enzo Marescas departure and BlueCos ownership strategy; Eghbali says: The message is: were committed. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Behdad Eghbali: Chelsea co-owner on Liam Rosenior, transfer policy and Enzo Maresca departure in rare interview. https://www.skysports.com/football/news/12040/13532811/behdad-eghbali-chelsea-co-owner-on-liam-rosenior-transfer-policy-and-enzo-maresca-departure-in-rare-interview
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 4: Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
-**Slug (lower-third):** Premier League and FPL team news: All your injury and Fan…  
-**When:** 2026-04-17 06:28 (America/Winnipeg)  •  **Published:** 2026-04-17 11:28 (UTC)  
+## Story 2: Bournemouth set to appoint Marco Rose as manager for next season
+**Slug (lower-third):** Bournemouth set to appoint Marco Rose as manager for next…  
+**When:** 2026-04-17 11:39 (America/Winnipeg)  •  **Published:** 2026-04-17 16:39 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Potential impact on the lineup and upcoming fixtures.
+Bournemouth set to appoint Marco Rose as manager for next season. Bournemouth are set to appoint Marco Rose as their new manager after successful talks with the former Dortmund and RB Leipzig coach Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +55,7 @@ Premier League and FPL team news: All your injury and Fantasy Premier League inf
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. https://www.bbc.com/sport/articles/cvg3zkzn0zdo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Bournemouth set to appoint Marco Rose as manager for next season. https://www.theguardian.com/football/2026/apr/17/bournemouth-set-to-appoint-marco-rose-as-manager-for-next-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,15 +64,13 @@ Premier League and FPL team news: All your injury and Fantasy Premier League inf
 
 ---
 
-### League & Regulation
-
-## Story 5: Marco Silva: Fulham boss' appeal against ban and fine partially upheld
-**Slug (lower-third):** Marco Silva: Fulham boss' appeal against ban and fine par…  
-**When:** 2026-04-17 08:16 (America/Winnipeg)  •  **Published:** 2026-04-17 13:16 (UTC)  
+## Story 3: Premier League news: Howe vows to 'fight harder than ever'; Slot banks on Isak return
+**Slug (lower-third):** Premier League news: Howe vows to 'fight harder than ever…  
+**When:** 2026-04-17 11:01 (America/Winnipeg)  •  **Published:** 2026-04-17 16:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Marco Silva: Fulham boss' appeal against ban and fine partially upheld. Fulham boss Marco Silva's appeal against a one-match touchline ban and APS90,000 fine is partially upheld by an independent appeal board. Disciplinary outcome could affect availability.
+Premier League news: Howe vows to 'fight harder than ever'; Slot banks on Isak return. Newcastle manager in defiant mood before facing former club while Liverpool's manager seeks uplift from Merseyside derby Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +79,57 @@ Marco Silva: Fulham boss' appeal against ban and fine partially upheld. Fulham b
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Marco Silva: Fulham boss' appeal against ban and fine partially upheld. https://www.bbc.com/sport/football/articles/c1j72j222ggo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League news: Howe vows to 'fight harder than ever'; Slot banks on Isak return. https://www.theguardian.com/football/2026/apr/17/premier-league-news-newcastle-liverpool-tottenham
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 4: Conor Benn signs multi-year deal with Zuffa Boxing as the British star continues to work with Dana White's new promotion
+**Slug (lower-third):** Conor Benn signs multi-year deal with Zuffa Boxing as the…  
+**When:** 2026-04-17 11:55 (America/Winnipeg)  •  **Published:** 2026-04-17 16:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Conor Benn signs multi-year deal with Zuffa Boxing as the British star continues to work with Dana White's new promotion. British star Conor Benn will continue the next chapter of his career with new promotional powerhouse Zuffa Boxing; Benn worked with Zuffa for his last fight when he beat Regis Prograis on a unanimous decision after 10 rounds at Tottenham Hotspur Stadium Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Conor Benn signs multi-year deal with Zuffa Boxing as the British star continues to work with Dana White's new promotion. https://www.skysports.com/boxing/news/12040/13532877/conor-benn-signs-multi-year-deal-with-zuffa-boxing-as-the-british-star-continues-to-work-with-dana-whites-new-promotion
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Moises Caicedo: Chelsea midfielder signs new contract until 2033
+**Slug (lower-third):** Moises Caicedo: Chelsea midfielder signs new contract unt…  
+**When:** 2026-04-17 09:57 (America/Winnipeg)  •  **Published:** 2026-04-17 14:57 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Moises Caicedo: Chelsea midfielder signs new contract until 2033. Moises Caicedo says his "dream is to become a Chelsea legend" after signing a lucrative new contract until 2033. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Moises Caicedo: Chelsea midfielder signs new contract until 2033. https://www.bbc.com/sport/football/articles/c7vqqgqg87do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,37 +140,13 @@ Marco Silva: Fulham boss' appeal against ban and fine partially upheld. Fulham b
 
 ### Club Updates
 
-## Story 6: Women's Six Nations: Sadia Kabeya says England must turn crisis into opportunity as Scotland plot upset at Murrayfield
-**Slug (lower-third):** Women's Six Nations: Sadia Kabeya says England must turn …  
-**When:** 2026-04-17 07:48 (America/Winnipeg)  •  **Published:** 2026-04-17 12:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Women's Six Nations: Sadia Kabeya says England must turn crisis into opportunity as Scotland plot upset at Murrayfield. England have a seriously depleted team as they go to face upset-minded Scotland in Murrayfield; Sadia Kabeya: We are still a Red Roses squad but just with a few different names in there. We always talk about being one team and having depth and its now a chance to show that fully Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Women's Six Nations: Sadia Kabeya says England must turn crisis into opportunity as Scotland plot upset at Murrayfield. https://www.skysports.com/rugby-union/news/12040/13532951/womens-six-nations-sadia-kabeya-says-england-must-turn-crisis-into-opportunity-as-scotland-plot-upset-at-murrayfield
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Ipswich in promotion driving seat but little is ever as it seems with Championship
-**Slug (lower-third):** Ipswich in promotion driving seat but little is ever as i…  
-**When:** 2026-04-17 07:36 (America/Winnipeg)  •  **Published:** 2026-04-17 12:36 (UTC)  
+## Story 6: Alex Manninger: Martin Keown's tribute to 'one of Arsenal's greatest unsung heroes'
+**Slug (lower-third):** Alex Manninger: Martin Keown's tribute to 'one of Arsenal…  
+**When:** 2026-04-17 12:36 (America/Winnipeg)  •  **Published:** 2026-04-17 17:36 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ipswich in promotion driving seat but little is ever as it seems with Championship. Kieran McKenna's team face a crunch clash with Middlesbrough but charging Southampton are looming large too Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Alex Manninger: Martin Keown's tribute to 'one of Arsenal's greatest unsung heroes'. Former Arsenal defender Martin Keown pays tribute to his old friend and former Gunners team-mate Alex Manninger, who has died at the age of 48. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +155,7 @@ Ipswich in promotion driving seat but little is ever as it seems with Championsh
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Ipswich in promotion driving seat but little is ever as it seems with Championship. https://www.theguardian.com/football/2026/apr/17/ipswich-in-driving-seat-for-promotion-but-little-as-it-seems-in-championship-battle
+- bbc.com — Alex Manninger: Martin Keown's tribute to 'one of Arsenal's greatest unsung heroes'. https://www.bbc.com/sport/football/articles/ckgxpklxj5wo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,37 +164,13 @@ Ipswich in promotion driving seat but little is ever as it seems with Championsh
 
 ---
 
-## Story 8: Cyrus Pattinson: Popular North East welterweight on fighting back from 'rock bottom' - 'I'm capable of beating anybody'
-**Slug (lower-third):** Cyrus Pattinson: Popular North East welterweight on fight…  
-**When:** 2026-04-17 07:00 (America/Winnipeg)  •  **Published:** 2026-04-17 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Cyrus Pattinson: Popular North East welterweight on fighting back from 'rock bottom' - 'I'm capable of beating anybody'. Cyrus Pattinson is in a must-win fight in his Newcastle hometown on Saturday as he looks to continue his career renaissance with trainer Billy Nelson; Pattinson has been fighting his way back from rock bottom but will look to set himself up for future title challenges Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Cyrus Pattinson: Popular North East welterweight on fighting back from 'rock bottom' - 'I'm capable of beating anybody'. https://www.skysports.com/boxing/news/12040/13532833/cyrus-pattinson-popular-north-east-welterweight-on-fighting-back-from-rock-bottom-im-capable-of-beating-anybody
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Why Arsenal are still the favourites to win the Premier League
-**Slug (lower-third):** Why Arsenal are still the favourites to win the Premier L…  
-**When:** 2026-04-17 06:00 (America/Winnipeg)  •  **Published:** 2026-04-17 11:00 (UTC)  
+## Story 7: A huge weekend in the Premier League, including Manchester City v Arsenal - follow with us
+**Slug (lower-third):** A huge weekend in the Premier League, including Mancheste…  
+**When:** 2026-04-17 11:29 (America/Winnipeg)  •  **Published:** 2026-04-17 16:29 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Why Arsenal are still the favourites to win the Premier League. Manchester City gained ground last weekend but the league leaders have plenty of reasons to remain positive Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+A huge weekend in the Premier League, including Manchester City v Arsenal - follow with us. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +179,7 @@ Why Arsenal are still the favourites to win the Premier League. Manchester City 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Why Arsenal are still the favourites to win the Premier League. https://www.theguardian.com/football/2026/apr/17/arsenal-premier-league-manchester-city-favourites-leaders
+- theguardian.com — A huge weekend in the Premier League, including Manchester City v Arsenal - follow with us. https://www.theguardian.com/sport/2026/apr/17/premier-league-manchester-city-arsenal-follow-with-us
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +188,13 @@ Why Arsenal are still the favourites to win the Premier League. Manchester City 
 
 ---
 
-## Story 10: Gary Rowett: Leicester City need 'something special' to avoid relegation
-**Slug (lower-third):** Gary Rowett: Leicester City need 'something special' to a…  
-**When:** 2026-04-17 06:00 (America/Winnipeg)  •  **Published:** 2026-04-17 11:00 (UTC)  
+## Story 8: Newcastle: What does Saudi Arabia's Public Investment Fund's change in approach mean for the club?
+**Slug (lower-third):** Newcastle: What does Saudi Arabia's Public Investment Fun…  
+**When:** 2026-04-17 10:26 (America/Winnipeg)  •  **Published:** 2026-04-17 15:26 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Gary Rowett: Leicester City need 'something special' to avoid relegation. Leicester City boss Gary Rowett says "belief" in increasingly dire times will be key to the Foxes' Championship survival hopes. Relevance to standings and momentum.
+Newcastle: What does Saudi Arabia's Public Investment Fund's change in approach mean for the club?. Saudi Arabia's Public Investment Fund (PIF) set out to disrupt, but the fund has sent tremors through the world of sport in a very different way this week. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +203,55 @@ Gary Rowett: Leicester City need 'something special' to avoid relegation. Leices
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Gary Rowett: Leicester City need 'something special' to avoid relegation. https://www.bbc.com/sport/football/articles/cvgez4ly32xo?at_medium=RSS&at_campaign=rss
+- bbc.com — Newcastle: What does Saudi Arabia's Public Investment Fund's change in approach mean for the club?. https://www.bbc.com/sport/football/articles/cz902873dnko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Chelsea FA Cup semi-final tickets: Todd Boehly linked website selling at inflated prices
+**Slug (lower-third):** Chelsea FA Cup semi-final tickets: Todd Boehly linked web…  
+**When:** 2026-04-17 10:06 (America/Winnipeg)  •  **Published:** 2026-04-17 15:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea FA Cup semi-final tickets: Todd Boehly linked website selling at inflated prices. A US-based website linked to Todd Boehly is selling Chelsea tickets at inflated prices, leaving the club's fans angry. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Chelsea FA Cup semi-final tickets: Todd Boehly linked website selling at inflated prices. https://www.bbc.com/sport/football/articles/cd0rp1gzld7o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: From Cantona to Sane: five games that determined the destiny of the title
+**Slug (lower-third):** From Cantona to Sane: five games that determined the dest…  
+**When:** 2026-04-17 09:48 (America/Winnipeg)  •  **Published:** 2026-04-17 14:48 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+From Cantona to Sane: five games that determined the destiny of the title. The Premier League has history when it comes to clashes between the two teams fighting to become champions Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — From Cantona to Sane: five games that determined the destiny of the title. https://www.theguardian.com/football/2026/apr/17/eric-cantona-leroy-sane-five-games-determined-title-destiny-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**

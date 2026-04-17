@@ -1,10 +1,11 @@
-resp_08e2fd5c76b5ca860069e234c4b7a081948b256dc7e2307a0d
+resp_0fc365c3285c573e0069e284908c648193908d05bb85d18956
 max_output_tokens
 gpt-5-mini-2025-08-07
 response
-rs_08e2fd5c76b5ca860069e234c557e48194b938c19dafdf9fec
+rs_0fc365c3285c573e0069e28490ed888193a0a520bf2ed521da
 reasoning
 auto
+in_memory
 medium
 default
 incomplete

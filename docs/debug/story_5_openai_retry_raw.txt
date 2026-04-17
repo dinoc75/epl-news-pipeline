@@ -1,10 +1,11 @@
-resp_0333d110b70cb10e0069e2351f8684819689dfaf84aa2d5ef6
+resp_03f2fb0f6a62b8100069e284ec8a688195a17e920ffe745907
 max_output_tokens
 gpt-5-mini-2025-08-07
 response
-rs_0333d110b70cb10e0069e2351fe07c8196a30c5953bc91bfed
+rs_03f2fb0f6a62b8100069e284ecfba081959a6f85f0f3767775
 reasoning
 auto
+in_memory
 medium
 default
 incomplete
