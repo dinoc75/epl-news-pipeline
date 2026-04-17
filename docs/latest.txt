@@ -1,25 +1,73 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-17 02:50 (America/Winnipeg)  |  2026-04-17 07:50 (UTC)
+**Generated:** 2026-04-17 08:24 (America/Winnipeg)  |  2026-04-17 13:24 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 21s
+**Estimated total video length:** ~4m 46s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Behdad Eghbali: Chelsea co-owner on Liam Rosenior, transfer policy and Enzo Maresca departure in rare interview
-- James Wilson: How is Tottenham's surprise deadline day signing from Hearts doing?
-- Guardiola ready to benefit as fellow Cruyff disciple Arteta strays from the path
+- Marco Silva: Fulham boss' appeal against ban and fine partially upheld
+- Hull FC appoint Steve McNamara as head coach from 2027 as John Cartwright steps down with immediate effect
+- Man City v Arsenal: Pep Guardiola says he enjoys watching Gunners
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Behdad Eghbali: Chelsea co-owner on Liam Rosenior, transfer policy and Enzo Maresca departure in rare interview
+## Story 1: Hull FC appoint Steve McNamara as head coach from 2027 as John Cartwright steps down with immediate effect
+**Slug (lower-third):** Hull FC appoint Steve McNamara as head coach from 2027 as…  
+**When:** 2026-04-17 08:13 (America/Winnipeg)  •  **Published:** 2026-04-17 13:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Hull FC appoint Steve McNamara as head coach from 2027 as John Cartwright steps down with immediate effect. Hull FC and Warrington Wolves have jointly confirmed that an agreement has been reached for Steve McNamara to become Hull FCs new head coach for the 2027 Betfred Super League season; John Cartwright has left his role as head coach of Hull FC with immediate effect Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Hull FC appoint Steve McNamara as head coach from 2027 as John Cartwright steps down with immediate effect. https://www.skysports.com/rugby-league/news/12040/13532969/hull-fc-appoint-steve-mcnamara-as-head-coach-from-2027-as-john-cartwright-steps-down-with-immediate-effect
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Man City v Arsenal: Pep Guardiola says he enjoys watching Gunners
+**Slug (lower-third):** Man City v Arsenal: Pep Guardiola says he enjoys watching…  
+**When:** 2026-04-17 08:08 (America/Winnipeg)  •  **Published:** 2026-04-17 13:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man City v Arsenal: Pep Guardiola says he enjoys watching Gunners. Manchester City manager Pep Guardiola says he enjoys watching Arsenal play as he can "learn a lot" from them. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Man City v Arsenal: Pep Guardiola says he enjoys watching Gunners. https://www.bbc.com/sport/football/articles/cn08p0ep98do?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Behdad Eghbali: Chelsea co-owner on Liam Rosenior, transfer policy and Enzo Maresca departure in rare interview
 **Slug (lower-third):** Behdad Eghbali: Chelsea co-owner on Liam Rosenior, transf…  
 **When:** 2026-04-17 02:30 (America/Winnipeg)  •  **Published:** 2026-04-17 07:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+**Virality score:** 97  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 Behdad Eghbali: Chelsea co-owner on Liam Rosenior, transfer policy and Enzo Maresca departure in rare interview. Behdad Eghbali has given a rare interview on a range of matters at Chelsea; co-owner addresses transfer policy, head coach Liam Rosenior, Enzo Marescas departure and BlueCos ownership strategy; Eghbali says: The message is: were committed. Implications for the squad and table.
@@ -40,89 +88,15 @@ Behdad Eghbali: Chelsea co-owner on Liam Rosenior, transfer policy and Enzo Mare
 
 ---
 
-## Story 2: Guardiola ready to benefit as fellow Cruyff disciple Arteta strays from the path
-**Slug (lower-third):** Guardiola ready to benefit as fellow Cruyff disciple Arte…  
-**When:** 2026-04-17 02:00 (America/Winnipeg)  •  **Published:** 2026-04-17 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Guardiola ready to benefit as fellow Cruyff disciple Arteta strays from the path. Manchester City and Arsenal managers were both schooled in the expansive Barca tradition but the latter opting for caution could be his team's undoing Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Guardiola ready to benefit as fellow Cruyff disciple Arteta strays from the path. https://www.theguardian.com/football/2026/apr/17/arsenal-manchester-city-guardiola-ready-to-benefit-arteta
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Man City vs Arsenal: The evolution of Pep Guardiola and Mikel Arteta - both as managers and friends
-**Slug (lower-third):** Man City vs Arsenal: The evolution of Pep Guardiola and M…  
-**When:** 2026-04-17 00:50 (America/Winnipeg)  •  **Published:** 2026-04-17 05:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man City vs Arsenal: The evolution of Pep Guardiola and Mikel Arteta - both as managers and friends. As Manchester City prepare to host Arsenal in Sunday's crucial Premier League meeting between the top two, European football expert Guillem Balague looks at how the two managers have evolved. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Man City vs Arsenal: The evolution of Pep Guardiola and Mikel Arteta - both as managers and friends. https://www.bbc.com/sport/football/articles/cd6lld4q57po?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 4: James Wilson: How is Tottenham's surprise deadline day signing from Hearts doing?
-**Slug (lower-third):** James Wilson: How is Tottenham's surprise deadline day si…  
-**When:** 2026-04-17 02:14 (America/Winnipeg)  •  **Published:** 2026-04-17 07:14 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-James Wilson: How is Tottenham's surprise deadline day signing from Hearts doing?. The biggest surprise of January's transfer deadline day came when Tottenham signed teenager James Wilson from Hearts. BBC Sport looks at how he is doing. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — James Wilson: How is Tottenham's surprise deadline day signing from Hearts doing?. https://www.bbc.com/sport/football/articles/ckgezx8ekmvo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Injuries
 
-## Story 5: Enzo Fernandez: Chelsea captain is back but club's problems remain
-**Slug (lower-third):** Enzo Fernandez: Chelsea captain is back but club's proble…  
-**When:** 2026-04-17 01:32 (America/Winnipeg)  •  **Published:** 2026-04-17 06:32 (UTC)  
+## Story 4: Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
+**Slug (lower-third):** Premier League and FPL team news: All your injury and Fan…  
+**When:** 2026-04-17 06:28 (America/Winnipeg)  •  **Published:** 2026-04-17 11:28 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Enzo Fernandez: Chelsea captain is back but club's problems remain. Enzo Fernandez returns for Chelsea this weekend, but questions remain. Relevance to standings and momentum.
+Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +105,33 @@ Enzo Fernandez: Chelsea captain is back but club's problems remain. Enzo Fernand
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Enzo Fernandez: Chelsea captain is back but club's problems remain. https://www.bbc.com/sport/football/articles/c14557evv3ko?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. https://www.bbc.com/sport/articles/cvg3zkzn0zdo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 5: Marco Silva: Fulham boss' appeal against ban and fine partially upheld
+**Slug (lower-third):** Marco Silva: Fulham boss' appeal against ban and fine par…  
+**When:** 2026-04-17 08:16 (America/Winnipeg)  •  **Published:** 2026-04-17 13:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Marco Silva: Fulham boss' appeal against ban and fine partially upheld. Fulham boss Marco Silva's appeal against a one-match touchline ban and APS90,000 fine is partially upheld by an independent appeal board. Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Marco Silva: Fulham boss' appeal against ban and fine partially upheld. https://www.bbc.com/sport/football/articles/c1j72j222ggo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +142,37 @@ Enzo Fernandez: Chelsea captain is back but club's problems remain. Enzo Fernand
 
 ### Club Updates
 
-## Story 6: Roberto De Zerbi is a tactician but the Spurs job is about giving players belief
-**Slug (lower-third):** Roberto De Zerbi is a tactician but the Spurs job is abou…  
-**When:** 2026-04-17 02:00 (America/Winnipeg)  •  **Published:** 2026-04-17 07:00 (UTC)  
+## Story 6: Women's Six Nations: Sadia Kabeya says England must turn crisis into opportunity as Scotland plot upset at Murrayfield
+**Slug (lower-third):** Women's Six Nations: Sadia Kabeya says England must turn …  
+**When:** 2026-04-17 07:48 (America/Winnipeg)  •  **Published:** 2026-04-17 12:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Women's Six Nations: Sadia Kabeya says England must turn crisis into opportunity as Scotland plot upset at Murrayfield. England have a seriously depleted team as they go to face upset-minded Scotland in Murrayfield; Sadia Kabeya: We are still a Red Roses squad but just with a few different names in there. We always talk about being one team and having depth and its now a chance to show that fully Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Women's Six Nations: Sadia Kabeya says England must turn crisis into opportunity as Scotland plot upset at Murrayfield. https://www.skysports.com/rugby-union/news/12040/13532951/womens-six-nations-sadia-kabeya-says-england-must-turn-crisis-into-opportunity-as-scotland-plot-upset-at-murrayfield
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Ipswich in promotion driving seat but little is ever as it seems with Championship
+**Slug (lower-third):** Ipswich in promotion driving seat but little is ever as i…  
+**When:** 2026-04-17 07:36 (America/Winnipeg)  •  **Published:** 2026-04-17 12:36 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Roberto De Zerbi is a tactician but the Spurs job is about giving players belief. He has to convince a team that has not won in 14 matches that they have what it takes to stay in the Premier League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ipswich in promotion driving seat but little is ever as it seems with Championship. Kieran McKenna's team face a crunch clash with Middlesbrough but charging Southampton are looming large too Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +181,7 @@ Roberto De Zerbi is a tactician but the Spurs job is about giving players belief
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Roberto De Zerbi is a tactician but the Spurs job is about giving players belief. https://www.theguardian.com/football/who-scored-blog/2026/apr/17/roberto-de-zerbi-tactician-spurs-job-players-belief-premier-league
+- theguardian.com — Ipswich in promotion driving seat but little is ever as it seems with Championship. https://www.theguardian.com/football/2026/apr/17/ipswich-in-driving-seat-for-promotion-but-little-as-it-seems-in-championship-battle
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +190,37 @@ Roberto De Zerbi is a tactician but the Spurs job is about giving players belief
 
 ---
 
-## Story 7: Today on Sky Sports Racing: Spring Trials weekend kicks off at Newbury
-**Slug (lower-third):** Today on Sky Sports Racing: Spring Trials weekend kicks o…  
-**When:** 2026-04-17 01:00 (America/Winnipeg)  •  **Published:** 2026-04-17 06:00 (UTC)  
+## Story 8: Cyrus Pattinson: Popular North East welterweight on fighting back from 'rock bottom' - 'I'm capable of beating anybody'
+**Slug (lower-third):** Cyrus Pattinson: Popular North East welterweight on fight…  
+**When:** 2026-04-17 07:00 (America/Winnipeg)  •  **Published:** 2026-04-17 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Cyrus Pattinson: Popular North East welterweight on fighting back from 'rock bottom' - 'I'm capable of beating anybody'. Cyrus Pattinson is in a must-win fight in his Newcastle hometown on Saturday as he looks to continue his career renaissance with trainer Billy Nelson; Pattinson has been fighting his way back from rock bottom but will look to set himself up for future title challenges Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Cyrus Pattinson: Popular North East welterweight on fighting back from 'rock bottom' - 'I'm capable of beating anybody'. https://www.skysports.com/boxing/news/12040/13532833/cyrus-pattinson-popular-north-east-welterweight-on-fighting-back-from-rock-bottom-im-capable-of-beating-anybody
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Why Arsenal are still the favourites to win the Premier League
+**Slug (lower-third):** Why Arsenal are still the favourites to win the Premier L…  
+**When:** 2026-04-17 06:00 (America/Winnipeg)  •  **Published:** 2026-04-17 11:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Spring Trials weekend kicks off at Newbury. A huge day awaits! Newbury hosts day one of their Spring Trials meeting, with a host of promising horses and top jockeys descending on Berkshire; Elsewhere, Wolverhampton and Bath hosts live action on the level. Relevance to standings and momentum.
+Why Arsenal are still the favourites to win the Premier League. Manchester City gained ground last weekend but the league leaders have plenty of reasons to remain positive Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +229,7 @@ Today on Sky Sports Racing: Spring Trials weekend kicks off at Newbury. A huge d
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Spring Trials weekend kicks off at Newbury. https://www.skysports.com/racing/news/12040/13532093/today-on-sky-sports-racing-spring-trials-weekend-kicks-off-at-newbury
+- theguardian.com — Why Arsenal are still the favourites to win the Premier League. https://www.theguardian.com/football/2026/apr/17/arsenal-premier-league-manchester-city-favourites-leaders
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +238,13 @@ Today on Sky Sports Racing: Spring Trials weekend kicks off at Newbury. A huge d
 
 ---
 
-## Story 8: Aston Villa: How Unai Emery turned spectacular European nights into Villa's new normal
-**Slug (lower-third):** Aston Villa: How Unai Emery turned spectacular European n…  
-**When:** 2026-04-16 18:22 (America/Winnipeg)  •  **Published:** 2026-04-16 23:22 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 10: Gary Rowett: Leicester City need 'something special' to avoid relegation
+**Slug (lower-third):** Gary Rowett: Leicester City need 'something special' to a…  
+**When:** 2026-04-17 06:00 (America/Winnipeg)  •  **Published:** 2026-04-17 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa: How Unai Emery turned spectacular European nights into Villa's new normal. Ten years ago, Aston Villa were relegated to English football's second tier for the first time since 1987. Now they are in their second European semi-final in three seasons. Relevance to standings and momentum.
+Gary Rowett: Leicester City need 'something special' to avoid relegation. Leicester City boss Gary Rowett says "belief" in increasingly dire times will be key to the Foxes' Championship survival hopes. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,55 +253,7 @@ Aston Villa: How Unai Emery turned spectacular European nights into Villa's new 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa: How Unai Emery turned spectacular European nights into Villa's new normal. https://www.bbc.com/sport/football/articles/c3ex2w04kd0o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Crystal Palace: Why Eagles and Conference League are a good fit
-**Slug (lower-third):** Crystal Palace: Why Eagles and Conference League are a go…  
-**When:** 2026-04-16 17:46 (America/Winnipeg)  •  **Published:** 2026-04-16 22:46 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Crystal Palace: Why Eagles and Conference League are a good fit. After overcoming Fiorentina over two legs to reach the semi-finals, Crystal Palace will now fancy their chances of going all the way in the Conference League and adding a European trophy to their FA Cup success last season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Crystal Palace: Why Eagles and Conference League are a good fit. https://www.bbc.com/sport/football/articles/cvg4z1pn7g4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Nottingham Forest: Champions League in the Championship - could Forest tackle both next season?
-**Slug (lower-third):** Nottingham Forest: Champions League in the Championship -…  
-**When:** 2026-04-16 17:22 (America/Winnipeg)  •  **Published:** 2026-04-16 22:22 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Nottingham Forest: Champions League in the Championship - could Forest tackle both next season?. Nottingham Forest continue their remarkable Europa League run - but does it only increase the pressure on staying in the Premier League? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Nottingham Forest: Champions League in the Championship - could Forest tackle both next season?. https://www.bbc.com/sport/football/articles/cm25p4ndmdyo?at_medium=RSS&at_campaign=rss
+- bbc.com — Gary Rowett: Leicester City need 'something special' to avoid relegation. https://www.bbc.com/sport/football/articles/cvgez4ly32xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
