@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-18 02:12 (America/Winnipeg)  |  2026-04-18 07:12 (UTC)
+**Generated:** 2026-04-18 08:07 (America/Winnipeg)  |  2026-04-18 13:07 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 27s
+**Estimated total video length:** ~4m 30s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arsenal: Supporters are nervy but Arteta looking to use 'vitamin' for tension
-- Frank Lampard's Coventry City promoted to Premier League
-- Arsenal interested in Leicester teenager Jeremy Monga - Paper Talk and football transfer gossip
+- If this is Guardiola's last City season he will be as hard to replace as Ferguson at United | Jamie Jackson
+- West Ham: Mads Hermansen on relegation "fear", lessons from Leicester and how he fought his way back into Hammers' No 1 jersey
+- Moyes stirs up rivalry as Everton eye Europe and a derby debut to remember
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Bournemouth close to appointing Marco Rose as Andoni Iraola successor
-**Slug (lower-third):** Bournemouth close to appointing Marco Rose as Andoni Irao…  
-**When:** 2026-04-17 12:11 (America/Winnipeg)  •  **Published:** 2026-04-17 17:11 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 1: If this is Guardiola's last City season he will be as hard to replace as Ferguson at United | Jamie Jackson
+**Slug (lower-third):** If this is Guardiola's last City season he will be as har…  
+**When:** 2026-04-18 06:00 (America/Winnipeg)  •  **Published:** 2026-04-18 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bournemouth close to appointing Marco Rose as Andoni Iraola successor. Bournemouth are close to appointing Marco Rose as Andoni Iraola's replacement as head coach. Relevance to standings and momentum.
+If this is Guardiola's last City season he will be as hard to replace as Ferguson at United | Jamie Jackson. Manager goes into Sunday's showdown with Arsenal as a subplot bubbles regarding whether this is a farewell title tilt Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Bournemouth close to appointing Marco Rose as Andoni Iraola successor. Bournemou
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Bournemouth close to appointing Marco Rose as Andoni Iraola successor. https://www.bbc.com/sport/football/articles/c5ywz3x4r2eo?at_medium=RSS&at_campaign=rss
+- theguardian.com — If this is Guardiola's last City season he will be as hard to replace as Ferguson at United | Jamie Jackson. https://www.theguardian.com/football/2026/apr/18/pep-guardiola-manchester-city-hard-to-replace-alex-ferguson-manchester-united
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,13 @@ Bournemouth close to appointing Marco Rose as Andoni Iraola successor. Bournemou
 
 ### Transfers
 
-## Story 2: Arsenal interested in Leicester teenager Jeremy Monga - Paper Talk and football transfer gossip
-**Slug (lower-third):** Arsenal interested in Leicester teenager Jeremy Monga - P…  
-**When:** 2026-04-17 18:54 (America/Winnipeg)  •  **Published:** 2026-04-17 23:54 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~25s
+## Story 2: Premier League shootout arrives with odd twist for feelings guy Guardiola
+**Slug (lower-third):** Premier League shootout arrives with odd twist for feelin…  
+**When:** 2026-04-18 02:01 (America/Winnipeg)  •  **Published:** 2026-04-18 07:01 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal interested in Leicester teenager Jeremy Monga - Paper Talk and football transfer gossip. Saturdays top stories include Arsenal showing strong interest in Leicesters Jeremy Monga, Liverpool are showing interest in Crystal Palaces Adam Wharton, Tottenham are in advanced talks to sign Bournemouth defender Marcos Senesi and are interested in Leeds goalkeeper Karl Darlow Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Premier League shootout arrives with odd twist for feelings guy Guardiola. Manchester City v Arsenal is a rare late-season title decider and comes with a set of surprising plotlines Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,7 @@ Arsenal interested in Leicester teenager Jeremy Monga - Paper Talk and football 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal interested in Leicester teenager Jeremy Monga - Paper Talk and football transfer gossip. https://www.skysports.com/football/news/12040/13533133/arsenal-interested-in-leicester-teenager-jeremy-monga-paper-talk-and-football-transfer-gossip
+- theguardian.com — Premier League shootout arrives with odd twist for feelings guy Guardiola. https://www.theguardian.com/football/2026/apr/18/manchester-city-arsenal-premier-league-title-race-guardiola-arteta
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -70,7 +70,7 @@ Arsenal interested in Leicester teenager Jeremy Monga - Paper Talk and football 
 
 ## Story 3: Frank Lampard's Coventry City promoted to Premier League
 **Slug (lower-third):** Frank Lampard's Coventry City promoted to Premier League  
-**When:** 2026-04-17 18:54 (America/Winnipeg)  •  **Published:** 2026-04-17 23:54 (UTC)  
+**When:** 2026-04-17 23:25 (America/Winnipeg)  •  **Published:** 2026-04-18 04:25 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -96,7 +96,7 @@ Frank Lampard's Coventry City promoted to Premier League. Coventry City will ret
 ## Story 4: Manchester United: Michael Carrick leaves door open for Marcus Rashford return
 **Slug (lower-third):** Manchester United: Michael Carrick leaves door open for M…  
 **When:** 2026-04-17 16:30 (America/Winnipeg)  •  **Published:** 2026-04-17 21:30 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+**Virality score:** 83  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester United: Michael Carrick leaves door open for Marcus Rashford return. Michael Carrick says there has been no decision made on the Manchester United future of Marcus Rashford, who has spent the season on loan at Barcelona. Implications for the squad and table.
@@ -111,7 +111,7 @@ Manchester United: Michael Carrick leaves door open for Marcus Rashford return. 
 - bbc.com — Manchester United: Michael Carrick leaves door open for Marcus Rashford return. https://www.bbc.com/sport/football/articles/c070yn2vlezo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -119,13 +119,37 @@ Manchester United: Michael Carrick leaves door open for Marcus Rashford return. 
 
 ### Club Updates
 
-## Story 5: Arsenal: Supporters are nervy but Arteta looking to use 'vitamin' for tension
-**Slug (lower-third):** Arsenal: Supporters are nervy but Arteta looking to use '…  
-**When:** 2026-04-18 00:34 (America/Winnipeg)  •  **Published:** 2026-04-18 05:34 (UTC)  
+## Story 5: West Ham: Mads Hermansen on relegation "fear", lessons from Leicester and how he fought his way back into Hammers' No 1 jersey
+**Slug (lower-third):** West Ham: Mads Hermansen on relegation "fear", lessons fr…  
+**When:** 2026-04-18 06:00 (America/Winnipeg)  •  **Published:** 2026-04-18 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+West Ham: Mads Hermansen on relegation "fear", lessons from Leicester and how he fought his way back into Hammers' No 1 jersey. Mads Hermansen opens up about the pain of relegation, how West Hams togetherness helped them face the fear of the drop, and his own redemption arc for a key role in the run-in. Watch Crystal Palace vs West Ham live on Sky Sports from 6pm on Monday; kick-off 8pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — West Ham: Mads Hermansen on relegation "fear", lessons from Leicester and how he fought his way back into Hammers' No 1 jersey. https://www.skysports.com/football/news/12040/13532889/west-ham-mads-hermansen-on-relegation-fear-lessons-from-leicester-and-how-he-fought-his-way-back-into-hammers-no-1-jersey
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Moyes stirs up rivalry as Everton eye Europe and a derby debut to remember
+**Slug (lower-third):** Moyes stirs up rivalry as Everton eye Europe and a derby …  
+**When:** 2026-04-18 05:01 (America/Winnipeg)  •  **Published:** 2026-04-18 10:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal: Supporters are nervy but Arteta looking to use 'vitamin' for tension. Arsenal were booed off after their Premier League defeat by Bournemouth - and boss Mikel Arteta will not want tension to seep on to the pitch against Manchester City. Relevance to standings and momentum.
+Moyes stirs up rivalry as Everton eye Europe and a derby debut to remember. Upwardly-mobile hosts are raising expectations heading into the first showdown against Liverpool at Hill Dickinson Stadium Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -134,7 +158,7 @@ Arsenal: Supporters are nervy but Arteta looking to use 'vitamin' for tension. A
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arsenal: Supporters are nervy but Arteta looking to use 'vitamin' for tension. https://www.bbc.com/sport/football/articles/cpvx32k0jd2o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Moyes stirs up rivalry as Everton eye Europe and a derby debut to remember. https://www.theguardian.com/football/2026/apr/18/david-moyes-merseyside-derby-everton-liverpool
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -143,13 +167,13 @@ Arsenal: Supporters are nervy but Arteta looking to use 'vitamin' for tension. A
 
 ---
 
-## Story 6: Frank Lampard: Coventry City boss praises 'special and unique' promotion
-**Slug (lower-third):** Frank Lampard: Coventry City boss praises 'special and un…  
-**When:** 2026-04-17 17:49 (America/Winnipeg)  •  **Published:** 2026-04-17 22:49 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 7: Frank Lampard: Coventry boss' resurgence ends Sky Blues' Premier League exile
+**Slug (lower-third):** Frank Lampard: Coventry boss' resurgence ends Sky Blues' …  
+**When:** 2026-04-18 03:46 (America/Winnipeg)  •  **Published:** 2026-04-18 08:46 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Frank Lampard: Coventry City boss praises 'special and unique' promotion. Coventry City boss Frank Lampard calls his side's promotion back to the Premier League after 25 years away a "unique" achievement. Relevance to standings and momentum.
+Frank Lampard: Coventry boss' resurgence ends Sky Blues' Premier League exile. Frank Lampard and Coventry City are back in the big time. This is how the former England international guided the Sky Blues to the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -158,7 +182,7 @@ Frank Lampard: Coventry City boss praises 'special and unique' promotion. Covent
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Frank Lampard: Coventry City boss praises 'special and unique' promotion. https://www.bbc.com/sport/football/articles/c7vqyz3l300o?at_medium=RSS&at_campaign=rss
+- bbc.com — Frank Lampard: Coventry boss' resurgence ends Sky Blues' Premier League exile. https://www.bbc.com/sport/football/articles/cm2kj1lv91xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,10 +191,10 @@ Frank Lampard: Coventry City boss praises 'special and unique' promotion. Covent
 
 ---
 
-## Story 7: Frank Lampard: Emotional Coventry boss says Premier League promotion 'right up there' in his achievements
+## Story 8: Frank Lampard: Emotional Coventry boss says Premier League promotion 'right up there' in his achievements
 **Slug (lower-third):** Frank Lampard: Emotional Coventry boss says Premier Leagu…  
 **When:** 2026-04-17 17:49 (America/Winnipeg)  •  **Published:** 2026-04-17 22:49 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~22s
+**Virality score:** 85  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
 Frank Lampard: Emotional Coventry boss says Premier League promotion 'right up there' in his achievements. Frank Lampard showed his emotions as he helped earn Coventry promotion to the Premier League; former Chelsea and Everton boss described it as right up there in his biggest career achievements Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -191,34 +215,10 @@ Frank Lampard: Emotional Coventry boss says Premier League promotion 'right up t
 
 ---
 
-## Story 8: Championship promotion race: Who's going up with Coventry City?
-**Slug (lower-third):** Championship promotion race: Who's going up with Coventry…  
-**When:** 2026-04-17 16:13 (America/Winnipeg)  •  **Published:** 2026-04-17 21:13 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Championship promotion race: Who's going up with Coventry City?. With two weeks of the regular season left, Ipswich Town, Millwall, Southampton and Middlesbrough are chasing Premier League football. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Championship promotion race: Who's going up with Coventry City?. https://www.bbc.com/sport/football/articles/cpd5p1p6lnxo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 9: Football gossip: Wharton, Senesi, Wissa, Klopp, Mavropanos, Alaba, Neuer
 **Slug (lower-third):** Football gossip: Wharton, Senesi, Wissa, Klopp, Mavropano…  
 **When:** 2026-04-17 15:57 (America/Winnipeg)  •  **Published:** 2026-04-17 20:57 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+**Virality score:** 82  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Wharton, Senesi, Wissa, Klopp, Mavropanos, Alaba, Neuer. Liverpool are set to compete with Manchester United for Crystal Palace's Adam Wharton, Tottenham have agreement to sign Bournemouth's Marcos Senesi, Newcastle United are prepared to sell Yoane Wissa, plus more. Relevance to standings and momentum.
@@ -233,7 +233,7 @@ Football gossip: Wharton, Senesi, Wissa, Klopp, Mavropanos, Alaba, Neuer. Liverp
 - bbc.com — Football gossip: Wharton, Senesi, Wissa, Klopp, Mavropanos, Alaba, Neuer. https://www.bbc.com/sport/football/articles/c2lwy1eqk51o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -242,7 +242,7 @@ Football gossip: Wharton, Senesi, Wissa, Klopp, Mavropanos, Alaba, Neuer. Liverp
 ## Story 10: Cole Palmer: Chelsea midfielder denies Manchester United links and says he wants to stay at club
 **Slug (lower-third):** Cole Palmer: Chelsea midfielder denies Manchester United …  
 **When:** 2026-04-17 15:19 (America/Winnipeg)  •  **Published:** 2026-04-17 20:19 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+**Virality score:** 81  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Cole Palmer: Chelsea midfielder denies Manchester United links and says he wants to stay at club. Chelsea midfielder Cole Palmer says he has "no plans" to leave the club amid links to Manchester United. Relevance to standings and momentum.
@@ -257,7 +257,7 @@ Cole Palmer: Chelsea midfielder denies Manchester United links and says he wants
 - bbc.com — Cole Palmer: Chelsea midfielder denies Manchester United links and says he wants to stay at club. https://www.bbc.com/sport/football/articles/czx95dqpjg2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
