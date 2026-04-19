@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-19 08:06 (America/Winnipeg)  |  2026-04-19 13:06 (UTC)
+**Generated:** 2026-04-19 13:55 (America/Winnipeg)  |  2026-04-19 18:55 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~4m 31s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Spurs condemn 'vile, dehumanising racism' aimed at Kevin Danso online
-- West Ham: Nuno Espirito Santo explains how 'rebalanced' Hammers improved to climb out of relegation zone
-- Tottenham report 'abhorrent' racist abuse of Kevin Danso to police
+- Manchester City 2-1 Arsenal: Mikel Arteta rues missed Gunners chances in loss at Man City
+- Manchester City 2-1 Arsenal: Pep Guardiola cautious despite win against league leaders
+- Tottenham Hotspur: "Vile" abuse towards defender Kevin Danso reported to police
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: West Ham: Nuno Espirito Santo explains how 'rebalanced' Hammers improved to climb out of relegation zone
-**Slug (lower-third):** West Ham: Nuno Espirito Santo explains how 'rebalanced' H…  
-**When:** 2026-04-19 07:00 (America/Winnipeg)  •  **Published:** 2026-04-19 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 1: Manchester City 2-1 Arsenal: Mikel Arteta rues missed Gunners chances in loss at Man City
+**Slug (lower-third):** Manchester City 2-1 Arsenal: Mikel Arteta rues missed Gun…  
+**When:** 2026-04-19 13:28 (America/Winnipeg)  •  **Published:** 2026-04-19 18:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-West Ham: Nuno Espirito Santo explains how 'rebalanced' Hammers improved to climb out of relegation zone. Nuno Espirito Santo isnt celebrating yet but details how Hammers used winter transfer window to reshape squad, pulled together and transformed their relegation-battle chances; Watch Crystal Palace vs West Ham live on Sky Sports from 6pm on Monday; kick-off 8pm Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Manchester City 2-1 Arsenal: Mikel Arteta rues missed Gunners chances in loss at Man City. Arsenal manager Mikel Arteta says his side had "the best chances in the game" against Manchester City. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,31 @@ West Ham: Nuno Espirito Santo explains how 'rebalanced' Hammers improved to clim
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — West Ham: Nuno Espirito Santo explains how 'rebalanced' Hammers improved to climb out of relegation zone. https://www.skysports.com/football/news/12040/13533253/west-ham-nuno-espirito-santo-explains-how-rebalanced-hammers-improved-to-climb-out-of-relegation-zone
+- bbc.com — Manchester City 2-1 Arsenal: Mikel Arteta rues missed Gunners chances in loss at Man City. https://www.bbc.com/sport/football/videos/ce3d4nn52geo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Manchester City 2-1 Arsenal: Pep Guardiola cautious despite win against league leaders
+**Slug (lower-third):** Manchester City 2-1 Arsenal: Pep Guardiola cautious despi…  
+**When:** 2026-04-19 13:23 (America/Winnipeg)  •  **Published:** 2026-04-19 18:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Manchester City 2-1 Arsenal: Pep Guardiola cautious despite win against league leaders. Manchester City manager Pep Guardiola says his side are still not top of the league and their remaining fixtures are going to be "so difficult" after The Blues beat league leaders Arsenal to go three points behind with a game in hand. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester City 2-1 Arsenal: Pep Guardiola cautious despite win against league leaders. https://www.bbc.com/sport/football/videos/cnv8nqqj29lo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +66,13 @@ West Ham: Nuno Espirito Santo explains how 'rebalanced' Hammers improved to clim
 
 ### Injuries
 
-## Story 2: Michael Carrick silences growing doubters as Man Utd close in on Champions League
-**Slug (lower-third):** Michael Carrick silences growing doubters as Man Utd clos…  
-**When:** 2026-04-18 18:18 (America/Winnipeg)  •  **Published:** 2026-04-18 23:18 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 3: Ipswich rally to hold Middlesbrough via Jack Clarke's controversial penalty
+**Slug (lower-third):** Ipswich rally to hold Middlesbrough via Jack Clarke's con…  
+**When:** 2026-04-19 08:20 (America/Winnipeg)  •  **Published:** 2026-04-19 13:20 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Michael Carrick silences growing doubters as Man Utd close in on Champions League. Manchester United beat Chelsea to move closer to a Champions League return and silence the growing Michael Carrick doubters. Relevance to standings and momentum.
+Ipswich rally to hold Middlesbrough via Jack Clarke's controversial penalty. Middlesbrough's chances of automatic promotion were cut as Ipswich returned to second with a 2-2 draw after George Hirst was adjudged to have been fouled Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,33 +81,7 @@ Michael Carrick silences growing doubters as Man Utd close in on Champions Leagu
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Michael Carrick silences growing doubters as Man Utd close in on Champions League. https://www.bbc.com/sport/football/articles/cly67vpyx1jo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 3: Arsenal: How does Mikel Arteta set up against Man City for title charge?
-**Slug (lower-third):** Arsenal: How does Mikel Arteta set up against Man City fo…  
-**When:** 2026-04-19 00:24 (America/Winnipeg)  •  **Published:** 2026-04-19 05:24 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal: How does Mikel Arteta set up against Man City for title charge?. Novel solutions, no matter how small, might decide the Premier League title. We take a closer look at how Arsenal have played recently and what this means for the run-in. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Arsenal: How does Mikel Arteta set up against Man City for title charge?. https://www.bbc.com/sport/football/articles/c1eq2xdyg3wo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Ipswich rally to hold Middlesbrough via Jack Clarke's controversial penalty. https://www.theguardian.com/football/2026/apr/19/ipswich-middlesbrough-championship-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -94,13 +92,13 @@ Arsenal: How does Mikel Arteta set up against Man City for title charge?. Novel 
 
 ### Club Updates
 
-## Story 4: Spurs condemn 'vile, dehumanising racism' aimed at Kevin Danso online
-**Slug (lower-third):** Spurs condemn 'vile, dehumanising racism' aimed at Kevin …  
-**When:** 2026-04-19 07:06 (America/Winnipeg)  •  **Published:** 2026-04-19 12:06 (UTC)  
+## Story 4: Tottenham Hotspur: "Vile" abuse towards defender Kevin Danso reported to police
+**Slug (lower-third):** Tottenham Hotspur: "Vile" abuse towards defender Kevin Da…  
+**When:** 2026-04-19 12:26 (America/Winnipeg)  •  **Published:** 2026-04-19 17:26 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Spurs condemn 'vile, dehumanising racism' aimed at Kevin Danso online. Tottenham have condemned abuse aimed at the defender Kevin Danso after Saturday's draw with Brighton and have vowed 'immediate action' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Tottenham Hotspur: "Vile" abuse towards defender Kevin Danso reported to police. Tottenham Hotspur have reported "vile, dehumanising" abuse towards defender Kevin Danso to the police. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,32 +107,6 @@ Spurs condemn 'vile, dehumanising racism' aimed at Kevin Danso online. Tottenham
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Spurs condemn 'vile, dehumanising racism' aimed at Kevin Danso online. https://www.theguardian.com/football/2026/apr/19/tottenham-condemn-racism-aimed-at-kevin-danso-online
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Tottenham report 'abhorrent' racist abuse of Kevin Danso to police
-**Slug (lower-third):** Tottenham report 'abhorrent' racist abuse of Kevin Danso …  
-**When:** 2026-04-19 03:59 (America/Winnipeg)  •  **Published:** 2026-04-19 08:59 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham report 'abhorrent' racist abuse of Kevin Danso to police. Tottenham have condemned the "vile, dehumanising racism" aimed at defender Kevin Danso following Saturday's 2-2 draw with Brighton. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- espn.com — Tottenham report 'abhorrent' racist abuse of Kevin Danso to police. https://www.espn.com/soccer/story/_/id/48529885/tottenham-report-abhorrent-racist-abuse-kevin-danso-police
-- skysports.com — Kevin Danso: Tottenham Hotspur report 'abhorrent' racist abuse of defender to police. https://www.skysports.com/football/news/12040/13533674/kevin-danso-tottenham-hotspur-report-abhorrent-racist-abuse-of-defender-to-police
 - bbc.com — Tottenham Hotspur: "Vile" abuse towards defender Kevin Danso reported to police. https://www.bbc.com/sport/football/articles/c62jv527x85o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
@@ -144,13 +116,13 @@ Tottenham report 'abhorrent' racist abuse of Kevin Danso to police. Tottenham ha
 
 ---
 
-## Story 6: Tony Pulis column: Why Man City's 'leg-beaters' can make the difference against Arsenal
-**Slug (lower-third):** Tony Pulis column: Why Man City's 'leg-beaters' can make …  
-**When:** 2026-04-19 00:37 (America/Winnipeg)  •  **Published:** 2026-04-19 05:37 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 5: Mo Salah, Virgil van Dijk step up for Liverpool in Merseyside derby, Aston Villa set up perfect run-in - Premier League hits and misses
+**Slug (lower-third):** Mo Salah, Virgil van Dijk step up for Liverpool in Mersey…  
+**When:** 2026-04-19 12:24 (America/Winnipeg)  •  **Published:** 2026-04-19 17:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Tony Pulis column: Why Man City's 'leg-beaters' can make the difference against Arsenal. Tony Pulis explains why Manchester City's attacking players could prove to be their match-winners in Sunday's Premier League title showdown with leaders Arsenal. Relevance to standings and momentum.
+Mo Salah, Virgil van Dijk step up for Liverpool in Merseyside derby, Aston Villa set up perfect run-in - Premier League hits and misses. Sky Sports football writers discuss Sundays action as Liverpool beat Everton 2-1 in the Merseyside derby, Aston Villa move 10 points clear inside the top five with a 4-3 win over Sunderland and Nottm Forest ease relegation worries with 4-1 win over Burnley Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -159,7 +131,7 @@ Tony Pulis column: Why Man City's 'leg-beaters' can make the difference against 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tony Pulis column: Why Man City's 'leg-beaters' can make the difference against Arsenal. https://www.bbc.com/sport/football/articles/cnv88q6l9q6o?at_medium=RSS&at_campaign=rss
+- skysports.com — Mo Salah, Virgil van Dijk step up for Liverpool in Merseyside derby, Aston Villa set up perfect run-in - Premier League hits and misses. https://www.skysports.com/football/news/12040/13533832/mo-salah-virgil-van-dijk-step-up-for-liverpool-in-merseyside-derby-aston-villa-set-up-perfect-run-in-premier-league-hits-and-misses
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -168,13 +140,13 @@ Tony Pulis column: Why Man City's 'leg-beaters' can make the difference against 
 
 ---
 
-## Story 7: Chelsea 0-1 Manchester United: Liam Rosenior admits he doesn't know what consequences there will be if he fails to bring Champions League football
-**Slug (lower-third):** Chelsea 0-1 Manchester United: Liam Rosenior admits he do…  
-**When:** 2026-04-18 17:52 (America/Winnipeg)  •  **Published:** 2026-04-18 22:52 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~26s
+## Story 6: Liverpool: Reds fans in dreamland but huge summer ahead for Arne Slot
+**Slug (lower-third):** Liverpool: Reds fans in dreamland but huge summer ahead f…  
+**When:** 2026-04-19 12:03 (America/Winnipeg)  •  **Published:** 2026-04-19 17:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea 0-1 Manchester United: Liam Rosenior admits he doesn't know what consequences there will be if he fails to bring Champions League football. Chelsea boss Liam Rosenior doesnt know what consequences his side will face if they fail to qualify for the Champions League; Chelseas 1-0 defeat to Manchester United leaves them four points behind fifth-placed Liverpool Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liverpool: Reds fans in dreamland but huge summer ahead for Arne Slot. Liverpool's 100th-minute winner at Everton moves the Reds closer to a Champions League spot - but issues still remain. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -183,8 +155,7 @@ Chelsea 0-1 Manchester United: Liam Rosenior admits he doesn't know what consequ
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea 0-1 Manchester United: Liam Rosenior admits he doesn't know what consequences there will be if he fails to bring Champions League football. https://www.skysports.com/football/news/12040/13533607/chelsea-0-1-manchester-united-liam-rosenior-admits-he-doesnt-know-what-consequences-there-will-be-if-he-fails-to-bring-champions-league-football
-- bbc.com — Premier League Highlights: Chelsea 0-1 Manchester United. https://www.bbc.com/sport/football/videos/ceqwde99q49o?at_medium=RSS&at_campaign=rss
+- bbc.com — Liverpool: Reds fans in dreamland but huge summer ahead for Arne Slot. https://www.bbc.com/sport/football/articles/c9qd94rzr01o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -193,13 +164,13 @@ Chelsea 0-1 Manchester United: Liam Rosenior admits he doesn't know what consequ
 
 ---
 
-## Story 8: Premier League highlights: Leeds United 3-0 Wolverhampton Wanderers
-**Slug (lower-third):** Premier League highlights: Leeds United 3-0 Wolverhampton…  
-**When:** 2026-04-18 16:29 (America/Winnipeg)  •  **Published:** 2026-04-18 21:29 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
+## Story 7: Nottingham Forest: Failed Morgan Gibbs-White move haunts Tottenham
+**Slug (lower-third):** Nottingham Forest: Failed Morgan Gibbs-White move haunts …  
+**When:** 2026-04-19 11:56 (America/Winnipeg)  •  **Published:** 2026-04-19 16:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Leeds United 3-0 Wolverhampton Wanderers. Leeds moved a step closer to securing their Premier League survival as they beat Wolves 3-0 at Elland Road. Relevance to standings and momentum.
+Nottingham Forest: Failed Morgan Gibbs-White move haunts Tottenham. Morgan Gibbs-White's hat-trick for Nottingham Forest serves as another painful reminder of Tottenham's failed pursuit of the striker last summer. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -208,22 +179,22 @@ Premier League highlights: Leeds United 3-0 Wolverhampton Wanderers. Leeds moved
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Leeds United 3-0 Wolverhampton Wanderers. https://www.bbc.com/sport/football/videos/cy81w215ze9o?at_medium=RSS&at_campaign=rss
+- bbc.com — Nottingham Forest: Failed Morgan Gibbs-White move haunts Tottenham. https://www.bbc.com/sport/football/articles/cvg09l0y72no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 9: Premier League highlights: Newcastle United 1-2 Bournemouth
-**Slug (lower-third):** Premier League highlights: Newcastle United 1-2 Bournemou…  
-**When:** 2026-04-18 16:29 (America/Winnipeg)  •  **Published:** 2026-04-18 21:29 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
+## Story 8: Florian Wirtz struggling to forge connections in tough Liverpool baptism | Will Unwin
+**Slug (lower-third):** Florian Wirtz struggling to forge connections in tough Li…  
+**When:** 2026-04-19 11:27 (America/Winnipeg)  •  **Published:** 2026-04-19 16:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Newcastle United 1-2 Bournemouth. Bournemouth extend their unbeaten run in the Premier League to 13 games after beating Newcastle 2-1 at St. James' Park. Relevance to standings and momentum.
+Florian Wirtz struggling to forge connections in tough Liverpool baptism | Will Unwin. Expensive Germany playmaker showed only glimpses of his quality in the Merseyside derby win against Everton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -232,22 +203,22 @@ Premier League highlights: Newcastle United 1-2 Bournemouth. Bournemouth extend 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Newcastle United 1-2 Bournemouth. https://www.bbc.com/sport/football/videos/c6251dnn9j7o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Florian Wirtz struggling to forge connections in tough Liverpool baptism | Will Unwin. https://www.theguardian.com/football/2026/apr/19/florian-wirtz-still-struggling-to-forge-connections-in-tough-liverpool-baptism
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 10: Premier League highlights: Brentford 0-0 Fulham
-**Slug (lower-third):** Premier League highlights: Brentford 0-0 Fulham  
-**When:** 2026-04-18 16:29 (America/Winnipeg)  •  **Published:** 2026-04-18 21:29 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
+## Story 9: Aston Villa 4-3 Sunderland | Premier League highlights
+**Slug (lower-third):** Aston Villa 4-3 Sunderland | Premier League highlights  
+**When:** 2026-04-19 11:21 (America/Winnipeg)  •  **Published:** 2026-04-19 16:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Brentford 0-0 Fulham. Brentford draw their fifth-consecutive Premier League game as they draw 0-0 with Fulham at the Gtech Community Stadium. Relevance to standings and momentum.
+Aston Villa 4-3 Sunderland | Premier League highlights. FREE TO WATCH: Highlights from Aston Villa's match against Sunderland in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -256,10 +227,34 @@ Premier League highlights: Brentford 0-0 Fulham. Brentford draw their fifth-cons
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Brentford 0-0 Fulham. https://www.bbc.com/sport/football/videos/c705y5893pyo?at_medium=RSS&at_campaign=rss
+- skysports.com — Aston Villa 4-3 Sunderland | Premier League highlights. https://www.skysports.com/watch/video/13533794/aston-villa-4-3-sunderland-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Gibbs-White hat-trick sinks Burnley and moves Forest closer towards safety
+**Slug (lower-third):** Gibbs-White hat-trick sinks Burnley and moves Forest clos…  
+**When:** 2026-04-19 10:36 (America/Winnipeg)  •  **Published:** 2026-04-19 15:36 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Gibbs-White hat-trick sinks Burnley and moves Forest closer towards safety. Nottingham Forest captain's second-half treble set up 4-1 come-from-behind victory over Burnley and lifted club five points clear of relegation Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Gibbs-White hat-trick sinks Burnley and moves Forest closer towards safety. https://www.theguardian.com/football/2026/apr/19/nottingham-forest-burnley-premier-league-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
