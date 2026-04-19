@@ -1,49 +1,25 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-18 21:51 (America/Winnipeg)  |  2026-04-19 02:51 (UTC)
+**Generated:** 2026-04-19 02:23 (America/Winnipeg)  |  2026-04-19 07:23 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~3m 26s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Michael Carrick silences growing doubters as Man Utd close in on Champions League
-- Chelsea: Pressure mounts for Liam Rosenior's side with fan protests and another costly loss
-- Match of the Day analysis: How Porro let Tottenham down defensively against Brighton
+- Manchester City v Arsenal: Answer our prompts to get a prediction
+- Tony Pulis column: Why Man City's 'leg-beaters' can make the difference against Arsenal
+- Chelsea 0-1 Manchester United: Liam Rosenior admits he doesn't know what consequences there will be if he fails to bring Champions League football
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Chelsea: Pressure mounts for Liam Rosenior's side with fan protests and another costly loss
-**Slug (lower-third):** Chelsea: Pressure mounts for Liam Rosenior's side with fa…  
-**When:** 2026-04-18 18:05 (America/Winnipeg)  •  **Published:** 2026-04-18 23:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea: Pressure mounts for Liam Rosenior's side with fan protests and another costly loss. Chelsea head coach Liam Rosenior admits his side face a "mountain to climb" as their campaign unravels at a crucial juncture following defeat by Manchester United. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Chelsea: Pressure mounts for Liam Rosenior's side with fan protests and another costly loss. https://www.bbc.com/sport/football/articles/cj0vg341djqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Tottenham Hotspur: Time running out for Spurs in Premier League relegation fight after Brighton draw
+## Story 1: Tottenham Hotspur: Time running out for Spurs in Premier League relegation fight after Brighton draw
 **Slug (lower-third):** Tottenham Hotspur: Time running out for Spurs in Premier …  
 **When:** 2026-04-18 17:14 (America/Winnipeg)  •  **Published:** 2026-04-18 22:14 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Tottenham Hotspur: Time running out for Spurs in Premier League relegation fight after Brighton draw. Scenes of celebration turned to bitter disappointment as Tottenham's hopes of avoiding relegation from the Premier League were dealt a devastating blow against Brighton. Relevance to standings and momentum.
@@ -64,62 +40,12 @@ Tottenham Hotspur: Time running out for Spurs in Premier League relegation fight
 
 ---
 
-## Story 3: Football gossip: Rogers, Jones, Livramento, Mourinho, Camavinga, Onyeka, Conte
-**Slug (lower-third):** Football gossip: Rogers, Jones, Livramento, Mourinho, Cam…  
-**When:** 2026-04-18 15:44 (America/Winnipeg)  •  **Published:** 2026-04-18 20:44 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Rogers, Jones, Livramento, Mourinho, Camavinga, Onyeka, Conte. Bayern Munich are keen on Aston Villa's Morgan Rogers, Curtis Jones is preparing to leave Liverpool, and Real Madrid are considering appointing Jose Mourinho again. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Rogers, Jones, Livramento, Mourinho, Camavinga, Onyeka, Conte. https://www.bbc.com/sport/football/articles/c9372vjp895o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 4: Can Leeds United feel safe from relegation after back-to-back wins?
-**Slug (lower-third):** Can Leeds United feel safe from relegation after back-to-…  
-**When:** 2026-04-18 15:19 (America/Winnipeg)  •  **Published:** 2026-04-18 20:19 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Can Leeds United feel safe from relegation after back-to-back wins?. Leeds United are eight points above the Premier League drop zone after back-to-back wins - so can they feel safe from relegation? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Can Leeds United feel safe from relegation after back-to-back wins?. https://www.bbc.com/sport/football/articles/cr4171dw46go?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Injuries
 
-## Story 5: Michael Carrick silences growing doubters as Man Utd close in on Champions League
+## Story 2: Michael Carrick silences growing doubters as Man Utd close in on Champions League
 **Slug (lower-third):** Michael Carrick silences growing doubters as Man Utd clos…  
 **When:** 2026-04-18 18:18 (America/Winnipeg)  •  **Published:** 2026-04-18 23:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Michael Carrick silences growing doubters as Man Utd close in on Champions League. Manchester United beat Chelsea to move closer to a Champions League return and silence the growing Michael Carrick doubters. Relevance to standings and momentum.
@@ -142,13 +68,13 @@ Michael Carrick silences growing doubters as Man Utd close in on Champions Leagu
 
 ### Club Updates
 
-## Story 6: Match of the Day analysis: How Porro let Tottenham down defensively against Brighton
-**Slug (lower-third):** Match of the Day analysis: How Porro let Tottenham down d…  
-**When:** 2026-04-18 18:00 (America/Winnipeg)  •  **Published:** 2026-04-18 23:00 (UTC)  
+## Story 3: Manchester City v Arsenal: Answer our prompts to get a prediction
+**Slug (lower-third):** Manchester City v Arsenal: Answer our prompts to get a pr…  
+**When:** 2026-04-19 01:48 (America/Winnipeg)  •  **Published:** 2026-04-19 06:48 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day analysis: How Porro let Tottenham down defensively against Brighton. Match of the Day pundit Ashley Williams praises Pedro Porro's attacking play but thinks he needs to do more defensively with his team in a relegation battle. Relevance to standings and momentum.
+Manchester City v Arsenal: Answer our prompts to get a prediction. By answering our eight simple questions the BBC Sport supercomputer will be able to give you a unique prediction. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +83,7 @@ Match of the Day analysis: How Porro let Tottenham down defensively against Brig
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Match of the Day analysis: How Porro let Tottenham down defensively against Brighton. https://www.bbc.com/sport/football/videos/cm2k0gjnx0eo?at_medium=RSS&at_campaign=rss
+- bbc.com — Manchester City v Arsenal: Answer our prompts to get a prediction. https://www.bbc.com/sport/football/articles/cz0e2ng1g3vo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,10 +92,59 @@ Match of the Day analysis: How Porro let Tottenham down defensively against Brig
 
 ---
 
-## Story 7: Roberto De Zerbi: Tottenham can win last five Premier League games
+## Story 4: Tony Pulis column: Why Man City's 'leg-beaters' can make the difference against Arsenal
+**Slug (lower-third):** Tony Pulis column: Why Man City's 'leg-beaters' can make …  
+**When:** 2026-04-19 00:37 (America/Winnipeg)  •  **Published:** 2026-04-19 05:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tony Pulis column: Why Man City's 'leg-beaters' can make the difference against Arsenal. Tony Pulis explains why Manchester City's attacking players could prove to be their match-winners in Sunday's Premier League title showdown with leaders Arsenal. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tony Pulis column: Why Man City's 'leg-beaters' can make the difference against Arsenal. https://www.bbc.com/sport/football/articles/cnv88q6l9q6o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Chelsea 0-1 Manchester United: Liam Rosenior admits he doesn't know what consequences there will be if he fails to bring Champions League football
+**Slug (lower-third):** Chelsea 0-1 Manchester United: Liam Rosenior admits he do…  
+**When:** 2026-04-18 17:52 (America/Winnipeg)  •  **Published:** 2026-04-18 22:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
+
+### Presenter Script (3–5 sentences)
+Chelsea 0-1 Manchester United: Liam Rosenior admits he doesn't know what consequences there will be if he fails to bring Champions League football. Chelsea boss Liam Rosenior doesnt know what consequences his side will face if they fail to qualify for the Champions League; Chelseas 1-0 defeat to Manchester United leaves them four points behind fifth-placed Liverpool Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Chelsea 0-1 Manchester United: Liam Rosenior admits he doesn't know what consequences there will be if he fails to bring Champions League football. https://www.skysports.com/football/news/12040/13533607/chelsea-0-1-manchester-united-liam-rosenior-admits-he-doesnt-know-what-consequences-there-will-be-if-he-fails-to-bring-champions-league-football
+- bbc.com — Premier League Highlights: Chelsea 0-1 Manchester United. https://www.bbc.com/sport/football/videos/ceqwde99q49o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Roberto De Zerbi: Tottenham can win last five Premier League games
 **Slug (lower-third):** Roberto De Zerbi: Tottenham can win last five Premier Lea…  
 **When:** 2026-04-18 15:23 (America/Winnipeg)  •  **Published:** 2026-04-18 20:23 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Roberto De Zerbi: Tottenham can win last five Premier League games. Roberto de Zerbi believes Tottenham can win all five remaining Premier League games to emphatically avoid relegation -- and warned any unhappy players will be turned away from the club's training ground on Monday. Relevance to standings and momentum.
@@ -191,10 +166,34 @@ Roberto De Zerbi: Tottenham can win last five Premier League games. Roberto de Z
 
 ---
 
+## Story 7: Premier League: Georginio Rutter scores late equaliser to deny Tottenham crucial win
+**Slug (lower-third):** Premier League: Georginio Rutter scores late equaliser to…  
+**When:** 2026-04-18 16:30 (America/Winnipeg)  •  **Published:** 2026-04-18 21:30 (UTC)  
+**Virality score:** 91  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Georginio Rutter scores late equaliser to deny Tottenham crucial win. Tottenham remain in the bottom three and are denied their first Premier League victory since December as Georginio Rutter scores a late equaliser for Brighton as the two sides draw 2-2 at the Tottenham Hotspur Stadium. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Georginio Rutter scores late equaliser to deny Tottenham crucial win. https://www.bbc.com/sport/football/videos/cr41772xd92o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ## Story 8: Premier League highlights: Leeds United 3-0 Wolverhampton Wanderers
 **Slug (lower-third):** Premier League highlights: Leeds United 3-0 Wolverhampton…  
 **When:** 2026-04-18 16:29 (America/Winnipeg)  •  **Published:** 2026-04-18 21:29 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League highlights: Leeds United 3-0 Wolverhampton Wanderers. Leeds moved a step closer to securing their Premier League survival as they beat Wolves 3-0 at Elland Road. Relevance to standings and momentum.
@@ -218,7 +217,7 @@ Premier League highlights: Leeds United 3-0 Wolverhampton Wanderers. Leeds moved
 ## Story 9: Premier League highlights: Newcastle United 1-2 Bournemouth
 **Slug (lower-third):** Premier League highlights: Newcastle United 1-2 Bournemou…  
 **When:** 2026-04-18 16:29 (America/Winnipeg)  •  **Published:** 2026-04-18 21:29 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League highlights: Newcastle United 1-2 Bournemouth. Bournemouth extend their unbeaten run in the Premier League to 13 games after beating Newcastle 2-1 at St. James' Park. Relevance to standings and momentum.
@@ -242,7 +241,7 @@ Premier League highlights: Newcastle United 1-2 Bournemouth. Bournemouth extend 
 ## Story 10: Premier League highlights: Brentford 0-0 Fulham
 **Slug (lower-third):** Premier League highlights: Brentford 0-0 Fulham  
 **When:** 2026-04-18 16:29 (America/Winnipeg)  •  **Published:** 2026-04-18 21:29 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League highlights: Brentford 0-0 Fulham. Brentford draw their fifth-consecutive Premier League game as they draw 0-0 with Fulham at the Gtech Community Stadium. Relevance to standings and momentum.
