@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-21 02:55 (America/Winnipeg)  |  2026-04-21 07:55 (UTC)
+**Generated:** 2026-04-21 08:45 (America/Winnipeg)  |  2026-04-21 13:45 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 43s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Leicester City: From Premier League glory to the edge of League One - fall from grace of the Foxes examined
-- Chelsea: Paul Merson has no idea what Blues' project is with pressure growing on Liam Rosenior and Champions League fading
-- Premier League clubs unhappy at rising costs of Independent Football Regulator
+- Jamie Carragher: From what I hear... Arne Slot will stay at Liverpool next season
+- Marco Rose: Bournemouth 'in good hands' with new boss, says Andoni Iraola
+- Arne Slot future: Liverpool boss expected to stay at Anfield next season as club close in on Champions League qualification
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Marco Rose to replace Andoni Iraola as Bournemouth head coach
-**Slug (lower-third):** Marco Rose to replace Andoni Iraola as Bournemouth head c…  
-**When:** 2026-04-20 15:18 (America/Winnipeg)  •  **Published:** 2026-04-20 20:18 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 1: Marco Rose: Bournemouth 'in good hands' with new boss, says Andoni Iraola
+**Slug (lower-third):** Marco Rose: Bournemouth 'in good hands' with new boss, sa…  
+**When:** 2026-04-21 08:31 (America/Winnipeg)  •  **Published:** 2026-04-21 13:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Marco Rose to replace Andoni Iraola as Bournemouth head coach. Bournemouth have confirmed Marco Rose will replace the departing Andoni Iraola at the end of the season. Relevance to standings and momentum.
+Marco Rose: Bournemouth 'in good hands' with new boss, says Andoni Iraola. Bournemouth manager Andoni Iraola says the appointment of Marco Rose to replace him in the summer will leave the club "in very good hands". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,8 +31,7 @@ Marco Rose to replace Andoni Iraola as Bournemouth head coach. Bournemouth have 
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Marco Rose to replace Andoni Iraola as Bournemouth head coach. https://www.espn.com/soccer/story/_/id/48519539/marco-rose-replace-andoni-iraola-bournemouth-head-coach
-- theguardian.com — Bournemouth confirm Marco Rose will take over from Andoni Iraola as head coach. https://www.theguardian.com/football/2026/apr/20/bournemouth-confirm-marco-rose-will-take-over-from-andoni-iraola-as-head-coach
+- bbc.com — Marco Rose: Bournemouth 'in good hands' with new boss, says Andoni Iraola. https://www.bbc.com/sport/football/articles/cy71z5zenx7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -41,15 +40,13 @@ Marco Rose to replace Andoni Iraola as Bournemouth head coach. Bournemouth have 
 
 ---
 
-### Injuries
-
-## Story 2: Today on Sky Sports Racing: Ffos Las, Wolverhampton and Yarmouth
-**Slug (lower-third):** Today on Sky Sports Racing: Ffos Las, Wolverhampton and Y…  
-**When:** 2026-04-21 02:00 (America/Winnipeg)  •  **Published:** 2026-04-21 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+## Story 2: Bournemouth: Who is incoming head coach Marco Rose?
+**Slug (lower-third):** Bournemouth: Who is incoming head coach Marco Rose?  
+**When:** 2026-04-21 05:26 (America/Winnipeg)  •  **Published:** 2026-04-21 10:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Ffos Las, Wolverhampton and Yarmouth. Nicky Henderson's Crystal Island makes his long-awaited return to the track at Ffos Las having entered many trackers when winning impressively at Ascot in December. We also have competitive flat action from Wolverhampton and Yarmouth, live on Sky Sports Racing from 2pm. Relevance to standings and momentum.
+Bournemouth: Who is incoming head coach Marco Rose?. German football journalist Constantin Eckner provides the background on Bournemouth's incoming head coach Marco Rose. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -58,7 +55,33 @@ Today on Sky Sports Racing: Ffos Las, Wolverhampton and Yarmouth. Nicky Henderso
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Ffos Las, Wolverhampton and Yarmouth. https://www.skysports.com/racing/news/12040/13533887/today-on-sky-sports-racing-ffos-las-wolverhampton-and-yarmouth
+- bbc.com — Bournemouth: Who is incoming head coach Marco Rose?. https://www.bbc.com/sport/football/videos/cz0ez392k4zo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Stina Blackstenius: Arsenal forward signs two-year contract at Women's Super League club
+**Slug (lower-third):** Stina Blackstenius: Arsenal forward signs two-year contra…  
+**When:** 2026-04-21 07:00 (America/Winnipeg)  •  **Published:** 2026-04-21 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Stina Blackstenius: Arsenal forward signs two-year contract at Women's Super League club. Arsenal forward Stina Blackstenius signs a new two-year contract with the Women's Super League club. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Stina Blackstenius: Arsenal forward signs two-year contract at Women's Super League club. https://www.bbc.com/sport/football/articles/cdrm7gvn2yro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -69,61 +92,13 @@ Today on Sky Sports Racing: Ffos Las, Wolverhampton and Yarmouth. Nicky Henderso
 
 ### Club Updates
 
-## Story 3: Leicester City: From Premier League glory to the edge of League One - fall from grace of the Foxes examined
-**Slug (lower-third):** Leicester City: From Premier League glory to the edge of …  
-**When:** 2026-04-21 03:00 (America/Winnipeg)  •  **Published:** 2026-04-21 08:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Leicester City: From Premier League glory to the edge of League One - fall from grace of the Foxes examined. Leicester will be relegated from the Sky Bet Championship - a decade after they won the Premier League - if they fail to beat Hull at the King Power Stadium; Watch Leicester vs Hull live on Sky Sports Football from 7.30pm on Tuesday; kick-off 7.45pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Leicester City: From Premier League glory to the edge of League One - fall from grace of the Foxes examined. https://www.skysports.com/football/news/12040/13534091/leicester-city-from-premier-league-glory-to-the-edge-of-league-one-fall-from-grace-of-the-foxes-examined
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Chelsea: Paul Merson has no idea what Blues' project is with pressure growing on Liam Rosenior and Champions League fading
-**Slug (lower-third):** Chelsea: Paul Merson has no idea what Blues' project is w…  
-**When:** 2026-04-21 03:00 (America/Winnipeg)  •  **Published:** 2026-04-21 08:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Chelsea: Paul Merson has no idea what Blues' project is with pressure growing on Liam Rosenior and Champions League fading. Liam Rosenior is under serious pressure at Chelsea after six defeats in eight games; the Blues are seven points off the Champions League places with five games left; watch Brighton vs Chelsea live on Sky Sports on Tuesday night from 7.30pm, kick-off 8pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Chelsea: Paul Merson has no idea what Blues' project is with pressure growing on Liam Rosenior and Champions League fading. https://www.skysports.com/football/news/12040/13534060/chelsea-paul-merson-has-no-idea-what-blues-project-is-with-pressure-growing-on-liam-rosenior-and-champions-league-fading
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Premier League clubs unhappy at rising costs of Independent Football Regulator
-**Slug (lower-third):** Premier League clubs unhappy at rising costs of Independe…  
-**When:** 2026-04-21 02:00 (America/Winnipeg)  •  **Published:** 2026-04-21 07:00 (UTC)  
+## Story 4: Jamie Carragher: From what I hear... Arne Slot will stay at Liverpool next season
+**Slug (lower-third):** Jamie Carragher: From what I hear... Arne Slot will stay …  
+**When:** 2026-04-21 08:46 (America/Winnipeg)  •  **Published:** 2026-04-21 13:46 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League clubs unhappy at rising costs of Independent Football Regulator. Premier League clubs are increasingly unhappy at the Independent Football Regulator's (IFR's) rising costs and uncertainty about how much each club will be made to pay Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jamie Carragher: From what I hear... Arne Slot will stay at Liverpool next season. Jamie Carragher admits that from the noises hes heard, Arne Slot will remain at Liverpool next season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,7 +107,7 @@ Premier League clubs unhappy at rising costs of Independent Football Regulator. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League clubs unhappy at rising costs of Independent Football Regulator. https://www.theguardian.com/football/2026/apr/21/premier-league-clubs-unhappy-at-rising-costs-of-independent-football-regulator
+- skysports.com — Jamie Carragher: From what I hear... Arne Slot will stay at Liverpool next season. https://www.skysports.com/watch/video/13534546/jamie-carragher-from-what-i-hear-arne-slot-will-stay-at-liverpool-next-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,37 +116,13 @@ Premier League clubs unhappy at rising costs of Independent Football Regulator. 
 
 ---
 
-## Story 6: EFL permutations: what's at stake in midweek for the Championship and beyond?
-**Slug (lower-third):** EFL permutations: what's at stake in midweek for the Cham…  
-**When:** 2026-04-21 02:00 (America/Winnipeg)  •  **Published:** 2026-04-21 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-EFL permutations: what's at stake in midweek for the Championship and beyond?. Leicester City, the champions of England 10 years ago, could be relegated on Tuesday, with plenty more ups and downs to be resolved in the next few days Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — EFL permutations: what's at stake in midweek for the Championship and beyond?. https://www.theguardian.com/football/2026/apr/21/efl-permutations-whats-at-stake-in-midweek-for-the-championship-and-beyond
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Wolves relegated from the Premier League: How poor recruitment ended their eight-year stay in the top division
-**Slug (lower-third):** Wolves relegated from the Premier League: How poor recrui…  
-**When:** 2026-04-21 02:00 (America/Winnipeg)  •  **Published:** 2026-04-21 07:00 (UTC)  
+## Story 5: Arne Slot future: Liverpool boss expected to stay at Anfield next season as club close in on Champions League qualification
+**Slug (lower-third):** Arne Slot future: Liverpool boss expected to stay at Anfi…  
+**When:** 2026-04-21 08:24 (America/Winnipeg)  •  **Published:** 2026-04-21 13:24 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Wolves relegated from the Premier League: How poor recruitment ended their eight-year stay in the top division. West Hams draw at Crystal Palace on Monday Night Football means Wolves relegation has been confirmed with five games still to play. Why did a club in its eighth season in the Premier League struggle so badly? And what now as they face a messy rebuild? Relevance to standings and momentum.
+Arne Slot future: Liverpool boss expected to stay at Anfield next season as club close in on Champions League qualification. Liverpool are currently fifth in the Premier League and sit seven points ahead of sixth-placed Chelsea with five games to play; Arne Slot has come under pressure at Anfield after last seasons title-winning campaign Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -180,7 +131,7 @@ Wolves relegated from the Premier League: How poor recruitment ended their eight
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Wolves relegated from the Premier League: How poor recruitment ended their eight-year stay in the top division. https://www.skysports.com/football/news/12040/13534320/wolves-relegated-from-the-premier-league-what-next-after-poor-recruitment-ended-their-eight-year-stay-in-the-top-division
+- skysports.com — Arne Slot future: Liverpool boss expected to stay at Anfield next season as club close in on Champions League qualification. https://www.skysports.com/football/news/12040/13534530/arne-slot-future-liverpool-boss-expected-to-stay-at-anfield-next-season-as-club-close-on-champions-league-qualification
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -189,13 +140,61 @@ Wolves relegated from the Premier League: How poor recruitment ended their eight
 
 ---
 
-## Story 8: NBA Playoffs: Atlanta Hawks stun New York Knicks to level series as Minnesota Timberwolves end Denver Nuggets' win streak
-**Slug (lower-third):** NBA Playoffs: Atlanta Hawks stun New York Knicks to level…  
-**When:** 2026-04-21 01:38 (America/Winnipeg)  •  **Published:** 2026-04-21 06:38 (UTC)  
+## Story 6: Brady leaves West Ham but Sullivan going nowhere as Kretinsky moves to up stake
+**Slug (lower-third):** Brady leaves West Ham but Sullivan going nowhere as Kreti…  
+**When:** 2026-04-21 07:38 (America/Winnipeg)  •  **Published:** 2026-04-21 12:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Brady leaves West Ham but Sullivan going nowhere as Kretinsky moves to up stake. Karren Brady has stepped down as West Ham's vice-chair after 16 years but David Sullivan has no intention of following his longtime ally out of the door Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Brady leaves West Ham but Sullivan going nowhere as Kretinsky moves to up stake. https://www.theguardian.com/football/2026/apr/21/karren-brady-steps-down-as-west-ham-vice-chair
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Greg Docherty: Charlton captain on improving home form ahead Championship clash against Ipswich
+**Slug (lower-third):** Greg Docherty: Charlton captain on improving home form ah…  
+**When:** 2026-04-21 07:30 (America/Winnipeg)  •  **Published:** 2026-04-21 12:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Greg Docherty: Charlton captain on improving home form ahead Championship clash against Ipswich. Charlton captain Greg Docherty chats fine margins, winning at Portman Road and his own form this season as the Addicks look to secure their Championship status; Watch Charlton vs Ipswich live on Sky Sports Football on Wednesday from 7pm; kick-off 7.45pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Greg Docherty: Charlton captain on improving home form ahead Championship clash against Ipswich. https://www.skysports.com/football/news/12040/13534440/greg-docherty-charlton-captain-on-improving-home-form-ahead-championship-clash-against-ipswich
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Jarell Quansah: Bayer Leverkusen defender opens up about Liverpool departure and outlines England World Cup ambitions
+**Slug (lower-third):** Jarell Quansah: Bayer Leverkusen defender opens up about …  
+**When:** 2026-04-21 06:47 (America/Winnipeg)  •  **Published:** 2026-04-21 11:47 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-NBA Playoffs: Atlanta Hawks stun New York Knicks to level series as Minnesota Timberwolves end Denver Nuggets' win streak. Cleveland Cavaliers trio of stars Donovan Mitchell, James Harden and Evan Mobley stepped up in 115-105 win over Toronto Raptors that secured a 2-0 lead in their Eastern Conference first-round playoff series; watch the 2026 NBA playoffs live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jarell Quansah: Bayer Leverkusen defender opens up about Liverpool departure and outlines England World Cup ambitions. Jarell Quansah joined Bayer Leverkusen last summer from his boyhood club Liverpool in a PS35m deal; the defender has enjoyed a strong season for the Bundesliga club and has his sights set on a place in the England squad for the World Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -204,7 +203,7 @@ NBA Playoffs: Atlanta Hawks stun New York Knicks to level series as Minnesota Ti
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — NBA Playoffs: Atlanta Hawks stun New York Knicks to level series as Minnesota Timberwolves end Denver Nuggets' win streak. https://www.skysports.com/nba/news/12040/13534380/nba-playoffs-atlanta-hawks-stun-new-york-knicks-to-level-series-as-minnesota-timberwolves-end-denver-nuggets-win-streak
+- skysports.com — Jarell Quansah: Bayer Leverkusen defender opens up about Liverpool departure and outlines England World Cup ambitions. https://www.skysports.com/football/news/12040/13534475/jarell-quansah-bayer-leverkusen-defender-opens-up-about-liverpool-departure-and-outlines-england-world-cup-ambitions
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -213,13 +212,13 @@ NBA Playoffs: Atlanta Hawks stun New York Knicks to level series as Minnesota Ti
 
 ---
 
-## Story 9: Premier League quiz: Name every team to have been relegated
-**Slug (lower-third):** Premier League quiz: Name every team to have been relegat…  
-**When:** 2026-04-21 00:16 (America/Winnipeg)  •  **Published:** 2026-04-21 05:16 (UTC)  
+## Story 9: Premier League predictions: Chris Sutton picks scores for the midweek games including Burnley v Manchester City
+**Slug (lower-third):** Premier League predictions: Chris Sutton picks scores for…  
+**When:** 2026-04-21 05:50 (America/Winnipeg)  •  **Published:** 2026-04-21 10:50 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League quiz: Name every team to have been relegated. Wolves are one of 43 teams to have been relegated from the Premier League, can you name them all? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League predictions: Chris Sutton picks scores for the midweek games including Burnley v Manchester City. Chris Sutton, the BBC readers and AI make predictions for this week's Premier League fixtures on Tuesday and Wednesday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -228,7 +227,7 @@ Premier League quiz: Name every team to have been relegated. Wolves are one of 4
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League quiz: Name every team to have been relegated. https://www.bbc.com/sport/football/articles/cedej7d494zo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League predictions: Chris Sutton picks scores for the midweek games including Burnley v Manchester City. https://www.bbc.com/sport/football/articles/c0q9vv592kyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -237,13 +236,13 @@ Premier League quiz: Name every team to have been relegated. Wolves are one of 4
 
 ---
 
-## Story 10: Wolves relegated from the Premier League as West Ham, Crystal Palace draw
-**Slug (lower-third):** Wolves relegated from the Premier League as West Ham, Cry…  
-**When:** 2026-04-20 15:18 (America/Winnipeg)  •  **Published:** 2026-04-20 20:18 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 10: Can Arsenal's season be compared to Rory McIlroy's 2025 Masters?
+**Slug (lower-third):** Can Arsenal's season be compared to Rory McIlroy's 2025 M…  
+**When:** 2026-04-21 05:31 (America/Winnipeg)  •  **Published:** 2026-04-21 10:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wolves relegated from the Premier League as West Ham, Crystal Palace draw. Wolves have been relegated after West Ham's draw with Crystal Palace on Monday left Rob Edwards' side unable to finish outside the bottom three. Relevance to standings and momentum.
+Can Arsenal's season be compared to Rory McIlroy's 2025 Masters?. The Monday Night Club debate whether Arsenal's season is comparable to McIlroy's 2025 Masters. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -252,8 +251,7 @@ Wolves relegated from the Premier League as West Ham, Crystal Palace draw. Wolve
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Wolves relegated from the Premier League as West Ham, Crystal Palace draw. https://www.espn.com/soccer/story/_/id/48491722/wolves-relegated-premier-league-west-ham-crystal-palace-draw
-- bbc.com — Premier League highlights: Crystal Palace vs West Ham. https://www.bbc.com/sport/football/videos/cwyw492veqqo?at_medium=RSS&at_campaign=rss
+- bbc.com — Can Arsenal's season be compared to Rory McIlroy's 2025 Masters?. https://www.bbc.com/sport/videos/c0q9xnn0324o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
