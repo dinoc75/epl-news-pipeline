@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-21 14:16 (America/Winnipeg)  |  2026-04-21 19:16 (UTC)
+**Generated:** 2026-04-21 21:44 (America/Winnipeg)  |  2026-04-22 02:44 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 28s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Chelsea's Robert Sanchez makes brilliant stop to deny Kaoru Mitoma opener for Brighton
-- What does Liam Rosenior need to achieve this season at Chelsea with pressure building
-- Between the Lines | Who's more likely to be relegated - West Ham or Spurs?
+- Leicester City relegated to League One: 'This could be catastrophic for the club'
+- Kobbie Mainoo set to sign new five-year Manchester United deal - Paper Talk and football transfer gossip
+- Tim Sherwood: 'Liam Rosenior won't survive this!' - 'Tottenham can beat them now!'
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Hayden Hackney, Femi Azeez and other Championship players attracting transfer interest from the Premier League
-**Slug (lower-third):** Hayden Hackney, Femi Azeez and other Championship players…  
-**When:** 2026-04-21 12:15 (America/Winnipeg)  •  **Published:** 2026-04-21 17:15 (UTC)  
+## Story 1: Tim Sherwood: 'Liam Rosenior won't survive this!' - 'Tottenham can beat them now!'
+**Slug (lower-third):** Tim Sherwood: 'Liam Rosenior won't survive this!' - 'Tott…  
+**When:** 2026-04-21 17:47 (America/Winnipeg)  •  **Published:** 2026-04-21 22:47 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Hayden Hackney, Femi Azeez and other Championship players attracting transfer interest from the Premier League. Sky Sports News takes a look at five Championship players who are on the radar of Premier League clubs ahead of this summers transfer window Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Tim Sherwood: 'Liam Rosenior won't survive this!' - 'Tottenham can beat them now!'. Tim Sherwood feels that Liam Rosenior will not remain the Chelsea manager after their 3-0 loss to Brighton and says the players keep throwing their managers under the bus. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,57 @@ Hayden Hackney, Femi Azeez and other Championship players attracting transfer in
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Hayden Hackney, Femi Azeez and other Championship players attracting transfer interest from the Premier League. https://www.skysports.com/football/news/12040/13534632/hayden-hackney-femi-azeez-and-other-championship-players-attracting-transfer-interest-from-the-premier-league
+- skysports.com — Tim Sherwood: 'Liam Rosenior won't survive this!' - 'Tottenham can beat them now!'. https://www.skysports.com/watch/video/13534812/tim-sherwood-liam-rosenior-wont-survive-this-tottenham-can-beat-them-now
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Manchester City: Pep Guardiola responds to celebration criticism
+**Slug (lower-third):** Manchester City: Pep Guardiola responds to celebration cr…  
+**When:** 2026-04-21 16:40 (America/Winnipeg)  •  **Published:** 2026-04-21 21:40 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City: Pep Guardiola responds to celebration criticism. Manchester City manager Pep Guardiola says his players can "celebrate however you want" in response to criticism from some pundits for his side's reaction to beating Arsenal on Sunday. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester City: Pep Guardiola responds to celebration criticism. https://www.bbc.com/sport/videos/c1mkvpe5lkpo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Kobbie Mainoo set to sign new five-year Manchester United deal - Paper Talk and football transfer gossip
+**Slug (lower-third):** Kobbie Mainoo set to sign new five-year Manchester United…  
+**When:** 2026-04-21 18:00 (America/Winnipeg)  •  **Published:** 2026-04-21 23:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Kobbie Mainoo set to sign new five-year Manchester United deal - Paper Talk and football transfer gossip. Wednesdays top stories include Marcus Rashford is one of five players expected to leave Barcelona this summer; Chelsea plan to hijack both Manchester clubs in the race for PS100m Nottingham Forest midfielder Elliot Anderson Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Kobbie Mainoo set to sign new five-year Manchester United deal - Paper Talk and football transfer gossip. https://www.skysports.com/football/news/12040/13534637/kobbie-mainoo-set-to-sign-new-five-year-manchester-united-deal-paper-talk-and-football-transfer-gossip
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +92,13 @@ Hayden Hackney, Femi Azeez and other Championship players attracting transfer in
 
 ### Club Updates
 
-## Story 2: Chelsea's Robert Sanchez makes brilliant stop to deny Kaoru Mitoma opener for Brighton
-**Slug (lower-third):** Chelsea's Robert Sanchez makes brilliant stop to deny Kao…  
-**When:** 2026-04-21 15:06 (America/Winnipeg)  •  **Published:** 2026-04-21 20:06 (UTC)  
+## Story 4: Leicester City relegated to League One: 'This could be catastrophic for the club'
+**Slug (lower-third):** Leicester City relegated to League One: 'This could be ca…  
+**When:** 2026-04-21 18:20 (America/Winnipeg)  •  **Published:** 2026-04-21 23:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea's Robert Sanchez makes brilliant stop to deny Kaoru Mitoma opener for Brighton. Chelseas Robert Sanchez makes brilliant stop to deny Kaoru Mitoma opener for Brighton. Relevance to standings and momentum.
+Leicester City relegated to League One: 'This could be catastrophic for the club'. Leicester City were relegated to League One with two games to spare after a 2-2 draw with Hull City. The Foxes drop into the third tier just a decade after their glorious Premier League title in 2016 Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +107,7 @@ Chelsea's Robert Sanchez makes brilliant stop to deny Kaoru Mitoma opener for Br
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea's Robert Sanchez makes brilliant stop to deny Kaoru Mitoma opener for Brighton. https://www.skysports.com/watch/video/13534706/chelseas-robert-sanchez-makes-brilliant-stop-to-deny-kaoru-mitoma-opener-for-brighton
+- skysports.com — Leicester City relegated to League One: 'This could be catastrophic for the club'. https://www.skysports.com/football/news/12040/13534814/leicester-city-relegated-to-league-one-this-could-be-catastrophic-for-the-club
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +116,38 @@ Chelsea's Robert Sanchez makes brilliant stop to deny Kaoru Mitoma opener for Br
 
 ---
 
-## Story 3: What does Liam Rosenior need to achieve this season at Chelsea with pressure building
-**Slug (lower-third):** What does Liam Rosenior need to achieve this season at Ch…  
-**When:** 2026-04-21 13:08 (America/Winnipeg)  •  **Published:** 2026-04-21 18:08 (UTC)  
+## Story 5: Brighton 3-0 Chelsea: Every word from Liam Rosenior's explosive interview to Sky Sports after embarrassing Premier League defeat
+**Slug (lower-third):** Brighton 3-0 Chelsea: Every word from Liam Rosenior's exp…  
+**When:** 2026-04-21 17:39 (America/Winnipeg)  •  **Published:** 2026-04-21 22:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Brighton 3-0 Chelsea: Every word from Liam Rosenior's explosive interview to Sky Sports after embarrassing Premier League defeat. Chelsea were blown away 3-0 by Brighton in Liam Roseniors lowest moment since joining club; the Blues have lost five top-flight games without scoring for first time since November 1912; Chelsea may not even qualify for Europe next season and next up is FA Cup semi-final with Leeds Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Brighton 3-0 Chelsea: Every word from Liam Rosenior's explosive interview to Sky Sports after embarrassing Premier League defeat. https://www.skysports.com/football/news/12040/13534811/brighton-3-0-chelsea-every-word-from-liam-roseniors-explosive-interview-to-sky-sports-after-embarrassing-premier-league-defeat
+- bbc.com — Premier League: Brighton 3-0 Chelsea highlights. https://www.bbc.com/sport/football/videos/cz90zkz4pe7o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Leicester relegated to League One 10 years after Premier League title
+**Slug (lower-third):** Leicester relegated to League One 10 years after Premier …  
+**When:** 2026-04-21 15:46 (America/Winnipeg)  •  **Published:** 2026-04-21 20:46 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-What does Liam Rosenior need to achieve this season at Chelsea with pressure building. Sky Sports Kaveh Solhekol details what pressure Chelsea boss Liam Rosenior is under having lost their last four Premier League matches. Relevance to standings and momentum.
+Leicester relegated to League One 10 years after Premier League title. Leicester City have been relegated to League One from the Championship after a 2-2 draw with Hull City on Tuesday night. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +156,9 @@ What does Liam Rosenior need to achieve this season at Chelsea with pressure bui
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — What does Liam Rosenior need to achieve this season at Chelsea with pressure building. https://www.skysports.com/watch/video/13534667/what-does-liam-rosenior-need-to-achieve-this-season-at-chelsea-with-pressure-building
+- espn.com — Leicester relegated to League One 10 years after Premier League title. https://www.espn.com/soccer/story/_/id/48543246/leicester-relegated-league-one-10-years-premier-league-title
+- theguardian.com — Leicester relegated to League One, 10 years on from Premier League triumph. https://www.theguardian.com/football/2026/apr/21/leicester-hull-championship-match-report
+- skysports.com — Leicester City 2-2 Hull City: Foxes relegated to League One just 10 years after Premier League title. https://www.skysports.com/football/leicester-city-vs-hull-city/report/534845
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +167,13 @@ What does Liam Rosenior need to achieve this season at Chelsea with pressure bui
 
 ---
 
-## Story 4: Between the Lines | Who's more likely to be relegated - West Ham or Spurs?
-**Slug (lower-third):** Between the Lines | Who's more likely to be relegated - W…  
-**When:** 2026-04-21 12:22 (America/Winnipeg)  •  **Published:** 2026-04-21 17:22 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Liam Rosenior: Furious Chelsea boss questions team's desire
+**Slug (lower-third):** Liam Rosenior: Furious Chelsea boss questions team's desi…  
+**When:** 2026-04-21 17:34 (America/Winnipeg)  •  **Published:** 2026-04-21 22:34 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Between the Lines | Who's more likely to be relegated - West Ham or Spurs?. Sky Sports Between the Lines takes a closer look at who is more likely to be relegated from the Premier League between West Ham and Tottenham Hotspur. Relevance to standings and momentum.
+Liam Rosenior: Furious Chelsea boss questions team's desire. Chelsea boss Liam Rosenior strongly criticises his players after they suffer a fifth loss in a row without scoring for first time since 1912. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +182,7 @@ Between the Lines | Who's more likely to be relegated - West Ham or Spurs?. Sky 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Between the Lines | Who's more likely to be relegated - West Ham or Spurs?. https://www.skysports.com/watch/video/13534649/between-the-lines-who-more-likely-to-be-relegated-west-ham-or-spurs
+- bbc.com — Liam Rosenior: Furious Chelsea boss questions team's desire. https://www.bbc.com/sport/football/articles/cre1r39xr51o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +191,13 @@ Between the Lines | Who's more likely to be relegated - West Ham or Spurs?. Sky 
 
 ---
 
-## Story 5: Pep Guardiola interview: Man City boss says he loved the video clip of Arsenal midfielder Declan Rice saying the Premier League title race is not over
-**Slug (lower-third):** Pep Guardiola interview: Man City boss says he loved the …  
-**When:** 2026-04-21 11:45 (America/Winnipeg)  •  **Published:** 2026-04-21 16:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 8: Football gossip: Kolo Muani, Mainoo, Silva, Anderson, Tchouameni, Trafford
+**Slug (lower-third):** Football gossip: Kolo Muani, Mainoo, Silva, Anderson, Tch…  
+**When:** 2026-04-21 16:47 (America/Winnipeg)  •  **Published:** 2026-04-21 21:47 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pep Guardiola interview: Man City boss says he loved the video clip of Arsenal midfielder Declan Rice saying the Premier League title race is not over. Man City can go top of the Premier League table on Wednesday with victory over Burnley; after City beat Arsenal on Sunday, Declan Rice was seen saying the race is not done; watch Burnley vs Man City live on Sky Sports tonight from 7.30pm, kick-off 8pm Relevance to standings and momentum.
+Football gossip: Kolo Muani, Mainoo, Silva, Anderson, Tchouameni, Trafford. Liverpool could move for Randal Kolo Muani, Kobbie Mainoo agrees to new Manchester United deal and Bernardo Silva is on Arsenal and Barcelona's radar. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +206,7 @@ Pep Guardiola interview: Man City boss says he loved the video clip of Arsenal m
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Pep Guardiola interview: Man City boss says he loved the video clip of Arsenal midfielder Declan Rice saying the Premier League title race is not over. https://www.skysports.com/football/news/12040/13534635/pep-guardiola-interview-man-city-boss-says-he-loved-the-video-clip-of-arsenal-midfielder-declan-rice-saying-the-premier-league-title-race-is-not-over
+- bbc.com — Football gossip: Kolo Muani, Mainoo, Silva, Anderson, Tchouameni, Trafford. https://www.bbc.com/sport/football/articles/c8jkd1dw8z9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,10 +215,34 @@ Pep Guardiola interview: Man City boss says he loved the video clip of Arsenal m
 
 ---
 
-## Story 6: Brady's stadium own goal means her West Ham exit will not be mourned by fans | Jacob Steinberg
+## Story 9: Southampton 2-2 Bristol City: Saints earn draw but see promotion hopes suffer blow
+**Slug (lower-third):** Southampton 2-2 Bristol City: Saints earn draw but see pr…  
+**When:** 2026-04-21 16:35 (America/Winnipeg)  •  **Published:** 2026-04-21 21:35 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Southampton 2-2 Bristol City: Saints earn draw but see promotion hopes suffer blow. Southampton dropped points in their automatic promotion hunt for the first time in over a month as they twice pegged Bristol City back to draw 2-2 at St Mary's. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Southampton 2-2 Bristol City: Saints earn draw but see promotion hopes suffer blow. https://www.skysports.com/football/southampton-vs-bristol-city/report/534840
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Brady's stadium own goal means her West Ham exit will not be mourned by fans | Jacob Steinberg
 **Slug (lower-third):** Brady's stadium own goal means her West Ham exit will not…  
 **When:** 2026-04-21 11:18 (America/Winnipeg)  •  **Published:** 2026-04-21 16:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Brady's stadium own goal means her West Ham exit will not be mourned by fans | Jacob Steinberg. Karren Brady, who is stepping down as vice-chair at West Ham after 16 years, leaves a questionable legacy Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -154,104 +255,6 @@ Brady's stadium own goal means her West Ham exit will not be mourned by fans | J
 
 ### Sources
 - theguardian.com — Brady's stadium own goal means her West Ham exit will not be mourned by fans | Jacob Steinberg. https://www.theguardian.com/football/2026/apr/21/karren-brady-west-ham-exit
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Callum Hudson-Odoi to miss Nottingham Forest run-in after leg surgery
-**Slug (lower-third):** Callum Hudson-Odoi to miss Nottingham Forest run-in after…  
-**When:** 2026-04-21 10:37 (America/Winnipeg)  •  **Published:** 2026-04-21 15:37 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Callum Hudson-Odoi to miss Nottingham Forest run-in after leg surgery. Nottingham Forest confirm Callum Hudson-Odoi will miss the rest of the season after having leg surgery. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Callum Hudson-Odoi to miss Nottingham Forest run-in after leg surgery. https://www.bbc.com/sport/football/articles/cdrm738denlo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Karren Brady steps down as West Ham vice-chair after 16 years
-**Slug (lower-third):** Karren Brady steps down as West Ham vice-chair after 16 y…  
-**When:** 2026-04-21 10:03 (America/Winnipeg)  •  **Published:** 2026-04-21 15:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Karren Brady steps down as West Ham vice-chair after 16 years. Baroness Karren Brady has stepped down from her position as vice-chair of West Ham United after 16 years at the club. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- espn.com — Karren Brady steps down as West Ham vice-chair after 16 years. https://www.espn.com/soccer/story/_/id/48548684/karren-brady-steps-west-ham-united-vice-char-16-years-relegation
-- bbc.com — Baroness Karren Brady steps down as West Ham vice-chair after 16 years. https://www.bbc.com/sport/football/articles/cly7ejx9nx5o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Wolves relegated from Premier League as West Ham, Crystal Palace draw
-**Slug (lower-third):** Wolves relegated from Premier League as West Ham, Crystal…  
-**When:** 2026-04-21 10:03 (America/Winnipeg)  •  **Published:** 2026-04-21 15:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Wolves relegated from Premier League as West Ham, Crystal Palace draw. Wolves have been relegated after West Ham's draw with Crystal Palace on Monday left Rob Edwards' side unable to finish outside the bottom three. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- espn.com — Wolves relegated from Premier League as West Ham, Crystal Palace draw. https://www.espn.com/soccer/story/_/id/48491722/wolves-relegated-premier-league-west-ham-crystal-palace-draw
-- bbc.com — Premier League highlights: Crystal Palace vs West Ham. https://www.bbc.com/sport/football/videos/cwyw492veqqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Newcastle's PIF owners to question Eddie Howe next week on poor run of form
-**Slug (lower-third):** Newcastle's PIF owners to question Eddie Howe next week o…  
-**When:** 2026-04-21 10:12 (America/Winnipeg)  •  **Published:** 2026-04-21 15:12 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Newcastle's PIF owners to question Eddie Howe next week on poor run of form. Eddie Howe will discuss Newcastle's declining form with the club's Saudi Arabian majority owners in a scheduled board meeting next week Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Newcastle's PIF owners to question Eddie Howe next week on poor run of form. https://www.theguardian.com/football/2026/apr/21/eddie-howe-newcastle-pif-owners-meeting-anthony-gordon
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
