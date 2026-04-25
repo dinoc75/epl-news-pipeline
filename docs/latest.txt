@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-25 08:10 (America/Winnipeg)  |  2026-04-25 13:10 (UTC)
+**Generated:** 2026-04-25 13:57 (America/Winnipeg)  |  2026-04-25 18:57 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 33s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League: Match of the Day highlights, how to follow and listen on the BBC this weekend
-- Arsenal manager Mikel Arteta tells players to 'take ownership' of Premier League title race and 'get the job done' after post-Man City recharge
-- SUNDERLAND 0-5 NOTTINGHAM FOREST - VITOR PEREIRA REACTION
+- Arsenal 1-0 Newcastle United: Gunners go three points clear of Man City with nervy win but Kai Havertz and Eberechi Eze suffer injuries
+- Man City 2-1 Southampton: Pep Guardiola's men make FA Cup final for fourth consecutive year after mighty Saints scare
+- Mohamed Salah injury: Liverpool legend may have played final game for club after hamstring strain in Crystal Palace win
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Arsenal manager Mikel Arteta tells players to 'take ownership' of Premier League title race and 'get the job done' after post-Man City recharge
-**Slug (lower-third):** Arsenal manager Mikel Arteta tells players to 'take owner…  
-**When:** 2026-04-25 04:00 (America/Winnipeg)  •  **Published:** 2026-04-25 09:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~25s
+## Story 1: Mohamed Salah: Liverpool have to 'wait and see' how serious injury is
+**Slug (lower-third):** Mohamed Salah: Liverpool have to 'wait and see' how serio…  
+**When:** 2026-04-25 12:22 (America/Winnipeg)  •  **Published:** 2026-04-25 17:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal manager Mikel Arteta tells players to 'take ownership' of Premier League title race and 'get the job done' after post-Man City recharge. Mikel Arteta to Sky Sports: We can talk all day, but we need to go on that pitch and we need to get the job done. Watch Arsenal vs Newcastle live on Sky Sports Premier League from 5pm on Saturday, kick-off 5.30pm Relevance to standings and momentum.
+Mohamed Salah: Liverpool have to 'wait and see' how serious injury is. Liverpool will have to "wait and see" whether Mohamed Salah has played his final game for the club, says manager Arne Slot. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Arsenal manager Mikel Arteta tells players to 'take ownership' of Premier League
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal manager Mikel Arteta tells players to 'take ownership' of Premier League title race and 'get the job done' after post-Man City recharge. https://www.skysports.com/football/news/12040/13535977/arsenal-manager-mikel-arteta-tells-players-to-take-ownership-of-premier-league-title-race-and-get-the-job-done-after-post-man-city-recharge
+- bbc.com — Mohamed Salah: Liverpool have to 'wait and see' how serious injury is. https://www.bbc.com/sport/football/articles/ce3d9e20v9po?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Arsenal manager Mikel Arteta tells players to 'take ownership' of Premier League
 
 ---
 
-## Story 2: Daniel Farke: the romantic turned pragmatist bringing joy back to Leeds
-**Slug (lower-third):** Daniel Farke: the romantic turned pragmatist bringing joy…  
-**When:** 2026-04-25 04:00 (America/Winnipeg)  •  **Published:** 2026-04-25 09:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 2: WSL: Man City boss Andree Jeglertz not worried by slip-up at Brighton - should he be?
+**Slug (lower-third):** WSL: Man City boss Andree Jeglertz not worried by slip-up…  
+**When:** 2026-04-25 12:22 (America/Winnipeg)  •  **Published:** 2026-04-25 17:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Daniel Farke: the romantic turned pragmatist bringing joy back to Leeds. The German has twice come close to the sack but has taken Leeds close to safety and on Sunday against Chelsea they play a first FA Cup semi-final since 1987 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+WSL: Man City boss Andree Jeglertz not worried by slip-up at Brighton - should he be?. Manchester City head coach Andree Jeglertz brushes off a setback in his team's WSL title pursuit, but Arsenal could soon be breathing down their necks. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,57 @@ Daniel Farke: the romantic turned pragmatist bringing joy back to Leeds. The Ger
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Daniel Farke: the romantic turned pragmatist bringing joy back to Leeds. https://www.theguardian.com/football/2026/apr/25/daniel-farke-the-romantic-turned-pragmatist-bringing-joy-back-to-leeds
+- bbc.com — WSL: Man City boss Andree Jeglertz not worried by slip-up at Brighton - should he be?. https://www.bbc.com/sport/football/articles/c625p5me6z2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Mohamed Salah injury: Liverpool legend may have played final game for club after hamstring strain in Crystal Palace win
+**Slug (lower-third):** Mohamed Salah injury: Liverpool legend may have played fi…  
+**When:** 2026-04-25 13:58 (America/Winnipeg)  •  **Published:** 2026-04-25 18:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
+
+### Presenter Script (3–5 sentences)
+Mohamed Salah injury: Liverpool legend may have played final game for club after hamstring strain in Crystal Palace win. Mohamed Salah may have played his final Liverpool game after coming off injured against Crystal Palace on Saturday; Salah was forced off in the second half with a hamstring strain; the 33-year-old is set to leave at the end of the season; Liverpool host Brentford on the final day Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Mohamed Salah injury: Liverpool legend may have played final game for club after hamstring strain in Crystal Palace win. https://www.skysports.com/football/news/12040/13536544/mohamed-salah-injury-liverpool-legend-may-have-played-final-game-for-club-after-hamstring-strain-in-crystal-palace-win
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Mohamed Salah applauds Liverpool fans at Anfield after leaving the pitch with injury
+**Slug (lower-third):** Mohamed Salah applauds Liverpool fans at Anfield after le…  
+**When:** 2026-04-25 12:51 (America/Winnipeg)  •  **Published:** 2026-04-25 17:51 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Mohamed Salah applauds Liverpool fans at Anfield after leaving the pitch with injury. Mohamed Salah pulled up feeling his left hamstring, casting doubt over whether he will feature in the remaining four matches for Liverpool. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Mohamed Salah applauds Liverpool fans at Anfield after leaving the pitch with injury. https://www.skysports.com/watch/video/13536494/mohamed-salah-applauds-liverpool-fans-at-anfield-after-leaving-the-pitch-with-injury
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +116,37 @@ Daniel Farke: the romantic turned pragmatist bringing joy back to Leeds. The Ger
 
 ### Club Updates
 
-## Story 3: Premier League: Match of the Day highlights, how to follow and listen on the BBC this weekend
-**Slug (lower-third):** Premier League: Match of the Day highlights, how to follo…  
-**When:** 2026-04-25 04:51 (America/Winnipeg)  •  **Published:** 2026-04-25 09:51 (UTC)  
+## Story 5: Arsenal 1-0 Newcastle United: Gunners go three points clear of Man City with nervy win but Kai Havertz and Eberechi Eze suffer injuries
+**Slug (lower-third):** Arsenal 1-0 Newcastle United: Gunners go three points cle…  
+**When:** 2026-04-25 14:30 (America/Winnipeg)  •  **Published:** 2026-04-25 19:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Arsenal 1-0 Newcastle United: Gunners go three points clear of Man City with nervy win but Kai Havertz and Eberechi Eze suffer injuries. Arsenal moved three points above Manchester City at the top of the Premier League with a nervy 1-0 win over Newcastle in which Kai Havertz and Eberechi Eze had to come off with injuries. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal 1-0 Newcastle United: Gunners go three points clear of Man City with nervy win but Kai Havertz and Eberechi Eze suffer injuries. https://www.skysports.com/football/arsenal-vs-newcastle-united/report/531459
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Man City 2-1 Southampton: Pep Guardiola's men make FA Cup final for fourth consecutive year after mighty Saints scare
+**Slug (lower-third):** Man City 2-1 Southampton: Pep Guardiola's men make FA Cup…  
+**When:** 2026-04-25 14:15 (America/Winnipeg)  •  **Published:** 2026-04-25 19:15 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Match of the Day highlights, how to follow and listen on the BBC this weekend. BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this weekend. Relevance to standings and momentum.
+Man City 2-1 Southampton: Pep Guardiola's men make FA Cup final for fourth consecutive year after mighty Saints scare. Manchester City were given an almighty FA Cup scare by Southampton but came from behind to win 2-1 and make the final for the fourth year in a row. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +155,7 @@ Premier League: Match of the Day highlights, how to follow and listen on the BBC
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: Match of the Day highlights, how to follow and listen on the BBC this weekend. https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&at_campaign=rss
+- skysports.com — Man City 2-1 Southampton: Pep Guardiola's men make FA Cup final for fourth consecutive year after mighty Saints scare. https://www.skysports.com/football/manchester-city-vs-southampton/report/555724
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +164,13 @@ Premier League: Match of the Day highlights, how to follow and listen on the BBC
 
 ---
 
-## Story 4: SUNDERLAND 0-5 NOTTINGHAM FOREST - VITOR PEREIRA REACTION
-**Slug (lower-third):** SUNDERLAND 0-5 NOTTINGHAM FOREST - VITOR PEREIRA REACTION  
-**When:** 2026-04-24 17:21 (America/Winnipeg)  •  **Published:** 2026-04-24 22:21 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 7: Alexander Isak: Will Liverpool striker's goal against Crystal Palace be a turning point?
+**Slug (lower-third):** Alexander Isak: Will Liverpool striker's goal against Cry…  
+**When:** 2026-04-25 13:34 (America/Winnipeg)  •  **Published:** 2026-04-25 18:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-SUNDERLAND 0-5 NOTTINGHAM FOREST - VITOR PEREIRA REACTION. Sunderland boss Regis Le Bris bemoans his sides "slow start" following a 5-0 defeat at the hands of relegation-threatened Nottingham Forest. He describes the loss as "painful", as his sides home form continues to slip. Relevance to standings and momentum.
+Alexander Isak: Will Liverpool striker's goal against Crystal Palace be a turning point?. Will Alexander Isak's first Liverpool Premier League goal at Anfield prove a turning point for the APS125m signing? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,8 +179,7 @@ SUNDERLAND 0-5 NOTTINGHAM FOREST - VITOR PEREIRA REACTION. Sunderland boss Regis
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — SUNDERLAND 0-5 NOTTINGHAM FOREST - VITOR PEREIRA REACTION. https://www.bbc.com/sport/football/videos/c5yv1gy2zz5o?at_medium=RSS&at_campaign=rss
-- skysports.com — Sunderland 0-5 Nottingham Forest: First-half frenzy sends Vitor Pereira's side eight points clear of relegation zone. https://www.skysports.com/football/sunderland-vs-nottingham-forest/report/531466
+- bbc.com — Alexander Isak: Will Liverpool striker's goal against Crystal Palace be a turning point?. https://www.bbc.com/sport/football/articles/c4gvny935yno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,13 +188,13 @@ SUNDERLAND 0-5 NOTTINGHAM FOREST - VITOR PEREIRA REACTION. Sunderland boss Regis
 
 ---
 
-## Story 5: Sam Burgess admits Warrington Wolves captain George Williams could have played last game for club as he awaits neck surgery
-**Slug (lower-third):** Sam Burgess admits Warrington Wolves captain George Willi…  
-**When:** 2026-04-25 03:21 (America/Winnipeg)  •  **Published:** 2026-04-25 08:21 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~28s
+## Story 8: FA Cup: 'Magnificent strike' from Nico Gonzalez gives Manchester City the lead against Southampton
+**Slug (lower-third):** FA Cup: 'Magnificent strike' from Nico Gonzalez gives Man…  
+**When:** 2026-04-25 13:15 (America/Winnipeg)  •  **Published:** 2026-04-25 18:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sam Burgess admits Warrington Wolves captain George Williams could have played last game for club as he awaits neck surgery. Brian McDermott confirmed that he will be keeping George Williams as England captain for the Rugby League World Cup 2026 in Australia; Williams is set for neck surgery; Sky Sports is the only place to watch every Super League game live in 2026 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+FA Cup: 'Magnificent strike' from Nico Gonzalez gives Manchester City the lead against Southampton. Manchester City's Nico Gonzalez produces a "magnificent strike" to put his side 2-1 ahead against Southampton in the FA Cup semi-final. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,7 +203,7 @@ Sam Burgess admits Warrington Wolves captain George Williams could have played l
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sam Burgess admits Warrington Wolves captain George Williams could have played last game for club as he awaits neck surgery. https://www.skysports.com/rugby-league/news/12040/13536136/sam-burgess-admits-warrington-wolves-captain-george-williams-could-have-played-last-game-for-club-as-he-awaits-neck-surgery
+- bbc.com — FA Cup: 'Magnificent strike' from Nico Gonzalez gives Manchester City the lead against Southampton. https://www.bbc.com/sport/football/videos/ckg0veqpwwxo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -139,13 +212,13 @@ Sam Burgess admits Warrington Wolves captain George Williams could have played l
 
 ---
 
-## Story 6: Manchester City vs Southampton: Get a prediction for FA Cup semi-final by answering our prompts
-**Slug (lower-third):** Manchester City vs Southampton: Get a prediction for FA C…  
-**When:** 2026-04-25 02:48 (America/Winnipeg)  •  **Published:** 2026-04-25 07:48 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 9: Wolves 0-1 Tottenham: Spurs earn big win in Premier League relegation fight
+**Slug (lower-third):** Wolves 0-1 Tottenham: Spurs earn big win in Premier Leagu…  
+**When:** 2026-04-25 13:14 (America/Winnipeg)  •  **Published:** 2026-04-25 18:14 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester City vs Southampton: Get a prediction for FA Cup semi-final by answering our prompts. Answer our seven simple questions and get a prediction from the BBC Sport supercomputer for Saturday's FA Cup semi-final between Manchester City and Southampton. Relevance to standings and momentum.
+Wolves 0-1 Tottenham: Spurs earn big win in Premier League relegation fight. Tottenham end their long wait for a Premier League win with victory at Wolves - lifting their survival hopes in the process. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -154,7 +227,8 @@ Manchester City vs Southampton: Get a prediction for FA Cup semi-final by answer
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester City vs Southampton: Get a prediction for FA Cup semi-final by answering our prompts. https://www.bbc.com/sport/football/articles/c8jkzv3xmn1o?at_medium=RSS&at_campaign=rss
+- bbc.com — Wolves 0-1 Tottenham: Spurs earn big win in Premier League relegation fight. https://www.bbc.com/sport/football/articles/cvg424zgpz8o?at_medium=RSS&at_campaign=rss
+- skysports.com — Wolves 0-1 Tottenham Hotspur | Premier League highlights. https://www.skysports.com/watch/video/13536464/wolves-0-1-tottenham-hotspur-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -163,13 +237,13 @@ Manchester City vs Southampton: Get a prediction for FA Cup semi-final by answer
 
 ---
 
-## Story 7: Arsenal vs Newcastle: How Eddie Howe's 'bullies' became too nice
-**Slug (lower-third):** Arsenal vs Newcastle: How Eddie Howe's 'bullies' became t…  
-**When:** 2026-04-25 02:25 (America/Winnipeg)  •  **Published:** 2026-04-25 07:25 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 10: Championship roundup: Middlesbrough romp closes gap on Ipswich and Hull suffer crucial loss
+**Slug (lower-third):** Championship roundup: Middlesbrough romp closes gap on Ip…  
+**When:** 2026-04-25 12:21 (America/Winnipeg)  •  **Published:** 2026-04-25 17:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal vs Newcastle: How Eddie Howe's 'bullies' became too nice. How Eddie Howe's Newcastle have gone from regularly ruffling feathers to losing 15 Premier League games this season. Relevance to standings and momentum.
+Championship roundup: Middlesbrough romp closes gap on Ipswich and Hull suffer crucial loss. Middlesbrough's thrashing of Watford cut the gap to Ipswich to one point while Oxford's relegation was confirmed with West Brom's point and Charlton's win Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -178,80 +252,7 @@ Arsenal vs Newcastle: How Eddie Howe's 'bullies' became too nice. How Eddie Howe
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arsenal vs Newcastle: How Eddie Howe's 'bullies' became too nice. https://www.bbc.com/sport/football/articles/c4g8j49dgnxo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Man City tactics: How Pep Guardiola went through many systems to find best XI
-**Slug (lower-third):** Man City tactics: How Pep Guardiola went through many sys…  
-**When:** 2026-04-25 01:42 (America/Winnipeg)  •  **Published:** 2026-04-25 06:42 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man City tactics: How Pep Guardiola went through many systems to find best XI. Manchester City are finishing the season strongly - having looked at one stage as if the Premier League title may elude them. Here's how Pep Guardiola went through many systems to find his best team. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Man City tactics: How Pep Guardiola went through many systems to find best XI. https://www.bbc.com/sport/football/articles/cy419pnepwpo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Tottenham: Could Spurs fans take solace from a season in the Championship?
-**Slug (lower-third):** Tottenham: Could Spurs fans take solace from a season in …  
-**When:** 2026-04-25 00:54 (America/Winnipeg)  •  **Published:** 2026-04-25 05:54 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham: Could Spurs fans take solace from a season in the Championship?. Tottenham Hotspur fans will not want to contemplate relegation - but if the worst should happen, they may take solace from a season in the Championship. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Tottenham: Could Spurs fans take solace from a season in the Championship?. https://www.bbc.com/sport/football/articles/c20377veepro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Sunderland 0-5 Nottingham Forest | Premier League highlights
-**Slug (lower-third):** Sunderland 0-5 Nottingham Forest | Premier League highlig…  
-**When:** 2026-04-24 17:16 (America/Winnipeg)  •  **Published:** 2026-04-24 22:16 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Sunderland 0-5 Nottingham Forest | Premier League highlights. FREE TO WATCH: Highlights from the Premier League match between Sunderland and Nottingham Forest. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Sunderland 0-5 Nottingham Forest | Premier League highlights. https://www.skysports.com/watch/video/13536124/sunderland-0-5-nottingham-forest-premier-league-highlights
-- bbc.com — Premier League: Sunderland 0-5 Nottingham Forest - highlights. https://www.bbc.com/sport/football/videos/c77m2nge048o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Championship roundup: Middlesbrough romp closes gap on Ipswich and Hull suffer crucial loss. https://www.theguardian.com/football/2026/apr/25/championship-roundup-ipswich-middlesbrough-hull-charlton-oxford
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
