@@ -1,28 +1,81 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-26 08:11 (America/Winnipeg)  |  2026-04-26 13:11 (UTC)
+**Generated:** 2026-04-26 13:59 (America/Winnipeg)  |  2026-04-26 18:59 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Everton 1-4 Chelsea | Women's Super League highlights
-- Tottenham Hotspur 0-0 Manchester United | WSL Highlights
-- Yuka Momiki super strike levels score against Chelsea!
+- Arsenal 'on a mission' - is another special season on the horizon?
+- WSL highlights: London City Lionesses 5-1 Leicester City
+- WSL highlights: Everton 1-4 Chelsea
+
+---
+
+### Managerial Moves
+
+## Story 1: Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Rosenior sacking
+**Slug (lower-third):** Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Ro…  
+**When:** 2026-04-26 13:14 (America/Winnipeg)  •  **Published:** 2026-04-26 18:14 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Rosenior sacking. Chelsea are in another FA Cup final - but only after their players showed up in a way they were no longer doing for Liam Rosenior, writes Phil McNulty. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Rosenior sacking. https://www.bbc.com/sport/football/articles/cededgwjj62o?at_medium=RSS&at_campaign=rss
+- skysports.com — Chelsea 1-0 Leeds: Enzo Fernandez heads Blues into FA Cup final just days after Liam Rosenior's exit. https://www.skysports.com/football/chelsea-vs-leeds-united/report/555723
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 2: Enzo Fernandez transforms Chelsea: From staring into the abyss at Brighton to supercharged FA Cup monster vs Leeds
+**Slug (lower-third):** Enzo Fernandez transforms Chelsea: From staring into the …  
+**When:** 2026-04-26 12:16 (America/Winnipeg)  •  **Published:** 2026-04-26 17:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Enzo Fernandez transforms Chelsea: From staring into the abyss at Brighton to supercharged FA Cup monster vs Leeds. Chelsea beat Leeds thanks to Enzo Fernandezs header to set up FA Cup final with Man City on May 16; just five days on from being embarrassed at Brighton, Fernandez and his team-mates showed real spirit and determination to keep Chelseas season alive Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Enzo Fernandez transforms Chelsea: From staring into the abyss at Brighton to supercharged FA Cup monster vs Leeds. https://www.skysports.com/football/news/12040/13536877/enzo-fernandez-transforms-chelsea-from-staring-into-the-abyss-at-brighton-to-supercharged-fa-cup-monster-vs-leeds
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Club Updates
 
-## Story 1: Everton 1-4 Chelsea | Women's Super League highlights
-**Slug (lower-third):** Everton 1-4 Chelsea | Women's Super League highlights  
-**When:** 2026-04-26 08:57 (America/Winnipeg)  •  **Published:** 2026-04-26 13:57 (UTC)  
+## Story 3: Arsenal 'on a mission' - is another special season on the horizon?
+**Slug (lower-third):** Arsenal 'on a mission' - is another special season on the…  
+**When:** 2026-04-26 13:54 (America/Winnipeg)  •  **Published:** 2026-04-26 18:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton 1-4 Chelsea | Women's Super League highlights. Highlights of the Womens Super League match between Everton and Chelsea. Relevance to standings and momentum.
+Arsenal 'on a mission' - is another special season on the horizon?. The Gunners are one game away from a second successive Women's Champions League final, and are also still in the Women's Super League title race. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +84,7 @@ Everton 1-4 Chelsea | Women's Super League highlights. Highlights of the Womens 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Everton 1-4 Chelsea | Women's Super League highlights. https://www.skysports.com/watch/video/13536774/everton-1-4-chelsea-womens-super-league-highlights
+- bbc.com — Arsenal 'on a mission' - is another special season on the horizon?. https://www.bbc.com/sport/football/articles/cnv8v10r1z7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +93,13 @@ Everton 1-4 Chelsea | Women's Super League highlights. Highlights of the Womens 
 
 ---
 
-## Story 2: Tottenham Hotspur 0-0 Manchester United | WSL Highlights
-**Slug (lower-third):** Tottenham Hotspur 0-0 Manchester United | WSL Highlights  
-**When:** 2026-04-26 08:55 (America/Winnipeg)  •  **Published:** 2026-04-26 13:55 (UTC)  
+## Story 4: WSL highlights: London City Lionesses 5-1 Leicester City
+**Slug (lower-third):** WSL highlights: London City Lionesses 5-1 Leicester City  
+**When:** 2026-04-26 13:47 (America/Winnipeg)  •  **Published:** 2026-04-26 18:47 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham Hotspur 0-0 Manchester United | WSL Highlights. Highlights from the WSL clash between Tottenham Hotspur and Manchester United. Relevance to standings and momentum.
+WSL highlights: London City Lionesses 5-1 Leicester City. London City Lionesses come from behind to inflict a damaging 5-1 defeat on bottom of the table Leicester City in the Women's Super League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +108,7 @@ Tottenham Hotspur 0-0 Manchester United | WSL Highlights. Highlights from the WS
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham Hotspur 0-0 Manchester United | WSL Highlights. https://www.skysports.com/watch/video/13536772/tottenham-hotspur-0-0-manchester-united-wsl-highlights
+- bbc.com — WSL highlights: London City Lionesses 5-1 Leicester City. https://www.bbc.com/sport/football/videos/c86e60ldqz9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +117,13 @@ Tottenham Hotspur 0-0 Manchester United | WSL Highlights. Highlights from the WS
 
 ---
 
-## Story 3: Yuka Momiki super strike levels score against Chelsea!
-**Slug (lower-third):** Yuka Momiki super strike levels score against Chelsea!  
-**When:** 2026-04-26 07:16 (America/Winnipeg)  •  **Published:** 2026-04-26 12:16 (UTC)  
+## Story 5: WSL highlights: Everton 1-4 Chelsea
+**Slug (lower-third):** WSL highlights: Everton 1-4 Chelsea  
+**When:** 2026-04-26 13:25 (America/Winnipeg)  •  **Published:** 2026-04-26 18:25 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Yuka Momiki super strike levels score against Chelsea!. Yuka Momikis amazing strike beats Hannah Hampton and levels the score for Everton against Chelsea. Relevance to standings and momentum.
+WSL highlights: Everton 1-4 Chelsea. Sam Kerr scores twice to join former teammate Fran Kirby in being Chelsea's joint all-time top goalscorer in the WSL, as Sonia Bompastor's side soundly defeat Everton 4-1 at Goodison Park. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +132,7 @@ Yuka Momiki super strike levels score against Chelsea!. Yuka Momikis amazing str
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Yuka Momiki super strike levels score against Chelsea!. https://www.skysports.com/watch/video/13536731/yuka-momiki-super-strike-levels-score-against-chelsea
+- bbc.com — WSL highlights: Everton 1-4 Chelsea. https://www.bbc.com/sport/football/videos/cql7l017yp9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -88,10 +141,106 @@ Yuka Momiki super strike levels score against Chelsea!. Yuka Momikis amazing str
 
 ---
 
-## Story 4: Alexander Isak: Will Liverpool striker's goal against Crystal Palace be a turning point?
+## Story 6: Arsenal 2-1 Lyon: Leah Williamson post-match interview
+**Slug (lower-third):** Arsenal 2-1 Lyon: Leah Williamson post-match interview  
+**When:** 2026-04-26 13:10 (America/Winnipeg)  •  **Published:** 2026-04-26 18:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal 2-1 Lyon: Leah Williamson post-match interview. Leah Williamson believes Arsenal will have to be "really clinical" and "defensively secure" if they are to maintain their lead in the second leg of their Women's Champions League semi-final away to Lyon. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arsenal 2-1 Lyon: Leah Williamson post-match interview. https://www.bbc.com/sport/football/videos/cx242vnk904o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: WSL 2 promotion battle: What do Birmingham, Charlton and Crystal Palace need?
+**Slug (lower-third):** WSL 2 promotion battle: What do Birmingham, Charlton and …  
+**When:** 2026-04-26 12:55 (America/Winnipeg)  •  **Published:** 2026-04-26 17:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+WSL 2 promotion battle: What do Birmingham, Charlton and Crystal Palace need?. Just one matchday remains in the WSL 2 and Birmingham City, Crystal Palace and Charlton Athletic could all secure automatic promotion. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — WSL 2 promotion battle: What do Birmingham, Charlton and Crystal Palace need?. https://www.bbc.com/sport/football/articles/c98m89489jqo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: How 10 Premier League teams could qualify for Europe
+**Slug (lower-third):** How 10 Premier League teams could qualify for Europe  
+**When:** 2026-04-26 11:49 (America/Winnipeg)  •  **Published:** 2026-04-26 16:49 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+How 10 Premier League teams could qualify for Europe. Ten Premier League teams in Europe? It sounds preposterous, but it is not as far-fetched as it seems. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — How 10 Premier League teams could qualify for Europe. https://www.bbc.com/sport/football/articles/ckg0pjl4vq5o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: WSL highlights: Liverpool 0-1 West Ham United
+**Slug (lower-third):** WSL highlights: Liverpool 0-1 West Ham United  
+**When:** 2026-04-26 10:28 (America/Winnipeg)  •  **Published:** 2026-04-26 15:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+WSL highlights: Liverpool 0-1 West Ham United. A Cornelia Kapocs own goal is enough for West Ham to secure a 1-0 away win over Liverpool, as the East London side move seven points clear of the relegation play-off place in the WSL. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — WSL highlights: Liverpool 0-1 West Ham United. https://www.bbc.com/sport/football/videos/c62429l4gdro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Alexander Isak: Will Liverpool striker's goal against Crystal Palace be a turning point?
 **Slug (lower-third):** Alexander Isak: Will Liverpool striker's goal against Cry…  
 **When:** 2026-04-26 05:05 (America/Winnipeg)  •  **Published:** 2026-04-26 10:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Alexander Isak: Will Liverpool striker's goal against Crystal Palace be a turning point?. Will Alexander Isak's first Liverpool Premier League goal at Anfield prove a turning point for the APS125m signing? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -107,150 +256,6 @@ Alexander Isak: Will Liverpool striker's goal against Crystal Palace be a turnin
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Arsenal 1-0 Newcastle: Gunners pick up important win in Premier League title race
-**Slug (lower-third):** Arsenal 1-0 Newcastle: Gunners pick up important win in P…  
-**When:** 2026-04-25 16:43 (America/Winnipeg)  •  **Published:** 2026-04-25 21:43 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal 1-0 Newcastle: Gunners pick up important win in Premier League title race. Arsenal deliver on Declan Rice's promise that the Premier League title race is "not done" with an important win over Newcastle. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Arsenal 1-0 Newcastle: Gunners pick up important win in Premier League title race. https://www.bbc.com/sport/football/articles/c17v4j9pdz2o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Match of the Day analysis: How Eze & Arsenal outfoxed Newcastle with set-piece tweak
-**Slug (lower-third):** Match of the Day analysis: How Eze & Arsenal outfoxed New…  
-**When:** 2026-04-25 17:58 (America/Winnipeg)  •  **Published:** 2026-04-25 22:58 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Match of the Day analysis: How Eze & Arsenal outfoxed Newcastle with set-piece tweak. Match of the Day's Steph Houghton and Martin Keown explain how Arsenal and Eberechi Eze outfoxed Newcastle United with a tweak to their set-piece routine in their 1-0 win at the Emirates Stadium. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Match of the Day analysis: How Eze & Arsenal outfoxed Newcastle with set-piece tweak. https://www.bbc.com/sport/football/videos/cy8163488pqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Man City 2-1 Southampton: Pep Guardiola's side go from trophyless to possible treble
-**Slug (lower-third):** Man City 2-1 Southampton: Pep Guardiola's side go from tr…  
-**When:** 2026-04-25 15:13 (America/Winnipeg)  •  **Published:** 2026-04-25 20:13 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man City 2-1 Southampton: Pep Guardiola's side go from trophyless to possible treble. Manchester City were in a state of turmoil this time last year a staring at a first trophyless season since 2017 a but they are now in with a chance of a domestic treble. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Man City 2-1 Southampton: Pep Guardiola's side go from trophyless to possible treble. https://www.bbc.com/sport/football/articles/c1d9v1qvpxqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Pep Guardiola says title race means Manchester City must prepare for 'six cup finals'
-**Slug (lower-third):** Pep Guardiola says title race means Manchester City must …  
-**When:** 2026-04-25 15:03 (America/Winnipeg)  •  **Published:** 2026-04-25 20:03 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Pep Guardiola says title race means Manchester City must prepare for 'six cup finals'. Pep Guardiola praised his Manchester City side after they beat Southampton in their FA Cup semi-final but focus quickly turned to the league, too Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Pep Guardiola says title race means Manchester City must prepare for 'six cup finals'. https://www.theguardian.com/football/2026/apr/25/pep-guardiola-says-manchester-city-must-prepare-for-six-cup-finals
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Manchester City's relentless pursuit of silverware shows no sign of abating | John Brewin
-**Slug (lower-third):** Manchester City's relentless pursuit of silverware shows …  
-**When:** 2026-04-25 14:36 (America/Winnipeg)  •  **Published:** 2026-04-25 19:36 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester City's relentless pursuit of silverware shows no sign of abating | John Brewin. A fourth consecutive FA Cup final has been reached but Guardiola's selection against Southampton suggests priorities lie elsewhere Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Manchester City's relentless pursuit of silverware shows no sign of abating | John Brewin. https://www.theguardian.com/football/2026/apr/25/manchester-citys-relentless-pursuit-of-silverware-shows-no-sign-of-abating
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League highlights: Liverpool 3-1 Crystal Palace
-**Slug (lower-third):** Premier League highlights: Liverpool 3-1 Crystal Palace  
-**When:** 2026-04-25 14:07 (America/Winnipeg)  •  **Published:** 2026-04-25 19:07 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Liverpool 3-1 Crystal Palace. Alexander Isak and Florian Wirtz both score in Liverpool's 3-1 win over Crystal Palace in the Premier League, to strengthen Arne Slot's side's chase for Champions League qualification. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Liverpool 3-1 Crystal Palace. https://www.bbc.com/sport/football/videos/c8jk43nv4pzo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
