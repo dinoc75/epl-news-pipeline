@@ -1,15 +1,2 @@
-resp_0facbcc94de9dc170069ed0f524c80819696870cdb8a52178d
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_0facbcc94de9dc170069ed0f52a42481968443a045e1374fec
-reasoning
-auto
-in_memory
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "On Saturday 25 April 2026,
