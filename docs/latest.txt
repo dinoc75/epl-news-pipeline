@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-26 21:57 (America/Winnipeg)  |  2026-04-27 02:57 (UTC)
-**Stories in this rundown:** 8  |  **Style:** conversational broadcast
+**Generated:** 2026-04-27 03:30 (America/Winnipeg)  |  2026-04-27 08:30 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 50s
+**Estimated total video length:** ~4m 49s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Rosenior sacking
-- Women's Champions League highlights: Arsenal 2-1 Lyon
-- Missy Bo Kearns: Aston Villa and England midfielder discusses her miscarriage
+- Morgan Gibbs-White is the Premier League top scorer in 2026: How has he found his best Nottingham Forest form?
+- Xavi Simons injury: Tottenham playmaker to miss rest of season and World Cup with Netherlands after being stretchered off at Wolves
+- Victor Wembanyama returns as San Antonio Spurs beat Portland Trail Blazers to take 3-1 series lead in NBA playoffs
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Rosenior sacking
-**Slug (lower-third):** Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Ro…  
-**When:** 2026-04-26 13:14 (America/Winnipeg)  •  **Published:** 2026-04-26 18:14 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Victor Wembanyama returns as San Antonio Spurs beat Portland Trail Blazers to take 3-1 series lead in NBA playoffs
+**Slug (lower-third):** Victor Wembanyama returns as San Antonio Spurs beat Portl…  
+**When:** 2026-04-27 02:08 (America/Winnipeg)  •  **Published:** 2026-04-27 07:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Rosenior sacking. Chelsea are in another FA Cup final - but only after their players showed up in a way they were no longer doing for Liam Rosenior, writes Phil McNulty. Relevance to standings and momentum.
+Victor Wembanyama returns as San Antonio Spurs beat Portland Trail Blazers to take 3-1 series lead in NBA playoffs. Victor Wembanyama said the way his return to play was handled was very disappointing following a concussion; watch the 2026 NBA playoffs live on Sky Sports with Oklahoma City Thunder vs Phoenix Suns, on Sky Sports Main Event at 3am on Thursday Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,8 +31,7 @@ Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Rosenior sacking. Chelsea
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Rosenior sacking. https://www.bbc.com/sport/football/articles/cededgwjj62o?at_medium=RSS&at_campaign=rss
-- skysports.com — Chelsea 1-0 Leeds: Enzo Fernandez heads Blues into FA Cup final just days after Liam Rosenior's exit. https://www.skysports.com/football/chelsea-vs-leeds-united/report/555723
+- skysports.com — Victor Wembanyama returns as San Antonio Spurs beat Portland Trail Blazers to take 3-1 series lead in NBA playoffs. https://www.skysports.com/nba/news/12040/13537018/victor-wembanyama-returns-as-san-antonio-spurs-beat-portland-trail-blazers-to-take-3-1-series-lead-in-nba-playoffs
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -41,13 +40,13 @@ Chelsea 1-0 Leeds: Blues reach FA Cup final after Liam Rosenior sacking. Chelsea
 
 ---
 
-## Story 2: Drowning in the banter-sphere: how can the Premier League rivals handle the heat? | Barney Ronay
-**Slug (lower-third):** Drowning in the banter-sphere: how can the Premier League…  
-**When:** 2026-04-26 15:33 (America/Winnipeg)  •  **Published:** 2026-04-26 20:33 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~22s
+## Story 2: Carrick at Manchester United: sensible full-time option or reasons to be cautious? | Jamie Jackson
+**Slug (lower-third):** Carrick at Manchester United: sensible full-time option o…  
+**When:** 2026-04-27 02:00 (America/Winnipeg)  •  **Published:** 2026-04-27 07:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Drowning in the banter-sphere: how can the Premier League rivals handle the heat? | Barney Ronay. The current season has become a meme-war without end, an endless rolling wall of gloat and taunt in which players and managers must try to block out the noise Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Carrick at Manchester United: sensible full-time option or reasons to be cautious? | Jamie Jackson. The job is his to lose after closing in on the Champions League but the great unknown is how will the manager cope with a dip in form Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -56,7 +55,7 @@ Drowning in the banter-sphere: how can the Premier League rivals handle the heat
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Drowning in the banter-sphere: how can the Premier League rivals handle the heat? | Barney Ronay. https://www.theguardian.com/football/2026/apr/26/drowning-banter-sphere-premier-league-arsenal-title-race-manchester-city-spurs-west-ham-relegation
+- theguardian.com — Carrick at Manchester United: sensible full-time option or reasons to be cautious? | Jamie Jackson. https://www.theguardian.com/football/2026/apr/27/michael-carrick-manchester-united-manager-brentford-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -70,7 +69,7 @@ Drowning in the banter-sphere: how can the Premier League rivals handle the heat
 ## Story 3: Missy Bo Kearns: Aston Villa and England midfielder discusses her miscarriage
 **Slug (lower-third):** Missy Bo Kearns: Aston Villa and England midfielder discu…  
 **When:** 2026-04-26 17:15 (America/Winnipeg)  •  **Published:** 2026-04-26 22:15 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Missy Bo Kearns: Aston Villa and England midfielder discusses her miscarriage. Aston Villa and England midfielder Missy Bo Kearns says she spent "four days of hell in hospital" after suffering a miscarriage and contracting sepsis. Implications for the squad and table.
@@ -91,13 +90,15 @@ Missy Bo Kearns: Aston Villa and England midfielder discusses her miscarriage. A
 
 ---
 
-## Story 4: Newcastle interested in signing Nicolas Jackson after Bayern Munich decide to end loan in summer - Paper Talk
-**Slug (lower-third):** Newcastle interested in signing Nicolas Jackson after Bay…  
-**When:** 2026-04-26 16:49 (America/Winnipeg)  •  **Published:** 2026-04-26 21:49 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~28s
+### Injuries
+
+## Story 4: Xavi Simons injury: Tottenham playmaker to miss rest of season and World Cup with Netherlands after being stretchered off at Wolves
+**Slug (lower-third):** Xavi Simons injury: Tottenham playmaker to miss rest of s…  
+**When:** 2026-04-27 02:30 (America/Winnipeg)  •  **Published:** 2026-04-27 07:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~32s
 
 ### Presenter Script (3–5 sentences)
-Newcastle interested in signing Nicolas Jackson after Bayern Munich decide to end loan in summer - Paper Talk. Mondays top stories include: Nottingham Forest want the Championships top man Hayden Hackney to replace Elliot Anderson; Arsenal are monitoring Brazil forward Endrick; Man Utd have added Atalanta star Ederson to their shortlist as they attempt to sign a replacement for Casemiro Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Xavi Simons injury: Tottenham playmaker to miss rest of season and World Cup with Netherlands after being stretchered off at Wolves. Spurs midfielder Xavi Simons says he is heartbroken after the rest of his season and potential spot at the World Cup were snatched away due to a knee injury; the Netherlands international left Wolves on a stretcher after appearing to jar his knee as he challenged for the ball Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,7 +107,8 @@ Newcastle interested in signing Nicolas Jackson after Bayern Munich decide to en
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Newcastle interested in signing Nicolas Jackson after Bayern Munich decide to end loan in summer - Paper Talk. https://www.skysports.com/football/news/12040/13536959/newcastle-interested-in-signing-nicolas-jackson-after-bayern-munich-decide-to-end-loan-in-summer-paper-talk
+- skysports.com — Xavi Simons injury: Tottenham playmaker to miss rest of season and World Cup with Netherlands after being stretchered off at Wolves. https://www.skysports.com/football/news/12040/13537026/xavi-simons-injury-tottenham-playmaker-to-miss-rest-of-season-and-world-cup-with-netherlands-after-being-stretchered-off-at-wolves
+- bbc.com — Xavi Simons: Netherlands and Tottenham midfielder to miss rest of season and 2026 World Cup. https://www.bbc.com/sport/football/articles/cy0101p91z3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -120,7 +122,7 @@ Newcastle interested in signing Nicolas Jackson after Bayern Munich decide to en
 ## Story 5: Chelsea 1-0 Leeds United: Tactical timeouts need to be clamped down on - Danny Murphy
 **Slug (lower-third):** Chelsea 1-0 Leeds United: Tactical timeouts need to be cl…  
 **When:** 2026-04-26 17:11 (America/Winnipeg)  •  **Published:** 2026-04-26 22:11 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Chelsea 1-0 Leeds United: Tactical timeouts need to be clamped down on - Danny Murphy. BBC Sport pundit Danny Murphy believes Chelsea utilised "an obvious tactical stoppage" in their FA Cup semi-final win against Leeds United, and proposes rule changes that can prevent it from happening. Relevance to standings and momentum.
@@ -143,13 +145,37 @@ Chelsea 1-0 Leeds United: Tactical timeouts need to be clamped down on - Danny M
 
 ### Club Updates
 
-## Story 6: Women's Champions League highlights: Arsenal 2-1 Lyon
-**Slug (lower-third):** Women's Champions League highlights: Arsenal 2-1 Lyon  
-**When:** 2026-04-26 12:36 (America/Winnipeg)  •  **Published:** 2026-04-26 17:36 (UTC)  
+## Story 6: Morgan Gibbs-White is the Premier League top scorer in 2026: How has he found his best Nottingham Forest form?
+**Slug (lower-third):** Morgan Gibbs-White is the Premier League top scorer in 20…  
+**When:** 2026-04-27 03:30 (America/Winnipeg)  •  **Published:** 2026-04-27 08:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Morgan Gibbs-White is the Premier League top scorer in 2026: How has he found his best Nottingham Forest form?. How Nottingham Forests Morgan Gibbs-White became the Premier Leagues in-form player; plus: Antonin Kinsky puts Madrid nightmare behind him for Tottenham and Tomas Soucek steps up once against for West Ham; its a relegation special in The Debrief... Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Morgan Gibbs-White is the Premier League top scorer in 2026: How has he found his best Nottingham Forest form?. https://www.skysports.com/football/news/12040/13535979/morgan-gibbs-white-is-the-premier-league-top-scorer-in-2026-how-has-he-found-his-best-nottingham-forest-form
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Premier League and FA Cup semi-finals: 10 talking points from the weekend's action
+**Slug (lower-third):** Premier League and FA Cup semi-finals: 10 talking points …  
+**When:** 2026-04-27 02:00 (America/Winnipeg)  •  **Published:** 2026-04-27 07:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Women's Champions League highlights: Arsenal 2-1 Lyon. Arsenal pounce on a pair of defensive errors to come from behind to defeat Lyon 2-1 at the Emirates Stadium, in the first leg of their Women's Champions League semi-final. Relevance to standings and momentum.
+Premier League and FA Cup semi-finals: 10 talking points from the weekend's action. Sanchez plays long game for McFarlane, Southampton can take heart, Arteta tries to gain edge and Isak will come good Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -158,8 +184,7 @@ Women's Champions League highlights: Arsenal 2-1 Lyon. Arsenal pounce on a pair 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Women's Champions League highlights: Arsenal 2-1 Lyon. https://www.bbc.com/sport/football/videos/czjwjkd83g9o?at_medium=RSS&at_campaign=rss
-- skysports.com — Arsenal 2-1 Lyon: Gunners battle from goal behind to take first leg lead to France in Women's Champions League semi-final. https://www.skysports.com/football/arsenal-women-vs-olympiques-lyon-women/report/551345
+- theguardian.com — Premier League and FA Cup semi-finals: 10 talking points from the weekend's action. https://www.theguardian.com/football/2026/apr/27/premier-league-and-fa-cup-semi-finals-10-talking-points-from-the-weekends-action
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -168,13 +193,13 @@ Women's Champions League highlights: Arsenal 2-1 Lyon. Arsenal pounce on a pair 
 
 ---
 
-## Story 7: WSL highlights: London City Lionesses 5-1 Leicester City
-**Slug (lower-third):** WSL highlights: London City Lionesses 5-1 Leicester City  
-**When:** 2026-04-26 13:47 (America/Winnipeg)  •  **Published:** 2026-04-26 18:47 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 8: Today on Sky Sports Racing: Bath, Lingfield Park and Wolverhampton feature live on Monday
+**Slug (lower-third):** Today on Sky Sports Racing: Bath, Lingfield Park and Wolv…  
+**When:** 2026-04-27 01:15 (America/Winnipeg)  •  **Published:** 2026-04-27 06:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-WSL highlights: London City Lionesses 5-1 Leicester City. London City Lionesses come from behind to inflict a damaging 5-1 defeat on bottom of the table Leicester City in the Women's Super League. Relevance to standings and momentum.
+Today on Sky Sports Racing: Bath, Lingfield Park and Wolverhampton feature live on Monday. In Mondays feature, El Matador looks to get his career back on track eased in grade for his reappearance at Lingfield Park; we also have competitive Flat action from Bath and Wolverhampton, live on Sky Sports Racing from 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -183,7 +208,7 @@ WSL highlights: London City Lionesses 5-1 Leicester City. London City Lionesses 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL highlights: London City Lionesses 5-1 Leicester City. https://www.bbc.com/sport/football/videos/c86e60ldqz9o?at_medium=RSS&at_campaign=rss
+- skysports.com — Today on Sky Sports Racing: Bath, Lingfield Park and Wolverhampton feature live on Monday. https://www.skysports.com/racing/news/12040/13536730/today-on-sky-sports-racing-bath-lingfield-park-and-wolverhampton-feature-live-on-monday
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -192,13 +217,13 @@ WSL highlights: London City Lionesses 5-1 Leicester City. London City Lionesses 
 
 ---
 
-## Story 8: How 10 Premier League teams could qualify for Europe
-**Slug (lower-third):** How 10 Premier League teams could qualify for Europe  
-**When:** 2026-04-26 11:49 (America/Winnipeg)  •  **Published:** 2026-04-26 16:49 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 9: Jesse Lingard interview: Former Man Utd man on Neymar, life in Brazil and his trophy target
+**Slug (lower-third):** Jesse Lingard interview: Former Man Utd man on Neymar, li…  
+**When:** 2026-04-27 00:11 (America/Winnipeg)  •  **Published:** 2026-04-27 05:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-How 10 Premier League teams could qualify for Europe. Ten Premier League teams in Europe? It sounds preposterous, but it is not as far-fetched as it seems. Relevance to standings and momentum.
+Jesse Lingard interview: Former Man Utd man on Neymar, life in Brazil and his trophy target. In his first major interview since moving to Brazil, Jesse Lingard talks to the BBC about his new life, and Manchester United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -207,7 +232,31 @@ How 10 Premier League teams could qualify for Europe. Ten Premier League teams i
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — How 10 Premier League teams could qualify for Europe. https://www.bbc.com/sport/football/articles/ckg0pjl4vq5o?at_medium=RSS&at_campaign=rss
+- bbc.com — Jesse Lingard interview: Former Man Utd man on Neymar, life in Brazil and his trophy target. https://www.bbc.com/sport/football/articles/c36rg3w3pexo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Football gossip: Jackson, Hackney, Simons, Godts, McGinn, Alisson
+**Slug (lower-third):** Football gossip: Jackson, Hackney, Simons, Godts, McGinn,…  
+**When:** 2026-04-26 16:35 (America/Winnipeg)  •  **Published:** 2026-04-26 21:35 (UTC)  
+**Virality score:** 90  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Jackson, Hackney, Simons, Godts, McGinn, Alisson. Newcastle are keen on Nicolas Jackson, Nottingham Forest eye Hayden Hackney as Elliot Anderson replacement, and Chelsea consider reuniting with Antonio Conte. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Jackson, Hackney, Simons, Godts, McGinn, Alisson. https://www.bbc.com/sport/football/articles/c3v6y7pvnk7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
