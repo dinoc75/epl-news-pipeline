@@ -1,15 +1,2 @@
-resp_01e6c819bce9e10a0069f0293be8608195846db8e9d3dd6d07
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_01e6c819bce9e10a0069f0293c61dc8195af4c1d15bcc27356
-reasoning
-auto
-in_memory
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script
