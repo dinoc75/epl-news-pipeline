@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-27 14:26 (America/Winnipeg)  |  2026-04-27 19:26 (UTC)
+**Generated:** 2026-04-27 22:25 (America/Winnipeg)  |  2026-04-28 03:25 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~4m 50s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Casemiro heads home for Man Utd against Brentford!
-- Jamie Carragher on the relegation run-in | 'Spurs are in a worse position now despite Wolves win'
-- Beau Greaves makes history as first woman to claim PDC ranking title as she wins Players Championship 11
+- Man Utd 2-1 Brentford: Bruno Fernandes closes in on PL assist record as Red Devils edge closer to Champions League return
+- Man Utd 2-1 Brentford: Keith Andrews post-match reaction
+- Troy Deeney's Team of the Week: Isak, Kinsky, Maguire, Hncapie
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Champions League at risk for Man Utd: What next for Marc Skinner?
-**Slug (lower-third):** Champions League at risk for Man Utd: What next for Marc …  
-**When:** 2026-04-27 09:33 (America/Winnipeg)  •  **Published:** 2026-04-27 14:33 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 1: Andoni Iraola, Marco Silva and Xabi Alonso emerge as contenders for Chelsea job - Paper Talk
+**Slug (lower-third):** Andoni Iraola, Marco Silva and Xabi Alonso emerge as cont…  
+**When:** 2026-04-27 17:00 (America/Winnipeg)  •  **Published:** 2026-04-27 22:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Champions League at risk for Man Utd: What next for Marc Skinner?. Securing Women's Champions League football for next season is now out of Manchester United's hands - so where does that leave manager Marc Skinner? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Andoni Iraola, Marco Silva and Xabi Alonso emerge as contenders for Chelsea job - Paper Talk. Tuesdays top stories include: Man Utd striker Marcus Rashford is willing to take a pay cut to join Barca permanently; Newcastle will explore selling Yoane Wissa this summer; Burnley and Bristol City want to appoint Steven Gerrard; Liam Delap wants to stay and fight for his Chelsea career Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,57 @@ Champions League at risk for Man Utd: What next for Marc Skinner?. Securing Wome
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Champions League at risk for Man Utd: What next for Marc Skinner?. https://www.bbc.com/sport/football/articles/ckgeg7zd0yyo?at_medium=RSS&at_campaign=rss
+- skysports.com — Andoni Iraola, Marco Silva and Xabi Alonso emerge as contenders for Chelsea job - Paper Talk. https://www.skysports.com/football/news/12040/13537371/andoni-iraola-marco-silva-and-xabi-alonso-emerge-as-contenders-for-chelsea-job-paper-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 2: Football gossip: Wissa, Delap, Alvarez, Parker, Gerrard, Sancho, Diomande, Kane, Vlahovic
+**Slug (lower-third):** Football gossip: Wissa, Delap, Alvarez, Parker, Gerrard, …  
+**When:** 2026-04-27 16:59 (America/Winnipeg)  •  **Published:** 2026-04-27 21:59 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Wissa, Delap, Alvarez, Parker, Gerrard, Sancho, Diomande, Kane, Vlahovic. Newcastle will explore selling Yoane Wissa in the summer, Liam Delap wants to stay and fight for his Chelsea career, Barcelona contact Atletico Madrid over a possible transfer for Julian Alvarez, plus more. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Wissa, Delap, Alvarez, Parker, Gerrard, Sancho, Diomande, Kane, Vlahovic. https://www.bbc.com/sport/football/articles/c3939m7y30eo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Jamie Carragher says James Maddison may have role to play if Tottenham are to stay in Premier League
+**Slug (lower-third):** Jamie Carragher says James Maddison may have role to play…  
+**When:** 2026-04-27 14:18 (America/Winnipeg)  •  **Published:** 2026-04-27 19:18 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Jamie Carragher says James Maddison may have role to play if Tottenham are to stay in Premier League. Sky Sports Jamie Carragher: I feel James Maddison may have to play a role in terms of keeping Tottenham up. He is the only one I can think of in terms of doing something special. Hes got that quality I mention in terms of Jarrod Bowen and Morgan Gibbs-White. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Jamie Carragher says James Maddison may have role to play if Tottenham are to stay in Premier League. https://www.skysports.com/football/news/12040/13537322/jamie-carragher-says-james-maddison-may-have-role-to-play-if-tottenham-are-to-stay-in-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +92,13 @@ Champions League at risk for Man Utd: What next for Marc Skinner?. Securing Wome
 
 ### Injuries
 
-## Story 2: Kai Havertz injury: Arsenal expect forward to play a part in title run-in despite upper leg issue
-**Slug (lower-third):** Kai Havertz injury: Arsenal expect forward to play a part…  
-**When:** 2026-04-27 12:05 (America/Winnipeg)  •  **Published:** 2026-04-27 17:05 (UTC)  
+## Story 4: Man Utd 2-1 Brentford: Bruno Fernandes closes in on PL assist record as Red Devils edge closer to Champions League return
+**Slug (lower-third):** Man Utd 2-1 Brentford: Bruno Fernandes closes in on PL as…  
+**When:** 2026-04-27 17:00 (America/Winnipeg)  •  **Published:** 2026-04-27 22:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Kai Havertz injury: Arsenal expect forward to play a part in title run-in despite upper leg issue. Arsenal expect Kai Havertz to play a part in their title run-in despite the forward suffering a muscular injury against Newcastle. Potential impact on the lineup and upcoming fixtures.
+Man Utd 2-1 Brentford: Bruno Fernandes closes in on PL assist record as Red Devils edge closer to Champions League return. Manchester United are within touching distance of returning to the Champions League after beating Brentford 2-1 at Old Trafford. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,31 +107,8 @@ Kai Havertz injury: Arsenal expect forward to play a part in title run-in despit
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Kai Havertz injury: Arsenal expect forward to play a part in title run-in despite upper leg issue. https://www.bbc.com/sport/football/articles/cr515gvn7mdo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Xavi Simons injury: Netherlands and Tottenham midfielder to miss rest of season and 2026 World Cup
-**Slug (lower-third):** Xavi Simons injury: Netherlands and Tottenham midfielder …  
-**When:** 2026-04-27 06:44 (America/Winnipeg)  •  **Published:** 2026-04-27 11:44 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Xavi Simons injury: Netherlands and Tottenham midfielder to miss rest of season and 2026 World Cup. Tottenham and Netherlands attacking midfielder Xavi Simons is "heartbroken" to have injured his anterior cruciate ligament. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Xavi Simons injury: Netherlands and Tottenham midfielder to miss rest of season and 2026 World Cup. https://www.bbc.com/sport/football/articles/cy0101p91z3o?at_medium=RSS&at_campaign=rss
+- skysports.com — Man Utd 2-1 Brentford: Bruno Fernandes closes in on PL assist record as Red Devils edge closer to Champions League return. https://www.skysports.com/football/manchester-united-vs-brentford/report/531465
+- bbc.com — Premier League: Man Utd 2-1 Brentford Highlights. https://www.bbc.com/sport/football/videos/ce8j8r3r2wjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,10 +119,10 @@ Xavi Simons injury: Netherlands and Tottenham midfielder to miss rest of season 
 
 ### League & Regulation
 
-## Story 4: Arsenal: Paul Merson says Mikel Arteta's side will win title if they beat Fulham as Jamie Carragher warns about 'banana skin'
+## Story 5: Arsenal: Paul Merson says Mikel Arteta's side will win title if they beat Fulham as Jamie Carragher warns about 'banana skin'
 **Slug (lower-third):** Arsenal: Paul Merson says Mikel Arteta's side will win ti…  
 **When:** 2026-04-27 12:12 (America/Winnipeg)  •  **Published:** 2026-04-27 17:12 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+**Virality score:** 91  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
 Arsenal: Paul Merson says Mikel Arteta's side will win title if they beat Fulham as Jamie Carragher warns about 'banana skin'. Sky Sports Paul Merson believes Arsenal will win the Premier League title if they beat Fulham; Jamie Carragher has warned Marco Silvas side could be a banana skin in the title race; Arsenal sit three points ahead of Manchester City but they have a game in hand Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
@@ -118,13 +145,13 @@ Arsenal: Paul Merson says Mikel Arteta's side will win title if they beat Fulham
 
 ### Club Updates
 
-## Story 5: Casemiro heads home for Man Utd against Brentford!
-**Slug (lower-third):** Casemiro heads home for Man Utd against Brentford!  
-**When:** 2026-04-27 15:16 (America/Winnipeg)  •  **Published:** 2026-04-27 20:16 (UTC)  
+## Story 6: Man Utd 2-1 Brentford: Keith Andrews post-match reaction
+**Slug (lower-third):** Man Utd 2-1 Brentford: Keith Andrews post-match reaction  
+**When:** 2026-04-27 16:46 (America/Winnipeg)  •  **Published:** 2026-04-27 21:46 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Casemiro heads home for Man Utd against Brentford!. Casemiro heads home for Man Utd against Brentford! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Man Utd 2-1 Brentford: Keith Andrews post-match reaction. Brentford boss Keith Andrews says his side aren't "playing fearful" football and that he doesn't want to be that sort of team after a 2-1 loss to Manchester United in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +160,7 @@ Casemiro heads home for Man Utd against Brentford!. Casemiro heads home for Man 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Casemiro heads home for Man Utd against Brentford!. https://www.skysports.com/watch/video/13537341/casemiro-heads-home-for-man-utd-against-brentford
+- bbc.com — Man Utd 2-1 Brentford: Keith Andrews post-match reaction. https://www.bbc.com/sport/football/videos/cqxlxn38w0no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,10 +169,58 @@ Casemiro heads home for Man Utd against Brentford!. Casemiro heads home for Man 
 
 ---
 
-## Story 6: Jamie Carragher on the relegation run-in | 'Spurs are in a worse position now despite Wolves win'
+## Story 7: Troy Deeney's Team of the Week: Isak, Kinsky, Maguire, Hncapie
+**Slug (lower-third):** Troy Deeney's Team of the Week: Isak, Kinsky, Maguire, Hn…  
+**When:** 2026-04-27 17:33 (America/Winnipeg)  •  **Published:** 2026-04-27 22:33 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Troy Deeney's Team of the Week: Isak, Kinsky, Maguire, Hncapie. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Troy Deeney's Team of the Week: Isak, Kinsky, Maguire, Hncapie. https://www.bbc.com/sport/football/articles/cwywy9kkdp6o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Manchester City discuss end-of-season fixture scheduling with Premier League
+**Slug (lower-third):** Manchester City discuss end-of-season fixture scheduling …  
+**When:** 2026-04-27 16:19 (America/Winnipeg)  •  **Published:** 2026-04-27 21:19 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City discuss end-of-season fixture scheduling with Premier League. Manchester City are in discussions with the Premier League over the scheduling of two fixtures that could prove crucial in the title race. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester City discuss end-of-season fixture scheduling with Premier League. https://www.bbc.com/sport/football/articles/c4g5eeyl95no?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Jamie Carragher on the relegation run-in | 'Spurs are in a worse position now despite Wolves win'
 **Slug (lower-third):** Jamie Carragher on the relegation run-in | 'Spurs are in …  
 **When:** 2026-04-27 14:26 (America/Winnipeg)  •  **Published:** 2026-04-27 19:26 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Jamie Carragher on the relegation run-in | 'Spurs are in a worse position now despite Wolves win'. Jamie Carragher discusses the Premier League relegation run-in and assesses Tottenham Hotspurs chances of survival. Relevance to standings and momentum.
@@ -166,10 +241,10 @@ Jamie Carragher on the relegation run-in | 'Spurs are in a worse position now de
 
 ---
 
-## Story 7: Beau Greaves makes history as first woman to claim PDC ranking title as she wins Players Championship 11
+## Story 10: Beau Greaves makes history as first woman to claim PDC ranking title as she wins Players Championship 11
 **Slug (lower-third):** Beau Greaves makes history as first woman to claim PDC ra…  
 **When:** 2026-04-27 14:02 (America/Winnipeg)  •  **Published:** 2026-04-27 19:02 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+**Virality score:** 93  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
 Beau Greaves makes history as first woman to claim PDC ranking title as she wins Players Championship 11. Beau Greaves beats Michael Smith in last-leg decider to triumph in Milton Keynes, clinching a historic victory with stunning 142 checkout; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -182,78 +257,6 @@ Beau Greaves makes history as first woman to claim PDC ranking title as she wins
 
 ### Sources
 - skysports.com — Beau Greaves makes history as first woman to claim PDC ranking title as she wins Players Championship 11. https://www.skysports.com/darts/news/12040/13537308/beau-greaves-makes-history-as-first-woman-to-claim-pdc-ranking-title-as-she-wins-players-championship-11
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Southampton and Ipswich Town prepare for automatic promotion showdown
-**Slug (lower-third):** Southampton and Ipswich Town prepare for automatic promot…  
-**When:** 2026-04-27 11:56 (America/Winnipeg)  •  **Published:** 2026-04-27 16:56 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Southampton and Ipswich Town prepare for automatic promotion showdown. Southampton must beat Ipswich to take their Championship promotion push to the final day, but a win for Town would see them all but back in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Southampton and Ipswich Town prepare for automatic promotion showdown. https://www.bbc.com/sport/football/articles/cgmemdl8pzpo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: The Premier League finally has a relegation battle | Jonathan Wilson
-**Slug (lower-third):** The Premier League finally has a relegation battle | Jona…  
-**When:** 2026-04-27 10:00 (America/Winnipeg)  •  **Published:** 2026-04-27 15:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-The Premier League finally has a relegation battle | Jonathan Wilson. After recent seasons with a defined bottom three, a handful of nervous clubs are aiming to beat the drop to the Championship Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — The Premier League finally has a relegation battle | Jonathan Wilson. https://www.theguardian.com/football/2026/apr/27/the-premier-league-finally-has-a-relegation-battle
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Could Newcastle get dragged into a Premier League relegation fight?
-**Slug (lower-third):** Could Newcastle get dragged into a Premier League relegat…  
-**When:** 2026-04-27 07:42 (America/Winnipeg)  •  **Published:** 2026-04-27 12:42 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Could Newcastle get dragged into a Premier League relegation fight?. Newcastle have lost their past five games in all competitions and are eight points clear of the Premier League bottom three. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Could Newcastle get dragged into a Premier League relegation fight?. https://www.bbc.com/sport/football/articles/c33l3y52nm5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
