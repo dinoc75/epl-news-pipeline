@@ -1,25 +1,49 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-29 03:22 (America/Winnipeg)  |  2026-04-29 08:22 (UTC)
+**Generated:** 2026-04-29 09:02 (America/Winnipeg)  |  2026-04-29 14:02 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 38s
+**Estimated total video length:** ~4m 51s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- NBA Playoffs: Victor Wembanyama powers San Antonio Spurs past Portland Trail Blazers and into Western Conference semi-finals
-- Sky Sports Big Weekend Quiz: Premier League, EFL, WSL, Formula 1, Super League and IPL trivia being tested
-- Manchester United: The youngsters tipped for the first team next season
+- PSG and Bayern: Where would both teams finish in the Premier League after nine-goal thriller in Europe?
+- A place in the PL, a title, promotions & relegations: It's all to play for on EFL final day with EVERY game live on Sky
+- Chelsea captain Mille Bright retires: Former England captain reflects on 2022 Women's Euros win
 
 ---
 
 ### Managerial Moves
 
-## Story 1: 'I will love it. Love it': 30 years on from Kevin Keegan's infamous rant
+## Story 1: Ashley Cole: 'The players have to trust what I'm asking them to do'
+**Slug (lower-third):** Ashley Cole: 'The players have to trust what I'm asking t…  
+**When:** 2026-04-29 06:00 (America/Winnipeg)  •  **Published:** 2026-04-29 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ashley Cole: 'The players have to trust what I'm asking them to do'. The former Arsenal, Chelsea and England left-back is in his first manager's job, with playoff-chasing Serie B side, Cesena Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Ashley Cole: 'The players have to trust what I'm asking them to do'. https://www.theguardian.com/football/2026/apr/29/ashley-cole-players-trust-first-manager-job-cesena-serie-b
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: 'I will love it. Love it': 30 years on from Kevin Keegan's infamous rant
 **Slug (lower-third):** 'I will love it. Love it': 30 years on from Kevin Keegan'…  
 **When:** 2026-04-29 02:00 (America/Winnipeg)  •  **Published:** 2026-04-29 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'I will love it. Love it': 30 years on from Kevin Keegan's infamous rant. The then Newcastle manager's on-air blast at Sir Alex Ferguson remains a classic Premier League moment Relevance to standings and momentum.
@@ -40,12 +64,64 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ---
 
+### Transfers
+
+## Story 3: Jack Grealish: Everton loanee extends Special Olympics GB ambassador role
+**Slug (lower-third):** Jack Grealish: Everton loanee extends Special Olympics GB…  
+**When:** 2026-04-29 04:08 (America/Winnipeg)  •  **Published:** 2026-04-29 09:08 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Jack Grealish: Everton loanee extends Special Olympics GB ambassador role. England midfielder Jack Grealish speaks to Joe Wilson about extending his Special Olympics GB ambassador role and what it means to him. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Jack Grealish: Everton loanee extends Special Olympics GB ambassador role. https://www.bbc.com/sport/football/articles/ce9pzdk9npko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 4: Everton: Jack Grealish injury boost before summer transfer window
+**Slug (lower-third):** Everton: Jack Grealish injury boost before summer transfe…  
+**When:** 2026-04-29 03:45 (America/Winnipeg)  •  **Published:** 2026-04-29 08:45 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Everton: Jack Grealish injury boost before summer transfer window. Jack Grealish says his recovery from the operation he had on his season-ending foot injury is going extremely well. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Everton: Jack Grealish injury boost before summer transfer window. https://www.bbc.com/sport/football/articles/c3w26nvqne6o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ### League & Regulation
 
-## Story 2: NBA Playoffs: Victor Wembanyama powers San Antonio Spurs past Portland Trail Blazers and into Western Conference semi-finals
+## Story 5: NBA Playoffs: Victor Wembanyama powers San Antonio Spurs past Portland Trail Blazers and into Western Conference semi-finals
 **Slug (lower-third):** NBA Playoffs: Victor Wembanyama powers San Antonio Spurs …  
 **When:** 2026-04-29 03:30 (America/Winnipeg)  •  **Published:** 2026-04-29 08:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+**Virality score:** 97  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 NBA Playoffs: Victor Wembanyama powers San Antonio Spurs past Portland Trail Blazers and into Western Conference semi-finals. Victor Wembanyama made six blocks as San Antonio Spurs made it into the Western Conference semi-finals for the first time since 2017; They won the series against the Portland Trail Blazers 4-1; They will face the winners of the Denver Nuggets and Minnesota Timberwolves Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
@@ -68,13 +144,13 @@ NBA Playoffs: Victor Wembanyama powers San Antonio Spurs past Portland Trail Bla
 
 ### Club Updates
 
-## Story 3: Sky Sports Big Weekend Quiz: Premier League, EFL, WSL, Formula 1, Super League and IPL trivia being tested
-**Slug (lower-third):** Sky Sports Big Weekend Quiz: Premier League, EFL, WSL, Fo…  
-**When:** 2026-04-29 03:00 (America/Winnipeg)  •  **Published:** 2026-04-29 08:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: PSG and Bayern: Where would both teams finish in the Premier League after nine-goal thriller in Europe?
+**Slug (lower-third):** PSG and Bayern: Where would both teams finish in the Prem…  
+**When:** 2026-04-29 08:00 (America/Winnipeg)  •  **Published:** 2026-04-29 13:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Sky Sports Big Weekend Quiz: Premier League, EFL, WSL, Formula 1, Super League and IPL trivia being tested. Warm up for an unmissable Big Weekend of sport on Sky Sports with our quiz! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+PSG and Bayern: Where would both teams finish in the Premier League after nine-goal thriller in Europe?. Sky Sports writers assess where PSG and Bayern would finish in the Premier League following their nine-goal thriller in the Champions League on Tuesday; first European semi-final to see both teams score four or more goals; pair meet next Wednesday in Germany for second leg Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +159,7 @@ Sky Sports Big Weekend Quiz: Premier League, EFL, WSL, Formula 1, Super League a
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sky Sports Big Weekend Quiz: Premier League, EFL, WSL, Formula 1, Super League and IPL trivia being tested. https://www.skysports.com/football/news/12040/13535331/sky-sports-big-weekend-quiz-premier-league-efl-wsl-formula-1-super-league-and-ipl-trivia-being-tested
+- skysports.com — PSG and Bayern: Where would both teams finish in the Premier League after nine-goal thriller in Europe?. https://www.skysports.com/football/news/12040/13537914/psg-and-bayern-where-would-both-teams-finish-in-the-premier-league-after-nine-goal-thriller-in-europe
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +168,86 @@ Sky Sports Big Weekend Quiz: Premier League, EFL, WSL, Formula 1, Super League a
 
 ---
 
-## Story 4: Manchester United: The youngsters tipped for the first team next season
-**Slug (lower-third):** Manchester United: The youngsters tipped for the first te…  
-**When:** 2026-04-29 02:00 (America/Winnipeg)  •  **Published:** 2026-04-29 07:00 (UTC)  
+## Story 7: A place in the PL, a title, promotions & relegations: It's all to play for on EFL final day with EVERY game live on Sky
+**Slug (lower-third):** A place in the PL, a title, promotions & relegations: It'…  
+**When:** 2026-04-29 06:30 (America/Winnipeg)  •  **Published:** 2026-04-29 11:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+A place in the PL, a title, promotions & relegations: It's all to play for on EFL final day with EVERY game live on Sky. Three sides are jostling for a spot in the Premier League, while there are still titles, promotions, play-off places and relegations to be decided. Every EFL game on Saturday is live on Sky; the Championship kicks off at 12.30pm, while League One and Two kick off at 3pm. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — A place in the PL, a title, promotions & relegations: It's all to play for on EFL final day with EVERY game live on Sky. https://www.skysports.com/football/news/12040/13537951/a-place-in-the-pl-a-title-promotions-relegations-its-all-to-play-for-on-efl-final-day-with-every-game-live-on-sky
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Chelsea captain Mille Bright retires: Former England captain reflects on 2022 Women's Euros win
+**Slug (lower-third):** Chelsea captain Mille Bright retires: Former England capt…  
+**When:** 2026-04-29 06:04 (America/Winnipeg)  •  **Published:** 2026-04-29 11:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: The youngsters tipped for the first team next season. Which Manchester United youngsters are most likely to be pushing for including on their pre-season tour in July? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea captain Mille Bright retires: Former England captain reflects on 2022 Women's Euros win. Speaking in 2022, Chelsea captain Millie Bright reflected on the "best summer of my life" and England's "incredible" Women's Euros victory. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Chelsea captain Mille Bright retires: Former England captain reflects on 2022 Women's Euros win. https://www.bbc.com/sport/football/videos/c2k2jlep72go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Millie Bright: Chelsea captain and England international announces retirement from football aged 32
+**Slug (lower-third):** Millie Bright: Chelsea captain and England international …  
+**When:** 2026-04-29 05:30 (America/Winnipeg)  •  **Published:** 2026-04-29 10:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Millie Bright: Chelsea captain and England international announces retirement from football aged 32. Millie Bright confirms her retirement from football, aged 32; the Chelsea captain is the Womens Super Leagues record appearance maker and has won 20 trophies across a 12-year Blues career; in a statement released on Wednesday she said she was ready to say goodbye to football Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Millie Bright: Chelsea captain and England international announces retirement from football aged 32. https://www.skysports.com/football/news/12040/13537923/millie-bright-chelsea-captain-and-england-international-announces-retirement-from-football-aged-32
+- bbc.com — Chelsea captain Millie Bright announces retirement from football with immediate effect. https://www.bbc.com/sport/football/articles/cvgzd945593o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Manchester United: The youngsters tipped for the first team next season
+**Slug (lower-third):** Manchester United: The youngsters tipped for the first te…  
+**When:** 2026-04-29 02:00 (America/Winnipeg)  •  **Published:** 2026-04-29 07:00 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United: The youngsters tipped for the first team next season. Which Manchester United youngsters are most likely to be pushing for inclusion on their pre-season tour in July? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -111,150 +260,6 @@ Manchester United: The youngsters tipped for the first team next season. Which M
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Southampton 2-2 Ipswich: Jack Clarke earns late point for Tractor Boys to take Championship promotion race to final day
-**Slug (lower-third):** Southampton 2-2 Ipswich: Jack Clarke earns late point for…  
-**When:** 2026-04-28 16:30 (America/Winnipeg)  •  **Published:** 2026-04-28 21:30 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Southampton 2-2 Ipswich: Jack Clarke earns late point for Tractor Boys to take Championship promotion race to final day. Jack Clarke struck a late equaliser for Ipswich to end Southampton's automatic-promotion dream in an enthralling 2-2 draw, which will take the race for the Premier League to the final day. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Southampton 2-2 Ipswich: Jack Clarke earns late point for Tractor Boys to take Championship promotion race to final day. https://www.skysports.com/football/southampton-vs-ipswich-town/report/534796
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Football gossip: Rashford, Gordon, Iraola, Osimhen, Mourinho, Diomande, Beukema, Ake, Araujo, Ueda, Ramazani
-**Slug (lower-third):** Football gossip: Rashford, Gordon, Iraola, Osimhen, Mouri…  
-**When:** 2026-04-28 15:53 (America/Winnipeg)  •  **Published:** 2026-04-28 20:53 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Rashford, Gordon, Iraola, Osimhen, Mourinho, Diomande, Beukema, Ake, Araujo, Ueda, Ramazani. Spurs want Marcus Rashford, Anthony Gordon is 'likely' to leave Newcastle and Arsenal are closely monitoring Victor Osimhen, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Rashford, Gordon, Iraola, Osimhen, Mourinho, Diomande, Beukema, Ake, Araujo, Ueda, Ramazani. https://www.bbc.com/sport/football/articles/c9q3gn39el7o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Clarke earns Ipswich point at Southampton to set up final-day promotion shootout
-**Slug (lower-third):** Clarke earns Ipswich point at Southampton to set up final…  
-**When:** 2026-04-28 15:56 (America/Winnipeg)  •  **Published:** 2026-04-28 20:56 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Clarke earns Ipswich point at Southampton to set up final-day promotion shootout. Ipswich have their promotion fate in their hands after Jack Clarke's late equaliser made it 2-2 as Southampton now look to the playoffs Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Clarke earns Ipswich point at Southampton to set up final-day promotion shootout. https://www.theguardian.com/football/2026/apr/28/southampton-ipswich-championship-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Players Championship 12: Wessel Nijman wins fifth ranking title of 2026 as Beau Greaves suffers last-16 exit
-**Slug (lower-third):** Players Championship 12: Wessel Nijman wins fifth ranking…  
-**When:** 2026-04-28 14:37 (America/Winnipeg)  •  **Published:** 2026-04-28 19:37 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-Players Championship 12: Wessel Nijman wins fifth ranking title of 2026 as Beau Greaves suffers last-16 exit. Wessel Nijman continues his fine form in PC12, as the Dutchman secures his fourth Players Championship title; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Players Championship 12: Wessel Nijman wins fifth ranking title of 2026 as Beau Greaves suffers last-16 exit. https://www.skysports.com/darts/news/12040/13537748/players-championship-12-wessel-nijman-wins-fifth-ranking-title-of-2026-as-beau-greaves-suffers-last-16-exit
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Mikel Arteta and Martin Odegaard say Arsenal are ready to make history ahead of Champions League semi-final with Atletico Madrid
-**Slug (lower-third):** Mikel Arteta and Martin Odegaard say Arsenal are ready to…  
-**When:** 2026-04-28 10:50 (America/Winnipeg)  •  **Published:** 2026-04-28 15:50 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Mikel Arteta and Martin Odegaard say Arsenal are ready to make history ahead of Champions League semi-final with Atletico Madrid. Arsenal face Atletico Madrid in the Champions League semi-final first leg on Wednesday as they bid to reach the final for the first time since 2006; Mikel Arteta and Martin Odegaard insist they are ready to make history, despite their recent struggles Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Mikel Arteta and Martin Odegaard say Arsenal are ready to make history ahead of Champions League semi-final with Atletico Madrid. https://www.skysports.com/football/news/12040/13537670/mikel-arteta-and-martin-odegaard-say-arsenal-are-ready-to-make-history-ahead-of-champions-league-semi-final-with-atletico-madrid
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Man City fixtures: Pep Guardiola's side face pile-up in May
-**Slug (lower-third):** Man City fixtures: Pep Guardiola's side face pile-up in M…  
-**When:** 2026-04-28 10:26 (America/Winnipeg)  •  **Published:** 2026-04-28 15:26 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man City fixtures: Pep Guardiola's side face pile-up in May. Manchester City face a fixture pile-up of four games in 11 days next month after the Premier League confirmed the rescheduled dates for two of their key matches in the race for the title. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Man City fixtures: Pep Guardiola's side face pile-up in May. https://www.bbc.com/sport/football/articles/cm2pn84y1r3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
