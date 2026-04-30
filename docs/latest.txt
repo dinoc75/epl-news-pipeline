@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-30 03:24 (America/Winnipeg)  |  2026-04-30 08:24 (UTC)
+**Generated:** 2026-04-30 09:00 (America/Winnipeg)  |  2026-04-30 14:00 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 51s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arsenal's Eberechi Eze denied penalty at Atletico Madrid: UEFA releases statement to explain VAR intervention
-- Mason Mount is targeting Premier League title glory at Man Utd
-- From Shankly v Revie to the 'ghost goal': all-English European semi-finals
+- Millie Bright interview: Former Chelsea defender on retirement from football
+- Premier League predictions: Chris Sutton v Ella and Jake from Jamie Johnson FC - & AI
+- Millie Bright: Former England and Chelsea captain on abuse, retirement and the future
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Crystal Palace back in business under Glasner but Shakhtar no pushovers
-**Slug (lower-third):** Crystal Palace back in business under Glasner but Shakhta…  
-**When:** 2026-04-29 14:52 (America/Winnipeg)  •  **Published:** 2026-04-29 19:52 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 1: Arteta will seek to use perceived injustices as Arsenal fuel after Atletico anger
+**Slug (lower-third):** Arteta will seek to use perceived injustices as Arsenal f…  
+**When:** 2026-04-30 07:32 (America/Winnipeg)  •  **Published:** 2026-04-30 12:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace back in business under Glasner but Shakhtar no pushovers. Manager has helped players rediscover their form and they want to repay him with a fitting farewell in Europe Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arteta will seek to use perceived injustices as Arsenal fuel after Atletico anger. Manager was fuming after semi-final draw but also needs a gameplan that can deliver more chances in Champions League second leg Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,32 @@ Crystal Palace back in business under Glasner but Shakhtar no pushovers. Manager
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Crystal Palace back in business under Glasner but Shakhtar no pushovers. https://www.theguardian.com/football/2026/apr/29/crystal-palace-oliver-glasner-shakhtar-donetsk-europa-conference-league-semi-final
+- theguardian.com — Arteta will seek to use perceived injustices as Arsenal fuel after Atletico anger. https://www.theguardian.com/football/2026/apr/30/mikel-arteta-perceived-injustices-arsenal-atletico-madrid-champions-league-semi-final
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Mauricio Pochettino: Tottenham downfall 'really sad'
+**Slug (lower-third):** Mauricio Pochettino: Tottenham downfall 'really sad'  
+**When:** 2026-04-30 03:37 (America/Winnipeg)  •  **Published:** 2026-04-30 08:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Mauricio Pochettino: Tottenham downfall 'really sad'. Former Tottenham manager Mauricio Pochettino has called the club's fall from grace 'really sad.' Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- espn.com — Mauricio Pochettino: Tottenham downfall 'really sad'. https://www.espn.com/soccer/story/_/id/48636024/mauricio-pochettino-tottenham-premier-league-downfall-really-sad
+- skysports.com — Mauricio Pochettino feels 'really sad' seeing Tottenham fight against Premier League relegation. https://www.skysports.com/football/news/12040/13538356/mauricio-pochettino-feels-really-sad-seeing-tottenham-fight-against-premier-league-relegation
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +67,13 @@ Crystal Palace back in business under Glasner but Shakhtar no pushovers. Manager
 
 ### Transfers
 
-## Story 2: Mason Mount is targeting Premier League title glory at Man Utd
-**Slug (lower-third):** Mason Mount is targeting Premier League title glory at Ma…  
-**When:** 2026-04-30 02:00 (America/Winnipeg)  •  **Published:** 2026-04-30 07:00 (UTC)  
+## Story 3: Kobbie Mainoo signs new Man United contract
+**Slug (lower-third):** Kobbie Mainoo signs new Man United contract  
+**When:** 2026-04-30 03:37 (America/Winnipeg)  •  **Published:** 2026-04-30 08:37 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mason Mount is targeting Premier League title glory at Man Utd. Manchester United's Mason Mount feels the club can end their 13-year wait for a Premier League title next season. Implications for the squad and table.
+Kobbie Mainoo signs new Man United contract. Kobbie Mainoo has signed a new contract to extend his stay at Manchester United, the club have confirmed. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,33 +82,9 @@ Mason Mount is targeting Premier League title glory at Man Utd. Manchester Unite
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Mason Mount is targeting Premier League title glory at Man Utd. https://www.bbc.com/sport/football/articles/cvgzl47l5l2o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 3: Arsenal's Eberechi Eze denied penalty at Atletico Madrid: UEFA releases statement to explain VAR intervention
-**Slug (lower-third):** Arsenal's Eberechi Eze denied penalty at Atletico Madrid:…  
-**When:** 2026-04-30 02:18 (America/Winnipeg)  •  **Published:** 2026-04-30 07:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Arsenal's Eberechi Eze denied penalty at Atletico Madrid: UEFA releases statement to explain VAR intervention. Arsenal were denied a penalty late in the second half at Atletico Madrid in their Champions League semi-final first leg after VAR recommended a review after David Hancko was judged to have fouled Eberechi Eze; Mikel Arteta was fuming with the decision which he said was against the rules Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Arsenal's Eberechi Eze denied penalty at Atletico Madrid: UEFA releases statement to explain VAR intervention. https://www.skysports.com/football/news/12040/13538277/arsenals-eberechi-eze-denied-penalty-at-atletico-madrid-uefa-releases-statement-to-explain-var-intervention
+- espn.com — Kobbie Mainoo signs new Man United contract. https://www.espn.com/soccer/story/_/id/48636290/kobbie-mainoo-signs-new-man-united-contract
+- skysports.com — Kobbie Mainoo: Manchester United midfielder signs new long-term contract until 2031. https://www.skysports.com/football/news/12040/13528827/kobbie-mainoo-manchester-united-midfielder-signs-new-long-term-contract-until-2031
+- bbc.com — Kobbie Mainoo: Manchester United midfielder signs new contract until 2031. https://www.bbc.com/sport/football/articles/cq6p4rynndpo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -94,13 +95,13 @@ Arsenal's Eberechi Eze denied penalty at Atletico Madrid: UEFA releases statemen
 
 ### Club Updates
 
-## Story 4: From Shankly v Revie to the 'ghost goal': all-English European semi-finals
-**Slug (lower-third):** From Shankly v Revie to the 'ghost goal': all-English Eur…  
-**When:** 2026-04-30 02:00 (America/Winnipeg)  •  **Published:** 2026-04-30 07:00 (UTC)  
+## Story 4: Millie Bright interview: Former Chelsea defender on retirement from football
+**Slug (lower-third):** Millie Bright interview: Former Chelsea defender on retir…  
+**When:** 2026-04-30 08:53 (America/Winnipeg)  •  **Published:** 2026-04-30 13:53 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-From Shankly v Revie to the 'ghost goal': all-English European semi-finals. Before Aston Villa face Nottingham Forest in the Europa League, we look at seven other all-English semi-final clashes in Europe Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Millie Bright interview: Former Chelsea defender on retirement from football. Millie Bright sits down with the BBC's Jo Currie to talk about her decision to retire from football. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,7 +110,7 @@ From Shankly v Revie to the 'ghost goal': all-English European semi-finals. Befo
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — From Shankly v Revie to the 'ghost goal': all-English European semi-finals. https://www.theguardian.com/football/2026/apr/30/from-shankly-v-revie-to-the-ghost-goal-all-english-european-semi-finals
+- bbc.com — Millie Bright interview: Former Chelsea defender on retirement from football. https://www.bbc.com/sport/football/videos/c4g805rkyn4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,13 +119,13 @@ From Shankly v Revie to the 'ghost goal': all-English European semi-finals. Befo
 
 ---
 
-## Story 5: 'We lost our home but not our identity' - Shakhtar Donetsk eye European success
-**Slug (lower-third):** 'We lost our home but not our identity' - Shakhtar Donets…  
-**When:** 2026-04-30 01:50 (America/Winnipeg)  •  **Published:** 2026-04-30 06:50 (UTC)  
+## Story 5: Premier League predictions: Chris Sutton v Ella and Jake from Jamie Johnson FC - & AI
+**Slug (lower-third):** Premier League predictions: Chris Sutton v Ella and Jake …  
+**When:** 2026-04-30 08:01 (America/Winnipeg)  •  **Published:** 2026-04-30 13:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'We lost our home but not our identity' - Shakhtar Donetsk eye European success. Shakhtar Donetsk go into their Uefa Conference League semi-final tie against Crystal Palace on Thursday hoping to make their country proud. Relevance to standings and momentum.
+Premier League predictions: Chris Sutton v Ella and Jake from Jamie Johnson FC - & AI. Chris Sutton takes on Ella and Jake from BBC football drama Jamie Johnson FC plus the BBC readers and AI with his predictions for this weekend's fixtures. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +134,7 @@ From Shankly v Revie to the 'ghost goal': all-English European semi-finals. Befo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — 'We lost our home but not our identity' - Shakhtar Donetsk eye European success. https://www.bbc.com/sport/football/articles/cddp78nyejro?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League predictions: Chris Sutton v Ella and Jake from Jamie Johnson FC - & AI. https://www.bbc.com/sport/football/articles/cvgzdn248ngo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,37 +143,13 @@ From Shankly v Revie to the 'ghost goal': all-English European semi-finals. Befo
 
 ---
 
-## Story 6: Luke Littler: PDC chief Matt Porter says 'The Nuke' has 'thrived' on Premier League Darts fan hostility but 'may need different approach'
-**Slug (lower-third):** Luke Littler: PDC chief Matt Porter says 'The Nuke' has '…  
-**When:** 2026-04-30 01:00 (America/Winnipeg)  •  **Published:** 2026-04-30 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Luke Littler: PDC chief Matt Porter says 'The Nuke' has 'thrived' on Premier League Darts fan hostility but 'may need different approach'. PDC chief executive Matt Porter speaks exclusively to Sky Sports ahead of Premier League Night 13 in Aberdeen; Porter discusses booing Luke Littler has received this year and 19-year-olds potential next steps; watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Luke Littler: PDC chief Matt Porter says 'The Nuke' has 'thrived' on Premier League Darts fan hostility but 'may need different approach'. https://www.skysports.com/darts/news/12040/13538195/luke-littler-pdc-chief-matt-porter-says-the-nuke-has-thrived-on-premier-league-darts-fan-hostility-but-may-need-different-approach
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: FPL gameweek 35 tips: Captain Igor Thiago and triple up on Arsenal defence
-**Slug (lower-third):** FPL gameweek 35 tips: Captain Igor Thiago and triple up o…  
-**When:** 2026-04-30 00:57 (America/Winnipeg)  •  **Published:** 2026-04-30 05:57 (UTC)  
+## Story 6: Millie Bright: Former England and Chelsea captain on abuse, retirement and the future
+**Slug (lower-third):** Millie Bright: Former England and Chelsea captain on abus…  
+**When:** 2026-04-30 07:49 (America/Winnipeg)  •  **Published:** 2026-04-30 12:49 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-FPL gameweek 35 tips: Captain Igor Thiago and triple up on Arsenal defence. With four weeks left in the FPL season, it is about striking a balance between finding explosive differentials and keeping faith in the consistent performers. Relevance to standings and momentum.
+Millie Bright: Former England and Chelsea captain on abuse, retirement and the future. Former England and Chelsea captain Millie Bright speaks to BBC Sport a day after announcing her retirement. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +158,7 @@ FPL gameweek 35 tips: Captain Igor Thiago and triple up on Arsenal defence. With
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — FPL gameweek 35 tips: Captain Igor Thiago and triple up on Arsenal defence. https://www.bbc.com/sport/football/articles/c8d8pr6mq67o?at_medium=RSS&at_campaign=rss
+- bbc.com — Millie Bright: Former England and Chelsea captain on abuse, retirement and the future. https://www.bbc.com/sport/football/articles/c2l2nx48jwko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +167,61 @@ FPL gameweek 35 tips: Captain Igor Thiago and triple up on Arsenal defence. With
 
 ---
 
-## Story 8: Nottingham Forest vs Aston Villa: Are Vitor Pereira's side favourites to reach Europa League final?
-**Slug (lower-third):** Nottingham Forest vs Aston Villa: Are Vitor Pereira's sid…  
-**When:** 2026-04-30 00:13 (America/Winnipeg)  •  **Published:** 2026-04-30 05:13 (UTC)  
+## Story 7: Piero Hincapie, William Saliba and Gabriel personify Arsenal's warrior spirit as battle against fatigue continues in epic trophy hunt
+**Slug (lower-third):** Piero Hincapie, William Saliba and Gabriel personify Arse…  
+**When:** 2026-04-30 07:49 (America/Winnipeg)  •  **Published:** 2026-04-30 12:49 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Piero Hincapie, William Saliba and Gabriel personify Arsenal's warrior spirit as battle against fatigue continues in epic trophy hunt. Arsenals battling draw with Atletico Madrid kept their Champions League dream alive ahead of their Saturday Night Football clash with Fulham; Gunners have played more games than any other side in Europes top leagues this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Piero Hincapie, William Saliba and Gabriel personify Arsenal's warrior spirit as battle against fatigue continues in epic trophy hunt. https://www.skysports.com/football/news/12040/13538432/piero-hincapie-william-saliba-and-gabriel-personify-arsenals-warrior-spirit-as-battle-against-fatigue-continues-in-epic-trophy-hunt
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Sky Sports' Big Weekend: How to watch Premier League, EFL, Scottish Premiership, WSL, Miami GP, Madrid Open and more
+**Slug (lower-third):** Sky Sports' Big Weekend: How to watch Premier League, EFL…  
+**When:** 2026-04-30 06:40 (America/Winnipeg)  •  **Published:** 2026-04-30 11:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
+
+### Presenter Script (3–5 sentences)
+Sky Sports' Big Weekend: How to watch Premier League, EFL, Scottish Premiership, WSL, Miami GP, Madrid Open and more. NOW is an instant streaming service offering access to all 12 Sky Sports channels, every Sky Sports+ stream, and much more; you can watch action with a NOW Day Membership - it starts immediately after purchase and lasts for 24 hours - or with a monthly sports membership plan Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Sky Sports' Big Weekend: How to watch Premier League, EFL, Scottish Premiership, WSL, Miami GP, Madrid Open and more. https://www.skysports.com/football/news/12040/13538400/sky-sports-big-weekend-how-to-watch-premier-league-efl-scottish-premiership-wsl-miami-gp-madrid-open-and-more
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Liverpool have to rebuild again as their great team hits the end of an era
+**Slug (lower-third):** Liverpool have to rebuild again as their great team hits …  
+**When:** 2026-04-30 06:07 (America/Winnipeg)  •  **Published:** 2026-04-30 11:07 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest vs Aston Villa: Are Vitor Pereira's side favourites to reach Europa League final?. A recent revival has lifted Nottingham Forest's hopes as they chase their Europa League dream against Aston Villa. Relevance to standings and momentum.
+Liverpool have to rebuild again as their great team hits the end of an era. Trent Alexander-Arnold has gone, Andy Robertson and Mo Salah are going, and Alisson and Virgil van Dijk may soon follow. Just how much experience are Liverpool losing? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +230,7 @@ Nottingham Forest vs Aston Villa: Are Vitor Pereira's side favourites to reach E
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Nottingham Forest vs Aston Villa: Are Vitor Pereira's side favourites to reach Europa League final?. https://www.bbc.com/sport/football/articles/ckgegjz4xd0o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Liverpool have to rebuild again as their great team hits the end of an era. https://www.theguardian.com/football/2026/apr/30/liverpool-great-team-end-era-alexander-arnold-robertson-salah-van-dijk-alisson
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +239,13 @@ Nottingham Forest vs Aston Villa: Are Vitor Pereira's side favourites to reach E
 
 ---
 
-## Story 9: Akil Howson set to become first black official at an FA Cup final as referee line-up confirmed
-**Slug (lower-third):** Akil Howson set to become first black official at an FA C…  
-**When:** 2026-04-29 15:05 (America/Winnipeg)  •  **Published:** 2026-04-29 20:05 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~25s
+## Story 10: Ashley Young: Former England, Man Utd and Aston Villa star to retire aged 40
+**Slug (lower-third):** Ashley Young: Former England, Man Utd and Aston Villa sta…  
+**When:** 2026-04-30 04:34 (America/Winnipeg)  •  **Published:** 2026-04-30 09:34 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Akil Howson set to become first black official at an FA Cup final as referee line-up confirmed. Akil Howson has been named as an assistant referee at Wembley next month when Chelsea take on Manchester City; in August 2023, Howson became the Premier Leagues first permanent black official in 15 years, following Uriah Rennie Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ashley Young: Former England, Man Utd and Aston Villa star to retire aged 40. Ashley Young will end his playing career at Ipswich after saying it will be "23 years and out" at the end of this season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,32 +254,7 @@ Akil Howson set to become first black official at an FA Cup final as referee lin
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Akil Howson set to become first black official at an FA Cup final as referee line-up confirmed. https://www.skysports.com/football/news/12040/13538176/akil-howson-set-to-become-first-black-official-at-an-fa-cup-final-as-referee-line-up-confirmed
-- bbc.com — Akil Howson to make history as first black FA Cup final official. https://www.bbc.com/sport/football/articles/cgjp4v39xjpo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League Darts: Michael van Gerwen and Luke Humphries set for crucial battle in Aberdeen on Night 13
-**Slug (lower-third):** Premier League Darts: Michael van Gerwen and Luke Humphri…  
-**When:** 2026-04-29 14:45 (America/Winnipeg)  •  **Published:** 2026-04-29 19:45 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Premier League Darts: Michael van Gerwen and Luke Humphries set for crucial battle in Aberdeen on Night 13. Defending Premier League champion Luke Humphries under pressure to make top four; Jonny Clayton and Luke Littler set for battle to head into Finals Night at The O2 in top spot; four regular rounds remain; watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Premier League Darts: Michael van Gerwen and Luke Humphries set for crucial battle in Aberdeen on Night 13. https://www.skysports.com/darts/news/12040/13537967/premier-league-darts-michael-van-gerwen-and-luke-humphries-set-for-crucial-battle-in-aberdeen-on-night-13
+- bbc.com — Ashley Young: Former England, Man Utd and Aston Villa star to retire aged 40. https://www.bbc.com/sport/football/articles/c332vp461m0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
