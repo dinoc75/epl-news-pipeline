@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-29 14:29 (America/Winnipeg)  |  2026-04-29 19:29 (UTC)
+**Generated:** 2026-04-29 22:24 (America/Winnipeg)  |  2026-04-30 03:24 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 04s
+**Estimated total video length:** ~4m 45s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League Darts: Michael van Gerwen and Luke Humphries set for crucial battle in Aberdeen on Night 13
-- Mohamed Salah: Liverpool forward expected to return before end of season after sustaining 'minor' muscle injury
-- Chelsea forward Mykhailo Mudryk appeals to Cas against reported four-year ban
+- WSL Highlights: Arsenal 7-0 Leicester City
+- Atletico Madrid 1-1 Arsenal: Gunners have late penalty overturned as Champions League semi-final first leg ends in draw
+- Akil Howson set to become first black official at an FA Cup final as referee line-up confirmed
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Ashley Cole: 'The players have to trust what I'm asking them to do'
-**Slug (lower-third):** Ashley Cole: 'The players have to trust what I'm asking t…  
-**When:** 2026-04-29 06:00 (America/Winnipeg)  •  **Published:** 2026-04-29 11:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 1: Crystal Palace back in business under Glasner but Shakhtar no pushovers
+**Slug (lower-third):** Crystal Palace back in business under Glasner but Shakhta…  
+**When:** 2026-04-29 14:52 (America/Winnipeg)  •  **Published:** 2026-04-29 19:52 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ashley Cole: 'The players have to trust what I'm asking them to do'. The former Arsenal, Chelsea and England left-back is in his first manager's job, with playoff-chasing Serie B side, Cesena Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Crystal Palace back in business under Glasner but Shakhtar no pushovers. Manager has helped players rediscover their form and they want to repay him with a fitting farewell in Europe Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Ashley Cole: 'The players have to trust what I'm asking them to do'. The former 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Ashley Cole: 'The players have to trust what I'm asking them to do'. https://www.theguardian.com/football/2026/apr/29/ashley-cole-players-trust-first-manager-job-cesena-serie-b
+- theguardian.com — Crystal Palace back in business under Glasner but Shakhtar no pushovers. https://www.theguardian.com/football/2026/apr/29/crystal-palace-oliver-glasner-shakhtar-donetsk-europa-conference-league-semi-final
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -67,60 +67,36 @@ Mohamed Salah: Liverpool forward expected to return before end of season after s
 
 ---
 
-## Story 3: Liverpool expect Salah to return from injury before end of his farewell season
-**Slug (lower-third):** Liverpool expect Salah to return from injury before end o…  
-**When:** 2026-04-29 12:34 (America/Winnipeg)  •  **Published:** 2026-04-29 17:34 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Liverpool expect Salah to return from injury before end of his farewell season. Fears that Mohamed Salah had played his last game for Liverpool have been eased after his injury sustained against Crystal Palace was found to be minor Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Liverpool expect Salah to return from injury before end of his farewell season. https://www.theguardian.com/football/2026/apr/29/liverpool-expect-mohamed-salah-return-injury-before-end-season
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Chris Billam-Smith to fight Ryan Rozicki live on Sky Sports on June 6 in Bournemouth on Zuffa Boxing's first UK card
-**Slug (lower-third):** Chris Billam-Smith to fight Ryan Rozicki live on Sky Spor…  
-**When:** 2026-04-29 10:30 (America/Winnipeg)  •  **Published:** 2026-04-29 15:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Chris Billam-Smith to fight Ryan Rozicki live on Sky Sports on June 6 in Bournemouth on Zuffa Boxing's first UK card. Zuffa Boxing will stage their first event in the UK on Saturday June 6 when Chris Billam-Smith returns to his hometown to take on dangerous Canadian knockout artist Ryan Rozicki in a high-octane cruiserweight clash at the Bournemouth International Centre, live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Chris Billam-Smith to fight Ryan Rozicki live on Sky Sports on June 6 in Bournemouth on Zuffa Boxing's first UK card. https://www.skysports.com/boxing/news/12040/13537405/chris-billam-smith-to-fight-ryan-rozicki-live-on-sky-sports-on-june-6-in-bournemouth-on-zuffa-boxings-first-uk-event
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### League & Regulation
 
-## Story 5: Chelsea forward Mykhailo Mudryk appeals to Cas against reported four-year ban
+## Story 3: PSG and Bayern's box-fresh talents or Premier League title tussle: you can only have one | Barney Ronay
+**Slug (lower-third):** PSG and Bayern's box-fresh talents or Premier League titl…  
+**When:** 2026-04-29 15:00 (America/Winnipeg)  •  **Published:** 2026-04-29 20:00 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+PSG and Bayern's box-fresh talents or Premier League title tussle: you can only have one | Barney Ronay. The Premier League isn't as fun and fizzy as PSG v Bayern but that's the price of the twice-weekly churn that rewards discipline and sacrifice Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — PSG and Bayern's box-fresh talents or Premier League title tussle: you can only have one | Barney Ronay. https://www.theguardian.com/football/2026/apr/29/psg-bayern-munich-premier-league-analysis
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Chelsea forward Mykhailo Mudryk appeals to Cas against reported four-year ban
 **Slug (lower-third):** Chelsea forward Mykhailo Mudryk appeals to Cas against re…  
 **When:** 2026-04-29 13:04 (America/Winnipeg)  •  **Published:** 2026-04-29 18:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Chelsea forward Mykhailo Mudryk appeals to Cas against reported four-year ban. Mykhailo Mudryk has appealed to the court of arbitration for sport after he received a reported four-year playing ban from the FA for the use of a banned substance Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
@@ -141,13 +117,15 @@ Chelsea forward Mykhailo Mudryk appeals to Cas against reported four-year ban. M
 
 ---
 
-## Story 6: Mykhailo Mudryk: Chelsea winger to appeal against four-year ban for doping offence to Court of Arbitration for Sport
-**Slug (lower-third):** Mykhailo Mudryk: Chelsea winger to appeal against four-ye…  
-**When:** 2026-04-29 11:22 (America/Winnipeg)  •  **Published:** 2026-04-29 16:22 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+### Club Updates
+
+## Story 5: WSL Highlights: Arsenal 7-0 Leicester City
+**Slug (lower-third):** WSL Highlights: Arsenal 7-0 Leicester City  
+**When:** 2026-04-29 19:03 (America/Winnipeg)  •  **Published:** 2026-04-30 00:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mykhailo Mudryk: Chelsea winger to appeal against four-year ban for doping offence to Court of Arbitration for Sport. Mykhailo Mudryk handed four-year ban from English football after FA found him guilty of doping; Mudryk has been suspended since December 2024 after failing drugs test; positive test was for prohibited substance meldonium; Mudryk had said failed drugs test was complete shock Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+WSL Highlights: Arsenal 7-0 Leicester City. Arsenal close the gap on leaders Manchester City to eight points with two games in hand, after a 7-0 win over Leicester City - who will finish bottom of the Women's Super League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,7 +134,8 @@ Mykhailo Mudryk: Chelsea winger to appeal against four-year ban for doping offen
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Mykhailo Mudryk: Chelsea winger to appeal against four-year ban for doping offence to Court of Arbitration for Sport. https://www.skysports.com/football/news/12040/13538076/mykhailo-mudryk-chelsea-winger-to-appeal-against-four-year-ban-for-doping-offence-to-court-of-arbitration-for-sport
+- bbc.com — WSL Highlights: Arsenal 7-0 Leicester City. https://www.bbc.com/sport/football/videos/clypglw807ro?at_medium=RSS&at_campaign=rss
+- skysports.com — Arsenal 7-0 Leicester: Gunners fire WSL title warning to leaders Man City as Stina Blackstenius scores twice. https://www.skysports.com/football/arsenal-women-vs-leicester-city-women/report/545682
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -165,12 +144,60 @@ Mykhailo Mudryk: Chelsea winger to appeal against four-year ban for doping offen
 
 ---
 
-### Club Updates
+## Story 6: Atletico Madrid 1-1 Arsenal: Gunners have late penalty overturned as Champions League semi-final first leg ends in draw
+**Slug (lower-third):** Atletico Madrid 1-1 Arsenal: Gunners have late penalty ov…  
+**When:** 2026-04-29 17:05 (America/Winnipeg)  •  **Published:** 2026-04-29 22:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
-## Story 7: Premier League Darts: Michael van Gerwen and Luke Humphries set for crucial battle in Aberdeen on Night 13
+### Presenter Script (3–5 sentences)
+Atletico Madrid 1-1 Arsenal: Gunners have late penalty overturned as Champions League semi-final first leg ends in draw. Mikel Arteta was left fuming after Arsenal had a penalty controversially overturned following a VAR check in a pulsating 1-1 draw with Atletico Madrid in their Champions League semi-final first leg. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Atletico Madrid 1-1 Arsenal: Gunners have late penalty overturned as Champions League semi-final first leg ends in draw. https://www.skysports.com/football/atletico-madrid-vs-arsenal/report/554947
+- bbc.com — Champions League highlights: Atletico Madrid 1-1 Arsenal. https://www.bbc.com/sport/football/videos/cpqpj58lpzno?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Akil Howson set to become first black official at an FA Cup final as referee line-up confirmed
+**Slug (lower-third):** Akil Howson set to become first black official at an FA C…  
+**When:** 2026-04-29 15:05 (America/Winnipeg)  •  **Published:** 2026-04-29 20:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Akil Howson set to become first black official at an FA Cup final as referee line-up confirmed. Akil Howson has been named as an assistant referee at Wembley next month when Chelsea take on Manchester City; in August 2023, Howson became the Premier Leagues first permanent black official in 15 years, following Uriah Rennie Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Akil Howson set to become first black official at an FA Cup final as referee line-up confirmed. https://www.skysports.com/football/news/12040/13538176/akil-howson-set-to-become-first-black-official-at-an-fa-cup-final-as-referee-line-up-confirmed
+- bbc.com — Akil Howson to make history as first black FA Cup final official. https://www.bbc.com/sport/football/articles/cgjp4v39xjpo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Premier League Darts: Michael van Gerwen and Luke Humphries set for crucial battle in Aberdeen on Night 13
 **Slug (lower-third):** Premier League Darts: Michael van Gerwen and Luke Humphri…  
 **When:** 2026-04-29 14:45 (America/Winnipeg)  •  **Published:** 2026-04-29 19:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+**Virality score:** 94  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 Premier League Darts: Michael van Gerwen and Luke Humphries set for crucial battle in Aberdeen on Night 13. Defending Premier League champion Luke Humphries under pressure to make top four; Jonny Clayton and Luke Littler set for battle to head into Finals Night at The O2 in top spot; four regular rounds remain; watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -191,10 +218,10 @@ Premier League Darts: Michael van Gerwen and Luke Humphries set for crucial batt
 
 ---
 
-## Story 8: Chris Billam-Smith: Trainer Shane McGuigan's warning for Bournemouth boxer - 'Our issue is he's always in tear-ups'
+## Story 9: Chris Billam-Smith: Trainer Shane McGuigan's warning for Bournemouth boxer - 'Our issue is he's always in tear-ups'
 **Slug (lower-third):** Chris Billam-Smith: Trainer Shane McGuigan's warning for …  
 **When:** 2026-04-29 13:00 (America/Winnipeg)  •  **Published:** 2026-04-29 18:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
+**Virality score:** 92  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
 Chris Billam-Smith: Trainer Shane McGuigan's warning for Bournemouth boxer - 'Our issue is he's always in tear-ups'. Trainer Shane McGuigan explains why Ryan Rozicki is a dangerous option for Chris Billam-Smith; Thats what Chris Billam-Smiths all about, McGuigan said. Rozicki is going to be a big puncher; watch Billam-Smith vs Rozicki on June 6, live on Sky Sports Relevance to standings and momentum.
@@ -215,10 +242,10 @@ Chris Billam-Smith: Trainer Shane McGuigan's warning for Bournemouth boxer - 'Ou
 
 ---
 
-## Story 9: Aston Villa chase destiny against resurgent Nottingham Forest in all-Midlands showdown
+## Story 10: Aston Villa chase destiny against resurgent Nottingham Forest in all-Midlands showdown
 **Slug (lower-third):** Aston Villa chase destiny against resurgent Nottingham Fo…  
 **When:** 2026-04-29 12:34 (America/Winnipeg)  •  **Published:** 2026-04-29 17:34 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Aston Villa chase destiny against resurgent Nottingham Forest in all-Midlands showdown. While Unai Emery's side are hoping to right past wrongs, their opponents are a serious threat under Vitor Pereira Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -231,30 +258,6 @@ Aston Villa chase destiny against resurgent Nottingham Forest in all-Midlands sh
 
 ### Sources
 - theguardian.com — Aston Villa chase destiny against resurgent Nottingham Forest in all-Midlands showdown. https://www.theguardian.com/football/2026/apr/29/aston-villa-nottingham-forest-all-english-europa-league-semi-final-preview
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: PSG and Bayern: Where would both teams finish in the Premier League after nine-goal thriller in Europe?
-**Slug (lower-third):** PSG and Bayern: Where would both teams finish in the Prem…  
-**When:** 2026-04-29 08:00 (America/Winnipeg)  •  **Published:** 2026-04-29 13:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-PSG and Bayern: Where would both teams finish in the Premier League after nine-goal thriller in Europe?. Sky Sports writers assess where PSG and Bayern would finish in the Premier League following their nine-goal thriller in the Champions League on Tuesday; first European semi-final to see both teams score four or more goals; pair meet next Wednesday in Germany for second leg Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — PSG and Bayern: Where would both teams finish in the Premier League after nine-goal thriller in Europe?. https://www.skysports.com/football/news/12040/13537914/psg-and-bayern-where-would-both-teams-finish-in-the-premier-league-after-nine-goal-thriller-in-europe
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
