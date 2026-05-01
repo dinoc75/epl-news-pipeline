@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-01 08:23 (America/Winnipeg)  |  2026-05-01 13:23 (UTC)
+**Generated:** 2026-05-01 14:15 (America/Winnipeg)  |  2026-05-01 19:15 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 47s
+**Estimated total video length:** ~4m 30s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Newcastle: Eddie Howe confident 'ambitious' Saudi backers PIF remain committed to club after 'challenging conversations'
-- Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
-- Man Utd: Michael Carrick and Ole Gunnar Solskjaer's auditions compared over first 13 Premier League games
+- Premier League news: De Zerbi tells Spurs 'only losers cry'; Carrick savours Liverpool clash
+- Mo Salah watches players and managers pay homage to his 'legendary' craft
+- Arsenal target Champions League history but Lyonnes promise semi-final comeback
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Man Utd: Michael Carrick and Ole Gunnar Solskjaer's auditions compared over first 13 Premier League games
-**Slug (lower-third):** Man Utd: Michael Carrick and Ole Gunnar Solskjaer's audit…  
-**When:** 2026-05-01 07:30 (America/Winnipeg)  •  **Published:** 2026-05-01 12:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
+## Story 1: Premier League news: De Zerbi tells Spurs 'only losers cry'; Carrick savours Liverpool clash
+**Slug (lower-third):** Premier League news: De Zerbi tells Spurs 'only losers cr…  
+**When:** 2026-05-01 13:16 (America/Winnipeg)  •  **Published:** 2026-05-01 18:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd: Michael Carrick and Ole Gunnar Solskjaer's auditions compared over first 13 Premier League games. Michael Carrick vs Ole Gunnar Solskjaer: which auditioning Man Utd interim manager had the better first 13 Premier League games? Have your say using our poll below; watch Man Utd vs Liverpool on Sky Sports Premier League from 2.30pm on Sunday; kick-off 3.30pm Relevance to standings and momentum.
+Premier League news: De Zerbi tells Spurs 'only losers cry'; Carrick savours Liverpool clash. Tottenham manager urges players to ignore negativity, while Manchester United welcome Liverpool to Old Trafford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Man Utd: Michael Carrick and Ole Gunnar Solskjaer's auditions compared over firs
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man Utd: Michael Carrick and Ole Gunnar Solskjaer's auditions compared over first 13 Premier League games. https://www.skysports.com/football/news/12040/13538375/man-utd-michael-carrick-and-ole-gunnar-solskjaers-auditions-compared-over-first-13-premier-league-games
+- theguardian.com — Premier League news: De Zerbi tells Spurs 'only losers cry'; Carrick savours Liverpool clash. https://www.theguardian.com/football/2026/may/01/the-talk-premier-league-tottenham-liverpool-manchester-united
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Man Utd: Michael Carrick and Ole Gunnar Solskjaer's auditions compared over firs
 
 ---
 
-## Story 2: Newcastle United: Saudi Arabian owners' desire for club 'unchanged' says boss Eddie Howe
-**Slug (lower-third):** Newcastle United: Saudi Arabian owners' desire for club '…  
-**When:** 2026-05-01 05:35 (America/Winnipeg)  •  **Published:** 2026-05-01 10:35 (UTC)  
+## Story 2: Mo Salah watches players and managers pay homage to his 'legendary' craft
+**Slug (lower-third):** Mo Salah watches players and managers pay homage to his '…  
+**When:** 2026-05-01 12:35 (America/Winnipeg)  •  **Published:** 2026-05-01 17:35 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle United: Saudi Arabian owners' desire for club 'unchanged' says boss Eddie Howe. Head coach Eddie Howe says Newcastle's owners remain "ambitious" for the club despite the Saudi Arabian PIF's decision to pull out of funding LIV Golf. Relevance to standings and momentum.
+Mo Salah watches players and managers pay homage to his 'legendary' craft. Liverpool forward Mo Salah watches on as players and managers dedicate video messages in homage to his legendary craft. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,79 @@ Newcastle United: Saudi Arabian owners' desire for club 'unchanged' says boss Ed
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Newcastle United: Saudi Arabian owners' desire for club 'unchanged' says boss Eddie Howe. https://www.bbc.com/sport/football/articles/cx21nez03evo?at_medium=RSS&at_campaign=rss
+- skysports.com — Mo Salah watches players and managers pay homage to his 'legendary' craft. https://www.skysports.com/watch/video/13538970/mo-salah-watches-players-and-managers-pay-homage-to-his-legendary-craft
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Roberto De Zerbi: SSN reporter lifts lid on exchange with Tottenham Hotspur head coach
+**Slug (lower-third):** Roberto De Zerbi: SSN reporter lifts lid on exchange with…  
+**When:** 2026-05-01 10:42 (America/Winnipeg)  •  **Published:** 2026-05-01 15:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Roberto De Zerbi: SSN reporter lifts lid on exchange with Tottenham Hotspur head coach. Michael Bridge gives his view on the exchange he had with Roberto De Zerbi, after the Spurs boss claimed he had been watching him. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Roberto De Zerbi: SSN reporter lifts lid on exchange with Tottenham Hotspur head coach. https://www.skysports.com/watch/video/13538915/roberto-de-zerbi-ssn-reporter-lifts-lid-on-exchange-with-tottenham-hotspur-head-coach
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Who finishes second in Championship? Pundits, fans & managers have their say
+**Slug (lower-third):** Who finishes second in Championship? Pundits, fans & mana…  
+**When:** 2026-05-01 09:33 (America/Winnipeg)  •  **Published:** 2026-05-01 14:33 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Who finishes second in Championship? Pundits, fans & managers have their say. Ipswich Town, Millwall and Middlesbrough battle for promotion to the Premier League on the final day of the season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Who finishes second in Championship? Pundits, fans & managers have their say. https://www.bbc.com/sport/football/articles/c2027071qj8o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Tottenham: Roberto de Zerbi wants Spurs to 'silence voice inside of us' in Premier League relegation fight
+**Slug (lower-third):** Tottenham: Roberto de Zerbi wants Spurs to 'silence voice…  
+**When:** 2026-05-01 09:26 (America/Winnipeg)  •  **Published:** 2026-05-01 14:26 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham: Roberto de Zerbi wants Spurs to 'silence voice inside of us' in Premier League relegation fight. Manager Roberto de Zerbi urges Tottenham to "silence the voice inside of us" as the club battle to avoid relegation from the Premier League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tottenham: Roberto de Zerbi wants Spurs to 'silence voice inside of us' in Premier League relegation fight. https://www.bbc.com/sport/football/articles/cvgze85889do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +138,13 @@ Newcastle United: Saudi Arabian owners' desire for club 'unchanged' says boss Ed
 
 ### Injuries
 
-## Story 3: Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
-**Slug (lower-third):** Premier League and FPL team news: All your injury and Fan…  
-**When:** 2026-05-01 07:33 (America/Winnipeg)  •  **Published:** 2026-05-01 12:33 (UTC)  
+## Story 6: Kai Havertz: What does the future hold for Arsenal's Germany forward
+**Slug (lower-third):** Kai Havertz: What does the future hold for Arsenal's Germ…  
+**When:** 2026-05-01 10:58 (America/Winnipeg)  •  **Published:** 2026-05-01 15:58 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Potential impact on the lineup and upcoming fixtures.
+Kai Havertz: What does the future hold for Arsenal's Germany forward. Arsenal have largely been unable to call upon Kai Havertz in a season blighted by injury, so what does the future hold for the Germany forward? Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,31 +153,7 @@ Premier League and FPL team news: All your injury and Fantasy Premier League inf
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. https://www.bbc.com/sport/articles/cd6pqx0qd84o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Michael van Gerwen attacked by stranger in bar fight on King's Day - a public holiday in the Netherlands
-**Slug (lower-third):** Michael van Gerwen attacked by stranger in bar fight on K…  
-**When:** 2026-05-01 07:01 (America/Winnipeg)  •  **Published:** 2026-05-01 12:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Michael van Gerwen attacked by stranger in bar fight on King's Day - a public holiday in the Netherlands. Michael van Gerwen returned to action in the Premier League after being punched in the face during a confrontation while on a night out in the Netherlands celebrating Kings Day on Monday; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Michael van Gerwen attacked by stranger in bar fight on King's Day - a public holiday in the Netherlands. https://www.skysports.com/darts/news/12040/13538840/michael-van-gerwen-attacked-by-stranger-in-bar-fight-on-kings-day-a-public-holiday-in-the-netherlands
+- bbc.com — Kai Havertz: What does the future hold for Arsenal's Germany forward. https://www.bbc.com/sport/football/articles/c70v4qq98d1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,85 +164,13 @@ Michael van Gerwen attacked by stranger in bar fight on King's Day - a public ho
 
 ### Club Updates
 
-## Story 5: Newcastle: Eddie Howe confident 'ambitious' Saudi backers PIF remain committed to club after 'challenging conversations'
-**Slug (lower-third):** Newcastle: Eddie Howe confident 'ambitious' Saudi backers…  
-**When:** 2026-05-01 08:18 (America/Winnipeg)  •  **Published:** 2026-05-01 13:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
-
-### Presenter Script (3–5 sentences)
-Newcastle: Eddie Howe confident 'ambitious' Saudi backers PIF remain committed to club after 'challenging conversations'. Eddie Howe on PIFs commitiment to Newcastle: The desire is unchanged, to try and get to the top of the Premier League, to try and win as many trophies consistently as possible that I dont think while PIF are, our owners, that will change. They are very ambitious for the football club. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Newcastle: Eddie Howe confident 'ambitious' Saudi backers PIF remain committed to club after 'challenging conversations'. https://www.skysports.com/football/news/12040/13538820/newcastle-eddie-howe-confident-ambitious-saudi-backers-pif-remain-committed-to-club-after
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Eddie Howe admits 'lot is riding' on Newcastle v Brighton after meeting with Saudi owners
-**Slug (lower-third):** Eddie Howe admits 'lot is riding' on Newcastle v Brighton…  
-**When:** 2026-05-01 07:24 (America/Winnipeg)  •  **Published:** 2026-05-01 12:24 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Eddie Howe admits 'lot is riding' on Newcastle v Brighton after meeting with Saudi owners. Eddie Howe has emerged from a meeting with Newcastle's Saudi owners confident he retains their support but admitted 'a lot is riding' on Saturday's visit of Brighton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Eddie Howe admits 'lot is riding' on Newcastle v Brighton after meeting with Saudi owners. https://www.theguardian.com/football/2026/may/01/howe-admits-a-lot-is-riding-on-newcastle-v-brighton-after-meeting-with-saudi-owners
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Spurs: Antonin Kinsky on Premier League relegation battle, bouncing back from Champions League nightmare and his super save at Wolves
-**Slug (lower-third):** Spurs: Antonin Kinsky on Premier League relegation battle…  
-**When:** 2026-05-01 07:00 (America/Winnipeg)  •  **Published:** 2026-05-01 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Spurs: Antonin Kinsky on Premier League relegation battle, bouncing back from Champions League nightmare and his super save at Wolves. Antonin Kinsky reflects on his crucial save in the win at Wolves, learning from his Atletico Madrid errors, and how Roberto De Zerbi is helping Spurs take a positive approach to their relegation battle Watch the interview on Sky Sports News Premier League Friday from 5pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Spurs: Antonin Kinsky on Premier League relegation battle, bouncing back from Champions League nightmare and his super save at Wolves. https://www.skysports.com/football/news/12040/13538547/spurs-antonin-kinsky-on-premier-league-relegation-battle-bouncing-back-from-champions-league-nightmare-and-his-super-save-at-wolves
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Man City: Why Pep skipped PSG-Bayern for Stockport
-**Slug (lower-third):** Man City: Why Pep skipped PSG-Bayern for Stockport  
-**When:** 2026-05-01 06:51 (America/Winnipeg)  •  **Published:** 2026-05-01 11:51 (UTC)  
+## Story 7: Arsenal target Champions League history but Lyonnes promise semi-final comeback
+**Slug (lower-third):** Arsenal target Champions League history but Lyonnes promi…  
+**When:** 2026-05-01 12:29 (America/Winnipeg)  •  **Published:** 2026-05-01 17:29 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City: Why Pep skipped PSG-Bayern for Stockport. Manchester City boss Pep Guardiola explains why he went to watch Stockport instead of staying at home for PSG-Bayern Munich. Relevance to standings and momentum.
+Arsenal target Champions League history but Lyonnes promise semi-final comeback. Renee Slegers' team take their first-leg lead to France knowing a repeat of last season's display will see them into a second European final in a row Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +179,7 @@ Man City: Why Pep skipped PSG-Bayern for Stockport. Manchester City boss Pep Gua
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man City: Why Pep skipped PSG-Bayern for Stockport. https://www.skysports.com/watch/video/13538846/man-city-why-pep-skipped-psg-bayern-for-stockport
+- theguardian.com — Arsenal target Champions League history but Lyonnes promise semi-final comeback. https://www.theguardian.com/sport/2026/may/01/arsenal-target-champions-league-history-as-lyonnes-promise-semi-final-comeback
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +188,13 @@ Man City: Why Pep skipped PSG-Bayern for Stockport. Manchester City boss Pep Gua
 
 ---
 
-## Story 9: Time for Alexander Isak and Florian Wirtz to prove they are Liverpool's future
-**Slug (lower-third):** Time for Alexander Isak and Florian Wirtz to prove they a…  
-**When:** 2026-05-01 04:16 (America/Winnipeg)  •  **Published:** 2026-05-01 09:16 (UTC)  
+## Story 8: Ipswich, Millwall and Boro face fight for promotion in crunch Championship finale
+**Slug (lower-third):** Ipswich, Millwall and Boro face fight for promotion in cr…  
+**When:** 2026-05-01 10:24 (America/Winnipeg)  •  **Published:** 2026-05-01 15:24 (UTC)  
 **Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Time for Alexander Isak and Florian Wirtz to prove they are Liverpool's future. Without Mohamed Salah, Liverpool need others to take responsibility and the focus is set to intensify on Alexander Isak and Florian Wirtz. Relevance to standings and momentum.
+Ipswich, Millwall and Boro face fight for promotion in crunch Championship finale. Gloves will be off in Saturday's lunchtime kick-offs as all three clubs hope to join Coventry in the top-flight Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +203,7 @@ Time for Alexander Isak and Florian Wirtz to prove they are Liverpool's future. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Time for Alexander Isak and Florian Wirtz to prove they are Liverpool's future. https://www.bbc.com/sport/football/articles/c4gxg1g1d74o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Ipswich, Millwall and Boro face fight for promotion in crunch Championship finale. https://www.theguardian.com/football/2026/may/01/ipswich-millwall-middlesbrough-championship-promotion-final-day
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +212,13 @@ Time for Alexander Isak and Florian Wirtz to prove they are Liverpool's future. 
 
 ---
 
-## Story 10: Unai Emery: Villa boss furious with VAR for not sending off Elliot Anderson
-**Slug (lower-third):** Unai Emery: Villa boss furious with VAR for not sending o…  
-**When:** 2026-05-01 03:43 (America/Winnipeg)  •  **Published:** 2026-05-01 08:43 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 9: Roberto De Zerbi: Tottenham boss launches passionate rallying cry as he declares 'we're not relegated yet'
+**Slug (lower-third):** Roberto De Zerbi: Tottenham boss launches passionate rall…  
+**When:** 2026-05-01 09:42 (America/Winnipeg)  •  **Published:** 2026-05-01 14:42 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Unai Emery: Villa boss furious with VAR for not sending off Elliot Anderson. Aston Villa boss Unai Emery says VAR made a "huge mistake" in not sending off Nottingham Forest's Elliot Anderson in their Europa League semi-final first leg. Relevance to standings and momentum.
+Roberto De Zerbi: Tottenham boss launches passionate rallying cry as he declares 'we're not relegated yet'. Spurs boss Roberto De Zerbi gives passionate press conference ahead of Sundays trip to Aston Villa; Tottenham are two points from safety and have suffered injuries to key stars Xavi Simons and Dominic Solanke - but De Zerbi has no time for negativity declaring, were not relegated yet Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +227,31 @@ Unai Emery: Villa boss furious with VAR for not sending off Elliot Anderson. Ast
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Unai Emery: Villa boss furious with VAR for not sending off Elliot Anderson. https://www.bbc.com/sport/football/articles/cwy2l4k1z0go?at_medium=RSS&at_campaign=rss
+- skysports.com — Roberto De Zerbi: Tottenham boss launches passionate rallying cry as he declares 'we're not relegated yet'. https://www.skysports.com/football/news/12040/13538872/roberto-de-zerbi-tottenham-boss-launches-passionate-rallying-cry-as-he-declares-were-not-relegated-yet
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Leicester City's 5,000-1 Premier League title win - 10 years on
+**Slug (lower-third):** Leicester City's 5,000-1 Premier League title win - 10 ye…  
+**When:** 2026-05-01 09:00 (America/Winnipeg)  •  **Published:** 2026-05-01 14:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Leicester City's 5,000-1 Premier League title win - 10 years on. Premier League title-winning captain Wes Morgan and former Leicester City team-mate Marc Albrighton reflect on the club's 5,000-1 triumph a decade on. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Leicester City's 5,000-1 Premier League title win - 10 years on. https://www.bbc.com/sport/football/articles/cnv8vnj4633o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
