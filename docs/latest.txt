@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-04-30 14:26 (America/Winnipeg)  |  2026-04-30 19:26 (UTC)
+**Generated:** 2026-04-30 22:34 (America/Winnipeg)  |  2026-05-01 03:34 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 47s
+**Estimated total video length:** ~4m 43s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Laura Coombs: Manchester City midfielder to retire at end of season
-- Mason Mount: Man Utd midfielder expects Michael Carrick's side to be Premier League title challengers next season
-- Gerwyn Price set to compete at UK Open Pool Championship from May 26-31 - clashing with Premier League Darts Play-Offs
+- Chris Wood gives Nottingham Forest narrow semi-final edge over Aston Villa
+- Michael Carrick favourite to become permanent Man Utd head coach amid Andoni Iraola links - Paper Talk
+- Aston Villa boss Unai Emery fumes at VAR for 'huge mistake' that saw Forest's Elliot Anderson avoid red card in Europa League semi-final
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Kobbie Mainoo: Manchester United midfielder signs new long-term contract until 2031
-**Slug (lower-third):** Kobbie Mainoo: Manchester United midfielder signs new lon…  
-**When:** 2026-04-30 07:00 (America/Winnipeg)  •  **Published:** 2026-04-30 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 1: Michael Carrick favourite to become permanent Man Utd head coach amid Andoni Iraola links - Paper Talk
+**Slug (lower-third):** Michael Carrick favourite to become permanent Man Utd hea…  
+**When:** 2026-04-30 18:26 (America/Winnipeg)  •  **Published:** 2026-04-30 23:26 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Kobbie Mainoo: Manchester United midfielder signs new long-term contract until 2031. Man Utd midfielder Kobbie Mainoo signs new five-year deal until 2031; the 21-year-olds previous Man Utd contract was due to expire in the summer of 2027 and his fresh terms better reflect his progression and current status in the first team Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Michael Carrick favourite to become permanent Man Utd head coach amid Andoni Iraola links - Paper Talk. Fridays top stories include West Ham defender El Hadji Malick Diouf emerging as a target for Manchester United; Chelsea believe they could get up to PS60m for striker Nicolas Jackson; Juventus are interested in Liverpool goalkeeper Alisson Becker Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,8 +31,7 @@ Kobbie Mainoo: Manchester United midfielder signs new long-term contract until 2
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Kobbie Mainoo: Manchester United midfielder signs new long-term contract until 2031. https://www.skysports.com/football/news/12040/13528827/kobbie-mainoo-manchester-united-midfielder-signs-new-long-term-contract-until-2031
-- bbc.com — Kobbie Mainoo: Manchester United midfielder signs new contract until 2031. https://www.bbc.com/sport/football/articles/cq6p4rynndpo?at_medium=RSS&at_campaign=rss
+- skysports.com — Michael Carrick favourite to become permanent Man Utd head coach amid Andoni Iraola links - Paper Talk. https://www.skysports.com/football/news/12040/13538684/michael-carrick-favourite-to-become-permanent-man-utd-head-coach-amid-andoni-iraola-links-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -41,13 +40,15 @@ Kobbie Mainoo: Manchester United midfielder signs new long-term contract until 2
 
 ---
 
-## Story 2: Manchester United target West Ham's Diouf and confirm new Mainoo contract
-**Slug (lower-third):** Manchester United target West Ham's Diouf and confirm new…  
-**When:** 2026-04-30 10:00 (America/Winnipeg)  •  **Published:** 2026-04-30 15:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+### Injuries
+
+## Story 2: Aston Villa boss Unai Emery fumes at VAR for 'huge mistake' that saw Forest's Elliot Anderson avoid red card in Europa League semi-final
+**Slug (lower-third):** Aston Villa boss Unai Emery fumes at VAR for 'huge mistak…  
+**When:** 2026-04-30 18:11 (America/Winnipeg)  •  **Published:** 2026-04-30 23:11 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Manchester United target West Ham's Diouf and confirm new Mainoo contract. West Ham's El Hadji Malick Diouf has emerged as a target for Manchester United, who have given Kobbie Mainoo a new deal to 2031 Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Aston Villa boss Unai Emery fumes at VAR for 'huge mistake' that saw Forest's Elliot Anderson avoid red card in Europa League semi-final. Nottingham Forests Elliot Anderson caught Aston Villas Ollie Watkins on the ankle with his studs during the Europa League semi-final first leg at the City Ground but avoided punishment; He could break his ankle. Wow. VAR, where are you? Please, its your responsibility, said Unai Emery Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -56,7 +57,31 @@ Manchester United target West Ham's Diouf and confirm new Mainoo contract. West 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Manchester United target West Ham's Diouf and confirm new Mainoo contract. https://www.theguardian.com/football/2026/apr/30/manchester-united-west-ham-el-hadji-malick-diouf-target-kobbie-mainoo-new-contract
+- skysports.com — Aston Villa boss Unai Emery fumes at VAR for 'huge mistake' that saw Forest's Elliot Anderson avoid red card in Europa League semi-final. https://www.skysports.com/football/news/12040/13538695/aston-villa-boss-unai-emery-fumes-at-var-for-huge-mistake-that-saw-forests-elliot-anderson-avoid-red-card-in-europa-league-semi-final
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Premier League: 10 things to look out for this weekend
+**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
+**When:** 2026-04-30 18:00 (America/Winnipeg)  •  **Published:** 2026-04-30 23:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: 10 things to look out for this weekend. Eddie Howe is under pressure, Rayan needs protection at Bournemouth and John Stones returns to Everton with City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2026/may/01/premier-league-10-things-to-look-out-for-this-weekend
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -67,13 +92,13 @@ Manchester United target West Ham's Diouf and confirm new Mainoo contract. West 
 
 ### Club Updates
 
-## Story 3: Laura Coombs: Manchester City midfielder to retire at end of season
-**Slug (lower-third):** Laura Coombs: Manchester City midfielder to retire at end…  
-**When:** 2026-04-30 12:00 (America/Winnipeg)  •  **Published:** 2026-04-30 17:00 (UTC)  
+## Story 4: Chris Wood gives Nottingham Forest narrow semi-final edge over Aston Villa
+**Slug (lower-third):** Chris Wood gives Nottingham Forest narrow semi-final edge…  
+**When:** 2026-04-30 16:04 (America/Winnipeg)  •  **Published:** 2026-04-30 21:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Laura Coombs: Manchester City midfielder to retire at end of season. Manchester City midfielder Laura Coombs announces she will retire from football at the end of the season. Relevance to standings and momentum.
+Chris Wood gives Nottingham Forest narrow semi-final edge over Aston Villa. Chris Wood scored from the penalty spot in the second half to hand Nottingham Forest a 1-0 win against Aston Villa in their Europa League semi-final first leg Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -82,7 +107,8 @@ Laura Coombs: Manchester City midfielder to retire at end of season. Manchester 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Laura Coombs: Manchester City midfielder to retire at end of season. https://www.bbc.com/sport/football/articles/c62x3pdx90vo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Chris Wood gives Nottingham Forest narrow semi-final edge over Aston Villa. https://www.theguardian.com/football/2026/apr/30/nottingham-forest-aston-villa-europa-league-semi-final-first-leg-match-report
+- skysports.com — Nottingham Forest 1-0 Aston Villa: Chris Wood penalty gives Forest first-leg advantage over Villa in Europa League semi-final. https://www.skysports.com/football/nottingham-forest-vs-aston-villa/report/554960
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -91,13 +117,13 @@ Laura Coombs: Manchester City midfielder to retire at end of season. Manchester 
 
 ---
 
-## Story 4: Mason Mount: Man Utd midfielder expects Michael Carrick's side to be Premier League title challengers next season
-**Slug (lower-third):** Mason Mount: Man Utd midfielder expects Michael Carrick's…  
-**When:** 2026-04-30 12:00 (America/Winnipeg)  •  **Published:** 2026-04-30 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 5: Nottingham Forest: Penalty king Chris Wood can first Forest to glory
+**Slug (lower-third):** Nottingham Forest: Penalty king Chris Wood can first Fore…  
+**When:** 2026-04-30 17:50 (America/Winnipeg)  •  **Published:** 2026-04-30 22:50 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mason Mount: Man Utd midfielder expects Michael Carrick's side to be Premier League title challengers next season. Mason Mount: I think you have to be realistic, but there is a big confidence behind that. Some of the games that we played this season - away at Arsenal, Liverpool - we know it is about consistency through the whole season. If we can get that right, well be right up there. Relevance to standings and momentum.
+Nottingham Forest: Penalty king Chris Wood can first Forest to glory. Chris Wood has not missed a penalty in 10 years, but has barely played for six months. Now the striker is back - and aiming to lead Nottingham Forest to the Champions League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,7 +132,7 @@ Mason Mount: Man Utd midfielder expects Michael Carrick's side to be Premier Lea
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Mason Mount: Man Utd midfielder expects Michael Carrick's side to be Premier League title challengers next season. https://www.skysports.com/football/news/12040/13538323/mason-mount-man-utd-midfielder-expects-michael-carricks-side-to-be-premier-league-title-challengers-next-season
+- bbc.com — Nottingham Forest: Penalty king Chris Wood can first Forest to glory. https://www.bbc.com/sport/football/articles/c042py0zgd9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,13 +141,13 @@ Mason Mount: Man Utd midfielder expects Michael Carrick's side to be Premier Lea
 
 ---
 
-## Story 5: Gerwyn Price set to compete at UK Open Pool Championship from May 26-31 - clashing with Premier League Darts Play-Offs
-**Slug (lower-third):** Gerwyn Price set to compete at UK Open Pool Championship …  
-**When:** 2026-04-30 10:50 (America/Winnipeg)  •  **Published:** 2026-04-30 15:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+## Story 6: Premier League Darts: Luke Littler beats Luke Humphries in Night 13 final in Aberdeen to move top of table
+**Slug (lower-third):** Premier League Darts: Luke Littler beats Luke Humphries i…  
+**When:** 2026-04-30 17:47 (America/Winnipeg)  •  **Published:** 2026-04-30 22:47 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Gerwyn Price set to compete at UK Open Pool Championship from May 26-31 - clashing with Premier League Darts Play-Offs. Gerwyn Price is set to compete at the 2026 UK Open Pool Championship at the Brentwood Centre, 25-30 May; Premier League Darts Play-Offs night at The O2 in London is scheduled for Thursday May 28; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League Darts: Luke Littler beats Luke Humphries in Night 13 final in Aberdeen to move top of table. Luke Littler wins three legs on the spin in 6-5 comeback victory over Luke Humphries; Cool Hand and Gian van Veen close gap on Michael van Gerwen in battle for Play-Off spots; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,7 +156,7 @@ Gerwyn Price set to compete at UK Open Pool Championship from May 26-31 - clashi
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Gerwyn Price set to compete at UK Open Pool Championship from May 26-31 - clashing with Premier League Darts Play-Offs. https://www.skysports.com/darts/news/12040/13538367/gerwyn-price-set-to-compete-at-uk-open-pool-championship-from-may-26-31-clashing-with-premier-league-darts-play-offs
+- skysports.com — Premier League Darts: Luke Littler beats Luke Humphries in Night 13 final in Aberdeen to move top of table. https://www.skysports.com/darts/news/12040/13538647/premier-league-darts-luke-littler-beats-luke-humphries-in-night-13-final-in-aberdeen-to-move-top-of-table
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -139,37 +165,13 @@ Gerwyn Price set to compete at UK Open Pool Championship from May 26-31 - clashi
 
 ---
 
-## Story 6: Frank Lampard: Coventry boss talks key to future amid Premier League links
-**Slug (lower-third):** Frank Lampard: Coventry boss talks key to future amid Pre…  
-**When:** 2026-04-30 10:30 (America/Winnipeg)  •  **Published:** 2026-04-30 15:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Frank Lampard: Coventry boss talks key to future amid Premier League links. Coventry boss Frank Lampard is attracting interest from Premier League clubs - but talks with the Sky Blues are key to his future. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Frank Lampard: Coventry boss talks key to future amid Premier League links. https://www.bbc.com/sport/football/articles/cq8px38ewxyo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Spurs captain Bethany England bids tearful farewell to fans as she confirms exit
-**Slug (lower-third):** Spurs captain Bethany England bids tearful farewell to fa…  
-**When:** 2026-04-30 10:00 (America/Winnipeg)  •  **Published:** 2026-04-30 15:00 (UTC)  
+## Story 7: Jorgen Strand Larsen: Norway striker steps up after difficult start at Crystal Palace
+**Slug (lower-third):** Jorgen Strand Larsen: Norway striker steps up after diffi…  
+**When:** 2026-04-30 17:29 (America/Winnipeg)  •  **Published:** 2026-04-30 22:29 (UTC)  
 **Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Spurs captain Bethany England bids tearful farewell to fans as she confirms exit. Former Lionesses forward Bethany England will depart Tottenham this summer after a season in which she has scored seven WSL goals Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jorgen Strand Larsen: Norway striker steps up after difficult start at Crystal Palace. Being a club's record signing brings with it pressure, but Jorgen Strand Larsen puts a difficult start behind him with a goal that could be crucial in Crystal Palace's pursuit of a first major European trophy. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -178,7 +180,7 @@ Spurs captain Bethany England bids tearful farewell to fans as she confirms exit
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Spurs captain Bethany England bids tearful farewell to fans as she confirms exit. https://www.theguardian.com/football/2026/apr/30/spurs-captain-bethany-england-leave-summer-club-opts-against-renewing-contract
+- bbc.com — Jorgen Strand Larsen: Norway striker steps up after difficult start at Crystal Palace. https://www.bbc.com/sport/football/articles/ce3pwqw02zjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -187,13 +189,13 @@ Spurs captain Bethany England bids tearful farewell to fans as she confirms exit
 
 ---
 
-## Story 8: Millie Bright interview: Former Chelsea defender on retirement from football
-**Slug (lower-third):** Millie Bright interview: Former Chelsea defender on retir…  
-**When:** 2026-04-30 08:53 (America/Winnipeg)  •  **Published:** 2026-04-30 13:53 (UTC)  
+## Story 8: Crystal Palace in driving seat after Kamada punishes Shakhtar Donetsk
+**Slug (lower-third):** Crystal Palace in driving seat after Kamada punishes Shak…  
+**When:** 2026-04-30 17:21 (America/Winnipeg)  •  **Published:** 2026-04-30 22:21 (UTC)  
 **Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Millie Bright interview: Former Chelsea defender on retirement from football. Millie Bright sits down with the BBC's Jo Currie to talk about her decision to retire from football. Relevance to standings and momentum.
+Crystal Palace in driving seat after Kamada punishes Shakhtar Donetsk. Crystal Palace will carry a two-goal advantage into the second leg of their Conference League semi-final after a 3-1 away win over Shakhtar Donetsk Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -202,7 +204,7 @@ Millie Bright interview: Former Chelsea defender on retirement from football. Mi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Millie Bright interview: Former Chelsea defender on retirement from football. https://www.bbc.com/sport/football/videos/c4g805rkyn4o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Crystal Palace in driving seat after Kamada punishes Shakhtar Donetsk. https://www.theguardian.com/football/2026/apr/30/shakthar-crystal-palace-conference-league-semi-final-first-leg-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -211,13 +213,13 @@ Millie Bright interview: Former Chelsea defender on retirement from football. Mi
 
 ---
 
-## Story 9: Millie Bright: Former England and Chelsea captain on abuse, retirement and the future
-**Slug (lower-third):** Millie Bright: Former England and Chelsea captain on abus…  
-**When:** 2026-04-30 07:49 (America/Winnipeg)  •  **Published:** 2026-04-30 12:49 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 9: Premier League predictions and best bets: Another 1-0 to the Arsenal?
+**Slug (lower-third):** Premier League predictions and best bets: Another 1-0 to …  
+**When:** 2026-04-30 17:00 (America/Winnipeg)  •  **Published:** 2026-04-30 22:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Millie Bright: Former England and Chelsea captain on abuse, retirement and the future. Former England and Chelsea captain Millie Bright speaks to BBC Sport a day after announcing her retirement. Relevance to standings and momentum.
+Premier League predictions and best bets: Another 1-0 to the Arsenal?. Watch Leeds vs Burnley, Arsenal vs Fulham, Bournemouth vs Crystal Palace, Man Utd vs Liverpool, Chelsea vs Nottingham Forest and Everton vs Manchester City live on Sky Sports; play Super 6 for a chance to win PS250,000! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -226,7 +228,7 @@ Millie Bright: Former England and Chelsea captain on abuse, retirement and the f
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Millie Bright: Former England and Chelsea captain on abuse, retirement and the future. https://www.bbc.com/sport/football/articles/c2l2nx48jwko?at_medium=RSS&at_campaign=rss
+- skysports.com — Premier League predictions and best bets: Another 1-0 to the Arsenal?. https://www.skysports.com/football/news/12040/13538615/premier-league-predictions-and-best-bets-another-1-0-to-the-arsenal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -235,13 +237,13 @@ Millie Bright: Former England and Chelsea captain on abuse, retirement and the f
 
 ---
 
-## Story 10: Piero Hincapie, William Saliba and Gabriel personify Arsenal's warrior spirit as battle against fatigue continues in epic trophy hunt
-**Slug (lower-third):** Piero Hincapie, William Saliba and Gabriel personify Arse…  
-**When:** 2026-04-30 07:49 (America/Winnipeg)  •  **Published:** 2026-04-30 12:49 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~25s
+## Story 10: Football gossip: Delap, Stones, White, Salah, Jackson, Diouf, Vicario, Alisson, Ounahi, Sancho, Brown
+**Slug (lower-third):** Football gossip: Delap, Stones, White, Salah, Jackson, Di…  
+**When:** 2026-04-30 16:30 (America/Winnipeg)  •  **Published:** 2026-04-30 21:30 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Piero Hincapie, William Saliba and Gabriel personify Arsenal's warrior spirit as battle against fatigue continues in epic trophy hunt. Arsenals battling draw with Atletico Madrid kept their Champions League dream alive ahead of their Saturday Night Football clash with Fulham; Gunners have played more games than any other side in Europes top leagues this season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Delap, Stones, White, Salah, Jackson, Diouf, Vicario, Alisson, Ounahi, Sancho, Brown. Everton look to revive their interest in Liam Delap and target England trio, Mohamed Salah considers a move to Fenerbahce, and Chelsea hope for a Nicolas Jackson pay day, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -250,7 +252,7 @@ Piero Hincapie, William Saliba and Gabriel personify Arsenal's warrior spirit as
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Piero Hincapie, William Saliba and Gabriel personify Arsenal's warrior spirit as battle against fatigue continues in epic trophy hunt. https://www.skysports.com/football/news/12040/13538432/piero-hincapie-william-saliba-and-gabriel-personify-arsenals-warrior-spirit-as-battle-against-fatigue-continues-in-epic-trophy-hunt
+- bbc.com — Football gossip: Delap, Stones, White, Salah, Jackson, Diouf, Vicario, Alisson, Ounahi, Sancho, Brown. https://www.bbc.com/sport/football/articles/c70vj8yepjko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
