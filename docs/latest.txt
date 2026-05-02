@@ -1,25 +1,49 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-02 02:47 (America/Winnipeg)  |  2026-05-02 07:47 (UTC)
+**Generated:** 2026-05-02 08:16 (America/Winnipeg)  |  2026-05-02 13:16 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Rejuvenated Casemiro heads for Manchester United exit on a high
-- Stina Blackstenius: Arsenal striker quietly making a big noise
-- Elliot Anderson on leading at Nottingham Forest and England
+- Manchester City: Pep Guardiola succession plan and team rebuild
+- Mikel Arteta interview: Arsenal manager urges his players to enjoy final weeks of the season with Premier League and Champions League title races
+- Nottingham Forest's Callum Hudson-Odoi fined over no tax on supercar
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Leeds vs Burnley - Daniel Farke post-match interview
+## Story 1: Mikel Arteta interview: Arsenal manager urges his players to enjoy final weeks of the season with Premier League and Champions League title races
+**Slug (lower-third):** Mikel Arteta interview: Arsenal manager urges his players…  
+**When:** 2026-05-02 05:00 (America/Winnipeg)  •  **Published:** 2026-05-02 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Mikel Arteta interview: Arsenal manager urges his players to enjoy final weeks of the season with Premier League and Champions League title races. Mikel Arteta has spoken exclusively to Sky Sports ahead of Arsenals Premier League and Champions League run-ins; the Gunners have four league games left and a maximum of two European matches; watch Arsenal vs Fulham live on Sky Sports on Saturday from 5pm, kick-off 5.30pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Mikel Arteta interview: Arsenal manager urges his players to enjoy final weeks of the season with Premier League and Champions League title races. https://www.skysports.com/football/news/12040/13538966/mikel-arteta-interview-arsenal-manager-urges-his-players-to-enjoy-final-weeks-of-the-season-with-premier-league-and-champions-league-title-races
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Leeds vs Burnley - Daniel Farke post-match interview
 **Slug (lower-third):** Leeds vs Burnley - Daniel Farke post-match interview  
 **When:** 2026-05-01 17:32 (America/Winnipeg)  •  **Published:** 2026-05-01 22:32 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Leeds vs Burnley - Daniel Farke post-match interview. Leeds United manager Daniel Farke says his side "held their nerve" in their "massive" 3-1 victory over Burnley in the Premier League. Relevance to standings and momentum.
@@ -40,10 +64,10 @@ Leeds vs Burnley - Daniel Farke post-match interview. Leeds United manager Danie
 
 ---
 
-## Story 2: Premier League news: De Zerbi tells Spurs 'only losers cry'; Salah 'at peace' with exit
+## Story 3: Premier League news: De Zerbi tells Spurs 'only losers cry'; Salah 'at peace' with exit
 **Slug (lower-third):** Premier League news: De Zerbi tells Spurs 'only losers cr…  
 **When:** 2026-05-01 16:36 (America/Winnipeg)  •  **Published:** 2026-05-01 21:36 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+**Virality score:** 82  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League news: De Zerbi tells Spurs 'only losers cry'; Salah 'at peace' with exit. Tottenham manager urges players to ignore negativity, while Manchester United welcome Liverpool to Old Trafford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -58,7 +82,7 @@ Premier League news: De Zerbi tells Spurs 'only losers cry'; Salah 'at peace' wi
 - theguardian.com — Premier League news: De Zerbi tells Spurs 'only losers cry'; Salah 'at peace' with exit. https://www.theguardian.com/football/2026/may/01/the-talk-premier-league-tottenham-liverpool-manchester-united
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -66,34 +90,10 @@ Premier League news: De Zerbi tells Spurs 'only losers cry'; Salah 'at peace' wi
 
 ### Injuries
 
-## Story 3: Liverpool transfer news: Arne Slot's Reds weighing up summer swoop for PSG's Bradley Barcola - Paper Talk
-**Slug (lower-third):** Liverpool transfer news: Arne Slot's Reds weighing up sum…  
-**When:** 2026-05-01 18:15 (America/Winnipeg)  •  **Published:** 2026-05-01 23:15 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Liverpool transfer news: Arne Slot's Reds weighing up summer swoop for PSG's Bradley Barcola - Paper Talk. Saturdays top stories include: Man Utd are willing to let as many as nine players depart this summer; Arsenal commission physiotherapist from outside their medical staff to review a run of injury problems; Chelsea apply to continue wearing FIFA Club World Cup winners badge in 2026/27 Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Liverpool transfer news: Arne Slot's Reds weighing up summer swoop for PSG's Bradley Barcola - Paper Talk. https://www.skysports.com/football/news/12040/13539054/liverpool-transfer-news-arne-slots-reds-weighing-up-summer-swoop-for-psgs-bradley-barcola-paper-talk
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 4: PSG and Bayern in 'different world' to tired Premier League teams, says Arteta
 **Slug (lower-third):** PSG and Bayern in 'different world' to tired Premier Leag…  
 **When:** 2026-05-01 16:31 (America/Winnipeg)  •  **Published:** 2026-05-01 21:31 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 PSG and Bayern in 'different world' to tired Premier League teams, says Arteta. Martin Odegaard is likely to miss the Fulham game with a knee problem with Mikel Arteta also without Kai Havertz and Jurrien Timber Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -106,6 +106,7 @@ PSG and Bayern in 'different world' to tired Premier League teams, says Arteta. 
 
 ### Sources
 - theguardian.com — PSG and Bayern in 'different world' to tired Premier League teams, says Arteta. https://www.theguardian.com/football/2026/may/01/psg-and-bayern-in-different-world-to-tired-premier-league-teams-says-arteta
+- bbc.com — PSG and Bayern Munich in 'different world' to tired Arsenal says Arteta. https://www.bbc.com/sport/football/articles/c1w2j53p2r3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,10 +117,58 @@ PSG and Bayern in 'different world' to tired Premier League teams, says Arteta. 
 
 ### Club Updates
 
-## Story 5: Rejuvenated Casemiro heads for Manchester United exit on a high
+## Story 5: Manchester City: Pep Guardiola succession plan and team rebuild
+**Slug (lower-third):** Manchester City: Pep Guardiola succession plan and team r…  
+**When:** 2026-05-02 08:10 (America/Winnipeg)  •  **Published:** 2026-05-02 13:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City: Pep Guardiola succession plan and team rebuild. We will know in a matter of weeks whether Pep Guardiola's reign at Manchester City has run its course, writes Sami Mokbel. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester City: Pep Guardiola succession plan and team rebuild. https://www.bbc.com/sport/football/articles/c5y21lkdl78o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Nottingham Forest's Callum Hudson-Odoi fined over no tax on supercar
+**Slug (lower-third):** Nottingham Forest's Callum Hudson-Odoi fined over no tax …  
+**When:** 2026-05-02 02:54 (America/Winnipeg)  •  **Published:** 2026-05-02 07:54 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Nottingham Forest's Callum Hudson-Odoi fined over no tax on supercar. Callum Hudson-Odoi is ordered to pay more than PS1,100 after he failed to tax his McLaren supercar. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Nottingham Forest's Callum Hudson-Odoi fined over no tax on supercar. https://www.bbc.com/news/articles/cp3pnzelqgdo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Rejuvenated Casemiro heads for Manchester United exit on a high
 **Slug (lower-third):** Rejuvenated Casemiro heads for Manchester United exit on …  
 **When:** 2026-05-02 02:01 (America/Winnipeg)  •  **Published:** 2026-05-02 07:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Rejuvenated Casemiro heads for Manchester United exit on a high. The 34-year-old midfielder will leave Old Trafford after conclusively proving high-profile doubters wrong Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -140,10 +189,10 @@ Rejuvenated Casemiro heads for Manchester United exit on a high. The 34-year-old
 
 ---
 
-## Story 6: Stina Blackstenius: Arsenal striker quietly making a big noise
+## Story 8: Stina Blackstenius: Arsenal striker quietly making a big noise
 **Slug (lower-third):** Stina Blackstenius: Arsenal striker quietly making a big …  
 **When:** 2026-05-02 00:40 (America/Winnipeg)  •  **Published:** 2026-05-02 05:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Stina Blackstenius: Arsenal striker quietly making a big noise. As Arsenal travel to Lyon in the Champions League semi-final second leg, BBC Sport assesses the importance of unsung striker Stina Blackstenius. Relevance to standings and momentum.
@@ -164,10 +213,10 @@ Stina Blackstenius: Arsenal striker quietly making a big noise. As Arsenal trave
 
 ---
 
-## Story 7: Elliot Anderson on leading at Nottingham Forest and England
+## Story 9: Elliot Anderson on leading at Nottingham Forest and England
 **Slug (lower-third):** Elliot Anderson on leading at Nottingham Forest and Engla…  
 **When:** 2026-05-02 00:15 (America/Winnipeg)  •  **Published:** 2026-05-02 05:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Elliot Anderson on leading at Nottingham Forest and England. Nottingham Forest midfielder Elliot Anderson tells Kelly Somers about coming out of his shell to become a leader. Relevance to standings and momentum.
@@ -188,37 +237,13 @@ Elliot Anderson on leading at Nottingham Forest and England. Nottingham Forest m
 
 ---
 
-## Story 8: Elliot Anderson: The Football Interview with Nottingham Forest midfielder
-**Slug (lower-third):** Elliot Anderson: The Football Interview with Nottingham F…  
-**When:** 2026-05-02 00:10 (America/Winnipeg)  •  **Published:** 2026-05-02 05:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Elliot Anderson: The Football Interview with Nottingham Forest midfielder. Nottingham Forest midfielder Elliot Anderson praises Thomas Tuchel for helping him develop in a deeper midfield role. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Elliot Anderson: The Football Interview with Nottingham Forest midfielder. https://www.bbc.com/sport/football/videos/c93774719e7o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League relegation battle: Leeds beat Burnley to heap pressure on others
-**Slug (lower-third):** Premier League relegation battle: Leeds beat Burnley to h…  
-**When:** 2026-05-01 18:00 (America/Winnipeg)  •  **Published:** 2026-05-01 23:00 (UTC)  
+## Story 10: Leeds 3-1 Burnley | Premier League highlights
+**Slug (lower-third):** Leeds 3-1 Burnley | Premier League highlights  
+**When:** 2026-05-01 17:09 (America/Winnipeg)  •  **Published:** 2026-05-01 22:09 (UTC)  
 **Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League relegation battle: Leeds beat Burnley to heap pressure on others. No club has ever been relegated with 43 points at the end of a Premier League season - so have Leeds already done enough to secure survival? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Leeds 3-1 Burnley | Premier League highlights. Highlights from the Premier League match between Leeds and Burnley. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,31 +252,8 @@ Premier League relegation battle: Leeds beat Burnley to heap pressure on others.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League relegation battle: Leeds beat Burnley to heap pressure on others. https://www.bbc.com/sport/football/articles/cx218k4ddp4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Football gossip: Joao Pedro, Romero, Mbaye, Gordon, Openda, Hackney, Rice, Trafford
-**Slug (lower-third):** Football gossip: Joao Pedro, Romero, Mbaye, Gordon, Opend…  
-**When:** 2026-05-01 17:06 (America/Winnipeg)  •  **Published:** 2026-05-01 22:06 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Joao Pedro, Romero, Mbaye, Gordon, Openda, Hackney, Rice, Trafford. Barcelona eye Chelsea's Joao Pedro and Tottenham's Cristian Romero, Aston Villa want Paris St-Germain's Ibrahim Mbaye, Leeds United and Coventry City battle for Lois Openda, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Joao Pedro, Romero, Mbaye, Gordon, Openda, Hackney, Rice, Trafford. https://www.bbc.com/sport/football/articles/cdxpvnwnwk0o?at_medium=RSS&at_campaign=rss
+- skysports.com — Leeds 3-1 Burnley | Premier League highlights. https://www.skysports.com/watch/video/13539046/leeds-3-1-burnley-premier-league-highlights
+- bbc.com — Premier League highlights: Leeds vs Burnley. https://www.bbc.com/sport/football/videos/ce9pgxnxlmlo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
