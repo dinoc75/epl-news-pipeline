@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-04 09:05 (America/Winnipeg)  |  2026-05-04 14:05 (UTC)
+**Generated:** 2026-05-04 14:43 (America/Winnipeg)  |  2026-05-04 19:43 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 48s
+**Estimated total video length:** ~4m 40s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Michael Carrick expected to be offered head coach deal by Manchester United
-- George Russell says he has 'not forgotten how to drive' after falling further behind Mercedes team-mate Kimi Antonelli at Miami GP
-- Alisson Becker transfer news: Juventus make Liverpool goalkeeper a top target this summer
+- Arsenal: Thierry Henry analyses Myles Lewis Skelly's outstanding midfield performance against Fulham
+- Bukayo Saka back to his best at crucial time for Arsenal
+- WSL Highlights: Aston Villa 0-2 West Ham United
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Michael Carrick expected to be offered head coach deal by Manchester United
-**Slug (lower-third):** Michael Carrick expected to be offered head coach deal by…  
-**When:** 2026-05-04 07:37 (America/Winnipeg)  •  **Published:** 2026-05-04 12:37 (UTC)  
+## Story 1: Chelsea 1-3 Nottingham Forest: Vitor Pereira reaction
+**Slug (lower-third):** Chelsea 1-3 Nottingham Forest: Vitor Pereira reaction  
+**When:** 2026-05-04 12:56 (America/Winnipeg)  •  **Published:** 2026-05-04 17:56 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Michael Carrick expected to be offered head coach deal by Manchester United. Michael Carrick is expected to be offered the chance to continue as Manchester United's head coach after qualifying for the Champions League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea 1-3 Nottingham Forest: Vitor Pereira reaction. Nottingham Forest manager Vitor Pereira says his side is "special" after beating Chelsea 3-1 and boosting their hopes of survival in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,8 @@ Michael Carrick expected to be offered head coach deal by Manchester United. Mic
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Michael Carrick expected to be offered head coach deal by Manchester United. https://www.theguardian.com/football/2026/may/04/michael-carrick-manchester-united-head-coach-deal
+- bbc.com — Chelsea 1-3 Nottingham Forest: Vitor Pereira reaction. https://www.bbc.com/sport/football/videos/c794dwn3ddeo?at_medium=RSS&at_campaign=rss
+- skysports.com — Chelsea 1-3 Nottingham Forest: Taiwo Awoniyi and Igor Jesus score as Vitor Pereira rotation delivers shock win at Stamford Bridge. https://www.skysports.com/football/chelsea-vs-nottingham-forest/report/531473
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,63 +41,13 @@ Michael Carrick expected to be offered head coach deal by Manchester United. Mic
 
 ---
 
-## Story 2: Evolution, not revolution: Inter's gamble on Chivu pays off as club canter to Scudetto | Nicky Bandini
-**Slug (lower-third):** Evolution, not revolution: Inter's gamble on Chivu pays o…  
-**When:** 2026-05-04 07:20 (America/Winnipeg)  •  **Published:** 2026-05-04 12:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Evolution, not revolution: Inter's gamble on Chivu pays off as club canter to Scudetto | Nicky Bandini. Inter's manager was not first choice to replace Simeone Inzaghi but has created a juggernaut that could not be stopped Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Evolution, not revolution: Inter's gamble on Chivu pays off as club canter to Scudetto | Nicky Bandini. https://www.theguardian.com/football/2026/may/04/inter-serie-a-christian-chivu-gamble-21st-scudetto
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 3: Alisson Becker transfer news: Juventus make Liverpool goalkeeper a top target this summer
-**Slug (lower-third):** Alisson Becker transfer news: Juventus make Liverpool goa…  
-**When:** 2026-05-04 07:30 (America/Winnipeg)  •  **Published:** 2026-05-04 12:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Alisson Becker transfer news: Juventus make Liverpool goalkeeper a top target this summer. Alisson has been Liverpools first-choice goalkeeper for almost eight years; Mohamed Salah and Andy Robertson have announced they are leaving at the end of their contracts this summer, with Ibrahima Konates contract situation uncertain Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Alisson Becker transfer news: Juventus make Liverpool goalkeeper a top target this summer. https://www.skysports.com/football/news/12040/13540034/alisson-becker-transfer-news-juventus-make-liverpool-goalkeeper-a-top-target-this-summer
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Manchester United: What does Champions League qualification mean for transfer plans and Michael Carrick's future?
-**Slug (lower-third):** Manchester United: What does Champions League qualificati…  
-**When:** 2026-05-04 07:00 (America/Winnipeg)  •  **Published:** 2026-05-04 12:00 (UTC)  
+## Story 2: Fabian Hurzeler: Brighton head coach signs new long-term contract at the Amex as club chase European finish
+**Slug (lower-third):** Fabian Hurzeler: Brighton head coach signs new long-term …  
+**When:** 2026-05-04 11:36 (America/Winnipeg)  •  **Published:** 2026-05-04 16:36 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: What does Champions League qualification mean for transfer plans and Michael Carrick's future?. Michael Carrick guided Manchester United back into the Champions League for the first time since 2023/24 with victory over Liverpool on Sunday; United can significantly expand transfer plans but the club will prioritise sustainability with considered spending Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Fabian Hurzeler: Brighton head coach signs new long-term contract at the Amex as club chase European finish. Fabian Hurzeler had been linked to a return to the Bundesliga before shutting down rumours last month; the 33-year-old said he was totally committed to his work at the Amex; Brighton are pushing for a European finish Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +56,31 @@ Manchester United: What does Champions League qualification mean for transfer pl
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Manchester United: What does Champions League qualification mean for transfer plans and Michael Carrick's future?. https://www.skysports.com/football/news/12040/13540052/manchester-united-what-does-champions-league-qualification-mean-for-transfer-plans-and-michael-carricks-future
+- skysports.com — Fabian Hurzeler: Brighton head coach signs new long-term contract at the Amex as club chase European finish. https://www.skysports.com/football/news/12040/13540124/fabian-hurzeler-brighton-head-coach-signs-new-long-term-contract-at-the-amex-as-club-chase-european-finish
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: For Liverpool and Manchester United, managerial futures are the next big question | Jonathan Wilson
+**Slug (lower-third):** For Liverpool and Manchester United, managerial futures a…  
+**When:** 2026-05-04 10:00 (America/Winnipeg)  •  **Published:** 2026-05-04 15:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+For Liverpool and Manchester United, managerial futures are the next big question | Jonathan Wilson. Sunday's edition of the famous rivalry felt like the least important in years, except for the uncertain futures of both managers Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — For Liverpool and Manchester United, managerial futures are the next big question | Jonathan Wilson. https://www.theguardian.com/football/2026/may/04/manchester-united-liverpool-managers-arne-slot-michael-carrick
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +91,13 @@ Manchester United: What does Champions League qualification mean for transfer pl
 
 ### Injuries
 
-## Story 5: Premier League: talking points from the weekend's action
-**Slug (lower-third):** Premier League: talking points from the weekend's action  
-**When:** 2026-05-04 02:00 (America/Winnipeg)  •  **Published:** 2026-05-04 07:00 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 4: Bukayo Saka back to his best at crucial time for Arsenal
+**Slug (lower-third):** Bukayo Saka back to his best at crucial time for Arsenal  
+**When:** 2026-05-04 14:31 (America/Winnipeg)  •  **Published:** 2026-05-04 19:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: talking points from the weekend's action. Arne Slot is fuming, Mikel Arteta's big risk pays off and Josh Dasilva enjoys an emotional return for Brentford Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Bukayo Saka back to his best at crucial time for Arsenal. With Bukayo Saka back from injury for Arsenal, could he prove the difference-maker in the finale to the Gunners' season? Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +106,7 @@ Premier League: talking points from the weekend's action. Arne Slot is fuming, M
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League: talking points from the weekend's action. https://www.theguardian.com/football/2026/may/04/premier-league-talking-points-from-the-weekends-action
+- bbc.com — Bukayo Saka back to his best at crucial time for Arsenal. https://www.bbc.com/sport/football/articles/cm2pl2qzjn1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,37 +117,13 @@ Premier League: talking points from the weekend's action. Arne Slot is fuming, M
 
 ### Club Updates
 
-## Story 6: George Russell says he has 'not forgotten how to drive' after falling further behind Mercedes team-mate Kimi Antonelli at Miami GP
-**Slug (lower-third):** George Russell says he has 'not forgotten how to drive' a…  
-**When:** 2026-05-04 07:30 (America/Winnipeg)  •  **Published:** 2026-05-04 12:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
-
-### Presenter Script (3–5 sentences)
-George Russell says he has 'not forgotten how to drive' after falling further behind Mercedes team-mate Kimi Antonelli at Miami GP. George Russell finished fourth in the Miami Grand Prix as his Mercedes team-mate Kimi Antonelli won the race to extend his lead over the Brit at the top of the Drivers Championship to 20 points; Antonelli has replaced Russell as title favourite after winning three successive races Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — George Russell says he has 'not forgotten how to drive' after falling further behind Mercedes team-mate Kimi Antonelli at Miami GP. https://www.skysports.com/f1/news/12040/13540030/george-russell-says-he-has-not-forgotten-how-to-drive-after-falling-further-behind-mercedes-team-mate-kimi-antonelli-at-miami-gp
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: WSL and WCL talking points: City have a Knaak and is Dumornay the world's best?
-**Slug (lower-third):** WSL and WCL talking points: City have a Knaak and is Dumo…  
-**When:** 2026-05-04 06:25 (America/Winnipeg)  •  **Published:** 2026-05-04 11:25 (UTC)  
+## Story 5: Arsenal: Thierry Henry analyses Myles Lewis Skelly's outstanding midfield performance against Fulham
+**Slug (lower-third):** Arsenal: Thierry Henry analyses Myles Lewis Skelly's outs…  
+**When:** 2026-05-04 15:02 (America/Winnipeg)  •  **Published:** 2026-05-04 20:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL and WCL talking points: City have a Knaak and is Dumornay the world's best?. OL Lyonnes ended Arsenal's Champions League hopes while Rebecca Knaak puts Man City on the brink of WSL title glory Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arsenal: Thierry Henry analyses Myles Lewis Skelly's outstanding midfield performance against Fulham. Speaking on Monday Night Football Thierry Henry analyses Myles Lewis Skellys outstanding midfield performance against Fulham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +132,7 @@ WSL and WCL talking points: City have a Knaak and is Dumornay the world's best?.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — WSL and WCL talking points: City have a Knaak and is Dumornay the world's best?. https://www.theguardian.com/football/2026/may/04/wsl-wcl-talking-points-manchester-city-rebecca-knaak-melchie-dumornay-ol-lyonnes
+- skysports.com — Arsenal: Thierry Henry analyses Myles Lewis Skelly's outstanding midfield performance against Fulham. https://www.skysports.com/watch/video/13540199/arsenal-thierry-henry-analyses-myles-lewis-skellys-outstanding-midfield-performance-against-fulham
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +141,13 @@ WSL and WCL talking points: City have a Knaak and is Dumornay the world's best?.
 
 ---
 
-## Story 8: Manchester United: Michael Carrick has "magic" of Sir Alex Ferguson era says Matheus Cunha
-**Slug (lower-third):** Manchester United: Michael Carrick has "magic" of Sir Ale…  
-**When:** 2026-05-04 06:00 (America/Winnipeg)  •  **Published:** 2026-05-04 11:00 (UTC)  
+## Story 6: WSL Highlights: Aston Villa 0-2 West Ham United
+**Slug (lower-third):** WSL Highlights: Aston Villa 0-2 West Ham United  
+**When:** 2026-05-04 12:59 (America/Winnipeg)  •  **Published:** 2026-05-04 17:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United: Michael Carrick has "magic" of Sir Alex Ferguson era says Matheus Cunha. Manchester United forward Matheus Cunha believes interim boss Michael Carrick is the perfect man to reconnect the club to its trophy-laden past. Relevance to standings and momentum.
+WSL Highlights: Aston Villa 0-2 West Ham United. West Ham clinch a 2-0 victory over Aston Villa in the Women's Super League after Riko Ueki scores in the 85th minute before substitute Seraina Piubel secures the win six minutes later. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +156,7 @@ Manchester United: Michael Carrick has "magic" of Sir Alex Ferguson era says Mat
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester United: Michael Carrick has "magic" of Sir Alex Ferguson era says Matheus Cunha. https://www.bbc.com/sport/football/articles/c1w2qx8x71yo?at_medium=RSS&at_campaign=rss
+- bbc.com — WSL Highlights: Aston Villa 0-2 West Ham United. https://www.bbc.com/sport/football/videos/cvgz33yqyz6o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +165,13 @@ Manchester United: Michael Carrick has "magic" of Sir Alex Ferguson era says Mat
 
 ---
 
-## Story 9: Sam Kerr breaks more Chelsea history as Man City put themselves on brink of Women's Super League title
-**Slug (lower-third):** Sam Kerr breaks more Chelsea history as Man City put them…  
-**When:** 2026-05-04 06:00 (America/Winnipeg)  •  **Published:** 2026-05-04 11:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+## Story 7: Chelsea: What failing to qualify for Champions League means for Blues
+**Slug (lower-third):** Chelsea: What failing to qualify for Champions League mea…  
+**When:** 2026-05-04 12:56 (America/Winnipeg)  •  **Published:** 2026-05-04 17:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sam Kerr breaks more Chelsea history as Man City put themselves on brink of Women's Super League title. Digital journalist Laura Hunter pens a Sky Sports column which analyses the big talking points from across the WSL; this week looks at the history-making contribution of Sam Kerr for Chelsea in what is likely to be her final season in west London and Man Citys nervous title push Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea: What failing to qualify for Champions League means for Blues. After a sixth-straight league loss, Chelsea are almost certain to miss out on Champions League qualification - a bitter blow which is likely to have farareaching consequences. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +180,7 @@ Sam Kerr breaks more Chelsea history as Man City put themselves on brink of Wome
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sam Kerr breaks more Chelsea history as Man City put themselves on brink of Women's Super League title. https://www.skysports.com/football/news/12040/13540020/sam-kerr-breaks-more-chelsea-history-as-man-city-put-themselves-on-brink-of-womens-super-league-title
+- bbc.com — Chelsea: What failing to qualify for Champions League means for Blues. https://www.bbc.com/sport/football/articles/c86en84x5wlo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +189,13 @@ Sam Kerr breaks more Chelsea history as Man City put themselves on brink of Wome
 
 ---
 
-## Story 10: Premier League relegation battle 2025/26: Odds, table, fixtures and predictions
-**Slug (lower-third):** Premier League relegation battle 2025/26: Odds, table, fi…  
-**When:** 2026-05-04 03:50 (America/Winnipeg)  •  **Published:** 2026-05-04 08:50 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 8: Players Championship 13: Kevin Doets wins maiden PDC ranking title as Michael van Gerwen exits early in Hildesheim
+**Slug (lower-third):** Players Championship 13: Kevin Doets wins maiden PDC rank…  
+**When:** 2026-05-04 12:46 (America/Winnipeg)  •  **Published:** 2026-05-04 17:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Premier League relegation battle 2025/26: Odds, table, fixtures and predictions. Leeds, Tottenham, Nottingham Forest and West Ham are the clubs currently in danger of Premier League relegation alongside Wolves and Burnley, with time running out - here, we look at each teams fixtures and probability of going down... Relevance to standings and momentum.
+Players Championship 13: Kevin Doets wins maiden PDC ranking title as Michael van Gerwen exits early in Hildesheim. Kevin Doets beats Luke Woodhouse 8-5 in final; Dirk van Duijvenbode hits nine-darter in his opening clash against Madars Razma; Michael van Gerwen loses out to Krzysztof Ratajski in round three; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +204,55 @@ Premier League relegation battle 2025/26: Odds, table, fixtures and predictions.
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League relegation battle 2025/26: Odds, table, fixtures and predictions. https://www.skysports.com/football/news/12040/13509977/premier-league-relegation-battle-2025-26-odds-table-fixtures-and-predictions
+- skysports.com — Players Championship 13: Kevin Doets wins maiden PDC ranking title as Michael van Gerwen exits early in Hildesheim. https://www.skysports.com/darts/news/12040/13540154/players-championship-13-kevin-doets-wins-maiden-pdc-ranking-title-as-michael-van-gerwen-exits-early-in-hildesheim
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Joe Root stars with ball as Yorkshire beat Somerset in County Championship after superb fightback
+**Slug (lower-third):** Joe Root stars with ball as Yorkshire beat Somerset in Co…  
+**When:** 2026-05-04 11:59 (America/Winnipeg)  •  **Published:** 2026-05-04 16:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Joe Root stars with ball as Yorkshire beat Somerset in County Championship after superb fightback. Nottinghamshire move top of Division One with thumping 10-wicket win over Leicestershire; Glamorgan clinch first top-tier victory since 2005 as they beat Hampshire by an innings; wins too for Surrey and Kent, the latters first in over a year coming against Derbyshire in Division Two Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Joe Root stars with ball as Yorkshire beat Somerset in County Championship after superb fightback. https://www.skysports.com/cricket/news/12040/13540127/joe-root-stars-with-ball-as-yorkshire-beat-somerset-in-county-championship-after-superb-fightback
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Tottenham Hotspur: How Roberto de Zerbi brought life to sinking Spurs
+**Slug (lower-third):** Tottenham Hotspur: How Roberto de Zerbi brought life to s…  
+**When:** 2026-05-04 10:18 (America/Winnipeg)  •  **Published:** 2026-05-04 15:18 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham Hotspur: How Roberto de Zerbi brought life to sinking Spurs. BBC Sport tactics expert Umir Irfan looks at how Roberto de Zerbi has revived Premier League strugglers Tottenham. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tottenham Hotspur: How Roberto de Zerbi brought life to sinking Spurs. https://www.bbc.com/sport/football/articles/clypkd5n7ego?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
