@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-04 14:43 (America/Winnipeg)  |  2026-05-04 19:43 (UTC)
+**Generated:** 2026-05-04 21:53 (America/Winnipeg)  |  2026-05-05 02:53 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 40s
+**Estimated total video length:** ~4m 34s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arsenal: Thierry Henry analyses Myles Lewis Skelly's outstanding midfield performance against Fulham
-- Bukayo Saka back to his best at crucial time for Arsenal
-- WSL Highlights: Aston Villa 0-2 West Ham United
+- Jamie Carragher & Thierry Henry look at Chelsea's potential next manager
+- Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokeres, Mainoo, Gallagher
+- Manchester United ready to spend PS150m on three midfielders this summer - Paper Talk
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Chelsea 1-3 Nottingham Forest: Vitor Pereira reaction
-**Slug (lower-third):** Chelsea 1-3 Nottingham Forest: Vitor Pereira reaction  
-**When:** 2026-05-04 12:56 (America/Winnipeg)  •  **Published:** 2026-05-04 17:56 (UTC)  
+## Story 1: Jamie Carragher & Thierry Henry look at Chelsea's potential next manager
+**Slug (lower-third):** Jamie Carragher & Thierry Henry look at Chelsea's potenti…  
+**When:** 2026-05-04 18:28 (America/Winnipeg)  •  **Published:** 2026-05-04 23:28 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea 1-3 Nottingham Forest: Vitor Pereira reaction. Nottingham Forest manager Vitor Pereira says his side is "special" after beating Chelsea 3-1 and boosting their hopes of survival in the Premier League. Relevance to standings and momentum.
+Jamie Carragher & Thierry Henry look at Chelsea's potential next manager. Jamie Carragher and Thierry Henry look at who could potentially be Chelseas next manager. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,8 +31,7 @@ Chelsea 1-3 Nottingham Forest: Vitor Pereira reaction. Nottingham Forest manager
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Chelsea 1-3 Nottingham Forest: Vitor Pereira reaction. https://www.bbc.com/sport/football/videos/c794dwn3ddeo?at_medium=RSS&at_campaign=rss
-- skysports.com — Chelsea 1-3 Nottingham Forest: Taiwo Awoniyi and Igor Jesus score as Vitor Pereira rotation delivers shock win at Stamford Bridge. https://www.skysports.com/football/chelsea-vs-nottingham-forest/report/531473
+- skysports.com — Jamie Carragher & Thierry Henry look at Chelsea's potential next manager. https://www.skysports.com/watch/video/13540247/jamie-carragher-thierry-henry-look-at-chelseas-potential-next-manager
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -41,13 +40,13 @@ Chelsea 1-3 Nottingham Forest: Vitor Pereira reaction. Nottingham Forest manager
 
 ---
 
-## Story 2: Fabian Hurzeler: Brighton head coach signs new long-term contract at the Amex as club chase European finish
-**Slug (lower-third):** Fabian Hurzeler: Brighton head coach signs new long-term …  
-**When:** 2026-05-04 11:36 (America/Winnipeg)  •  **Published:** 2026-05-04 16:36 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 2: Premier League: Everton 3-3 Manchester City - David Moyes post-match interview
+**Slug (lower-third):** Premier League: Everton 3-3 Manchester City - David Moyes…  
+**When:** 2026-05-04 17:29 (America/Winnipeg)  •  **Published:** 2026-05-04 22:29 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fabian Hurzeler: Brighton head coach signs new long-term contract at the Amex as club chase European finish. Fabian Hurzeler had been linked to a return to the Bundesliga before shutting down rumours last month; the 33-year-old said he was totally committed to his work at the Amex; Brighton are pushing for a European finish Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Premier League: Everton 3-3 Manchester City - David Moyes post-match interview. EEverton boss David Moyes says he is "really disappointed" to come away with one point after Jeremy Doku scored a late equaliser for Manchester City in a 3-3 draw in the Premir League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -56,7 +55,7 @@ Fabian Hurzeler: Brighton head coach signs new long-term contract at the Amex as
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Fabian Hurzeler: Brighton head coach signs new long-term contract at the Amex as club chase European finish. https://www.skysports.com/football/news/12040/13540124/fabian-hurzeler-brighton-head-coach-signs-new-long-term-contract-at-the-amex-as-club-chase-european-finish
+- bbc.com — Premier League: Everton 3-3 Manchester City - David Moyes post-match interview. https://www.bbc.com/sport/football/videos/cgqp01y5y3eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -65,13 +64,15 @@ Fabian Hurzeler: Brighton head coach signs new long-term contract at the Amex as
 
 ---
 
-## Story 3: For Liverpool and Manchester United, managerial futures are the next big question | Jonathan Wilson
-**Slug (lower-third):** For Liverpool and Manchester United, managerial futures a…  
-**When:** 2026-05-04 10:00 (America/Winnipeg)  •  **Published:** 2026-05-04 15:00 (UTC)  
+### League & Regulation
+
+## Story 3: Everton 3-3 Man City: Jeremy Doku scored a 97th-minute equaliser but City gift Arsenal title advantage after collapse
+**Slug (lower-third):** Everton 3-3 Man City: Jeremy Doku scored a 97th-minute eq…  
+**When:** 2026-05-04 17:00 (America/Winnipeg)  •  **Published:** 2026-05-04 22:00 (UTC)  
 **Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-For Liverpool and Manchester United, managerial futures are the next big question | Jonathan Wilson. Sunday's edition of the famous rivalry felt like the least important in years, except for the uncertain futures of both managers Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Everton 3-3 Man City: Jeremy Doku scored a 97th-minute equaliser but City gift Arsenal title advantage after collapse. Manchester City salvaged a point in the 97th minute to draw 3-3 at Everton in a dramatic game that puts Arsenal in charge of the Premier League title race. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -80,33 +81,7 @@ For Liverpool and Manchester United, managerial futures are the next big questio
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — For Liverpool and Manchester United, managerial futures are the next big question | Jonathan Wilson. https://www.theguardian.com/football/2026/may/04/manchester-united-liverpool-managers-arne-slot-michael-carrick
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 4: Bukayo Saka back to his best at crucial time for Arsenal
-**Slug (lower-third):** Bukayo Saka back to his best at crucial time for Arsenal  
-**When:** 2026-05-04 14:31 (America/Winnipeg)  •  **Published:** 2026-05-04 19:31 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bukayo Saka back to his best at crucial time for Arsenal. With Bukayo Saka back from injury for Arsenal, could he prove the difference-maker in the finale to the Gunners' season? Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Bukayo Saka back to his best at crucial time for Arsenal. https://www.bbc.com/sport/football/articles/cm2pl2qzjn1o?at_medium=RSS&at_campaign=rss
+- skysports.com — Everton 3-3 Man City: Jeremy Doku scored a 97th-minute equaliser but City gift Arsenal title advantage after collapse. https://www.skysports.com/football/everton-vs-manchester-city/report/531474
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -117,13 +92,13 @@ Bukayo Saka back to his best at crucial time for Arsenal. With Bukayo Saka back 
 
 ### Club Updates
 
-## Story 5: Arsenal: Thierry Henry analyses Myles Lewis Skelly's outstanding midfield performance against Fulham
-**Slug (lower-third):** Arsenal: Thierry Henry analyses Myles Lewis Skelly's outs…  
-**When:** 2026-05-04 15:02 (America/Winnipeg)  •  **Published:** 2026-05-04 20:02 (UTC)  
+## Story 4: Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokeres, Mainoo, Gallagher
+**Slug (lower-third):** Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokere…  
+**When:** 2026-05-04 18:14 (America/Winnipeg)  •  **Published:** 2026-05-04 23:14 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal: Thierry Henry analyses Myles Lewis Skelly's outstanding midfield performance against Fulham. Speaking on Monday Night Football Thierry Henry analyses Myles Lewis Skellys outstanding midfield performance against Fulham. Relevance to standings and momentum.
+Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokeres, Mainoo, Gallagher. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,7 +107,7 @@ Arsenal: Thierry Henry analyses Myles Lewis Skelly's outstanding midfield perfor
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal: Thierry Henry analyses Myles Lewis Skelly's outstanding midfield performance against Fulham. https://www.skysports.com/watch/video/13540199/arsenal-thierry-henry-analyses-myles-lewis-skellys-outstanding-midfield-performance-against-fulham
+- bbc.com — Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokeres, Mainoo, Gallagher. https://www.bbc.com/sport/football/articles/cwy21xwnz10o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,85 +116,13 @@ Arsenal: Thierry Henry analyses Myles Lewis Skelly's outstanding midfield perfor
 
 ---
 
-## Story 6: WSL Highlights: Aston Villa 0-2 West Ham United
-**Slug (lower-third):** WSL Highlights: Aston Villa 0-2 West Ham United  
-**When:** 2026-05-04 12:59 (America/Winnipeg)  •  **Published:** 2026-05-04 17:59 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL Highlights: Aston Villa 0-2 West Ham United. West Ham clinch a 2-0 victory over Aston Villa in the Women's Super League after Riko Ueki scores in the 85th minute before substitute Seraina Piubel secures the win six minutes later. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — WSL Highlights: Aston Villa 0-2 West Ham United. https://www.bbc.com/sport/football/videos/cvgz33yqyz6o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Chelsea: What failing to qualify for Champions League means for Blues
-**Slug (lower-third):** Chelsea: What failing to qualify for Champions League mea…  
-**When:** 2026-05-04 12:56 (America/Winnipeg)  •  **Published:** 2026-05-04 17:56 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea: What failing to qualify for Champions League means for Blues. After a sixth-straight league loss, Chelsea are almost certain to miss out on Champions League qualification - a bitter blow which is likely to have farareaching consequences. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Chelsea: What failing to qualify for Champions League means for Blues. https://www.bbc.com/sport/football/articles/c86en84x5wlo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Players Championship 13: Kevin Doets wins maiden PDC ranking title as Michael van Gerwen exits early in Hildesheim
-**Slug (lower-third):** Players Championship 13: Kevin Doets wins maiden PDC rank…  
-**When:** 2026-05-04 12:46 (America/Winnipeg)  •  **Published:** 2026-05-04 17:46 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Players Championship 13: Kevin Doets wins maiden PDC ranking title as Michael van Gerwen exits early in Hildesheim. Kevin Doets beats Luke Woodhouse 8-5 in final; Dirk van Duijvenbode hits nine-darter in his opening clash against Madars Razma; Michael van Gerwen loses out to Krzysztof Ratajski in round three; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Players Championship 13: Kevin Doets wins maiden PDC ranking title as Michael van Gerwen exits early in Hildesheim. https://www.skysports.com/darts/news/12040/13540154/players-championship-13-kevin-doets-wins-maiden-pdc-ranking-title-as-michael-van-gerwen-exits-early-in-hildesheim
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Joe Root stars with ball as Yorkshire beat Somerset in County Championship after superb fightback
-**Slug (lower-third):** Joe Root stars with ball as Yorkshire beat Somerset in Co…  
-**When:** 2026-05-04 11:59 (America/Winnipeg)  •  **Published:** 2026-05-04 16:59 (UTC)  
+## Story 5: Manchester United ready to spend PS150m on three midfielders this summer - Paper Talk
+**Slug (lower-third):** Manchester United ready to spend PS150m on three midfield…  
+**When:** 2026-05-04 18:10 (America/Winnipeg)  •  **Published:** 2026-05-04 23:10 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Joe Root stars with ball as Yorkshire beat Somerset in County Championship after superb fightback. Nottinghamshire move top of Division One with thumping 10-wicket win over Leicestershire; Glamorgan clinch first top-tier victory since 2005 as they beat Hampshire by an innings; wins too for Surrey and Kent, the latters first in over a year coming against Derbyshire in Division Two Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Manchester United ready to spend PS150m on three midfielders this summer - Paper Talk. Mondays top stories include: Man Utd are interested in signing West Ham midfielder Mateus Fernandes; Man Utd want to sell Manuel Ugarte; Michael Carrick is edging closer to becoming the permanent Man Utd boss; Barcelona have joined the race to sign Bournemouth forward Eli Junior Kroupi Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -228,7 +131,7 @@ Joe Root stars with ball as Yorkshire beat Somerset in County Championship after
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Joe Root stars with ball as Yorkshire beat Somerset in County Championship after superb fightback. https://www.skysports.com/cricket/news/12040/13540127/joe-root-stars-with-ball-as-yorkshire-beat-somerset-in-county-championship-after-superb-fightback
+- skysports.com — Manchester United ready to spend PS150m on three midfielders this summer - Paper Talk. https://www.skysports.com/football/news/12040/13540227/manchester-united-ready-to-spend-150m-on-three-midfielders-this-summer-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -237,13 +140,13 @@ Joe Root stars with ball as Yorkshire beat Somerset in County Championship after
 
 ---
 
-## Story 10: Tottenham Hotspur: How Roberto de Zerbi brought life to sinking Spurs
-**Slug (lower-third):** Tottenham Hotspur: How Roberto de Zerbi brought life to s…  
-**When:** 2026-05-04 10:18 (America/Winnipeg)  •  **Published:** 2026-05-04 15:18 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 6: Everton 3-3 Man City: Will 13 chaotic minutes cost Man City in Premier League title race?
+**Slug (lower-third):** Everton 3-3 Man City: Will 13 chaotic minutes cost Man Ci…  
+**When:** 2026-05-04 17:58 (America/Winnipeg)  •  **Published:** 2026-05-04 22:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham Hotspur: How Roberto de Zerbi brought life to sinking Spurs. BBC Sport tactics expert Umir Irfan looks at how Roberto de Zerbi has revived Premier League strugglers Tottenham. Relevance to standings and momentum.
+Everton 3-3 Man City: Will 13 chaotic minutes cost Man City in Premier League title race?. A chaotic 13-minute spell from Man City in the second half of a six-goal thriller at Everton could prove to be the visitors' undoing in the Premier League title race. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -252,7 +155,104 @@ Tottenham Hotspur: How Roberto de Zerbi brought life to sinking Spurs. BBC Sport
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tottenham Hotspur: How Roberto de Zerbi brought life to sinking Spurs. https://www.bbc.com/sport/football/articles/clypkd5n7ego?at_medium=RSS&at_campaign=rss
+- bbc.com — Everton 3-3 Man City: Will 13 chaotic minutes cost Man City in Premier League title race?. https://www.bbc.com/sport/football/articles/cedpn81ep1do?at_medium=RSS&at_campaign=rss
+- skysports.com — Everton 3-3 Man City | Premier League highlights. https://www.skysports.com/watch/video/13540239/everton-3-3-man-city-premier-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Everton 3-3 Man City: If Arsenal beat West Ham on Sunday, they win the Premier League title, says Jamie Carragher
+**Slug (lower-third):** Everton 3-3 Man City: If Arsenal beat West Ham on Sunday,…  
+**When:** 2026-05-04 17:55 (America/Winnipeg)  •  **Published:** 2026-05-04 22:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Everton 3-3 Man City: If Arsenal beat West Ham on Sunday, they win the Premier League title, says Jamie Carragher. Man City rescued a late 3-3 draw at Everton, missing the chance to close the gap on Arsenal to three points; the Gunners travel to the London Stadium in the Premier League this weekend; watch West Ham vs Arsenal on Sunday live on Sky Sports from 4pm; kick-off 4.30pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Everton 3-3 Man City: If Arsenal beat West Ham on Sunday, they win the Premier League title, says Jamie Carragher. https://www.skysports.com/football/news/12040/13540221/everton-3-3-man-city-if-arsenal-beat-west-ham-on-sunday-they-win-the-premier-league-title-says-jamie-carragher
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Premier League: Chelsea 1-3 Nottingham Forest highlights
+**Slug (lower-third):** Premier League: Chelsea 1-3 Nottingham Forest highlights  
+**When:** 2026-05-04 16:33 (America/Winnipeg)  •  **Published:** 2026-05-04 21:33 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: Chelsea 1-3 Nottingham Forest highlights. Nottingham Forest increase their hopes of Premier League survival after a 3-1 win over Chelsea at Stamford Bridge, as goals from Taiwo Awoniyi and Igor Jesus help the visitors open a six-point gap over 18th-placed West Ham in the relegation zone. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: Chelsea 1-3 Nottingham Forest highlights. https://www.bbc.com/sport/football/videos/cn5p7rgz16go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Football gossip: Alisson, Emery, Fernandes, Ugarte, Schuster, Akanji, Barcola, Ordonez
+**Slug (lower-third):** Football gossip: Alisson, Emery, Fernandes, Ugarte, Schus…  
+**When:** 2026-05-04 16:16 (America/Winnipeg)  •  **Published:** 2026-05-04 21:16 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Alisson, Emery, Fernandes, Ugarte, Schuster, Akanji, Barcola, Ordonez. Juventus make Liverpool's Alisson their top target, Real Madrid eye Aston Villa boss Unai Emery, Man Utd want West Ham's Mateus Fernandes, plus more. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Alisson, Emery, Fernandes, Ugarte, Schuster, Akanji, Barcola, Ordonez. https://www.bbc.com/sport/football/articles/cvgzr2p49xzo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Premier League: The relegation battle more like a title race
+**Slug (lower-third):** Premier League: The relegation battle more like a title r…  
+**When:** 2026-05-04 15:20 (America/Winnipeg)  •  **Published:** 2026-05-04 20:20 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League: The relegation battle more like a title race. The battle for Premier League survival is hotting up with Nottingham Forest, Tottenham and West Ham fighting for their lives. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League: The relegation battle more like a title race. https://www.bbc.com/sport/football/articles/cy5235v2lrro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
