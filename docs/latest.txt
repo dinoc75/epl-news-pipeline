@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-05 03:13 (America/Winnipeg)  |  2026-05-05 08:13 (UTC)
+**Generated:** 2026-05-05 08:59 (America/Winnipeg)  |  2026-05-05 13:59 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 39s
+**Estimated total video length:** ~4m 45s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Roberto De Zerbi at Tottenham: How new head coach has revitalised Spurs in four matches to turn fortunes around
-- Today on Sky Sports Racing: Ffos Las, Wolverhampton and Hereford feature
-- Bullish Arteta urges Arsenal to 'make next step' as Atletico battle resumes
+- Man Utd transfer news: Tyler Adams, Alex Scott and Mateus Fernandes emerge as possible signings as midfield plans ramp up
+- FA Youth Cup final: Man City reject Man Utd's offer to host match
+- Thierno Barry and the offside law: How was goal allowed to stand after Marc Guehi error?
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Roberto De Zerbi at Tottenham: How new head coach has revitalised Spurs in four matches to turn fortunes around
-**Slug (lower-third):** Roberto De Zerbi at Tottenham: How new head coach has rev…  
-**When:** 2026-05-05 03:00 (America/Winnipeg)  •  **Published:** 2026-05-05 08:00 (UTC)  
+## Story 1: Chelsea: Blues are in a mess - who would want the manager's job at Stamford Bridge, asks Paul Merson
+**Slug (lower-third):** Chelsea: Blues are in a mess - who would want the manager…  
+**When:** 2026-05-05 06:34 (America/Winnipeg)  •  **Published:** 2026-05-05 11:34 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~31s
 
 ### Presenter Script (3–5 sentences)
-Roberto De Zerbi at Tottenham: How new head coach has revitalised Spurs in four matches to turn fortunes around. Roberto De Zerbis Spurs have won the ball more in the final third per game than any other Premier League side this season; the Italian has learned from early mistake to settle on a more workmanlike midfield - and his players are responding; Tottenham face Leeds on Sky Sports next Monday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea: Blues are in a mess - who would want the manager's job at Stamford Bridge, asks Paul Merson. Chelsea suffered a sixth league loss in a row for the first time since 1993; it is now impossible for them to finish in the top five and qualify automatically for the Champions League; Blues may also fail to make either of the other two European competitions after falling to ninth Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Roberto De Zerbi at Tottenham: How new head coach has revitalised Spurs in four 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Roberto De Zerbi at Tottenham: How new head coach has revitalised Spurs in four matches to turn fortunes around. https://www.skysports.com/football/news/12040/13540082/roberto-de-zerbi-at-tottenham-how-new-head-coach-has-revitalised-spurs-in-four-matches-to-turn-fortunes-around
+- skysports.com — Chelsea: Blues are in a mess - who would want the manager's job at Stamford Bridge, asks Paul Merson. https://www.skysports.com/football/news/12040/13540336/chelsea-blues-are-in-a-mess-who-would-want-the-managers-job-at-stamford-bridge-asks-paul-merson
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,39 @@ Roberto De Zerbi at Tottenham: How new head coach has revitalised Spurs in four 
 
 ---
 
-## Story 2: Premier League: Everton 3-3 Manchester City - David Moyes post-match interview
-**Slug (lower-third):** Premier League: Everton 3-3 Manchester City - David Moyes…  
-**When:** 2026-05-04 17:29 (America/Winnipeg)  •  **Published:** 2026-05-04 22:29 (UTC)  
+### Transfers
+
+## Story 2: Man Utd transfer news: Tyler Adams, Alex Scott and Mateus Fernandes emerge as possible signings as midfield plans ramp up
+**Slug (lower-third):** Man Utd transfer news: Tyler Adams, Alex Scott and Mateus…  
+**When:** 2026-05-05 08:26 (America/Winnipeg)  •  **Published:** 2026-05-05 13:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Man Utd transfer news: Tyler Adams, Alex Scott and Mateus Fernandes emerge as possible signings as midfield plans ramp up. Manchester United have Bournemouth duo Tyler Adams and Alex Scott, and West Ham's Mateus Fernandes, in their sights as possible midfield recruits this summer; Elliot Anderson at Nottingham Forest and Carlos Baleba at Brighton remain high up on the Uniteds list of targets Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man Utd transfer news: Tyler Adams, Alex Scott and Mateus Fernandes emerge as possible signings as midfield plans ramp up. https://www.skysports.com/football/news/12040/13540368/man-utd-transfer-news-tyler-adams-alex-scott-and-mateus-fernandes-emerge-as-possible-signings-as-midfield-plans-ramp-up160
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Phil Foden contract: Man City midfielder agrees new deal in principle
+**Slug (lower-third):** Phil Foden contract: Man City midfielder agrees new deal …  
+**When:** 2026-05-05 04:13 (America/Winnipeg)  •  **Published:** 2026-05-05 09:13 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Everton 3-3 Manchester City - David Moyes post-match interview. EEverton boss David Moyes says he is "really disappointed" to come away with one point after Jeremy Doku scored a late equaliser for Manchester City in a 3-3 draw in the Premir League. Relevance to standings and momentum.
+Phil Foden contract: Man City midfielder agrees new deal in principle. England midfielder Phil Foden reaches an agreement in principle over a new four-year deal at Manchester City. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,31 +81,8 @@ Premier League: Everton 3-3 Manchester City - David Moyes post-match interview. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League: Everton 3-3 Manchester City - David Moyes post-match interview. https://www.bbc.com/sport/football/videos/cgqp01y5y3eo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Jamie Carragher & Thierry Henry look at Chelsea's potential next manager
-**Slug (lower-third):** Jamie Carragher & Thierry Henry look at Chelsea's potenti…  
-**When:** 2026-05-04 18:28 (America/Winnipeg)  •  **Published:** 2026-05-04 23:28 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Jamie Carragher & Thierry Henry look at Chelsea's potential next manager. Jamie Carragher and Thierry Henry look at who could potentially be Chelseas next manager. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Jamie Carragher & Thierry Henry look at Chelsea's potential next manager. https://www.skysports.com/watch/video/13540247/jamie-carragher-thierry-henry-look-at-chelseas-potential-next-manager
+- bbc.com — Phil Foden contract: Man City midfielder agrees new deal in principle. https://www.bbc.com/sport/football/articles/ckgpxlvk0ngo?at_medium=RSS&at_campaign=rss
+- skysports.com — Phil Foden contract: Man City star agrees to sign new four-year deal as he approaches final year of contract. https://www.skysports.com/football/news/12040/13540300/phil-foden-contract-man-city-star-agrees-to-sign-new-four-year-deal-as-he-approaches-final-year
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +93,13 @@ Jamie Carragher & Thierry Henry look at Chelsea's potential next manager. Jamie 
 
 ### Injuries
 
-## Story 4: Coventry owner Doug King: 'I had no doubt Lampard would do well ... it's gotten under his skin'
-**Slug (lower-third):** Coventry owner Doug King: 'I had no doubt Lampard would d…  
-**When:** 2026-05-05 02:00 (America/Winnipeg)  •  **Published:** 2026-05-05 07:00 (UTC)  
+## Story 4: Jesse Derry: Chelsea teenager says debut was dream come true despite head injury
+**Slug (lower-third):** Jesse Derry: Chelsea teenager says debut was dream come t…  
+**When:** 2026-05-05 06:16 (America/Winnipeg)  •  **Published:** 2026-05-05 11:16 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Coventry owner Doug King: 'I had no doubt Lampard would do well ... it's gotten under his skin'. Having overseen a historic return to the Premier League, the businessman is now aiming his sights even higher Relevance to standings and momentum.
+Jesse Derry: Chelsea teenager says debut was dream come true despite head injury. The 18-year-old has been released from hospital after suffering a head injury during Chelsea's match against Nottingham Forest on Monday. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +108,33 @@ Coventry owner Doug King: 'I had no doubt Lampard would do well ... it's gotten 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Coventry owner Doug King: 'I had no doubt Lampard would do well ... it's gotten under his skin'. https://www.theguardian.com/football/2026/may/05/coventry-owner-doug-king-frank-lampard-promotion-premier-league
+- bbc.com — Jesse Derry: Chelsea teenager says debut was dream come true despite head injury. https://www.bbc.com/sport/football/articles/cj0p27mqpgvo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 5: Arsene Wenger's 'daylight offside rule' is on trial in Canada. Will it work?
+**Slug (lower-third):** Arsene Wenger's 'daylight offside rule' is on trial in Ca…  
+**When:** 2026-05-05 06:34 (America/Winnipeg)  •  **Published:** 2026-05-05 11:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsene Wenger's 'daylight offside rule' is on trial in Canada. Will it work?. The Frenchman believes the rule change will make the game more open and exciting. If it succeeds in the Canadian Premier League it could go global Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Arsene Wenger's 'daylight offside rule' is on trial in Canada. Will it work?. https://www.theguardian.com/football/2026/may/05/canada-cpl-offside-rule-trial-wenger
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,37 +145,13 @@ Coventry owner Doug King: 'I had no doubt Lampard would do well ... it's gotten 
 
 ### Club Updates
 
-## Story 5: Today on Sky Sports Racing: Ffos Las, Wolverhampton and Hereford feature
-**Slug (lower-third):** Today on Sky Sports Racing: Ffos Las, Wolverhampton and H…  
-**When:** 2026-05-05 02:49 (America/Winnipeg)  •  **Published:** 2026-05-05 07:49 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Ffos Las, Wolverhampton and Hereford feature. Buckna and The Boola Boss are set to lock horns in the feature of six races live from Ffos Las this afternoon, live on Sky Sports Racing; elsewhere, Wolverhampton opens its gates for all-weather racing on the level alongside Herefords jumps meeting. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Ffos Las, Wolverhampton and Hereford feature. https://www.skysports.com/racing/news/12040/13540286/today-on-sky-sports-racing-ffos-las-wolverhampton-and-hereford-feature
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Bullish Arteta urges Arsenal to 'make next step' as Atletico battle resumes
-**Slug (lower-third):** Bullish Arteta urges Arsenal to 'make next step' as Atlet…  
-**When:** 2026-05-05 02:00 (America/Winnipeg)  •  **Published:** 2026-05-05 07:00 (UTC)  
+## Story 6: FA Youth Cup final: Man City reject Man Utd's offer to host match
+**Slug (lower-third):** FA Youth Cup final: Man City reject Man Utd's offer to ho…  
+**When:** 2026-05-05 07:42 (America/Winnipeg)  •  **Published:** 2026-05-05 12:42 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bullish Arteta urges Arsenal to 'make next step' as Atletico battle resumes. A first Champions League final in 20 years is within touching distance, but a difficult tie is not over yet Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+FA Youth Cup final: Man City reject Man Utd's offer to host match. Manchester City will host their FA Youth Cup final with Manchester United at their 7,000-capacity Joie Stadium - rather than at Etihad Stadium. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +160,7 @@ Bullish Arteta urges Arsenal to 'make next step' as Atletico battle resumes. A f
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Bullish Arteta urges Arsenal to 'make next step' as Atletico battle resumes. https://www.theguardian.com/football/2026/may/05/mikel-arteta-arsenal-atletico-madrid-champions-league-antoine-griezmann-viktor-gyokeres
+- bbc.com — FA Youth Cup final: Man City reject Man Utd's offer to host match. https://www.bbc.com/sport/football/articles/cjepxdpd5exo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +169,13 @@ Bullish Arteta urges Arsenal to 'make next step' as Atletico battle resumes. A f
 
 ---
 
-## Story 7: Championship play-offs: Can stats pick out winner between Millwall, Southampton, Middlesbrough and Hull City?
-**Slug (lower-third):** Championship play-offs: Can stats pick out winner between…  
-**When:** 2026-05-05 00:59 (America/Winnipeg)  •  **Published:** 2026-05-05 05:59 (UTC)  
+## Story 7: Thierno Barry and the offside law: How was goal allowed to stand after Marc Guehi error?
+**Slug (lower-third):** Thierno Barry and the offside law: How was goal allowed t…  
+**When:** 2026-05-05 07:35 (America/Winnipeg)  •  **Published:** 2026-05-05 12:35 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Championship play-offs: Can stats pick out winner between Millwall, Southampton, Middlesbrough and Hull City?. BBC Sport's Ask Me Anything team looks to see if statistics can help us to pick out the winner of the Championship play-offs. Relevance to standings and momentum.
+Thierno Barry and the offside law: How was goal allowed to stand after Marc Guehi error?. Everton's Thierno Barry effectively gained from being offside when Manchester City's Marc Guehi teed him up to score on Monday. Is the law fair? And were the game's other big decisions correct? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +184,7 @@ Championship play-offs: Can stats pick out winner between Millwall, Southampton,
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Championship play-offs: Can stats pick out winner between Millwall, Southampton, Middlesbrough and Hull City?. https://www.bbc.com/sport/football/articles/c0e28x19r22o?at_medium=RSS&at_campaign=rss
+- bbc.com — Thierno Barry and the offside law: How was goal allowed to stand after Marc Guehi error?. https://www.bbc.com/sport/football/articles/cdrpykm2npgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +193,13 @@ Championship play-offs: Can stats pick out winner between Millwall, Southampton,
 
 ---
 
-## Story 8: Everton 3-3 Man City: Will 13 chaotic minutes cost Man City in Premier League title race?
-**Slug (lower-third):** Everton 3-3 Man City: Will 13 chaotic minutes cost Man Ci…  
-**When:** 2026-05-04 17:58 (America/Winnipeg)  •  **Published:** 2026-05-04 22:58 (UTC)  
+## Story 8: Why Premier League title is Arsenal's to lose after Man City slip
+**Slug (lower-third):** Why Premier League title is Arsenal's to lose after Man C…  
+**When:** 2026-05-05 05:03 (America/Winnipeg)  •  **Published:** 2026-05-05 10:03 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton 3-3 Man City: Will 13 chaotic minutes cost Man City in Premier League title race?. A chaotic 13-minute spell from Man City in the second half of a six-goal thriller at Everton could prove to be the visitors' undoing in the Premier League title race. Relevance to standings and momentum.
+Why Premier League title is Arsenal's to lose after Man City slip. Mark Chapman, Charlie Adam, Shay Given and Rory Smith discuss Manchester Cityas 3-3 draw at Everton, focusing on how dropped points could impact their Premier League title challenge. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,8 +208,7 @@ Everton 3-3 Man City: Will 13 chaotic minutes cost Man City in Premier League ti
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Everton 3-3 Man City: Will 13 chaotic minutes cost Man City in Premier League title race?. https://www.bbc.com/sport/football/articles/cedpn81ep1do?at_medium=RSS&at_campaign=rss
-- skysports.com — Everton 3-3 Man City | Premier League highlights. https://www.skysports.com/watch/video/13540239/everton-3-3-man-city-premier-league-highlights
+- bbc.com — Why Premier League title is Arsenal's to lose after Man City slip. https://www.bbc.com/sport/football/videos/cgep7rl0qp8o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -213,13 +217,13 @@ Everton 3-3 Man City: Will 13 chaotic minutes cost Man City in Premier League ti
 
 ---
 
-## Story 9: Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokeres, Mainoo, Gallagher
-**Slug (lower-third):** Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokere…  
-**When:** 2026-05-04 18:14 (America/Winnipeg)  •  **Published:** 2026-05-04 23:14 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 9: David Squires on ... an unexpected cameo amid all the Premier League drama
+**Slug (lower-third):** David Squires on ... an unexpected cameo amid all the Pre…  
+**When:** 2026-05-05 05:09 (America/Winnipeg)  •  **Published:** 2026-05-05 10:09 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokeres, Mainoo, Gallagher. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
+David Squires on ... an unexpected cameo amid all the Premier League drama. Our cartoonist on a weekend of genuine excitement at the top and bottom of the English top-flight table Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -228,7 +232,7 @@ Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokeres, Mainoo, Gallagher. A
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokeres, Mainoo, Gallagher. https://www.bbc.com/sport/football/articles/cwy21xwnz10o?at_medium=RSS&at_campaign=rss
+- theguardian.com — David Squires on ... an unexpected cameo amid all the Premier League drama. https://www.theguardian.com/football/picture/2026/may/05/david-squires-on-an-unexpected-cameo-amid-all-the-premier-league-drama
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -237,13 +241,13 @@ Troy Deeney's Team of the Week: Doku, Van de Ven, Gyokeres, Mainoo, Gallagher. A
 
 ---
 
-## Story 10: Manchester United ready to spend PS150m on three midfielders this summer - Paper Talk
-**Slug (lower-third):** Manchester United ready to spend PS150m on three midfield…  
-**When:** 2026-05-04 18:10 (America/Winnipeg)  •  **Published:** 2026-05-04 23:10 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~27s
+## Story 10: Alexis Mac Allister: Is his Liverpool form a physicality problem? | Plus Conor Gallagher and Merlin Rohl in The Debrief
+**Slug (lower-third):** Alexis Mac Allister: Is his Liverpool form a physicality …  
+**When:** 2026-05-05 04:00 (America/Winnipeg)  •  **Published:** 2026-05-05 09:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Manchester United ready to spend PS150m on three midfielders this summer - Paper Talk. Mondays top stories include: Man Utd are interested in signing West Ham midfielder Mateus Fernandes; Man Utd want to sell Manuel Ugarte; Michael Carrick is edging closer to becoming the permanent Man Utd boss; Barcelona have joined the race to sign Bournemouth forward Eli Junior Kroupi Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Alexis Mac Allister: Is his Liverpool form a physicality problem? | Plus Conor Gallagher and Merlin Rohl in The Debrief. Alexis Mac Allisters form for Liverpool is a concern but is the problem tactical, physical or both? Plus: Conor Gallaghers all-action performance for Roberto De Zerbis Tottenham and David Moyes use of Merlin Rohl for Everton against Man City feature in The Debrief... Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -252,7 +256,7 @@ Manchester United ready to spend PS150m on three midfielders this summer - Paper
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Manchester United ready to spend PS150m on three midfielders this summer - Paper Talk. https://www.skysports.com/football/news/12040/13540227/manchester-united-ready-to-spend-150m-on-three-midfielders-this-summer-paper-talk
+- skysports.com — Alexis Mac Allister: Is his Liverpool form a physicality problem? | Plus Conor Gallagher and Merlin Rohl in The Debrief. https://www.skysports.com/football/news/12040/13539634/alexis-mac-allister-is-his-liverpool-form-a-physicality-problem-plus-conor-gallagher-and-merlin-rohl-in-the-debrief
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
