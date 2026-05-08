@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-08 08:53 (America/Winnipeg)  |  2026-05-08 13:53 (UTC)
+**Generated:** 2026-05-08 14:21 (America/Winnipeg)  |  2026-05-08 19:21 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 38s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League fantasy football tips: Time to triple captain Erling Haaland?
-- Manchester City: How important is Rodri to Pep Guardiola's side?
-- Michael Carrick: Why interim Man Utd boss maybe shouldn't get manager's job
+- Arsenal: Mikel Arteta's Gunners face huge Premier League weekend
+- Bruno Fernandes wins FWA Footballer of the Year: Man Utd captain's assists and creativity set him apart from the rest
+- Brighton's Fran Kirby: 'Instead of running around like a headless chicken, I stand and assess'
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Michael Carrick: Why interim Man Utd boss maybe shouldn't get manager's job
-**Slug (lower-third):** Michael Carrick: Why interim Man Utd boss maybe shouldn't…  
-**When:** 2026-05-08 07:06 (America/Winnipeg)  •  **Published:** 2026-05-08 12:06 (UTC)  
+## Story 1: Arsenal: Mikel Arteta's Gunners face huge Premier League weekend
+**Slug (lower-third):** Arsenal: Mikel Arteta's Gunners face huge Premier League …  
+**When:** 2026-05-08 13:49 (America/Winnipeg)  •  **Published:** 2026-05-08 18:49 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Michael Carrick: Why interim Man Utd boss maybe shouldn't get manager's job. Manchester United have won the most points in the Premier League since caretaker boss Michael Carrick took over, but the stats still show concerns. Relevance to standings and momentum.
+Arsenal: Mikel Arteta's Gunners face huge Premier League weekend. As the Premier League title race nears its conclusion, Arsenal manager Mikel Arteta tells his players and the Gunners fans to "stay present and live the moment". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Michael Carrick: Why interim Man Utd boss maybe shouldn't get manager's job. Man
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Michael Carrick: Why interim Man Utd boss maybe shouldn't get manager's job. https://www.bbc.com/sport/football/articles/czd2nel67n4o?at_medium=RSS&at_campaign=rss
+- bbc.com — Arsenal: Mikel Arteta's Gunners face huge Premier League weekend. https://www.bbc.com/sport/football/articles/cvgz7v5ve2eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,39 +42,13 @@ Michael Carrick: Why interim Man Utd boss maybe shouldn't get manager's job. Man
 
 ### Transfers
 
-## Story 2: Luke Littler: I'm not practising but I'm getting in rivals' heads - 'Sometimes I have Luke Humphries, Michael van Gerwen beaten before last leg'
-**Slug (lower-third):** Luke Littler: I'm not practising but I'm getting in rival…  
-**When:** 2026-05-08 05:40 (America/Winnipeg)  •  **Published:** 2026-05-08 10:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~31s
-
-### Presenter Script (3–5 sentences)
-Luke Littler: I'm not practising but I'm getting in rivals' heads - 'Sometimes I have Luke Humphries, Michael van Gerwen beaten before last leg'. Following nightly win at Premier League Night 14 in Leeds, Luke Littler says he is not practising but feels he is getting in his rivals heads; Littler beat Luke Humphries, Michael van Gerwen 6-5 on Thursday; watch Premier League Darts live on Sky Sports every Thursday Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Luke Littler: I'm not practising but I'm getting in rivals' heads - 'Sometimes I have Luke Humphries, Michael van Gerwen beaten before last leg'. https://www.skysports.com/darts/news/12040/13541458/luke-littler-im-not-practising-but-im-getting-in-rivals-heads-sometimes-i-have-luke-humphries-michael-van-gerwen-beaten-before-last-leg
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 3: Manchester City: How important is Rodri to Pep Guardiola's side?
-**Slug (lower-third):** Manchester City: How important is Rodri to Pep Guardiola'…  
-**When:** 2026-05-08 07:46 (America/Winnipeg)  •  **Published:** 2026-05-08 12:46 (UTC)  
+## Story 2: West Ham on brink a decade after David Sullivan announced his 'big club' feelings
+**Slug (lower-third):** West Ham on brink a decade after David Sullivan announced…  
+**When:** 2026-05-08 13:00 (America/Winnipeg)  •  **Published:** 2026-05-08 18:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester City: How important is Rodri to Pep Guardiola's side?. Rodri's injury coincided with Manchester City's damaging draw at Everton - but there evidence suggests his importance is overplayed. Potential impact on the lineup and upcoming fixtures.
+West Ham on brink a decade after David Sullivan announced his 'big club' feelings. The club chair said the move to the London Stadium showed they were not a 'tinpot club' but now relegation threat looms Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,31 +57,7 @@ Manchester City: How important is Rodri to Pep Guardiola's side?. Rodri's injury
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Manchester City: How important is Rodri to Pep Guardiola's side?. https://www.bbc.com/sport/football/articles/cj3pev7y2kzo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Premier League and FPL team news: All your injury and Fantasy Premier League info in one place
-**Slug (lower-third):** Premier League and FPL team news: All your injury and Fan…  
-**When:** 2026-05-08 06:29 (America/Winnipeg)  •  **Published:** 2026-05-08 11:29 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League and FPL team news: All your injury and Fantasy Premier League info in one place. https://www.bbc.com/sport/articles/c142jdl11dlo?at_medium=RSS&at_campaign=rss
+- theguardian.com — West Ham on brink a decade after David Sullivan announced his 'big club' feelings. https://www.theguardian.com/football/2026/may/08/west-ham-on-brink-a-decade-since-david-sullivan-big-club-feelings
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,13 +68,37 @@ Premier League and FPL team news: All your injury and Fantasy Premier League inf
 
 ### Club Updates
 
-## Story 5: Premier League fantasy football tips: Time to triple captain Erling Haaland?
-**Slug (lower-third):** Premier League fantasy football tips: Time to triple capt…  
-**When:** 2026-05-08 07:55 (America/Winnipeg)  •  **Published:** 2026-05-08 12:55 (UTC)  
+## Story 3: Bruno Fernandes wins FWA Footballer of the Year: Man Utd captain's assists and creativity set him apart from the rest
+**Slug (lower-third):** Bruno Fernandes wins FWA Footballer of the Year: Man Utd …  
+**When:** 2026-05-08 13:05 (America/Winnipeg)  •  **Published:** 2026-05-08 18:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Bruno Fernandes wins FWA Footballer of the Year: Man Utd captain's assists and creativity set him apart from the rest. Following the news Bruno Fernandes is the Football Writers' Association Footballer of the Year, Adam Bate explains why he believes the Manchester United captain is a worthy winner of the mens award this season. Fernandes' creativity has set him apart... Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Bruno Fernandes wins FWA Footballer of the Year: Man Utd captain's assists and creativity set him apart from the rest. https://www.skysports.com/football/news/12040/13538417/bruno-fernandes-wins-fwa-footballer-of-the-year-man-utd-captains-assists-and-creativity-set-him-apart-from-the-rest
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Brighton's Fran Kirby: 'Instead of running around like a headless chicken, I stand and assess'
+**Slug (lower-third):** Brighton's Fran Kirby: 'Instead of running around like a …  
+**When:** 2026-05-08 13:02 (America/Winnipeg)  •  **Published:** 2026-05-08 18:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League fantasy football tips: Time to triple captain Erling Haaland?. If you still have your triple captain chip left in Fantasy Premier League then Manchester City - with two home games this week - could be your inspiration. Relevance to standings and momentum.
+Brighton's Fran Kirby: 'Instead of running around like a headless chicken, I stand and assess'. Former Chelsea forward is thriving on the south coast and aiming for victory in the Women's FA Cup semi-final against Liverpool, she tells Suzanne Wrack Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +107,7 @@ Premier League fantasy football tips: Time to triple captain Erling Haaland?. If
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League fantasy football tips: Time to triple captain Erling Haaland?. https://www.bbc.com/sport/football/articles/c202lg07wq8o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Brighton's Fran Kirby: 'Instead of running around like a headless chicken, I stand and assess'. https://www.theguardian.com/football/2026/may/08/brighton-fran-kirby-fa-cup-semi-final-liverpool
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,37 +116,13 @@ Premier League fantasy football tips: Time to triple captain Erling Haaland?. If
 
 ---
 
-## Story 6: Exeter Chiefs: Prem Rugby side approve takeover by American owners of Premier League club Bournemouth
-**Slug (lower-third):** Exeter Chiefs: Prem Rugby side approve takeover by Americ…  
-**When:** 2026-05-08 07:00 (America/Winnipeg)  •  **Published:** 2026-05-08 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Exeter Chiefs: Prem Rugby side approve takeover by American owners of Premier League club Bournemouth. Exeter Chiefs members and shareholders have approved a takeover from the American owners of Premier League side Bournemouth; Black Knight Sports took full ownership of Bournemouth in December 2022; no official offer will be made before the end of May Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Exeter Chiefs: Prem Rugby side approve takeover by American owners of Premier League club Bournemouth. https://www.skysports.com/rugby-union/news/12040/13541488/exeter-chiefs-prem-rugby-side-approve-takeover-by-american-owners-of-premier-league-club-bournemouth
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Bournemouth: Defender Alex Jimenez suspended in club social media investigation
-**Slug (lower-third):** Bournemouth: Defender Alex Jimenez suspended in club soci…  
-**When:** 2026-05-08 06:59 (America/Winnipeg)  •  **Published:** 2026-05-08 11:59 (UTC)  
+## Story 5: How did league champions Liverpool and Club World Cup winners Chelsea fall so far?
+**Slug (lower-third):** How did league champions Liverpool and Club World Cup win…  
+**When:** 2026-05-08 13:00 (America/Winnipeg)  •  **Published:** 2026-05-08 18:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bournemouth: Defender Alex Jimenez suspended in club social media investigation. AFC Bournemouth drop defender Alex Jimenez from their squad amid an investigation into posts on social media. Disciplinary outcome could affect availability.
+How did league champions Liverpool and Club World Cup winners Chelsea fall so far?. Our correspondents look at how the clubs - who meet on Saturday - got where they are and what must happen next Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +131,7 @@ Bournemouth: Defender Alex Jimenez suspended in club social media investigation.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Bournemouth: Defender Alex Jimenez suspended in club social media investigation. https://www.bbc.com/sport/football/articles/cjdpx3n9rvyo?at_medium=RSS&at_campaign=rss
+- theguardian.com — How did league champions Liverpool and Club World Cup winners Chelsea fall so far?. https://www.theguardian.com/football/2026/may/08/how-did-league-champions-liverpool-club-world-cup-winners-chelsea-fall-so-far
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +140,13 @@ Bournemouth: Defender Alex Jimenez suspended in club social media investigation.
 
 ---
 
-## Story 8: Brentford's Michael Kayode: 'I don't play just because I have a long throw - you have to watch me'
-**Slug (lower-third):** Brentford's Michael Kayode: 'I don't play just because I …  
-**When:** 2026-05-08 06:05 (America/Winnipeg)  •  **Published:** 2026-05-08 11:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
+## Story 6: FWA Footballer of the Year 2025/26: Man Utd midfielder Bruno Fernandes and Man City striker Khadija Shaw claim awards
+**Slug (lower-third):** FWA Footballer of the Year 2025/26: Man Utd midfielder Br…  
+**When:** 2026-05-08 13:00 (America/Winnipeg)  •  **Published:** 2026-05-08 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Brentford's Michael Kayode: 'I don't play just because I have a long throw - you have to watch me'. Michael Kayode tells Ben Fisher there is more to his game than a long throw as he targets European football with Brentford and an Italy call-up Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+FWA Footballer of the Year 2025/26: Man Utd midfielder Bruno Fernandes and Man City striker Khadija Shaw claim awards. Manchester United midfielder Bruno Fernandes and Manchester City striker Khadija Bunny Shaw have been named FWA Footballers of the Year; Fernandes has eight goals and 19 assists in the Premier League for United; Shaw is on course for a third consecutive WSL Golden Boot with 19 goals Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +155,7 @@ Brentford's Michael Kayode: 'I don't play just because I have a long throw - you
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Brentford's Michael Kayode: 'I don't play just because I have a long throw - you have to watch me'. https://www.theguardian.com/football/2026/may/08/brentfords-michael-kayode-i-dont-play-just-because-i-have-a-long-throw-you-have-to-watch-me
+- skysports.com — FWA Footballer of the Year 2025/26: Man Utd midfielder Bruno Fernandes and Man City striker Khadija Shaw claim awards. https://www.skysports.com/football/news/12040/13541489/fwa-footballer-of-the-year-2025-26-man-utd-midfielder-bruno-fernandes-and-man-city-striker-khadija-shaw-claim-awards
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +164,13 @@ Brentford's Michael Kayode: 'I don't play just because I have a long throw - you
 
 ---
 
-## Story 9: The Verdict: Crystal Palace make history to reach Europa Conference League Final
-**Slug (lower-third):** The Verdict: Crystal Palace make history to reach Europa …  
-**When:** 2026-05-08 04:28 (America/Winnipeg)  •  **Published:** 2026-05-08 09:28 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 7: Bruno Fernandes: Man Utd and Portugal midfielder wins Football Writers' Association men's Footballer of the Year award
+**Slug (lower-third):** Bruno Fernandes: Man Utd and Portugal midfielder wins Foo…  
+**When:** 2026-05-08 12:07 (America/Winnipeg)  •  **Published:** 2026-05-08 17:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-The Verdict: Crystal Palace make history to reach Europa Conference League Final. Sky Sports reporter Gary Cotterill rounds up the best of the reaction from an historic night at Selhurst Park as they beat Shakhtar Donetsk to reach the Europa Conference League Final. Relevance to standings and momentum.
+Bruno Fernandes: Man Utd and Portugal midfielder wins Football Writers' Association men's Footballer of the Year award. Manchester United captain Bruno Fernandes wins the Football Writers' Association's men's Footballer of the Year award. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +179,7 @@ The Verdict: Crystal Palace make history to reach Europa Conference League Final
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — The Verdict: Crystal Palace make history to reach Europa Conference League Final. https://www.skysports.com/watch/video/13541425/the-verdict-crystal-palace-make-history-to-reach-europa-conference-league-final
+- bbc.com — Bruno Fernandes: Man Utd and Portugal midfielder wins Football Writers' Association men's Footballer of the Year award. https://www.bbc.com/sport/football/articles/cn8pvvp6n0qo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +188,13 @@ The Verdict: Crystal Palace make history to reach Europa Conference League Final
 
 ---
 
-## Story 10: The seven games that will decide whether Arsenal or City win the title
-**Slug (lower-third):** The seven games that will decide whether Arsenal or City …  
-**When:** 2026-05-08 04:24 (America/Winnipeg)  •  **Published:** 2026-05-08 09:24 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 8: Khadija Shaw: Manchester City striker named Football Writers' Association women's player of the year
+**Slug (lower-third):** Khadija Shaw: Manchester City striker named Football Writ…  
+**When:** 2026-05-08 12:06 (America/Winnipeg)  •  **Published:** 2026-05-08 17:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-The seven games that will decide whether Arsenal or City win the title. Arsenal have the advantage in the Premier League title race but will they hold off Manchester City's challenge? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Khadija Shaw: Manchester City striker named Football Writers' Association women's player of the year. Manchester City striker Khadija Shaw is crowned the Football Writers' Association Women's Player of the Season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +203,55 @@ The seven games that will decide whether Arsenal or City win the title. Arsenal 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — The seven games that will decide whether Arsenal or City win the title. https://www.theguardian.com/football/who-scored-blog/2026/may/08/premier-league-title-race-seven-games-arsenal-manchester-city
+- bbc.com — Khadija Shaw: Manchester City striker named Football Writers' Association women's player of the year. https://www.bbc.com/sport/football/articles/c4g08d8nkj5o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Premier League team news: predicted lineups for the weekend action
+**Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
+**When:** 2026-05-08 11:56 (America/Winnipeg)  •  **Published:** 2026-05-08 16:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League team news: predicted lineups for the weekend action. West Ham welcome leaders Arsenal on Sunday hoping to climb out of the bottom three before Tottenham host Leeds on Monday night Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/sport/2026/may/08/premier-league-team-news-predicted-lineups-for-the-weekend-action
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: How Southampton allegedly spied on Middlesbrough
+**Slug (lower-third):** How Southampton allegedly spied on Middlesbrough  
+**When:** 2026-05-08 11:52 (America/Winnipeg)  •  **Published:** 2026-05-08 16:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+How Southampton allegedly spied on Middlesbrough. Southampton are under investigation for allegedly spying on Championship play-off rivals Middlesbrough. It was not as difficult as one might think. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — How Southampton allegedly spied on Middlesbrough. https://www.bbc.com/sport/football/articles/c1725d15p0ko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
