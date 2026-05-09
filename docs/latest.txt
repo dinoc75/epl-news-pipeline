@@ -1,14 +1,14 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-08 21:57 (America/Winnipeg)  |  2026-05-09 02:57 (UTC)
+**Generated:** 2026-05-09 03:00 (America/Winnipeg)  |  2026-05-09 08:00 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 41s
+**Estimated total video length:** ~4m 40s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Man United captain Bruno Fernandes wins FWA Footballer of the Year award
+- Andoni Iraola: James Hill says Bournemouth want to reach Europe
 - Middlesbrough vs Southampton: EFL charges Saints after member of staff was alleged to have spied on Boro training
 - Austrian Darts Open: Mensur Suljovic into second round as Michael Smith and Raymond van Barneveld suffer early exits
 
@@ -16,58 +16,10 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ### Managerial Moves
 
-## Story 1: Mikel Arteta urges Arsenal to 'channel energy' in right way with title in sight
-**Slug (lower-third):** Mikel Arteta urges Arsenal to 'channel energy' in right w…  
-**When:** 2026-05-08 16:30 (America/Winnipeg)  •  **Published:** 2026-05-08 21:30 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Mikel Arteta urges Arsenal to 'channel energy' in right way with title in sight. Manager dismisses criticism from the 'celebration police' and is focused on ensuring his players take the final steps starting at West Ham on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Mikel Arteta urges Arsenal to 'channel energy' in right way with title in sight. https://www.theguardian.com/football/2026/may/08/mikel-arteta-arsenal-premier-league-title-football
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Premier League news: There's nothing wrong with Liverpool's standards, fumes Slot; Guardiola: title chase not over
-**Slug (lower-third):** Premier League news: There's nothing wrong with Liverpool…  
-**When:** 2026-05-08 16:30 (America/Winnipeg)  •  **Published:** 2026-05-08 21:30 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Premier League news: There's nothing wrong with Liverpool's standards, fumes Slot; Guardiola: title chase not over. Salah's claim that a winning culture is not only created inside the gym is source of friction as City manager rows back on his perfect-finish stance Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League news: There's nothing wrong with Liverpool's standards, fumes Slot; Guardiola: title chase not over. https://www.theguardian.com/football/2026/may/08/premier-league-news-theres-nothing-wrong-with-liverpools-standards-fumes-slot-guardiola-title-chase-not-over
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Football gossip: Mourinho, Gomes, Vicario, Nunez, Openda
+## Story 1: Football gossip: Mourinho, Gomes, Vicario, Nunez, Openda
 **Slug (lower-third):** Football gossip: Mourinho, Gomes, Vicario, Nunez, Openda  
 **When:** 2026-05-08 16:25 (America/Winnipeg)  •  **Published:** 2026-05-08 21:25 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Mourinho, Gomes, Vicario, Nunez, Openda. Former Chelsea and Man Utd boss Jose Mourinho in talks to become next Real Madrid head coach, Newcastle and Chelsea eye Uruguay Darwin Nunez, Wolves set to agree deal to sell Joao Gomes to Atletico Madrid, plus more. Relevance to standings and momentum.
@@ -88,12 +40,36 @@ Football gossip: Mourinho, Gomes, Vicario, Nunez, Openda. Former Chelsea and Man
 
 ---
 
+## Story 2: Mikel Arteta urges Arsenal to 'channel energy' in right way with title in sight
+**Slug (lower-third):** Mikel Arteta urges Arsenal to 'channel energy' in right w…  
+**When:** 2026-05-08 16:30 (America/Winnipeg)  •  **Published:** 2026-05-08 21:30 (UTC)  
+**Virality score:** 89  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Mikel Arteta urges Arsenal to 'channel energy' in right way with title in sight. Manager dismisses criticism from the 'celebration police' and is focused on ensuring his players take the final steps starting at West Ham on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Mikel Arteta urges Arsenal to 'channel energy' in right way with title in sight. https://www.theguardian.com/football/2026/may/08/mikel-arteta-arsenal-premier-league-title-football
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ### Injuries
 
-## Story 4: Manchester City: How important is Rodri to Pep Guardiola's side?
+## Story 3: Manchester City: How important is Rodri to Pep Guardiola's side?
 **Slug (lower-third):** Manchester City: How important is Rodri to Pep Guardiola'…  
 **When:** 2026-05-08 16:36 (America/Winnipeg)  •  **Published:** 2026-05-08 21:36 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester City: How important is Rodri to Pep Guardiola's side?. Rodri's injury coincided with Manchester City's damaging draw at Everton - but there evidence suggests his importance is overplayed. Potential impact on the lineup and upcoming fixtures.
@@ -116,7 +92,7 @@ Manchester City: How important is Rodri to Pep Guardiola's side?. Rodri's injury
 
 ### League & Regulation
 
-## Story 5: Middlesbrough vs Southampton: EFL charges Saints after member of staff was alleged to have spied on Boro training
+## Story 4: Middlesbrough vs Southampton: EFL charges Saints after member of staff was alleged to have spied on Boro training
 **Slug (lower-third):** Middlesbrough vs Southampton: EFL charges Saints after me…  
 **When:** 2026-05-08 17:00 (America/Winnipeg)  •  **Published:** 2026-05-08 22:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~26s
@@ -141,13 +117,13 @@ Middlesbrough vs Southampton: EFL charges Saints after member of staff was alleg
 
 ---
 
-## Story 6: Southampton charged with misconduct by EFL in Middlesbrough 'spying' row
-**Slug (lower-third):** Southampton charged with misconduct by EFL in Middlesbrou…  
-**When:** 2026-05-08 17:21 (America/Winnipeg)  •  **Published:** 2026-05-08 22:21 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 5: Southampton spying probe: Saints charged by EFL with spying on Middlesbrough
+**Slug (lower-third):** Southampton spying probe: Saints charged by EFL with spyi…  
+**When:** 2026-05-08 17:02 (America/Winnipeg)  •  **Published:** 2026-05-08 22:02 (UTC)  
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Southampton charged with misconduct by EFL in Middlesbrough 'spying' row. Southampton have been charged with misconduct by the English Football League and will face an independent disciplinary commission set to be convened "at the earliest opportunity" Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Southampton spying probe: Saints charged by EFL with spying on Middlesbrough. The EFL charges Southampton with spying on Middlesbrough before they meet in the Championship play-off semi-finals on Saturday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,7 +132,7 @@ Southampton charged with misconduct by EFL in Middlesbrough 'spying' row. Southa
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Southampton charged with misconduct by EFL in Middlesbrough 'spying' row. https://www.theguardian.com/football/2026/may/08/playoff-semi-final-efl-southampton-spying-middlesbrough
+- bbc.com — Southampton spying probe: Saints charged by EFL with spying on Middlesbrough. https://www.bbc.com/sport/football/articles/cy92vn803lno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +143,13 @@ Southampton charged with misconduct by EFL in Middlesbrough 'spying' row. Southa
 
 ### Club Updates
 
-## Story 7: Man United captain Bruno Fernandes wins FWA Footballer of the Year award
-**Slug (lower-third):** Man United captain Bruno Fernandes wins FWA Footballer of…  
-**When:** 2026-05-08 17:05 (America/Winnipeg)  •  **Published:** 2026-05-08 22:05 (UTC)  
+## Story 6: Andoni Iraola: James Hill says Bournemouth want to reach Europe
+**Slug (lower-third):** Andoni Iraola: James Hill says Bournemouth want to reach …  
+**When:** 2026-05-09 00:54 (America/Winnipeg)  •  **Published:** 2026-05-09 05:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man United captain Bruno Fernandes wins FWA Footballer of the Year award. Manchester United captain Bruno Fernandes has been crowned the 2026 Footballer of the Year by the Football Writers' Association (FWA) Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Andoni Iraola: James Hill says Bournemouth want to reach Europe. Defender James Hill tells Michael Timbs that he and his team-mates are determined to qualify for Europe for the first time in Bournemouth's history, as a thank you to boss Andoni Iraola who is leaving in the summer. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,8 +158,7 @@ Man United captain Bruno Fernandes wins FWA Footballer of the Year award. Manche
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Man United captain Bruno Fernandes wins FWA Footballer of the Year award. https://www.espn.com/soccer/story/_/id/48711508/manchester-united-captain-bruno-fernandes-wins-fwa-football-year-award
-- bbc.com — Bruno Fernandes: Man Utd and Portugal midfielder wins Football Writers' Association men's Footballer of the Year award. https://www.bbc.com/sport/football/articles/cn8pvvp6n0qo?at_medium=RSS&at_campaign=rss
+- bbc.com — Andoni Iraola: James Hill says Bournemouth want to reach Europe. https://www.bbc.com/sport/football/videos/cgrpyynk80eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -192,10 +167,10 @@ Man United captain Bruno Fernandes wins FWA Footballer of the Year award. Manche
 
 ---
 
-## Story 8: Austrian Darts Open: Mensur Suljovic into second round as Michael Smith and Raymond van Barneveld suffer early exits
+## Story 7: Austrian Darts Open: Mensur Suljovic into second round as Michael Smith and Raymond van Barneveld suffer early exits
 **Slug (lower-third):** Austrian Darts Open: Mensur Suljovic into second round as…  
 **When:** 2026-05-08 17:40 (America/Winnipeg)  •  **Published:** 2026-05-08 22:40 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~26s
+**Virality score:** 92  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
 Austrian Darts Open: Mensur Suljovic into second round as Michael Smith and Raymond van Barneveld suffer early exits. Mensur Suljovic to face James Wade in second round on Saturday; Peter Wright beats Austrian Zoran Lerchbacher 6-2 to register his first European Tour victory in 2026; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -216,10 +191,10 @@ Austrian Darts Open: Mensur Suljovic into second round as Michael Smith and Raym
 
 ---
 
-## Story 9: Bruno Fernandes: How Man Utd captain won FWA award and got to brink of record - and what comes next?
+## Story 8: Bruno Fernandes: How Man Utd captain won FWA award and got to brink of record - and what comes next?
 **Slug (lower-third):** Bruno Fernandes: How Man Utd captain won FWA award and go…  
 **When:** 2026-05-08 17:23 (America/Winnipeg)  •  **Published:** 2026-05-08 22:23 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~21s
+**Virality score:** 91  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 Bruno Fernandes: How Man Utd captain won FWA award and got to brink of record - and what comes next?. No Premier League medal, no Champions League title, but Bruno Fernandes has won other trophies and many accolades, and the FWA footballer of the year is on the brink of setting a record. Relevance to standings and momentum.
@@ -240,10 +215,10 @@ Bruno Fernandes: How Man Utd captain won FWA award and got to brink of record - 
 
 ---
 
-## Story 10: Virgil van Dijk: Liverpool captain ready to leave club with approach from European club 'imminent' - Paper Talk
+## Story 9: Virgil van Dijk: Liverpool captain ready to leave club with approach from European club 'imminent' - Paper Talk
 **Slug (lower-third):** Virgil van Dijk: Liverpool captain ready to leave club wi…  
 **When:** 2026-05-08 17:15 (America/Winnipeg)  •  **Published:** 2026-05-08 22:15 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~27s
+**Virality score:** 91  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
 Virgil van Dijk: Liverpool captain ready to leave club with approach from European club 'imminent' - Paper Talk. Saturdays top stories include: Man Utd target Joao Gomes being set to move to another Champions League club; Crystal Palace identify their top target for the summer; Vinicius Jr accused of being a mole for Alvaro Arbeloa by his Real Madrid team-mates Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -256,6 +231,30 @@ Virgil van Dijk: Liverpool captain ready to leave club with approach from Europe
 
 ### Sources
 - skysports.com — Virgil van Dijk: Liverpool captain ready to leave club with approach from European club 'imminent' - Paper Talk. https://www.skysports.com/football/news/12040/13541686/virgil-van-dijk-liverpool-captain-ready-to-leave-club-with-approach-from-european-club-imminent-paper-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Khadija Shaw: Manchester City striker named Football Writers' Association women's player of the year
+**Slug (lower-third):** Khadija Shaw: Manchester City striker named Football Writ…  
+**When:** 2026-05-08 14:38 (America/Winnipeg)  •  **Published:** 2026-05-08 19:38 (UTC)  
+**Virality score:** 87  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Khadija Shaw: Manchester City striker named Football Writers' Association women's player of the year. Manchester City striker Khadija Shaw is crowned the Football Writers' Association Women's Player of the Season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Khadija Shaw: Manchester City striker named Football Writers' Association women's player of the year. https://www.bbc.com/sport/football/articles/c4g08d8nkj5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
