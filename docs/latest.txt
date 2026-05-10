@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-10 08:22 (America/Winnipeg)  |  2026-05-10 13:22 (UTC)
+**Generated:** 2026-05-10 14:07 (America/Winnipeg)  |  2026-05-10 19:07 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 23s
+**Estimated total video length:** ~4m 31s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Pep Guardiola sends title race plea to West Ham: 'Come on you Irons'
-- Kieran Trippier: What next for Newcastle United defender as he prepares to leave?
-- Is the Premier League starting to gobble up Uefa's lower-tier competitions? | Nick Ames
+- Arsenal: Mikel Arteta praises the 'bravery' shown by match officials after disallowing West Ham's late equaliser
+- Premier League highlights: West Ham 0-1 Arsenal
+- Premier League highlights: Nottingham Forest 1-1 Newcastle United
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, Gvardiol, Openda
-**Slug (lower-third):** Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, …  
-**When:** 2026-05-09 18:02 (America/Winnipeg)  •  **Published:** 2026-05-09 23:02 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 1: Premier League: Unai Emery 'very happy' with 'fantastic' Aston Villa performance
+**Slug (lower-third):** Premier League: Unai Emery 'very happy' with 'fantastic' …  
+**When:** 2026-05-10 10:55 (America/Winnipeg)  •  **Published:** 2026-05-10 15:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, Gvardiol, Openda. Wolves set to agree deal to sell Joao Gomes to Atletico Madrid, PSG close to new Luis Enrique contract, and Liverpool are keen on Emi Martinez. Implications for the squad and table.
+Premier League: Unai Emery 'very happy' with 'fantastic' Aston Villa performance. Aston Villa manager Unai Emery says his side was "fantastic" and deserved all three points following a 2-2 with Burnley at Turf Moor. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,34 @@ Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, Gvardiol, Openda. Wolve
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, Gvardiol, Openda. https://www.bbc.com/sport/football/articles/c1w23n8j3zyo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League: Unai Emery 'very happy' with 'fantastic' Aston Villa performance. https://www.bbc.com/sport/football/videos/c9q30n5zgvqo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: Premier League highlights: West Ham 0-1 Arsenal
+**Slug (lower-third):** Premier League highlights: West Ham 0-1 Arsenal  
+**When:** 2026-05-10 14:05 (America/Winnipeg)  •  **Published:** 2026-05-10 19:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League highlights: West Ham 0-1 Arsenal. Leandro Trossard's 83rd-minute goal is enough to give Premier League leaders Arsenal a dramatic 1-0 win, as West Ham United are denied an injury-time equaliser by VAR at the London Stadium. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League highlights: West Ham 0-1 Arsenal. https://www.bbc.com/sport/football/videos/c3d2859pm80o?at_medium=RSS&at_campaign=rss
+- skysports.com — West Ham 0-1 Arsenal | Premier League highlights. https://www.skysports.com/watch/video/13542483/west-ham-0-1-arsenal-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +69,37 @@ Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, Gvardiol, Openda. Wolve
 
 ### Club Updates
 
-## Story 2: Pep Guardiola sends title race plea to West Ham: 'Come on you Irons'
-**Slug (lower-third):** Pep Guardiola sends title race plea to West Ham: 'Come on…  
-**When:** 2026-05-10 02:29 (America/Winnipeg)  •  **Published:** 2026-05-10 07:29 (UTC)  
+## Story 3: Arsenal: Mikel Arteta praises the 'bravery' shown by match officials after disallowing West Ham's late equaliser
+**Slug (lower-third):** Arsenal: Mikel Arteta praises the 'bravery' shown by matc…  
+**When:** 2026-05-10 14:21 (America/Winnipeg)  •  **Published:** 2026-05-10 19:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
+
+### Presenter Script (3–5 sentences)
+Arsenal: Mikel Arteta praises the 'bravery' shown by match officials after disallowing West Ham's late equaliser. Mikel Arteta has applauded the bravery shown by VAR and referee Chris Kavanagh after disallowing West Hams late equaliser at the London Stadium; Arsenal won 1-0 to move five clear at the top of the table; Callum Wilsons late goal was disallowed due to a foul from Pablo on David Raya Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal: Mikel Arteta praises the 'bravery' shown by match officials after disallowing West Ham's late equaliser. https://www.skysports.com/football/news/12040/13542497/arsenal-mikel-arteta-praises-the-bravery-shown-by-match-officials-after-disallowing-west-hams-late-equaliser
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Premier League highlights: Nottingham Forest 1-1 Newcastle United
+**Slug (lower-third):** Premier League highlights: Nottingham Forest 1-1 Newcastl…  
+**When:** 2026-05-10 14:00 (America/Winnipeg)  •  **Published:** 2026-05-10 19:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pep Guardiola sends title race plea to West Ham: 'Come on you Irons'. Pep Guardiola ended his postmatch news conference after the 3-0 win over Brentford by shouting "come on you Irons" as Manchester City hold out hope of getting a helping hand. Relevance to standings and momentum.
+Premier League highlights: Nottingham Forest 1-1 Newcastle United. Elliot Anderson scores against his former club to earn Nottingham Forest a 1-1 draw against Newcastle United and a seven-point cushion from the Premier League relegation zone. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,8 +108,7 @@ Pep Guardiola sends title race plea to West Ham: 'Come on you Irons'. Pep Guardi
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Pep Guardiola sends title race plea to West Ham: 'Come on you Irons'. https://www.espn.com/soccer/story/_/id/48723532/pep-guardiola-sends-title-race-plea-west-ham-come-irons-arsenal
-- theguardian.com — 'Come on you Irons': Pep Guardiola urges West Ham to hurt Arsenal in title race. https://www.theguardian.com/football/2026/may/09/come-on-you-irons-pep-guardiola-west-ham-arsenal-title-race
+- bbc.com — Premier League highlights: Nottingham Forest 1-1 Newcastle United. https://www.bbc.com/sport/football/videos/c5y7mv3v64zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -67,13 +117,13 @@ Pep Guardiola sends title race plea to West Ham: 'Come on you Irons'. Pep Guardi
 
 ---
 
-## Story 3: Kieran Trippier: What next for Newcastle United defender as he prepares to leave?
-**Slug (lower-third):** Kieran Trippier: What next for Newcastle United defender …  
-**When:** 2026-05-10 02:13 (America/Winnipeg)  •  **Published:** 2026-05-10 07:13 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 5: Premier League highlights: Everton's European push dented with draw at Crystal Palace
+**Slug (lower-third):** Premier League highlights: Everton's European push dented…  
+**When:** 2026-05-10 14:00 (America/Winnipeg)  •  **Published:** 2026-05-10 19:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Kieran Trippier: What next for Newcastle United defender as he prepares to leave?. Newcastle United defender Kieran Trippier has an open mind about his next move as he focuses on finishing his St James' Park stay on a high. Relevance to standings and momentum.
+Premier League highlights: Everton's European push dented with draw at Crystal Palace. Everton's push to finish in a European spot suffer a setback as Crystal Palace twice come from behind to pick up a 2-2 draw at Selhurst Park. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -82,7 +132,7 @@ Kieran Trippier: What next for Newcastle United defender as he prepares to leave
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Kieran Trippier: What next for Newcastle United defender as he prepares to leave?. https://www.bbc.com/sport/football/articles/cx21kl0n5ljo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League highlights: Everton's European push dented with draw at Crystal Palace. https://www.bbc.com/sport/football/videos/cj9p20m7d8mo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -91,13 +141,13 @@ Kieran Trippier: What next for Newcastle United defender as he prepares to leave
 
 ---
 
-## Story 4: Is the Premier League starting to gobble up Uefa's lower-tier competitions? | Nick Ames
-**Slug (lower-third):** Is the Premier League starting to gobble up Uefa's lower-…  
-**When:** 2026-05-10 02:00 (America/Winnipeg)  •  **Published:** 2026-05-10 07:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 6: Premier League highlights: Burnley end losing streak with draw against Aston Villa
+**Slug (lower-third):** Premier League highlights: Burnley end losing streak with…  
+**When:** 2026-05-10 14:00 (America/Winnipeg)  •  **Published:** 2026-05-10 19:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Is the Premier League starting to gobble up Uefa's lower-tier competitions? | Nick Ames. Aston Villa and Crystal Palace's runs to European finals are historic achievements, but symptomatic of a worrying trend Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League highlights: Burnley end losing streak with draw against Aston Villa. Burnley end a run of five-straight Premier League defeats as they draw 2-2 with Aston Villa at Turf Moor. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,7 +156,7 @@ Is the Premier League starting to gobble up Uefa's lower-tier competitions? | Ni
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Is the Premier League starting to gobble up Uefa's lower-tier competitions? | Nick Ames. https://www.theguardian.com/football/2026/may/10/is-premier-league-gobble-up-uefa-lower-tier-competitions
+- bbc.com — Premier League highlights: Burnley end losing streak with draw against Aston Villa. https://www.bbc.com/sport/football/videos/cgkpmxl1l7jo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,13 +165,13 @@ Is the Premier League starting to gobble up Uefa's lower-tier competitions? | Ni
 
 ---
 
-## Story 5: 'Come on you Irons!' | Pep Guardiola has all eyes on Arsenal's West Ham showdown
-**Slug (lower-third):** 'Come on you Irons!' | Pep Guardiola has all eyes on Arse…  
-**When:** 2026-05-09 16:36 (America/Winnipeg)  •  **Published:** 2026-05-09 21:36 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
+## Story 7: Nottingham Forest: Elliot Anderson character shown after mum's death
+**Slug (lower-third):** Nottingham Forest: Elliot Anderson character shown after …  
+**When:** 2026-05-10 13:31 (America/Winnipeg)  •  **Published:** 2026-05-10 18:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'Come on you Irons!' | Pep Guardiola has all eyes on Arsenal's West Ham showdown. Pep Guardiola ended his press conference with a clear message ahead of Arsenals trip to West Ham. Relevance to standings and momentum.
+Nottingham Forest: Elliot Anderson character shown after mum's death. Elliot Anderson's crucial equaliser against Newcastle for Nottingham Forest was even more admirable given the huge personal loss he has suffered. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,22 +180,22 @@ Is the Premier League starting to gobble up Uefa's lower-tier competitions? | Ni
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — 'Come on you Irons!' | Pep Guardiola has all eyes on Arsenal's West Ham showdown. https://www.skysports.com/watch/video/13542135/come-on-you-irons-pep-guardiola-has-all-eyes-on-arsenals-west-ham-showdown
+- bbc.com — Nottingham Forest: Elliot Anderson character shown after mum's death. https://www.bbc.com/sport/football/articles/cddp2rm5e5zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 6: Man City 3-0 Brentford: Is Jeremy Doku keeping his side in title race?
-**Slug (lower-third):** Man City 3-0 Brentford: Is Jeremy Doku keeping his side i…  
-**When:** 2026-05-09 15:30 (America/Winnipeg)  •  **Published:** 2026-05-09 20:30 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~23s
+## Story 8: Challenge Cup: Hull KR take convincing win over Warrington Wolves to reach their third Wembley final in four years
+**Slug (lower-third):** Challenge Cup: Hull KR take convincing win over Warringto…  
+**When:** 2026-05-10 13:31 (America/Winnipeg)  •  **Published:** 2026-05-10 18:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Man City 3-0 Brentford: Is Jeremy Doku keeping his side in title race?. Jeremy Doku said last month that he needed to add more goals to his game to be considered one of the best wingers in the world, so is he part of that conversation now? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Challenge Cup: Hull KR take convincing win over Warrington Wolves to reach their third Wembley final in four years. Hull KR sealed their third Wembley appearance in four years after a five-try show saw off Warrington and earned a 32-12 win for Willie Peters' men in their Betfred Challenge Cup semi-final in Doncaster. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -154,22 +204,22 @@ Man City 3-0 Brentford: Is Jeremy Doku keeping his side in title race?. Jeremy D
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man City 3-0 Brentford: Is Jeremy Doku keeping his side in title race?. https://www.bbc.com/sport/football/articles/c8d8gdrpm54o?at_medium=RSS&at_campaign=rss
+- skysports.com — Challenge Cup: Hull KR take convincing win over Warrington Wolves to reach their third Wembley final in four years. https://www.skysports.com/rugby-league/warrington-vs-hull-k-r/report/64133
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 7: Race for Europe: How it stands for Premier League game hopefuls and remaining games
-**Slug (lower-third):** Race for Europe: How it stands for Premier League game ho…  
-**When:** 2026-05-09 14:33 (America/Winnipeg)  •  **Published:** 2026-05-09 19:33 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
+## Story 9: Manchester City's Khadija Shaw sinks Chelsea in dramatic FA Cup semi-final
+**Slug (lower-third):** Manchester City's Khadija Shaw sinks Chelsea in dramatic …  
+**When:** 2026-05-10 12:20 (America/Winnipeg)  •  **Published:** 2026-05-10 17:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Race for Europe: How it stands for Premier League game hopefuls and remaining games. As the Premier League season nears its conclusion, who are favourites to secure a place in Europe next season, and how many English teams could qualify? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Manchester City's Khadija Shaw sinks Chelsea in dramatic FA Cup semi-final. Manchester City trailed Chelsea 2-0 but Mary Fowler in the 86th minute pulled one back before Khadija Shaw scored in added time and extra time for a 3-2 win Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -178,22 +228,22 @@ Race for Europe: How it stands for Premier League game hopefuls and remaining ga
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Race for Europe: How it stands for Premier League game hopefuls and remaining games. https://www.bbc.com/sport/football/articles/cm2p4djmzl2o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Manchester City's Khadija Shaw sinks Chelsea in dramatic FA Cup semi-final. https://www.theguardian.com/football/2026/may/10/chelsea-manchester-city-womens-fa-cup-semi-final-match-report
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 8: Premier League highlights: Fulham 0-1 Bournemouth
-**Slug (lower-third):** Premier League highlights: Fulham 0-1 Bournemouth  
-**When:** 2026-05-09 14:27 (America/Winnipeg)  •  **Published:** 2026-05-09 19:27 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
+## Story 10: Women's FA Cup: Why Brighton's first final felt like it was coming
+**Slug (lower-third):** Women's FA Cup: Why Brighton's first final felt like it w…  
+**When:** 2026-05-10 11:53 (America/Winnipeg)  •  **Published:** 2026-05-10 16:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Fulham 0-1 Bournemouth. Rayan scores the only goal in a game where both sides are shown a straight red card, as Bournemouth beat Fulham to stay sixth in the Premier League table. Relevance to standings and momentum.
+Women's FA Cup: Why Brighton's first final felt like it was coming. Brighton reach their first Women's FA Cup final - and within one victory of a first piece of major silverware in the club's history. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -202,58 +252,10 @@ Premier League highlights: Fulham 0-1 Bournemouth. Rayan scores the only goal in
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Fulham 0-1 Bournemouth. https://www.bbc.com/sport/football/videos/c2k2gx7kv1po?at_medium=RSS&at_campaign=rss
+- bbc.com — Women's FA Cup: Why Brighton's first final felt like it was coming. https://www.bbc.com/sport/football/articles/cx21x5p0d71o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League highlights: Manchester City 3-0 Brentford
-**Slug (lower-third):** Premier League highlights: Manchester City 3-0 Brentford  
-**When:** 2026-05-09 14:20 (America/Winnipeg)  •  **Published:** 2026-05-09 19:20 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Manchester City 3-0 Brentford. Goals from Jeremy Doku, Erling Haaland and Omar Marmoush help Manchester City beat Brentford 3-0 at the Etihad Stadium to secure a vital win in the Premier League title race, as City move two points behind leaders Arsenal with three games remaining. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Manchester City 3-0 Brentford. https://www.bbc.com/sport/football/videos/c4g57xk140go?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League highlights: Brighton & Hove Albion 3-0 Wolverhampton Wanderers
-**Slug (lower-third):** Premier League highlights: Brighton & Hove Albion 3-0 Wol…  
-**When:** 2026-05-09 13:59 (America/Winnipeg)  •  **Published:** 2026-05-09 18:59 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Brighton & Hove Albion 3-0 Wolverhampton Wanderers. Brighton produce a comfortable 3-0 win over bottom of the table Wolves at the AMEX Stadium, to move up to seventh in the Premier League table. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Premier League highlights: Brighton & Hove Albion 3-0 Wolverhampton Wanderers. https://www.bbc.com/sport/football/videos/c1w20q19qz8o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
