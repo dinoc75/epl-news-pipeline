@@ -1,54 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-09 14:05 (America/Winnipeg)  |  2026-05-09 19:05 (UTC)
+**Generated:** 2026-05-09 22:29 (America/Winnipeg)  |  2026-05-10 03:29 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 22s
+**Estimated total video length:** ~4m 40s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
 - Manchester City 3-0 Brentford | Premier League highlights
-- Manchester City keep pressure on Arsenal as Jeremy Doku sparks defeat of Brentford
-- Sunderland 0-0 Man Utd: Task of replacing Casemiro will not be easy for United
-
----
-
-### Managerial Moves
-
-## Story 1: Brighton & Hove Albion 3-0 Wolverhampton Wanderers: Rob Edwards post-match interview
-**Slug (lower-third):** Brighton & Hove Albion 3-0 Wolverhampton Wanderers: Rob E…  
-**When:** 2026-05-09 12:01 (America/Winnipeg)  •  **Published:** 2026-05-09 17:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Brighton & Hove Albion 3-0 Wolverhampton Wanderers: Rob Edwards post-match interview. Wolverhampton Wanderers manager Rob Edwards says fans have a right to be angry after a "despicable" opening few minutes in his side's 3-0 defeat to Brighton & Hove Albion. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Brighton & Hove Albion 3-0 Wolverhampton Wanderers: Rob Edwards post-match interview. https://www.bbc.com/sport/football/videos/c62rgjgx20do?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, Gvardiol, Openda
+- Austrian Darts Open: Gian van Veen suffers shock exit as Michael van Gerwen progresses and Cristo Reyes fires nine-darter
 
 ---
 
 ### Transfers
 
-## Story 2: Paul Merson disagrees with Michael Carrick's verdict and criticises Manchester United's performance at Sunderland
-**Slug (lower-third):** Paul Merson disagrees with Michael Carrick's verdict and …  
-**When:** 2026-05-09 13:21 (America/Winnipeg)  •  **Published:** 2026-05-09 18:21 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
+## Story 1: Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, Gvardiol, Openda
+**Slug (lower-third):** Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, …  
+**When:** 2026-05-09 18:02 (America/Winnipeg)  •  **Published:** 2026-05-09 23:02 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Paul Merson disagrees with Michael Carrick's verdict and criticises Manchester United's performance at Sunderland. Manchester United were held 0-0 by Sunderland in the Premier League; Michael Carrick said well take the point but Paul Merson felt there were some worrying signs on show by Carricks men Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, Gvardiol, Openda. Wolves set to agree deal to sell Joao Gomes to Atletico Madrid, PSG close to new Luis Enrique contract, and Liverpool are keen on Emi Martinez. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +31,7 @@ Paul Merson disagrees with Michael Carrick's verdict and criticises Manchester U
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Paul Merson disagrees with Michael Carrick's verdict and criticises Manchester United's performance at Sunderland. https://www.skysports.com/football/news/12040/13542048/paul-merson-disagrees-with-michael-carricks-verdict-and-criticises-manchester-uniteds-performance-at-sunderland
+- bbc.com — Football gossip: Luis Enrique, Martinez, Nwaneri, Gomes, Gvardiol, Openda. https://www.bbc.com/sport/football/articles/c1w23n8j3zyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,7 +42,7 @@ Paul Merson disagrees with Michael Carrick's verdict and criticises Manchester U
 
 ### Club Updates
 
-## Story 3: Manchester City 3-0 Brentford | Premier League highlights
+## Story 2: Manchester City 3-0 Brentford | Premier League highlights
 **Slug (lower-third):** Manchester City 3-0 Brentford | Premier League highlights  
 **When:** 2026-05-09 14:45 (America/Winnipeg)  •  **Published:** 2026-05-09 19:45 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -84,6 +58,7 @@ Manchester City 3-0 Brentford | Premier League highlights. Highlights from the P
 
 ### Sources
 - skysports.com — Manchester City 3-0 Brentford | Premier League highlights. https://www.skysports.com/watch/video/13542094/manchester-city-3-0-brentford-premier-league-highlights
+- bbc.com — Premier League highlights: Manchester City 3-0 Brentford. https://www.bbc.com/sport/football/videos/c4g57xk140go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +67,13 @@ Manchester City 3-0 Brentford | Premier League highlights. Highlights from the P
 
 ---
 
-## Story 4: Manchester City keep pressure on Arsenal as Jeremy Doku sparks defeat of Brentford
-**Slug (lower-third):** Manchester City keep pressure on Arsenal as Jeremy Doku s…  
-**When:** 2026-05-09 13:38 (America/Winnipeg)  •  **Published:** 2026-05-09 18:38 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 3: Austrian Darts Open: Gian van Veen suffers shock exit as Michael van Gerwen progresses and Cristo Reyes fires nine-darter
+**Slug (lower-third):** Austrian Darts Open: Gian van Veen suffers shock exit as …  
+**When:** 2026-05-09 17:22 (America/Winnipeg)  •  **Published:** 2026-05-09 22:22 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Manchester City keep pressure on Arsenal as Jeremy Doku sparks defeat of Brentford. Manchester City moved to within two points of the leaders thanks to second-half goals from Jeremy Doku, Erling Haaland and Omar Marmoush Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Austrian Darts Open: Gian van Veen suffers shock exit as Michael van Gerwen progresses and Cristo Reyes fires nine-darter. Top seed Gian van Veen beaten by Madars Razma in a final-leg decider; Michael van Gerwen, Josh Rock, James Wade all through to the third round; Cristo Reyes fired a nine-dart leg in his victory over Damon Heta; watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +82,7 @@ Manchester City keep pressure on Arsenal as Jeremy Doku sparks defeat of Brentfo
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Manchester City keep pressure on Arsenal as Jeremy Doku sparks defeat of Brentford. https://www.theguardian.com/football/2026/may/09/manchester-city-brentford-premier-league-match-report
+- skysports.com — Austrian Darts Open: Gian van Veen suffers shock exit as Michael van Gerwen progresses and Cristo Reyes fires nine-darter. https://www.skysports.com/darts/news/12040/13542155/austrian-darts-open-gian-van-veen-suffers-shock-exit-as-michael-van-gerwen-progresses-and-cristo-reyes-fires-nine-darter
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +91,13 @@ Manchester City keep pressure on Arsenal as Jeremy Doku sparks defeat of Brentfo
 
 ---
 
-## Story 5: Sunderland 0-0 Man Utd: Task of replacing Casemiro will not be easy for United
-**Slug (lower-third):** Sunderland 0-0 Man Utd: Task of replacing Casemiro will n…  
-**When:** 2026-05-09 13:32 (America/Winnipeg)  •  **Published:** 2026-05-09 18:32 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: 'Come on you Irons!' | Pep Guardiola has all eyes on Arsenal's West Ham showdown
+**Slug (lower-third):** 'Come on you Irons!' | Pep Guardiola has all eyes on Arse…  
+**When:** 2026-05-09 16:36 (America/Winnipeg)  •  **Published:** 2026-05-09 21:36 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sunderland 0-0 Man Utd: Task of replacing Casemiro will not be easy for United. Manchester United have failed to win any of the four Premier League games Casemiro has failed to start this season, leaving Michael Carrick to ponder how to replace him when he leaves this summer. Relevance to standings and momentum.
+'Come on you Irons!' | Pep Guardiola has all eyes on Arsenal's West Ham showdown. Pep Guardiola ended his press conference with a clear message ahead of Arsenals trip to West Ham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +106,7 @@ Sunderland 0-0 Man Utd: Task of replacing Casemiro will not be easy for United. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Sunderland 0-0 Man Utd: Task of replacing Casemiro will not be easy for United. https://www.bbc.com/sport/football/articles/clypwjjrz3jo?at_medium=RSS&at_campaign=rss
+- skysports.com — 'Come on you Irons!' | Pep Guardiola has all eyes on Arsenal's West Ham showdown. https://www.skysports.com/watch/video/13542135/come-on-you-irons-pep-guardiola-has-all-eyes-on-arsenals-west-ham-showdown
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +115,13 @@ Sunderland 0-0 Man Utd: Task of replacing Casemiro will not be easy for United. 
 
 ---
 
-## Story 6: Gallagher Prem: Leicester Tigers thrash league leaders Northampton Saints 41-17 in feisty East Midlands derby
-**Slug (lower-third):** Gallagher Prem: Leicester Tigers thrash league leaders No…  
-**When:** 2026-05-09 13:05 (America/Winnipeg)  •  **Published:** 2026-05-09 18:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Hits and misses: Mood turns on Arne Slot, Jeremy Doku shines but are Man Utd ready for European demands?
+**Slug (lower-third):** Hits and misses: Mood turns on Arne Slot, Jeremy Doku shi…  
+**When:** 2026-05-09 15:44 (America/Winnipeg)  •  **Published:** 2026-05-09 20:44 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Gallagher Prem: Leicester Tigers thrash league leaders Northampton Saints 41-17 in feisty East Midlands derby. Leicester Tigers bolstered their Gallagher Prem title hopes with an impressive 41-17 victory over Northampton Saints in a feisty East Midlands derby. Relevance to standings and momentum.
+Hits and misses: Mood turns on Arne Slot, Jeremy Doku shines but are Man Utd ready for European demands?. Sky Sports football writers analyse Saturdays action as the mood turns on Liverpool boss Arne Slot after the 1-1 home draw against Chelsea; Jeremy Doku shines in Man Citys 3-0 home win over Brentford; Man Utds stalemate at Sunderland raises questions over next seasons European demands Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +130,7 @@ Gallagher Prem: Leicester Tigers thrash league leaders Northampton Saints 41-17 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Gallagher Prem: Leicester Tigers thrash league leaders Northampton Saints 41-17 in feisty East Midlands derby. https://www.skysports.com/rugby-union/leicester-vs-northampton/report/111297
+- skysports.com — Hits and misses: Mood turns on Arne Slot, Jeremy Doku shines but are Man Utd ready for European demands?. https://www.skysports.com/football/news/12040/13541623/hits-and-misses-mood-turns-on-arne-slot-jeremy-doku-shines-but-are-man-utd-ready-for-european-demands
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +139,13 @@ Gallagher Prem: Leicester Tigers thrash league leaders Northampton Saints 41-17 
 
 ---
 
-## Story 7: Bournemouth on brink of Europe despite losing stars
-**Slug (lower-third):** Bournemouth on brink of Europe despite losing stars  
-**When:** 2026-05-09 12:56 (America/Winnipeg)  •  **Published:** 2026-05-09 17:56 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: 'Come on you Irons': Pep Guardiola urges West Ham to hurt Arsenal in title race
+**Slug (lower-third):** 'Come on you Irons': Pep Guardiola urges West Ham to hurt…  
+**When:** 2026-05-09 15:21 (America/Winnipeg)  •  **Published:** 2026-05-09 20:21 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Bournemouth on brink of Europe despite losing stars. Bournemouth have brushed off being raided for their star players and are now on the brink of a European spot for next season. Relevance to standings and momentum.
+'Come on you Irons': Pep Guardiola urges West Ham to hurt Arsenal in title race. After Manchester City's win against Brentford Pep Guardiola ended his media conference with a cry of 'Come on you Irons', urging West Ham to take points off Arsenal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +154,7 @@ Bournemouth on brink of Europe despite losing stars. Bournemouth have brushed of
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Bournemouth on brink of Europe despite losing stars. https://www.bbc.com/sport/football/articles/cddp9q7qeyvo?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'Come on you Irons': Pep Guardiola urges West Ham to hurt Arsenal in title race. https://www.theguardian.com/football/2026/may/09/come-on-you-irons-pep-guardiola-west-ham-arsenal-title-race
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +163,13 @@ Bournemouth on brink of Europe despite losing stars. Bournemouth have brushed of
 
 ---
 
-## Story 8: WSL highlights: Aston Villa 0-3 Arsenal
-**Slug (lower-third):** WSL highlights: Aston Villa 0-3 Arsenal  
-**When:** 2026-05-09 12:03 (America/Winnipeg)  •  **Published:** 2026-05-09 17:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Race for Europe: How it stands for Premier League game hopefuls and remaining games
+**Slug (lower-third):** Race for Europe: How it stands for Premier League game ho…  
+**When:** 2026-05-09 14:33 (America/Winnipeg)  •  **Published:** 2026-05-09 19:33 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL highlights: Aston Villa 0-3 Arsenal. Alessia Russo stars as Arsenal beat Aston Villa 3-0 in the WSL at Villa Park to confirm their place in next season's Women's Champions League. Relevance to standings and momentum.
+Race for Europe: How it stands for Premier League game hopefuls and remaining games. As the Premier League season nears its conclusion, who are favourites to secure a place in Europe next season, and how many English teams could qualify? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +178,7 @@ WSL highlights: Aston Villa 0-3 Arsenal. Alessia Russo stars as Arsenal beat Ast
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — WSL highlights: Aston Villa 0-3 Arsenal. https://www.bbc.com/sport/football/videos/cz021zvklgjo?at_medium=RSS&at_campaign=rss
+- bbc.com — Race for Europe: How it stands for Premier League game hopefuls and remaining games. https://www.bbc.com/sport/football/articles/cm2p4djmzl2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +187,13 @@ WSL highlights: Aston Villa 0-3 Arsenal. Alessia Russo stars as Arsenal beat Ast
 
 ---
 
-## Story 9: Fulham 0-1 Bournemouth: Marco Silva post-match interview
-**Slug (lower-third):** Fulham 0-1 Bournemouth: Marco Silva post-match interview  
-**When:** 2026-05-09 11:52 (America/Winnipeg)  •  **Published:** 2026-05-09 16:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Premier League highlights: Fulham 0-1 Bournemouth
+**Slug (lower-third):** Premier League highlights: Fulham 0-1 Bournemouth  
+**When:** 2026-05-09 14:27 (America/Winnipeg)  •  **Published:** 2026-05-09 19:27 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham 0-1 Bournemouth: Marco Silva post-match interview. Marco Silva believes his side were hard done by, including the decision by VAR to show Joachim Andersen a straight red card for a challenge on Adrien Truffert, as Fulham suffer a 1-0 defeat to Bournemouth at Craven Cottage. Relevance to standings and momentum.
+Premier League highlights: Fulham 0-1 Bournemouth. Rayan scores the only goal in a game where both sides are shown a straight red card, as Bournemouth beat Fulham to stay sixth in the Premier League table. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +202,7 @@ Fulham 0-1 Bournemouth: Marco Silva post-match interview. Marco Silva believes h
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Fulham 0-1 Bournemouth: Marco Silva post-match interview. https://www.bbc.com/sport/football/videos/cj0pz698855o?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League highlights: Fulham 0-1 Bournemouth. https://www.bbc.com/sport/football/videos/c2k2gx7kv1po?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +211,13 @@ Fulham 0-1 Bournemouth: Marco Silva post-match interview. Marco Silva believes h
 
 ---
 
-## Story 10: Liverpool still lack identity and Arne Slot needs to fix that
-**Slug (lower-third):** Liverpool still lack identity and Arne Slot needs to fix …  
-**When:** 2026-05-09 11:39 (America/Winnipeg)  •  **Published:** 2026-05-09 16:39 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: Premier League highlights: Brighton & Hove Albion 3-0 Wolverhampton Wanderers
+**Slug (lower-third):** Premier League highlights: Brighton & Hove Albion 3-0 Wol…  
+**When:** 2026-05-09 13:59 (America/Winnipeg)  •  **Published:** 2026-05-09 18:59 (UTC)  
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool still lack identity and Arne Slot needs to fix that. More boos at Anfield highlight why Liverpool must change their style during a seismic summer for Arne Slot. Relevance to standings and momentum.
+Premier League highlights: Brighton & Hove Albion 3-0 Wolverhampton Wanderers. Brighton produce a comfortable 3-0 win over bottom of the table Wolves at the AMEX Stadium, to move up to seventh in the Premier League table. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +226,31 @@ Liverpool still lack identity and Arne Slot needs to fix that. More boos at Anfi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool still lack identity and Arne Slot needs to fix that. https://www.bbc.com/sport/football/articles/cqjp4nex0lyo?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League highlights: Brighton & Hove Albion 3-0 Wolverhampton Wanderers. https://www.bbc.com/sport/football/videos/c1w20q19qz8o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Premier League highlights: Liverpool 1-1 Chelsea
+**Slug (lower-third):** Premier League highlights: Liverpool 1-1 Chelsea  
+**When:** 2026-05-09 13:59 (America/Winnipeg)  •  **Published:** 2026-05-09 18:59 (UTC)  
+**Virality score:** 93  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League highlights: Liverpool 1-1 Chelsea. Enzo Fernandez cancels out Ryan Gravenberch's strike at a restless Anfield as Liverpool were held by a Chelsea side whose run of six consecutive Premier League defeats came to an end. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Premier League highlights: Liverpool 1-1 Chelsea. https://www.bbc.com/sport/football/videos/cn9pvgndjw5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
