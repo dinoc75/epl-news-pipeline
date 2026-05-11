@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-11 09:57 (America/Winnipeg)  |  2026-05-11 14:57 (UTC)
+**Generated:** 2026-05-11 14:50 (America/Winnipeg)  |  2026-05-11 19:50 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- World Cup of Darts: Luke Littler and Luke Humphries lead Team England; Gerwyn Price absent from June tournament
-- Beth Mead to leave Arsenal at end of season
-- Beth Mead to leave Arsenal: England international to depart Women's Super League club this summer
+- Manchester United or Liverpool: Who will finish higher next season? Paul Merson makes BOLD prediction
+- Premier League set to reject extended powers for VAR next season
+- Leo Scienza interview: Southampton's Brazilian star on his "crazy" journey to the cusp of the Premier League
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Xabi Alonso, Andoni Iraola and Marco Silva on Chelsea shortlist as Blues eye new boss
-**Slug (lower-third):** Xabi Alonso, Andoni Iraola and Marco Silva on Chelsea sho…  
-**When:** 2026-05-11 07:13 (America/Winnipeg)  •  **Published:** 2026-05-11 12:13 (UTC)  
+## Story 1: Benfica to target Fulham's Marco Silva if they lose Jose Mourinho to Real Madrid
+**Slug (lower-third):** Benfica to target Fulham's Marco Silva if they lose Jose …  
+**When:** 2026-05-11 11:46 (America/Winnipeg)  •  **Published:** 2026-05-11 16:46 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Xabi Alonso, Andoni Iraola and Marco Silva on Chelsea shortlist as Blues eye new boss. Kaveh Solhekol indicates that Chelsea are hoping to finalise a deal for their new head coach before the World Cup, with Xabi Alonso, Andoni Iraola and Marco Silva in the shortlist for the role. Relevance to standings and momentum.
+Benfica to target Fulham's Marco Silva if they lose Jose Mourinho to Real Madrid. Benfica will attempt to recruit Marco Silva as the successor to Jose Mourinho if Real Madrid bring their former manager back to the Bernabeu Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,31 @@ Xabi Alonso, Andoni Iraola and Marco Silva on Chelsea shortlist as Blues eye new
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Xabi Alonso, Andoni Iraola and Marco Silva on Chelsea shortlist as Blues eye new boss. https://www.skysports.com/watch/video/13542687/xabi-alonso-andoni-iraola-and-marco-silva-on-chelsea-shortlist-as-blues-eye-new-boss
+- theguardian.com — Benfica to target Fulham's Marco Silva if they lose Jose Mourinho to Real Madrid. https://www.theguardian.com/football/2026/may/11/benfica-jose-mourinho-marco-silva-real-madrid-fulham-chelsea
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Chelsea contact prospective candidates in search for new head coach
+**Slug (lower-third):** Chelsea contact prospective candidates in search for new …  
+**When:** 2026-05-11 10:19 (America/Winnipeg)  •  **Published:** 2026-05-11 15:19 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea contact prospective candidates in search for new head coach. Chelsea are starting to make contact with prospective managerial candidates as they move towards appointing the club's next permanent head coach, including Andoni Iraola, Xabi Alonso, Marco Silva, and Oliver Glasner. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Chelsea contact prospective candidates in search for new head coach. https://www.bbc.com/sport/football/articles/c9v3rpe7gzlo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +66,13 @@ Xabi Alonso, Andoni Iraola and Marco Silva on Chelsea shortlist as Blues eye new
 
 ### Transfers
 
-## Story 2: Beth Mead to leave Arsenal: England international to depart Women's Super League club this summer
-**Slug (lower-third):** Beth Mead to leave Arsenal: England international to depa…  
-**When:** 2026-05-11 09:00 (America/Winnipeg)  •  **Published:** 2026-05-11 14:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+## Story 3: Marcus Rashford's Barcelona future remains uncertain
+**Slug (lower-third):** Marcus Rashford's Barcelona future remains uncertain  
+**When:** 2026-05-11 10:55 (America/Winnipeg)  •  **Published:** 2026-05-11 15:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Beth Mead to leave Arsenal: England international to depart Women's Super League club this summer. Beth Mead will leave Arsenal at the end of the season when her contract expires; the forward leaves after nine seasons in north London where she made 265 appearances for the club, scoring 86 goals Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Marcus Rashford's Barcelona future remains uncertain. Marcus Rashford has an uncertain future despite the on-loan Manchester United forward scoring a brilliant free-kick for Barcelona in El Clasico. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +81,7 @@ Beth Mead to leave Arsenal: England international to depart Women's Super League
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Beth Mead to leave Arsenal: England international to depart Women's Super League club this summer. https://www.skysports.com/football/news/12040/13542624/beth-mead
+- bbc.com — Marcus Rashford's Barcelona future remains uncertain. https://www.bbc.com/sport/football/articles/clypn3d2jd8o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,10 +92,10 @@ Beth Mead to leave Arsenal: England international to depart Women's Super League
 
 ### Injuries
 
-## Story 3: World Cup of Darts: Luke Littler and Luke Humphries lead Team England; Gerwyn Price absent from June tournament
+## Story 4: World Cup of Darts: Luke Littler and Luke Humphries lead Team England; Gerwyn Price absent from June tournament
 **Slug (lower-third):** World Cup of Darts: Luke Littler and Luke Humphries lead …  
 **When:** 2026-05-11 10:00 (America/Winnipeg)  •  **Published:** 2026-05-11 15:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+**Virality score:** 98  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
 World Cup of Darts: Luke Littler and Luke Humphries lead Team England; Gerwyn Price absent from June tournament. Luke Littler and Luke Humphries return to represent Team England at the World Cup of Darts; Gerwyn Price absent for Wales as Cameron Menzies replaces Peter Wright for Scotland; Watch the World Cup of Darts live on Sky Sports between June 11-14 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -94,13 +118,13 @@ World Cup of Darts: Luke Littler and Luke Humphries lead Team England; Gerwyn Pr
 
 ### League & Regulation
 
-## Story 4: Victor Wembanyama in disbelief at elbow ejection as Spurs lose: 'What does that mean?'
-**Slug (lower-third):** Victor Wembanyama in disbelief at elbow ejection as Spurs…  
-**When:** 2026-05-11 01:23 (America/Winnipeg)  •  **Published:** 2026-05-11 06:23 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 5: Premier League set to reject extended powers for VAR next season
+**Slug (lower-third):** Premier League set to reject extended powers for VAR next…  
+**When:** 2026-05-11 13:00 (America/Winnipeg)  •  **Published:** 2026-05-11 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Victor Wembanyama in disbelief at elbow ejection as Spurs lose: 'What does that mean?'. The moment Victor Wembanyama was ejected for an elbow on Naz Reid as San Antonio Spurs lost to the Minnesota Timberwolves to even up the series at 2-2. Disciplinary outcome could affect availability.
+Premier League set to reject extended powers for VAR next season. The video assistant referee will be permitted to rule on the award of corners and second yellow cards from next month, in time for the World Cup, but Ifab has made the new law discretionary and PGMO has advised against it Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,7 +133,7 @@ Victor Wembanyama in disbelief at elbow ejection as Spurs lose: 'What does that 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Victor Wembanyama in disbelief at elbow ejection as Spurs lose: 'What does that mean?'. https://www.skysports.com/watch/video/13542599/victor-wembanyama-in-disbelief-at-elbow-ejection-as-spurs-lose-what-does-that-mean
+- theguardian.com — Premier League set to reject extended powers for VAR next season. https://www.theguardian.com/football/2026/may/11/premier-league-set-to-reject-extended-powers-for-var-next-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -120,13 +144,13 @@ Victor Wembanyama in disbelief at elbow ejection as Spurs lose: 'What does that 
 
 ### Club Updates
 
-## Story 5: Beth Mead to leave Arsenal at end of season
-**Slug (lower-third):** Beth Mead to leave Arsenal at end of season  
-**When:** 2026-05-11 09:49 (America/Winnipeg)  •  **Published:** 2026-05-11 14:49 (UTC)  
+## Story 6: Manchester United or Liverpool: Who will finish higher next season? Paul Merson makes BOLD prediction
+**Slug (lower-third):** Manchester United or Liverpool: Who will finish higher ne…  
+**When:** 2026-05-11 15:01 (America/Winnipeg)  •  **Published:** 2026-05-11 20:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Beth Mead to leave Arsenal at end of season. Beth Mead says it "breaks her heart" to leave Arsenal after it is announced the forward will depart the club at the end of the season. Relevance to standings and momentum.
+Manchester United or Liverpool: Who will finish higher next season? Paul Merson makes BOLD prediction. Who does Paul Merson think will finish higher between Liverpool and Manchester United next season? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -135,7 +159,7 @@ Beth Mead to leave Arsenal at end of season. Beth Mead says it "breaks her heart
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Beth Mead to leave Arsenal at end of season. https://www.bbc.com/sport/football/articles/cm2p62jq70qo?at_medium=RSS&at_campaign=rss
+- skysports.com — Manchester United or Liverpool: Who will finish higher next season? Paul Merson makes BOLD prediction. https://www.skysports.com/watch/video/13542846/paul-merson-makes-bold-prediction-on-man-utd-and-liverpool-next-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -144,13 +168,13 @@ Beth Mead to leave Arsenal at end of season. Beth Mead says it "breaks her heart
 
 ---
 
-## Story 6: Republic of Ireland squad: Rory Finneran in as Jaden Umeh pulls out of Republic of Ireland squad
-**Slug (lower-third):** Republic of Ireland squad: Rory Finneran in as Jaden Umeh…  
-**When:** 2026-05-11 08:56 (America/Winnipeg)  •  **Published:** 2026-05-11 13:56 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Leo Scienza interview: Southampton's Brazilian star on his "crazy" journey to the cusp of the Premier League
+**Slug (lower-third):** Leo Scienza interview: Southampton's Brazilian star on hi…  
+**When:** 2026-05-11 12:15 (America/Winnipeg)  •  **Published:** 2026-05-11 17:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Republic of Ireland squad: Rory Finneran in as Jaden Umeh pulls out of Republic of Ireland squad. Newcastle United defender Rory Finneran receives his first call-up to the Republic of Ireland senior squad for their friendly against Grenada. Relevance to standings and momentum.
+Leo Scienza interview: Southampton's Brazilian star on his "crazy" journey to the cusp of the Premier League. Leo Scienza has been one of the stars of the Championship season for Southampton. Watch the second leg of the Championship play-off semi-final between Southampton and Middlesbrough live on Sky Sports Football from 7.30pm on Tuesday night; kick-off 8pm. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -159,7 +183,7 @@ Republic of Ireland squad: Rory Finneran in as Jaden Umeh pulls out of Republic 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Republic of Ireland squad: Rory Finneran in as Jaden Umeh pulls out of Republic of Ireland squad. https://www.bbc.com/sport/football/articles/cj4pexw0pjeo?at_medium=RSS&at_campaign=rss
+- skysports.com — Leo Scienza interview: Southampton's Brazilian star on his "crazy" journey to the cusp of the Premier League. https://www.skysports.com/football/news/12040/13542076/leo-scienza-interview
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -168,7 +192,7 @@ Republic of Ireland squad: Rory Finneran in as Jaden Umeh pulls out of Republic 
 
 ---
 
-## Story 7: 'Forever 20': Liverpool release images of memorial to Diogo Jota and Andre Silva
+## Story 8: 'Forever 20': Liverpool release images of memorial to Diogo Jota and Andre Silva
 **Slug (lower-third):** 'Forever 20': Liverpool release images of memorial to Dio…  
 **When:** 2026-05-11 04:45 (America/Winnipeg)  •  **Published:** 2026-05-11 09:45 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -193,13 +217,13 @@ Republic of Ireland squad: Rory Finneran in as Jaden Umeh pulls out of Republic 
 
 ---
 
-## Story 8: Newcastle: Dan Burn on therapy, mental health and helping others
-**Slug (lower-third):** Newcastle: Dan Burn on therapy, mental health and helping…  
-**When:** 2026-05-11 04:18 (America/Winnipeg)  •  **Published:** 2026-05-11 09:18 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 9: Premier League corners: Five fouls in one move - breaking down corner chaos
+**Slug (lower-third):** Premier League corners: Five fouls in one move - breaking…  
+**When:** 2026-05-11 10:42 (America/Winnipeg)  •  **Published:** 2026-05-11 15:42 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle: Dan Burn on therapy, mental health and helping others. Newcastle United defender Dan Burn says therapy worked "quite well" for him as he urges those struggling with their mental health to seek help. Relevance to standings and momentum.
+Premier League corners: Five fouls in one move - breaking down corner chaos. The Premier League season has been defined by set-piece drama. It came to a head at West Ham on Sunday, when the VAR could have penalised any one of a handful of potential fouls. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -208,7 +232,7 @@ Newcastle: Dan Burn on therapy, mental health and helping others. Newcastle Unit
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Newcastle: Dan Burn on therapy, mental health and helping others. https://www.bbc.com/sport/football/articles/c5ye82vnr93o?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League corners: Five fouls in one move - breaking down corner chaos. https://www.bbc.com/sport/football/articles/cd9p01l1x5zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -217,13 +241,13 @@ Newcastle: Dan Burn on therapy, mental health and helping others. Newcastle Unit
 
 ---
 
-## Story 9: Today on Sky Sports Racing: Southwell, Wolverhampton and Windsor as Desert Cop headlines Sprint Series Qualifier
-**Slug (lower-third):** Today on Sky Sports Racing: Southwell, Wolverhampton and …  
-**When:** 2026-05-11 02:00 (America/Winnipeg)  •  **Published:** 2026-05-11 07:00 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~23s
+## Story 10: Bosnia World Cup squad: Edin Dzeko to join list of plays aged over 40 to play at a World Cup
+**Slug (lower-third):** Bosnia World Cup squad: Edin Dzeko to join list of plays …  
+**When:** 2026-05-11 10:28 (America/Winnipeg)  •  **Published:** 2026-05-11 15:28 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Southwell, Wolverhampton and Windsor as Desert Cop headlines Sprint Series Qualifier. Desert Cop and Zoulu Chief set the standard in a hotly-contested Sprint Series Qualifier at Windsor; we are racing across both codes this afternoon, with jumps action from Southwell and we're on the All-Weather at Wolverhampton, live on Sky Sports Racing from 1.30pm. Relevance to standings and momentum.
+Bosnia World Cup squad: Edin Dzeko to join list of plays aged over 40 to play at a World Cup. Former Manchester City striker Edin Dzeko is set to join exclusive list of players aged over 40 to play in a World Cup. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -232,31 +256,7 @@ Today on Sky Sports Racing: Southwell, Wolverhampton and Windsor as Desert Cop h
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Southwell, Wolverhampton and Windsor as Desert Cop headlines Sprint Series Qualifier. https://www.skysports.com/racing/news/12040/13542261/today-on-sky-sports-racing-southwell-wolverhampton-and-windsor-as-desert-cop-headlines-sprint-series-qualifier
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Tottenham hope to exorcise demons just as Kinsky has done after Atletico debacle
-**Slug (lower-third):** Tottenham hope to exorcise demons just as Kinsky has done…  
-**When:** 2026-05-11 01:09 (America/Winnipeg)  •  **Published:** 2026-05-11 06:09 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham hope to exorcise demons just as Kinsky has done after Atletico debacle. Goalkeeper has begun to rebuild his reputation under Roberto De Zerbi, whose attitude has helped Spurs in fight for Premier League survival Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Tottenham hope to exorcise demons just as Kinsky has done after Atletico debacle. https://www.theguardian.com/football/2026/may/11/antonin-kinsky-roberto-de-zerbi-spurs-premier-league-survival
+- bbc.com — Bosnia World Cup squad: Edin Dzeko to join list of plays aged over 40 to play at a World Cup. https://www.bbc.com/sport/football/articles/cx21n45qr1xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
