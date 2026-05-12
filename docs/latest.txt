@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-12 03:42 (America/Winnipeg)  |  2026-05-12 08:42 (UTC)
+**Generated:** 2026-05-12 09:29 (America/Winnipeg)  |  2026-05-12 14:29 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 55s
+**Estimated total video length:** ~4m 50s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Spurs 1-1 Leeds | Premier League highlights
-- Tottenham 1-1 Leeds United: Daniel Farke post-match interview
-- Roberto De Zerbi says match officials were 'not calm' during Tottenham's draw against Leeds as late penalty claim waved away
+- Xabi Alonso: Former Real Madrid and Bayer Leverkusen coach has dilemma of moving to Chelsea or waiting for 'dream' Liverpool job
+- 'He's inspired generations': Stormzy to produce biopic about football great Ian Wright
+- Watch every angle of Lukas Nmecha's challenge on James Maddison | Did he touch the ball?
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Jarrod Bowen transfer news: Three Premier League clubs targeting West Ham forward - Paper Talk
-**Slug (lower-third):** Jarrod Bowen transfer news: Three Premier League clubs ta…  
-**When:** 2026-05-11 17:58 (America/Winnipeg)  •  **Published:** 2026-05-11 22:58 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~28s
+## Story 1: Xabi Alonso: Former Real Madrid and Bayer Leverkusen coach has dilemma of moving to Chelsea or waiting for 'dream' Liverpool job
+**Slug (lower-third):** Xabi Alonso: Former Real Madrid and Bayer Leverkusen coac…  
+**When:** 2026-05-12 09:40 (America/Winnipeg)  •  **Published:** 2026-05-12 14:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~32s
 
 ### Presenter Script (3–5 sentences)
-Jarrod Bowen transfer news: Three Premier League clubs targeting West Ham forward - Paper Talk. Tuesdays top stories include Man Utd considering a move for Atalanta midfielder Ederson; Chelsea are exploring a deal to appoint Xabi Alonso as the clubs new head coach; the Premier League is to reject widening the scope of VAR next season; Chelsea meet Bournemouth boss Andoni Iraola Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Xabi Alonso: Former Real Madrid and Bayer Leverkusen coach has dilemma of moving to Chelsea or waiting for 'dream' Liverpool job. Xabi Alonso has been out of work since being sacked by Real Madrid earlier this year; Chelsea are looking for a permanent replacement for Liam Rosenior, who was let go after just four months in charge; Alonso had been linked with the Liverpool role but Arne Slot looks set to stay Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Jarrod Bowen transfer news: Three Premier League clubs targeting West Ham forwar
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Jarrod Bowen transfer news: Three Premier League clubs targeting West Ham forward - Paper Talk. https://www.skysports.com/football/news/12040/13542928/jarrod-bowen-transfer-news-three-premier-league-clubs-targeting-west-ham-forward-paper-talk
+- skysports.com — Xabi Alonso: Former Real Madrid and Bayer Leverkusen coach has dilemma of moving to Chelsea or waiting for 'dream' Liverpool job. https://www.skysports.com/football/news/12040/13543053/xabi-alonso-former-real-madrid-and-bayer-leverkusen-coach-has-dilemma-of-moving-to-chelsea-or-waiting-for-dream-liverpool-job
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,15 @@ Jarrod Bowen transfer news: Three Premier League clubs targeting West Ham forwar
 
 ---
 
-### Transfers
+### Injuries
 
-## Story 2: Football gossip: Bowen, Akliouche, Camara, Jackson, Fernandes, Ederson, Flick, Martinez, Sadiki
-**Slug (lower-third):** Football gossip: Bowen, Akliouche, Camara, Jackson, Ferna…  
-**When:** 2026-05-11 15:16 (America/Winnipeg)  •  **Published:** 2026-05-11 20:16 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 2: Mark Webster: Sky Sports Darts pundit to return to Premier League coverage after cancer diagnosis
+**Slug (lower-third):** Mark Webster: Sky Sports Darts pundit to return to Premie…  
+**When:** 2026-05-12 07:20 (America/Winnipeg)  •  **Published:** 2026-05-12 12:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Bowen, Akliouche, Camara, Jackson, Fernandes, Ederson, Flick, Martinez, Sadiki. Multiple clubs interested in West Ham captain Jarrod Bowen, Liverpool eye Monaco duo Maghnes Akliouche and Lamine Camara, and Juventus considering a loan move for Nicolas Jackson. Implications for the squad and table.
+Mark Webster: Sky Sports Darts pundit to return to Premier League coverage after cancer diagnosis. Sky Sports Darts pundit Mark Webster to return to commentary duties for Thursdays Premier League Darts event in Birmingham after improvement in condition; Webster revealed he has been diagnosed with hairy cell leukaemia and has not worked since starting chemotherapy in January Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,7 @@ Football gossip: Bowen, Akliouche, Camara, Jackson, Fernandes, Ederson, Flick, M
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Bowen, Akliouche, Camara, Jackson, Fernandes, Ederson, Flick, Martinez, Sadiki. https://www.bbc.com/sport/football/articles/ce8p3v615k6o?at_medium=RSS&at_campaign=rss
+- skysports.com — Mark Webster: Sky Sports Darts pundit to return to Premier League coverage after cancer diagnosis. https://www.skysports.com/darts/news/12040/13543072/mark-webster-sky-sports-darts-pundit-to-return-to-premier-league-coverage-after-cancer-diagnosis
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +68,13 @@ Football gossip: Bowen, Akliouche, Camara, Jackson, Fernandes, Ederson, Flick, M
 
 ### League & Regulation
 
-## Story 3: Premier League set to reject extended powers for VAR next season
-**Slug (lower-third):** Premier League set to reject extended powers for VAR next…  
-**When:** 2026-05-11 13:00 (America/Winnipeg)  •  **Published:** 2026-05-11 18:00 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~24s
+## Story 3: Southampton begin internal review over spying claims
+**Slug (lower-third):** Southampton begin internal review over spying claims  
+**When:** 2026-05-12 05:08 (America/Winnipeg)  •  **Published:** 2026-05-12 10:08 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League set to reject extended powers for VAR next season. The video assistant referee will be permitted to rule on the award of corners and second yellow cards from next month, in time for the World Cup, but Ifab has made the new law discretionary and PGMO has advised against it Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Southampton begin internal review over spying claims. Southampton request more time to conduct an internal review after being charged with spying on Championship play-off rivals Middlesbrough. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,10 +83,10 @@ Premier League set to reject extended powers for VAR next season. The video assi
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League set to reject extended powers for VAR next season. https://www.theguardian.com/football/2026/may/11/premier-league-set-to-reject-extended-powers-for-var-next-season
+- bbc.com — Southampton begin internal review over spying claims. https://www.bbc.com/sport/football/articles/cx21kpmdj97o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -94,13 +94,37 @@ Premier League set to reject extended powers for VAR next season. The video assi
 
 ### Club Updates
 
-## Story 4: Spurs 1-1 Leeds | Premier League highlights
-**Slug (lower-third):** Spurs 1-1 Leeds | Premier League highlights  
-**When:** 2026-05-11 17:29 (America/Winnipeg)  •  **Published:** 2026-05-11 22:29 (UTC)  
+## Story 4: 'He's inspired generations': Stormzy to produce biopic about football great Ian Wright
+**Slug (lower-third):** 'He's inspired generations': Stormzy to produce biopic ab…  
+**When:** 2026-05-12 08:47 (America/Winnipeg)  •  **Published:** 2026-05-12 13:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+'He's inspired generations': Stormzy to produce biopic about football great Ian Wright. The Crystal Palace, Arsenal and England striker says his life story - now in development with the rapper's Merky Films - has 'hard-hitting moments, but in the end I want it to give people hope and joy' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'He's inspired generations': Stormzy to produce biopic about football great Ian Wright. https://www.theguardian.com/film/2026/may/12/stormzy-producing-ian-wright-biopic
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Watch every angle of Lukas Nmecha's challenge on James Maddison | Did he touch the ball?
+**Slug (lower-third):** Watch every angle of Lukas Nmecha's challenge on James Ma…  
+**When:** 2026-05-12 08:05 (America/Winnipeg)  •  **Published:** 2026-05-12 13:05 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Spurs 1-1 Leeds | Premier League highlights. FREE TO WATCH: Highlights from Spurs' match against Leeds in the Premier League. Relevance to standings and momentum.
+Watch every angle of Lukas Nmecha's challenge on James Maddison | Did he touch the ball?. Tottenham Hotspur were denied a penalty in the 103rd minute of their Premier League clash against Leeds United after it was deemed that Lukas Nmechas challenge on James Maddison was fair. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,8 +133,7 @@ Spurs 1-1 Leeds | Premier League highlights. FREE TO WATCH: Highlights from Spur
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Spurs 1-1 Leeds | Premier League highlights. https://www.skysports.com/watch/video/13542930/spurs-1-1-leeds-premier-league-highlights
-- bbc.com — Premier League highlights: Tottenham 1-1 Leeds United. https://www.bbc.com/sport/football/videos/cqlpydrv2kyo?at_medium=RSS&at_campaign=rss
+- skysports.com — Watch every angle of Lukas Nmecha's challenge on James Maddison | Did he touch the ball?. https://www.skysports.com/watch/video/13543103/watch-every-angle-of-lukas-nmechas-challenge-on-james-maddison-did-he-touch-the-ball
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -119,13 +142,13 @@ Spurs 1-1 Leeds | Premier League highlights. FREE TO WATCH: Highlights from Spur
 
 ---
 
-## Story 5: Tottenham 1-1 Leeds United: Daniel Farke post-match interview
-**Slug (lower-third):** Tottenham 1-1 Leeds United: Daniel Farke post-match inter…  
-**When:** 2026-05-11 17:07 (America/Winnipeg)  •  **Published:** 2026-05-11 22:07 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 6: Premier League relegation battle: Will it be Tottenham or West Ham who survive?
+**Slug (lower-third):** Premier League relegation battle: Will it be Tottenham or…  
+**When:** 2026-05-12 07:46 (America/Winnipeg)  •  **Published:** 2026-05-12 12:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham 1-1 Leeds United: Daniel Farke post-match interview. Leeds boss Daniel Farke is pleased with the "mentality" and "resilience" shown by his side as they earned a 1-1 draw away at Tottenham thanks to Dominic Calvert-Lewin's 74th-minute penalty. Relevance to standings and momentum.
+Premier League relegation battle: Will it be Tottenham or West Ham who survive?. With two games remaining of the Premier League season, Tottenham and West Ham are the two horses left in the race to avoid relegation. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -134,7 +157,7 @@ Tottenham 1-1 Leeds United: Daniel Farke post-match interview. Leeds boss Daniel
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tottenham 1-1 Leeds United: Daniel Farke post-match interview. https://www.bbc.com/sport/football/videos/cq6pm40e6r7o?at_medium=RSS&at_campaign=rss
+- bbc.com — Premier League relegation battle: Will it be Tottenham or West Ham who survive?. https://www.bbc.com/sport/football/articles/c5y0kp74gyeo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -143,13 +166,13 @@ Tottenham 1-1 Leeds United: Daniel Farke post-match interview. Leeds boss Daniel
 
 ---
 
-## Story 6: Roberto De Zerbi says match officials were 'not calm' during Tottenham's draw against Leeds as late penalty claim waved away
-**Slug (lower-third):** Roberto De Zerbi says match officials were 'not calm' dur…  
-**When:** 2026-05-11 18:30 (America/Winnipeg)  •  **Published:** 2026-05-11 23:30 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~30s
+## Story 7: History makers Brighton are shaking up old order and not hiding ambition
+**Slug (lower-third):** History makers Brighton are shaking up old order and not …  
+**When:** 2026-05-12 05:20 (America/Winnipeg)  •  **Published:** 2026-05-12 10:20 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Roberto De Zerbi says match officials were 'not calm' during Tottenham's draw against Leeds as late penalty claim waved away. Tottenham boss Roberto De Zerbi has said referee Jarred Gillett was not calm during the 1-1 draw with Leeds; Daniel Farkes side equalised from a penalty but it needed VAR to intervene after not initially being given; James Maddisons late claim for a penalty was also waved away Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+History makers Brighton are shaking up old order and not hiding ambition. Team are in their first Women's FA Cup final but their coach, Dario Vidosic, is determined to keep aiming higher Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -158,7 +181,7 @@ Roberto De Zerbi says match officials were 'not calm' during Tottenham's draw ag
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Roberto De Zerbi says match officials were 'not calm' during Tottenham's draw against Leeds as late penalty claim waved away. https://www.skysports.com/football/news/12040/13542748/roberto-de-zerbi-says-match-officials-were-not-calm-during-tottenhams-draw-against-leeds-as-late-penalty-claim-waved-away
+- theguardian.com — History makers Brighton are shaking up old order and not hiding ambition. https://www.theguardian.com/football/2026/may/12/brighton-womens-fa-cup-final-ambition
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +190,13 @@ Roberto De Zerbi says match officials were 'not calm' during Tottenham's draw ag
 
 ---
 
-## Story 7: Sergej Jakirovic says taking Hull to the Championship play-off final is "the best thing I've experienced in football"
-**Slug (lower-third):** Sergej Jakirovic says taking Hull to the Championship pla…  
-**When:** 2026-05-11 18:15 (America/Winnipeg)  •  **Published:** 2026-05-11 23:15 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~25s
+## Story 8: David Squires on ... Arsenal, West Ham and a Royal Rumble for the ages
+**Slug (lower-third):** David Squires on ... Arsenal, West Ham and a Royal Rumble…  
+**When:** 2026-05-12 05:02 (America/Winnipeg)  •  **Published:** 2026-05-12 10:02 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sergej Jakirovic says taking Hull to the Championship play-off final is "the best thing I've experienced in football". Sergej Jakirovic says his players have achieved something that was just a dream at the beginning of the season; Hull will face either Southampton or Middlesbrough in the Championship play-off final at Wembley on Saturday May 23 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+David Squires on ... Arsenal, West Ham and a Royal Rumble for the ages. Our cartoonist on the Premier League title potentially being decided by a lengthy VAR check after goalmouth grappling Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +205,7 @@ Sergej Jakirovic says taking Hull to the Championship play-off final is "the bes
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sergej Jakirovic says taking Hull to the Championship play-off final is "the best thing I've experienced in football". https://www.skysports.com/football/news/12040/13542785/sergej-jakirovic-says-taking-hull-to-the-championship-play-off-final-is-the-best-thing-ive-experienced-in-football
+- theguardian.com — David Squires on ... Arsenal, West Ham and a Royal Rumble for the ages. https://www.theguardian.com/football/picture/2026/may/12/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +214,13 @@ Sergej Jakirovic says taking Hull to the Championship play-off final is "the bes
 
 ---
 
-## Story 8: Tottenham: Antonin Kinsky earns redemption with huge save against Leeds United
-**Slug (lower-third):** Tottenham: Antonin Kinsky earns redemption with huge save…  
-**When:** 2026-05-11 18:01 (America/Winnipeg)  •  **Published:** 2026-05-11 23:01 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 9: Southampton launch internal review into Middlesbrough spying allegations
+**Slug (lower-third):** Southampton launch internal review into Middlesbrough spy…  
+**When:** 2026-05-12 04:45 (America/Winnipeg)  •  **Published:** 2026-05-12 09:45 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham: Antonin Kinsky earns redemption with huge save against Leeds United. Two months after many thought Antonin Kinsky would never play for Tottenham again the goalkeeper makes one of the saves of the season to earn Spurs a point in their fight for Premier League survival. Relevance to standings and momentum.
+Southampton launch internal review into Middlesbrough spying allegations. Southampton have confirmed they have launched an interval review into allegations that one of their analysts spied on a Middlesbrough training session Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +229,7 @@ Tottenham: Antonin Kinsky earns redemption with huge save against Leeds United. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Tottenham: Antonin Kinsky earns redemption with huge save against Leeds United. https://www.bbc.com/sport/football/articles/czx2en0vzvgo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Southampton launch internal review into Middlesbrough spying allegations. https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +238,13 @@ Tottenham: Antonin Kinsky earns redemption with huge save against Leeds United. 
 
 ---
 
-## Story 9: Football Daily - MNC: Arsenal's VAR victory & missed chance for Spurs? - BBC Sounds
-**Slug (lower-third):** Football Daily - MNC: Arsenal's VAR victory & missed chan…  
-**When:** 2026-05-11 17:26 (America/Winnipeg)  •  **Published:** 2026-05-11 22:26 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 10: James Maddison penalty incident: Should Spurs have been given 103rd-minute penalty for challenge by Leeds striker Lukas Nmecha?
+**Slug (lower-third):** James Maddison penalty incident: Should Spurs have been g…  
+**When:** 2026-05-12 04:38 (America/Winnipeg)  •  **Published:** 2026-05-12 09:38 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Football Daily - MNC: Arsenal's VAR victory & missed chance for Spurs? - BBC Sounds. Was David Raya fouled, did VAR get it right and is a draw a missed opportunity for Spurs? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+James Maddison penalty incident: Should Spurs have been given 103rd-minute penalty for challenge by Leeds striker Lukas Nmecha?. Tottenham were denied a late penalty by VAR in their 1-1 draw vs Leeds; James Maddison was felled by Lukas Nmecha but referee Jarred Gillett and VAR felt the Leeds striker got the ball; Roberto De Zerbi said the official wasnt calm as Spurs relegation fears carry on Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,31 +253,7 @@ Football Daily - MNC: Arsenal's VAR victory & missed chance for Spurs? - BBC Sou
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football Daily - MNC: Arsenal's VAR victory & missed chance for Spurs? - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0nknytp?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Jamie Carragher: David Raya was fouled vs West Ham - some people just don't want Arsenal to win the Premier League title
-**Slug (lower-third):** Jamie Carragher: David Raya was fouled vs West Ham - some…  
-**When:** 2026-05-11 15:30 (America/Winnipeg)  •  **Published:** 2026-05-11 20:30 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Jamie Carragher: David Raya was fouled vs West Ham - some people just don't want Arsenal to win the Premier League title. Jamie Carragher on questions about Chris Kavanagh ruling out Callum Wilsons equaliser for West Ham vs Arsenal: The reason theres been so much uproar about it, is there are a lot of people who dont want Arsenal to win the league Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Jamie Carragher: David Raya was fouled vs West Ham - some people just don't want Arsenal to win the Premier League title. https://www.skysports.com/football/news/12040/13542862/jamie-carragher-david-raya-was-fouled-vs-west-ham-people-just-dont-want-arsenal-to-win-the-premier-league-title
+- skysports.com — James Maddison penalty incident: Should Spurs have been given 103rd-minute penalty for challenge by Leeds striker Lukas Nmecha?. https://www.skysports.com/football/news/12040/13543009/james-maddison-penalty-incident-should-spurs-have-been-given-103rd-minute-penalty-for-challenge-by-leeds-striker-lukas-nmecha
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
