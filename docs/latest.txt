@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-13 03:47 (America/Winnipeg)  |  2026-05-13 08:47 (UTC)
+**Generated:** 2026-05-13 09:38 (America/Winnipeg)  |  2026-05-13 14:38 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 44s
+**Estimated total video length:** ~4m 54s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Jamie Carragher: Former Liverpool defender joins Marine FC as adviser
-- Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win
-- NBA Playoffs: Victor Wembanyama hits back after first career ejection as San Antonio Spurs lead Minnesota Timberwolves
+- Premier League Darts permutations: How Play-Off spots could be decided in Birmingham before final regular season night in Sheffield
+- FA Youth Cup final: BBC to stream Man City v Man Utd showpiece
+- NFL 2026 international schedule: Record nine games to be played abroad with London hosting three and first-ever in Melbourne, Rio De Janeiro, Paris
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Arne Slot: Liverpool owners face a dilemma over head coach's future
-**Slug (lower-third):** Arne Slot: Liverpool owners face a dilemma over head coac…  
-**When:** 2026-05-13 00:34 (America/Winnipeg)  •  **Published:** 2026-05-13 05:34 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Eddie Jones banned for four matches by Japan RFU for 'verbal abuse' towards officials during U23 tour of Australia
+**Slug (lower-third):** Eddie Jones banned for four matches by Japan RFU for 'ver…  
+**When:** 2026-05-13 08:41 (America/Winnipeg)  •  **Published:** 2026-05-13 13:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Arne Slot: Liverpool owners face a dilemma over head coach's future. Liverpool owners FSG face a dilemma as they consider whether to react to growing fan dissent against Arne Slot, says chief football writer Phil McNulty. Relevance to standings and momentum.
+Eddie Jones banned for four matches by Japan RFU for 'verbal abuse' towards officials during U23 tour of Australia. Japan head coach Eddie Jones handed six-week suspension and unspecified salary reduction by the countrys RFU for verbal abuse directed at match officials during U23s tour of Australia; Jones, who will also miss Japans next four matches, says I deeply regret my words and actions Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Arne Slot: Liverpool owners face a dilemma over head coach's future. Liverpool o
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arne Slot: Liverpool owners face a dilemma over head coach's future. https://www.bbc.com/sport/football/articles/cm2p08gllrko?at_medium=RSS&at_campaign=rss
+- skysports.com — Eddie Jones banned for four matches by Japan RFU for 'verbal abuse' towards officials during U23 tour of Australia. https://www.skysports.com/rugby-union/news/12040/13543570/eddie-jones-banned-for-four-matches-by-japan-rfu-for-verbal-abuse-towards-officials-during-u23-tour-of-australia
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Arne Slot: Liverpool owners face a dilemma over head coach's future. Liverpool o
 
 ---
 
-## Story 2: Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' saga 'breaks my heart' after Boro beaten by Southampton
-**Slug (lower-third):** Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' …  
-**When:** 2026-05-12 19:30 (America/Winnipeg)  •  **Published:** 2026-05-13 00:30 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~27s
+## Story 2: Should Liverpool stick with Arne Slot or is it time for a change?
+**Slug (lower-third):** Should Liverpool stick with Arne Slot or is it time for a…  
+**When:** 2026-05-13 06:00 (America/Winnipeg)  •  **Published:** 2026-05-13 11:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' saga 'breaks my heart' after Boro beaten by Southampton. Boro lost 2-1 on aggregate to Saints in the Sky Bet Championship play-off semi-finals; Boro boss Kim Hellberg said situation was disgraceful and breaks my heart; Saints head coach Tonda Eckert again walked out of his post-match press conference amid questions over Spygate Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Should Liverpool stick with Arne Slot or is it time for a change?. Slot won the league in his first season but Liverpool's title defence has been disappointing. Should he stay or go? Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,33 @@ Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' saga 'breaks my heart' 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' saga 'breaks my heart' after Boro beaten by Southampton. https://www.skysports.com/football/news/12040/13543134/dnp-spygate-shell-for-after-saints-boro
+- theguardian.com — Should Liverpool stick with Arne Slot or is it time for a change?. https://www.theguardian.com/football/2026/may/13/liverpool-arne-slot-time-change-league-title-defence
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: NFL 2026 international schedule: Record nine games to be played abroad with London hosting three and first-ever in Melbourne, Rio De Janeiro, Paris
+**Slug (lower-third):** NFL 2026 international schedule: Record nine games to be …  
+**When:** 2026-05-13 09:00 (America/Winnipeg)  •  **Published:** 2026-05-13 14:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+NFL 2026 international schedule: Record nine games to be played abroad with London hosting three and first-ever in Melbourne, Rio De Janeiro, Paris. London to host three NFL games in 2026 at Tottenham Hotspur Stadium (two) and Wembley; Defending champions Philadelphia Eagles coming to Tottenham; Watch 2026 NFL season live on Sky Sports; Get Sky Sports or stream with no contract on NOW Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — NFL 2026 international schedule: Record nine games to be played abroad with London hosting three and first-ever in Melbourne, Rio De Janeiro, Paris. https://www.skysports.com/nfl/news/12040/13543457/nfl-2026-international-schedule-record-nine-games-to-be-played-abroad-with-london-hosting-three-and-first-ever-in-melbourne-rio-de-janeiro-paris
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +92,13 @@ Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' saga 'breaks my heart' 
 
 ### League & Regulation
 
-## Story 3: NBA Playoffs: Victor Wembanyama hits back after first career ejection as San Antonio Spurs lead Minnesota Timberwolves
-**Slug (lower-third):** NBA Playoffs: Victor Wembanyama hits back after first car…  
-**When:** 2026-05-13 02:25 (America/Winnipeg)  •  **Published:** 2026-05-13 07:25 (UTC)  
+## Story 4: Michael Carrick: Manchester United ready to open talks over him becoming permanent boss
+**Slug (lower-third):** Michael Carrick: Manchester United ready to open talks ov…  
+**When:** 2026-05-13 06:00 (America/Winnipeg)  •  **Published:** 2026-05-13 11:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-NBA Playoffs: Victor Wembanyama hits back after first career ejection as San Antonio Spurs lead Minnesota Timberwolves. The San Antonio Spurs move one victory away from a place in the Western Conference final after 126-97 victory over Minnesota Timberwolves in Game 5; Victor Wembanyama delivered again as he bounced back from first career ejection for elbow on Sunday Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Michael Carrick: Manchester United ready to open talks over him becoming permanent boss. Man Utd ready to open talks with Michael Carrick over becoming permanent boss; Carrick has impressed since taking interim charge, having won 10 of his 15 games in charge to guide Man Utd to Champions League qualification; Man Utds bosses have reached out to other possible candidates Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +107,7 @@ NBA Playoffs: Victor Wembanyama hits back after first career ejection as San Ant
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — NBA Playoffs: Victor Wembanyama hits back after first career ejection as San Antonio Spurs lead Minnesota Timberwolves. https://www.skysports.com/nba/news/12040/13543394/nba-playoffs-victor-wembanyama-hits-back-after-first-career-ejection-as-san-antonio-spurs-lead-minnesota-timberwolves
+- skysports.com — Michael Carrick: Manchester United ready to open talks over him becoming permanent boss. https://www.skysports.com/football/news/12040/13543468/michael-carrick-manchester-united-ready-to-open-talks-over-him-becoming-permanent-boss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +118,13 @@ NBA Playoffs: Victor Wembanyama hits back after first career ejection as San Ant
 
 ### Club Updates
 
-## Story 4: Jamie Carragher: Former Liverpool defender joins Marine FC as adviser
-**Slug (lower-third):** Jamie Carragher: Former Liverpool defender joins Marine F…  
-**When:** 2026-05-13 03:09 (America/Winnipeg)  •  **Published:** 2026-05-13 08:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Premier League Darts permutations: How Play-Off spots could be decided in Birmingham before final regular season night in Sheffield
+**Slug (lower-third):** Premier League Darts permutations: How Play-Off spots cou…  
+**When:** 2026-05-13 09:40 (America/Winnipeg)  •  **Published:** 2026-05-13 14:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Jamie Carragher: Former Liverpool defender joins Marine FC as adviser. Jamie Carragher joins National League North club Marine FC to help out in an advisory capacity. Relevance to standings and momentum.
+Premier League Darts permutations: How Play-Off spots could be decided in Birmingham before final regular season night in Sheffield. Luke Littler and Jonny Clayton have booked their places at Finals Night at The O2 on May 28; Gerwyn Price and Luke Humphries currently occupy the final two Play-Off spots; watch the Premier League Darts in Birmingham on Thursday at 7pm, live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +133,7 @@ Jamie Carragher: Former Liverpool defender joins Marine FC as adviser. Jamie Car
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Jamie Carragher: Former Liverpool defender joins Marine FC as adviser. https://www.bbc.com/sport/football/articles/c2k2zdjx1kxo?at_medium=RSS&at_campaign=rss
+- skysports.com — Premier League Darts permutations: How Play-Off spots could be decided in Birmingham before final regular season night in Sheffield. https://www.skysports.com/darts/news/12040/13535556/premier-league-darts-permutations-luke-humphries-chasing-down-michael-van-gerwen-or-gerwyn-price-for-play-off-spot
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,10 +142,107 @@ Jamie Carragher: Former Liverpool defender joins Marine FC as adviser. Jamie Car
 
 ---
 
-## Story 5: Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win
+## Story 6: FA Youth Cup final: BBC to stream Man City v Man Utd showpiece
+**Slug (lower-third):** FA Youth Cup final: BBC to stream Man City v Man Utd show…  
+**When:** 2026-05-13 09:01 (America/Winnipeg)  •  **Published:** 2026-05-13 14:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+FA Youth Cup final: BBC to stream Man City v Man Utd showpiece. BBC Sport will stream the FA Youth Cup final between Manchester City and Manchester United on Thursday. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — FA Youth Cup final: BBC to stream Man City v Man Utd showpiece. https://www.bbc.com/sport/football/articles/c2027we7x7qo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Could Southampton be kicked out of the play-offs over Spygate?
+**Slug (lower-third):** Could Southampton be kicked out of the play-offs over Spy…  
+**When:** 2026-05-13 08:49 (America/Winnipeg)  •  **Published:** 2026-05-13 13:49 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Could Southampton be kicked out of the play-offs over Spygate?. Southampton will play Hull in the Championship play-off final. Or will they? As Spygate moves towards its conclusion, Middlesbrough could yet head to Wembley. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Could Southampton be kicked out of the play-offs over Spygate?. https://www.bbc.com/sport/football/articles/c052eznrvvdo?at_medium=RSS&at_campaign=rss
+- skysports.com — Spygate: Southampton could be thrown out of Championship play-offs if found guilty of alleged spying on Middlesbrough. https://www.skysports.com/football/news/12040/13543396/spygate-southampton-could-be-thrown-out-of-championship-play-offs-if-found-guilty-of-alleged-spying-on-middlesbrough
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Manchester United chiefs to recommend Michael Carrick for permanent job
+**Slug (lower-third):** Manchester United chiefs to recommend Michael Carrick for…  
+**When:** 2026-05-13 07:37 (America/Winnipeg)  •  **Published:** 2026-05-13 12:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United chiefs to recommend Michael Carrick for permanent job. Michael Carrick is expected to be recommended to Sir Jim Ratcliffe as the permanent boss of Manchester United by the club's senior executives. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Manchester United chiefs to recommend Michael Carrick for permanent job. https://www.bbc.com/sport/football/articles/c4g9q2wdl9go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Shea Charles: Southampton midfielder says 'You dream of these moments'
+**Slug (lower-third):** Shea Charles: Southampton midfielder says 'You dream of t…  
+**When:** 2026-05-13 07:27 (America/Winnipeg)  •  **Published:** 2026-05-13 12:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Shea Charles: Southampton midfielder says 'You dream of these moments'. Southampton midfielder Shea Charles says his winning goal against Middlesbrough in the Championship play-off semi-finals is a moment he will never forget. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Shea Charles: Southampton midfielder says 'You dream of these moments'. https://www.bbc.com/sport/football/articles/cvgz06pe9zlo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win
 **Slug (lower-third):** Personalised chopsticks and underwater treadmills: Manche…  
 **When:** 2026-05-13 03:00 (America/Winnipeg)  •  **Published:** 2026-05-13 08:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win. Captain Alex Greenwood said 'nothing comes close' to club's PS10m state-of-the-art facility built specifically for women's team Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -132,126 +255,6 @@ Personalised chopsticks and underwater treadmills: Manchester City Women find ne
 
 ### Sources
 - theguardian.com — Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win. https://www.theguardian.com/football/2026/may/13/manchester-city-women-new-training-facility
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: FA Youth Cup final: Carrick presence inspires Man Utd youngsters, says Fletcher
-**Slug (lower-third):** FA Youth Cup final: Carrick presence inspires Man Utd you…  
-**When:** 2026-05-13 02:03 (America/Winnipeg)  •  **Published:** 2026-05-13 07:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-FA Youth Cup final: Carrick presence inspires Man Utd youngsters, says Fletcher. Michael Carrick will be watching on as Manchester United try to win the FA Youth Cup - and that will only inspire them, says Darren Fletcher. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — FA Youth Cup final: Carrick presence inspires Man Utd youngsters, says Fletcher. https://www.bbc.com/sport/football/articles/c74rw11z9y8o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Spygate: Will Southampton-Middlesbrough be decided by panel rather than players?
-**Slug (lower-third):** Spygate: Will Southampton-Middlesbrough be decided by pan…  
-**When:** 2026-05-13 01:08 (America/Winnipeg)  •  **Published:** 2026-05-13 06:08 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Spygate: Will Southampton-Middlesbrough be decided by panel rather than players?. Despite a 2-1 win for Southampton, allegations of spying means the outcome of their play-off with Middlesbrough is still not decided. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Spygate: Will Southampton-Middlesbrough be decided by panel rather than players?. https://www.bbc.com/sport/football/articles/cj9pvd24ew8o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: VAR is 'flip of coin', says Manchester City boss Pep Guardiola
-**Slug (lower-third):** VAR is 'flip of coin', says Manchester City boss Pep Guar…  
-**When:** 2026-05-12 17:57 (America/Winnipeg)  •  **Published:** 2026-05-12 22:57 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-VAR is 'flip of coin', says Manchester City boss Pep Guardiola. Manchester City boss Pep Guardiola says his players have to play well enough to ensure VAR does not decide the outcome of their games, comparing the system to a "flip of a coin". Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — VAR is 'flip of coin', says Manchester City boss Pep Guardiola. https://www.bbc.com/sport/football/articles/cq6pm34ep93o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Pep Guardiola: I have never trusted anything with VAR - Man City must be better and focus vs Crystal Palace instead
-**Slug (lower-third):** Pep Guardiola: I have never trusted anything with VAR - M…  
-**When:** 2026-05-12 17:30 (America/Winnipeg)  •  **Published:** 2026-05-12 22:30 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~30s
-
-### Presenter Script (3–5 sentences)
-Pep Guardiola: I have never trusted anything with VAR - Man City must be better and focus vs Crystal Palace instead. Arsenal benefitted from a VAR review to edge closer to the Premier League title with victory at West Ham on Sunday; Man City can reduce the gap at the top to two points;Watch Man City vs Crystal Palace on Wednesday live on Sky Sports, kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Pep Guardiola: I have never trusted anything with VAR - Man City must be better and focus vs Crystal Palace instead. https://www.skysports.com/football/news/12040/13543220/pep-guardiola-i-have-never-trusted-anything-with-var-man-city-must-be-better-and-focus-vs-crystal-palace-instead
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Football gossip: Valverde, Ederson, Fernandes, Alvarez, Lewandowski
-**Slug (lower-third):** Football gossip: Valverde, Ederson, Fernandes, Alvarez, L…  
-**When:** 2026-05-12 16:30 (America/Winnipeg)  •  **Published:** 2026-05-12 21:30 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Valverde, Ederson, Fernandes, Alvarez, Lewandowski. Manchester United considering Federico Valverde move, are also interested in Ederson and Mateus Fernandes, and Paris St-Germain targeting Julian Alvarez. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Valverde, Ederson, Fernandes, Alvarez, Lewandowski. https://www.bbc.com/sport/football/articles/cze2yx881g1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
