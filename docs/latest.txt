@@ -1,25 +1,49 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-12 22:36 (America/Winnipeg)  |  2026-05-13 03:36 (UTC)
+**Generated:** 2026-05-13 03:47 (America/Winnipeg)  |  2026-05-13 08:47 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 49s
+**Estimated total video length:** ~4m 44s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' saga 'breaks my heart' after Boro beaten by Southampton
-- Southampton manager Tonda Eckert leaves press conference after 'spygate' questioning
-- Miracle of Istanbul: Steven Gerrard went from career high to 'head like a box of frogs'
+- Jamie Carragher: Former Liverpool defender joins Marine FC as adviser
+- Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win
+- NBA Playoffs: Victor Wembanyama hits back after first career ejection as San Antonio Spurs lead Minnesota Timberwolves
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' saga 'breaks my heart' after Boro beaten by Southampton
+## Story 1: Arne Slot: Liverpool owners face a dilemma over head coach's future
+**Slug (lower-third):** Arne Slot: Liverpool owners face a dilemma over head coac…  
+**When:** 2026-05-13 00:34 (America/Winnipeg)  •  **Published:** 2026-05-13 05:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arne Slot: Liverpool owners face a dilemma over head coach's future. Liverpool owners FSG face a dilemma as they consider whether to react to growing fan dissent against Arne Slot, says chief football writer Phil McNulty. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Arne Slot: Liverpool owners face a dilemma over head coach's future. https://www.bbc.com/sport/football/articles/cm2p08gllrko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' saga 'breaks my heart' after Boro beaten by Southampton
 **Slug (lower-third):** Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' …  
 **When:** 2026-05-12 19:30 (America/Winnipeg)  •  **Published:** 2026-05-13 00:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+**Virality score:** 93  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
 Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' saga 'breaks my heart' after Boro beaten by Southampton. Boro lost 2-1 on aggregate to Saints in the Sky Bet Championship play-off semi-finals; Boro boss Kim Hellberg said situation was disgraceful and breaks my heart; Saints head coach Tonda Eckert again walked out of his post-match press conference amid questions over Spygate Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -40,13 +64,15 @@ Middlesbrough: Kim Hellberg says 'disgraceful' 'Spygate' saga 'breaks my heart' 
 
 ---
 
-## Story 2: Southampton manager Tonda Eckert leaves press conference after 'spygate' questioning
-**Slug (lower-third):** Southampton manager Tonda Eckert leaves press conference …  
-**When:** 2026-05-12 19:07 (America/Winnipeg)  •  **Published:** 2026-05-13 00:07 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+### League & Regulation
+
+## Story 3: NBA Playoffs: Victor Wembanyama hits back after first career ejection as San Antonio Spurs lead Minnesota Timberwolves
+**Slug (lower-third):** NBA Playoffs: Victor Wembanyama hits back after first car…  
+**When:** 2026-05-13 02:25 (America/Winnipeg)  •  **Published:** 2026-05-13 07:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Southampton manager Tonda Eckert leaves press conference after 'spygate' questioning. Southamptons Tonda Eckert walked away from his press conference early after being asked if he is a cheat following the Saints spygate saga that surrounds their play-off clash with Middlesbrough. Relevance to standings and momentum.
+NBA Playoffs: Victor Wembanyama hits back after first career ejection as San Antonio Spurs lead Minnesota Timberwolves. The San Antonio Spurs move one victory away from a place in the Western Conference final after 126-97 victory over Minnesota Timberwolves in Game 5; Victor Wembanyama delivered again as he bounced back from first career ejection for elbow on Sunday Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,33 +81,7 @@ Southampton manager Tonda Eckert leaves press conference after 'spygate' questio
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Southampton manager Tonda Eckert leaves press conference after 'spygate' questioning. https://www.skysports.com/watch/video/13543357/southampton-manager-tonda-eckert-leaves-press-conference-after-spygate-questioning
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Transfers
-
-## Story 3: Federico Valverde transfer news: Manchester United plot shock move for Real Madrid star - Paper Talk
-**Slug (lower-third):** Federico Valverde transfer news: Manchester United plot s…  
-**When:** 2026-05-12 17:00 (America/Winnipeg)  •  **Published:** 2026-05-12 22:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Federico Valverde transfer news: Manchester United plot shock move for Real Madrid star - Paper Talk. Wednesdays top stories include ex-Chelsea boss Enzo Maresca being ready to jump back into management; PSG are using rugby-style training techniques to prepare for Arsenal's set pieces in the Champions League final Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Federico Valverde transfer news: Manchester United plot shock move for Real Madrid star - Paper Talk. https://www.skysports.com/football/news/12040/13543314/federico-valverde-transfer-news-manchester-united-plot-shock-move-for-real-madrid-star-paper-talk
+- skysports.com — NBA Playoffs: Victor Wembanyama hits back after first career ejection as San Antonio Spurs lead Minnesota Timberwolves. https://www.skysports.com/nba/news/12040/13543394/nba-playoffs-victor-wembanyama-hits-back-after-first-career-ejection-as-san-antonio-spurs-lead-minnesota-timberwolves
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +92,13 @@ Federico Valverde transfer news: Manchester United plot shock move for Real Madr
 
 ### Club Updates
 
-## Story 4: Miracle of Istanbul: Steven Gerrard went from career high to 'head like a box of frogs'
-**Slug (lower-third):** Miracle of Istanbul: Steven Gerrard went from career high…  
-**When:** 2026-05-12 18:01 (America/Winnipeg)  •  **Published:** 2026-05-12 23:01 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 4: Jamie Carragher: Former Liverpool defender joins Marine FC as adviser
+**Slug (lower-third):** Jamie Carragher: Former Liverpool defender joins Marine F…  
+**When:** 2026-05-13 03:09 (America/Winnipeg)  •  **Published:** 2026-05-13 08:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Miracle of Istanbul: Steven Gerrard went from career high to 'head like a box of frogs'. Steven Gerrard inspired Liverpool's Champions League win in 2005 but just two months later wanted out. What happened? Relevance to standings and momentum.
+Jamie Carragher: Former Liverpool defender joins Marine FC as adviser. Jamie Carragher joins National League North club Marine FC to help out in an advisory capacity. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +107,7 @@ Miracle of Istanbul: Steven Gerrard went from career high to 'head like a box of
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Miracle of Istanbul: Steven Gerrard went from career high to 'head like a box of frogs'. https://www.bbc.com/sport/football/articles/cvgzn2nqz59o?at_medium=RSS&at_campaign=rss
+- bbc.com — Jamie Carragher: Former Liverpool defender joins Marine FC as adviser. https://www.bbc.com/sport/football/articles/c2k2zdjx1kxo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,10 +116,82 @@ Miracle of Istanbul: Steven Gerrard went from career high to 'head like a box of
 
 ---
 
-## Story 5: VAR is 'flip of coin', says Manchester City boss Pep Guardiola
+## Story 5: Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win
+**Slug (lower-third):** Personalised chopsticks and underwater treadmills: Manche…  
+**When:** 2026-05-13 03:00 (America/Winnipeg)  •  **Published:** 2026-05-13 08:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win. Captain Alex Greenwood said 'nothing comes close' to club's PS10m state-of-the-art facility built specifically for women's team Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Personalised chopsticks and underwater treadmills: Manchester City Women find new ways to win. https://www.theguardian.com/football/2026/may/13/manchester-city-women-new-training-facility
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: FA Youth Cup final: Carrick presence inspires Man Utd youngsters, says Fletcher
+**Slug (lower-third):** FA Youth Cup final: Carrick presence inspires Man Utd you…  
+**When:** 2026-05-13 02:03 (America/Winnipeg)  •  **Published:** 2026-05-13 07:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+FA Youth Cup final: Carrick presence inspires Man Utd youngsters, says Fletcher. Michael Carrick will be watching on as Manchester United try to win the FA Youth Cup - and that will only inspire them, says Darren Fletcher. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — FA Youth Cup final: Carrick presence inspires Man Utd youngsters, says Fletcher. https://www.bbc.com/sport/football/articles/c74rw11z9y8o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Spygate: Will Southampton-Middlesbrough be decided by panel rather than players?
+**Slug (lower-third):** Spygate: Will Southampton-Middlesbrough be decided by pan…  
+**When:** 2026-05-13 01:08 (America/Winnipeg)  •  **Published:** 2026-05-13 06:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Spygate: Will Southampton-Middlesbrough be decided by panel rather than players?. Despite a 2-1 win for Southampton, allegations of spying means the outcome of their play-off with Middlesbrough is still not decided. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Spygate: Will Southampton-Middlesbrough be decided by panel rather than players?. https://www.bbc.com/sport/football/articles/cj9pvd24ew8o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: VAR is 'flip of coin', says Manchester City boss Pep Guardiola
 **Slug (lower-third):** VAR is 'flip of coin', says Manchester City boss Pep Guar…  
 **When:** 2026-05-12 17:57 (America/Winnipeg)  •  **Published:** 2026-05-12 22:57 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 VAR is 'flip of coin', says Manchester City boss Pep Guardiola. Manchester City boss Pep Guardiola says his players have to play well enough to ensure VAR does not decide the outcome of their games, comparing the system to a "flip of a coin". Relevance to standings and momentum.
@@ -140,10 +212,10 @@ VAR is 'flip of coin', says Manchester City boss Pep Guardiola. Manchester City 
 
 ---
 
-## Story 6: Pep Guardiola: I have never trusted anything with VAR - Man City must be better and focus vs Crystal Palace instead
+## Story 9: Pep Guardiola: I have never trusted anything with VAR - Man City must be better and focus vs Crystal Palace instead
 **Slug (lower-third):** Pep Guardiola: I have never trusted anything with VAR - M…  
 **When:** 2026-05-12 17:30 (America/Winnipeg)  •  **Published:** 2026-05-12 22:30 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~30s
+**Virality score:** 91  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
 Pep Guardiola: I have never trusted anything with VAR - Man City must be better and focus vs Crystal Palace instead. Arsenal benefitted from a VAR review to edge closer to the Premier League title with victory at West Ham on Sunday; Man City can reduce the gap at the top to two points;Watch Man City vs Crystal Palace on Wednesday live on Sky Sports, kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -164,34 +236,10 @@ Pep Guardiola: I have never trusted anything with VAR - Man City must be better 
 
 ---
 
-## Story 7: Tottenham: James Maddison says referees are petrified of making decisions
-**Slug (lower-third):** Tottenham: James Maddison says referees are petrified of …  
-**When:** 2026-05-12 16:40 (America/Winnipeg)  •  **Published:** 2026-05-12 21:40 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham: James Maddison says referees are petrified of making decisions. Tottenham midfielder James Maddison suggests referees are "petrified" to make decisions after being denied a stoppage-time penalty against Leeds. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Tottenham: James Maddison says referees are petrified of making decisions. https://www.bbc.com/sport/football/articles/c4g4kj53zq0o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Football gossip: Valverde, Ederson, Fernandes, Alvarez, Lewandowski
+## Story 10: Football gossip: Valverde, Ederson, Fernandes, Alvarez, Lewandowski
 **Slug (lower-third):** Football gossip: Valverde, Ederson, Fernandes, Alvarez, L…  
 **When:** 2026-05-12 16:30 (America/Winnipeg)  •  **Published:** 2026-05-12 21:30 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Valverde, Ederson, Fernandes, Alvarez, Lewandowski. Manchester United considering Federico Valverde move, are also interested in Ederson and Mateus Fernandes, and Paris St-Germain targeting Julian Alvarez. Relevance to standings and momentum.
@@ -204,54 +252,6 @@ Football gossip: Valverde, Ederson, Fernandes, Alvarez, Lewandowski. Manchester 
 
 ### Sources
 - bbc.com — Football gossip: Valverde, Ederson, Fernandes, Alvarez, Lewandowski. https://www.bbc.com/sport/football/articles/cze2yx881g1o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Guardiola wants City players to raise their game rather than trust 'flip of a coin' officials
-**Slug (lower-third):** Guardiola wants City players to raise their game rather t…  
-**When:** 2026-05-12 16:35 (America/Winnipeg)  •  **Published:** 2026-05-12 21:35 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Guardiola wants City players to raise their game rather than trust 'flip of a coin' officials. Pep Guardiola believes officiating decisions are a "flip of a coin" and so constantly urges his Manchester City players to perform better in order to overcome this Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Guardiola wants City players to raise their game rather than trust 'flip of a coin' officials. https://www.theguardian.com/football/2026/may/12/guardiola-wants-city-players-to-raise-their-game-rather-than-trust-flip-of-a-coin-officials
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Michael van Gerwen: Dutchman storms to first ProTour title since October 2024 with Players Championship 15 win in Leicester
-**Slug (lower-third):** Michael van Gerwen: Dutchman storms to first ProTour titl…  
-**When:** 2026-05-12 14:25 (America/Winnipeg)  •  **Published:** 2026-05-12 19:25 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Michael van Gerwen: Dutchman storms to first ProTour title since October 2024 with Players Championship 15 win in Leicester. Michael van Gerwen was at his best towards the end of an impressive day in the Players Championship 15; watch the Premier League Darts in Birmingham on Thursday at 7pm, live on Sky Sports, as the race for the playoffs approaches its climax Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Michael van Gerwen: Dutchman storms to first ProTour title since October 2024 with Players Championship 15 win in Leicester. https://www.skysports.com/darts/news/12040/13543180/michael-van-gerwen-dutchman-storms-to-first-protour-title-since-october-2024-with-players-championship-15-win-in-leicester
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
