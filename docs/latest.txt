@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-17 14:12 (America/Winnipeg)  |  2026-05-17 19:12 (UTC)
+**Generated:** 2026-05-17 22:52 (America/Winnipeg)  |  2026-05-18 03:52 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 25s
+**Estimated total video length:** ~4m 50s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
 - Newcastle 3-1 West Ham: Premier League relegation fears deepen for Hammers after errors cost them at St James' Park
-- Premier League highlights: Leeds United 1-0 Brighton & Hove Albion
-- Premier League highlights: Manchester United 3-2 Nottingham Forest
+- Morgan Rogers transfer news: Chelsea showing interest in Aston Villa star - Paper Talk
+- Match of the Day analysis: Why Matheus Cunha's goal should have been disallowed against Nottingham Forest
 
 ---
 
-### Managerial Moves
+### Transfers
 
-## Story 1: What does the future look like for Man Utd and Michael Carrick
-**Slug (lower-third):** What does the future look like for Man Utd and Michael Ca…  
-**When:** 2026-05-17 12:41 (America/Winnipeg)  •  **Published:** 2026-05-17 17:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Morgan Rogers transfer news: Chelsea showing interest in Aston Villa star - Paper Talk
+**Slug (lower-third):** Morgan Rogers transfer news: Chelsea showing interest in …  
+**When:** 2026-05-17 18:00 (America/Winnipeg)  •  **Published:** 2026-05-17 23:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-What does the future look like for Man Utd and Michael Carrick. The manager's job is his, so what are the key tasks in front of Michael Carrick at Manchester United? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Morgan Rogers transfer news: Chelsea showing interest in Aston Villa star - Paper Talk. Mondays top stories also include: Chelsea want a new goalkeeper this summer and are seriously considering a move for Sunderlands Robin Roefs; Barcelona are aware Aston Villa are keen on England international Marcus Rashford Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ What does the future look like for Man Utd and Michael Carrick. The manager's jo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — What does the future look like for Man Utd and Michael Carrick. https://www.bbc.com/sport/football/articles/cz62nyq3xdpo?at_medium=RSS&at_campaign=rss
+- skysports.com — Morgan Rogers transfer news: Chelsea showing interest in Aston Villa star - Paper Talk. https://www.skysports.com/football/news/12040/13545341/morgan-rogers-transfer-news-chelsea-showing-interest-in-aston-villa-star-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ What does the future look like for Man Utd and Michael Carrick. The manager's jo
 
 ---
 
-### Transfers
-
-## Story 2: 'I haven't decided yet' - Marco Silva on Fulham future
-**Slug (lower-third):** 'I haven't decided yet' - Marco Silva on Fulham future  
-**When:** 2026-05-17 13:40 (America/Winnipeg)  •  **Published:** 2026-05-17 18:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Football gossip: Rogers, Rashford, Roefs, Rodri, Jesus, Ampadu, Conte
+**Slug (lower-third):** Football gossip: Rogers, Rashford, Roefs, Rodri, Jesus, A…  
+**When:** 2026-05-17 16:33 (America/Winnipeg)  •  **Published:** 2026-05-17 21:33 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'I haven't decided yet' - Marco Silva on Fulham future. Fulham boss Marco Silva, who is out of contract this summer, says he has not yet decided whether he will sign a new contract with the club. Implications for the squad and table.
+Football gossip: Rogers, Rashford, Roefs, Rodri, Jesus, Ampadu, Conte. Chelsea could make move for Aston Villa's Morgan Rogers, Barcelona aware of Villa interest in Manchester United's on-loan forward Marcus Rashford, Manchester City's Rodri coy on future, plus more. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,55 @@ What does the future look like for Man Utd and Michael Carrick. The manager's jo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — 'I haven't decided yet' - Marco Silva on Fulham future. https://www.bbc.com/sport/football/articles/cewp4zj5k9qo?at_medium=RSS&at_campaign=rss
+- bbc.com — Football gossip: Rogers, Rashford, Roefs, Rodri, Jesus, Ampadu, Conte. https://www.bbc.com/sport/football/articles/cvgzkk2lpppo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Inter poised as Curtis Jones enters final year of Liverpool contract
+**Slug (lower-third):** Inter poised as Curtis Jones enters final year of Liverpo…  
+**When:** 2026-05-17 16:30 (America/Winnipeg)  •  **Published:** 2026-05-17 21:30 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Inter poised as Curtis Jones enters final year of Liverpool contract. Inter are expected to resume their interest in the Liverpool midfielder Curtis Jones this summer Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Inter poised as Curtis Jones enters final year of Liverpool contract. https://www.theguardian.com/football/2026/may/17/inter-poised-as-curtis-jones-enters-final-year-of-liverpool-contract
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Man Utd transfers: Gary Neville on summer window priorities, replacing Casemiro and Elliot Anderson
+**Slug (lower-third):** Man Utd transfers: Gary Neville on summer window prioriti…  
+**When:** 2026-05-17 15:20 (America/Winnipeg)  •  **Published:** 2026-05-17 20:20 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Man Utd transfers: Gary Neville on summer window priorities, replacing Casemiro and Elliot Anderson. Gary Neville says replacing Casemiro will be one of Manchester United's biggest challenges this summer, while also naming Elliot Anderson as the "outstanding" midfield candidate to join Michael Carrick's side after impressing at Old Trafford on Sunday Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man Utd transfers: Gary Neville on summer window priorities, replacing Casemiro and Elliot Anderson. https://www.skysports.com/football/news/12040/13545272/man-utd-transfers-gary-neville-on-summer-window-priorities-replacing-casemiro-and-elliot-anderson
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,7 +114,7 @@ What does the future look like for Man Utd and Michael Carrick. The manager's jo
 
 ### Club Updates
 
-## Story 3: Newcastle 3-1 West Ham: Premier League relegation fears deepen for Hammers after errors cost them at St James' Park
+## Story 5: Newcastle 3-1 West Ham: Premier League relegation fears deepen for Hammers after errors cost them at St James' Park
 **Slug (lower-third):** Newcastle 3-1 West Ham: Premier League relegation fears d…  
 **When:** 2026-05-17 14:31 (America/Winnipeg)  •  **Published:** 2026-05-17 19:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~21s
@@ -93,13 +139,13 @@ Newcastle 3-1 West Ham: Premier League relegation fears deepen for Hammers after
 
 ---
 
-## Story 4: Premier League highlights: Leeds United 1-0 Brighton & Hove Albion
-**Slug (lower-third):** Premier League highlights: Leeds United 1-0 Brighton & Ho…  
-**When:** 2026-05-17 14:06 (America/Winnipeg)  •  **Published:** 2026-05-17 19:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: Match of the Day analysis: Why Matheus Cunha's goal should have been disallowed against Nottingham Forest
+**Slug (lower-third):** Match of the Day analysis: Why Matheus Cunha's goal shoul…  
+**When:** 2026-05-17 17:58 (America/Winnipeg)  •  **Published:** 2026-05-17 22:58 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Leeds United 1-0 Brighton & Hove Albion. Dominic Calvert-Lewin's 96th-minute goal gives Leeds United a 1-0 win over Brighton & Hove Albion at Elland Road, as Fabian Hurzeler's side stay in 7th heading into the final week of the Premier League season. Relevance to standings and momentum.
+Match of the Day analysis: Why Matheus Cunha's goal should have been disallowed against Nottingham Forest. BBC Sport pundits Mark Schwarzer and Dion Dublin believe Bryan Mbeumo using his arm to trap the ball to his side to help better control Diego Dalot's cross in the build-up to Matheus Cunha's goal, gave Manchester United an "unfair advantage" in their 3-2 win over Nottingham Forest in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -108,7 +154,7 @@ Premier League highlights: Leeds United 1-0 Brighton & Hove Albion. Dominic Calv
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Leeds United 1-0 Brighton & Hove Albion. https://www.bbc.com/sport/football/videos/cg4pxk4dwp7o?at_medium=RSS&at_campaign=rss
+- bbc.com — Match of the Day analysis: Why Matheus Cunha's goal should have been disallowed against Nottingham Forest. https://www.bbc.com/sport/football/videos/cx21d135v7ro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -117,13 +163,13 @@ Premier League highlights: Leeds United 1-0 Brighton & Hove Albion. Dominic Calv
 
 ---
 
-## Story 5: Premier League highlights: Manchester United 3-2 Nottingham Forest
-**Slug (lower-third):** Premier League highlights: Manchester United 3-2 Nottingh…  
-**When:** 2026-05-17 14:04 (America/Winnipeg)  •  **Published:** 2026-05-17 19:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Beau Greaves unable to maintain form in PDC Women's Series as Deta Hedman and Vicky Pruim claim landmark titles
+**Slug (lower-third):** Beau Greaves unable to maintain form in PDC Women's Serie…  
+**When:** 2026-05-17 17:00 (America/Winnipeg)  •  **Published:** 2026-05-17 22:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Manchester United 3-2 Nottingham Forest. Bruno Fernandes earns his 20th Premier League assist of the season, equalling the record set by Kevin De Bruyne and Thierry Henry, as Manchester United defeat Nottingham Forest 3-2 in their final home game of the campaign at Old Trafford. Relevance to standings and momentum.
+Beau Greaves unable to maintain form in PDC Women's Series as Deta Hedman and Vicky Pruim claim landmark titles. Beau Greaves was unable to follow up Saturdays double triumph; Deta Hedman ended a near six-year wait for a PDC Womens Series title; Vicky Pruim claimed her maiden victory; you can watch Premier League Darts live on Sky Sports every Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,8 +178,7 @@ Premier League highlights: Manchester United 3-2 Nottingham Forest. Bruno Fernan
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Manchester United 3-2 Nottingham Forest. https://www.bbc.com/sport/football/videos/cn8p59e3dz4o?at_medium=RSS&at_campaign=rss
-- skysports.com — Manchester United 3-2 Nottingham Forest | Premier League highlights. https://www.skysports.com/watch/video/13545072/manchester-united-3-2-nottingham-forest-premier-league-highlights
+- skysports.com — Beau Greaves unable to maintain form in PDC Women's Series as Deta Hedman and Vicky Pruim claim landmark titles. https://www.skysports.com/darts/news/12040/13545336/beau-greaves-unable-to-maintain-form-in-pdc-womens-series-as-deta-hedman-and-vicky-pruim-claim-landmark-titles
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +187,13 @@ Premier League highlights: Manchester United 3-2 Nottingham Forest. Bruno Fernan
 
 ---
 
-## Story 6: Premier League highlights: Brentford 2-2 Crystal Palace
-**Slug (lower-third):** Premier League highlights: Brentford 2-2 Crystal Palace  
-**When:** 2026-05-17 14:04 (America/Winnipeg)  •  **Published:** 2026-05-17 19:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: West Ham: How have the club ended up facing relegation from Premier League?
+**Slug (lower-third):** West Ham: How have the club ended up facing relegation fr…  
+**When:** 2026-05-17 16:01 (America/Winnipeg)  •  **Published:** 2026-05-17 21:01 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Brentford 2-2 Crystal Palace. Dango Outtara scores twice to earn Brentford a 2-2 draw at home to Crystal Palace in the Premier League, as Keith Andrews' side stay in the hunt for European football. Relevance to standings and momentum.
+West Ham: How have the club ended up facing relegation from Premier League?. It was less than three years ago that West Ham were lifting a European trophy in Prague. But they are now on the verge of relegation from Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +202,7 @@ Premier League highlights: Brentford 2-2 Crystal Palace. Dango Outtara scores tw
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Brentford 2-2 Crystal Palace. https://www.bbc.com/sport/football/videos/c0r27zk8x2eo?at_medium=RSS&at_campaign=rss
+- bbc.com — West Ham: How have the club ended up facing relegation from Premier League?. https://www.bbc.com/sport/football/articles/cj3pj3nzl62o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +211,13 @@ Premier League highlights: Brentford 2-2 Crystal Palace. Dango Outtara scores tw
 
 ---
 
-## Story 7: Michael Jackson and Spiderman a Premier League celebrations take a turn
-**Slug (lower-third):** Michael Jackson and Spiderman a Premier League celebratio…  
-**When:** 2026-05-17 14:04 (America/Winnipeg)  •  **Published:** 2026-05-17 19:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 9: County Championship: Harry Brook takes surprise wickets to move Yorkshire to brink of victory over Surrey
+**Slug (lower-third):** County Championship: Harry Brook takes surprise wickets t…  
+**When:** 2026-05-17 16:00 (America/Winnipeg)  •  **Published:** 2026-05-17 21:00 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Michael Jackson and Spiderman a Premier League celebrations take a turn. After brief appearances by the King of Pop and the web-slinging superhero on Sunday, we take at look at some of the Premier League's most memorable celebrations. Relevance to standings and momentum.
+County Championship: Harry Brook takes surprise wickets to move Yorkshire to brink of victory over Surrey. England batter Harry Brook took a trio of surprise wickets to move Yorkshire to the brink of victory over Surrey in the County Championship; Brook removed his England team-mate Jamie Smith on his way to claiming figures of 3-11; Essex complete victory over Leicestershire in three days Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +226,7 @@ Michael Jackson and Spiderman a Premier League celebrations take a turn. After b
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Michael Jackson and Spiderman a Premier League celebrations take a turn. https://www.bbc.com/sport/football/articles/c1w2l5rrej7o?at_medium=RSS&at_campaign=rss
+- skysports.com — County Championship: Harry Brook takes surprise wickets to move Yorkshire to brink of victory over Surrey. https://www.skysports.com/cricket/news/12040/13545320/county-championship-harry-brook-takes-surprise-wickets-to-move-yorkshire-to-brink-of-victory-over-surrey
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +235,13 @@ Michael Jackson and Spiderman a Premier League celebrations take a turn. After b
 
 ---
 
-## Story 8: Premier League highlights: Everton 1-3 Sunderland
-**Slug (lower-third):** Premier League highlights: Everton 1-3 Sunderland  
-**When:** 2026-05-17 14:01 (America/Winnipeg)  •  **Published:** 2026-05-17 19:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Nine teams, four spots - Premier League set for European scramble
+**Slug (lower-third):** Nine teams, four spots - Premier League set for European …  
+**When:** 2026-05-17 15:08 (America/Winnipeg)  •  **Published:** 2026-05-17 20:08 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Everton 1-3 Sunderland. Sunderland come from behind to defeat Everton 3-1 at the Hill Dickinson Stadium, moving up to ninth in the Premier League. Relevance to standings and momentum.
+Nine teams, four spots - Premier League set for European scramble. The Premier League title and relegation fights might be dominating the headlines, but the race for Europe is proving to be an equally chaotic and enthralling battle this season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,55 +250,7 @@ Premier League highlights: Everton 1-3 Sunderland. Sunderland come from behind t
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Premier League highlights: Everton 1-3 Sunderland. https://www.bbc.com/sport/football/videos/c072pz447geo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Osula at the double as Newcastle push brittle West Ham closer to the brink
-**Slug (lower-third):** Osula at the double as Newcastle push brittle West Ham cl…  
-**When:** 2026-05-17 13:46 (America/Winnipeg)  •  **Published:** 2026-05-17 18:46 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Osula at the double as Newcastle push brittle West Ham closer to the brink. Will Osula scored twice as Newcastle ran out 3-1 winners and left West Ham staring at relegation to the Championship Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Osula at the double as Newcastle push brittle West Ham closer to the brink. https://www.theguardian.com/football/2026/may/17/newcastle-west-ham-premier-league-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Leicester Tigers seal Prem Rugby play-off place with 47-33 bonus-point win at Sale Sharks
-**Slug (lower-third):** Leicester Tigers seal Prem Rugby play-off place with 47-3…  
-**When:** 2026-05-17 12:30 (America/Winnipeg)  •  **Published:** 2026-05-17 17:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Leicester Tigers seal Prem Rugby play-off place with 47-33 bonus-point win at Sale Sharks. Leicester score seven tries in dominant win over Sale Sharks; bonus-point victory seals Prem play-off spot for Tigers; Geoff Parlings side move within a point of second-placed Bath in table with two rounds of fixtures remaining Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Leicester Tigers seal Prem Rugby play-off place with 47-33 bonus-point win at Sale Sharks. https://www.skysports.com/rugby-union/news/12040/13545239/leicester-tigers-seal-prem-rugby-play-off-place-with-47-33-bonus-point-win-at-sale-sharks
+- bbc.com — Nine teams, four spots - Premier League set for European scramble. https://www.bbc.com/sport/football/articles/c0k2pp5ge55o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
