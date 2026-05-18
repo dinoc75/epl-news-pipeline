@@ -1,15 +1,2 @@
-resp_04ce248fb11fc67a006a0b31f0cb5c8196b5f0639eedb9cf23
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_04ce248fb11fc67a006a0b31f16538819689a0f6f7cdb2244e
-reasoning
-auto
-in_memory
-medium
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Bournemouth boss Andoni Iraola has told reporters that finishing
