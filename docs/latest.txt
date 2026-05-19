@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-18 14:46 (America/Winnipeg)  |  2026-05-18 19:46 (UTC)
+**Generated:** 2026-05-18 22:42 (America/Winnipeg)  |  2026-05-19 03:42 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Gary Neville and Jamie Carragher's 2025/26 awards: Player, team of the season and more on Monday Night Football
-- Mbeumo handball decision was wrong, Howard Webb tells Nottingham Forest
-- PGMO admits handball error on Man Utd goal v Forest
+- Premier League: Tense, tetchy but triumphant - Arsenal eyes now on Bournemouth
+- Arsenal 1-0 Burnley: Kai Havertz scores winner but avoids red card as Gunners move within one result of the Premier League title
+- Neymar picked in Brazil squad for 2026 World Cup but Joao Pedro misses out
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Andoni Iraola: Europe 'best way' to end Bournemouth stay
-**Slug (lower-third):** Andoni Iraola: Europe 'best way' to end Bournemouth stay  
-**When:** 2026-05-18 10:40 (America/Winnipeg)  •  **Published:** 2026-05-18 15:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Enzo Maresca expected to replace Pep Guardiola at Man City when manager leaves this summer- Paper Talk
+**Slug (lower-third):** Enzo Maresca expected to replace Pep Guardiola at Man Cit…  
+**When:** 2026-05-18 17:51 (America/Winnipeg)  •  **Published:** 2026-05-18 22:51 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Andoni Iraola: Europe 'best way' to end Bournemouth stay. Bournemouth manager Andoni Iraola says finishing in a European place would be the "best way" to finish his time at the club. Relevance to standings and momentum.
+Enzo Maresca expected to replace Pep Guardiola at Man City when manager leaves this summer- Paper Talk. Tuesdays top stories include: Pep Guardiola will stand down as Manchester City manager after Sundays final Premier League game of the season against Aston Villa; Pep has a clause in his contract that allows him to depart a year early; Enzo Maresca has already agreed to succeed Pep Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Andoni Iraola: Europe 'best way' to end Bournemouth stay. Bournemouth manager An
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Andoni Iraola: Europe 'best way' to end Bournemouth stay. https://www.bbc.com/sport/football/articles/c7v9me34yq5o?at_medium=RSS&at_campaign=rss
+- skysports.com — Enzo Maresca expected to replace Pep Guardiola at Man City when manager leaves this summer- Paper Talk. https://www.skysports.com/football/news/12040/13545713/enzo-maresca-expected-to-replace-pep-guardiola-at-man-city-when-manager-leaves-this-summer-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ Andoni Iraola: Europe 'best way' to end Bournemouth stay. Bournemouth manager An
 
 ---
 
-### Injuries
-
-## Story 2: Mohamed Salah: Jamie Carragher says he isn't surprised by Liverpool star's 'selfish' comments ahead of final match of season
-**Slug (lower-third):** Mohamed Salah: Jamie Carragher says he isn't surprised by…  
-**When:** 2026-05-18 13:00 (America/Winnipeg)  •  **Published:** 2026-05-18 18:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+## Story 2: Pep Guardiola: Man City preparing for boss's departure at end of season
+**Slug (lower-third):** Pep Guardiola: Man City preparing for boss's departure at…  
+**When:** 2026-05-18 17:19 (America/Winnipeg)  •  **Published:** 2026-05-18 22:19 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mohamed Salah: Jamie Carragher says he isn't surprised by Liverpool star's 'selfish' comments ahead of final match of season. Jamie Carragher says he isnt surprised by Mohamed Salahs comments about Liverpools style of play on social media; Salah called for a return to heavy metal football at Anfield in an apparent dig at Arne Slots football; Salah plays his last game for the club on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Pep Guardiola: Man City preparing for boss's departure at end of season. Manchester City are preparing for manager Pep Guardiola to leave the club at the end of the season after a decade in charge and 17 major trophies. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,7 @@ Mohamed Salah: Jamie Carragher says he isn't surprised by Liverpool star's 'self
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Mohamed Salah: Jamie Carragher says he isn't surprised by Liverpool star's 'selfish' comments ahead of final match of season. https://www.skysports.com/football/news/12040/13545565/mohamed-salah-jamie-carragher-says-he-isnt-surprised-by-liverpool-stars-selfish-comments-ahead-of-final-match-of-season
+- bbc.com — Pep Guardiola: Man City preparing for boss's departure at end of season. https://www.bbc.com/sport/football/articles/c0k28522472o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +64,13 @@ Mohamed Salah: Jamie Carragher says he isn't surprised by Liverpool star's 'self
 
 ---
 
-## Story 3: Aston Villa: Premier League overperformers on the brink of a Champions League return
-**Slug (lower-third):** Aston Villa: Premier League overperformers on the brink o…  
-**When:** 2026-05-18 06:53 (America/Winnipeg)  •  **Published:** 2026-05-18 11:53 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 3: Pep Guardiola: Man City manager's legacy of genius will echo for years to come
+**Slug (lower-third):** Pep Guardiola: Man City manager's legacy of genius will e…  
+**When:** 2026-05-18 16:21 (America/Winnipeg)  •  **Published:** 2026-05-18 21:21 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa: Premier League overperformers on the brink of a Champions League return. Eight places better off than their expected position, Aston Villa are the highest overperforming team in the Premier League. Relevance to standings and momentum.
+Pep Guardiola: Man City manager's legacy of genius will echo for years to come. As Manchester City prepare for Pep Guardiola's exit, Phil McNulty reflects on how he has changed football in England. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +79,7 @@ Aston Villa: Premier League overperformers on the brink of a Champions League re
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa: Premier League overperformers on the brink of a Champions League return. https://www.bbc.com/sport/football/articles/cn0wl2d2pppo?at_medium=RSS&at_campaign=rss
+- bbc.com — Pep Guardiola: Man City manager's legacy of genius will echo for years to come. https://www.bbc.com/sport/football/articles/cn8p34e12nno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,15 +88,13 @@ Aston Villa: Premier League overperformers on the brink of a Champions League re
 
 ---
 
-### League & Regulation
-
-## Story 4: Leeds United: Fans will be banned for homophobic chants in Brighton game
-**Slug (lower-third):** Leeds United: Fans will be banned for homophobic chants i…  
-**When:** 2026-05-18 11:54 (America/Winnipeg)  •  **Published:** 2026-05-18 16:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Pep Guardiola expected to leave Manchester City at end of the season
+**Slug (lower-third):** Pep Guardiola expected to leave Manchester City at end of…  
+**When:** 2026-05-18 16:28 (America/Winnipeg)  •  **Published:** 2026-05-18 21:28 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leeds United: Fans will be banned for homophobic chants in Brighton game. Leeds United say fans found to have been responsible for homophobic chanting during their Premier League game against Brighton will face "lengthy stadium bans". Disciplinary outcome could affect availability.
+Pep Guardiola expected to leave Manchester City at end of the season. Pep Guardiola is expected to leave Manchester City this summer after 10 trophy-filled years as the manager Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +103,33 @@ Leeds United: Fans will be banned for homophobic chants in Brighton game. Leeds 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Leeds United: Fans will be banned for homophobic chants in Brighton game. https://www.bbc.com/sport/football/articles/clypxn4jxd3o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Pep Guardiola expected to leave Manchester City at end of the season. https://www.theguardian.com/football/2026/may/18/pep-guardiola-departure-manchester-city-end-of-premier-league-season
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 5: Like pulling teeth? Guardiola compares Manchester City's trip to Bournemouth to dentist visit
+**Slug (lower-third):** Like pulling teeth? Guardiola compares Manchester City's …  
+**When:** 2026-05-18 16:30 (America/Winnipeg)  •  **Published:** 2026-05-18 21:30 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Like pulling teeth? Guardiola compares Manchester City's trip to Bournemouth to dentist visit. Pep Guardiola feels Manchester City's match at Bournemouth on Tuesday will be like a trip to the dentist, with Andoni Iraola's side unbeaten in 16 league matches Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Like pulling teeth? Guardiola compares Manchester City's trip to Bournemouth to dentist visit. https://www.theguardian.com/football/2026/may/18/pep-guardiola-manchester-city-bournemouth-premier-league-title-race
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,37 +140,13 @@ Leeds United: Fans will be banned for homophobic chants in Brighton game. Leeds 
 
 ### Club Updates
 
-## Story 5: Gary Neville and Jamie Carragher's 2025/26 awards: Player, team of the season and more on Monday Night Football
-**Slug (lower-third):** Gary Neville and Jamie Carragher's 2025/26 awards: Player…  
-**When:** 2026-05-18 14:00 (America/Winnipeg)  •  **Published:** 2026-05-18 19:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Gary Neville and Jamie Carragher's 2025/26 awards: Player, team of the season and more on Monday Night Football. Gary Neville and Jamie Carragher reveal their end-of-season awards for the 2025/26 Premier League campaign; Sky Sports pundits name nine of the same players in Team of the Season but disagree on Player of the Season pick Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Gary Neville and Jamie Carragher's 2025/26 awards: Player, team of the season and more on Monday Night Football. https://www.skysports.com/football/news/12040/13545613/gary-neville-and-jamie-carraghers-2025-26-awards-player-team-of-the-season-and-more-on-monday-night-football
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Mbeumo handball decision was wrong, Howard Webb tells Nottingham Forest
-**Slug (lower-third):** Mbeumo handball decision was wrong, Howard Webb tells Not…  
-**When:** 2026-05-18 13:47 (America/Winnipeg)  •  **Published:** 2026-05-18 18:47 (UTC)  
+## Story 6: Premier League: Tense, tetchy but triumphant - Arsenal eyes now on Bournemouth
+**Slug (lower-third):** Premier League: Tense, tetchy but triumphant - Arsenal ey…  
+**When:** 2026-05-18 18:42 (America/Winnipeg)  •  **Published:** 2026-05-18 23:42 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mbeumo handball decision was wrong, Howard Webb tells Nottingham Forest. Matheus Cunha scored after his teammate had handled, helping Manchester United beat Nottingham Forest 3-2, but Howard Webb, the PGMO chief refereeing officer, has admitted the goal should not have stood Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: Tense, tetchy but triumphant - Arsenal eyes now on Bournemouth. All Arsenal eyes will be on Bournemouth v Man City on Tuesday with the Gunners agonisingly close to ending their 22-year wait for a Premier League title. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +155,7 @@ Mbeumo handball decision was wrong, Howard Webb tells Nottingham Forest. Matheus
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Mbeumo handball decision was wrong, Howard Webb tells Nottingham Forest. https://www.theguardian.com/football/2026/may/18/bryan-mbeumo-handball-decision-howard-webb-manchester-united-nottingham-forest-michael-salibsury
+- bbc.com — Premier League: Tense, tetchy but triumphant - Arsenal eyes now on Bournemouth. https://www.bbc.com/sport/football/articles/ckgpdxvx2xvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +164,13 @@ Mbeumo handball decision was wrong, Howard Webb tells Nottingham Forest. Matheus
 
 ---
 
-## Story 7: PGMO admits handball error on Man Utd goal v Forest
-**Slug (lower-third):** PGMO admits handball error on Man Utd goal v Forest  
-**When:** 2026-05-18 13:23 (America/Winnipeg)  •  **Published:** 2026-05-18 18:23 (UTC)  
+## Story 7: Arsenal 1-0 Burnley: Kai Havertz scores winner but avoids red card as Gunners move within one result of the Premier League title
+**Slug (lower-third):** Arsenal 1-0 Burnley: Kai Havertz scores winner but avoids…  
+**When:** 2026-05-18 17:07 (America/Winnipeg)  •  **Published:** 2026-05-18 22:07 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-PGMO admits handball error on Man Utd goal v Forest. Manchester United's second goal in Sunday's Premier League win over Nottingham Forest should have been disallowed for handball, the referees' body has admitted. Relevance to standings and momentum.
+Arsenal 1-0 Burnley: Kai Havertz scores winner but avoids red card as Gunners move within one result of the Premier League title. Arsenal secured a nervy 1-0 win over already-relegated Burnley and could be crowned Premier League champions on Tuesday if Manchester City fail to win against Bournemouth. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +179,8 @@ PGMO admits handball error on Man Utd goal v Forest. Manchester United's second 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — PGMO admits handball error on Man Utd goal v Forest. https://www.bbc.com/sport/football/articles/cp3p91xed8go?at_medium=RSS&at_campaign=rss
+- skysports.com — Arsenal 1-0 Burnley: Kai Havertz scores winner but avoids red card as Gunners move within one result of the Premier League title. https://www.skysports.com/football/arsenal-vs-burnley/report/531489
+- bbc.com — Premier League Highlights: Arsenal 1-0 Burnley. https://www.bbc.com/sport/football/videos/cwy2p7xyr2lo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,61 +189,13 @@ PGMO admits handball error on Man Utd goal v Forest. Manchester United's second 
 
 ---
 
-## Story 8: West Ham could have to raise PS100m in player sales if they are relegated
-**Slug (lower-third):** West Ham could have to raise PS100m in player sales if th…  
-**When:** 2026-05-18 12:52 (America/Winnipeg)  •  **Published:** 2026-05-18 17:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-West Ham could have to raise PS100m in player sales if they are relegated. Relegation to the Championship would leave West Ham resigned to losing players such as Jarrod Bowen and Mateus Fernandes Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — West Ham could have to raise PS100m in player sales if they are relegated. https://www.theguardian.com/football/2026/may/18/west-ham-could-have-to-raise-100m-in-player-sales-if-they-are-relegated
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: West Ham: London taxpayers could pay extra APS2.5m if Hammers relegated
-**Slug (lower-third):** West Ham: London taxpayers could pay extra APS2.5m if Ham…  
-**When:** 2026-05-18 10:48 (America/Winnipeg)  •  **Published:** 2026-05-18 15:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-West Ham: London taxpayers could pay extra APS2.5m if Hammers relegated. London taxpayers may have to pay an extra APS2.5m if West Ham are relegated from the Premier League, because of the club's lease agreement for London Stadium. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — West Ham: London taxpayers could pay extra APS2.5m if Hammers relegated. https://www.bbc.com/sport/football/articles/cr7pm71rvkvo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Mohamed Salah's spiky leaving of Liverpool puts Slot in awkward spot
-**Slug (lower-third):** Mohamed Salah's spiky leaving of Liverpool puts Slot in a…  
-**When:** 2026-05-18 10:49 (America/Winnipeg)  •  **Published:** 2026-05-18 15:49 (UTC)  
+## Story 8: Neymar picked in Brazil squad for 2026 World Cup but Joao Pedro misses out
+**Slug (lower-third):** Neymar picked in Brazil squad for 2026 World Cup but Joao…  
+**When:** 2026-05-18 18:55 (America/Winnipeg)  •  **Published:** 2026-05-18 23:55 (UTC)  
 **Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mohamed Salah's spiky leaving of Liverpool puts Slot in awkward spot. Forward was dropped after a previous attempt to undermine coach, but doing so now could spark mutiny Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Neymar picked in Brazil squad for 2026 World Cup but Joao Pedro misses out. Neymar will make his fourth World Cup appearance after Carlo Ancelotti named him to their 26-man squad but Chelsea's Joao Pedro is left out Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +204,55 @@ Mohamed Salah's spiky leaving of Liverpool puts Slot in awkward spot. Forward wa
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Mohamed Salah's spiky leaving of Liverpool puts Slot in awkward spot. https://www.theguardian.com/football/2026/may/18/mohamed-salahs-spiky-leaving-of-liverpool-puts-slot-in-awkward-spot
+- theguardian.com — Neymar picked in Brazil squad for 2026 World Cup but Joao Pedro misses out. https://www.theguardian.com/football/2026/may/19/neymar-brazil-world-cup-2026-squad-picked-joao-pedro
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Rivals wanting Tottenham relegated can be 'big motivation', insists De Zerbi
+**Slug (lower-third):** Rivals wanting Tottenham relegated can be 'big motivation…  
+**When:** 2026-05-18 17:54 (America/Winnipeg)  •  **Published:** 2026-05-18 22:54 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Rivals wanting Tottenham relegated can be 'big motivation', insists De Zerbi. Tottenham need a draw at Chelsea to effectively secure safety, but Roberto De Zerbi has urged his players 'to imagine celebrating the win in their stadium' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Rivals wanting Tottenham relegated can be 'big motivation', insists De Zerbi. https://www.theguardian.com/football/2026/may/18/roberto-de-zerbi-tottenham-chelsea-premier-league-relegation-battle
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Roberto de Zerbi: Tottenham boss says rival fans wanting Spurs down is motivation
+**Slug (lower-third):** Roberto de Zerbi: Tottenham boss says rival fans wanting …  
+**When:** 2026-05-18 16:33 (America/Winnipeg)  •  **Published:** 2026-05-18 21:33 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Roberto de Zerbi: Tottenham boss says rival fans wanting Spurs down is motivation. Tottenham boss Roberto de Zerbi says rival fans willing the club to be relegated from the Premier League acts as a "big motivation" to stay up. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Roberto de Zerbi: Tottenham boss says rival fans wanting Spurs down is motivation. https://www.bbc.com/sport/football/articles/cn8permenlno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
