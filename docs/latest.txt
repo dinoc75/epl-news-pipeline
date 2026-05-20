@@ -1,77 +1,219 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-19 22:43 (America/Winnipeg)  |  2026-05-20 03:43 (UTC)
+**Generated:** 2026-05-20 04:37 (America/Winnipeg)  |  2026-05-20 09:37 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~4m 34s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Chelsea 2-1 Tottenham | Premier League highlights
-- Arsenal win the Premier League - how the Gunners celebrated title win
-- Arsenal crowned Premier League champions after Manchester City draw
-
----
-
-### Managerial Moves
-
-## Story 1: Bournemouth 1-1 Man City: After news of Pep Guardiola's future, City suffer title despair
-**Slug (lower-third):** Bournemouth 1-1 Man City: After news of Pep Guardiola's f…  
-**When:** 2026-05-19 17:22 (America/Winnipeg)  •  **Published:** 2026-05-19 22:22 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bournemouth 1-1 Man City: After news of Pep Guardiola's future, City suffer title despair. Manchester City's world fell apart in the space of 24 hours after surrendering the Premier League title and the bombshell news of manager Pep Guardiola's impending departure. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Bournemouth 1-1 Man City: After news of Pep Guardiola's future, City suffer title despair. https://www.bbc.com/sport/football/articles/c78q300ejz4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 2: Southampton expelled from Championship play-offs over 'spygate' as Middlesbrough reinstated
-**Slug (lower-third):** Southampton expelled from Championship play-offs over 'sp…  
-**When:** 2026-05-19 13:51 (America/Winnipeg)  •  **Published:** 2026-05-19 18:51 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Southampton expelled from Championship play-offs over 'spygate' as Middlesbrough reinstated. Southampton have been expelled from the Championship play-offs over the spygate scandal. The club, who have a right to appeal the verdict, will also receive a four-point deduction for next seasons Championship. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Southampton expelled from Championship play-offs over 'spygate' as Middlesbrough reinstated. https://www.skysports.com/watch/video/13546004/southampton-expelled-from-championship-play-offs-over-spygate-as-middlesbrough-reinstated
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Arsenal win the Premier League title: 5am trip to the Emirates and lots of bottles - how the players celebrated victory
+- Party on the streets of London: Arsenal fans' title celebrations - in pictures
+- Luke Littler: World No 1 presented with MBE by Prince William at Windsor Castle for his contribution to the sport of darts
 
 ---
 
 ### Club Updates
 
-## Story 3: Chelsea 2-1 Tottenham | Premier League highlights
+## Story 1: Arsenal win the Premier League title: 5am trip to the Emirates and lots of bottles - how the players celebrated victory
+**Slug (lower-third):** Arsenal win the Premier League title: 5am trip to the Emi…  
+**When:** 2026-05-20 04:10 (America/Winnipeg)  •  **Published:** 2026-05-20 09:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Arsenal win the Premier League title: 5am trip to the Emirates and lots of bottles - how the players celebrated victory. Arsenal were crowned Premier League champions after Man City drew with Bournemouth; it is the first time they have won the league in 22 years; players posted their celebrations on social media, including Declan Rice, Eberechi Eze, Martin Odegaard, Bukayo Saka and Myles Lewis-Skelly Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal win the Premier League title: 5am trip to the Emirates and lots of bottles - how the players celebrated victory. https://www.skysports.com/football/news/12040/13546135/arsenal-win-the-premier-league-title-5am-trip-to-the-emirates-and-lots-of-bottles-how-the-players-celebrated-victory
+- bbc.com — Arsenal win the Premier League - how the Gunners celebrated title win. https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Party on the streets of London: Arsenal fans' title celebrations - in pictures
+**Slug (lower-third):** Party on the streets of London: Arsenal fans' title celeb…  
+**When:** 2026-05-20 03:21 (America/Winnipeg)  •  **Published:** 2026-05-20 08:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Party on the streets of London: Arsenal fans' title celebrations - in pictures. Our photographer was outside the Emirates Stadium as Arsenal fans congregated to celebrate their team's first title triumph in 22 years Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Party on the streets of London: Arsenal fans' title celebrations - in pictures. https://www.theguardian.com/football/gallery/2026/may/20/london-arsenal-fans-title-celebrations-in-pictures
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Luke Littler: World No 1 presented with MBE by Prince William at Windsor Castle for his contribution to the sport of darts
+**Slug (lower-third):** Luke Littler: World No 1 presented with MBE by Prince Wil…  
+**When:** 2026-05-20 02:30 (America/Winnipeg)  •  **Published:** 2026-05-20 07:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Luke Littler: World No 1 presented with MBE by Prince William at Windsor Castle for his contribution to the sport of darts. World No 1 Luke Littler receives his MBE from the Prince of Wales at Windsor Castle on Tuesday; you can watch Premier League Darts Play-Offs live on Sky Sports next Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Luke Littler: World No 1 presented with MBE by Prince William at Windsor Castle for his contribution to the sport of darts. https://www.skysports.com/darts/news/12040/13546122/luke-littler-world-no-1-presented-with-mbe-by-prince-william-at-windsor-castle-for-his-contribution-to-the-sport-of-darts
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Julian Schuster's aggressive Freiburg aim for Europa League immortality
+**Slug (lower-third):** Julian Schuster's aggressive Freiburg aim for Europa Leag…  
+**When:** 2026-05-20 02:00 (America/Winnipeg)  •  **Published:** 2026-05-20 07:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Julian Schuster's aggressive Freiburg aim for Europa League immortality. Departures of club legend and star players have not stopped modest German side reaching showpiece with Aston Villa Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Julian Schuster's aggressive Freiburg aim for Europa League immortality. https://www.theguardian.com/football/2026/may/20/julian-schusters-aggressive-freiburg-aim-for-europa-league-immortality
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Khadija 'Bunny' Shaw: Is Man City star the best striker in WSL history?
+**Slug (lower-third):** Khadija 'Bunny' Shaw: Is Man City star the best striker i…  
+**When:** 2026-05-20 01:50 (America/Winnipeg)  •  **Published:** 2026-05-20 06:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Khadija 'Bunny' Shaw: Is Man City star the best striker in WSL history?. After Khadija Shaw helped Manchester City win the Women's Super League with another superb season, BBC Sport looks at where she stands among the division's greatest strikers. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Khadija 'Bunny' Shaw: Is Man City star the best striker in WSL history?. https://www.bbc.com/sport/football/articles/cq8wdz9np4go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Southampton kicked out of play-offs: Justice or harsh decision?
+**Slug (lower-third):** Southampton kicked out of play-offs: Justice or harsh dec…  
+**When:** 2026-05-20 01:08 (America/Winnipeg)  •  **Published:** 2026-05-20 06:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Southampton kicked out of play-offs: Justice or harsh decision?. Southampton will be playing in the Championship next season after they were expelled from the play-offs following their admission that they spied on three league rivals this season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Southampton kicked out of play-offs: Justice or harsh decision?. https://www.bbc.com/sport/football/articles/c202gegv9qlo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Aston Villa: I'm no Euro king claims Emery as he goes for fifth Europa League crown
+**Slug (lower-third):** Aston Villa: I'm no Euro king claims Emery as he goes for…  
+**When:** 2026-05-20 00:37 (America/Winnipeg)  •  **Published:** 2026-05-20 05:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Aston Villa: I'm no Euro king claims Emery as he goes for fifth Europa League crown. Aston Villa are aiming to end a 30-year trophy drought in Istanbul on Wednesday. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Aston Villa: I'm no Euro king claims Emery as he goes for fifth Europa League crown. https://www.bbc.com/sport/football/articles/cx21e2grxywo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Southampton expelled from Championship playoffs over Spygate
+**Slug (lower-third):** Southampton expelled from Championship playoffs over Spyg…  
+**When:** 2026-05-20 00:09 (America/Winnipeg)  •  **Published:** 2026-05-20 05:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Southampton expelled from Championship playoffs over Spygate. Southampton have been kicked out of the Championship playoff final after being found guilty of spying on multiple opponents during the 2025-26 season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- espn.com — Southampton expelled from Championship playoffs over Spygate. https://www.espn.com/soccer/story/_/id/48818048/southampton-expelled-championship-playoffs-spygate-middlesbrough
+- skysports.com — Southampton expelled from Championship play-offs over 'spygate' with Middlesbrough reinstated. https://www.skysports.com/football/news/12040/13545415/southampton-expelled-from-championship-play-offs-over-spygate-with-middlesbrough-reinstated
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Chelsea 2-1 Tottenham | Premier League highlights
 **Slug (lower-third):** Chelsea 2-1 Tottenham | Premier League highlights  
 **When:** 2026-05-19 17:18 (America/Winnipeg)  •  **Published:** 2026-05-19 22:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Chelsea 2-1 Tottenham | Premier League highlights. FREE TO WATCH: Highlights from Chelsea's match against Tottenham Hotspur in the Premier League. Relevance to standings and momentum.
@@ -93,87 +235,13 @@ Chelsea 2-1 Tottenham | Premier League highlights. FREE TO WATCH: Highlights fro
 
 ---
 
-## Story 4: Arsenal win the Premier League - how the Gunners celebrated title win
-**Slug (lower-third):** Arsenal win the Premier League - how the Gunners celebrat…  
-**When:** 2026-05-19 17:16 (America/Winnipeg)  •  **Published:** 2026-05-19 22:16 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal win the Premier League - how the Gunners celebrated title win. Arsenal have had to wait 22 years to celebrate a title win, and both the club's players and fans made sure to savour every second of it on Tuesday night. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Arsenal win the Premier League - how the Gunners celebrated title win. https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&at_campaign=rss
-- skysports.com — Arsenal win the Premier League: The 10 moments that won the Gunners the title for the first time in 22 years. https://www.skysports.com/football/news/12040/13545791/arsenal-win-the-premier-league-the-10-moments-that-won-the-gunners-the-title-for-the-first-time-in-22-years
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Arsenal crowned Premier League champions after Manchester City draw
-**Slug (lower-third):** Arsenal crowned Premier League champions after Manchester…  
-**When:** 2026-05-19 15:24 (America/Winnipeg)  •  **Published:** 2026-05-19 20:24 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal crowned Premier League champions after Manchester City draw. Arsenal's players celebrated at the training ground while fans flocked to the Emirates to mark the club's first Premier League title since 2004 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Arsenal crowned Premier League champions after Manchester City draw. https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth
-- skysports.com — Bournemouth 1-1 Man City: Pep Guardiola's side fail to take Premier League title fight to final day as draw sees Arsenal crowned champions. https://www.skysports.com/football/bournemouth-vs-manchester-city/report/531491
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Tottenham relegation fight: Fine margins leave Spurs fighting for survival on final day
-**Slug (lower-third):** Tottenham relegation fight: Fine margins leave Spurs figh…  
-**When:** 2026-05-19 18:16 (America/Winnipeg)  •  **Published:** 2026-05-19 23:16 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham relegation fight: Fine margins leave Spurs fighting for survival on final day. A controversial split-second call leaves Tottenham are left fighting for Premier League survival and dignity to avoid the ultimate humiliation on the last day of the season, says chief football writer Phil McNulty. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Tottenham relegation fight: Fine margins leave Spurs fighting for survival on final day. https://www.bbc.com/sport/football/articles/c302je261rno?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Bournemouth 1-1 Manchester City: Cherries secure Europe but Champions League is still on
-**Slug (lower-third):** Bournemouth 1-1 Manchester City: Cherries secure Europe b…  
-**When:** 2026-05-19 17:33 (America/Winnipeg)  •  **Published:** 2026-05-19 22:33 (UTC)  
+## Story 10: Bournemouth 1-1 Manchester City | Premier League highlights
+**Slug (lower-third):** Bournemouth 1-1 Manchester City | Premier League highligh…  
+**When:** 2026-05-19 16:53 (America/Winnipeg)  •  **Published:** 2026-05-19 21:53 (UTC)  
 **Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bournemouth 1-1 Manchester City: Cherries secure Europe but Champions League is still on. Bournemouth secure their place in Europe for the first time with a draw against Manchester City, but the Champions League is still within reach. Relevance to standings and momentum.
+Bournemouth 1-1 Manchester City | Premier League highlights. Highlights of the Premier League match between Bournemouth and Manchester City. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,79 +250,8 @@ Bournemouth 1-1 Manchester City: Cherries secure Europe but Champions League is 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Bournemouth 1-1 Manchester City: Cherries secure Europe but Champions League is still on. https://www.bbc.com/sport/football/articles/cn0p96pxy34o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Troy Deeney's Team of the Week: Virgil van Dijk, Bruno Fernandes, Ollie Watkins and more
-**Slug (lower-third):** Troy Deeney's Team of the Week: Virgil van Dijk, Bruno Fe…  
-**When:** 2026-05-19 17:29 (America/Winnipeg)  •  **Published:** 2026-05-19 22:29 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Troy Deeney's Team of the Week: Virgil van Dijk, Bruno Fernandes, Ollie Watkins and more. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Troy Deeney's Team of the Week: Virgil van Dijk, Bruno Fernandes, Ollie Watkins and more. https://www.bbc.com/sport/football/articles/cgepxlx8nd4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Pep Guardiola refuses to confirm expected departure from Manchester City
-**Slug (lower-third):** Pep Guardiola refuses to confirm expected departure from …  
-**When:** 2026-05-19 17:35 (America/Winnipeg)  •  **Published:** 2026-05-19 22:35 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Pep Guardiola refuses to confirm expected departure from Manchester City. Pep Guardiola refused to publicly comment on the expectation that his 10-year reign at Manchester City will come to an end after this season finishes Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Pep Guardiola refuses to confirm expected departure from Manchester City. https://www.theguardian.com/football/2026/may/19/pep-guardiola-exit-manchester-city-arsenal-bournemouth
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Southampton expelled from play-offs for spying on Middlesbrough, Oxford and Ipswich
-**Slug (lower-third):** Southampton expelled from play-offs for spying on Middles…  
-**When:** 2026-05-19 17:06 (America/Winnipeg)  •  **Published:** 2026-05-19 22:06 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Southampton expelled from play-offs for spying on Middlesbrough, Oxford and Ipswich. Southampton have been thrown out of the play-offs after admitting they spied on three clubs during the Championship season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Southampton expelled from play-offs for spying on Middlesbrough, Oxford and Ipswich. https://www.bbc.com/sport/football/articles/cwy2pnpqjl7o?at_medium=RSS&at_campaign=rss
+- skysports.com — Bournemouth 1-1 Manchester City | Premier League highlights. https://www.skysports.com/watch/video/13546065/bournemouth-1-1-manchester-city-premier-league-highlights
+- bbc.com — Premier League highlights: AFC Bournemouth 1-1 Manchester City. https://www.bbc.com/sport/football/videos/cn8p5vjwzx4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
