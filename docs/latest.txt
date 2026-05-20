@@ -1,53 +1,54 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-20 04:37 (America/Winnipeg)  |  2026-05-20 09:37 (UTC)
+**Generated:** 2026-05-20 10:24 (America/Winnipeg)  |  2026-05-20 15:24 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~4m 36s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arsenal win the Premier League title: 5am trip to the Emirates and lots of bottles - how the players celebrated victory
-- Party on the streets of London: Arsenal fans' title celebrations - in pictures
-- Luke Littler: World No 1 presented with MBE by Prince William at Windsor Castle for his contribution to the sport of darts
+- Premier League: What is at stake on final day of season?
+- Middlesbrough: Championship club's 'messy' build-up to Wembley play-off final
+- Bournemouth race to upgrade Vitality Stadium before first season in Europe
+
+---
+
+### Managerial Moves
+
+## Story 1: Arsenal to reward Mikel Arteta with huge pay rise and put Kroupi among transfer targets
+**Slug (lower-third):** Arsenal to reward Mikel Arteta with huge pay rise and put…  
+**When:** 2026-05-20 07:52 (America/Winnipeg)  •  **Published:** 2026-05-20 12:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal to reward Mikel Arteta with huge pay rise and put Kroupi among transfer targets. Arsenal's manager will be offered a large salary increase and the club are well advanced with plans to strengthen his squad Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Arsenal to reward Mikel Arteta with huge pay rise and put Kroupi among transfer targets. https://www.theguardian.com/football/2026/may/20/arsenal-mikel-arteta-new-contract-pay-rise-kroupi-alvarez-transfer-targets
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Club Updates
 
-## Story 1: Arsenal win the Premier League title: 5am trip to the Emirates and lots of bottles - how the players celebrated victory
-**Slug (lower-third):** Arsenal win the Premier League title: 5am trip to the Emi…  
-**When:** 2026-05-20 04:10 (America/Winnipeg)  •  **Published:** 2026-05-20 09:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Arsenal win the Premier League title: 5am trip to the Emirates and lots of bottles - how the players celebrated victory. Arsenal were crowned Premier League champions after Man City drew with Bournemouth; it is the first time they have won the league in 22 years; players posted their celebrations on social media, including Declan Rice, Eberechi Eze, Martin Odegaard, Bukayo Saka and Myles Lewis-Skelly Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Arsenal win the Premier League title: 5am trip to the Emirates and lots of bottles - how the players celebrated victory. https://www.skysports.com/football/news/12040/13546135/arsenal-win-the-premier-league-title-5am-trip-to-the-emirates-and-lots-of-bottles-how-the-players-celebrated-victory
-- bbc.com — Arsenal win the Premier League - how the Gunners celebrated title win. https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Party on the streets of London: Arsenal fans' title celebrations - in pictures
-**Slug (lower-third):** Party on the streets of London: Arsenal fans' title celeb…  
-**When:** 2026-05-20 03:21 (America/Winnipeg)  •  **Published:** 2026-05-20 08:21 (UTC)  
+## Story 2: Premier League: What is at stake on final day of season?
+**Slug (lower-third):** Premier League: What is at stake on final day of season?  
+**When:** 2026-05-20 10:02 (America/Winnipeg)  •  **Published:** 2026-05-20 15:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Party on the streets of London: Arsenal fans' title celebrations - in pictures. Our photographer was outside the Emirates Stadium as Arsenal fans congregated to celebrate their team's first title triumph in 22 years Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: What is at stake on final day of season?. BBC Sport's Ask Me Anything team explains what is at stake on the final day of the 2025-26 Premier League season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -56,7 +57,7 @@ Party on the streets of London: Arsenal fans' title celebrations - in pictures. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Party on the streets of London: Arsenal fans' title celebrations - in pictures. https://www.theguardian.com/football/gallery/2026/may/20/london-arsenal-fans-title-celebrations-in-pictures
+- bbc.com — Premier League: What is at stake on final day of season?. https://www.bbc.com/sport/football/articles/c62ewx2842jo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -65,37 +66,13 @@ Party on the streets of London: Arsenal fans' title celebrations - in pictures. 
 
 ---
 
-## Story 3: Luke Littler: World No 1 presented with MBE by Prince William at Windsor Castle for his contribution to the sport of darts
-**Slug (lower-third):** Luke Littler: World No 1 presented with MBE by Prince Wil…  
-**When:** 2026-05-20 02:30 (America/Winnipeg)  •  **Published:** 2026-05-20 07:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Luke Littler: World No 1 presented with MBE by Prince William at Windsor Castle for his contribution to the sport of darts. World No 1 Luke Littler receives his MBE from the Prince of Wales at Windsor Castle on Tuesday; you can watch Premier League Darts Play-Offs live on Sky Sports next Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Luke Littler: World No 1 presented with MBE by Prince William at Windsor Castle for his contribution to the sport of darts. https://www.skysports.com/darts/news/12040/13546122/luke-littler-world-no-1-presented-with-mbe-by-prince-william-at-windsor-castle-for-his-contribution-to-the-sport-of-darts
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Julian Schuster's aggressive Freiburg aim for Europa League immortality
-**Slug (lower-third):** Julian Schuster's aggressive Freiburg aim for Europa Leag…  
-**When:** 2026-05-20 02:00 (America/Winnipeg)  •  **Published:** 2026-05-20 07:00 (UTC)  
+## Story 3: Middlesbrough: Championship club's 'messy' build-up to Wembley play-off final
+**Slug (lower-third):** Middlesbrough: Championship club's 'messy' build-up to We…  
+**When:** 2026-05-20 09:39 (America/Winnipeg)  •  **Published:** 2026-05-20 14:39 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Julian Schuster's aggressive Freiburg aim for Europa League immortality. Departures of club legend and star players have not stopped modest German side reaching showpiece with Aston Villa Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Middlesbrough: Championship club's 'messy' build-up to Wembley play-off final. Having been reinstated into the Championship play-off final after Southampton's expulsion, BBC Radio Tees' Mark Drury lays out Middlesbrough's 'messy' preparations. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -104,7 +81,7 @@ Julian Schuster's aggressive Freiburg aim for Europa League immortality. Departu
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Julian Schuster's aggressive Freiburg aim for Europa League immortality. https://www.theguardian.com/football/2026/may/20/julian-schusters-aggressive-freiburg-aim-for-europa-league-immortality
+- bbc.com — Middlesbrough: Championship club's 'messy' build-up to Wembley play-off final. https://www.bbc.com/sport/football/articles/c62xr6dd3g9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -113,13 +90,13 @@ Julian Schuster's aggressive Freiburg aim for Europa League immortality. Departu
 
 ---
 
-## Story 5: Khadija 'Bunny' Shaw: Is Man City star the best striker in WSL history?
-**Slug (lower-third):** Khadija 'Bunny' Shaw: Is Man City star the best striker i…  
-**When:** 2026-05-20 01:50 (America/Winnipeg)  •  **Published:** 2026-05-20 06:50 (UTC)  
+## Story 4: Bournemouth race to upgrade Vitality Stadium before first season in Europe
+**Slug (lower-third):** Bournemouth race to upgrade Vitality Stadium before first…  
+**When:** 2026-05-20 09:27 (America/Winnipeg)  •  **Published:** 2026-05-20 14:27 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Khadija 'Bunny' Shaw: Is Man City star the best striker in WSL history?. After Khadija Shaw helped Manchester City win the Women's Super League with another superb season, BBC Sport looks at where she stands among the division's greatest strikers. Relevance to standings and momentum.
+Bournemouth race to upgrade Vitality Stadium before first season in Europe. Bournemouth need permission for their proposed stadium upgrades after qualifying for European football, which they sealed with a 1-1 draw with Manchester City. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -128,7 +105,7 @@ Khadija 'Bunny' Shaw: Is Man City star the best striker in WSL history?. After K
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Khadija 'Bunny' Shaw: Is Man City star the best striker in WSL history?. https://www.bbc.com/sport/football/articles/cq8wdz9np4go?at_medium=RSS&at_campaign=rss
+- theguardian.com — Bournemouth race to upgrade Vitality Stadium before first season in Europe. https://www.theguardian.com/football/2026/may/20/bournemouth-race-to-upgrade-vitality-stadium-before-first-season-in-europe
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -137,13 +114,13 @@ Khadija 'Bunny' Shaw: Is Man City star the best striker in WSL history?. After K
 
 ---
 
-## Story 6: Southampton kicked out of play-offs: Justice or harsh decision?
-**Slug (lower-third):** Southampton kicked out of play-offs: Justice or harsh dec…  
-**When:** 2026-05-20 01:08 (America/Winnipeg)  •  **Published:** 2026-05-20 06:08 (UTC)  
+## Story 5: Football Daily | Fever pitch as Ian Wright gets the Arsenal party started
+**Slug (lower-third):** Football Daily | Fever pitch as Ian Wright gets the Arsen…  
+**When:** 2026-05-20 09:24 (America/Winnipeg)  •  **Published:** 2026-05-20 14:24 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Southampton kicked out of play-offs: Justice or harsh decision?. Southampton will be playing in the Championship next season after they were expelled from the play-offs following their admission that they spied on three league rivals this season. Relevance to standings and momentum.
+Football Daily | Fever pitch as Ian Wright gets the Arsenal party started. In today's Football Daily: The Gunners get there in the end Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -152,7 +129,7 @@ Southampton kicked out of play-offs: Justice or harsh decision?. Southampton wil
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Southampton kicked out of play-offs: Justice or harsh decision?. https://www.bbc.com/sport/football/articles/c202gegv9qlo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Football Daily | Fever pitch as Ian Wright gets the Arsenal party started. https://www.theguardian.com/football/2026/may/20/arsenal-premier-league-title-win-football-daily-newsletter
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -161,13 +138,85 @@ Southampton kicked out of play-offs: Justice or harsh decision?. Southampton wil
 
 ---
 
-## Story 7: Aston Villa: I'm no Euro king claims Emery as he goes for fifth Europa League crown
-**Slug (lower-third):** Aston Villa: I'm no Euro king claims Emery as he goes for…  
-**When:** 2026-05-20 00:37 (America/Winnipeg)  •  **Published:** 2026-05-20 05:37 (UTC)  
+## Story 6: Why Bournemouth and Brighton want Aston Villa to win Europa League to have chance of Champions League qualification
+**Slug (lower-third):** Why Bournemouth and Brighton want Aston Villa to win Euro…  
+**When:** 2026-05-20 09:15 (America/Winnipeg)  •  **Published:** 2026-05-20 14:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
+
+### Presenter Script (3–5 sentences)
+Why Bournemouth and Brighton want Aston Villa to win Europa League to have chance of Champions League qualification. Bournemouth and Brighton need Aston Villa to win the Europa League to have a chance of qualifying for the Champions League; the Premier League will gain a sixth spot for Europes top competition if Villa win and finish fifth; watch every Premier League game on Sunday live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Why Bournemouth and Brighton want Aston Villa to win Europa League to have chance of Champions League qualification. https://www.skysports.com/football/news/12040/13546177/why-bournemouth-and-brighton-want-aston-villa-to-win-europa-league-to-have-chance-of-champions-league-qualification
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Southampton expelled from play-offs: Saints chief executive describes 'spygate' punishment as 'manifestly disproportionate' to the offence
+**Slug (lower-third):** Southampton expelled from play-offs: Saints chief executi…  
+**When:** 2026-05-20 09:10 (America/Winnipeg)  •  **Published:** 2026-05-20 14:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Southampton expelled from play-offs: Saints chief executive describes 'spygate' punishment as 'manifestly disproportionate' to the offence. Southampton have described their expulsion from the Championship play-offs as manifestly disproportionate to the offence committed; the clubs chief executive Phil Parsons has admitted to wrongdoing but claims the punishment is unacceptable Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Southampton expelled from play-offs: Saints chief executive describes 'spygate' punishment as 'manifestly disproportionate' to the offence. https://www.skysports.com/football/news/12040/13546248/southampton-expelled-from-play-offs-saints-chief-executive-describes-spygate-punishment-as-manifestly-disproportionate-to-the-offence
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Premier League 26/27 season start date, fixture release, final day, live Sky Sports games and match schedule
+**Slug (lower-third):** Premier League 26/27 season start date, fixture release, …  
+**When:** 2026-05-20 08:00 (America/Winnipeg)  •  **Published:** 2026-05-20 13:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Premier League 26/27 season start date, fixture release, final day, live Sky Sports games and match schedule. Premier League 26/27 season starts a week later due to 2026 World Cup; fixtures released on June 19; watch at least 215 live Premier League games on Sky Sports in 2026/27 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Premier League 26/27 season start date, fixture release, final day, live Sky Sports games and match schedule. https://www.skysports.com/football/news/12040/13546159/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: 'He's one of us': Liverpool fans say goodbye to Andy Robertson
+**Slug (lower-third):** 'He's one of us': Liverpool fans say goodbye to Andy Robe…  
+**When:** 2026-05-20 07:00 (America/Winnipeg)  •  **Published:** 2026-05-20 12:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Aston Villa: I'm no Euro king claims Emery as he goes for fifth Europa League crown. Aston Villa are aiming to end a 30-year trophy drought in Istanbul on Wednesday. Relevance to standings and momentum.
+'He's one of us': Liverpool fans say goodbye to Andy Robertson. 'Robbo' leaves the club on Sunday after nine years having won the lot and been loved by those who watched him play Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -176,7 +225,7 @@ Aston Villa: I'm no Euro king claims Emery as he goes for fifth Europa League cr
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Aston Villa: I'm no Euro king claims Emery as he goes for fifth Europa League crown. https://www.bbc.com/sport/football/articles/cx21e2grxywo?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'He's one of us': Liverpool fans say goodbye to Andy Robertson. https://www.theguardian.com/football/2026/may/20/liverpool-fans-say-goodbye-andy-robertson
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -185,13 +234,13 @@ Aston Villa: I'm no Euro king claims Emery as he goes for fifth Europa League cr
 
 ---
 
-## Story 8: Southampton expelled from Championship playoffs over Spygate
-**Slug (lower-third):** Southampton expelled from Championship playoffs over Spyg…  
-**When:** 2026-05-20 00:09 (America/Winnipeg)  •  **Published:** 2026-05-20 05:09 (UTC)  
+## Story 10: Referee Michael Salisbury not selected for final Premier League matchday
+**Slug (lower-third):** Referee Michael Salisbury not selected for final Premier …  
+**When:** 2026-05-20 06:20 (America/Winnipeg)  •  **Published:** 2026-05-20 11:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Southampton expelled from Championship playoffs over Spygate. Southampton have been kicked out of the Championship playoff final after being found guilty of spying on multiple opponents during the 2025-26 season. Relevance to standings and momentum.
+Referee Michael Salisbury not selected for final Premier League matchday. The referee for Manchester United's win over Nottingham Forest last Sunday has not been selected for any match in the final round of Premier League fixtures. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -200,58 +249,7 @@ Southampton expelled from Championship playoffs over Spygate. Southampton have b
 - Verified across reputable outlets.
 
 ### Sources
-- espn.com — Southampton expelled from Championship playoffs over Spygate. https://www.espn.com/soccer/story/_/id/48818048/southampton-expelled-championship-playoffs-spygate-middlesbrough
-- skysports.com — Southampton expelled from Championship play-offs over 'spygate' with Middlesbrough reinstated. https://www.skysports.com/football/news/12040/13545415/southampton-expelled-from-championship-play-offs-over-spygate-with-middlesbrough-reinstated
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Chelsea 2-1 Tottenham | Premier League highlights
-**Slug (lower-third):** Chelsea 2-1 Tottenham | Premier League highlights  
-**When:** 2026-05-19 17:18 (America/Winnipeg)  •  **Published:** 2026-05-19 22:18 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea 2-1 Tottenham | Premier League highlights. FREE TO WATCH: Highlights from Chelsea's match against Tottenham Hotspur in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Chelsea 2-1 Tottenham | Premier League highlights. https://www.skysports.com/watch/video/13546082/chelsea-2-1-tottenham-premier-league-highlights
-- bbc.com — Premier League highlights: Chelsea 2-1 Tottenham Hotspur. https://www.bbc.com/sport/football/videos/cze2r13e0jjo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Bournemouth 1-1 Manchester City | Premier League highlights
-**Slug (lower-third):** Bournemouth 1-1 Manchester City | Premier League highligh…  
-**When:** 2026-05-19 16:53 (America/Winnipeg)  •  **Published:** 2026-05-19 21:53 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bournemouth 1-1 Manchester City | Premier League highlights. Highlights of the Premier League match between Bournemouth and Manchester City. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Bournemouth 1-1 Manchester City | Premier League highlights. https://www.skysports.com/watch/video/13546065/bournemouth-1-1-manchester-city-premier-league-highlights
-- bbc.com — Premier League highlights: AFC Bournemouth 1-1 Manchester City. https://www.bbc.com/sport/football/videos/cn8p5vjwzx4o?at_medium=RSS&at_campaign=rss
+- bbc.com — Referee Michael Salisbury not selected for final Premier League matchday. https://www.bbc.com/sport/football/articles/c1j2egjlp53o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
