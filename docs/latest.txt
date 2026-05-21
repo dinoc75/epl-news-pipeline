@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-21 04:44 (America/Winnipeg)  |  2026-05-21 09:44 (UTC)
+**Generated:** 2026-05-21 10:31 (America/Winnipeg)  |  2026-05-21 15:31 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 41s
+**Estimated total video length:** ~4m 49s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Southampton: The FA to launch investigation into south coast club amid 'Spygate' scandal
-- Europa League champions Aston Villa get Birmingham victory parade
-- Freiburg 0-3 Aston Villa: Prince William celebrates Europa League final win
+- Tottenham Hotspur: How Spurs' hierarchy are trying to transform club regardless of Premier League status
+- Mikel Arteta: Arsenal manager questioned whether he was good enough to deliver a major trophy - now he's a Premier League champion
+- Arsenal win Premier League: Mikel Arteta says crying son told him of title victory
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Paul Merson: Mikel Arteta has transformed Arsenal from also-rans to Premier League champions
-**Slug (lower-third):** Paul Merson: Mikel Arteta has transformed Arsenal from al…  
-**When:** 2026-05-21 03:00 (America/Winnipeg)  •  **Published:** 2026-05-21 08:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 1: Mikel Arteta: Arsenal manager questioned whether he was good enough to deliver a major trophy - now he's a Premier League champion
+**Slug (lower-third):** Mikel Arteta: Arsenal manager questioned whether he was g…  
+**When:** 2026-05-21 10:00 (America/Winnipeg)  •  **Published:** 2026-05-21 15:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Paul Merson: Mikel Arteta has transformed Arsenal from also-rans to Premier League champions. Arsenal have clinched their first Premier League title in 22 years; Mikel Arteta has become the second-youngest manager to win the title; watch Arsenal lift the Premier League title live on Sky Sports at their final game at Crystal Palace this Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Mikel Arteta: Arsenal manager questioned whether he was good enough to deliver a major trophy - now he's a Premier League champion. Arsenal were crowned Premier League champions for the first time in 22 years this week; watch Arsenal lift the Premier League trophy live on Sky Sports this Sunday after their game with Crystal Palace, kick-off 4pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Paul Merson: Mikel Arteta has transformed Arsenal from also-rans to Premier Leag
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Paul Merson: Mikel Arteta has transformed Arsenal from also-rans to Premier League champions. https://www.skysports.com/football/news/12040/13546275/paul-merson-mikel-arteta-has-transformed-arsenal-from-also-rans-to-premier-league-champions
+- skysports.com — Mikel Arteta: Arsenal manager questioned whether he was good enough to deliver a major trophy - now he's a Premier League champion. https://www.skysports.com/football/news/12040/13546579/mikel-arteta-arsenal-manager-questioned-whether-he-was-good-enough-to-deliver-a-major-trophy-now-hes-a-premier-league-champion
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ Paul Merson: Mikel Arteta has transformed Arsenal from also-rans to Premier Leag
 
 ---
 
-### League & Regulation
-
-## Story 2: Southampton: The FA to launch investigation into south coast club amid 'Spygate' scandal
-**Slug (lower-third):** Southampton: The FA to launch investigation into south co…  
-**When:** 2026-05-21 05:00 (America/Winnipeg)  •  **Published:** 2026-05-21 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 2: Arsenal win Premier League: Mikel Arteta says crying son told him of title victory
+**Slug (lower-third):** Arsenal win Premier League: Mikel Arteta says crying son …  
+**When:** 2026-05-21 09:57 (America/Winnipeg)  •  **Published:** 2026-05-21 14:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Southampton: The FA to launch investigation into south coast club amid 'Spygate' scandal. The FA could charge individuals with bringing the game into disrepute after Southampton were expelled from the Sky Bet Championship play-off final by an independent panel amid the Spygate scandal; during the hearing, the EFL did not have the power to charge individuals Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arsenal win Premier League: Mikel Arteta says crying son told him of title victory. Arsenal manager Mike Arteta says he could not watch the game that secured the Premier League title, opting to have a barbecue in his garden instead. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,33 @@ Southampton: The FA to launch investigation into south coast club amid 'Spygate'
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Southampton: The FA to launch investigation into south coast club amid 'Spygate' scandal. https://www.skysports.com/football/news/12040/13546521/southampton-the-fa-to-launch-investigation-into-south-coast-club-amid-spygate-scandal
+- bbc.com — Arsenal win Premier League: Mikel Arteta says crying son told him of title victory. https://www.bbc.com/sport/football/articles/cn4p255l5xeo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 3: Sara Agrez: Liverpool agree to sign Cologne defender on free transfer
+**Slug (lower-third):** Sara Agrez: Liverpool agree to sign Cologne defender on f…  
+**When:** 2026-05-21 07:50 (America/Winnipeg)  •  **Published:** 2026-05-21 12:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Sara Agrez: Liverpool agree to sign Cologne defender on free transfer. Liverpool agree a deal to sign Cologne defender Sara Agrez on a free transfer on 1 July. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Sara Agrez: Liverpool agree to sign Cologne defender on free transfer. https://www.bbc.com/sport/football/articles/cm2pyq5vl92o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +92,13 @@ Southampton: The FA to launch investigation into south coast club amid 'Spygate'
 
 ### Club Updates
 
-## Story 3: Europa League champions Aston Villa get Birmingham victory parade
-**Slug (lower-third):** Europa League champions Aston Villa get Birmingham victor…  
-**When:** 2026-05-21 04:20 (America/Winnipeg)  •  **Published:** 2026-05-21 09:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Tottenham Hotspur: How Spurs' hierarchy are trying to transform club regardless of Premier League status
+**Slug (lower-third):** Tottenham Hotspur: How Spurs' hierarchy are trying to tra…  
+**When:** 2026-05-21 10:25 (America/Winnipeg)  •  **Published:** 2026-05-21 15:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Europa League champions Aston Villa get Birmingham victory parade. Roads will be closed in Birmingham city centre on Thursday as the city celebrates Villa's victory. Relevance to standings and momentum.
+Tottenham Hotspur: How Spurs' hierarchy are trying to transform club regardless of Premier League status. An overhaul is happening behind the scenes at Spurs amid their Premier League relegation battle; Sky Sports News examines the changes - and if they are having an impact; Watch Tottenham vs Everton live on Sky Sports Main Event on Sunday from 3pm; kick-off 4pm. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +107,7 @@ Europa League champions Aston Villa get Birmingham victory parade. Roads will be
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Europa League champions Aston Villa get Birmingham victory parade. https://www.bbc.com/news/articles/c4gv0jrpp6yo?at_medium=RSS&at_campaign=rss
+- skysports.com — Tottenham Hotspur: How Spurs' hierarchy are trying to transform club regardless of Premier League status. https://www.skysports.com/football/news/12040/13546565/tottenham-hotspur-how-spurs-hierarchy-are-trying-to-transform-club-regardless-of-premier-league-status
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,10 +116,130 @@ Europa League champions Aston Villa get Birmingham victory parade. Roads will be
 
 ---
 
-## Story 4: Freiburg 0-3 Aston Villa: Prince William celebrates Europa League final win
+## Story 5: Championship play-off final: Middlesbrough's Kim Hellberg and Hull's Sergej Jakirovic discuss 'Spygate' scandal
+**Slug (lower-third):** Championship play-off final: Middlesbrough's Kim Hellberg…  
+**When:** 2026-05-21 09:48 (America/Winnipeg)  •  **Published:** 2026-05-21 14:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
+
+### Presenter Script (3–5 sentences)
+Championship play-off final: Middlesbrough's Kim Hellberg and Hull's Sergej Jakirovic discuss 'Spygate' scandal. Middlesbrough were reinstated to the Sky Bet Championship play-offs after Southamptons expulsion following the Spygate scandal; Kim Hellbergs side will face Hull in the final at Wembley on Saturday, live on Sky Sports, with a place in the Premier League on the line Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Championship play-off final: Middlesbrough's Kim Hellberg and Hull's Sergej Jakirovic discuss 'Spygate' scandal. https://www.skysports.com/football/news/12040/13546630/championship-play-off-final-middlesbroughs-kim-hellberg-and-hulls-sergej-jakirovic-discuss-spygate-scandal
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Southampton claim spying on Middlesbrough did not change their tactics
+**Slug (lower-third):** Southampton claim spying on Middlesbrough did not change …  
+**When:** 2026-05-21 08:49 (America/Winnipeg)  •  **Published:** 2026-05-21 13:49 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Southampton claim spying on Middlesbrough did not change their tactics. Southampton showed footage of their training sessions to the EFL's independent disciplinary commission to try to prove they gained no material advantage Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Southampton claim spying on Middlesbrough did not change their tactics. https://www.theguardian.com/football/2026/may/21/southampton-spying-scandal-millwall-wrexham-legal-options
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: International Darts Open: Van Gerwen, Price, Van Veen all in action as Bunting begins title defence in Riesa
+**Slug (lower-third):** International Darts Open: Van Gerwen, Price, Van Veen all…  
+**When:** 2026-05-21 07:41 (America/Winnipeg)  •  **Published:** 2026-05-21 12:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+International Darts Open: Van Gerwen, Price, Van Veen all in action as Bunting begins title defence in Riesa. Stephen Bunting begins International Darts Open title defence with potential match against Cristo Reyes; James Wade could face Dave Chisnall in the second round as Van Veen, Van Gerwen, Price all in action; Watch Premier League Darts live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — International Darts Open: Van Gerwen, Price, Van Veen all in action as Bunting begins title defence in Riesa. https://www.skysports.com/darts/news/12040/13546594/international-darts-open-van-gerwen-price-van-veen-all-in-action-as-bunting-begins-title-defence-in-riesa
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Aston Villa: Ghanaian village Juaben to celebrate Europa League win with parade
+**Slug (lower-third):** Aston Villa: Ghanaian village Juaben to celebrate Europa …  
+**When:** 2026-05-21 07:29 (America/Winnipeg)  •  **Published:** 2026-05-21 12:29 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Aston Villa: Ghanaian village Juaben to celebrate Europa League win with parade. A village in Ghana will hold a parade with 30 motorcycles and a minibus to celebrate Aston Villa's Europa League victory. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Aston Villa: Ghanaian village Juaben to celebrate Europa League win with parade. https://www.bbc.com/sport/football/articles/ce8pg5jdvzeo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Champions Cup: The greatest finals in the history of Europe's highest level ahead of Leinster vs Bordeaux-Begles meeting
+**Slug (lower-third):** Champions Cup: The greatest finals in the history of Euro…  
+**When:** 2026-05-21 05:30 (America/Winnipeg)  •  **Published:** 2026-05-21 10:30 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Champions Cup: The greatest finals in the history of Europe's highest level ahead of Leinster vs Bordeaux-Begles meeting. We pick out seven of the greatest European finals in Champions Cup history dating back to the first in 1996. From La Rochelles remarkable comeback win vs Leinster in Dublin, to wins by Leicester Tigers, Exeter Chiefs, Munster, Wasps and Leinster in the pinnacle of club rugby Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Champions Cup: The greatest finals in the history of Europe's highest level ahead of Leinster vs Bordeaux-Begles meeting. https://www.skysports.com/rugby-union/news/12040/13546522/champions-cup-the-greatest-finals-in-the-history-of-europes-highest-level-ahead-of-leinster-vs-bordeaux-begles-meeting
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Freiburg 0-3 Aston Villa: Prince William celebrates Europa League final win
 **Slug (lower-third):** Freiburg 0-3 Aston Villa: Prince William celebrates Europ…  
 **When:** 2026-05-21 04:16 (America/Winnipeg)  •  **Published:** 2026-05-21 09:16 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Freiburg 0-3 Aston Villa: Prince William celebrates Europa League final win. Prince William shows a range of emotions during Aston Villa's Europa League final win over Freiburg in Istanbul, as fans celebrate in Birmingham. Relevance to standings and momentum.
@@ -111,150 +255,6 @@ Freiburg 0-3 Aston Villa: Prince William celebrates Europa League final win. Pri
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Southampton: FA opens investigation over Spygate
-**Slug (lower-third):** Southampton: FA opens investigation over Spygate  
-**When:** 2026-05-21 03:29 (America/Winnipeg)  •  **Published:** 2026-05-21 08:29 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Southampton: FA opens investigation over Spygate. The Football Association opens an investigation into Southampton's conduct after the club admit to spying on three clubs during the Championship season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Southampton: FA opens investigation over Spygate. https://www.bbc.com/sport/football/articles/crmplprldl8o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: The 10 numbers that sum up how Arsenal won the Premier League
-**Slug (lower-third):** The 10 numbers that sum up how Arsenal won the Premier Le…  
-**When:** 2026-05-21 02:00 (America/Winnipeg)  •  **Published:** 2026-05-21 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-The 10 numbers that sum up how Arsenal won the Premier League. Arsenal won the title thanks to defensive excellence, relentless consistency and exploiting fine margins Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — The 10 numbers that sum up how Arsenal won the Premier League. https://www.theguardian.com/football/2026/may/21/numbers-sum-up-arsenal-won-premier-league
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: NBA Playoffs: Shai Gilgeous-Alexander scores 30 as Oklahoma City Thunder beat San Antonio Spurs in Game 2 to level Western Conference finals
-**Slug (lower-third):** NBA Playoffs: Shai Gilgeous-Alexander scores 30 as Oklaho…  
-**When:** 2026-05-21 01:50 (America/Winnipeg)  •  **Published:** 2026-05-21 06:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-NBA Playoffs: Shai Gilgeous-Alexander scores 30 as Oklahoma City Thunder beat San Antonio Spurs in Game 2 to level Western Conference finals. Defending champions Oklahoma City Thunder level the Western Conference finals 1-1 after 122-113 victory at home over San Antonio Spurs; NBA MVP Shai Gilgeous-Alexander scores 30 points, while Alex Caruso adds 17 off the bench; Game 3 takes place on Friday in San Antonio Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — NBA Playoffs: Shai Gilgeous-Alexander scores 30 as Oklahoma City Thunder beat San Antonio Spurs in Game 2 to level Western Conference finals. https://www.skysports.com/nba/news/12040/13546480/nba-playoffs-shai-gilgeous-alexander-scores-30-as-oklahoma-city-thunder-beat-san-antonio-spurs-in-game-2-to-level-western-conference-finals
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: World Cup 2026: Mohamed Salah in Egypt squad
-**Slug (lower-third):** World Cup 2026: Mohamed Salah in Egypt squad  
-**When:** 2026-05-21 01:26 (America/Winnipeg)  •  **Published:** 2026-05-21 06:26 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-World Cup 2026: Mohamed Salah in Egypt squad. Liverpool forward Mohamed Salah is named in Egypt's preliminary World Cup squad, which will be trimmed by one player this month. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — World Cup 2026: Mohamed Salah in Egypt squad. https://www.bbc.com/sport/football/articles/cpwpnjkjl94o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Rodri, Stones, Silva, Cucurella, Casemiro, Alisson, Rashford, Toure
-**Slug (lower-third):** Football gossip: Rodri, Stones, Silva, Cucurella, Casemir…  
-**When:** 2026-05-20 17:26 (America/Winnipeg)  •  **Published:** 2026-05-20 22:26 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Rodri, Stones, Silva, Cucurella, Casemiro, Alisson, Rashford, Toure. Real Madrid are confident of signing Rodri from Manchester City amid Pep Guardiola's departure, Bayern Munich plan a shock move for John Stones, Atletico Madrid want Marc Cucurella, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Rodri, Stones, Silva, Cucurella, Casemiro, Alisson, Rashford, Toure. https://www.bbc.com/sport/football/articles/c5yx4r9xlkxo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Guardiola leaves Manchester City as one of the game's greats - and someone who knows its dark heart | Barney Ronay
-**Slug (lower-third):** Guardiola leaves Manchester City as one of the game's gre…  
-**When:** 2026-05-20 13:00 (America/Winnipeg)  •  **Published:** 2026-05-20 18:00 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Guardiola leaves Manchester City as one of the game's greats - and someone who knows its dark heart | Barney Ronay. While there is no denying the magnitude of his achievements, his legacy is also tied up in politics, propaganda and hard power Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Guardiola leaves Manchester City as one of the game's greats - and someone who knows its dark heart | Barney Ronay. https://www.theguardian.com/football/2026/may/20/pep-guardiola-leaves-manchester-city-uae-sportswashing-politics-propaganda
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
