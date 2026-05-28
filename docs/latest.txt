@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-28 11:01 (America/Winnipeg)  |  2026-05-28 16:01 (UTC)
+**Generated:** 2026-05-28 15:26 (America/Winnipeg)  |  2026-05-28 20:26 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~4m 42s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Mikel Arteta new contract: Arsenal owners optimistic of tying manager to new deal after Premier League win
-- Hull City: Football Association charges club over Chelsea discriminatory chants
-- Direct, intense ... selfish? What are Barcelona getting in Anthony Gordon?
+- Tottenham transfers news: Spurs edging close to signing Marcos Senesi and hopeful of move for Andy Robertson
+- Premier League Darts Finals Night: Gerwyn Price reels in Big Fish MID-LEG then gets telling off by referee!
+- BBC Football Awards: Winners for Premier League, Scottish Premiership, WSL & EFL in 2025-26 revealed
 
 ---
 
@@ -42,10 +42,35 @@ Mikel Arteta new contract: Arsenal owners optimistic of tying manager to new dea
 
 ### Transfers
 
-## Story 2: Man Utd transfers: Could a central midfielder be Michael Carrick's first signing?
+## Story 2: Tottenham transfers news: Spurs edging close to signing Marcos Senesi and hopeful of move for Andy Robertson
+**Slug (lower-third):** Tottenham transfers news: Spurs edging close to signing M…  
+**When:** 2026-05-28 16:00 (America/Winnipeg)  •  **Published:** 2026-05-28 21:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Tottenham transfers news: Spurs edging close to signing Marcos Senesi and hopeful of move for Andy Robertson. Marcos Senesi is available on a free transfer after a four-season stay at Bournemouth; LaLiga and Serie A teams have tabled offers for the 29-year-old; Tottenham are also hopeful of finalising a deal to bring Andy Robertson to north London Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Tottenham transfers news: Spurs edging close to signing Marcos Senesi and hopeful of move for Andy Robertson. https://www.skysports.com/football/news/12040/13547838/tottenham-transfers-news-spurs-edging-close-to-signing-marcos-senesi-and-hopeful-of-move-for-andy-robertson
+- bbc.com — Marcos Senesi: Tottenham close to signing Bournemouth defender. https://www.bbc.com/sport/football/articles/cwy2r4vpy0ko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Man Utd transfers: Could a central midfielder be Michael Carrick's first signing?
 **Slug (lower-third):** Man Utd transfers: Could a central midfielder be Michael …  
 **When:** 2026-05-28 09:44 (America/Winnipeg)  •  **Published:** 2026-05-28 14:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man Utd transfers: Could a central midfielder be Michael Carrick's first signing?. Manchester United are prioritising central midfield signings this summer under Michael Carrick. Implications for the squad and table.
@@ -68,9 +93,9 @@ Man Utd transfers: Could a central midfielder be Michael Carrick's first signing
 
 ### Injuries
 
-## Story 3: Anthony Gordon transfer news: Why are Barcelona signing Newcastle forward?
+## Story 4: Anthony Gordon transfer news: Why are Barcelona signing Newcastle forward?
 **Slug (lower-third):** Anthony Gordon transfer news: Why are Barcelona signing N…  
-**When:** 2026-05-28 08:06 (America/Winnipeg)  •  **Published:** 2026-05-28 13:06 (UTC)  
+**When:** 2026-05-28 11:47 (America/Winnipeg)  •  **Published:** 2026-05-28 16:47 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -94,13 +119,13 @@ Anthony Gordon transfer news: Why are Barcelona signing Newcastle forward?. Anth
 
 ### League & Regulation
 
-## Story 4: Hull City: Football Association charges club over Chelsea discriminatory chants
-**Slug (lower-third):** Hull City: Football Association charges club over Chelsea…  
-**When:** 2026-05-28 10:46 (America/Winnipeg)  •  **Published:** 2026-05-28 15:46 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Arsenal's co-chair reveals secrets of how Kroenke family went from furious fan protests to Premier League title glory and dynasty planning
+**Slug (lower-third):** Arsenal's co-chair reveals secrets of how Kroenke family …  
+**When:** 2026-05-28 11:52 (America/Winnipeg)  •  **Published:** 2026-05-28 16:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Hull City: Football Association charges club over Chelsea discriminatory chants. Hull City are charged by the Football Association over discriminatory chanting in their FA Cup defeat by Chelsea. Relevance to standings and momentum.
+Arsenal's co-chair reveals secrets of how Kroenke family went from furious fan protests to Premier League title glory and dynasty planning. In a rare interview ahead of Saturdays Champions League final, Arsenal co-chair Josh Kroenke reveals untold stories of the clubs transformation from banter era and fan protests to Premier League champions with plans to build a trophy-winning dynasty Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,7 +134,7 @@ Hull City: Football Association charges club over Chelsea discriminatory chants.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Hull City: Football Association charges club over Chelsea discriminatory chants. https://www.bbc.com/sport/football/articles/cqjp1j19njno?at_medium=RSS&at_campaign=rss
+- skysports.com — Arsenal's co-chair reveals secrets of how Kroenke family went from furious fan protests to Premier League title glory and dynasty planning. https://www.skysports.com/football/news/12040/13548799/arsenals-co-chair-reveals-secrets-of-how-kroenke-family-went-from-furious-fan-protests-to-premier-league-title-glory-and-dynasty-planning
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -120,10 +145,58 @@ Hull City: Football Association charges club over Chelsea discriminatory chants.
 
 ### Club Updates
 
-## Story 5: Direct, intense ... selfish? What are Barcelona getting in Anthony Gordon?
+## Story 6: Premier League Darts Finals Night: Gerwyn Price reels in Big Fish MID-LEG then gets telling off by referee!
+**Slug (lower-third):** Premier League Darts Finals Night: Gerwyn Price reels in …  
+**When:** 2026-05-28 15:18 (America/Winnipeg)  •  **Published:** 2026-05-28 20:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League Darts Finals Night: Gerwyn Price reels in Big Fish MID-LEG then gets telling off by referee!. Gerwyn Price reels in Big Fish mid-leg and then gets a telling off by referee Huw Ware in the Premier League Darts semi-final. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Premier League Darts Finals Night: Gerwyn Price reels in Big Fish MID-LEG then gets telling off by referee!. https://www.skysports.com/watch/video/13548869/premier-league-darts-finals-night-gerwyn-price-reels-in-big-fish-mid-leg-then-gets-telling-off-by-referee
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: BBC Football Awards: Winners for Premier League, Scottish Premiership, WSL & EFL in 2025-26 revealed
+**Slug (lower-third):** BBC Football Awards: Winners for Premier League, Scottish…  
+**When:** 2026-05-28 13:56 (America/Winnipeg)  •  **Published:** 2026-05-28 18:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+BBC Football Awards: Winners for Premier League, Scottish Premiership, WSL & EFL in 2025-26 revealed. For the first time, BBC Sport is handing out end-of-season football awards to the cream of the crop in English and Scottish football - and here are the winners. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — BBC Football Awards: Winners for Premier League, Scottish Premiership, WSL & EFL in 2025-26 revealed. https://www.bbc.com/sport/football/articles/ckgp05v0qr2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Direct, intense ... selfish? What are Barcelona getting in Anthony Gordon?
 **Slug (lower-third):** Direct, intense ... selfish? What are Barcelona getting i…  
 **When:** 2026-05-28 09:58 (America/Winnipeg)  •  **Published:** 2026-05-28 14:58 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Direct, intense ... selfish? What are Barcelona getting in Anthony Gordon?. Some Newcastle fans are not distraught to see the winger leave but his pedigree in the Champions League is unquestionable Relevance to standings and momentum.
@@ -144,34 +217,10 @@ Direct, intense ... selfish? What are Barcelona getting in Anthony Gordon?. Some
 
 ---
 
-## Story 6: How nine teams in Europe affects Premier League
-**Slug (lower-third):** How nine teams in Europe affects Premier League  
-**When:** 2026-05-28 09:31 (America/Winnipeg)  •  **Published:** 2026-05-28 14:31 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-How nine teams in Europe affects Premier League. For the second season in a row, the Premier League will have nine teams in Europe - and that will have knock-on effects domestically. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — How nine teams in Europe affects Premier League. https://www.bbc.com/sport/football/articles/cd6ped58nv4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks
+## Story 9: Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks
 **Slug (lower-third):** Football Daily | Crystal Palace keep good times rolling b…  
 **When:** 2026-05-28 09:25 (America/Winnipeg)  •  **Published:** 2026-05-28 14:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks. In today's Football Daily: the Eagles fly again Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -192,34 +241,10 @@ Football Daily | Crystal Palace keep good times rolling but must now fend off mo
 
 ---
 
-## Story 8: Full-backs and midfield balance key to Arsenal hopes of taming PSG's devastating wings
-**Slug (lower-third):** Full-backs and midfield balance key to Arsenal hopes of t…  
-**When:** 2026-05-28 08:41 (America/Winnipeg)  •  **Published:** 2026-05-28 13:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Full-backs and midfield balance key to Arsenal hopes of taming PSG's devastating wings. It would be easy to look at Saturday's Champions League final as a battle of attack versus defence, of beauty against pragmatism. But it would not entirely be true Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Full-backs and midfield balance key to Arsenal hopes of taming PSG's devastating wings. https://www.theguardian.com/football/2026/may/28/full-backs-midfield-balance-arsenal-tactics-psg-champions-league-final
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Southampton must be 'careful' with finances, says Kieran Maguire
+## Story 10: Southampton must be 'careful' with finances, says Kieran Maguire
 **Slug (lower-third):** Southampton must be 'careful' with finances, says Kieran …  
 **When:** 2026-05-28 07:56 (America/Winnipeg)  •  **Published:** 2026-05-28 12:56 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Southampton must be 'careful' with finances, says Kieran Maguire. Southampton must be "very careful" over their debts and fiscal position, says football finance expert Kieran Maguire. Relevance to standings and momentum.
@@ -232,30 +257,6 @@ Southampton must be 'careful' with finances, says Kieran Maguire. Southampton mu
 
 ### Sources
 - bbc.com — Southampton must be 'careful' with finances, says Kieran Maguire. https://www.bbc.com/sport/football/articles/c8d82zn563vo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Inside Liverpool's season of pain: Diogo Jota's tragic death and a dreadful defence of their Premier League title
-**Slug (lower-third):** Inside Liverpool's season of pain: Diogo Jota's tragic de…  
-**When:** 2026-05-28 07:32 (America/Winnipeg)  •  **Published:** 2026-05-28 12:32 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
-
-### Presenter Script (3–5 sentences)
-Inside Liverpool's season of pain: Diogo Jota's tragic death and a dreadful defence of their Premier League title. Liverpool laboured to a fifth-place finish in the Premier League having started the season as red-hot title favourites; a big-spending summer was expected to propel their title defence but Arne Slots side fell apart after a solid start Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Inside Liverpool's season of pain: Diogo Jota's tragic death and a dreadful defence of their Premier League title. https://www.skysports.com/football/news/12040/13548716/inside-liverpools-season-of-pain-diogo-jotas-tragic-death-and-a-dreadful-defence-of-their-premier-league-title
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
