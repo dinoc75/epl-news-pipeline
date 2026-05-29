@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-28 22:49 (America/Winnipeg)  |  2026-05-29 03:49 (UTC)
+**Generated:** 2026-05-29 04:55 (America/Winnipeg)  |  2026-05-29 09:55 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 56s
+**Estimated total video length:** ~4m 02s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Tottenham transfers news: Spurs edging close to signing Marcos Senesi and hopeful of move for Andy Robertson
-- Luke Littler breaks down in tears after epic Premier League triumph: 'I picked myself up after tough times'
-- Arsenal transfer news: Barcelona weigh up approach for Premier League title-winning defender Piero Hincapie - Paper Talk
+- Manchester United transfer news: Ederson can adapt to the Premier League and be flexible for Michael Carrick
+- Ibrahima Konate set to leave Liverpool on a free transfer
+- After dramatic Shaw U-turn and title win, Manchester City target historic double
 
 ---
 
 ### Transfers
 
-## Story 1: Tottenham transfers news: Spurs edging close to signing Marcos Senesi and hopeful of move for Andy Robertson
-**Slug (lower-third):** Tottenham transfers news: Spurs edging close to signing M…  
-**When:** 2026-05-28 16:00 (America/Winnipeg)  •  **Published:** 2026-05-28 21:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 1: Manchester United transfer news: Ederson can adapt to the Premier League and be flexible for Michael Carrick
+**Slug (lower-third):** Manchester United transfer news: Ederson can adapt to the…  
+**When:** 2026-05-29 05:00 (America/Winnipeg)  •  **Published:** 2026-05-29 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Tottenham transfers news: Spurs edging close to signing Marcos Senesi and hopeful of move for Andy Robertson. Marcos Senesi is available on a free transfer after a four-season stay at Bournemouth; LaLiga and Serie A teams have tabled offers for the 29-year-old; Tottenham are also hopeful of finalising a deal to bring Andy Robertson to north London Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Manchester United transfer news: Ederson can adapt to the Premier League and be flexible for Michael Carrick. Manchester United's move for Atalanta midfielder Ederson is a sensible signing, argues Adam Bate. With insight from speaking to his former coach in Brazil, we assess what sort of player he is and why there is hope that he can adapt under Michael Carrick at Old Trafford Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,8 +31,7 @@ Tottenham transfers news: Spurs edging close to signing Marcos Senesi and hopefu
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham transfers news: Spurs edging close to signing Marcos Senesi and hopeful of move for Andy Robertson. https://www.skysports.com/football/news/12040/13547838/tottenham-transfers-news-spurs-edging-close-to-signing-marcos-senesi-and-hopeful-of-move-for-andy-robertson
-- bbc.com — Marcos Senesi: Tottenham close to signing Bournemouth defender. https://www.bbc.com/sport/football/articles/cwy2r4vpy0ko?at_medium=RSS&at_campaign=rss
+- skysports.com — Manchester United transfer news: Ederson can adapt to the Premier League and be flexible for Michael Carrick. https://www.skysports.com/football/news/12040/13548882/manchester-united-transfer-news-ederson-can-adapt-to-the-premier-league-and-be-flexible-for-michael-carrick
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -41,10 +40,35 @@ Tottenham transfers news: Spurs edging close to signing Marcos Senesi and hopefu
 
 ---
 
-## Story 2: Arsenal transfer news: Barcelona weigh up approach for Premier League title-winning defender Piero Hincapie - Paper Talk
+## Story 2: Ibrahima Konate set to leave Liverpool on a free transfer
+**Slug (lower-third):** Ibrahima Konate set to leave Liverpool on a free transfer  
+**When:** 2026-05-29 04:48 (America/Winnipeg)  •  **Published:** 2026-05-29 09:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ibrahima Konate set to leave Liverpool on a free transfer. Ibrahima Konate is set to leave Liverpool for free when his current contract expires in June. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Ibrahima Konate set to leave Liverpool on a free transfer. https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss
+- skysports.com — Liverpool transfer news: Ibrahima Konate set to leave Anfield on a free transfer five years after move from RB Leipzig. https://www.skysports.com/football/news/12040/13548896/liverpool-transfer-news-ibrahima-konate
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Arsenal transfer news: Barcelona weigh up approach for Premier League title-winning defender Piero Hincapie - Paper Talk
 **Slug (lower-third):** Arsenal transfer news: Barcelona weigh up approach for Pr…  
 **When:** 2026-05-28 17:58 (America/Winnipeg)  •  **Published:** 2026-05-28 22:58 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~26s
+**Virality score:** 90  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
 Arsenal transfer news: Barcelona weigh up approach for Premier League title-winning defender Piero Hincapie - Paper Talk. Fridays top stories include: Barcelona are in talks over a deal for Atletico Madrids Julian Alvarez; Martin ONeills meeting with Celtic supremo Dermot Desmond has been delayed; Wolves are continuing discussions for former Newcastle United full-back Kieran Trippier Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -65,13 +89,13 @@ Arsenal transfer news: Barcelona weigh up approach for Premier League title-winn
 
 ---
 
-## Story 3: Ibrahima Konate poised to leave Liverpool after failing to agree new contract
+## Story 4: Ibrahima Konate poised to leave Liverpool after failing to agree new contract
 **Slug (lower-third):** Ibrahima Konate poised to leave Liverpool after failing t…  
 **When:** 2026-05-28 17:21 (America/Winnipeg)  •  **Published:** 2026-05-28 22:21 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ibrahima Konate poised to leave Liverpool after failing to agree new contract. Ibrahima Konate looks poised to leave Liverpool after failing to agree a contract extension Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Ibrahima Konate poised to leave Liverpool after failing to agree new contract. The 27-year-old centre-back is set to leave Liverpool for free, with PSG and Real Madrid among clubs interested in his signature Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -89,13 +113,15 @@ Ibrahima Konate poised to leave Liverpool after failing to agree new contract. I
 
 ---
 
-## Story 4: Man Utd transfers: Could a central midfielder be Michael Carrick's first signing?
-**Slug (lower-third):** Man Utd transfers: Could a central midfielder be Michael …  
-**When:** 2026-05-28 09:44 (America/Winnipeg)  •  **Published:** 2026-05-28 14:44 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+### League & Regulation
+
+## Story 5: San Antonio Spurs 118-91 Oklahoma City Thunder: Victor Wembanyama leads side to comfortable win in sixth game and send series to decider
+**Slug (lower-third):** San Antonio Spurs 118-91 Oklahoma City Thunder: Victor We…  
+**When:** 2026-05-29 01:38 (America/Winnipeg)  •  **Published:** 2026-05-29 06:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Man Utd transfers: Could a central midfielder be Michael Carrick's first signing?. Manchester United are prioritising central midfield signings this summer under Michael Carrick. Implications for the squad and table.
+San Antonio Spurs 118-91 Oklahoma City Thunder: Victor Wembanyama leads side to comfortable win in sixth game and send series to decider. San Antonio Spurs hammered reigning NBA champions Oklahoma City Thunder in Game 6 to send the West Conference Finals to a decider; watch the Game 7 decider in the early hours of Sunday morning from midnight, live on Sky Sports+ Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -104,33 +130,7 @@ Man Utd transfers: Could a central midfielder be Michael Carrick's first signing
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Man Utd transfers: Could a central midfielder be Michael Carrick's first signing?. https://www.bbc.com/sport/football/articles/cd6pe1nwqpno?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 5: Anthony Gordon transfer news: Why are Barcelona signing Newcastle forward?
-**Slug (lower-third):** Anthony Gordon transfer news: Why are Barcelona signing N…  
-**When:** 2026-05-28 11:47 (America/Winnipeg)  •  **Published:** 2026-05-28 16:47 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Anthony Gordon transfer news: Why are Barcelona signing Newcastle forward?. Anthony Gordon's goal return in Europe coupled with his speed, aggression and work ethic suggests there is a lot more to come from the England international. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Anthony Gordon transfer news: Why are Barcelona signing Newcastle forward?. https://www.bbc.com/sport/football/articles/cn8pqnq3w7no?at_medium=RSS&at_campaign=rss
+- skysports.com — San Antonio Spurs 118-91 Oklahoma City Thunder: Victor Wembanyama leads side to comfortable win in sixth game and send series to decider. https://www.skysports.com/nba/news/12040/13548937/san-antonio-spurs-118-91-oklahoma-city-thunder-victor-wembanyama-leads-side-to-comfortable-win-in-sixth-game-and-send-series-to-decider
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,13 +141,109 @@ Anthony Gordon transfer news: Why are Barcelona signing Newcastle forward?. Anth
 
 ### Club Updates
 
-## Story 6: Luke Littler breaks down in tears after epic Premier League triumph: 'I picked myself up after tough times'
-**Slug (lower-third):** Luke Littler breaks down in tears after epic Premier Leag…  
+## Story 6: After dramatic Shaw U-turn and title win, Manchester City target historic double
+**Slug (lower-third):** After dramatic Shaw U-turn and title win, Manchester City…  
+**When:** 2026-05-29 04:01 (America/Winnipeg)  •  **Published:** 2026-05-29 09:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+After dramatic Shaw U-turn and title win, Manchester City target historic double. FA Cup final victory against Brighton would make it a perfect month and the squad are hungry for more success Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — After dramatic Shaw U-turn and title win, Manchester City target historic double. https://www.theguardian.com/football/2026/may/29/manchester-city-women-khadija-bunny-shaw-title-fa-cup-double-brighton
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: David Raya: Arsenal goalkeeper's journey from non-league to Champions League final
+**Slug (lower-third):** David Raya: Arsenal goalkeeper's journey from non-league …  
+**When:** 2026-05-29 02:06 (America/Winnipeg)  •  **Published:** 2026-05-29 07:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+David Raya: Arsenal goalkeeper's journey from non-league to Champions League final. Twelve years ago Arsenal keeper David Raya made his debut for non-league Southport; on Saturday he plays in the Champions League final - this is how he got there. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — David Raya: Arsenal goalkeeper's journey from non-league to Champions League final. https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Luke Littler: Wayne Mardle hails Premier League champion for opening up about struggles, says he has 'no weaknesses'
+**Slug (lower-third):** Luke Littler: Wayne Mardle hails Premier League champion …  
+**When:** 2026-05-29 02:00 (America/Winnipeg)  •  **Published:** 2026-05-29 07:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Luke Littler: Wayne Mardle hails Premier League champion for opening up about struggles, says he has 'no weaknesses'. Luke Littler questioned future after tough times in Brighton and Manchester during Premier League season; world No 1 beat Luke Humphries 11-10 in gripping final to lift trophy for second time in three years; Wayne Mardle says Littler playing at peak level and can win in different ways Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Luke Littler: Wayne Mardle hails Premier League champion for opening up about struggles, says he has 'no weaknesses'. https://www.skysports.com/darts/news/12040/13548918/luke-littler-wayne-mardle-hails-premier-league-champion-for-opening-up-about-struggles-says-he-has-no-weaknesses
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Baltic Sea Darts Open: Schedule, results, draw, format as Gian van Veen, James Wade headline PDC European Tour event
+**Slug (lower-third):** Baltic Sea Darts Open: Schedule, results, draw, format as…  
+**When:** 2026-05-28 21:18 (America/Winnipeg)  •  **Published:** 2026-05-29 02:18 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~26s
+
+### Presenter Script (3–5 sentences)
+Baltic Sea Darts Open: Schedule, results, draw, format as Gian van Veen, James Wade headline PDC European Tour event. Gian van Veen, James Wade and Stephen Bunting headline the PDC European Tour event; Premier League winner Luke Littler and defending champion Gerwyn Price among those not to feature in Germany, with the tournament running from May 29-31 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Baltic Sea Darts Open: Schedule, results, draw, format as Gian van Veen, James Wade headline PDC European Tour event. https://www.skysports.com/darts/news/12040/13548855/baltic-sea-darts-open-schedule-results-draw-format-as-gian-van-veen-james-wade-headline-pdc-european-tour-event
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: 'I didn't want to do it anymore': Emotional Luke Littler reveals he nearly quit Premier League
+**Slug (lower-third):** 'I didn't want to do it anymore': Emotional Luke Littler …  
 **When:** 2026-05-28 18:29 (America/Winnipeg)  •  **Published:** 2026-05-28 23:29 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~29s
+**Virality score:** 90  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Luke Littler breaks down in tears after epic Premier League triumph: 'I picked myself up after tough times'. Luke Littler broke down in tears after his win in the Premier League final; he has been subjected to boos across the campaign; Sky Sports is once again the home of the World Cup of Darts, World Matchplay, World Grand Prix, Grand Slam of Darts and more Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+'I didn't want to do it anymore': Emotional Luke Littler reveals he nearly quit Premier League. Luke Littler broke down in tears after his win in the Premier League final; he has been subjected to boos across the campaign; Sky Sports is once again the home of the World Cup of Darts, World Matchplay, World Grand Prix, Grand Slam of Darts and more Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,103 +252,7 @@ Luke Littler breaks down in tears after epic Premier League triumph: 'I picked m
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Luke Littler breaks down in tears after epic Premier League triumph: 'I picked myself up after tough times'. https://www.skysports.com/darts/news/12040/13548910/luke-littler-breaks-down-in-tears-after-epic-premier-league-triumph-i-picked-myself-up-after-tough-times
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Premier League Darts: Luke Littler crowned champion after dramatic 11-10 victory over Luke Humphries in final
-**Slug (lower-third):** Premier League Darts: Luke Littler crowned champion after…  
-**When:** 2026-05-28 17:07 (America/Winnipeg)  •  **Published:** 2026-05-28 22:07 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Premier League Darts: Luke Littler crowned champion after dramatic 11-10 victory over Luke Humphries in final. Luke Littler beat Gerwyn Price 10-9 and then came through a last-leg decider against Luke Humphries for an 11-10 win; it is his second PL victory; Sky Sports is once again the home of the World Cup of Darts, World Matchplay, World Grand Prix, Grand Slam of Darts and more Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Premier League Darts: Luke Littler crowned champion after dramatic 11-10 victory over Luke Humphries in final. https://www.skysports.com/darts/news/12040/13548717/premier-league-darts-luke-littler-crowned-champion-after-dramatic-11-10-victory-over-luke-humphries-in-final
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Football gossip: Hincapie, Dias, Diomande, Wharton, Kamada, Scott, Rayan, Junior Kroupi
-**Slug (lower-third):** Football gossip: Hincapie, Dias, Diomande, Wharton, Kamad…  
-**When:** 2026-05-28 17:04 (America/Winnipeg)  •  **Published:** 2026-05-28 22:04 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Hincapie, Dias, Diomande, Wharton, Kamada, Scott, Rayan, Junior Kroupi. Barcelona weigh up move for Piero Hincapie, Ruben Dias instructs agents to explore move away from Manchester City, Liverpool pushing for quick agreement with Yan Diomande, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Hincapie, Dias, Diomande, Wharton, Kamada, Scott, Rayan, Junior Kroupi. https://www.bbc.com/sport/football/articles/cglp3r7nk84o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Kai Havertz: 'Just to watch the Champions League final is very special, to play in it is unreal'
-**Slug (lower-third):** Kai Havertz: 'Just to watch the Champions League final is…  
-**When:** 2026-05-28 16:30 (America/Winnipeg)  •  **Published:** 2026-05-28 21:30 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Kai Havertz: 'Just to watch the Champions League final is very special, to play in it is unreal'. Arsenal's Kai Havertz scored the winner in the Champion League final five years ago and the Arsenal striker is determined to make up for being 'in a bad place' when injured this season Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Kai Havertz: 'Just to watch the Champions League final is very special, to play in it is unreal'. https://www.theguardian.com/football/2026/may/28/kai-havertz-champions-league-final-special-arsenal-psg-2026-budapest
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Direct, intense ... selfish? What are Barcelona getting in Anthony Gordon?
-**Slug (lower-third):** Direct, intense ... selfish? What are Barcelona getting i…  
-**When:** 2026-05-28 09:58 (America/Winnipeg)  •  **Published:** 2026-05-28 14:58 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Direct, intense ... selfish? What are Barcelona getting in Anthony Gordon?. Some Newcastle fans are not distraught to see the winger leave but Anthony Gordon's pedigree in the Champions League is unquestionable Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Direct, intense ... selfish? What are Barcelona getting in Anthony Gordon?. https://www.theguardian.com/football/2026/may/28/direct-intense-selfish-what-are-barcelona-getting-in-anthony-gordon
+- skysports.com — 'I didn't want to do it anymore': Emotional Luke Littler reveals he nearly quit Premier League. https://www.skysports.com/darts/news/12040/13548910/luke-littler-breaks-down-in-tears-after-epic-premier-league-triumph-i-picked-myself-up-after-tough-times
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
