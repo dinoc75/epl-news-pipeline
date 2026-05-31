@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-05-31 08:47 (America/Winnipeg)  |  2026-05-31 13:47 (UTC)
+**Generated:** 2026-05-31 14:19 (America/Winnipeg)  |  2026-05-31 19:19 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 42s
+**Estimated total video length:** ~4m 38s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arne Slot's axe was brutal but most Liverpool supporters agree he had to go | David Usher
-- Arsenal lose Champions League final to PSG: Progress but was this a missed opportunity for Mikel Arteta in Budapest?
-- PSG vs Arsenal: Hundreds of arrests made across France after Paris Saint-Germain win Champions League final
+- Khadija Shaw: Manchester City's future bright with striker key
+- Brighton 0-4 Man City: Andree Jeglertz targets more titles as Khadija 'Bunny' Shaw opens up on new contact after FA Cup final win
+- Declan Rice vows Arsenal will 'go even stronger' and 'are coming back for more'
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Arne Slot's axe was brutal but most Liverpool supporters agree he had to go | David Usher
-**Slug (lower-third):** Arne Slot's axe was brutal but most Liverpool supporters …  
-**When:** 2026-05-31 08:00 (America/Winnipeg)  •  **Published:** 2026-05-31 13:00 (UTC)  
+## Story 1: Declan Rice vows Arsenal will 'go even stronger' and 'are coming back for more'
+**Slug (lower-third):** Declan Rice vows Arsenal will 'go even stronger' and 'are…  
+**When:** 2026-05-31 13:19 (America/Winnipeg)  •  **Published:** 2026-05-31 18:19 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arne Slot's axe was brutal but most Liverpool supporters agree he had to go | David Usher. Discontent at Anfield boiled over last season but the head coach wasn't the only one who made mistakes Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Declan Rice vows Arsenal will 'go even stronger' and 'are coming back for more'. Declan Rice has said Arsenal will put aside their disappointment at losing on penalties in the Champions League final Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Arne Slot's axe was brutal but most Liverpool supporters agree he had to go | Da
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Arne Slot's axe was brutal but most Liverpool supporters agree he had to go | David Usher. https://www.theguardian.com/football/2026/may/31/slots-axe-was-brutal-but-most-liverpool-supporters-agree-he-had-to-go
+- theguardian.com — Declan Rice vows Arsenal will 'go even stronger' and 'are coming back for more'. https://www.theguardian.com/football/2026/may/31/declan-rice-arsenal-champions-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Arne Slot's axe was brutal but most Liverpool supporters agree he had to go | Da
 
 ---
 
-## Story 2: What next for Liverpool? The major challenges facing Arne Slot's successor
-**Slug (lower-third):** What next for Liverpool? The major challenges facing Arne…  
-**When:** 2026-05-31 04:57 (America/Winnipeg)  •  **Published:** 2026-05-31 09:57 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 2: Andoni Iraola: Liverpool to open formal talks over head coach role
+**Slug (lower-third):** Andoni Iraola: Liverpool to open formal talks over head c…  
+**When:** 2026-05-31 12:02 (America/Winnipeg)  •  **Published:** 2026-05-31 17:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-What next for Liverpool? The major challenges facing Arne Slot's successor. We look at the faultlines within Anfield and what is needed in the aftermath of the head coach's sacking Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Andoni Iraola: Liverpool to open formal talks over head coach role. Liverpool will open formal talks with Andoni Iraola this week over becoming their new head coach. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,31 +55,7 @@ What next for Liverpool? The major challenges facing Arne Slot's successor. We l
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — What next for Liverpool? The major challenges facing Arne Slot's successor. https://www.theguardian.com/football/2026/may/31/what-next-for-liverpool-challenges-arne-slot-successor
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Women's FA Cup final: Brighton boss Dario Vidosic hopes to honour late father at Wembley
-**Slug (lower-third):** Women's FA Cup final: Brighton boss Dario Vidosic hopes t…  
-**When:** 2026-05-31 00:23 (America/Winnipeg)  •  **Published:** 2026-05-31 05:23 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Women's FA Cup final: Brighton boss Dario Vidosic hopes to honour late father at Wembley. Brighton manager Dario Vidosic is hoping to honour his late father in Sunday's Women's FA Cup final when they take on Manchester City. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Women's FA Cup final: Brighton boss Dario Vidosic hopes to honour late father at Wembley. https://www.bbc.com/sport/football/articles/czx22r4pn6xo?at_medium=RSS&at_campaign=rss
+- bbc.com — Andoni Iraola: Liverpool to open formal talks over head coach role. https://www.bbc.com/sport/football/articles/c5y7ezzqge8o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +66,13 @@ Women's FA Cup final: Brighton boss Dario Vidosic hopes to honour late father at
 
 ### Transfers
 
-## Story 4: Raheem Sterling made to feel 'worthless', says close source amid player's arrest
-**Slug (lower-third):** Raheem Sterling made to feel 'worthless', says close sour…  
-**When:** 2026-05-30 10:57 (America/Winnipeg)  •  **Published:** 2026-05-30 15:57 (UTC)  
-**Virality score:** 73  •  **Estimated runtime:** ~20s
+## Story 3: Brighton 0-4 Man City: Andree Jeglertz targets more titles as Khadija 'Bunny' Shaw opens up on new contact after FA Cup final win
+**Slug (lower-third):** Brighton 0-4 Man City: Andree Jeglertz targets more title…  
+**When:** 2026-05-31 13:45 (America/Winnipeg)  •  **Published:** 2026-05-31 18:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
 
 ### Presenter Script (3–5 sentences)
-Raheem Sterling made to feel 'worthless', says close source amid player's arrest. Former England and Chelsea star arrested on M3 on Thursday under suspicion of driving while unfit through drugs Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Brighton 0-4 Man City: Andree Jeglertz targets more titles as Khadija 'Bunny' Shaw opens up on new contact after FA Cup final win. Man City completed the domestic double after beating Brighton in the Womens FA Cup final; Andree Jeglertz secured another trophy in his first season after winning the WSL; Khadija Bunny Shaw scored just days after announcing she was staying at the club, having signed a new contract Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,33 +81,7 @@ Raheem Sterling made to feel 'worthless', says close source amid player's arrest
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Raheem Sterling made to feel 'worthless', says close source amid player's arrest. https://www.theguardian.com/football/2026/may/30/raheem-sterling-suffered-immeasurable-psychological-strain-close-source-says
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 5: NBA Playoffs: Victor Wembanyama's San Antonio Spurs knock off defending champion Oklahoma City Thunder to secure finals berth
-**Slug (lower-third):** NBA Playoffs: Victor Wembanyama's San Antonio Spurs knock…  
-**When:** 2026-05-31 02:48 (America/Winnipeg)  •  **Published:** 2026-05-31 07:48 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-NBA Playoffs: Victor Wembanyama's San Antonio Spurs knock off defending champion Oklahoma City Thunder to secure finals berth. The San Antonio Spurs beat the defending champion Oklahoma City Thunder to advance to the NBA Finals for the first time in twelve years; Wembanyama was crowned Conference Finals MVP; Spurs will host Knicks in first NBA Finals game on Wednesday night Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — NBA Playoffs: Victor Wembanyama's San Antonio Spurs knock off defending champion Oklahoma City Thunder to secure finals berth. https://www.skysports.com/nba/news/12040/13549446/nba-playoffs-victor-wembanyamas-san-antonio-spurs-knock-off-defending-champion-oklahoma-city-thunder-to-secure-finals-berth
+- skysports.com — Brighton 0-4 Man City: Andree Jeglertz targets more titles as Khadija 'Bunny' Shaw opens up on new contact after FA Cup final win. https://www.skysports.com/football/news/12040/13549617/brighton-0-4-man-city-andree-jeglertz-targets-more-titles-as-khadija-bunny-shaw-opens-up-on-new-contact-after-fa-cup-final-win
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +92,13 @@ NBA Playoffs: Victor Wembanyama's San Antonio Spurs knock off defending champion
 
 ### Club Updates
 
-## Story 6: Arsenal lose Champions League final to PSG: Progress but was this a missed opportunity for Mikel Arteta in Budapest?
-**Slug (lower-third):** Arsenal lose Champions League final to PSG: Progress but …  
-**When:** 2026-05-31 07:55 (America/Winnipeg)  •  **Published:** 2026-05-31 12:55 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+## Story 4: Khadija Shaw: Manchester City's future bright with striker key
+**Slug (lower-third):** Khadija Shaw: Manchester City's future bright with strike…  
+**When:** 2026-05-31 13:47 (America/Winnipeg)  •  **Published:** 2026-05-31 18:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal lose Champions League final to PSG: Progress but was this a missed opportunity for Mikel Arteta in Budapest?. Adam Bates verdict from Budapest as Arsenal come up short in the Champions League final after an agonising penalty shoot-out defeat to Paris Saint-Germain; Mikel Artetas plan almost worked and the Gunners are getting closer but there will be regrets too... Relevance to standings and momentum.
+Khadija Shaw: Manchester City's future bright with striker key. Manchester City's domestic double is the start of what they hope will be a hugely successful period for the club - and Khadija Shaw is at the centre of it. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +107,7 @@ Arsenal lose Champions League final to PSG: Progress but was this a missed oppor
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal lose Champions League final to PSG: Progress but was this a missed opportunity for Mikel Arteta in Budapest?. https://www.skysports.com/football/news/12040/13549508/arsenal-lose-champions-league-final-to-psg-progress-but-was-this-a-missed-opportunity-for-mikel-arteta-in-budapest
+- bbc.com — Khadija Shaw: Manchester City's future bright with striker key. https://www.bbc.com/sport/football/articles/cx21zpedx3qo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +116,13 @@ Arsenal lose Champions League final to PSG: Progress but was this a missed oppor
 
 ---
 
-## Story 7: PSG vs Arsenal: Hundreds of arrests made across France after Paris Saint-Germain win Champions League final
-**Slug (lower-third):** PSG vs Arsenal: Hundreds of arrests made across France af…  
-**When:** 2026-05-31 03:35 (America/Winnipeg)  •  **Published:** 2026-05-31 08:35 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 5: Arsenal title parade: Gunners' men celebrate Premier League success with bus parade
+**Slug (lower-third):** Arsenal title parade: Gunners' men celebrate Premier Leag…  
+**When:** 2026-05-31 12:54 (America/Winnipeg)  •  **Published:** 2026-05-31 17:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-PSG vs Arsenal: Hundreds of arrests made across France after Paris Saint-Germain win Champions League final. Police made 780 arrests overnight with 480 in Paris after PSGs Champions League final victory over Arsenal; shops vandalised and cars set alight; fans attempted to storm a police station; seven police officers injured; 22,000 officers mobilised in France in advance of the final Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Arsenal title parade: Gunners' men celebrate Premier League success with bus parade. For the first time in 22 years, Arsenal are the Premier League champions - and the players, staff and fans got to celebrate on Sunday with an incredible bus parade through the streets of north London. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,8 +131,7 @@ PSG vs Arsenal: Hundreds of arrests made across France after Paris Saint-Germain
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — PSG vs Arsenal: Hundreds of arrests made across France after Paris Saint-Germain win Champions League final. https://www.skysports.com/football/news/12040/13549453/psg-vs-arsenal-hundreds-of-arrests-made-across-france-after-paris-saint-germain-win-champions-league-final
-- bbc.com — Champions League Final Paris Saint German v Arsenal. https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss
+- bbc.com — Arsenal title parade: Gunners' men celebrate Premier League success with bus parade. https://www.bbc.com/sport/football/articles/cx21zklzgr1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +140,13 @@ PSG vs Arsenal: Hundreds of arrests made across France after Paris Saint-Germain
 
 ---
 
-## Story 8: Fletcher chosen to replace Gilmour in Scotland World Cup squad
-**Slug (lower-third):** Fletcher chosen to replace Gilmour in Scotland World Cup …  
-**When:** 2026-05-31 04:27 (America/Winnipeg)  •  **Published:** 2026-05-31 09:27 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 6: Brighton 0-4 Man City: Khadija 'Bunny' Shaw on target again as Man City win Women's FA Cup and complete domestic double
+**Slug (lower-third):** Brighton 0-4 Man City: Khadija 'Bunny' Shaw on target aga…  
+**When:** 2026-05-31 12:00 (America/Winnipeg)  •  **Published:** 2026-05-31 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fletcher chosen to replace Gilmour in Scotland World Cup squad. Manchester United teenager Tyler Fletcher is a late replacement for the injured Billy Gilmour in Scotland's World Cup squad. Potential impact on the lineup and upcoming fixtures.
+Brighton 0-4 Man City: Khadija 'Bunny' Shaw on target again as Man City win Women's FA Cup and complete domestic double. Manchester City completed the domestic double after beating Brighton 4-0 in the Women's FA Cup final at Wembley. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +155,7 @@ Fletcher chosen to replace Gilmour in Scotland World Cup squad. Manchester Unite
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Fletcher chosen to replace Gilmour in Scotland World Cup squad. https://www.bbc.com/sport/football/articles/cn8pmj99jk7o?at_medium=RSS&at_campaign=rss
+- skysports.com — Brighton 0-4 Man City: Khadija 'Bunny' Shaw on target again as Man City win Women's FA Cup and complete domestic double. https://www.skysports.com/football/brighton-and-hove-albion-women-vs-manchester-city-women/report/555728
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +164,13 @@ Fletcher chosen to replace Gilmour in Scotland World Cup squad. Manchester Unite
 
 ---
 
-## Story 9: Amanda Serrano stops Cheyenne Hanson in second round as Stephanie Han beats Holly Holm by decision in rematch
-**Slug (lower-third):** Amanda Serrano stops Cheyenne Hanson in second round as S…  
-**When:** 2026-05-31 03:09 (America/Winnipeg)  •  **Published:** 2026-05-31 08:09 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~23s
+## Story 7: Ibrahima Konate: France defender 'deeply saddened' as Liverpool exit confirmed
+**Slug (lower-third):** Ibrahima Konate: France defender 'deeply saddened' as Liv…  
+**When:** 2026-05-31 11:59 (America/Winnipeg)  •  **Published:** 2026-05-31 16:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Amanda Serrano stops Cheyenne Hanson in second round as Stephanie Han beats Holly Holm by decision in rematch. Amanda Serrano secured a stoppage victory over Cheyenne Hanson to tie the all-time knockout record as Stephanie Han beat Holly Holm; Watch Chris Billam-Smith vs Ryan Rozicki on the Zuffa Boxing show in Bournemouth in June 6, live on Sky Sports. Relevance to standings and momentum.
+Ibrahima Konate: France defender 'deeply saddened' as Liverpool exit confirmed. France defender Ibrahima Konate says he will leave Liverpool with "lifelong memories" after experiencing "highs and lows" during his time at Anfield. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,7 +179,7 @@ Amanda Serrano stops Cheyenne Hanson in second round as Stephanie Han beats Holl
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Amanda Serrano stops Cheyenne Hanson in second round as Stephanie Han beats Holly Holm by decision in rematch. https://www.skysports.com/boxing/news/12040/13549450/amanda-serrano-stops-cheyenne-hanson-in-second-round-as-stephanie-han-beats-holly-holm-by-decision-in-rematch
+- bbc.com — Ibrahima Konate: France defender 'deeply saddened' as Liverpool exit confirmed. https://www.bbc.com/sport/football/articles/ce8pxkj0wxxo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -239,13 +188,13 @@ Amanda Serrano stops Cheyenne Hanson in second round as Stephanie Han beats Holl
 
 ---
 
-## Story 10: Women's World Sevens series: Chelsea beat Manchester United to win title
-**Slug (lower-third):** Women's World Sevens series: Chelsea beat Manchester Unit…  
-**When:** 2026-05-30 09:30 (America/Winnipeg)  •  **Published:** 2026-05-30 14:30 (UTC)  
-**Virality score:** 72  •  **Estimated runtime:** ~20s
+## Story 8: World Cup 2026: Uruguay squad incluces Man Utd midfielder Manuel Ugarte but no Luis Suarez
+**Slug (lower-third):** World Cup 2026: Uruguay squad incluces Man Utd midfielder…  
+**When:** 2026-05-31 10:18 (America/Winnipeg)  •  **Published:** 2026-05-31 15:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Women's World Sevens series: Chelsea beat Manchester United to win title. The Women's World Sevens series in London had it all from backflips, rabonas and even a fake birth. Relevance to standings and momentum.
+World Cup 2026: Uruguay squad incluces Man Utd midfielder Manuel Ugarte but no Luis Suarez. Uruguay include Manchester United midfielder Manuel Ugarte in their squad for the World Cup - but there is no place for veteran striker Luis Suarez. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -254,7 +203,55 @@ Women's World Sevens series: Chelsea beat Manchester United to win title. The Wo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Women's World Sevens series: Chelsea beat Manchester United to win title. https://www.bbc.com/sport/football/articles/c809n89jk7no?at_medium=RSS&at_campaign=rss
+- bbc.com — World Cup 2026: Uruguay squad incluces Man Utd midfielder Manuel Ugarte but no Luis Suarez. https://www.bbc.com/sport/football/articles/cgmprpekej2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Tyler Fletcher: Manchester United youngster's remarkable Scotland World Cup call
+**Slug (lower-third):** Tyler Fletcher: Manchester United youngster's remarkable …  
+**When:** 2026-05-31 08:56 (America/Winnipeg)  •  **Published:** 2026-05-31 13:56 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tyler Fletcher: Manchester United youngster's remarkable Scotland World Cup call. Tyler Fletcher was expecting to go to the World Cup as a fan this summer - now he could be playing in it for Scotland. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Tyler Fletcher: Manchester United youngster's remarkable Scotland World Cup call. https://www.bbc.com/sport/football/articles/c2027l0w550o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Baltic Sea Darts Open: Schedule, results, draw, format as Gian van Veen, James Wade headline PDC European Tour event
+**Slug (lower-third):** Baltic Sea Darts Open: Schedule, results, draw, format as…  
+**When:** 2026-05-30 18:23 (America/Winnipeg)  •  **Published:** 2026-05-30 23:23 (UTC)  
+**Virality score:** 76  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Baltic Sea Darts Open: Schedule, results, draw, format as Gian van Veen, James Wade headline PDC European Tour event. Gian van Veen, James Wade and Stephen Bunting were all knocked out before the quarter-finals stage; Premier League winner Luke Littler and defending champion Gerwyn Price among those not to feature in Germany, with the tournament running from May 29-31 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Baltic Sea Darts Open: Schedule, results, draw, format as Gian van Veen, James Wade headline PDC European Tour event. https://www.skysports.com/darts/news/12040/13548855/baltic-sea-darts-open-schedule-results-draw-format-as-gian-van-veen-james-wade-headline-pdc-european-tour-event
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
