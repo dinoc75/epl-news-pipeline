@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-01 12:42 (America/Winnipeg)  |  2026-06-01 17:42 (UTC)
+**Generated:** 2026-06-01 16:35 (America/Winnipeg)  |  2026-06-01 21:35 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Rodri: Man City midfielder will wait until after World Cup to sort out future
-- Arsenal v PSG got 16.2m illegal stream views in UK after not being free-to-air
-- 'You legend. Manager loved it' - Southampton's Spygate WhatsApps revealed
+- Football Daily - MNC: What next for Arsenal & is Iraola right for Liverpool? - BBC Sounds
+- Football gossip: Cucurella, Palestra, Diomande, Palestra, Guardiola, Silva, Rashford, Sangare, Hackney, Guessand
+- Josh Acheampong: Chelsea reject approaches for 20-year-old defender
 
 ---
 
 ### Managerial Moves
 
-## Story 1: 'You legend. Manager loved it' - Southampton's Spygate WhatsApps revealed
-**Slug (lower-third):** 'You legend. Manager loved it' - Southampton's Spygate Wh…  
-**When:** 2026-06-01 10:31 (America/Winnipeg)  •  **Published:** 2026-06-01 15:31 (UTC)  
+## Story 1: 'Manager loved it': Tonda Eckert found to have initiated Southampton's spying
+**Slug (lower-third):** 'Manager loved it': Tonda Eckert found to have initiated …  
+**When:** 2026-06-01 13:54 (America/Winnipeg)  •  **Published:** 2026-06-01 18:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'You legend. Manager loved it' - Southampton's Spygate WhatsApps revealed. New WhatsApp messages have revealed how Southampton orchestrated a spying campaign against their Championship rivals. Relevance to standings and momentum.
+'Manager loved it': Tonda Eckert found to have initiated Southampton's spying. Southampton's head coach, Tonda Eckert, initiated the practice of spying, according to new documents which also show praise being passed to an intern Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — 'You legend. Manager loved it' - Southampton's Spygate WhatsApps revealed. https://www.bbc.com/sport/football/articles/cd7pqgxvy0po?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'Manager loved it': Tonda Eckert found to have initiated Southampton's spying. https://www.theguardian.com/football/2026/jun/01/manager-loved-it-tonda-eckert-found-to-have-initiated-southamptons-spying
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ---
 
-## Story 2: SWPL winners Hearts appoint Andy Thomson as new head coach, replacing Eva Olid
-**Slug (lower-third):** SWPL winners Hearts appoint Andy Thomson as new head coac…  
-**When:** 2026-06-01 10:19 (America/Winnipeg)  •  **Published:** 2026-06-01 15:19 (UTC)  
+## Story 2: Kevin Keegan reveals stage four cancer diagnosis
+**Slug (lower-third):** Kevin Keegan reveals stage four cancer diagnosis  
+**When:** 2026-06-01 11:59 (America/Winnipeg)  •  **Published:** 2026-06-01 16:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-SWPL winners Hearts appoint Andy Thomson as new head coach, replacing Eva Olid. Andy Thomson is appointed head coach of Scottish Women Premier League champions Hearts, replacing Eva Olid. Relevance to standings and momentum.
+Kevin Keegan reveals stage four cancer diagnosis. Former England and Newcastle manager Kevin Keegan has revealed he has stage four cancer. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,30 +55,7 @@ SWPL winners Hearts appoint Andy Thomson as new head coach, replacing Eva Olid. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — SWPL winners Hearts appoint Andy Thomson as new head coach, replacing Eva Olid. https://www.bbc.com/sport/football/articles/cdxpwk58e42o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Kevin Keegan, former England and Newcastle manager, reveals stage four cancer diagnosis
-**Slug (lower-third):** Kevin Keegan, former England and Newcastle manager, revea…  
-**When:** 2026-06-01 10:01 (America/Winnipeg)  •  **Published:** 2026-06-01 15:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Kevin Keegan, former England and Newcastle manager, reveals stage four cancer diagnosis. The former England and Newcastle manager Kevin Keegan has revealed he has stage four cancer and is working with a 'top doctor' on treatment Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
+- espn.com — Kevin Keegan reveals stage four cancer diagnosis. https://www.espn.com/soccer/story/_/id/48938075/kevin-keegan-reveals-stage-four-cancer-diagnosis
 - theguardian.com — Kevin Keegan, former England and Newcastle manager, reveals stage four cancer diagnosis. https://www.theguardian.com/football/2026/jun/01/kevin-keegan-former-england-newcastle-manager-stage-four-cancer-diagnosis
 - skysports.com — Kevin Keegan: Former Newcastle and England manager 'responding well' to treatment after stage four cancer diagnosis. https://www.skysports.com/football/news/12040/13549772/kevin-keegan-former-newcastle-and-england-manager-responding-well-to-treatment-after-stage-four-cancer-diagnosis
 
@@ -89,13 +66,15 @@ Kevin Keegan, former England and Newcastle manager, reveals stage four cancer di
 
 ---
 
-## Story 4: Andoni Iraola looks the right manager to help Liverpool get their swagger back | Ben Fisher
-**Slug (lower-third):** Andoni Iraola looks the right manager to help Liverpool g…  
-**When:** 2026-06-01 06:30 (America/Winnipeg)  •  **Published:** 2026-06-01 11:30 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+### Transfers
+
+## Story 3: Mason Greenwood: Ex-Manchester United forward wanted by Fenerbahce's presidential rivals
+**Slug (lower-third):** Mason Greenwood: Ex-Manchester United forward wanted by F…  
+**When:** 2026-06-01 14:15 (America/Winnipeg)  •  **Published:** 2026-06-01 19:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Andoni Iraola looks the right manager to help Liverpool get their swagger back | Ben Fisher. The Basque made his Bournemouth superbly watchable, just what the Reds need after Arne Slot's meek title defence Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Mason Greenwood: Ex-Manchester United forward wanted by Fenerbahce's presidential rivals. Former England and Manchester United striker Mason Greenwood is a key transfer target for both Fenerbahce's presidential candidates Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -104,7 +83,7 @@ Andoni Iraola looks the right manager to help Liverpool get their swagger back |
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Andoni Iraola looks the right manager to help Liverpool get their swagger back | Ben Fisher. https://www.theguardian.com/football/2026/jun/01/andoni-iraola-liverpool-arne-slot-premier-league-bournemouth
+- bbc.com — Mason Greenwood: Ex-Manchester United forward wanted by Fenerbahce's presidential rivals. https://www.bbc.com/sport/football/articles/cqlpne0d2v7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -113,15 +92,13 @@ Andoni Iraola looks the right manager to help Liverpool get their swagger back |
 
 ---
 
-### Transfers
-
-## Story 5: Football Daily | Arsenal feel the love after Arteta's Bigger Cup masterplan falls short
-**Slug (lower-third):** Football Daily | Arsenal feel the love after Arteta's Big…  
-**When:** 2026-06-01 10:03 (America/Winnipeg)  •  **Published:** 2026-06-01 15:03 (UTC)  
+## Story 4: Arsenal transfer latest: Rogers, Kroupi and Alvarez on shortlist
+**Slug (lower-third):** Arsenal transfer latest: Rogers, Kroupi and Alvarez on sh…  
+**When:** 2026-06-01 14:12 (America/Winnipeg)  •  **Published:** 2026-06-01 19:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | Arsenal feel the love after Arteta's Bigger Cup masterplan falls short. In today's Football Daily: A big weekend for Arsenal buses, while Arne Slot and James Milner both bid farewell Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Arsenal transfer latest: Rogers, Kroupi and Alvarez on shortlist. After their long-awaited Premier League title win, senior football correspondent Sami Mokbel assesses Arsenal's to-do list for this summer. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,7 +107,7 @@ Football Daily | Arsenal feel the love after Arteta's Bigger Cup masterplan fall
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | Arsenal feel the love after Arteta's Bigger Cup masterplan falls short. https://www.theguardian.com/football/2026/jun/01/arsenal-psg-champions-league-final-trophy-parade
+- bbc.com — Arsenal transfer latest: Rogers, Kroupi and Alvarez on shortlist. https://www.bbc.com/sport/football/articles/cwy2rkgnlpjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,13 +118,13 @@ Football Daily | Arsenal feel the love after Arteta's Bigger Cup masterplan fall
 
 ### Injuries
 
-## Story 6: Premier League Darts: Luke Littler, Luke Humphries and Gerwyn Price on how they would change format with Royal Rumble suggested
-**Slug (lower-third):** Premier League Darts: Luke Littler, Luke Humphries and Ge…  
-**When:** 2026-06-01 07:00 (America/Winnipeg)  •  **Published:** 2026-06-01 12:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~28s
+## Story 5: Football gossip: Cucurella, Palestra, Diomande, Palestra, Guardiola, Silva, Rashford, Sangare, Hackney, Guessand
+**Slug (lower-third):** Football gossip: Cucurella, Palestra, Diomande, Palestra,…  
+**When:** 2026-06-01 15:31 (America/Winnipeg)  •  **Published:** 2026-06-01 20:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League Darts: Luke Littler, Luke Humphries and Gerwyn Price on how they would change format with Royal Rumble suggested. PDC chief executive Matt Porter says watch this space regarding Premier League format change as top players call for return to 10 competitors; Gerwyn Price also wants a Royal Rumble element to provide added excitement; Premier League has run nightly mini-tournaments since 2022 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Cucurella, Palestra, Diomande, Palestra, Guardiola, Silva, Rashford, Sangare, Hackney, Guessand. Chelsea's Marc Cucurella linked with a return to Spain, Liverpool keen on teenage RB Leipzig forward Yan Diomande, and Newcastle face competition for Atalanta right-back Marco Palestra, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,7 +133,33 @@ Premier League Darts: Luke Littler, Luke Humphries and Gerwyn Price on how they 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Premier League Darts: Luke Littler, Luke Humphries and Gerwyn Price on how they would change format with Royal Rumble suggested. https://www.skysports.com/darts/news/12040/13548806/premier-league-darts-luke-littler-luke-humphries-and-gerwyn-price-on-how-they-would-change-format-with-royal-rumble-suggested
+- bbc.com — Football gossip: Cucurella, Palestra, Diomande, Palestra, Guardiola, Silva, Rashford, Sangare, Hackney, Guessand. https://www.bbc.com/sport/football/articles/c172k5rnvydo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 6: Spygate latest: Southampton boss Tonda Eckert 'loved' information gathered when intern spied on opponent, panel's written reasons reveal
+**Slug (lower-third):** Spygate latest: Southampton boss Tonda Eckert 'loved' inf…  
+**When:** 2026-06-01 12:39 (America/Winnipeg)  •  **Published:** 2026-06-01 17:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Spygate latest: Southampton boss Tonda Eckert 'loved' information gathered when intern spied on opponent, panel's written reasons reveal. Southampton were thrown out of the play-offs and deducted four points in next seasons Championship after admitting spying on three opponents; League Arbitration Panels reasons for dismissing Saints appeal now revealed; intern was told Tonda Eckert loved information he gathered Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Spygate latest: Southampton boss Tonda Eckert 'loved' information gathered when intern spied on opponent, panel's written reasons reveal. https://www.skysports.com/football/news/12040/13549883/spygate-latest-southampton-boss-tonda-eckert-loved-information-gathered-when-intern-spied-on-opponent-panels-written-reasons-reveal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +170,13 @@ Premier League Darts: Luke Littler, Luke Humphries and Gerwyn Price on how they 
 
 ### Club Updates
 
-## Story 7: Rodri: Man City midfielder will wait until after World Cup to sort out future
-**Slug (lower-third):** Rodri: Man City midfielder will wait until after World Cu…  
-**When:** 2026-06-01 12:04 (America/Winnipeg)  •  **Published:** 2026-06-01 17:04 (UTC)  
+## Story 7: Football Daily - MNC: What next for Arsenal & is Iraola right for Liverpool? - BBC Sounds
+**Slug (lower-third):** Football Daily - MNC: What next for Arsenal & is Iraola r…  
+**When:** 2026-06-01 16:20 (America/Winnipeg)  •  **Published:** 2026-06-01 21:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Rodri: Man City midfielder will wait until after World Cup to sort out future. Manchester City midfielder Rodri says he will wait until after the World Cup to sort out his future at the club amid links to Real Madrid. Relevance to standings and momentum.
+Football Daily - MNC: What next for Arsenal & is Iraola right for Liverpool? - BBC Sounds. Mark Chapman is joined by Conor Coady, Chris Sutton and, Adam Crafton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +185,7 @@ Rodri: Man City midfielder will wait until after World Cup to sort out future. M
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Rodri: Man City midfielder will wait until after World Cup to sort out future. https://www.bbc.com/sport/football/articles/c8e8z4k4d97o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Football Daily - MNC: What next for Arsenal & is Iraola right for Liverpool? - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0npjp4v?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +194,13 @@ Rodri: Man City midfielder will wait until after World Cup to sort out future. M
 
 ---
 
-## Story 8: Arsenal v PSG got 16.2m illegal stream views in UK after not being free-to-air
-**Slug (lower-third):** Arsenal v PSG got 16.2m illegal stream views in UK after …  
-**When:** 2026-06-01 10:40 (America/Winnipeg)  •  **Published:** 2026-06-01 15:40 (UTC)  
+## Story 8: Josh Acheampong: Chelsea reject approaches for 20-year-old defender
+**Slug (lower-third):** Josh Acheampong: Chelsea reject approaches for 20-year-ol…  
+**When:** 2026-06-01 14:48 (America/Winnipeg)  •  **Published:** 2026-06-01 19:48 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal v PSG got 16.2m illegal stream views in UK after not being free-to-air. Arsenal's Champions League final defeat attracted more than 16.2m views of longer than 90 seconds on illegal streams in the UK, analysis conducted for the Guardian shows Relevance to standings and momentum.
+Josh Acheampong: Chelsea reject approaches for 20-year-old defender. Chelsea reject multiple approaches for promising young defender Josh Acheampong who the club consider one of their 'untouchables'. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +209,7 @@ Arsenal v PSG got 16.2m illegal stream views in UK after not being free-to-air. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Arsenal v PSG got 16.2m illegal stream views in UK after not being free-to-air. https://www.theguardian.com/football/2026/jun/01/arsenal-psg-illegal-stream-views-tnt-champions-league-final
+- bbc.com — Josh Acheampong: Chelsea reject approaches for 20-year-old defender. https://www.bbc.com/sport/football/articles/c4g81m84m0ko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +218,13 @@ Arsenal v PSG got 16.2m illegal stream views in UK after not being free-to-air. 
 
 ---
 
-## Story 9: Why Liverpool want Andoni Iraola and what he will bring to Anfield
-**Slug (lower-third):** Why Liverpool want Andoni Iraola and what he will bring t…  
-**When:** 2026-06-01 07:45 (America/Winnipeg)  •  **Published:** 2026-06-01 12:45 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 9: Rodri insists he will address his future after World Cup amid Real Madrid links
+**Slug (lower-third):** Rodri insists he will address his future after World Cup …  
+**When:** 2026-06-01 13:09 (America/Winnipeg)  •  **Published:** 2026-06-01 18:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Why Liverpool want Andoni Iraola and what he will bring to Anfield. Why Liverpool believe Andoni Iraola is the man to re-establish the Reds as one of Europe's top clubs. Relevance to standings and momentum.
+Rodri insists he will address his future after World Cup amid Real Madrid links. The Spain and Manchester City midfielder says he will not address rumours linking him with Real Madrid until after this summer's tournament Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,7 +233,7 @@ Why Liverpool want Andoni Iraola and what he will bring to Anfield. Why Liverpoo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Why Liverpool want Andoni Iraola and what he will bring to Anfield. https://www.bbc.com/sport/football/articles/cy823pj9v93o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Rodri insists he will address his future after World Cup amid Real Madrid links. https://www.theguardian.com/football/2026/jun/01/rodri-future-world-cup-real-madrid-spain-manchester-city
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -239,13 +242,13 @@ Why Liverpool want Andoni Iraola and what he will bring to Anfield. Why Liverpoo
 
 ---
 
-## Story 10: Timothy Fosu-Mensah: Former Manchester United defender talks Michael Carrick, Bruno Fernandes and being a free agent
-**Slug (lower-third):** Timothy Fosu-Mensah: Former Manchester United defender ta…  
-**When:** 2026-06-01 05:57 (America/Winnipeg)  •  **Published:** 2026-06-01 10:57 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~24s
+## Story 10: Michail Antonio: 'In football, no one really cares about you as long as you perform'
+**Slug (lower-third):** Michail Antonio: 'In football, no one really cares about …  
+**When:** 2026-06-01 13:00 (America/Winnipeg)  •  **Published:** 2026-06-01 18:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Timothy Fosu-Mensah: Former Manchester United defender talks Michael Carrick, Bruno Fernandes and being a free agent. Former Manchester United defender Timothy Fosu-Mensah has been without a club since leaving Bayer Leverkusen; In an exclusive interview with Sky Sports News, the former Bayer Leverkusen talks Michael Carrick, Bruno Fernandes and more Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Michail Antonio: 'In football, no one really cares about you as long as you perform'. The former West Ham striker talks to Jacob Steinberg about the club's decline, the benefits of therapy and always being asked about his car crash Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -254,7 +257,7 @@ Timothy Fosu-Mensah: Former Manchester United defender talks Michael Carrick, Br
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Timothy Fosu-Mensah: Former Manchester United defender talks Michael Carrick, Bruno Fernandes and being a free agent. https://www.skysports.com/football/news/12040/13549755/timothy-fosu-mensah-former-manchester-united-defender-talks-michael-carrick-bruno-fernandes-and-being-a-free-agent
+- theguardian.com — Michail Antonio: 'In football, no one really cares about you as long as you perform'. https://www.theguardian.com/football/2026/jun/01/michail-antonio-west-ham-united-interview
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
