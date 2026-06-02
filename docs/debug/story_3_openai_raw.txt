@@ -1,16 +1,7 @@
-resp_0b0b6cb16a46c6a7006a1dfb4b8d0881978d3e6a7d19c221a7
-max_output_tokens
-gpt-5-mini-2025-08-07
-response
-rs_0b0b6cb16a46c6a7006a1dfb4bf5e88197ac6838ffec933823
-reasoning
-auto
-in_memory
-medium
-current_turn
-default
-incomplete
-text
-medium
-disabled
-developer
+{
+  "script": "Good afternoon — in today’s football roundup, new documents published by The Guardian on 1 June 2026 allege Southampton head coach Tonda Eckert initiated a practice of spying on opponents. The files, timestamped and reported at local time 2026-06-01 13:54, also show Eckert passing praise to an intern tied to the activity, suggesting senior-level involvement. The Guardian report does not specify which competitions, exact match dates, or numbers of staff involved — Not specified in the source — and it’s unclear if any governing body has opened a formal probe. We’ll follow this story closely as supporters and officials seek clarity from Southampton and football authorities.",
+  "why": [
+    "Allegations touch on sporting integrity and potential leadership responsibility at Southampton.",
+    "Praise to an intern implies the practice may have been organised from the top, increasing the story’s significance."
+  ],
+  "
