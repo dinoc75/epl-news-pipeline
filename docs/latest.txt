@@ -1,49 +1,25 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-02 23:18 (America/Winnipeg)  |  2026-06-03 04:18 (UTC)
+**Generated:** 2026-06-03 06:02 (America/Winnipeg)  |  2026-06-03 11:02 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 39s
+**Estimated total video length:** ~3m 20s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer
-- Bruno Fernandes transfer news: Man Utd confident captain will stay at Old Trafford this summer - Paper Talk
-- Ederson: Man Utd agree APS35m deal for Atalanta midfielder
+- England: Bournemouth midfielder Alex Scott could make senior debut in friendlies
+- Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelona
+- Aston Villa's top scorer Kirsty Hanson is set to join Tottenham
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Andoni Iraola: Liverpool reach agreement with former Bournemouth head coach to succeed Arne Slot
-**Slug (lower-third):** Andoni Iraola: Liverpool reach agreement with former Bour…  
-**When:** 2026-06-02 16:27 (America/Winnipeg)  •  **Published:** 2026-06-02 21:27 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Andoni Iraola: Liverpool reach agreement with former Bournemouth head coach to succeed Arne Slot. Liverpool have reached an agreement with Andoni Iraola over the vacant head coach role; Iraola was earmarked as a potential replacement for Arne Slot after the Dutchman was sacked a year on from winning the Premier League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Andoni Iraola: Liverpool reach agreement with former Bournemouth head coach to succeed Arne Slot. https://www.skysports.com/football/news/12040/13550266/andoni-iraola-liverpool-reach-agreement-with-former-bournemouth-head-coach-to-succeed-arne-slot
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Andoni Iraola: Liverpool reach verbal agreement with ex-Bournemouth manager
+## Story 1: Andoni Iraola: Liverpool reach verbal agreement with ex-Bournemouth manager
 **Slug (lower-third):** Andoni Iraola: Liverpool reach verbal agreement with ex-B…  
 **When:** 2026-06-02 15:56 (America/Winnipeg)  •  **Published:** 2026-06-02 20:56 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+**Virality score:** 85  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Andoni Iraola: Liverpool reach verbal agreement with ex-Bournemouth manager. Liverpool reach a verbal agreement with Andoni Iraola to take over as head coach following the sacking of Arne Slot. Relevance to standings and momentum.
@@ -64,10 +40,10 @@ Andoni Iraola: Liverpool reach verbal agreement with ex-Bournemouth manager. Liv
 
 ---
 
-## Story 3: Liverpool agree deal in principle with Andoni Iraola for two-year contract
+## Story 2: Liverpool agree deal in principle with Andoni Iraola for two-year contract
 **Slug (lower-third):** Liverpool agree deal in principle with Andoni Iraola for …  
 **When:** 2026-06-02 16:09 (America/Winnipeg)  •  **Published:** 2026-06-02 21:09 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+**Virality score:** 84  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Liverpool agree deal in principle with Andoni Iraola for two-year contract. Andoni Iraola is close to being confirmed as Liverpool's new head coach after agreeing a deal in principle to succeed Arne Slot Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -82,7 +58,55 @@ Liverpool agree deal in principle with Andoni Iraola for two-year contract. Ando
 - theguardian.com — Liverpool agree deal in principle with Andoni Iraola for two-year contract. https://www.theguardian.com/football/2026/jun/02/liverpool-opened-talks-with-andoni-iraola-over-becoming-head-coach
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Marco Silva to leave post as Fulham boss amid Benfica talks
+**Slug (lower-third):** Marco Silva to leave post as Fulham boss amid Benfica tal…  
+**When:** 2026-06-02 10:49 (America/Winnipeg)  •  **Published:** 2026-06-02 15:49 (UTC)  
+**Virality score:** 77  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Marco Silva to leave post as Fulham boss amid Benfica talks. Fulham manager Marco Silva confirms he will leave the Cottagers after five years in charge, with the 48-year-old close to agreeing a deal to take over at Benfica. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Marco Silva to leave post as Fulham boss amid Benfica talks. https://www.bbc.com/sport/football/articles/c5y00540l4ko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Fulham confirm Marco Silva is leaving as head coach amid Benfica interest
+**Slug (lower-third):** Fulham confirm Marco Silva is leaving as head coach amid …  
+**When:** 2026-06-02 10:39 (America/Winnipeg)  •  **Published:** 2026-06-02 15:39 (UTC)  
+**Virality score:** 76  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Fulham confirm Marco Silva is leaving as head coach amid Benfica interest. Fulham have announced that Marco Silva is leaving after five years as their head coach Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Fulham confirm Marco Silva is leaving as head coach amid Benfica interest. https://www.theguardian.com/football/2026/jun/02/fulham-marco-silva-leaving-head-coach-benfica
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -90,13 +114,13 @@ Liverpool agree deal in principle with Andoni Iraola for two-year contract. Ando
 
 ### Transfers
 
-## Story 4: Bruno Fernandes transfer news: Man Utd confident captain will stay at Old Trafford this summer - Paper Talk
-**Slug (lower-third):** Bruno Fernandes transfer news: Man Utd confident captain …  
-**When:** 2026-06-02 17:30 (America/Winnipeg)  •  **Published:** 2026-06-02 22:30 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~28s
+## Story 5: Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelona
+**Slug (lower-third):** Marcus Rashford heads to World Cup in limbo despite provi…  
+**When:** 2026-06-03 04:41 (America/Winnipeg)  •  **Published:** 2026-06-03 09:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bruno Fernandes transfer news: Man Utd confident captain will stay at Old Trafford this summer - Paper Talk. Wednesdays top stories also include: Aston Villa hope to resist offers for Morgan Rogers this summer amid interest from Arsenal and Chelsea; Chelsea value Enzo Fernandez at PS120m with Real Madrid considering a swap deal; West Ham will demand PS80m for Matheus Fernandes Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelona. Forward has generally thrived at the Camp Nou but Gordon's arrival plus his salary and Manchester United's transfer demands mean next move is not obvious Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,31 +129,7 @@ Bruno Fernandes transfer news: Man Utd confident captain will stay at Old Traffo
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Bruno Fernandes transfer news: Man Utd confident captain will stay at Old Trafford this summer - Paper Talk. https://www.skysports.com/football/news/12040/13550260/bruno-fernandes-transfer-news-man-utd-confident-captain-will-stay-at-old-trafford-this-summer-paper-talk
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Manchester United tie up PS35m deal to make Ederson first signing of Carrick reign
-**Slug (lower-third):** Manchester United tie up PS35m deal to make Ederson first…  
-**When:** 2026-06-02 17:27 (America/Winnipeg)  •  **Published:** 2026-06-02 22:27 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester United tie up PS35m deal to make Ederson first signing of Carrick reign. The transfer is likely to be completed early next month after his medical, while the Guardian revealed United's interest in April Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Manchester United tie up PS35m deal to make Ederson first signing of Carrick reign. https://www.theguardian.com/sport/2026/jun/02/manchester-united-tie-up-35m-deal-to-make-ederson-first-signing-of-carrick-reign
+- theguardian.com — Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelona. https://www.theguardian.com/football/2026/jun/03/marcus-rashford-heads-to-world-cup-in-limbo-despite-proving-his-value-to-barcelona
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +140,13 @@ Manchester United tie up PS35m deal to make Ederson first signing of Carrick rei
 
 ### Club Updates
 
-## Story 6: Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer
-**Slug (lower-third):** Liverpool legend Sir Kenny Dalglish reveals he is receivi…  
-**When:** 2026-06-02 14:46 (America/Winnipeg)  •  **Published:** 2026-06-02 19:46 (UTC)  
+## Story 6: England: Bournemouth midfielder Alex Scott could make senior debut in friendlies
+**Slug (lower-third):** England: Bournemouth midfielder Alex Scott could make sen…  
+**When:** 2026-06-03 05:29 (America/Winnipeg)  •  **Published:** 2026-06-03 10:29 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer. Sir Kenny Dalglish has revealed he is receiving treatment for cancer Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+England: Bournemouth midfielder Alex Scott could make senior debut in friendlies. Bournemouth midfielder Alex Scott is poised to make his England debut in the forthcoming World Cup warm-up games in the United States. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,8 +155,7 @@ Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer. https://www.theguardian.com/football/2026/jun/02/liverpool-legend-sir-kenny-dalglish-reveals-he-is-receiving-treatment-for-cancer
-- bbc.com — Sir Kenny Dalglish undergoing treatment for cancer. https://www.bbc.com/sport/football/articles/clyp4e14m1do?at_medium=RSS&at_campaign=rss
+- bbc.com — England: Bournemouth midfielder Alex Scott could make senior debut in friendlies. https://www.bbc.com/sport/football/articles/cy72rnnelpzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -165,10 +164,58 @@ Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer
 
 ---
 
-## Story 7: Ederson: Man Utd agree APS35m deal for Atalanta midfielder
+## Story 7: Aston Villa's top scorer Kirsty Hanson is set to join Tottenham
+**Slug (lower-third):** Aston Villa's top scorer Kirsty Hanson is set to join Tot…  
+**When:** 2026-06-03 01:38 (America/Winnipeg)  •  **Published:** 2026-06-03 06:38 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Aston Villa's top scorer Kirsty Hanson is set to join Tottenham. Aston Villa forward Kirsty Hanson is set to join Tottenham following an impressive season in the Women's Super League. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Aston Villa's top scorer Kirsty Hanson is set to join Tottenham. https://www.bbc.com/sport/football/articles/cdxp165xw7ko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Mohamed Salah: Egyptian king - where it all began for Liverpool star
+**Slug (lower-third):** Mohamed Salah: Egyptian king - where it all began for Liv…  
+**When:** 2026-06-03 01:26 (America/Winnipeg)  •  **Published:** 2026-06-03 06:26 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Mohamed Salah: Egyptian king - where it all began for Liverpool star. BBC Sport visits Egypt to discover what Mohamed Salah means to the people of the football-mad country, and how a small boy from humble beginnings became a national icon. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Mohamed Salah: Egyptian king - where it all began for Liverpool star. https://www.bbc.com/sport/football/articles/cx2xlk74llno?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Ederson: Man Utd agree APS35m deal for Atalanta midfielder
 **Slug (lower-third):** Ederson: Man Utd agree APS35m deal for Atalanta midfielder  
 **When:** 2026-06-02 17:24 (America/Winnipeg)  •  **Published:** 2026-06-02 22:24 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Ederson: Man Utd agree APS35m deal for Atalanta midfielder. Atalanta's Brazilian midfielder Ederson is set to become Michael Carrick's first signing after Manchester United agreed a APS35m deal for the 26-year-old Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -189,58 +236,10 @@ Ederson: Man Utd agree APS35m deal for Atalanta midfielder. Atalanta's Brazilian
 
 ---
 
-## Story 8: Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fernandes, Kluivert, Dumfries
-**Slug (lower-third):** Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fe…  
-**When:** 2026-06-02 16:35 (America/Winnipeg)  •  **Published:** 2026-06-02 21:35 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fernandes, Kluivert, Dumfries. Aston Villa do not plan to sell Morgan Rogers amid interest in the attacking midfielder, Barcelona remain keen on signing Marcus Rashford from Manchester United and Real Madrid hold talks with Inter Milan right-back Denzel Dumfries. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fernandes, Kluivert, Dumfries. https://www.bbc.com/sport/football/articles/c9d3zw81ezlo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: England vs New Zealand: Jofra Archer's absence from Test team amid IPL duties dubbed 'absolutely ludicrous' by Simon Doull
-**Slug (lower-third):** England vs New Zealand: Jofra Archer's absence from Test …  
-**When:** 2026-06-02 12:00 (America/Winnipeg)  •  **Published:** 2026-06-02 17:00 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-England vs New Zealand: Jofra Archer's absence from Test team amid IPL duties dubbed 'absolutely ludicrous' by Simon Doull. The Sky Sports Cricket experts react to Jofra Archers absence from Brendon McCullums first Test squad and discuss his replacements; watch the first Test against New Zealand, live on Sky Sports Cricket from 10am on Thursday (first ball 11am) Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — England vs New Zealand: Jofra Archer's absence from Test team amid IPL duties dubbed 'absolutely ludicrous' by Simon Doull. https://www.skysports.com/cricket/news/12040/13550184/england-vs-new-zealand-jofra-archers-absence-from-test-team-amid-ipl-duties-dubbed-absolutely-ludicrous-by-simon-doull
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 10: Everton interested in PS15m Hayden Hackney but face stiff competition
 **Slug (lower-third):** Everton interested in PS15m Hayden Hackney but face stiff…  
 **When:** 2026-06-02 11:53 (America/Winnipeg)  •  **Published:** 2026-06-02 16:53 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
+**Virality score:** 78  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Everton interested in PS15m Hayden Hackney but face stiff competition. The 23-year-old is expected to leave Middlesbrough this month with Brighton, Spurs, Nottingham Forest and Leeds also interested Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -255,7 +254,7 @@ Everton interested in PS15m Hayden Hackney but face stiff competition. The 23-ye
 - theguardian.com — Everton interested in PS15m Hayden Hackney but face stiff competition. https://www.theguardian.com/football/2026/jun/02/everton-interested-in-15m-hayden-hackney-but-face-stiff-competition
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
