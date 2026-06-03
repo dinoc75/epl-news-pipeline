@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-02 15:51 (America/Winnipeg)  |  2026-06-02 20:51 (UTC)
+**Generated:** 2026-06-02 23:18 (America/Winnipeg)  |  2026-06-03 04:18 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 52s
+**Estimated total video length:** ~4m 39s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Andoni Iraola: Liverpool reach agreement with former Bournemouth head coach to succeed Arne Slot
-- Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fernandes, Kluivert, Dumfries
 - Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer
+- Bruno Fernandes transfer news: Man Utd confident captain will stay at Old Trafford this summer - Paper Talk
+- Ederson: Man Utd agree APS35m deal for Atalanta midfielder
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Andoni Iraola: Liverpool reach agreement with former Bournemouth head coach to succeed Arne Slot
 **Slug (lower-third):** Andoni Iraola: Liverpool reach agreement with former Bour…  
 **When:** 2026-06-02 16:27 (America/Winnipeg)  •  **Published:** 2026-06-02 21:27 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+**Virality score:** 96  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
 Andoni Iraola: Liverpool reach agreement with former Bournemouth head coach to succeed Arne Slot. Liverpool have reached an agreement with Andoni Iraola over the vacant head coach role; Iraola was earmarked as a potential replacement for Arne Slot after the Dutchman was sacked a year on from winning the Premier League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -40,13 +40,13 @@ Andoni Iraola: Liverpool reach agreement with former Bournemouth head coach to s
 
 ---
 
-## Story 2: Marco Silva to leave Fulham: Portuguese head coach to depart after five seasons in charge amid Benfica links
-**Slug (lower-third):** Marco Silva to leave Fulham: Portuguese head coach to dep…  
-**When:** 2026-06-02 12:25 (America/Winnipeg)  •  **Published:** 2026-06-02 17:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+## Story 2: Andoni Iraola: Liverpool reach verbal agreement with ex-Bournemouth manager
+**Slug (lower-third):** Andoni Iraola: Liverpool reach verbal agreement with ex-B…  
+**When:** 2026-06-02 15:56 (America/Winnipeg)  •  **Published:** 2026-06-02 20:56 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Marco Silva to leave Fulham: Portuguese head coach to depart after five seasons in charge amid Benfica links. Marco Silva has been in charge at Fulham for five years; the Portuguese won the Championship in his first season before establishing the club in the Premier League; Silvas contract was set to expire this summer; the 48-year-old has agreed a deal to take over as Benfica head coach Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Andoni Iraola: Liverpool reach verbal agreement with ex-Bournemouth manager. Liverpool reach a verbal agreement with Andoni Iraola to take over as head coach following the sacking of Arne Slot. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Marco Silva to leave Fulham: Portuguese head coach to depart after five seasons 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Marco Silva to leave Fulham: Portuguese head coach to depart after five seasons in charge amid Benfica links. https://www.skysports.com/football/news/12040/13546506/marco-silva-to-leave-fulham-portuguese-head-coach-to-depart-after-five-seasons-in-charge-amid-benfica-links
+- bbc.com — Andoni Iraola: Liverpool reach verbal agreement with ex-Bournemouth manager. https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +64,13 @@ Marco Silva to leave Fulham: Portuguese head coach to depart after five seasons 
 
 ---
 
-## Story 3: Marco Silva to leave post as Fulham boss amid Benfica talks
-**Slug (lower-third):** Marco Silva to leave post as Fulham boss amid Benfica tal…  
-**When:** 2026-06-02 10:49 (America/Winnipeg)  •  **Published:** 2026-06-02 15:49 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 3: Liverpool agree deal in principle with Andoni Iraola for two-year contract
+**Slug (lower-third):** Liverpool agree deal in principle with Andoni Iraola for …  
+**When:** 2026-06-02 16:09 (America/Winnipeg)  •  **Published:** 2026-06-02 21:09 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Marco Silva to leave post as Fulham boss amid Benfica talks. Fulham manager Marco Silva confirms he will leave the Cottagers after five years in charge, with the 48-year-old close to agreeing a deal to take over at Benfica. Relevance to standings and momentum.
+Liverpool agree deal in principle with Andoni Iraola for two-year contract. Andoni Iraola is close to being confirmed as Liverpool's new head coach after agreeing a deal in principle to succeed Arne Slot Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +79,7 @@ Marco Silva to leave post as Fulham boss amid Benfica talks. Fulham manager Marc
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Marco Silva to leave post as Fulham boss amid Benfica talks. https://www.bbc.com/sport/football/articles/c5y00540l4ko?at_medium=RSS&at_campaign=rss
+- theguardian.com — Liverpool agree deal in principle with Andoni Iraola for two-year contract. https://www.theguardian.com/football/2026/jun/02/liverpool-opened-talks-with-andoni-iraola-over-becoming-head-coach
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +90,13 @@ Marco Silva to leave post as Fulham boss amid Benfica talks. Fulham manager Marc
 
 ### Transfers
 
-## Story 4: Ibrahima Konate transfer news: Defender edges closer to joining Real Madrid as talks continue with LaLiga giants
-**Slug (lower-third):** Ibrahima Konate transfer news: Defender edges closer to j…  
-**When:** 2026-06-02 13:35 (America/Winnipeg)  •  **Published:** 2026-06-02 18:35 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 4: Bruno Fernandes transfer news: Man Utd confident captain will stay at Old Trafford this summer - Paper Talk
+**Slug (lower-third):** Bruno Fernandes transfer news: Man Utd confident captain …  
+**When:** 2026-06-02 17:30 (America/Winnipeg)  •  **Published:** 2026-06-02 22:30 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Ibrahima Konate transfer news: Defender edges closer to joining Real Madrid as talks continue with LaLiga giants. Ibrahima Konate is edging closer to joining Real Madrid as a free agent after his exit from Liverpool was confirmed; Konate will leave Anfield at the end of his contract this summer and talks are ongoing with the LaLiga giants Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Bruno Fernandes transfer news: Man Utd confident captain will stay at Old Trafford this summer - Paper Talk. Wednesdays top stories also include: Aston Villa hope to resist offers for Morgan Rogers this summer amid interest from Arsenal and Chelsea; Chelsea value Enzo Fernandez at PS120m with Real Madrid considering a swap deal; West Ham will demand PS80m for Matheus Fernandes Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +105,7 @@ Ibrahima Konate transfer news: Defender edges closer to joining Real Madrid as t
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ibrahima Konate transfer news: Defender edges closer to joining Real Madrid as talks continue with LaLiga giants. https://www.skysports.com/football/news/12040/13550223/ibrahima-konate-transfer-news-defender-edges-closer-to-joining-real-madrid-as-talks-continue-with-laliga-giants
+- skysports.com — Bruno Fernandes transfer news: Man Utd confident captain will stay at Old Trafford this summer - Paper Talk. https://www.skysports.com/football/news/12040/13550260/bruno-fernandes-transfer-news-man-utd-confident-captain-will-stay-at-old-trafford-this-summer-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +114,13 @@ Ibrahima Konate transfer news: Defender edges closer to joining Real Madrid as t
 
 ---
 
-## Story 5: Ella Toone weighs up Manchester United future after tough campaign
-**Slug (lower-third):** Ella Toone weighs up Manchester United future after tough…  
-**When:** 2026-06-02 12:51 (America/Winnipeg)  •  **Published:** 2026-06-02 17:51 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Manchester United tie up PS35m deal to make Ederson first signing of Carrick reign
+**Slug (lower-third):** Manchester United tie up PS35m deal to make Ederson first…  
+**When:** 2026-06-02 17:27 (America/Winnipeg)  •  **Published:** 2026-06-02 22:27 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ella Toone weighs up Manchester United future after tough campaign. Ella Toone has said she will decide 'what's best for me' as she weighs up her long-term future with one year remaining on her Manchester United contract Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Manchester United tie up PS35m deal to make Ederson first signing of Carrick reign. The transfer is likely to be completed early next month after his medical, while the Guardian revealed United's interest in April Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +129,7 @@ Ella Toone weighs up Manchester United future after tough campaign. Ella Toone h
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Ella Toone weighs up Manchester United future after tough campaign. https://www.theguardian.com/football/2026/jun/02/ella-toone-weighs-up-manchester-united-future-after-tough-campaign
+- theguardian.com — Manchester United tie up PS35m deal to make Ederson first signing of Carrick reign. https://www.theguardian.com/sport/2026/jun/02/manchester-united-tie-up-35m-deal-to-make-ederson-first-signing-of-carrick-reign
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,31 +140,7 @@ Ella Toone weighs up Manchester United future after tough campaign. Ella Toone h
 
 ### Club Updates
 
-## Story 6: Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fernandes, Kluivert, Dumfries
-**Slug (lower-third):** Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fe…  
-**When:** 2026-06-02 15:34 (America/Winnipeg)  •  **Published:** 2026-06-02 20:34 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fernandes, Kluivert, Dumfries. Aston Villa do not plan to sell Morgan Rogers amid interest in the attacking midfielder, Barcelona remain keen on signing Marcus Rashford from Manchester United and Real Madrid hold talks with Inter Milan right-back Denzel Dumfries. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fernandes, Kluivert, Dumfries. https://www.bbc.com/sport/football/articles/c9d3zw81ezlo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer
+## Story 6: Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer
 **Slug (lower-third):** Liverpool legend Sir Kenny Dalglish reveals he is receivi…  
 **When:** 2026-06-02 14:46 (America/Winnipeg)  •  **Published:** 2026-06-02 19:46 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -189,13 +165,13 @@ Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer
 
 ---
 
-## Story 8: Chris Billam-Smith hits back at 'irrelevant' Ryan Rozicki warning after intense face-off ahead of cruiserweight showdown
-**Slug (lower-third):** Chris Billam-Smith hits back at 'irrelevant' Ryan Rozicki…  
-**When:** 2026-06-02 12:30 (America/Winnipeg)  •  **Published:** 2026-06-02 17:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+## Story 7: Ederson: Man Utd agree APS35m deal for Atalanta midfielder
+**Slug (lower-third):** Ederson: Man Utd agree APS35m deal for Atalanta midfielder  
+**When:** 2026-06-02 17:24 (America/Winnipeg)  •  **Published:** 2026-06-02 22:24 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chris Billam-Smith hits back at 'irrelevant' Ryan Rozicki warning after intense face-off ahead of cruiserweight showdown. Ryan Rozicki issued a knockout warning to Chris Billam-Smith as the pair faced off on Bournemouth seafront ahead of headlining Zuffa Boxings first UK show; watch Billam-Smith vs Rozicki on Saturday live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ederson: Man Utd agree APS35m deal for Atalanta midfielder. Atalanta's Brazilian midfielder Ederson is set to become Michael Carrick's first signing after Manchester United agreed a APS35m deal for the 26-year-old Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -204,7 +180,31 @@ Chris Billam-Smith hits back at 'irrelevant' Ryan Rozicki warning after intense 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chris Billam-Smith hits back at 'irrelevant' Ryan Rozicki warning after intense face-off ahead of cruiserweight showdown. https://www.skysports.com/boxing/news/12040/13550067/chris-billam-smith-hits-back-at-irrelevant-ryan-rozicki-warning-after-intense-face-off-ahead-of-cruiserweight-showdown
+- bbc.com — Ederson: Man Utd agree APS35m deal for Atalanta midfielder. https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fernandes, Kluivert, Dumfries
+**Slug (lower-third):** Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fe…  
+**When:** 2026-06-02 16:35 (America/Winnipeg)  •  **Published:** 2026-06-02 21:35 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fernandes, Kluivert, Dumfries. Aston Villa do not plan to sell Morgan Rogers amid interest in the attacking midfielder, Barcelona remain keen on signing Marcus Rashford from Manchester United and Real Madrid hold talks with Inter Milan right-back Denzel Dumfries. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Rogers, Cambiaso, Diomande, Rashford, Fernandes, Kluivert, Dumfries. https://www.bbc.com/sport/football/articles/c9d3zw81ezlo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -216,7 +216,7 @@ Chris Billam-Smith hits back at 'irrelevant' Ryan Rozicki warning after intense 
 ## Story 9: England vs New Zealand: Jofra Archer's absence from Test team amid IPL duties dubbed 'absolutely ludicrous' by Simon Doull
 **Slug (lower-third):** England vs New Zealand: Jofra Archer's absence from Test …  
 **When:** 2026-06-02 12:00 (America/Winnipeg)  •  **Published:** 2026-06-02 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+**Virality score:** 89  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
 England vs New Zealand: Jofra Archer's absence from Test team amid IPL duties dubbed 'absolutely ludicrous' by Simon Doull. The Sky Sports Cricket experts react to Jofra Archers absence from Brendon McCullums first Test squad and discuss his replacements; watch the first Test against New Zealand, live on Sky Sports Cricket from 10am on Thursday (first ball 11am) Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -237,13 +237,13 @@ England vs New Zealand: Jofra Archer's absence from Test team amid IPL duties du
 
 ---
 
-## Story 10: Football Daily | Southampton find a 'super-talented' reason to stick with Tonda Eckert
-**Slug (lower-third):** Football Daily | Southampton find a 'super-talented' reas…  
-**When:** 2026-06-02 09:49 (America/Winnipeg)  •  **Published:** 2026-06-02 14:49 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 10: Everton interested in PS15m Hayden Hackney but face stiff competition
+**Slug (lower-third):** Everton interested in PS15m Hayden Hackney but face stiff…  
+**When:** 2026-06-02 11:53 (America/Winnipeg)  •  **Published:** 2026-06-02 16:53 (UTC)  
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | Southampton find a 'super-talented' reason to stick with Tonda Eckert. In today's Football Daily: Tonda Eckert says sorry Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Everton interested in PS15m Hayden Hackney but face stiff competition. The 23-year-old is expected to leave Middlesbrough this month with Brighton, Spurs, Nottingham Forest and Leeds also interested Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -252,7 +252,7 @@ Football Daily | Southampton find a 'super-talented' reason to stick with Tonda 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | Southampton find a 'super-talented' reason to stick with Tonda Eckert. https://www.theguardian.com/football/2026/jun/02/football-daily-newsletter-tonda-eckert-southampton-spying-scandal
+- theguardian.com — Everton interested in PS15m Hayden Hackney but face stiff competition. https://www.theguardian.com/football/2026/jun/02/everton-interested-in-15m-hayden-hackney-but-face-stiff-competition
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
