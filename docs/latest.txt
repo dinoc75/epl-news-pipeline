@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-03 15:57 (America/Winnipeg)  |  2026-06-03 20:57 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2026-06-03 23:12 (America/Winnipeg)  |  2026-06-04 04:12 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~4m 58s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Andoni Iraola set to sign Liverpool contract on Thursday after reaching agreement to become Arne Slot's successor
-- 'There are low points': Ibrahima Konate reveals struggles in year of personal tragedy
-- Chris Billam-Smith could hit the canvas if he engages Ryan Rozicki in an 'ego' battle on Saturday, says Johnny Nelson
+- Man Utd transfer news: Michael Carrick wants four more signings this summer after Ederson deal - Paper Talk
+- Elliot Anderson: Manchester City have opening bid rejected by Nottingham Forest
+- Ibrahima Konate outlines battle with depression after deaths of Diogo Jota and father
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Andoni Iraola set to sign Liverpool contract on Thursday after reaching agreement to become Arne Slot's successor
 **Slug (lower-third):** Andoni Iraola set to sign Liverpool contract on Thursday …  
 **When:** 2026-06-03 16:11 (America/Winnipeg)  •  **Published:** 2026-06-03 21:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+**Virality score:** 95  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
 Andoni Iraola set to sign Liverpool contract on Thursday after reaching agreement to become Arne Slot's successor. Andoni Iraola is set to sign his contract at Liverpool on Thursday; Liverpool reached an agreement with Iraola over the vacant head coach role on Tuesday; Iraola was earmarked as a potential replacement for Arne Slot after the Dutchman was sacked a year on from winning the Premier League Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -43,7 +43,7 @@ Andoni Iraola set to sign Liverpool contract on Thursday after reaching agreemen
 ## Story 2: Liverpool: Andoni Iraola can make success of step up from Bournemouth at Anfield, with Spaniard primed to become next Reds boss after Arne Slot's sacking
 **Slug (lower-third):** Liverpool: Andoni Iraola can make success of step up from…  
 **When:** 2026-06-03 07:27 (America/Winnipeg)  •  **Published:** 2026-06-03 12:27 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~31s
+**Virality score:** 83  •  **Estimated runtime:** ~31s
 
 ### Presenter Script (3–5 sentences)
 Liverpool: Andoni Iraola can make success of step up from Bournemouth at Anfield, with Spaniard primed to become next Reds boss after Arne Slot's sacking. Andoni Iraolas methods at Bournemouth and suitability for Liverpool assessed, with the Spaniard verbally agreed to become Arne Slots successor at Liverpool; Listen to Liverpools Big Summer - a special Sky Sports podcast - for more analysis of the Reds and their incoming new boss Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -58,7 +58,7 @@ Liverpool: Andoni Iraola can make success of step up from Bournemouth at Anfield
 - skysports.com — Liverpool: Andoni Iraola can make success of step up from Bournemouth at Anfield, with Spaniard primed to become next Reds boss after Arne Slot's sacking. https://www.skysports.com/football/news/12040/13550409/liverpool-andoni-iraola-can-make-success-of-step-up-from-bournemouth-at-anfield-with-spaniard-primed-to-become-next-reds-boss-after-arne-slots-sacking
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -66,10 +66,58 @@ Liverpool: Andoni Iraola can make success of step up from Bournemouth at Anfield
 
 ### Transfers
 
-## Story 3: Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelona
+## Story 3: Man Utd transfer news: Michael Carrick wants four more signings this summer after Ederson deal - Paper Talk
+**Slug (lower-third):** Man Utd transfer news: Michael Carrick wants four more si…  
+**When:** 2026-06-03 18:00 (America/Winnipeg)  •  **Published:** 2026-06-03 23:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Man Utd transfer news: Michael Carrick wants four more signings this summer after Ederson deal - Paper Talk. Thursdays top stories also include: Man Utd have paused contract talks with captain Bruno Fernandes but remain calm about his future; Arsenal believe they are in pole position to sign Aston Villas Morgan Rogers; Ipswichs Kieran McKenna and Thomas Frank are candidates for the Fulham job Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man Utd transfer news: Michael Carrick wants four more signings this summer after Ederson deal - Paper Talk. https://www.skysports.com/football/news/12040/13550597/man-utd-transfer-news-michael-carrick-wants-four-more-signings-this-summer-after-ederson-deal-paper-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Elliot Anderson: Manchester City have opening bid rejected by Nottingham Forest
+**Slug (lower-third):** Elliot Anderson: Manchester City have opening bid rejecte…  
+**When:** 2026-06-03 17:41 (America/Winnipeg)  •  **Published:** 2026-06-03 22:41 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Elliot Anderson: Manchester City have opening bid rejected by Nottingham Forest. Manchester City have an opening transfer bid for midfielder Elliot Anderson rejected by Nottingham Forest. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Elliot Anderson: Manchester City have opening bid rejected by Nottingham Forest. https://www.bbc.com/sport/football/articles/c042w3w601yo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelona
 **Slug (lower-third):** Marcus Rashford heads to World Cup in limbo despite provi…  
 **When:** 2026-06-03 04:41 (America/Winnipeg)  •  **Published:** 2026-06-03 09:41 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
+**Virality score:** 77  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelona. Forward has generally thrived at the Camp Nou but Gordon's arrival plus his salary and Manchester United's transfer demands mean next move is not obvious Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -84,7 +132,7 @@ Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelo
 - theguardian.com — Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelona. https://www.theguardian.com/football/2026/jun/03/marcus-rashford-heads-to-world-cup-in-limbo-despite-proving-his-value-to-barcelona
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -92,13 +140,13 @@ Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelo
 
 ### Club Updates
 
-## Story 4: 'There are low points': Ibrahima Konate reveals struggles in year of personal tragedy
-**Slug (lower-third):** 'There are low points': Ibrahima Konate reveals struggles…  
-**When:** 2026-06-03 12:40 (America/Winnipeg)  •  **Published:** 2026-06-03 17:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
+## Story 6: Ibrahima Konate outlines battle with depression after deaths of Diogo Jota and father
+**Slug (lower-third):** Ibrahima Konate outlines battle with depression after dea…  
+**When:** 2026-06-03 16:36 (America/Winnipeg)  •  **Published:** 2026-06-03 21:36 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'There are low points': Ibrahima Konate reveals struggles in year of personal tragedy. Ibrahima Konate has spoken about the struggles he faced in a year of personal tragedy in which the death of his former Liverpool teammate Diogo Jota was followed by that of his father Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ibrahima Konate outlines battle with depression after deaths of Diogo Jota and father. Liverpool defender Ibrahima Konate opens up on how the deaths of team-mate Diogo Jota and his father left him battling depression during his final season at the club. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +155,7 @@ Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelo
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'There are low points': Ibrahima Konate reveals struggles in year of personal tragedy. https://www.theguardian.com/football/2026/jun/03/ibrahima-konate-reveals-struggles-in-year-of-personal-tragedy
+- bbc.com — Ibrahima Konate outlines battle with depression after deaths of Diogo Jota and father. https://www.bbc.com/sport/football/articles/cwy2081rrr7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,10 +164,34 @@ Marcus Rashford heads to World Cup in limbo despite proving his value to Barcelo
 
 ---
 
-## Story 5: Chris Billam-Smith could hit the canvas if he engages Ryan Rozicki in an 'ego' battle on Saturday, says Johnny Nelson
+## Story 7: Football gossip: Summerville, Dumfries, Yohanna, Reijnders, McKenna, Frank, Fernandes, Greenwood, Gabriel Jesus, Titraoui, Kolo Muani
+**Slug (lower-third):** Football gossip: Summerville, Dumfries, Yohanna, Reijnder…  
+**When:** 2026-06-03 15:59 (America/Winnipeg)  •  **Published:** 2026-06-03 20:59 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Summerville, Dumfries, Yohanna, Reijnders, McKenna, Frank, Fernandes, Greenwood, Gabriel Jesus, Titraoui, Kolo Muani. AC Milan rival Premier League sides for West Ham's Crysencio Summerville, Real Madrid to sign Inter's Denzel Dumfries and Newcastle target Nigerian teenager Zadok Yohanna. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Summerville, Dumfries, Yohanna, Reijnders, McKenna, Frank, Fernandes, Greenwood, Gabriel Jesus, Titraoui, Kolo Muani. https://www.bbc.com/sport/football/articles/cvgz2wvw3ydo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Chris Billam-Smith could hit the canvas if he engages Ryan Rozicki in an 'ego' battle on Saturday, says Johnny Nelson
 **Slug (lower-third):** Chris Billam-Smith could hit the canvas if he engages Rya…  
 **When:** 2026-06-03 12:00 (America/Winnipeg)  •  **Published:** 2026-06-03 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+**Virality score:** 89  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 Chris Billam-Smith could hit the canvas if he engages Ryan Rozicki in an 'ego' battle on Saturday, says Johnny Nelson. Chris Billam-Smith should overcome Ryan Rozicki in Bournemouth this weekend, provided he fights his own fight; his world title aspirations and Zuffa journey could depend on it, writes Johnny Nelson; watch Billam-Smith vs Rozicki on Sky Sports from 7pm on Saturday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -140,10 +212,34 @@ Chris Billam-Smith could hit the canvas if he engages Ryan Rozicki in an 'ego' b
 
 ---
 
-## Story 6: Southampton Spygate: Is spying as common in Germany as Tonda Eckert says?
+## Story 9: 'Part machine': World Cup success lies in the details for Socceroos coach Tony Popovic
+**Slug (lower-third):** 'Part machine': World Cup success lies in the details for…  
+**When:** 2026-06-03 10:00 (America/Winnipeg)  •  **Published:** 2026-06-03 15:00 (UTC)  
+**Virality score:** 85  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'Part machine': World Cup success lies in the details for Socceroos coach Tony Popovic. As a player Popovic was relentless in being his best. But behind his ruthless reputation is a focused leader deeply committed to his players Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'Part machine': World Cup success lies in the details for Socceroos coach Tony Popovic. https://www.theguardian.com/football/2026/jun/04/australia-world-cup-team-socceroos-success-coach-tony-popovic
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Southampton Spygate: Is spying as common in Germany as Tonda Eckert says?
 **Slug (lower-third):** Southampton Spygate: Is spying as common in Germany as To…  
 **When:** 2026-06-03 09:10 (America/Winnipeg)  •  **Published:** 2026-06-03 14:10 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**Virality score:** 85  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Southampton Spygate: Is spying as common in Germany as Tonda Eckert says?. BBC Sport explores whether spying is as regular an occurrence in Germany as Southampton boss Tonda Eckert claims. Relevance to standings and momentum.
@@ -159,78 +255,6 @@ Southampton Spygate: Is spying as common in Germany as Tonda Eckert says?. BBC S
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: NBA Finals 2026: New York Knicks vs San Antonio Spurs dates, schedule, UK start time and key info
-**Slug (lower-third):** NBA Finals 2026: New York Knicks vs San Antonio Spurs dat…  
-**When:** 2026-06-03 06:38 (America/Winnipeg)  •  **Published:** 2026-06-03 11:38 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-NBA Finals 2026: New York Knicks vs San Antonio Spurs dates, schedule, UK start time and key info. The 2026 NBA Finals are upon us, and here's all you need to know as the San Antonio Spurs face the New York Knicks in a seven-game series to be crowned kings of basketball. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — NBA Finals 2026: New York Knicks vs San Antonio Spurs dates, schedule, UK start time and key info. https://www.skysports.com/basketball/news/36226/13550396/nba-finals-2026-new-york-knicks-vs-san-antonio-spurs-dates-schedule-uk-start-time-key-info
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Aston Villa's top scorer Kirsty Hanson is set to join Tottenham
-**Slug (lower-third):** Aston Villa's top scorer Kirsty Hanson is set to join Tot…  
-**When:** 2026-06-03 01:38 (America/Winnipeg)  •  **Published:** 2026-06-03 06:38 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Aston Villa's top scorer Kirsty Hanson is set to join Tottenham. Aston Villa forward Kirsty Hanson is set to join Tottenham following an impressive season in the Women's Super League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Aston Villa's top scorer Kirsty Hanson is set to join Tottenham. https://www.bbc.com/sport/football/articles/cdxp165xw7ko?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Ederson: Man Utd agree APS35m deal for Atalanta midfielder
-**Slug (lower-third):** Ederson: Man Utd agree APS35m deal for Atalanta midfielder  
-**When:** 2026-06-02 17:24 (America/Winnipeg)  •  **Published:** 2026-06-02 22:24 (UTC)  
-**Virality score:** 73  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ederson: Man Utd agree APS35m deal for Atalanta midfielder. Atalanta's Brazilian midfielder Ederson is set to become Michael Carrick's first signing after Manchester United agreed a APS35m deal for the 26-year-old Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Ederson: Man Utd agree APS35m deal for Atalanta midfielder. https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
