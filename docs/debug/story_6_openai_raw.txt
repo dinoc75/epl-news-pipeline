@@ -1,8 +1,8 @@
-resp_0fdae57bda08c5b1006a253302ad308197aab2f7cd1dea2b9b
+resp_0db0fec160887fcf006a2578dc8d948194991e3f73db8a7866
 max_output_tokens
 gpt-5-mini-2025-08-07
 response
-rs_0fdae57bda08c5b1006a25330305ec8197973bb752bc5eca7b
+rs_0db0fec160887fcf006a2578dd412c81948768b740f3ce304e
 reasoning
 auto
 in_memory
