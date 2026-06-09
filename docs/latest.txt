@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-09 09:55 (America/Winnipeg)  |  2026-06-09 14:55 (UTC)
-**Stories in this rundown:** 10  |  **Style:** conversational broadcast
+**Generated:** 2026-06-09 15:09 (America/Winnipeg)  |  2026-06-09 20:09 (UTC)
+**Stories in this rundown:** 9  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 45s
+**Estimated total video length:** ~4m 34s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Pierre Sage: Crystal Palace agree deal in principle for RC Lens coach to take over as Oliver Glasner's replacement
-- David Sullivan: What next for West Ham United ownership?
-- Football regulator contacts West Ham over 'serious allegations' against Sullivan
+- Mateus Fernandes: The reasons why Manchester United and Europe's best are interested in a midfielder who has been relegated twice
+- Mateus Fernandes transfer news: Man Utd exploring deal for midfielder who West Ham value at PS80m
+- David Sullivan banned from contact with West Ham women's and youth teams since 2023
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Pierre Sage: Crystal Palace agree deal in principle for RC Lens coach to take over as Oliver Glasner's replacement
 **Slug (lower-third):** Pierre Sage: Crystal Palace agree deal in principle for R…  
 **When:** 2026-06-09 10:00 (America/Winnipeg)  •  **Published:** 2026-06-09 15:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
+**Virality score:** 98  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
 Pierre Sage: Crystal Palace agree deal in principle for RC Lens coach to take over as Oliver Glasner's replacement. Andoni Iraola was Crystal Palaces primary target to replace Oliver Glasner before Liverpool moved to appoint him; the Eagles have stepped up interest in Lens coach Pierre Sage and have agreed a deal in principle; Sage is set to sign a three-year deal with the option of another year Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -43,7 +43,7 @@ Pierre Sage: Crystal Palace agree deal in principle for RC Lens coach to take ov
 ## Story 2: Crystal Palace poised to appoint Pierre Sage as head coach on two-year deal
 **Slug (lower-third):** Crystal Palace poised to appoint Pierre Sage as head coac…  
 **When:** 2026-06-09 09:17 (America/Winnipeg)  •  **Published:** 2026-06-09 14:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Crystal Palace poised to appoint Pierre Sage as head coach on two-year deal. Crystal Palace are poised to appoint Pierre Sage as Oliver Glasner's successor after holding productive talks with the Frenchman Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -66,13 +66,13 @@ Crystal Palace poised to appoint Pierre Sage as head coach on two-year deal. Cry
 
 ### Transfers
 
-## Story 3: Wolves: Championship side sign Kieran Trippier and are in Raul Jimenez talks
-**Slug (lower-third):** Wolves: Championship side sign Kieran Trippier and are in…  
-**When:** 2026-06-08 17:38 (America/Winnipeg)  •  **Published:** 2026-06-08 22:38 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
+## Story 3: Mateus Fernandes transfer news: Man Utd exploring deal for midfielder who West Ham value at PS80m
+**Slug (lower-third):** Mateus Fernandes transfer news: Man Utd exploring deal fo…  
+**When:** 2026-06-09 14:00 (America/Winnipeg)  •  **Published:** 2026-06-09 19:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Wolves: Championship side sign Kieran Trippier and are in Raul Jimenez talks. Wolves sign former England full-back Kieran Trippier and are in talks to re-sign former striker Raul Jimenez on a free transfer. Implications for the squad and table.
+Mateus Fernandes transfer news: Man Utd exploring deal for midfielder who West Ham value at PS80m. Man Utd exploring deal to sign Mateus Fernandes; West Ham value the player at around PS80m; Fernandes was a shining light in the Hammers midfield in the second half of the campaign; the Portugal international, 21, is part of his countrys World Cup squad Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,10 +81,60 @@ Wolves: Championship side sign Kieran Trippier and are in Raul Jimenez talks. Wo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Wolves: Championship side sign Kieran Trippier and are in Raul Jimenez talks. https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&at_campaign=rss
+- skysports.com — Mateus Fernandes transfer news: Man Utd exploring deal for midfielder who West Ham value at PS80m. https://www.skysports.com/football/news/12040/13547841/mateus-fernandes-transfer-news-man-utd-exploring-deal-for-midfielder-who-west-ham-value-at-80m
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Raul Jimenez: Wolves re-sign Mexico striker from Premier League Fulham
+**Slug (lower-third):** Raul Jimenez: Wolves re-sign Mexico striker from Premier …  
+**When:** 2026-06-09 11:34 (America/Winnipeg)  •  **Published:** 2026-06-09 16:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Raul Jimenez: Wolves re-sign Mexico striker from Premier League Fulham. Wolves re-sign striker Raul Jimenez from Premier League Fulham on a free transfer. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Raul Jimenez: Wolves re-sign Mexico striker from Premier League Fulham. https://www.bbc.com/sport/football/articles/cpwer870894o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 5: Liverpool's Rio Ngumoha to leave England World Cup camp having impressed Tuchel
+**Slug (lower-third):** Liverpool's Rio Ngumoha to leave England World Cup camp h…  
+**When:** 2026-06-09 10:01 (America/Winnipeg)  •  **Published:** 2026-06-09 15:01 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool's Rio Ngumoha to leave England World Cup camp having impressed Tuchel. Rio Ngumoha will leave the US this week after impressing with England's World Cup squad but will return to the country for Liverpool's pre-season tour next month. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Liverpool's Rio Ngumoha to leave England World Cup camp having impressed Tuchel. https://www.bbc.com/sport/football/articles/cddl48g7d94o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -92,13 +142,13 @@ Wolves: Championship side sign Kieran Trippier and are in Raul Jimenez talks. Wo
 
 ### League & Regulation
 
-## Story 4: NBA Finals: Victor Wembanyama carries San Antonio Spurs to 115-111 win that cuts New York Knicks' lead to 2-1
-**Slug (lower-third):** NBA Finals: Victor Wembanyama carries San Antonio Spurs t…  
-**When:** 2026-06-09 01:21 (America/Winnipeg)  •  **Published:** 2026-06-09 06:21 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~31s
+## Story 6: Mateus Fernandes: The reasons why Manchester United and Europe's best are interested in a midfielder who has been relegated twice
+**Slug (lower-third):** Mateus Fernandes: The reasons why Manchester United and E…  
+**When:** 2026-06-09 15:00 (America/Winnipeg)  •  **Published:** 2026-06-09 20:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
 
 ### Presenter Script (3–5 sentences)
-NBA Finals: Victor Wembanyama carries San Antonio Spurs to 115-111 win that cuts New York Knicks' lead to 2-1. Donald Trump booed by fans at Madison Square Garden during the national anthem as he became the first sitting US President to attend an NBA Finals game; Victor Wembanyama scored 32 points, had eight rebounds and six assists in San Antonio Spurs 115-111 road win over the New York Knicks Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Mateus Fernandes: The reasons why Manchester United and Europe's best are interested in a midfielder who has been relegated twice. Manchester United are interested in signing West Hams Mateus Fernandes, with Arsenal and PSG also linked to the player; this is despite the Portuguese midfielder being relegated from the Premier League in each of the last two seasons with Southampton and West Ham - so what is the appeal? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +157,31 @@ NBA Finals: Victor Wembanyama carries San Antonio Spurs to 115-111 win that cuts
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — NBA Finals: Victor Wembanyama carries San Antonio Spurs to 115-111 win that cuts New York Knicks' lead to 2-1. https://www.skysports.com/nba/news/12040/13552162/nba-finals-victor-wembanyama-carries-san-antonio-spurs-to-115-111-win-that-cuts-new-york-knicks-lead-to-2-1
+- skysports.com — Mateus Fernandes: The reasons why Manchester United and Europe's best are interested in a midfielder who has been relegated twice. https://www.skysports.com/football/news/12040/13552345/mateus-fernandes-the-reasons-why-manchester-united-and-europes-best-are-interested-in-a-midfielder-who-has-been-relegated-twice
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: David Sullivan banned from contact with West Ham women's and youth teams since 2023
+**Slug (lower-third):** David Sullivan banned from contact with West Ham women's …  
+**When:** 2026-06-09 12:53 (America/Winnipeg)  •  **Published:** 2026-06-09 17:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+David Sullivan banned from contact with West Ham women's and youth teams since 2023. The decision followed a safeguarding investigation opened by the the Football Association. Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — David Sullivan banned from contact with West Ham women's and youth teams since 2023. https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,13 +192,13 @@ NBA Finals: Victor Wembanyama carries San Antonio Spurs to 115-111 win that cuts
 
 ### Club Updates
 
-## Story 5: David Sullivan: What next for West Ham United ownership?
-**Slug (lower-third):** David Sullivan: What next for West Ham United ownership?  
-**When:** 2026-06-09 09:44 (America/Winnipeg)  •  **Published:** 2026-06-09 14:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Chris Billam-Smith calls for Jai Opetaia fight next after bruising cruiserweight win over Ryan Rozicki in Bournemouth
+**Slug (lower-third):** Chris Billam-Smith calls for Jai Opetaia fight next after…  
+**When:** 2026-06-09 12:40 (America/Winnipeg)  •  **Published:** 2026-06-09 17:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-David Sullivan: What next for West Ham United ownership?. West Ham is a club in turmoil after co-chair David Sullivan stood down ahead of allegations about his private life, which he denies. Relevance to standings and momentum.
+Chris Billam-Smith calls for Jai Opetaia fight next after bruising cruiserweight win over Ryan Rozicki in Bournemouth. Jai Opetaia is Chris Billam-Smiths next target after the Bournemouth boxers epic victory over Ryan Rozicki; Billam-Smith discussed his win over the hard-hitting Canadian and his hopes for the future on Sky Sports Ringside Toe2Toe podcast Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,79 +207,7 @@ David Sullivan: What next for West Ham United ownership?. West Ham is a club in 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — David Sullivan: What next for West Ham United ownership?. https://www.bbc.com/sport/football/articles/cdjke4r7dmeo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Football regulator contacts West Ham over 'serious allegations' against Sullivan
-**Slug (lower-third):** Football regulator contacts West Ham over 'serious allega…  
-**When:** 2026-06-09 09:17 (America/Winnipeg)  •  **Published:** 2026-06-09 14:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football regulator contacts West Ham over 'serious allegations' against Sullivan. Multiple women accuse the billionaire of abusing his power and preying on them for sex, in some cases when they were in their late teens. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Football regulator contacts West Ham over 'serious allegations' against Sullivan. https://www.bbc.com/news/articles/c1ky7gndnlyo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Chelsea's Cole Palmer and Joao Pedro in new Madonna video
-**Slug (lower-third):** Chelsea's Cole Palmer and Joao Pedro in new Madonna video  
-**When:** 2026-06-09 05:17 (America/Winnipeg)  •  **Published:** 2026-06-09 10:17 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea's Cole Palmer and Joao Pedro in new Madonna video. Chelsea forwards Cole Palmer and Joao Pedro make a surprise appearance in a promotional film for Madonna's new album. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Chelsea's Cole Palmer and Joao Pedro in new Madonna video. https://www.bbc.com/sport/football/articles/c4gyl574drwo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: 'It was madness in Baghdad': Rene Meulensteen on coaching Iraq and helping Ronaldo
-**Slug (lower-third):** 'It was madness in Baghdad': Rene Meulensteen on coaching…  
-**When:** 2026-06-09 04:44 (America/Winnipeg)  •  **Published:** 2026-06-09 09:44 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-'It was madness in Baghdad': Rene Meulensteen on coaching Iraq and helping Ronaldo. Iraq's No 2 discusses his recipe for a World Cup shock, the players' singing and his time assisting Alex Ferguson at Manchester United Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — 'It was madness in Baghdad': Rene Meulensteen on coaching Iraq and helping Ronaldo. https://www.theguardian.com/football/2026/jun/09/rene-meulensteen-iraq-world-cup-ronaldo-manchester-united
+- skysports.com — Chris Billam-Smith calls for Jai Opetaia fight next after bruising cruiserweight win over Ryan Rozicki in Bournemouth. https://www.skysports.com/boxing/news/12040/13552403/chris-billam-smith-calls-for-jai-opetaia-fight-next-after-bruising-cruiserweight-win-over-ryan-rozicki-in-bournemouth
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -217,7 +219,7 @@ Chelsea's Cole Palmer and Joao Pedro in new Madonna video. Chelsea forwards Cole
 ## Story 9: World Cup 2026: Diogo Jota's widow writes to Andrew Robertson
 **Slug (lower-third):** World Cup 2026: Diogo Jota's widow writes to Andrew Rober…  
 **When:** 2026-06-09 02:21 (America/Winnipeg)  •  **Published:** 2026-06-09 07:21 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 World Cup 2026: Diogo Jota's widow writes to Andrew Robertson. Diogo Jota's widow urges Scotland captain Andrew Robertson to carry his former Liverpool team-mate "in your heart" when he plays at the World Cup. Relevance to standings and momentum.
@@ -230,30 +232,6 @@ World Cup 2026: Diogo Jota's widow writes to Andrew Robertson. Diogo Jota's wido
 
 ### Sources
 - bbc.com — World Cup 2026: Diogo Jota's widow writes to Andrew Robertson. https://www.bbc.com/sport/football/articles/c3dyvyy8g5vo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Today on Sky Sports Racing: Brighton and Southwell
-**Slug (lower-third):** Today on Sky Sports Racing: Brighton and Southwell  
-**When:** 2026-06-09 02:00 (America/Winnipeg)  •  **Published:** 2026-06-09 07:00 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Brighton and Southwell. The Lawney Hill-trained No More No hasn't got many miles on the clock but has created a good impression when he has made it to the track and looks to make up for lost time at Southwell; also have competitive flat action from Brighton, live on Sky Sports Racing on Tuesday from 2.30pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Brighton and Southwell. https://www.skysports.com/racing/news/12040/13551962/today-on-sky-sports-racing-brighton-and-southwell
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
