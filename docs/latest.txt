@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-08 15:20 (America/Winnipeg)  |  2026-06-08 20:20 (UTC)
+**Generated:** 2026-06-08 22:40 (America/Winnipeg)  |  2026-06-09 03:40 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~3m 25s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Arsenal: Head of sports medicine Dr Zafar Iqbal leaving club
-- Fifa vice-president Victor Montagliani: 'MLS can become the second-biggest league in the world. Maybe the biggest'
-- World Cup 2026: Jurrien Timber out of Netherlands' squad, Brazil's Neymar making good progress
+- Elliot Anderson future: Man Utd confident of beating Man City to Nottm Forest and England midfielder this summer
+- Wolves: Championship side sign Kieran Trippier and are in Raul Jimenez talks
+- Football gossip: Savinho, Anderson, Cucurella, Tonali, Camara, Esposito, Muani, Rodrygo, Ndiaye, Inacio, Savona, Glasner
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Enzo Maresca: Man City still in negotiations to appoint new manager
-**Slug (lower-third):** Enzo Maresca: Man City still in negotiations to appoint n…  
-**When:** 2026-06-08 10:10 (America/Winnipeg)  •  **Published:** 2026-06-08 15:10 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 1: Pierre Sage: Crystal Palace hold talks with Lens manager
+**Slug (lower-third):** Pierre Sage: Crystal Palace hold talks with Lens manager  
+**When:** 2026-06-08 15:47 (America/Winnipeg)  •  **Published:** 2026-06-08 20:47 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Enzo Maresca: Man City still in negotiations to appoint new manager. Manchester City are continuing negotiations with Chelsea to appoint Enzo Maresca as their new manager. Relevance to standings and momentum.
+Pierre Sage: Crystal Palace hold talks with Lens manager. Crystal Palace hold talks with Lens manager Pierre Sage about becoming their new head coach. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,31 +31,7 @@ Enzo Maresca: Man City still in negotiations to appoint new manager. Manchester 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Enzo Maresca: Man City still in negotiations to appoint new manager. https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Kieron Dyer named as new Southend United head coach
-**Slug (lower-third):** Kieron Dyer named as new Southend United head coach  
-**When:** 2026-06-08 09:03 (America/Winnipeg)  •  **Published:** 2026-06-08 14:03 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Kieron Dyer named as new Southend United head coach. Southend United appoint ex-Ipswich, Newcastle and England midfielder Kieron Dyer as their new head coach on an initial two-year contract. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Kieron Dyer named as new Southend United head coach. https://www.bbc.com/sport/football/articles/c9d33n2dexyo?at_medium=RSS&at_campaign=rss
+- bbc.com — Pierre Sage: Crystal Palace hold talks with Lens manager. https://www.bbc.com/sport/football/articles/c20ypg5vyveo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,10 +42,34 @@ Kieron Dyer named as new Southend United head coach. Southend United appoint ex-
 
 ### Transfers
 
+## Story 2: Wolves: Championship side sign Kieran Trippier and are in Raul Jimenez talks
+**Slug (lower-third):** Wolves: Championship side sign Kieran Trippier and are in…  
+**When:** 2026-06-08 17:38 (America/Winnipeg)  •  **Published:** 2026-06-08 22:38 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Wolves: Championship side sign Kieran Trippier and are in Raul Jimenez talks. Wolves sign former England full-back Kieran Trippier and are in talks to re-sign former striker Raul Jimenez on a free transfer. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Wolves: Championship side sign Kieran Trippier and are in Raul Jimenez talks. https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ## Story 3: Lassana Diarra settles with Fifa and Belgian FA after landmark transfer case
 **Slug (lower-third):** Lassana Diarra settles with Fifa and Belgian FA after lan…  
 **When:** 2026-06-08 11:57 (America/Winnipeg)  •  **Published:** 2026-06-08 16:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Lassana Diarra settles with Fifa and Belgian FA after landmark transfer case. The former Chelsea and Real Madrid midfielder wanted EUR65m from Fifa and the Belgian FA after he was denied a transfer to Charleroi in 2014 Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -95,7 +95,7 @@ Lassana Diarra settles with Fifa and Belgian FA after landmark transfer case. Th
 ## Story 4: World Cup 2026: Jurrien Timber out of Netherlands' squad, Brazil's Neymar making good progress
 **Slug (lower-third):** World Cup 2026: Jurrien Timber out of Netherlands' squad,…  
 **When:** 2026-06-08 14:21 (America/Winnipeg)  •  **Published:** 2026-06-08 19:21 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 World Cup 2026: Jurrien Timber out of Netherlands' squad, Brazil's Neymar making good progress. Arsenal defender Jurrien Timber is ruled out of the Netherlands' World Cup campaign with a groin injury, while Brazil's Neymar is making good progress from injury. Potential impact on the lineup and upcoming fixtures.
@@ -118,13 +118,13 @@ World Cup 2026: Jurrien Timber out of Netherlands' squad, Brazil's Neymar making
 
 ### Club Updates
 
-## Story 5: Arsenal: Head of sports medicine Dr Zafar Iqbal leaving club
-**Slug (lower-third):** Arsenal: Head of sports medicine Dr Zafar Iqbal leaving c…  
-**When:** 2026-06-08 15:12 (America/Winnipeg)  •  **Published:** 2026-06-08 20:12 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Elliot Anderson future: Man Utd confident of beating Man City to Nottm Forest and England midfielder this summer
+**Slug (lower-third):** Elliot Anderson future: Man Utd confident of beating Man …  
+**When:** 2026-06-08 18:00 (America/Winnipeg)  •  **Published:** 2026-06-08 23:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Arsenal: Head of sports medicine Dr Zafar Iqbal leaving club. Arsenal's head of sports medicine Dr Zafar Iqbal is leaving after two years at the club. Relevance to standings and momentum.
+Elliot Anderson future: Man Utd confident of beating Man City to Nottm Forest and England midfielder this summer. Tuesdays top stories also include: Juventus target Aston Villas Emi Martinez after missing out on Alisson; Tottenham advance in talks for Man City winger Savinho; Real Madrid hold genuine interest in Chelseas Enzo Fernandez Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +133,7 @@ Arsenal: Head of sports medicine Dr Zafar Iqbal leaving club. Arsenal's head of 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Arsenal: Head of sports medicine Dr Zafar Iqbal leaving club. https://www.bbc.com/sport/football/articles/cp369xgwy2vo?at_medium=RSS&at_campaign=rss
+- skysports.com — Elliot Anderson future: Man Utd confident of beating Man City to Nottm Forest and England midfielder this summer. https://www.skysports.com/football/news/12040/13552149/elliot-anderson-future-man-utd-confident-of-beating-man-city-to-nottm-forest-and-england-midfielder-this-summer
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,10 +142,58 @@ Arsenal: Head of sports medicine Dr Zafar Iqbal leaving club. Arsenal's head of 
 
 ---
 
-## Story 6: Fifa vice-president Victor Montagliani: 'MLS can become the second-biggest league in the world. Maybe the biggest'
+## Story 6: Football gossip: Savinho, Anderson, Cucurella, Tonali, Camara, Esposito, Muani, Rodrygo, Ndiaye, Inacio, Savona, Glasner
+**Slug (lower-third):** Football gossip: Savinho, Anderson, Cucurella, Tonali, Ca…  
+**When:** 2026-06-08 16:36 (America/Winnipeg)  •  **Published:** 2026-06-08 21:36 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Savinho, Anderson, Cucurella, Tonali, Camara, Esposito, Muani, Rodrygo, Ndiaye, Inacio, Savona, Glasner. Spurs make progress with negotiations to sign Manchester City winger Savinho, Manchester United are battling their city rivals for Nottingham Forest midfielder Elliot Anderson, Atletico Madrid and Barcelona eye Chelsea full-back Marc Cucurella, plus more. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Savinho, Anderson, Cucurella, Tonali, Camara, Esposito, Muani, Rodrygo, Ndiaye, Inacio, Savona, Glasner. https://www.bbc.com/sport/football/articles/cj9gjvedwp3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: David Sullivan: Former West Ham chairman facing further scrutiny following investigation by BBC and The Times
+**Slug (lower-third):** David Sullivan: Former West Ham chairman facing further s…  
+**When:** 2026-06-08 16:30 (America/Winnipeg)  •  **Published:** 2026-06-08 21:30 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+David Sullivan: Former West Ham chairman facing further scrutiny following investigation by BBC and The Times. The 77-year-old had been on the board at West Ham for over 16 years before stepping down on Saturday; Sullivan denies all allegations made against him Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — David Sullivan: Former West Ham chairman facing further scrutiny following investigation by BBC and The Times. https://www.skysports.com/football/news/12040/13552124/david-sullivan-former-west-ham-chairman-facing-further-scrutiny-following-investigation-by-bbc-and-the-times
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Fifa vice-president Victor Montagliani: 'MLS can become the second-biggest league in the world. Maybe the biggest'
 **Slug (lower-third):** Fifa vice-president Victor Montagliani: 'MLS can become t…  
 **When:** 2026-06-08 14:33 (America/Winnipeg)  •  **Published:** 2026-06-08 19:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Fifa vice-president Victor Montagliani: 'MLS can become the second-biggest league in the world. Maybe the biggest'. The Canadian has been tipped as Gianni Infantino's successor. He defends World Cup ticket prices and explains why the Premier League may soon have a rival Relevance to standings and momentum.
@@ -166,34 +214,10 @@ Fifa vice-president Victor Montagliani: 'MLS can become the second-biggest leagu
 
 ---
 
-## Story 7: Billionaire West Ham co-owner David Sullivan accused of preying on women for sex
-**Slug (lower-third):** Billionaire West Ham co-owner David Sullivan accused of p…  
-**When:** 2026-06-08 11:00 (America/Winnipeg)  •  **Published:** 2026-06-08 16:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Billionaire West Ham co-owner David Sullivan accused of preying on women for sex. Women say David Sullivan told them they needed to have sex with him to feature in his newspapers. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Billionaire West Ham co-owner David Sullivan accused of preying on women for sex. https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Manchester United think they can beat City to PS100m-rated Elliot Anderson
+## Story 9: Manchester United think they can beat City to PS100m-rated Elliot Anderson
 **Slug (lower-third):** Manchester United think they can beat City to PS100m-rate…  
 **When:** 2026-06-08 11:05 (America/Winnipeg)  •  **Published:** 2026-06-08 16:05 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester United think they can beat City to PS100m-rated Elliot Anderson. Nottingham Forest have already rejected City's PS80m bid for the midfielder Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -214,13 +238,13 @@ Manchester United think they can beat City to PS100m-rated Elliot Anderson. Nott
 
 ---
 
-## Story 9: Divock Origi: Former Liverpool and Belgium striker announces retirement from professional football
-**Slug (lower-third):** Divock Origi: Former Liverpool and Belgium striker announ…  
-**When:** 2026-06-08 10:30 (America/Winnipeg)  •  **Published:** 2026-06-08 15:30 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~21s
+## Story 10: Billionaire West Ham co-owner David Sullivan accused of preying on women for sex
+**Slug (lower-third):** Billionaire West Ham co-owner David Sullivan accused of p…  
+**When:** 2026-06-08 11:00 (America/Winnipeg)  •  **Published:** 2026-06-08 16:00 (UTC)  
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Divock Origi: Former Liverpool and Belgium striker announces retirement from professional football. Divock Origi has announced his retirement from football aged 31; Belgium international played for Liverpool, Nottingham Forest and AC Milan among other clubs during his career; Origi is famous for his Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Billionaire West Ham co-owner David Sullivan accused of preying on women for sex. Women say David Sullivan told them they needed to have sex with him to feature in his newspapers. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,31 +253,7 @@ Divock Origi: Former Liverpool and Belgium striker announces retirement from pro
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Divock Origi: Former Liverpool and Belgium striker announces retirement from professional football. https://www.skysports.com/football/news/12040/13552005/divock-origi-former-liverpool-and-belgium-striker-announces-retirement-from-professional-football
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: England Women: Sarina Wiegman looking for Lionesses to show their true selves as Lauren Hemp admits to sleepless night after Spain thrashing
-**Slug (lower-third):** England Women: Sarina Wiegman looking for Lionesses to sh…  
-**When:** 2026-06-08 06:35 (America/Winnipeg)  •  **Published:** 2026-06-08 11:35 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~31s
-
-### Presenter Script (3–5 sentences)
-England Women: Sarina Wiegman looking for Lionesses to show their true selves as Lauren Hemp admits to sleepless night after Spain thrashing. Lauren Hemp said she and some of her team-mates couldnt sleep after England lost 4-0 to Spain on Friday; the defeat was their worst since 2009 and has left World Cup qualification out of their hands; England face Ukraine on Tuesday in their final World Cup qualifier Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — England Women: Sarina Wiegman looking for Lionesses to show their true selves as Lauren Hemp admits to sleepless night after Spain thrashing. https://www.skysports.com/football/news/12040/13551918/england-women-sarina-wiegman-looking-for-lionesses-to-show-their-true-selves-as-lauren-hemp-admits-to-sleepless-night-after-spain-thrashing
+- bbc.com — Billionaire West Ham co-owner David Sullivan accused of preying on women for sex. https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
