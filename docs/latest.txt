@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-11 05:29 (America/Winnipeg)  |  2026-06-11 10:29 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2026-06-11 11:05 (America/Winnipeg)  |  2026-06-11 16:05 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 00s
+**Estimated total video length:** ~4m 32s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Wolves sack Rob Edwards and close on Portuguese manager Cesar Peixoto
-- Wolves: Wolves dismiss Rob Edwards after seven months in charge at Molineux
-- New York Knicks 107-106 San Antonio Spurs | NBA Finals Game 4 highlights
+- Kieran McKenna leaves emotional legacy at Ipswich to last generations
+- Victor Munoz: Newcastle United in talks to sign Spain and Osasuna winger
+- Somali referee Omar Artan to officiate Super Cup after being denied World Cup spot
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Wolves sack Rob Edwards and close on Portuguese manager Cesar Peixoto
-**Slug (lower-third):** Wolves sack Rob Edwards and close on Portuguese manager C…  
-**When:** 2026-06-11 05:15 (America/Winnipeg)  •  **Published:** 2026-06-11 10:15 (UTC)  
+## Story 1: Kieran McKenna leaves emotional legacy at Ipswich to last generations
+**Slug (lower-third):** Kieran McKenna leaves emotional legacy at Ipswich to last…  
+**When:** 2026-06-11 10:39 (America/Winnipeg)  •  **Published:** 2026-06-11 15:39 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wolves sack Rob Edwards and close on Portuguese manager Cesar Peixoto. Wolverhampton have sacked Rob Edwards and are poised to replace him with Gil Vicente manager Cesar Peixoto Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Kieran McKenna leaves emotional legacy at Ipswich to last generations. Manager caught lightning in a bottle with three promotions in four seasons but his need for a break to prioritise a young family is refreshing Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Wolves sack Rob Edwards and close on Portuguese manager Cesar Peixoto. Wolverham
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Wolves sack Rob Edwards and close on Portuguese manager Cesar Peixoto. https://www.theguardian.com/football/2026/jun/11/wolves-sack-rob-edwards-and-target-portuguese-manager-cesar-peixoto
+- theguardian.com — Kieran McKenna leaves emotional legacy at Ipswich to last generations. https://www.theguardian.com/football/2026/jun/11/kieran-mckenna-ipswich-legacy-premier-league-exit
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,9 +40,57 @@ Wolves sack Rob Edwards and close on Portuguese manager Cesar Peixoto. Wolverham
 
 ---
 
-## Story 2: Wolves: Wolves dismiss Rob Edwards after seven months in charge at Molineux
+## Story 2: Somali referee Omar Artan to officiate Super Cup after being denied World Cup spot
+**Slug (lower-third):** Somali referee Omar Artan to officiate Super Cup after be…  
+**When:** 2026-06-11 09:24 (America/Winnipeg)  •  **Published:** 2026-06-11 14:24 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Somali referee Omar Artan to officiate Super Cup after being denied World Cup spot. Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer after being denied a spot at the World Cup. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Somali referee Omar Artan to officiate Super Cup after being denied World Cup spot. https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Martin O'Neill: Celtic manager, 74, signs permanent deal after Scottish Premiership and Scottish Cup success
+**Slug (lower-third):** Martin O'Neill: Celtic manager, 74, signs permanent deal …  
+**When:** 2026-06-11 07:03 (America/Winnipeg)  •  **Published:** 2026-06-11 12:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Martin O'Neill: Celtic manager, 74, signs permanent deal after Scottish Premiership and Scottish Cup success. Celtic won a domestic double under Martin ONeill after he returned to the club; the 74-year-old took over on an interim basis from Brendan Rodgers, and then replaced Wilfried Nancy until the end of last season; Celtic held talks with Robbie Keane over the role before appointing ONeill Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Martin O'Neill: Celtic manager, 74, signs permanent deal after Scottish Premiership and Scottish Cup success. https://www.skysports.com/football/news/12040/13547214/martin-oneill-celtic-manager-74-signs-permanent-deal-after-scottish-premiership-and-scottish-cup-success
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Wolves: Wolves dismiss Rob Edwards after seven months in charge at Molineux
 **Slug (lower-third):** Wolves: Wolves dismiss Rob Edwards after seven months in …  
-**When:** 2026-06-11 03:42 (America/Winnipeg)  •  **Published:** 2026-06-11 08:42 (UTC)  
+**When:** 2026-06-11 06:16 (America/Winnipeg)  •  **Published:** 2026-06-11 11:16 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -65,39 +113,15 @@ Wolves: Wolves dismiss Rob Edwards after seven months in charge at Molineux. Wol
 
 ---
 
-## Story 3: Ipswich Town: Manager Kieran McKenna resigns after promotion to Premier League
-**Slug (lower-third):** Ipswich Town: Manager Kieran McKenna resigns after promot…  
-**When:** 2026-06-10 12:13 (America/Winnipeg)  •  **Published:** 2026-06-10 17:13 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ipswich Town: Manager Kieran McKenna resigns after promotion to Premier League. Ipswich Town announce that Kieran McKenna has decided to resign, before the club's Premier League campaign. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Ipswich Town: Manager Kieran McKenna resigns after promotion to Premier League. https://www.bbc.com/sport/football/articles/cd7wn0erlvwo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Transfers
 
-## Story 4: Nottingham Forest reject Manchester City's PS122m bid for Elliot Anderson
-**Slug (lower-third):** Nottingham Forest reject Manchester City's PS122m bid for…  
-**When:** 2026-06-10 15:40 (America/Winnipeg)  •  **Published:** 2026-06-10 20:40 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 5: Manchester United transfer news: Lewis Hall and Antonee Robinson options as left-back targets as back-up goalkeeper could also join
+**Slug (lower-third):** Manchester United transfer news: Lewis Hall and Antonee R…  
+**When:** 2026-06-11 07:00 (America/Winnipeg)  •  **Published:** 2026-06-11 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest reject Manchester City's PS122m bid for Elliot Anderson. City have significantly increased their initial PS80m bid, but Forest want the fee to match the British record of PS125m Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Manchester United transfer news: Lewis Hall and Antonee Robinson options as left-back targets as back-up goalkeeper could also join. Manchester United are monitoring both Lewis Hall and Antonee Robinson as possible options at left-back; Luke Shaw is the only senior left-back at Old Trafford; United are also exploring back-up goalkeeper options Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,36 +130,10 @@ Nottingham Forest reject Manchester City's PS122m bid for Elliot Anderson. City 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Nottingham Forest reject Manchester City's PS122m bid for Elliot Anderson. https://www.theguardian.com/football/2026/jun/10/nottingham-forest-reject-manchester-citys-122m-bid-for-elliot-anderson
+- skysports.com — Manchester United transfer news: Lewis Hall and Antonee Robinson options as left-back targets as back-up goalkeeper could also join. https://www.skysports.com/football/news/12040/13552968/manchester-united-transfer-news-lewis-hall-and-antonee-robinson-options-as-left-back-targets-as-back-up-goalkeeper-could-also-join
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 5: Everton ordered to pay Burnley nearly PS40m in Premier League relegation legal case
-**Slug (lower-third):** Everton ordered to pay Burnley nearly PS40m in Premier Le…  
-**When:** 2026-06-10 09:29 (America/Winnipeg)  •  **Published:** 2026-06-10 14:29 (UTC)  
-**Virality score:** 75  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Everton ordered to pay Burnley nearly PS40m in Premier League relegation legal case. Burnley have won their landmark legal case against Everton for breaching Premier League financial rules in a season the Clarets went down Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Everton ordered to pay Burnley nearly PS40m in Premier League relegation legal case. https://www.theguardian.com/football/2026/jun/10/everton-ordered-pay-burnley-premier-league-relegation-legal-case-psr-breaches
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -143,13 +141,13 @@ Everton ordered to pay Burnley nearly PS40m in Premier League relegation legal c
 
 ### Club Updates
 
-## Story 6: New York Knicks 107-106 San Antonio Spurs | NBA Finals Game 4 highlights
-**Slug (lower-third):** New York Knicks 107-106 San Antonio Spurs | NBA Finals Ga…  
-**When:** 2026-06-11 02:45 (America/Winnipeg)  •  **Published:** 2026-06-11 07:45 (UTC)  
+## Story 6: Victor Munoz: Newcastle United in talks to sign Spain and Osasuna winger
+**Slug (lower-third):** Victor Munoz: Newcastle United in talks to sign Spain and…  
+**When:** 2026-06-11 10:35 (America/Winnipeg)  •  **Published:** 2026-06-11 15:35 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-New York Knicks 107-106 San Antonio Spurs | NBA Finals Game 4 highlights. Highlights of the NBA Finals Game 4 match between New York Knicks and San Antonio Spurs. Relevance to standings and momentum.
+Victor Munoz: Newcastle United in talks to sign Spain and Osasuna winger. Newcastle United are in talks with Osasuna to sign Spain winger Victor Munoz. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -158,7 +156,7 @@ New York Knicks 107-106 San Antonio Spurs | NBA Finals Game 4 highlights. Highli
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — New York Knicks 107-106 San Antonio Spurs | NBA Finals Game 4 highlights. https://www.skysports.com/watch/video/13552934/new-york-knicks-107-106-san-antonio-spurs-nba-finals-game-4-highlights
+- bbc.com — Victor Munoz: Newcastle United in talks to sign Spain and Osasuna winger. https://www.bbc.com/sport/football/articles/c17yd0p0597o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +165,13 @@ New York Knicks 107-106 San Antonio Spurs | NBA Finals Game 4 highlights. Highli
 
 ---
 
-## Story 7: England: Declan Rice hungry for World Cup after Arsenal's Premier League glory
-**Slug (lower-third):** England: Declan Rice hungry for World Cup after Arsenal's…  
-**When:** 2026-06-11 02:11 (America/Winnipeg)  •  **Published:** 2026-06-11 07:11 (UTC)  
+## Story 7: Elliot Anderson: Manchester City have second bid rejected for Nottingham Forest midfielder
+**Slug (lower-third):** Elliot Anderson: Manchester City have second bid rejected…  
+**When:** 2026-06-11 09:06 (America/Winnipeg)  •  **Published:** 2026-06-11 14:06 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-England: Declan Rice hungry for World Cup after Arsenal's Premier League glory. Declan Rice reacts to his first England match since lifting the Premier League with Arsenal and admits that it was hard to relax for too long on holiday with the World Cup around the corner. Relevance to standings and momentum.
+Elliot Anderson: Manchester City have second bid rejected for Nottingham Forest midfielder. Elliot Anderson would prefer a move to Manchester City over Manchester United should a deal be agreed with Nottingham Forest after a second offer was rejected. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +180,7 @@ England: Declan Rice hungry for World Cup after Arsenal's Premier League glory. 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — England: Declan Rice hungry for World Cup after Arsenal's Premier League glory. https://www.skysports.com/watch/video/13552925/england-declan-rice-hungry-for-world-cup-after-arsenals-pl-glory
+- bbc.com — Elliot Anderson: Manchester City have second bid rejected for Nottingham Forest midfielder. https://www.bbc.com/sport/football/articles/cp8r74rr95po?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +189,13 @@ England: Declan Rice hungry for World Cup after Arsenal's Premier League glory. 
 
 ---
 
-## Story 8: NBA: SCENES as New York Knicks go one win away from glory in the dying seconds against San Antonio Spurs
-**Slug (lower-third):** NBA: SCENES as New York Knicks go one win away from glory…  
-**When:** 2026-06-11 01:35 (America/Winnipeg)  •  **Published:** 2026-06-11 06:35 (UTC)  
+## Story 8: Rob Key opens up on Ben Stokes, Gus Atkinson nightclub incident - 'It's a terrible look'
+**Slug (lower-third):** Rob Key opens up on Ben Stokes, Gus Atkinson nightclub in…  
+**When:** 2026-06-11 09:00 (America/Winnipeg)  •  **Published:** 2026-06-11 14:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-NBA: SCENES as New York Knicks go one win away from glory in the dying seconds against San Antonio Spurs. OG Anunoby becomes an instant New York hero after sending the Knicks one win away from NBA glory with one second to go in Game Four. Relevance to standings and momentum.
+Rob Key opens up on Ben Stokes, Gus Atkinson nightclub incident - 'It's a terrible look'. England managing director Rob Key gives his view on Ben Stokes and Gus Atkinson following the breaking of a midnight curfew on Sunday, that led to an incident at a nightclub in Chelsea. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +204,7 @@ NBA: SCENES as New York Knicks go one win away from glory in the dying seconds a
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — NBA: SCENES as New York Knicks go one win away from glory in the dying seconds against San Antonio Spurs. https://www.skysports.com/watch/video/13552917/scenes-as-knicks-go-one-win-away-from-glory-in-the-dying-seconds
+- skysports.com — Rob Key opens up on Ben Stokes, Gus Atkinson nightclub incident - 'It's a terrible look'. https://www.skysports.com/watch/video/13553006/rob-key-opens-up-on-ben-stokes-gus-atkinson-nightclub-incident-its-a-terrible-look
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +213,13 @@ NBA: SCENES as New York Knicks go one win away from glory in the dying seconds a
 
 ---
 
-## Story 9: Fifa World Cup: Scott McTominay has gone from Man Utd heartbreak to Scotland & Napoli icon
-**Slug (lower-third):** Fifa World Cup: Scott McTominay has gone from Man Utd hea…  
-**When:** 2026-06-10 09:38 (America/Winnipeg)  •  **Published:** 2026-06-10 14:38 (UTC)  
-**Virality score:** 77  •  **Estimated runtime:** ~20s
+## Story 9: West Ham women's team not told of David Sullivan's restricted access to them
+**Slug (lower-third):** West Ham women's team not told of David Sullivan's restri…  
+**When:** 2026-06-11 08:49 (America/Winnipeg)  •  **Published:** 2026-06-11 13:49 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fifa World Cup: Scott McTominay has gone from Man Utd heartbreak to Scotland & Napoli icon. From unappreciated at Manchester United to idolised at Scotland and Napoli - but who is the real Scott McTominay? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+West Ham women's team not told of David Sullivan's restricted access to them. Sources say it would have breached regulations to tell WSL or team details of safeguarding investigation into Sullivan Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,10 +228,34 @@ Fifa World Cup: Scott McTominay has gone from Man Utd heartbreak to Scotland & N
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Fifa World Cup: Scott McTominay has gone from Man Utd heartbreak to Scotland & Napoli icon. https://www.bbc.com/sport/football/articles/cx2jd7knx15o?at_medium=RSS&at_campaign=rss
+- theguardian.com — West Ham women's team not told of David Sullivan's restricted access to them. https://www.theguardian.com/football/2026/jun/11/west-ham-women-david-sullivan-restricted-access
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Man City agree deal to sign England's Niamh Charles from Chelsea
+**Slug (lower-third):** Man City agree deal to sign England's Niamh Charles from …  
+**When:** 2026-06-11 07:14 (America/Winnipeg)  •  **Published:** 2026-06-11 12:14 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man City agree deal to sign England's Niamh Charles from Chelsea. Manchester City have agreed a deal to sign England defender Niamh Charles from Chelsea. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Man City agree deal to sign England's Niamh Charles from Chelsea. https://www.bbc.com/sport/football/articles/cp3653pydxpo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
