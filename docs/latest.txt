@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-10 23:07 (America/Winnipeg)  |  2026-06-11 04:07 (UTC)
-**Stories in this rundown:** 10  |  **Style:** conversational broadcast
+**Generated:** 2026-06-11 05:29 (America/Winnipeg)  |  2026-06-11 10:29 (UTC)
+**Stories in this rundown:** 9  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 46s
+**Estimated total video length:** ~3m 00s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Real Madrid transfer news: Jose Mourinho targeting Man City's Josko Gvardiol and Man Utd target Mateus Fernandes
-- Football gossip: Williams, Martinez, Olise, Ndiaye, Chiesa, Olmo
-- Nottingham Forest reject Manchester City's PS122m bid for Elliot Anderson
+- Wolves sack Rob Edwards and close on Portuguese manager Cesar Peixoto
+- Wolves: Wolves dismiss Rob Edwards after seven months in charge at Molineux
+- New York Knicks 107-106 San Antonio Spurs | NBA Finals Game 4 highlights
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Kieran McKenna stepping down as Ipswich boss to take a break from football amid Fulham interest
-**Slug (lower-third):** Kieran McKenna stepping down as Ipswich boss to take a br…  
-**When:** 2026-06-10 13:00 (America/Winnipeg)  •  **Published:** 2026-06-10 18:00 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~28s
+## Story 1: Wolves sack Rob Edwards and close on Portuguese manager Cesar Peixoto
+**Slug (lower-third):** Wolves sack Rob Edwards and close on Portuguese manager C…  
+**When:** 2026-06-11 05:15 (America/Winnipeg)  •  **Published:** 2026-06-11 10:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Kieran McKenna stepping down as Ipswich boss to take a break from football amid Fulham interest. Kieran McKenna is stepping down as Ipswich manager to take a break from football; McKenna had been linked with the Fulham job following Marco Silvas exit; the 40-year-old will not be taking on any role in the near future but Ipswich are protected financially if he does Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Wolves sack Rob Edwards and close on Portuguese manager Cesar Peixoto. Wolverhampton have sacked Rob Edwards and are poised to replace him with Gil Vicente manager Cesar Peixoto Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Kieran McKenna stepping down as Ipswich boss to take a break from football amid 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Kieran McKenna stepping down as Ipswich boss to take a break from football amid Fulham interest. https://www.skysports.com/football/news/12040/13552342/kieran-mckenna-stepping-down-as-ipswich-boss-to-take-a-break-from-football-amid-fulham-interest
+- theguardian.com — Wolves sack Rob Edwards and close on Portuguese manager Cesar Peixoto. https://www.theguardian.com/football/2026/jun/11/wolves-sack-rob-edwards-and-target-portuguese-manager-cesar-peixoto
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,10 +40,35 @@ Kieran McKenna stepping down as Ipswich boss to take a break from football amid 
 
 ---
 
-## Story 2: Ipswich Town: Manager Kieran McKenna resigns after promotion to Premier League
+## Story 2: Wolves: Wolves dismiss Rob Edwards after seven months in charge at Molineux
+**Slug (lower-third):** Wolves: Wolves dismiss Rob Edwards after seven months in …  
+**When:** 2026-06-11 03:42 (America/Winnipeg)  •  **Published:** 2026-06-11 08:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Wolves: Wolves dismiss Rob Edwards after seven months in charge at Molineux. Wolves sack head coach Rob Edwards just seven months after appointing him. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Wolves: Wolves dismiss Rob Edwards after seven months in charge at Molineux. https://www.bbc.com/sport/football/articles/cqx1w53y1qno?at_medium=RSS&at_campaign=rss
+- skysports.com — Rob Edwards: Wolves sack head coach after seven months in charge at Molineux. https://www.skysports.com/football/news/12040/13552944/rob-edwards-wolves-sack-head-coach-after-seven-months-in-charge
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Ipswich Town: Manager Kieran McKenna resigns after promotion to Premier League
 **Slug (lower-third):** Ipswich Town: Manager Kieran McKenna resigns after promot…  
 **When:** 2026-06-10 12:13 (America/Winnipeg)  •  **Published:** 2026-06-10 17:13 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+**Virality score:** 80  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Ipswich Town: Manager Kieran McKenna resigns after promotion to Premier League. Ipswich Town announce that Kieran McKenna has decided to resign, before the club's Premier League campaign. Relevance to standings and momentum.
@@ -58,31 +83,7 @@ Ipswich Town: Manager Kieran McKenna resigns after promotion to Premier League. 
 - bbc.com — Ipswich Town: Manager Kieran McKenna resigns after promotion to Premier League. https://www.bbc.com/sport/football/articles/cd7wn0erlvwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Kieran McKenna steps down as Ipswich manager 'with great pride' to take break
-**Slug (lower-third):** Kieran McKenna steps down as Ipswich manager 'with great …  
-**When:** 2026-06-10 12:00 (America/Winnipeg)  •  **Published:** 2026-06-10 17:00 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Kieran McKenna steps down as Ipswich manager 'with great pride' to take break. Kieran McKenna departs Ipswich after two promotions and 'incredible progress', with Mark Ashton, the club's chair, left 'gutted' by the decision Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Kieran McKenna steps down as Ipswich manager 'with great pride' to take break. https://www.theguardian.com/football/2026/jun/10/kieran-mckenna-steps-down-ipswich-manager-premier-league
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -90,34 +91,10 @@ Kieran McKenna steps down as Ipswich manager 'with great pride' to take break. K
 
 ### Transfers
 
-## Story 4: Real Madrid transfer news: Jose Mourinho targeting Man City's Josko Gvardiol and Man Utd target Mateus Fernandes
-**Slug (lower-third):** Real Madrid transfer news: Jose Mourinho targeting Man Ci…  
-**When:** 2026-06-10 18:13 (America/Winnipeg)  •  **Published:** 2026-06-10 23:13 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Real Madrid transfer news: Jose Mourinho targeting Man City's Josko Gvardiol and Man Utd target Mateus Fernandes. Thursdays top stories also include: Man City make offer of up to PS120m for Nottingham Forest midfielder Elliot Anderson; Leeds United could break their transfer record this summer for Ousmane Diomande at Sporting; Aston Villa have identified three goalkeepers to replace Emi Martinez Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Real Madrid transfer news: Jose Mourinho targeting Man City's Josko Gvardiol and Man Utd target Mateus Fernandes. https://www.skysports.com/football/news/12040/13552883/real-madrid-transfer-news-jose-mourinho-targeting-man-citys-josko-gvardiol-and-man-utd-target-mateus-fernandes
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Nottingham Forest reject Manchester City's PS122m bid for Elliot Anderson
+## Story 4: Nottingham Forest reject Manchester City's PS122m bid for Elliot Anderson
 **Slug (lower-third):** Nottingham Forest reject Manchester City's PS122m bid for…  
 **When:** 2026-06-10 15:40 (America/Winnipeg)  •  **Published:** 2026-06-10 20:40 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+**Virality score:** 84  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Nottingham Forest reject Manchester City's PS122m bid for Elliot Anderson. City have significantly increased their initial PS80m bid, but Forest want the fee to match the British record of PS125m Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -132,31 +109,7 @@ Nottingham Forest reject Manchester City's PS122m bid for Elliot Anderson. City 
 - theguardian.com — Nottingham Forest reject Manchester City's PS122m bid for Elliot Anderson. https://www.theguardian.com/football/2026/jun/10/nottingham-forest-reject-manchester-citys-122m-bid-for-elliot-anderson
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Marcos Senesi: Tottenham sign Bournemouth defender on free transfer after four-year stay at Cherries
-**Slug (lower-third):** Marcos Senesi: Tottenham sign Bournemouth defender on fre…  
-**When:** 2026-06-10 12:20 (America/Winnipeg)  •  **Published:** 2026-06-10 17:20 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~26s
-
-### Presenter Script (3–5 sentences)
-Marcos Senesi: Tottenham sign Bournemouth defender on free transfer after four-year stay at Cherries. Tottenham have signed Marcos Senesi on a free transfer from Bournemouth; the 29-year-old played 128 times for Bournemouth in all competitions over four seasons; LaLiga and Serie A sides tabled offers for Senesi; the centre-backs contract expired at Bournemouth this summer Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Marcos Senesi: Tottenham sign Bournemouth defender on free transfer after four-year stay at Cherries. https://www.skysports.com/football/news/12040/13549085/marcos-senesi-tottenham-sign-bournemouth-defender-on-free-transfer-after-four-year-stay-at-cherries
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -164,13 +117,13 @@ Marcos Senesi: Tottenham sign Bournemouth defender on free transfer after four-y
 
 ### League & Regulation
 
-## Story 7: Everton appeal order to pay Burnley PS35m in compensation over PSR breaches in June 2022
-**Slug (lower-third):** Everton appeal order to pay Burnley PS35m in compensation…  
-**When:** 2026-06-10 10:15 (America/Winnipeg)  •  **Published:** 2026-06-10 15:15 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~24s
+## Story 5: Everton ordered to pay Burnley nearly PS40m in Premier League relegation legal case
+**Slug (lower-third):** Everton ordered to pay Burnley nearly PS40m in Premier Le…  
+**When:** 2026-06-10 09:29 (America/Winnipeg)  •  **Published:** 2026-06-10 14:29 (UTC)  
+**Virality score:** 75  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton appeal order to pay Burnley PS35m in compensation over PSR breaches in June 2022. Everton are "surprised and angered" to have been ordered to pay Burnley compensation by a Premier League independent disciplinary commission in relation to Everton's PSR breach in June 2022, the Premier League club have announced Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Everton ordered to pay Burnley nearly PS40m in Premier League relegation legal case. Burnley have won their landmark legal case against Everton for breaching Premier League financial rules in a season the Clarets went down Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,10 +132,10 @@ Everton appeal order to pay Burnley PS35m in compensation over PSR breaches in J
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Everton appeal order to pay Burnley PS35m in compensation over PSR breaches in June 2022. https://www.skysports.com/football/news/12040/13552745/everton-appeal-order-to-pay-burnley-40m-in-compensation-over-psr-breaches-in-june-2022
+- theguardian.com — Everton ordered to pay Burnley nearly PS40m in Premier League relegation legal case. https://www.theguardian.com/football/2026/jun/10/everton-ordered-pay-burnley-premier-league-relegation-legal-case-psr-breaches
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -190,13 +143,13 @@ Everton appeal order to pay Burnley PS35m in compensation over PSR breaches in J
 
 ### Club Updates
 
-## Story 8: Football gossip: Williams, Martinez, Olise, Ndiaye, Chiesa, Olmo
-**Slug (lower-third):** Football gossip: Williams, Martinez, Olise, Ndiaye, Chies…  
-**When:** 2026-06-10 17:32 (America/Winnipeg)  •  **Published:** 2026-06-10 22:32 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 6: New York Knicks 107-106 San Antonio Spurs | NBA Finals Game 4 highlights
+**Slug (lower-third):** New York Knicks 107-106 San Antonio Spurs | NBA Finals Ga…  
+**When:** 2026-06-11 02:45 (America/Winnipeg)  •  **Published:** 2026-06-11 07:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Williams, Martinez, Olise, Ndiaye, Chiesa, Olmo. Arsenal in the hunt for Nico Williams, Juventus open talks with Aston Villa over deal for Emiliano Martinez, Paris St-Germain chase Bayern Munich's Michael Olise. Relevance to standings and momentum.
+New York Knicks 107-106 San Antonio Spurs | NBA Finals Game 4 highlights. Highlights of the NBA Finals Game 4 match between New York Knicks and San Antonio Spurs. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +158,7 @@ Football gossip: Williams, Martinez, Olise, Ndiaye, Chiesa, Olmo. Arsenal in the
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Williams, Martinez, Olise, Ndiaye, Chiesa, Olmo. https://www.bbc.com/sport/football/articles/ce371zx8zdko?at_medium=RSS&at_campaign=rss
+- skysports.com — New York Knicks 107-106 San Antonio Spurs | NBA Finals Game 4 highlights. https://www.skysports.com/watch/video/13552934/new-york-knicks-107-106-san-antonio-spurs-nba-finals-game-4-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +167,13 @@ Football gossip: Williams, Martinez, Olise, Ndiaye, Chiesa, Olmo. Arsenal in the
 
 ---
 
-## Story 9: Essex Police given new David Sullivan information
-**Slug (lower-third):** Essex Police given new David Sullivan information  
-**When:** 2026-06-10 14:19 (America/Winnipeg)  •  **Published:** 2026-06-10 19:19 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 7: England: Declan Rice hungry for World Cup after Arsenal's Premier League glory
+**Slug (lower-third):** England: Declan Rice hungry for World Cup after Arsenal's…  
+**When:** 2026-06-11 02:11 (America/Winnipeg)  •  **Published:** 2026-06-11 07:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Essex Police given new David Sullivan information. Police have been contacted with new information about the West Ham co-owner following a BBC Panorama and Times investigation. Relevance to standings and momentum.
+England: Declan Rice hungry for World Cup after Arsenal's Premier League glory. Declan Rice reacts to his first England match since lifting the Premier League with Arsenal and admits that it was hard to relax for too long on holiday with the World Cup around the corner. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +182,7 @@ Essex Police given new David Sullivan information. Police have been contacted wi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Essex Police given new David Sullivan information. https://www.bbc.com/news/articles/c802l191rd3o?at_medium=RSS&at_campaign=rss
+- skysports.com — England: Declan Rice hungry for World Cup after Arsenal's Premier League glory. https://www.skysports.com/watch/video/13552925/england-declan-rice-hungry-for-world-cup-after-arsenals-pl-glory
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,10 +191,34 @@ Essex Police given new David Sullivan information. Police have been contacted wi
 
 ---
 
-## Story 10: Fifa World Cup: Scott McTominay has gone from Man Utd heartbreak to Scotland & Napoli icon
+## Story 8: NBA: SCENES as New York Knicks go one win away from glory in the dying seconds against San Antonio Spurs
+**Slug (lower-third):** NBA: SCENES as New York Knicks go one win away from glory…  
+**When:** 2026-06-11 01:35 (America/Winnipeg)  •  **Published:** 2026-06-11 06:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+NBA: SCENES as New York Knicks go one win away from glory in the dying seconds against San Antonio Spurs. OG Anunoby becomes an instant New York hero after sending the Knicks one win away from NBA glory with one second to go in Game Four. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — NBA: SCENES as New York Knicks go one win away from glory in the dying seconds against San Antonio Spurs. https://www.skysports.com/watch/video/13552917/scenes-as-knicks-go-one-win-away-from-glory-in-the-dying-seconds
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Fifa World Cup: Scott McTominay has gone from Man Utd heartbreak to Scotland & Napoli icon
 **Slug (lower-third):** Fifa World Cup: Scott McTominay has gone from Man Utd hea…  
 **When:** 2026-06-10 09:38 (America/Winnipeg)  •  **Published:** 2026-06-10 14:38 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+**Virality score:** 77  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Fifa World Cup: Scott McTominay has gone from Man Utd heartbreak to Scotland & Napoli icon. From unappreciated at Manchester United to idolised at Scotland and Napoli - but who is the real Scott McTominay? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -256,7 +233,7 @@ Fifa World Cup: Scott McTominay has gone from Man Utd heartbreak to Scotland & N
 - bbc.com — Fifa World Cup: Scott McTominay has gone from Man Utd heartbreak to Scotland & Napoli icon. https://www.bbc.com/sport/football/articles/cx2jd7knx15o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
