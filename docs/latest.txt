@@ -1,28 +1,52 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-14 09:06 (America/Winnipeg)  |  2026-06-14 14:06 (UTC)
-**Stories in this rundown:** 6  |  **Style:** conversational broadcast
+**Generated:** 2026-06-14 14:28 (America/Winnipeg)  |  2026-06-14 19:28 (UTC)
+**Stories in this rundown:** 5  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 08s
+**Estimated total video length:** ~2m 48s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- NBA: Players, fans and Timothee Chalamet celebrate New York Knicks' historic win
-- San Antonio Spurs 90-94 New York Knicks | NBA Finals Game 5 highlights
-- Derek McInnes: Rangers agree deal with Hearts boss to replace RB Salzburg-bound Danny Rohl as head coach
+- 'Why wouldn't I?': Eze would take England penalty despite Arsenal shootout miss
+- Pedro Porro signs new long-term Tottenham Hotspur contract
+- Marc Cucurella transfer news: Real Madrid reach agreement to sign Chelsea full-back
 
 ---
 
 ### Managerial Moves
 
-## Story 1: NBA: Players, fans and Timothee Chalamet celebrate New York Knicks' historic win
-**Slug (lower-third):** NBA: Players, fans and Timothee Chalamet celebrate New Yo…  
-**When:** 2026-06-14 07:06 (America/Winnipeg)  •  **Published:** 2026-06-14 12:06 (UTC)  
+## Story 1: Marc Cucurella transfer news: Real Madrid reach agreement to sign Chelsea full-back
+**Slug (lower-third):** Marc Cucurella transfer news: Real Madrid reach agreement…  
+**When:** 2026-06-14 13:00 (America/Winnipeg)  •  **Published:** 2026-06-14 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Marc Cucurella transfer news: Real Madrid reach agreement to sign Chelsea full-back. Real Madrid have struck a deal with Chelsea for Marc Cucurella; the move is a blow to incoming Blues boss Xabi Alonso, who is already short of experienced players; Cucurella was a priority signing for new Real manager Jose Mourinho; they fought off competition from Barcelona and Man City Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Marc Cucurella transfer news: Real Madrid reach agreement to sign Chelsea full-back. https://www.skysports.com/football/news/12040/13554070/marc-cucurella-transfer-news-real-madrid-reach-agreement-to-sign-chelsea-full-back
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Real Madrid, Fulham and Benfica in manager trade triangle
+**Slug (lower-third):** Real Madrid, Fulham and Benfica in manager trade triangle  
+**When:** 2026-06-14 12:44 (America/Winnipeg)  •  **Published:** 2026-06-14 17:44 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-NBA: Players, fans and Timothee Chalamet celebrate New York Knicks' historic win. New York Knicks head coach Mike Brown said it was a surreal feeling after his side beat the San Antonio Spurs in Game 5 to clinch the NBA Championship. Implications for the squad and table.
+Real Madrid, Fulham and Benfica in manager trade triangle. Alvaro Arbeloa, Jose Mourinho and Marco Silva are replacing each other at Fulham, Real Madrid and Benfica - with one super-agent key to the swaps. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +55,7 @@ NBA: Players, fans and Timothee Chalamet celebrate New York Knicks' historic win
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — NBA: Players, fans and Timothee Chalamet celebrate New York Knicks' historic win. https://www.skysports.com/watch/video/13553947/nba-players-fans-and-timothee-chalamet-celebrate-new-york-knicks-historic-win
+- bbc.com — Real Madrid, Fulham and Benfica in manager trade triangle. https://www.bbc.com/sport/football/articles/c7vydyv472go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +64,15 @@ NBA: Players, fans and Timothee Chalamet celebrate New York Knicks' historic win
 
 ---
 
-## Story 2: Derek McInnes: Rangers agree deal with Hearts boss to replace RB Salzburg-bound Danny Rohl as head coach
-**Slug (lower-third):** Derek McInnes: Rangers agree deal with Hearts boss to rep…  
-**When:** 2026-06-14 02:55 (America/Winnipeg)  •  **Published:** 2026-06-14 07:55 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~27s
+### Transfers
+
+## Story 3: Pedro Porro signs new long-term Tottenham Hotspur contract
+**Slug (lower-third):** Pedro Porro signs new long-term Tottenham Hotspur contract  
+**When:** 2026-06-14 13:00 (America/Winnipeg)  •  **Published:** 2026-06-14 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Derek McInnes: Rangers agree deal with Hearts boss to replace RB Salzburg-bound Danny Rohl as head coach. Derek McInnes is set to become the new Rangers head coach with Danny Rohl heading to RB Salzburg; final details being confirmed for McInnes to leave Hearts, who he led to second in the Scottish Premiership; Rangers return for pre-season training next week Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Pedro Porro signs new long-term Tottenham Hotspur contract. Tottenham Hotspur right-back Pedro Porro signs a new, long-term contract with the club understood to be valid until 2031. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,33 +81,7 @@ Derek McInnes: Rangers agree deal with Hearts boss to replace RB Salzburg-bound 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Derek McInnes: Rangers agree deal with Hearts boss to replace RB Salzburg-bound Danny Rohl as head coach. https://www.skysports.com/football/news/12040/13553879/derek-mcinnes-rangers-agree-deal-with-hearts-boss-to-replace-rb-salzburg-bound-danny-r246hl-as-head-coach
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 3: Electric Ben Gannon-Doak heralds return to Scotland's tradition of tricky wingers | Paul MacInnes
-**Slug (lower-third):** Electric Ben Gannon-Doak heralds return to Scotland's tra…  
-**When:** 2026-06-13 23:49 (America/Winnipeg)  •  **Published:** 2026-06-14 04:49 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Electric Ben Gannon-Doak heralds return to Scotland's tradition of tricky wingers | Paul MacInnes. There was nothing too complicated about the Bournemouth man's performance but he took the fight to Haiti in a historic World Cup win Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Electric Ben Gannon-Doak heralds return to Scotland's tradition of tricky wingers | Paul MacInnes. https://www.theguardian.com/football/2026/jun/14/ben-gannon-doak-scotland-haiti-world-cup-group-c
+- bbc.com — Pedro Porro signs new long-term Tottenham Hotspur contract. https://www.bbc.com/sport/football/articles/c4gy9g3xjx2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +92,13 @@ Electric Ben Gannon-Doak heralds return to Scotland's tradition of tricky winger
 
 ### Club Updates
 
-## Story 4: San Antonio Spurs 90-94 New York Knicks | NBA Finals Game 5 highlights
-**Slug (lower-third):** San Antonio Spurs 90-94 New York Knicks | NBA Finals Game…  
-**When:** 2026-06-14 02:16 (America/Winnipeg)  •  **Published:** 2026-06-14 07:16 (UTC)  
+## Story 4: 'Why wouldn't I?': Eze would take England penalty despite Arsenal shootout miss
+**Slug (lower-third):** 'Why wouldn't I?': Eze would take England penalty despite…  
+**When:** 2026-06-14 13:00 (America/Winnipeg)  •  **Published:** 2026-06-14 18:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-San Antonio Spurs 90-94 New York Knicks | NBA Finals Game 5 highlights. Highlights of the NBA Finals Game 5 match-up between the New York Knicks and San Antonio Spurs. Relevance to standings and momentum.
+'Why wouldn't I?': Eze would take England penalty despite Arsenal shootout miss. The playmaker also dismissed the idea of changing his stuttered runup spot-kick technique, saying: 'If there is a penalty to take I'll be there again' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +107,7 @@ San Antonio Spurs 90-94 New York Knicks | NBA Finals Game 5 highlights. Highligh
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — San Antonio Spurs 90-94 New York Knicks | NBA Finals Game 5 highlights. https://www.skysports.com/watch/video/13553873/san-antonio-spurs-90-94-new-york-knicks-nba-finals-game-5-highlights
+- theguardian.com — 'Why wouldn't I?': Eze would take England penalty despite Arsenal shootout miss. https://www.theguardian.com/football/2026/jun/14/eberechi-eze-england-penalty-shootout-2026-world-cup
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +116,13 @@ San Antonio Spurs 90-94 New York Knicks | NBA Finals Game 5 highlights. Highligh
 
 ---
 
-## Story 5: Football gossip: Barcola, Rushworth, Rashford, Ndiaye, Viera, Frattesi, Lee, Herrington, Lewandowski, Goretzka, Mancini
-**Slug (lower-third):** Football gossip: Barcola, Rushworth, Rashford, Ndiaye, Vi…  
-**When:** 2026-06-13 15:29 (America/Winnipeg)  •  **Published:** 2026-06-13 20:29 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
+## Story 5: Real Madrid agree to sign Chelsea defender Marc Cucurella in PS52m deal
+**Slug (lower-third):** Real Madrid agree to sign Chelsea defender Marc Cucurella…  
+**When:** 2026-06-14 12:28 (America/Winnipeg)  •  **Published:** 2026-06-14 17:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Barcola, Rushworth, Rashford, Ndiaye, Viera, Frattesi, Lee, Herrington, Lewandowski, Goretzka, Mancini. Arsenal and Liverpool are among Bradley Barcola's suitors, Brighton reject Coventry's Carl Rushworth bid, Bayern Munich might beat Barcelona to Marcus Rashford, plus more. Relevance to standings and momentum.
+Real Madrid agree to sign Chelsea defender Marc Cucurella in PS52m deal. Real Madrid have reached a verbal agreement to sign the Spain defender Marc Cucurella from Chelsea in a package worth up to EUR60m Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,34 +131,10 @@ Football gossip: Barcola, Rushworth, Rashford, Ndiaye, Viera, Frattesi, Lee, Her
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Barcola, Rushworth, Rashford, Ndiaye, Viera, Frattesi, Lee, Herrington, Lewandowski, Goretzka, Mancini. https://www.bbc.com/sport/football/articles/cg53yq5g012o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Real Madrid agree to sign Chelsea defender Marc Cucurella in PS52m deal. https://www.theguardian.com/football/2026/jun/14/real-madrid-marc-cucurella-chelsea-transfer-window-football
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Kretinsky set to become West Ham's biggest shareholder and addresses Sullivan allegations
-**Slug (lower-third):** Kretinsky set to become West Ham's biggest shareholder an…  
-**When:** 2026-06-13 09:44 (America/Winnipeg)  •  **Published:** 2026-06-13 14:44 (UTC)  
-**Virality score:** 70  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Kretinsky set to become West Ham's biggest shareholder and addresses Sullivan allegations. Daniel Kretinsky, the owner of Royal Mail, is set to overtake David Sullivan as West Ham's largest shareholder after agreeing to buy an additional stake in the club from the Gold family Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Kretinsky set to become West Ham's biggest shareholder and addresses Sullivan allegations. https://www.theguardian.com/football/2026/jun/13/kretinsky-set-to-become-west-hams-biggest-shareholder-and-addresses-sullivan-allegations
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
