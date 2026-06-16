@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-16 11:55 (America/Winnipeg)  |  2026-06-16 16:55 (UTC)
+**Generated:** 2026-06-16 15:54 (America/Winnipeg)  |  2026-06-16 20:54 (UTC)
 **Stories in this rundown:** 8  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 01s
+**Estimated total video length:** ~3m 58s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Ruben Amorim: AC Milan appoint former Manchester United boss as head coach
-- Royal Ascot replay | Bow Echo holds off Gstaad in thriller!
-- England World Cup latest: Jamie Carragher 'unsurprised' by Trent Alexander-Arnold and Harry Maguire snub after Tino Livramento injury
+- Football gossip: Tonali, Dias, Rashford, Fernandes, Summerville, Kone
+- Jan Paul Van Hecke: Tottenham agree APS52m deal with Brighton for defender
+- James Rew to make England debut in second Test against New Zealand as Jamie Smith replaced following birth of his second child
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Ruben Amorim: AC Milan appoint former Manchester United boss as head coach
-**Slug (lower-third):** Ruben Amorim: AC Milan appoint former Manchester United b…  
-**When:** 2026-06-16 12:27 (America/Winnipeg)  •  **Published:** 2026-06-16 17:27 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
+## Story 1: Ruben Amorim appointed as AC Milan head coach
+**Slug (lower-third):** Ruben Amorim appointed as AC Milan head coach  
+**When:** 2026-06-16 11:27 (America/Winnipeg)  •  **Published:** 2026-06-16 16:27 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ruben Amorim: AC Milan appoint former Manchester United boss as head coach. Ruben Amorim becomes AC Milan head coach; the 41-year-old was sacked by Manchester United in January after just 63 games in charge; Amorim replaces Massimiliano Allegri who was sacked after failing to secure Champions League football Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ruben Amorim appointed as AC Milan head coach. Ruben Amorim is appointed head coach at AC Milan, five months after being sacked by Manchester United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,6 @@ Ruben Amorim: AC Milan appoint former Manchester United boss as head coach. Rube
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ruben Amorim: AC Milan appoint former Manchester United boss as head coach. https://www.skysports.com/football/news/12040/13553981/ruben-amorim-ac-milan-appoint-former-manchester-united-boss-as-head-coach
 - bbc.com — Ruben Amorim appointed as AC Milan head coach. https://www.bbc.com/sport/football/articles/cgmd1z1ryv0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
@@ -44,7 +43,7 @@ Ruben Amorim: AC Milan appoint former Manchester United boss as head coach. Rube
 ## Story 2: Ipswich: Former Manchester United boss Ole Gunnar Solskjaer in the running for Ipswich job
 **Slug (lower-third):** Ipswich: Former Manchester United boss Ole Gunnar Solskja…  
 **When:** 2026-06-16 08:57 (America/Winnipeg)  •  **Published:** 2026-06-16 13:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Ipswich: Former Manchester United boss Ole Gunnar Solskjaer in the running for Ipswich job. Ole Gunnar Solskjaer and Gary O'Neil are among the leading contenders for the Ipswich managerial role. Relevance to standings and momentum.
@@ -65,36 +64,12 @@ Ipswich: Former Manchester United boss Ole Gunnar Solskjaer in the running for I
 
 ---
 
-## Story 3: Leicester appoint Russell Martin as Wolves unveil Cesar Peixoto as coach
-**Slug (lower-third):** Leicester appoint Russell Martin as Wolves unveil Cesar P…  
-**When:** 2026-06-15 16:33 (America/Winnipeg)  •  **Published:** 2026-06-15 21:33 (UTC)  
-**Virality score:** 76  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Leicester appoint Russell Martin as Wolves unveil Cesar Peixoto as coach. Russell Martin joins League One Leicester after a nightmare spell at Rangers, while Wolves have moved quickly to replace Rob Edwards Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Leicester appoint Russell Martin as Wolves unveil Cesar Peixoto as coach. https://www.theguardian.com/football/2026/jun/15/leicester-appoint-russell-martin-as-wolves-unveil-cesar-peixoto-as-coach
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Transfers
 
-## Story 4: Sandro Tonali: The view from Tottenham and Newcastle as Spurs target Magpies midfielder for summer transfer
+## Story 3: Sandro Tonali: The view from Tottenham and Newcastle as Spurs target Magpies midfielder for summer transfer
 **Slug (lower-third):** Sandro Tonali: The view from Tottenham and Newcastle as S…  
 **When:** 2026-06-16 10:30 (America/Winnipeg)  •  **Published:** 2026-06-16 15:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+**Virality score:** 98  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
 Sandro Tonali: The view from Tottenham and Newcastle as Spurs target Magpies midfielder for summer transfer. Sky Sports News reporters Mark McAdam and Michael Bridge give the Tottenham and Newcastle views, with Spurs wanting to sign Sandro Tonali; a number of other clubs, including Man City and Arsenal, have an interest in the Italian; Spurs are looking to rebuild under Roberto De Zerbi Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -117,37 +92,13 @@ Sandro Tonali: The view from Tottenham and Newcastle as Spurs target Magpies mid
 
 ### Injuries
 
-## Story 5: England World Cup latest: Jamie Carragher 'unsurprised' by Trent Alexander-Arnold and Harry Maguire snub after Tino Livramento injury
-**Slug (lower-third):** England World Cup latest: Jamie Carragher 'unsurprised' b…  
+## Story 4: England World Cup squad: Injured Tino Livramento replaced by Trevoh Chalobah
+**Slug (lower-third):** England World Cup squad: Injured Tino Livramento replaced…  
 **When:** 2026-06-16 11:22 (America/Winnipeg)  •  **Published:** 2026-06-16 16:22 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-England World Cup latest: Jamie Carragher 'unsurprised' by Trent Alexander-Arnold and Harry Maguire snub after Tino Livramento injury. Jamie Carragher has admitted he isnt surprised that Thomas Tuchel opted to select Trevor Chalobah as Tino Livramentos replacement in the 2026 World Cup squad over Trent Alexander-Arnold; Livramento sustained an injury in training which has ruled him out on the eve of Englands opener Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — England World Cup latest: Jamie Carragher 'unsurprised' by Trent Alexander-Arnold and Harry Maguire snub after Tino Livramento injury. https://www.skysports.com/football/news/12040/13554705/england-world-cup-latest-jamie-carragher-unsurprised-by-trent-alexander-arnold-and-harry-maguire-snub-after-tino-livramento-injury
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: England defender Tino Livramento to miss World Cup 2026 and replaced by Trevoh Chalobah
-**Slug (lower-third):** England defender Tino Livramento to miss World Cup 2026 a…  
-**When:** 2026-06-16 08:38 (America/Winnipeg)  •  **Published:** 2026-06-16 13:38 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-England defender Tino Livramento to miss World Cup 2026 and replaced by Trevoh Chalobah. Newcastle United full-back Tino Livramento is out of England's World Cup campaign with a calf injury and is replaced by Chelsea defender Trevoh Chalobah. Potential impact on the lineup and upcoming fixtures.
+England World Cup squad: Injured Tino Livramento replaced by Trevoh Chalobah. Tino Livramento has been ruled out of the World Cup with a hamstring injury and will be replaced by Chelsea defender Trevoh Chalobah, England announced on Tuesday. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,6 +107,7 @@ England defender Tino Livramento to miss World Cup 2026 and replaced by Trevoh C
 - Verified across reputable outlets.
 
 ### Sources
+- espn.com — England World Cup squad: Injured Tino Livramento replaced by Trevoh Chalobah. https://www.espn.com/soccer/story/_/id/49081000/tino-livramento-england-world-cup-ruled-hamstring-injury-trevoh-chalobah
 - bbc.com — England defender Tino Livramento to miss World Cup 2026 and replaced by Trevoh Chalobah. https://www.bbc.com/sport/football/articles/c992n95lgrmo?at_medium=RSS&at_campaign=rss
 - skysports.com — World Cup 2026: Tino Livramento suffers calf injury and replaced by Trevoh Chalobah in England squad. https://www.skysports.com/football/news/12040/13554613/world-cup-2026-tino-livramento-suffers-hamstring-injury-and-replaced-by-trevoh-chalobah-in-england-squad
 
@@ -168,7 +120,80 @@ England defender Tino Livramento to miss World Cup 2026 and replaced by Trevoh C
 
 ### Club Updates
 
-## Story 7: Royal Ascot replay | Bow Echo holds off Gstaad in thriller!
+## Story 5: Football gossip: Tonali, Dias, Rashford, Fernandes, Summerville, Kone
+**Slug (lower-third):** Football gossip: Tonali, Dias, Rashford, Fernandes, Summe…  
+**When:** 2026-06-16 15:50 (America/Winnipeg)  •  **Published:** 2026-06-16 20:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Tonali, Dias, Rashford, Fernandes, Summerville, Kone. Tottenham encouraged to bid for Sandro Tonali, Real Madrid plot Ruben Dias move and Manchester United make Marcus Rashford valuation. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Tonali, Dias, Rashford, Fernandes, Summerville, Kone. https://www.bbc.com/sport/football/articles/cx2jykw8j42o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Jan Paul Van Hecke: Tottenham agree APS52m deal with Brighton for defender
+**Slug (lower-third):** Jan Paul Van Hecke: Tottenham agree APS52m deal with Brig…  
+**When:** 2026-06-16 14:28 (America/Winnipeg)  •  **Published:** 2026-06-16 19:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Jan Paul Van Hecke: Tottenham agree APS52m deal with Brighton for defender. Netherlands World Cup defender Jan Paul van Hecke is set to leave Brighton for Tottenham Hotspur after the two clubs agree a APS52m deal. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Jan Paul Van Hecke: Tottenham agree APS52m deal with Brighton for defender. https://www.bbc.com/sport/articles/cpwez2pg8x1o?at_medium=RSS&at_campaign=rss
+- skysports.com — Jan Paul van Hecke: Tottenham agree deal for Brighton defender worth PS52m. https://www.skysports.com/football/news/12040/13554757/jan-paul-van-hecke-tottenham-agree-deal-for-brighton-defender-worth-52m
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: James Rew to make England debut in second Test against New Zealand as Jamie Smith replaced following birth of his second child
+**Slug (lower-third):** James Rew to make England debut in second Test against Ne…  
+**When:** 2026-06-16 12:50 (America/Winnipeg)  •  **Published:** 2026-06-16 17:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+James Rew to make England debut in second Test against New Zealand as Jamie Smith replaced following birth of his second child. James Rew to make Test debut against New Zealand at Kia Oval; Jamie Smith missing match after birth of his second child; Watch second Test between England and New Zealand, live on Sky Sports Main Event and Sky Sports Cricket from 10am on Wednesday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — James Rew to make England debut in second Test against New Zealand as Jamie Smith replaced following birth of his second child. https://www.skysports.com/cricket/news/12040/13554739/james-rew-to-make-england-debut-in-second-test-against-new-zealand-as-jamie-smith-replaced-following-birth-of-his-second-child
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Royal Ascot replay | Bow Echo holds off Gstaad in thriller!
 **Slug (lower-third):** Royal Ascot replay | Bow Echo holds off Gstaad in thrille…  
 **When:** 2026-06-16 11:55 (America/Winnipeg)  •  **Published:** 2026-06-16 16:55 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
@@ -184,30 +209,6 @@ Royal Ascot replay | Bow Echo holds off Gstaad in thriller!. Bow Echo and Gstaad
 
 ### Sources
 - skysports.com — Royal Ascot replay | Bow Echo holds off Gstaad in thriller!. https://www.skysports.com/watch/video/13554720/royal-ascot-replay-bow-echo-holds-off-gstaad-in-thriller
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: World Cup 2026: Iraq's former Man Utd player Zidane Iqbal to become first Pakistani to play at World Cup
-**Slug (lower-third):** World Cup 2026: Iraq's former Man Utd player Zidane Iqbal…  
-**When:** 2026-06-16 01:52 (America/Winnipeg)  •  **Published:** 2026-06-16 06:52 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-World Cup 2026: Iraq's former Man Utd player Zidane Iqbal to become first Pakistani to play at World Cup. Zidane Iqbal, a former Manchester United player, will make history when he plays for Iraq this summer, becoming the first player of Pakistani heritage to feature at a men's World Cup. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — World Cup 2026: Iraq's former Man Utd player Zidane Iqbal to become first Pakistani to play at World Cup. https://www.bbc.com/sport/football/articles/c99lzern58eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
