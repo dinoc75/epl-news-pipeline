@@ -1,13 +1,13 @@
-resp_0c878fe43c813cac006a31b8008b70819fa94b24afc8045974
+resp_0e975eab5e2f964a006a321fe10e2c819aa1de6303b34ec748
 max_output_tokens
 gpt-5-mini-2025-08-07
 response
-rs_0c878fe43c813cac006a31b800df8c819fbe55da7f3d2f27b3
+rs_0e975eab5e2f964a006a321fe1e1ac819aa5c98c2c55f92f5d
 reasoning
 auto
 in_memory
-medium
 current_turn
+medium
 default
 incomplete
 text
