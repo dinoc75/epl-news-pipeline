@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-17 05:59 (America/Winnipeg)  |  2026-06-17 10:59 (UTC)
-**Stories in this rundown:** 4  |  **Style:** conversational broadcast
+**Generated:** 2026-06-17 10:36 (America/Winnipeg)  |  2026-06-17 15:36 (UTC)
+**Stories in this rundown:** 5  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 32s
+**Estimated total video length:** ~2m 55s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
+- Royal Ascot replay | Photo finish in the Queen's Vase!
+- Royal Ascot replay | One-eyed horse Victorious wins the Queen Mary!
 - Tottenham transfer news: Spurs' Luka Vuskovic dilemma as two Brighton bids rejected after Jan Paul van Hecke deal agreed
-- Bernardo Silva: Real Madrid sign Manchester City midfielder on free transfer as Jose Mourinho impact continues
-- World Cup 2026: Haaland rises to the occasion on World Cup debut
 
 ---
 
@@ -67,15 +67,15 @@ Tottenham transfer news: Spurs' Luka Vuskovic dilemma as two Brighton bids rejec
 
 ---
 
-### Club Updates
+### Injuries
 
-## Story 3: World Cup 2026: Haaland rises to the occasion on World Cup debut
-**Slug (lower-third):** World Cup 2026: Haaland rises to the occasion on World Cu…  
-**When:** 2026-06-16 21:09 (America/Winnipeg)  •  **Published:** 2026-06-17 02:09 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 3: 'The night before I dreamt about my ACL': Everton's Aurora Galli on the long way back from injury | Moving the Goalposts
+**Slug (lower-third):** 'The night before I dreamt about my ACL': Everton's Auror…  
+**When:** 2026-06-17 05:40 (America/Winnipeg)  •  **Published:** 2026-06-17 10:40 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-World Cup 2026: Haaland rises to the occasion on World Cup debut. Erling Haaland has made a habit of scoring debut goals in the big competitions. He did it in the Champions League, the Bundesliga and the Premier League. Now he has done it at the World Cup too. Relevance to standings and momentum.
+'The night before I dreamt about my ACL': Everton's Aurora Galli on the long way back from injury | Moving the Goalposts. This week's newsletter spends a day with the Italy midfielder as she continues to battle her way back to a peak physical condition Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -84,7 +84,7 @@ World Cup 2026: Haaland rises to the occasion on World Cup debut. Erling Haaland
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — World Cup 2026: Haaland rises to the occasion on World Cup debut. https://www.bbc.com/sport/football/articles/ce8k20n9z9ro?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'The night before I dreamt about my ACL': Everton's Aurora Galli on the long way back from injury | Moving the Goalposts. https://www.theguardian.com/football/2026/jun/17/the-night-before-i-dreamt-about-my-acl-evertons-aurora-galli-on-the-long-way-back-from-injury
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -93,13 +93,15 @@ World Cup 2026: Haaland rises to the occasion on World Cup debut. Erling Haaland
 
 ---
 
-## Story 4: Football gossip: Tonali, Dias, Rashford, Fernandes, Summerville, Kone
-**Slug (lower-third):** Football gossip: Tonali, Dias, Rashford, Fernandes, Summe…  
-**When:** 2026-06-16 15:50 (America/Winnipeg)  •  **Published:** 2026-06-16 20:50 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+### Club Updates
+
+## Story 4: Royal Ascot replay | Photo finish in the Queen's Vase!
+**Slug (lower-third):** Royal Ascot replay | Photo finish in the Queen's Vase!  
+**When:** 2026-06-17 10:27 (America/Winnipeg)  •  **Published:** 2026-06-17 15:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Tonali, Dias, Rashford, Fernandes, Summerville, Kone. Tottenham encouraged to bid for Sandro Tonali, Real Madrid plot Ruben Dias move and Manchester United make Marcus Rashford valuation. Relevance to standings and momentum.
+Royal Ascot replay | Photo finish in the Queen's Vase!. The Queens Vase served up a thriller on day two at Royal Ascot as Limestone beat Del Maro by a nose in a photo finish. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -108,7 +110,31 @@ Football gossip: Tonali, Dias, Rashford, Fernandes, Summerville, Kone. Tottenham
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Football gossip: Tonali, Dias, Rashford, Fernandes, Summerville, Kone. https://www.bbc.com/sport/football/articles/cx2jykw8j42o?at_medium=RSS&at_campaign=rss
+- skysports.com — Royal Ascot replay | Photo finish in the Queen's Vase!. https://www.skysports.com/watch/video/13555017/royal-ascot-replay-photo-finish-in-the-queens-vase
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Royal Ascot replay | One-eyed horse Victorious wins the Queen Mary!
+**Slug (lower-third):** Royal Ascot replay | One-eyed horse Victorious wins the Q…  
+**When:** 2026-06-17 09:56 (America/Winnipeg)  •  **Published:** 2026-06-17 14:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Royal Ascot replay | One-eyed horse Victorious wins the Queen Mary!. Victorious, who has one eye, impressed as she won the Queen Mary Stakes to open day two at Royal Ascot, bringing up Aidan OBriens 99th victory at the meeting. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Royal Ascot replay | One-eyed horse Victorious wins the Queen Mary!. https://www.skysports.com/watch/video/13555006/royal-ascot-replay-one-eyed-horse-victorious-wins-the-queen-mary
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
