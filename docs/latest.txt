@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-18 10:28 (America/Winnipeg)  |  2026-06-18 15:28 (UTC)
-**Stories in this rundown:** 4  |  **Style:** conversational broadcast
+**Generated:** 2026-06-18 15:28 (America/Winnipeg)  |  2026-06-18 20:28 (UTC)
+**Stories in this rundown:** 7  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~1m 24s
+**Estimated total video length:** ~2m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Full race replay | Late drama in the Ribblesdale Stakes!
-- Motherwell appoint Alfred Johansson as new manager, replacing Jens Berthel Askou at Fir Park
-- Liverpool beat Newcastle to PS34.5m Victor Munoz in first signing of Iraola era
+- Warrington Wolves vs Leeds Rhinos: Ash Handley breaks line and finds Brodie Croft to extend lead!
+- Jan Paul van Hecke: Tottenham sign APS52m Brighton defender
+- New Zealand on top after England's Joe Root and Harry Brook fall replying to Glenn Phillips century in second Test at The Oval
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Motherwell appoint Alfred Johansson as new manager, replacing Jens Berthel Askou at Fir Park
-**Slug (lower-third):** Motherwell appoint Alfred Johansson as new manager, repla…  
-**When:** 2026-06-18 08:45 (America/Winnipeg)  •  **Published:** 2026-06-18 13:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+## Story 1: Clarke warns Scotland: 'We must be at our best - Morocco are the real deal'
+**Slug (lower-third):** Clarke warns Scotland: 'We must be at our best - Morocco …  
+**When:** 2026-06-18 13:55 (America/Winnipeg)  •  **Published:** 2026-06-18 18:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Motherwell appoint Alfred Johansson as new manager, replacing Jens Berthel Askou at Fir Park. The 35-year-old replaces Jens Berthel Askou at Fir Park; he was last in charge at Norwegian top league side Rosenborg; Motherwell finished fourth in the Scottish Premiership last season and secured European football for nest season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Clarke warns Scotland: 'We must be at our best - Morocco are the real deal'. Head coach believes 2022 semi-finalists may be stronger now than in Qatar, and could deploy back three to stifle Group C rivals Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,33 @@ Motherwell appoint Alfred Johansson as new manager, replacing Jens Berthel Askou
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Motherwell appoint Alfred Johansson as new manager, replacing Jens Berthel Askou at Fir Park. https://www.skysports.com/football/news/12040/13555331/motherwell-appoint-alfred-johansson-as-new-manager-replacing-jens-berthel-askou-at-fir-park
+- theguardian.com — Clarke warns Scotland: 'We must be at our best - Morocco are the real deal'. https://www.theguardian.com/football/2026/jun/18/clarke-warns-scotland-morocco-real-deal-world-cup
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 2: Liverpool transfer news: Victor Munoz signs from Osasuna
+**Slug (lower-third):** Liverpool transfer news: Victor Munoz signs from Osasuna  
+**When:** 2026-06-18 13:26 (America/Winnipeg)  •  **Published:** 2026-06-18 18:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool transfer news: Victor Munoz signs from Osasuna. Liverpool sign winger Victor Munoz from Osasuna after triggering his release clause. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Liverpool transfer news: Victor Munoz signs from Osasuna. https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +68,13 @@ Motherwell appoint Alfred Johansson as new manager, replacing Jens Berthel Askou
 
 ### Club Updates
 
-## Story 2: Full race replay | Late drama in the Ribblesdale Stakes!
-**Slug (lower-third):** Full race replay | Late drama in the Ribblesdale Stakes!  
-**When:** 2026-06-18 10:58 (America/Winnipeg)  •  **Published:** 2026-06-18 15:58 (UTC)  
+## Story 3: Warrington Wolves vs Leeds Rhinos: Ash Handley breaks line and finds Brodie Croft to extend lead!
+**Slug (lower-third):** Warrington Wolves vs Leeds Rhinos: Ash Handley breaks lin…  
+**When:** 2026-06-18 15:31 (America/Winnipeg)  •  **Published:** 2026-06-18 20:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Full race replay | Late drama in the Ribblesdale Stakes!. Earth Shot broke the hearts of Johanna Walsh supporters late on in the Ribblesdale Stakes on day three at Royal Ascot. Relevance to standings and momentum.
+Warrington Wolves vs Leeds Rhinos: Ash Handley breaks line and finds Brodie Croft to extend lead!. Great play between Ash Handley and Brodie Croft results in big try for Leeds Rhinos against Warrington Wolves. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +83,7 @@ Full race replay | Late drama in the Ribblesdale Stakes!. Earth Shot broke the h
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Full race replay | Late drama in the Ribblesdale Stakes!. https://www.skysports.com/watch/video/13555383/full-race-replay-late-drama-in-the-ribblesdale-stakes
+- skysports.com — Warrington Wolves vs Leeds Rhinos: Ash Handley breaks line and finds Brodie Croft to extend lead!. https://www.skysports.com/watch/video/13555510/ash-handley-breaks-warrington-wolves-line-and-findsbrodie-croft-advance-leeds-rhinos-lead
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +92,13 @@ Full race replay | Late drama in the Ribblesdale Stakes!. Earth Shot broke the h
 
 ---
 
-## Story 3: Liverpool beat Newcastle to PS34.5m Victor Munoz in first signing of Iraola era
-**Slug (lower-third):** Liverpool beat Newcastle to PS34.5m Victor Munoz in first…  
-**When:** 2026-06-18 04:10 (America/Winnipeg)  •  **Published:** 2026-06-18 09:10 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 4: Jan Paul van Hecke: Tottenham sign APS52m Brighton defender
+**Slug (lower-third):** Jan Paul van Hecke: Tottenham sign APS52m Brighton defend…  
+**When:** 2026-06-18 14:09 (America/Winnipeg)  •  **Published:** 2026-06-18 19:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool beat Newcastle to PS34.5m Victor Munoz in first signing of Iraola era. The Osasuna winger Victor Munoz will become the first signing of Andoni Iraola's reign at Liverpool after the club triggered a PS34.5m release clause Relevance to standings and momentum.
+Jan Paul van Hecke: Tottenham sign APS52m Brighton defender. Brighton's Dutch defender Jan Paul van Hecke joins Premier League rivals Tottenham for APS52m. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +107,7 @@ Liverpool beat Newcastle to PS34.5m Victor Munoz in first signing of Iraola era.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool beat Newcastle to PS34.5m Victor Munoz in first signing of Iraola era. https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpool-newcastle-andoni-iraola-transfer-news
+- bbc.com — Jan Paul van Hecke: Tottenham sign APS52m Brighton defender. https://www.bbc.com/sport/football/articles/cgqj33gq21jo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +116,13 @@ Liverpool beat Newcastle to PS34.5m Victor Munoz in first signing of Iraola era.
 
 ---
 
-## Story 4: Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal
-**Slug (lower-third):** Yoane Wissa gives DR Congo first ever World Cup point in …  
-**When:** 2026-06-17 14:28 (America/Winnipeg)  •  **Published:** 2026-06-17 19:28 (UTC)  
-**Virality score:** 75  •  **Estimated runtime:** ~20s
+## Story 5: New Zealand on top after England's Joe Root and Harry Brook fall replying to Glenn Phillips century in second Test at The Oval
+**Slug (lower-third):** New Zealand on top after England's Joe Root and Harry Bro…  
+**When:** 2026-06-18 14:03 (America/Winnipeg)  •  **Published:** 2026-06-18 19:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal. Newcastle striker becomes first DR Congo player to score at a World Cup, cancelling out Joao Neves' opener, while Cristiano Ronaldo underwhelms for Portugal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+New Zealand on top after England's Joe Root and Harry Brook fall replying to Glenn Phillips century in second Test at The Oval. New Zealand dominate day two of second Test at The Oval, as Glenn Phillips hundred helps post first-innings total of 391 before Matt Henry (2-57) removes Joe Root and Harry Brook to leave England six down, 169 runs behind at the close Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,10 +131,58 @@ Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal. New
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal. https://www.theguardian.com/football/2026/jun/17/portugal-dr-congo-world-cup-2026-group-k-match-report
+- skysports.com — New Zealand on top after England's Joe Root and Harry Brook fall replying to Glenn Phillips century in second Test at The Oval. https://www.skysports.com/cricket/news/12040/13555243/new-zealand-on-top-after-englands-joe-root-and-harry-brook-fall-replying-to-glenn-phillips-century-in-second-test-at-the-oval
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Liverpool sign Victor Munoz for PS34.5m in first arrival of Andoni Iraola era
+**Slug (lower-third):** Liverpool sign Victor Munoz for PS34.5m in first arrival …  
+**When:** 2026-06-18 13:04 (America/Winnipeg)  •  **Published:** 2026-06-18 18:04 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool sign Victor Munoz for PS34.5m in first arrival of Andoni Iraola era. The Osasuna winger Victor Munoz will become the first signing of Andoni Iraola's reign at Liverpool after the club triggered a PS34.5m release clause Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Liverpool sign Victor Munoz for PS34.5m in first arrival of Andoni Iraola era. https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpool-newcastle-andoni-iraola-transfer-news
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: World Cup 2026: Rafael Van der Vaart apologises for Japan comments
+**Slug (lower-third):** World Cup 2026: Rafael Van der Vaart apologises for Japan…  
+**When:** 2026-06-18 11:28 (America/Winnipeg)  •  **Published:** 2026-06-18 16:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+World Cup 2026: Rafael Van der Vaart apologises for Japan comments. Former Tottenham midfielder Rafael van der Vaart apologises after saying that Japan players "all look alike" during their 2-2 draw with the Netherlands. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — World Cup 2026: Rafael Van der Vaart apologises for Japan comments. https://www.bbc.com/sport/football/articles/cdjk9yw9xv3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
