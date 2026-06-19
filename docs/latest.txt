@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-18 15:28 (America/Winnipeg)  |  2026-06-18 20:28 (UTC)
-**Stories in this rundown:** 7  |  **Style:** conversational broadcast
+**Generated:** 2026-06-18 23:26 (America/Winnipeg)  |  2026-06-19 04:26 (UTC)
+**Stories in this rundown:** 8  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 29s
+**Estimated total video length:** ~3m 44s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Warrington Wolves vs Leeds Rhinos: Ash Handley breaks line and finds Brodie Croft to extend lead!
-- Jan Paul van Hecke: Tottenham sign APS52m Brighton defender
-- New Zealand on top after England's Joe Root and Harry Brook fall replying to Glenn Phillips century in second Test at The Oval
+- Hat-trick hero & Swiss wonderkid - the World Cup duo set for Premier League?
+- Yan Diomande transfer news: Liverpool interested in PS86m deal - Paper Talk
+- 'When Real come for you it's very difficult to say no': Cucurella explains Chelsea exit
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Clarke warns Scotland: 'We must be at our best - Morocco are the real deal'
-**Slug (lower-third):** Clarke warns Scotland: 'We must be at our best - Morocco …  
-**When:** 2026-06-18 13:55 (America/Winnipeg)  •  **Published:** 2026-06-18 18:55 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Tottenham complete PS52m Van Hecke signing as De Zerbi focuses on defence
+**Slug (lower-third):** Tottenham complete PS52m Van Hecke signing as De Zerbi fo…  
+**When:** 2026-06-18 16:09 (America/Winnipeg)  •  **Published:** 2026-06-18 21:09 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Clarke warns Scotland: 'We must be at our best - Morocco are the real deal'. Head coach believes 2022 semi-finalists may be stronger now than in Qatar, and could deploy back three to stifle Group C rivals Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Tottenham complete PS52m Van Hecke signing as De Zerbi focuses on defence. Spurs bolstered their backline with a third summer signing, reuniting the Dutch international with his former head coach at Brighton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Clarke warns Scotland: 'We must be at our best - Morocco are the real deal'. Hea
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Clarke warns Scotland: 'We must be at our best - Morocco are the real deal'. https://www.theguardian.com/football/2026/jun/18/clarke-warns-scotland-morocco-real-deal-world-cup
+- theguardian.com — Tottenham complete PS52m Van Hecke signing as De Zerbi focuses on defence. https://www.theguardian.com/football/2026/jun/18/tottenham-52m-van-hecke-de-zerbi-defence
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,13 @@ Clarke warns Scotland: 'We must be at our best - Morocco are the real deal'. Hea
 
 ### Transfers
 
-## Story 2: Liverpool transfer news: Victor Munoz signs from Osasuna
-**Slug (lower-third):** Liverpool transfer news: Victor Munoz signs from Osasuna  
-**When:** 2026-06-18 13:26 (America/Winnipeg)  •  **Published:** 2026-06-18 18:26 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Liverpool transfer news: Reds sign Victor Munoz and make offer for Yan Doimande
+**Slug (lower-third):** Liverpool transfer news: Reds sign Victor Munoz and make …  
+**When:** 2026-06-18 16:31 (America/Winnipeg)  •  **Published:** 2026-06-18 21:31 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool transfer news: Victor Munoz signs from Osasuna. Liverpool sign winger Victor Munoz from Osasuna after triggering his release clause. Implications for the squad and table.
+Liverpool transfer news: Reds sign Victor Munoz and make offer for Yan Doimande. Liverpool sign Spain winger Victor Munoz - and tell RB Leipzig that they will pay a package worth about 100m euros (APS86m) for Yan Diomande. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,33 @@ Liverpool transfer news: Victor Munoz signs from Osasuna. Liverpool sign winger 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Liverpool transfer news: Victor Munoz signs from Osasuna. https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss
+- bbc.com — Liverpool transfer news: Reds sign Victor Munoz and make offer for Yan Doimande. https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Yan Diomande transfer news: Liverpool interested in PS86m deal - Paper Talk
+**Slug (lower-third):** Yan Diomande transfer news: Liverpool interested in PS86m…  
+**When:** 2026-06-18 18:05 (America/Winnipeg)  •  **Published:** 2026-06-18 23:05 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Yan Diomande transfer news: Liverpool interested in PS86m deal - Paper Talk. Fridays top stories include: Arsenals interest in Bradley Barcola, Liverpools EUR100m Diomande plan, Jeremy Mongas rejected move to the Gunners and the latest on Malo Gustos injury scare in the France camp Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Yan Diomande transfer news: Liverpool interested in PS86m deal - Paper Talk. https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +94,13 @@ Liverpool transfer news: Victor Munoz signs from Osasuna. Liverpool sign winger 
 
 ### Club Updates
 
-## Story 3: Warrington Wolves vs Leeds Rhinos: Ash Handley breaks line and finds Brodie Croft to extend lead!
-**Slug (lower-third):** Warrington Wolves vs Leeds Rhinos: Ash Handley breaks lin…  
-**When:** 2026-06-18 15:31 (America/Winnipeg)  •  **Published:** 2026-06-18 20:31 (UTC)  
+## Story 4: Hat-trick hero & Swiss wonderkid - the World Cup duo set for Premier League?
+**Slug (lower-third):** Hat-trick hero & Swiss wonderkid - the World Cup duo set …  
+**When:** 2026-06-18 23:19 (America/Winnipeg)  •  **Published:** 2026-06-19 04:19 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Warrington Wolves vs Leeds Rhinos: Ash Handley breaks line and finds Brodie Croft to extend lead!. Great play between Ash Handley and Brodie Croft results in big try for Leeds Rhinos against Warrington Wolves. Relevance to standings and momentum.
+Hat-trick hero & Swiss wonderkid - the World Cup duo set for Premier League?. Will Canada hat-trick hero Jonathan David and Swiss goal-scoring midfielder Johan Manzambi be playing in the Premier League next season? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +109,7 @@ Warrington Wolves vs Leeds Rhinos: Ash Handley breaks line and finds Brodie Crof
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Warrington Wolves vs Leeds Rhinos: Ash Handley breaks line and finds Brodie Croft to extend lead!. https://www.skysports.com/watch/video/13555510/ash-handley-breaks-warrington-wolves-line-and-findsbrodie-croft-advance-leeds-rhinos-lead
+- bbc.com — Hat-trick hero & Swiss wonderkid - the World Cup duo set for Premier League?. https://www.bbc.com/sport/articles/cp8rde9q76do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +118,13 @@ Warrington Wolves vs Leeds Rhinos: Ash Handley breaks line and finds Brodie Crof
 
 ---
 
-## Story 4: Jan Paul van Hecke: Tottenham sign APS52m Brighton defender
-**Slug (lower-third):** Jan Paul van Hecke: Tottenham sign APS52m Brighton defend…  
-**When:** 2026-06-18 14:09 (America/Winnipeg)  •  **Published:** 2026-06-18 19:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: 'When Real come for you it's very difficult to say no': Cucurella explains Chelsea exit
+**Slug (lower-third):** 'When Real come for you it's very difficult to say no': C…  
+**When:** 2026-06-18 18:01 (America/Winnipeg)  •  **Published:** 2026-06-18 23:01 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Jan Paul van Hecke: Tottenham sign APS52m Brighton defender. Brighton's Dutch defender Jan Paul van Hecke joins Premier League rivals Tottenham for APS52m. Relevance to standings and momentum.
+'When Real come for you it's very difficult to say no': Cucurella explains Chelsea exit. Marc Cucurella, who is in the US on Spain World Cup duty, has said his PS52m signing for Real Madrid was done in a day and a half Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +133,7 @@ Jan Paul van Hecke: Tottenham sign APS52m Brighton defender. Brighton's Dutch de
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Jan Paul van Hecke: Tottenham sign APS52m Brighton defender. https://www.bbc.com/sport/football/articles/cgqj33gq21jo?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'When Real come for you it's very difficult to say no': Cucurella explains Chelsea exit. https://www.theguardian.com/football/2026/jun/19/when-real-come-for-you-its-very-difficult-to-say-no-cucurella-explains-chelsea-exit
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +142,13 @@ Jan Paul van Hecke: Tottenham sign APS52m Brighton defender. Brighton's Dutch de
 
 ---
 
-## Story 5: New Zealand on top after England's Joe Root and Harry Brook fall replying to Glenn Phillips century in second Test at The Oval
-**Slug (lower-third):** New Zealand on top after England's Joe Root and Harry Bro…  
-**When:** 2026-06-18 14:03 (America/Winnipeg)  •  **Published:** 2026-06-18 19:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+## Story 6: Premier League: When are the 2026-27 fixtures released?
+**Slug (lower-third):** Premier League: When are the 2026-27 fixtures released?  
+**When:** 2026-06-18 16:51 (America/Winnipeg)  •  **Published:** 2026-06-18 21:51 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-New Zealand on top after England's Joe Root and Harry Brook fall replying to Glenn Phillips century in second Test at The Oval. New Zealand dominate day two of second Test at The Oval, as Glenn Phillips hundred helps post first-innings total of 391 before Matt Henry (2-57) removes Joe Root and Harry Brook to leave England six down, 169 runs behind at the close Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: When are the 2026-27 fixtures released?. BBC Sport's Ask Me Anything team explains when the fixtures for the 2026-27 Premier League season are released. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +157,7 @@ New Zealand on top after England's Joe Root and Harry Brook fall replying to Gle
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — New Zealand on top after England's Joe Root and Harry Brook fall replying to Glenn Phillips century in second Test at The Oval. https://www.skysports.com/cricket/news/12040/13555243/new-zealand-on-top-after-englands-joe-root-and-harry-brook-fall-replying-to-glenn-phillips-century-in-second-test-at-the-oval
+- bbc.com — Premier League: When are the 2026-27 fixtures released?. https://www.bbc.com/sport/football/articles/cde50edgw48o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +166,13 @@ New Zealand on top after England's Joe Root and Harry Brook fall replying to Gle
 
 ---
 
-## Story 6: Liverpool sign Victor Munoz for PS34.5m in first arrival of Andoni Iraola era
-**Slug (lower-third):** Liverpool sign Victor Munoz for PS34.5m in first arrival …  
-**When:** 2026-06-18 13:04 (America/Winnipeg)  •  **Published:** 2026-06-18 18:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Football gossip: Monga, Barcola, Fernandez, Barry, De Cat, Thuram
+**Slug (lower-third):** Football gossip: Monga, Barcola, Fernandez, Barry, De Cat…  
+**When:** 2026-06-18 16:44 (America/Winnipeg)  •  **Published:** 2026-06-18 21:44 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool sign Victor Munoz for PS34.5m in first arrival of Andoni Iraola era. The Osasuna winger Victor Munoz will become the first signing of Andoni Iraola's reign at Liverpool after the club triggered a PS34.5m release clause Relevance to standings and momentum.
+Football gossip: Monga, Barcola, Fernandez, Barry, De Cat, Thuram. Arsenal's opening bid for Jeremy Monga rejected by Leicester, Gunners also preparing bid for Bradley Barcola, RB Leipzig make contact with Everton over Barry. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +181,7 @@ Liverpool sign Victor Munoz for PS34.5m in first arrival of Andoni Iraola era. T
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool sign Victor Munoz for PS34.5m in first arrival of Andoni Iraola era. https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpool-newcastle-andoni-iraola-transfer-news
+- bbc.com — Football gossip: Monga, Barcola, Fernandez, Barry, De Cat, Thuram. https://www.bbc.com/sport/football/articles/c3ey5155309o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,10 +190,10 @@ Liverpool sign Victor Munoz for PS34.5m in first arrival of Andoni Iraola era. T
 
 ---
 
-## Story 7: World Cup 2026: Rafael Van der Vaart apologises for Japan comments
+## Story 8: World Cup 2026: Rafael Van der Vaart apologises for Japan comments
 **Slug (lower-third):** World Cup 2026: Rafael Van der Vaart apologises for Japan…  
 **When:** 2026-06-18 11:28 (America/Winnipeg)  •  **Published:** 2026-06-18 16:28 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 World Cup 2026: Rafael Van der Vaart apologises for Japan comments. Former Tottenham midfielder Rafael van der Vaart apologises after saying that Japan players "all look alike" during their 2-2 draw with the Netherlands. Relevance to standings and momentum.
