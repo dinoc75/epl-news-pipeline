@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-21 09:13 (America/Winnipeg)  |  2026-06-21 14:13 (UTC)
-**Stories in this rundown:** 3  |  **Style:** conversational broadcast
+**Generated:** 2026-06-21 14:44 (America/Winnipeg)  |  2026-06-21 19:44 (UTC)
+**Stories in this rundown:** 5  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~1m 08s
+**Estimated total video length:** ~2m 54s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Thomas Partey in spotlight as he faces England and former Arsenal teammates after rape charges
-- Tottenham transfer news: Roberto De Zerbi's transfer plans to rebuild Spurs this summer as Sandro Tonali deal targeted
-- Today on Sky Sports Racing: The Thames Boatman and Correspondence face off at Brighton
+- Lucas Bergvall transfer news: Tottenham midfielder asks to leave Premier League club in search for first-team football
+- County Championship: Notts knock Essex off top spot as Leicestershire claim first Division One win in 23 years vs Yorkshire
+- From Times Square to England squad: Trevoh Chalobah realises World Cup dream
 
 ---
 
 ### Transfers
 
-## Story 1: Tottenham transfer news: Roberto De Zerbi's transfer plans to rebuild Spurs this summer as Sandro Tonali deal targeted
-**Slug (lower-third):** Tottenham transfer news: Roberto De Zerbi's transfer plan…  
-**When:** 2026-06-21 05:59 (America/Winnipeg)  •  **Published:** 2026-06-21 10:59 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 1: Lucas Bergvall transfer news: Tottenham midfielder asks to leave Premier League club in search for first-team football
+**Slug (lower-third):** Lucas Bergvall transfer news: Tottenham midfielder asks t…  
+**When:** 2026-06-21 14:52 (America/Winnipeg)  •  **Published:** 2026-06-21 19:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Tottenham transfer news: Roberto De Zerbi's transfer plans to rebuild Spurs this summer as Sandro Tonali deal targeted. Sky Sports News Michael Bridge gives the latest on Tottenhams transfer plans this summer as Roberto De Zerbi looks to reshape the squad ahead of the 2026/27 season; Spurs could target up to eight signings with several players facing uncertain futures at the club Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Lucas Bergvall transfer news: Tottenham midfielder asks to leave Premier League club in search for first-team football. Lucas Bergvall asks to leave Tottenham in bid for more first-team football next season; 20-year-old played 112 minutes after Roberto De Zerbi took over for final six games last season; Swedish midfielder is currently away at World Cup Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Tottenham transfer news: Roberto De Zerbi's transfer plans to rebuild Spurs this
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham transfer news: Roberto De Zerbi's transfer plans to rebuild Spurs this summer as Sandro Tonali deal targeted. https://www.skysports.com/football/news/12040/13556354/tottenham-transfer-news-roberto-de-zerbis-transfer-plans-to-rebuild-spurs-this-summer-as-sandro-tonali-deal-targeted
+- skysports.com — Lucas Bergvall transfer news: Tottenham midfielder asks to leave Premier League club in search for first-team football. https://www.skysports.com/football/news/12040/13556507/lucas-bergvall-transfer-news-tottenham-midfielder-asks-to-leave-premier-league-club-in-search-for-first-team-football
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -45,7 +45,7 @@ Tottenham transfer news: Roberto De Zerbi's transfer plans to rebuild Spurs this
 ## Story 2: Thomas Partey in spotlight as he faces England and former Arsenal teammates after rape charges
 **Slug (lower-third):** Thomas Partey in spotlight as he faces England and former…  
 **When:** 2026-06-21 06:11 (America/Winnipeg)  •  **Published:** 2026-06-21 11:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Thomas Partey in spotlight as he faces England and former Arsenal teammates after rape charges. Thomas Partey will begin his World Cup campaign against England in Boston on Tuesday after being denied a visa for first game in Canada Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -68,13 +68,13 @@ Thomas Partey in spotlight as he faces England and former Arsenal teammates afte
 
 ### Club Updates
 
-## Story 3: Today on Sky Sports Racing: The Thames Boatman and Correspondence face off at Brighton
-**Slug (lower-third):** Today on Sky Sports Racing: The Thames Boatman and Corres…  
-**When:** 2026-06-20 19:05 (America/Winnipeg)  •  **Published:** 2026-06-21 00:05 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 3: County Championship: Notts knock Essex off top spot as Leicestershire claim first Division One win in 23 years vs Yorkshire
+**Slug (lower-third):** County Championship: Notts knock Essex off top spot as Le…  
+**When:** 2026-06-21 14:40 (America/Winnipeg)  •  **Published:** 2026-06-21 19:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: The Thames Boatman and Correspondence face off at Brighton. With Royal Ascot 2026 in the history books, the Sky Sports Racing cameras head to Brighton and Hexham for a mix of Flat and jumps action; watch every race LIVE from 1.56pm. Relevance to standings and momentum.
+County Championship: Notts knock Essex off top spot as Leicestershire claim first Division One win in 23 years vs Yorkshire. Nottinghamshire beat Essex to go top of the County Championship as Fergus ONeill takes 5-39; Leicestershire claimed first Division One win in 23 years after a Rehan Ahmed century helped beat Yorkshire; Hampshire defeat Sussex in Hove as Somerset in control against Warwickshire Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +83,55 @@ Today on Sky Sports Racing: The Thames Boatman and Correspondence face off at Br
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: The Thames Boatman and Correspondence face off at Brighton. https://www.skysports.com/racing/news/12040/13555737/today-on-sky-sports-racing-the-thames-boatman-and-correspondence-face-off-at-brighton
+- skysports.com — County Championship: Notts knock Essex off top spot as Leicestershire claim first Division One win in 23 years vs Yorkshire. https://www.skysports.com/cricket/news/12040/13556495/county-championship-notts-knock-essex-off-top-spot-as-leicestershire-claim-first-division-one-win-in-23-years-vs-yorkshire
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: From Times Square to England squad: Trevoh Chalobah realises World Cup dream
+**Slug (lower-third):** From Times Square to England squad: Trevoh Chalobah reali…  
+**When:** 2026-06-21 13:00 (America/Winnipeg)  •  **Published:** 2026-06-21 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+From Times Square to England squad: Trevoh Chalobah realises World Cup dream. The Chelsea defender had a mad scramble for boots and cut short a holiday after belatedly receiving the message of a lifetime from Thomas Tuchel Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — From Times Square to England squad: Trevoh Chalobah realises World Cup dream. https://www.theguardian.com/football/2026/jun/21/from-times-square-to-england-squad-trevoh-chalobah-realises-world-cup-dream
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Wesley Fofana: What next for APS70m Chelsea defender
+**Slug (lower-third):** Wesley Fofana: What next for APS70m Chelsea defender  
+**When:** 2026-06-21 09:33 (America/Winnipeg)  •  **Published:** 2026-06-21 14:33 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Wesley Fofana: What next for APS70m Chelsea defender. Chelsea are well stocked in defence and Wesley Fofana is yet to consistently show his talents for the Premier League side. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Wesley Fofana: What next for APS70m Chelsea defender. https://www.bbc.com/sport/football/articles/cgjx538n62xo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
