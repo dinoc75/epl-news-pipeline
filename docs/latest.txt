@@ -1,49 +1,25 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-20 14:39 (America/Winnipeg)  |  2026-06-20 19:39 (UTC)
-**Stories in this rundown:** 5  |  **Style:** conversational broadcast
+**Generated:** 2026-06-20 23:22 (America/Winnipeg)  |  2026-06-21 04:22 (UTC)
+**Stories in this rundown:** 6  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 45s
+**Estimated total video length:** ~2m 05s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- The Amateur Championship: Ireland's Stuart Grehan snatches dramatic win to earn invites to The Open, The Masters, US Open
-- Vitor Reis: What is Manchester City's plan for the defender?
-- David Raya: 'When you lose a Champions League final it destroys you inside'
+- Today on Sky Sports Racing: The Thames Boatman and Correspondence face off at Brighton
+- Paper Talk: Ex-Newcastle owners Amanda Staveley and Mehrdad Ghodoussi consider West Ham takeover
+- Sandro Tonali: Newcastle reject Spurs bid of about APS80m
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Vitor Reis: What is Manchester City's plan for the defender?
-**Slug (lower-third):** Vitor Reis: What is Manchester City's plan for the defend…  
-**When:** 2026-06-20 08:39 (America/Winnipeg)  •  **Published:** 2026-06-20 13:39 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Vitor Reis: What is Manchester City's plan for the defender?. Manchester City are still awaiting the arrival of their new manager but forgotten defender Vitor Reis will be back in the building following his season-long loan spell in La Liga. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.com — Vitor Reis: What is Manchester City's plan for the defender?. https://www.bbc.com/sport/football/articles/ce3eqz1x9rpo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Manchester City close to financial settlement with Chelsea to appoint Enzo Maresca
+## Story 1: Manchester City close to financial settlement with Chelsea to appoint Enzo Maresca
 **Slug (lower-third):** Manchester City close to financial settlement with Chelse…  
 **When:** 2026-06-20 02:06 (America/Winnipeg)  •  **Published:** 2026-06-20 07:06 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+**Virality score:** 73  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester City close to financial settlement with Chelsea to appoint Enzo Maresca. Manchester City are close to reaching a financial settlement with Chelsea that will enable them to appoint Enzo Maresca as their manager Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -58,6 +34,56 @@ Manchester City close to financial settlement with Chelsea to appoint Enzo Mares
 - theguardian.com — Manchester City close to financial settlement with Chelsea to appoint Enzo Maresca. https://www.theguardian.com/football/2026/jun/20/manchester-city-close-to-financial-settlement-with-chelsea-to-appoint-enzo-maresca
 
 ### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: Ireland captain Caelan Doris ruled out of Nations Championship with uncapped brothers called up
+**Slug (lower-third):** Ireland captain Caelan Doris ruled out of Nations Champio…  
+**When:** 2026-06-20 17:13 (America/Winnipeg)  •  **Published:** 2026-06-20 22:13 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Ireland captain Caelan Doris ruled out of Nations Championship with uncapped brothers called up. Ireland duo Caelan Doris and Tommy OBrien have been replaced by Bryn Ward and Zac Ward for the Nations Championship Southern Series due to injury; Ireland play Australia, Japan and New Zealand next month Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Ireland captain Caelan Doris ruled out of Nations Championship with uncapped brothers called up. https://www.skysports.com/rugby-union/news/12040/13556230/ireland-captain-caelan-doris-ruled-out-of-nations-championship-with-uncapped-duo-called-up
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Football gossip: Wirtz, Fernandez, Nmecha, Woltemade, Vuskovic, Diomande
+**Slug (lower-third):** Football gossip: Wirtz, Fernandez, Nmecha, Woltemade, Vus…  
+**When:** 2026-06-20 16:29 (America/Winnipeg)  •  **Published:** 2026-06-20 21:29 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Wirtz, Fernandez, Nmecha, Woltemade, Vuskovic, Diomande. Chelsea considering Florian Wirtz move, Felix Nmecha open to England return and Aston Villa among Nick Woltemade suitors, plus more. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.com — Football gossip: Wirtz, Fernandez, Nmecha, Woltemade, Vuskovic, Diomande. https://www.bbc.com/sport/football/articles/c9924mxedgno?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
 - Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
@@ -66,13 +92,13 @@ Manchester City close to financial settlement with Chelsea to appoint Enzo Mares
 
 ### Club Updates
 
-## Story 3: The Amateur Championship: Ireland's Stuart Grehan snatches dramatic win to earn invites to The Open, The Masters, US Open
-**Slug (lower-third):** The Amateur Championship: Ireland's Stuart Grehan snatche…  
-**When:** 2026-06-20 14:42 (America/Winnipeg)  •  **Published:** 2026-06-20 19:42 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 4: Today on Sky Sports Racing: The Thames Boatman and Correspondence face off at Brighton
+**Slug (lower-third):** Today on Sky Sports Racing: The Thames Boatman and Corres…  
+**When:** 2026-06-20 19:05 (America/Winnipeg)  •  **Published:** 2026-06-21 00:05 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-The Amateur Championship: Ireland's Stuart Grehan snatches dramatic win to earn invites to The Open, The Masters, US Open. Stuart Grehan claimed the biggest victory of his career as the Irishman triumphed in The 131st Amateur Championship at Royal Liverpool; Grehan defeated Matt Moloney to earn invites to The Open, The Masters and US Open Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Today on Sky Sports Racing: The Thames Boatman and Correspondence face off at Brighton. With Royal Ascot 2026 in the history books, the Sky Sports Racing cameras head to Brighton and Hexham for a mix of Flat and jumps action; watch every race LIVE from 1.56pm. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +107,7 @@ The Amateur Championship: Ireland's Stuart Grehan snatches dramatic win to earn 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — The Amateur Championship: Ireland's Stuart Grehan snatches dramatic win to earn invites to The Open, The Masters, US Open. https://www.skysports.com/golf/news/12040/13556196/the-amateur-championship-irelands-stuart-grehan-snatches-dramatic-win-to-earn-invites-to-the-open-the-masters-us-open
+- skysports.com — Today on Sky Sports Racing: The Thames Boatman and Correspondence face off at Brighton. https://www.skysports.com/racing/news/12040/13555737/today-on-sky-sports-racing-the-thames-boatman-and-correspondence-face-off-at-brighton
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +116,13 @@ The Amateur Championship: Ireland's Stuart Grehan snatches dramatic win to earn 
 
 ---
 
-## Story 4: David Raya: 'When you lose a Champions League final it destroys you inside'
-**Slug (lower-third):** David Raya: 'When you lose a Champions League final it de…  
-**When:** 2026-06-20 06:00 (America/Winnipeg)  •  **Published:** 2026-06-20 11:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 5: Paper Talk: Ex-Newcastle owners Amanda Staveley and Mehrdad Ghodoussi consider West Ham takeover
+**Slug (lower-third):** Paper Talk: Ex-Newcastle owners Amanda Staveley and Mehrd…  
+**When:** 2026-06-20 18:00 (America/Winnipeg)  •  **Published:** 2026-06-20 23:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-David Raya: 'When you lose a Champions League final it destroys you inside'. The goalkeeper discusses being bullied by 35-year-olds in the English fifth tier, winning the Premier League and competition in the Spain squad Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Paper Talk: Ex-Newcastle owners Amanda Staveley and Mehrdad Ghodoussi consider West Ham takeover. Plus: The Football Association will leave England players to decide whether to shake Thomas Parteys hand against Ghana on Tuesday; Bukayo Saka is unlikely to start after missing England training Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +131,7 @@ David Raya: 'When you lose a Champions League final it destroys you inside'. The
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — David Raya: 'When you lose a Champions League final it destroys you inside'. https://www.theguardian.com/football/2026/jun/20/david-raya-when-you-lose-a-champions-league-final-it-destroys-you-inside
+- skysports.com — Paper Talk: Ex-Newcastle owners Amanda Staveley and Mehrdad Ghodoussi consider West Ham takeover. https://www.skysports.com/football/news/12040/13556243/paper-talk-ex-newcastle-owners-amanda-staveley-and-mehrdad-ghodoussi-consider-west-ham-takeover
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +140,13 @@ David Raya: 'When you lose a Champions League final it destroys you inside'. The
 
 ---
 
-## Story 5: Highlights - Brazil 3-0 Haiti: Matheus Cunha scores twice
-**Slug (lower-third):** Highlights - Brazil 3-0 Haiti: Matheus Cunha scores twice  
-**When:** 2026-06-19 22:06 (America/Winnipeg)  •  **Published:** 2026-06-20 03:06 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
+## Story 6: Sandro Tonali: Newcastle reject Spurs bid of about APS80m
+**Slug (lower-third):** Sandro Tonali: Newcastle reject Spurs bid of about APS80m  
+**When:** 2026-06-20 17:30 (America/Winnipeg)  •  **Published:** 2026-06-20 22:30 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Highlights - Brazil 3-0 Haiti: Matheus Cunha scores twice. Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup. Relevance to standings and momentum.
+Sandro Tonali: Newcastle reject Spurs bid of about APS80m. Newcastle United reject a bid from Tottenham Hotspur for midfielder Sandro Tonali of about APS80m. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,10 +155,10 @@ Highlights - Brazil 3-0 Haiti: Matheus Cunha scores twice. Manchester United for
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.com — Highlights - Brazil 3-0 Haiti: Matheus Cunha scores twice. https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss
+- bbc.com — Sandro Tonali: Newcastle reject Spurs bid of about APS80m. https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
