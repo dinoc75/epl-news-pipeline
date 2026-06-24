@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-24 04:33 (America/Winnipeg)  |  2026-06-24 09:33 (UTC)
-**Stories in this rundown:** 8  |  **Style:** conversational broadcast
+**Generated:** 2026-06-24 09:34 (America/Winnipeg)  |  2026-06-24 14:34 (UTC)
+**Stories in this rundown:** 9  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 53s
+**Estimated total video length:** ~3m 26s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Five breakout World Cup stars who could prosper in the Premier League | David Pleat
-- Newcastle: Tottenham's Sandro Tonali hunt shows chasm between clubs
-- Chelsea transfer news: Malo Gusto could be sold to Man City to pave way for Marco Palestra signing - Paper Talk
+- Transfer news: Man Utd and Tottenham battling for West Ham's Mateus Fernandes and Arsenal target Alex Scott
+- Marco Palestra to Chelsea: Why Atalanta wing-back's dribbling and running power makes him a fit for the Premier League
+- Leeds transfer news: Harry Wilson agreement reached as midfielder set to sign on free when Fulham contract expires
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Chelsea transfer news: Malo Gusto could be sold to Man City to pave way for Marco Palestra signing - Paper Talk
 **Slug (lower-third):** Chelsea transfer news: Malo Gusto could be sold to Man Ci…  
 **When:** 2026-06-24 03:20 (America/Winnipeg)  •  **Published:** 2026-06-24 08:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+**Virality score:** 96  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 Chelsea transfer news: Malo Gusto could be sold to Man City to pave way for Marco Palestra signing - Paper Talk. Plus: Aston Villa are in talks to sign Flamengo full-back Emerson Royal; Arsenal have ruled out a summer move for Julian Alvarez; new Liverpool manager Andoni Iraola has been told not to sign any players from his former club Bournemouth Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -40,39 +40,15 @@ Chelsea transfer news: Malo Gusto could be sold to Man City to pave way for Marc
 
 ---
 
-## Story 2: Ipswich Town: Gary O'Neil appointed new Tractor Boys manager ahead of Premier League return
-**Slug (lower-third):** Ipswich Town: Gary O'Neil appointed new Tractor Boys mana…  
-**When:** 2026-06-23 11:02 (America/Winnipeg)  •  **Published:** 2026-06-23 16:02 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Ipswich Town: Gary O'Neil appointed new Tractor Boys manager ahead of Premier League return. Gary ONeil has been appointed as the new manager of Ipswich Town; ONeil replaces Kieran McKenna who resigned after guiding the Tractor Boys back to the Premier League; ONeil leaves Ligue 1 side Strasbourg after just six months in charge Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Ipswich Town: Gary O'Neil appointed new Tractor Boys manager ahead of Premier League return. https://www.skysports.com/football/news/12040/13556081/ipswich-town-gary-oneil-appointed-new-tractor-boys-manager-ahead-of-premier-league-return
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Transfers
 
-## Story 3: Chelsea close in on APS43m Marco Palestra as Xabi Alonso's first signing
-**Slug (lower-third):** Chelsea close in on APS43m Marco Palestra as Xabi Alonso'…  
-**When:** 2026-06-23 15:52 (America/Winnipeg)  •  **Published:** 2026-06-23 20:52 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 2: Transfer news: Man Utd and Tottenham battling for West Ham's Mateus Fernandes and Arsenal target Alex Scott
+**Slug (lower-third):** Transfer news: Man Utd and Tottenham battling for West Ha…  
+**When:** 2026-06-24 10:00 (America/Winnipeg)  •  **Published:** 2026-06-24 15:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Chelsea close in on APS43m Marco Palestra as Xabi Alonso's first signing. Chelsea are set to sign Atalanta defender Marco Palestra for a fee in excess of APS43m. Implications for the squad and table.
+Transfer news: Man Utd and Tottenham battling for West Ham's Mateus Fernandes and Arsenal target Alex Scott. Spurs willing to pay PS85m for West Hams Mateus Fernandes but could still face competition from Man Utd; both Premier League clubs also keen on Bournemouths Alex Scott, who is an Arsenal target; Newcastle midfielder Sandro Tonali remains of interest to Spurs, Man City and Arsenal Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +57,7 @@ Chelsea close in on APS43m Marco Palestra as Xabi Alonso's first signing. Chelse
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Chelsea close in on APS43m Marco Palestra as Xabi Alonso's first signing. https://www.bbc.co.uk/sport/football/articles/c3ey7vp051yo?at_medium=RSS&at_campaign=rss
+- skysports.com — Transfer news: Man Utd and Tottenham battling for West Ham's Mateus Fernandes and Arsenal target Alex Scott. https://www.skysports.com/football/news/12040/13557379/transfer-news-man-utd-and-tottenham-battling-for-west-hams-mateus-fernandes-and-arsenal-target-alex-scott
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +66,13 @@ Chelsea close in on APS43m Marco Palestra as Xabi Alonso's first signing. Chelse
 
 ---
 
-## Story 4: Transfer latest: Spurs push for Fernandes and Tonali, Chelsea like Palestra
-**Slug (lower-third):** Transfer latest: Spurs push for Fernandes and Tonali, Che…  
-**When:** 2026-06-23 14:17 (America/Winnipeg)  •  **Published:** 2026-06-23 19:17 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 3: Marco Palestra to Chelsea: Why Atalanta wing-back's dribbling and running power makes him a fit for the Premier League
+**Slug (lower-third):** Marco Palestra to Chelsea: Why Atalanta wing-back's dribb…  
+**When:** 2026-06-24 07:34 (America/Winnipeg)  •  **Published:** 2026-06-24 12:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Transfer latest: Spurs push for Fernandes and Tonali, Chelsea like Palestra. Roberto De Zerbi has been given significant funds by Tottenham and is looking to make two big moves in midfield Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Marco Palestra to Chelsea: Why Atalanta wing-back's dribbling and running power makes him a fit for the Premier League. Italy international Marco Palestra is set to move to Chelsea from Atalanta following a successful season on loan at Cagliari but what can the 21-year-old bring to the Premier League? From dribbling to versatility, Adam Bate takes a look... Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,10 +81,58 @@ Transfer latest: Spurs push for Fernandes and Tonali, Chelsea like Palestra. Rob
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Transfer latest: Spurs push for Fernandes and Tonali, Chelsea like Palestra. https://www.theguardian.com/football/2026/jun/23/transfer-latest-spurs-mateus-fernandes-sandro-tonali-chelsea-marco-palestra
+- skysports.com — Marco Palestra to Chelsea: Why Atalanta wing-back's dribbling and running power makes him a fit for the Premier League. https://www.skysports.com/football/news/12040/13557345/marco-palestra-to-chelsea-why-atalanta-wing-backs-dribbling-and-running-power-makes-him-a-fit-for-the-premier-league
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Leeds transfer news: Harry Wilson agreement reached as midfielder set to sign on free when Fulham contract expires
+**Slug (lower-third):** Leeds transfer news: Harry Wilson agreement reached as mi…  
+**When:** 2026-06-24 06:50 (America/Winnipeg)  •  **Published:** 2026-06-24 11:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
+
+### Presenter Script (3–5 sentences)
+Leeds transfer news: Harry Wilson agreement reached as midfielder set to sign on free when Fulham contract expires. Harry Wilsons Fulham contract expires at the end of June; Aston Villa and Everton had been interested in signing the Wales international; the 29-year-old scored 11 goals and provided eight assists for the west London club in 2025/26 Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Leeds transfer news: Harry Wilson agreement reached as midfielder set to sign on free when Fulham contract expires. https://www.skysports.com/football/news/12040/13557327/leeds-transfer-news-harry-wilson-agreement-reached-as-midfielder-set-to-sign-on-free-transfer-when-fulham-contract-expires
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Leeds United agree contract with Fulham forward Harry Wilson
+**Slug (lower-third):** Leeds United agree contract with Fulham forward Harry Wil…  
+**When:** 2026-06-24 06:23 (America/Winnipeg)  •  **Published:** 2026-06-24 11:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Leeds United agree contract with Fulham forward Harry Wilson. Leeds agree a long-term contract with Fulham attacker Harry Wilson to join on a free transfer. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Leeds United agree contract with Fulham forward Harry Wilson. https://www.bbc.co.uk/sport/football/articles/c892dk5dnz8o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -116,13 +140,13 @@ Transfer latest: Spurs push for Fernandes and Tonali, Chelsea like Palestra. Rob
 
 ### Club Updates
 
-## Story 5: Five breakout World Cup stars who could prosper in the Premier League | David Pleat
-**Slug (lower-third):** Five breakout World Cup stars who could prosper in the Pr…  
-**When:** 2026-06-24 04:00 (America/Winnipeg)  •  **Published:** 2026-06-24 09:00 (UTC)  
+## Story 6: Chelsea: Malo Gusto considering future as representatives speak with Man City
+**Slug (lower-third):** Chelsea: Malo Gusto considering future as representatives…  
+**When:** 2026-06-24 06:23 (America/Winnipeg)  •  **Published:** 2026-06-24 11:23 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Five breakout World Cup stars who could prosper in the Premier League | David Pleat. Alex Freeman has impressed from right-back while Eli Just is catching the eye with his body swerves and goal threat Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea: Malo Gusto considering future as representatives speak with Man City. Chelsea defender Malo Gusto is exploring his options to leave this summer, with the club placing a APS75m price tag on him. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +155,7 @@ Five breakout World Cup stars who could prosper in the Premier League | David Pl
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Five breakout World Cup stars who could prosper in the Premier League | David Pleat. https://www.theguardian.com/football/2026/jun/24/five-breakout-world-cup-stars-who-could-prosper-in-the-premier-league
+- bbc.co.uk — Chelsea: Malo Gusto considering future as representatives speak with Man City. https://www.bbc.co.uk/sport/football/articles/czj8v1pz204o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,10 +164,10 @@ Five breakout World Cup stars who could prosper in the Premier League | David Pl
 
 ---
 
-## Story 6: Newcastle: Tottenham's Sandro Tonali hunt shows chasm between clubs
+## Story 7: Newcastle: Tottenham's Sandro Tonali hunt shows chasm between clubs
 **Slug (lower-third):** Newcastle: Tottenham's Sandro Tonali hunt shows chasm bet…  
 **When:** 2026-06-24 03:48 (America/Winnipeg)  •  **Published:** 2026-06-24 08:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Newcastle: Tottenham's Sandro Tonali hunt shows chasm between clubs. The pursuit of Sandro Tonali by Tottenham - who narrowly avoided relegation last season - shows the challenge Newcastle face. Relevance to standings and momentum.
@@ -164,10 +188,34 @@ Newcastle: Tottenham's Sandro Tonali hunt shows chasm between clubs. The pursuit
 
 ---
 
-## Story 7: Daniel Munoz breaks DR Congo resistance to send Colombia into World Cup knockouts
+## Story 8: Five breakout World Cup stars who could prosper in the Premier League | David Pleat
+**Slug (lower-third):** Five breakout World Cup stars who could prosper in the Pr…  
+**When:** 2026-06-24 04:00 (America/Winnipeg)  •  **Published:** 2026-06-24 09:00 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Five breakout World Cup stars who could prosper in the Premier League | David Pleat. Alex Freeman has impressed from right-back while Eli Just is catching the eye with his body swerves and goal threat Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Five breakout World Cup stars who could prosper in the Premier League | David Pleat. https://www.theguardian.com/football/2026/jun/24/five-breakout-world-cup-stars-who-could-prosper-in-the-premier-league
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Daniel Munoz breaks DR Congo resistance to send Colombia into World Cup knockouts
 **Slug (lower-third):** Daniel Munoz breaks DR Congo resistance to send Colombia …  
 **When:** 2026-06-23 23:14 (America/Winnipeg)  •  **Published:** 2026-06-24 04:14 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Daniel Munoz breaks DR Congo resistance to send Colombia into World Cup knockouts. The Crystal Palace defender netted his second goal of the tournament as Colombia secured their passage from Group K with a well-deserved 1-0 win Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -180,30 +228,6 @@ Daniel Munoz breaks DR Congo resistance to send Colombia into World Cup knockout
 
 ### Sources
 - theguardian.com — Daniel Munoz breaks DR Congo resistance to send Colombia into World Cup knockouts. https://www.theguardian.com/football/2026/jun/24/colombia-dr-congo-world-cup-group-k-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Football gossip: Scott, Monga, Bowen, Rogers, Fernandes, Olise, Haaland, Vinicius Jr, Alvarez
-**Slug (lower-third):** Football gossip: Scott, Monga, Bowen, Rogers, Fernandes, …  
-**When:** 2026-06-23 15:55 (America/Winnipeg)  •  **Published:** 2026-06-23 20:55 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Scott, Monga, Bowen, Rogers, Fernandes, Olise, Haaland, Vinicius Jr, Alvarez. Manchester United and Arsenal are tracking Alex Scott, while the Gunners are also in contact with Leicester City over a deal for Jeremy Monga, Aston Villa express strong interest in Jarrod Bowen, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football gossip: Scott, Monga, Bowen, Rogers, Fernandes, Olise, Haaland, Vinicius Jr, Alvarez. https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
