@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-24 22:42 (America/Winnipeg)  |  2026-06-25 03:42 (UTC)
-**Stories in this rundown:** 5  |  **Style:** conversational broadcast
+**Generated:** 2026-06-25 04:25 (America/Winnipeg)  |  2026-06-25 09:25 (UTC)
+**Stories in this rundown:** 4  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 47s
+**Estimated total video length:** ~1m 21s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- England reach Women's T20 World Cup semi-finals with win over West Indies, their fourth straight victory in tournament
-- Chelsea in pursuit of Crystal Palace's Maxence Lacroix amid Trevoh Chalobah interest
-- Football gossip: Gunn, Gusto, Rogers, Bowen, Vitek, Phillips, Ramon, Jesus, Fernandes, Hjulmand
+- Liverpool: Cody Gakpo future at Anfield in balance this summer
+- How a 'naive' Mauricio Pochettino's lowest moments turned the USMNT into World Cup darlings
+- Today on Sky Sports Racing: All-weather action from Newcastle features live on Thursday
 
 ---
 
 ### Club Updates
 
-## Story 1: England reach Women's T20 World Cup semi-finals with win over West Indies, their fourth straight victory in tournament
-**Slug (lower-third):** England reach Women's T20 World Cup semi-finals with win …  
-**When:** 2026-06-24 16:55 (America/Winnipeg)  •  **Published:** 2026-06-24 21:55 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~27s
+## Story 1: Liverpool: Cody Gakpo future at Anfield in balance this summer
+**Slug (lower-third):** Liverpool: Cody Gakpo future at Anfield in balance this s…  
+**When:** 2026-06-25 03:04 (America/Winnipeg)  •  **Published:** 2026-06-25 08:04 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-England reach Women's T20 World Cup semi-finals with win over West Indies, their fourth straight victory in tournament. Danni Wyatt-Hodges 65 from 42 balls underpins Englands 186-7 at sun-drenched Lords, before West Indies limited to 148-5 in reply after controversial caught-behind dismissal of captain Hayley Matthews; Nat Sciver-Brunt (calf) to miss Englands final group game vs New Zealand on Saturday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liverpool: Cody Gakpo future at Anfield in balance this summer. Cody Gakpo is thriving with the Netherlands but increased competition means his Liverpool future is uncertain. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ England reach Women's T20 World Cup semi-finals with win over West Indies, their
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — England reach Women's T20 World Cup semi-finals with win over West Indies, their fourth straight victory in tournament. https://www.skysports.com/cricket/news/12040/13557398/england-reach-womens-t20-world-cup-semi-finals-with-win-over-west-indies-their-fourth-straight-victory-in-tournament
+- bbc.co.uk — Liverpool: Cody Gakpo future at Anfield in balance this summer. https://www.bbc.co.uk/sport/football/articles/cg74ded0d95o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ England reach Women's T20 World Cup semi-finals with win over West Indies, their
 
 ---
 
-## Story 2: Chelsea in pursuit of Crystal Palace's Maxence Lacroix amid Trevoh Chalobah interest
-**Slug (lower-third):** Chelsea in pursuit of Crystal Palace's Maxence Lacroix am…  
-**When:** 2026-06-24 16:49 (America/Winnipeg)  •  **Published:** 2026-06-24 21:49 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 2: How a 'naive' Mauricio Pochettino's lowest moments turned the USMNT into World Cup darlings
+**Slug (lower-third):** How a 'naive' Mauricio Pochettino's lowest moments turned…  
+**When:** 2026-06-25 03:00 (America/Winnipeg)  •  **Published:** 2026-06-25 08:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea in pursuit of Crystal Palace's Maxence Lacroix amid Trevoh Chalobah interest. Chelsea step up their efforts to sign Crystal Palace defender Maxence Lacroix, who is emerging as a major target this summer. Relevance to standings and momentum.
+How a 'naive' Mauricio Pochettino's lowest moments turned the USMNT into World Cup darlings. The former Tottenham coach experienced three body blows early in his tenure with the US, each contributing to the solid World Cup to come Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Chelsea in pursuit of Crystal Palace's Maxence Lacroix amid Trevoh Chalobah inte
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Chelsea in pursuit of Crystal Palace's Maxence Lacroix amid Trevoh Chalobah interest. https://www.bbc.co.uk/sport/football/articles/c15ykjn4l81o?at_medium=RSS&at_campaign=rss
+- theguardian.com — How a 'naive' Mauricio Pochettino's lowest moments turned the USMNT into World Cup darlings. https://www.theguardian.com/football/2026/jun/25/mauricio-pochettino-usa-turkey-world-cup-preview
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +64,37 @@ Chelsea in pursuit of Crystal Palace's Maxence Lacroix amid Trevoh Chalobah inte
 
 ---
 
-## Story 3: Football gossip: Gunn, Gusto, Rogers, Bowen, Vitek, Phillips, Ramon, Jesus, Fernandes, Hjulmand
-**Slug (lower-third):** Football gossip: Gunn, Gusto, Rogers, Bowen, Vitek, Phill…  
+## Story 3: Today on Sky Sports Racing: All-weather action from Newcastle features live on Thursday
+**Slug (lower-third):** Today on Sky Sports Racing: All-weather action from Newca…  
+**When:** 2026-06-25 01:00 (America/Winnipeg)  •  **Published:** 2026-06-25 06:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Today on Sky Sports Racing: All-weather action from Newcastle features live on Thursday. In Thursdays feature race on Sky Sports Racing, Back In Black and El Matador rate fascinating contenders in a hot handicap on the all-weather at Newcastle; we have eight races in total, live on Sky Sports Racing from 2.02pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Today on Sky Sports Racing: All-weather action from Newcastle features live on Thursday. https://www.skysports.com/racing/news/12040/13557080/today-on-sky-sports-racing-all-weather-action-from-newcastle-features-live-on-thursday
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Football gossip: Gunn, Rogers, Bowen, Vitek, Phillips, Jesus, Fernandes, Hjulmand
+**Slug (lower-third):** Football gossip: Gunn, Rogers, Bowen, Vitek, Phillips, Je…  
 **When:** 2026-06-24 16:45 (America/Winnipeg)  •  **Published:** 2026-06-24 21:45 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Gunn, Gusto, Rogers, Bowen, Vitek, Phillips, Ramon, Jesus, Fernandes, Hjulmand. Scotland goalkeeper Angus Gunn could be a target for Manchester United, while Arsenal continue to pursue Aston Villa midfielder Morgan Rogers and Everton make a move for West Ham captain Jarrod Bowen, plus more. Relevance to standings and momentum.
+Football gossip: Gunn, Rogers, Bowen, Vitek, Phillips, Jesus, Fernandes, Hjulmand. Scotland goalkeeper Angus Gunn could be a target for Manchester United, while Arsenal continue to pursue Aston Villa midfielder Morgan Rogers and Everton make a move for West Ham captain Jarrod Bowen, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,58 +103,10 @@ Football gossip: Gunn, Gusto, Rogers, Bowen, Vitek, Phillips, Ramon, Jesus, Fern
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Gunn, Gusto, Rogers, Bowen, Vitek, Phillips, Ramon, Jesus, Fernandes, Hjulmand. https://www.bbc.co.uk/sport/football/articles/c9v273npglmo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Football gossip: Gunn, Rogers, Bowen, Vitek, Phillips, Jesus, Fernandes, Hjulmand. https://www.bbc.co.uk/sport/football/articles/c9v273npglmo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Mateus Fernandes: Tottenham interested in West Ham midfielder
-**Slug (lower-third):** Mateus Fernandes: Tottenham interested in West Ham midfie…  
-**When:** 2026-06-24 15:41 (America/Winnipeg)  •  **Published:** 2026-06-24 20:41 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Mateus Fernandes: Tottenham interested in West Ham midfielder. West Ham value Mateus Fernandes at APS80m amid interest from Tottenham, who want a central midfielder this summer and have had a bid rejected for Newcastle's Sandro Tonali. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Mateus Fernandes: Tottenham interested in West Ham midfielder. https://www.bbc.co.uk/sport/football/articles/cy4ejzz5jneo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Daniel Munoz breaks DR Congo resistance to send Colombia into World Cup knockouts
-**Slug (lower-third):** Daniel Munoz breaks DR Congo resistance to send Colombia …  
-**When:** 2026-06-23 23:14 (America/Winnipeg)  •  **Published:** 2026-06-24 04:14 (UTC)  
-**Virality score:** 70  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Daniel Munoz breaks DR Congo resistance to send Colombia into World Cup knockouts. The Crystal Palace defender netted his second goal of the tournament as Colombia secured their passage from Group K with a well-deserved 1-0 win Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Daniel Munoz breaks DR Congo resistance to send Colombia into World Cup knockouts. https://www.theguardian.com/football/2026/jun/24/colombia-dr-congo-world-cup-group-k-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
