@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-27 08:47 (America/Winnipeg)  |  2026-06-27 13:47 (UTC)
-**Stories in this rundown:** 4  |  **Style:** conversational broadcast
+**Generated:** 2026-06-27 14:23 (America/Winnipeg)  |  2026-06-27 19:23 (UTC)
+**Stories in this rundown:** 6  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~1m 24s
+**Estimated total video length:** ~2m 05s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Manuel Ugarte: Manchester United waiting on injury update
-- Today on Sky Sports Racing: Spirit Mixer bids to defend Northumberland Plate crown at Newcastle live on Saturday
-- Football gossip: Lacroix, Nmecha, Araujo, Greenwood, Ter Stegen
+- Arsenal news: Performance coach Sam Wilson set to leave in latest backroom change
+- Granit Xhaka transfer news: Chelsea interested in signing Sunderland midfielder to reunite him with Xabi Alonso
+- Chelsea in talks to sign Sunderland's Granit Xhaka
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup
-**Slug (lower-third):** US Soccer offers contract renewal to Mauricio Pochettino …  
-**When:** 2026-06-26 15:02 (America/Winnipeg)  •  **Published:** 2026-06-26 20:02 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
+## Story 1: Granit Xhaka transfer news: Chelsea interested in signing Sunderland midfielder to reunite him with Xabi Alonso
+**Slug (lower-third):** Granit Xhaka transfer news: Chelsea interested in signing…  
+**When:** 2026-06-27 13:26 (America/Winnipeg)  •  **Published:** 2026-06-27 18:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup. The former Tottenham, Chelsea, and PSG boss was expected to have interest from Europe after the 2026 World Cup ends Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Granit Xhaka transfer news: Chelsea interested in signing Sunderland midfielder to reunite him with Xabi Alonso. Chelsea are interested in a move for Sunderlands Granit Xhaka; the 33-year-old worked with new Chelsea manager Xabi Alonso at Bayer Leverkusen; Xhaka helped secure European football for Sunderland by beating Chelsea on the final day, he would join a squad with an average age of 23.8 Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,10 +31,10 @@ US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup. https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup
+- skysports.com — Granit Xhaka transfer news: Chelsea interested in signing Sunderland midfielder to reunite him with Xabi Alonso. https://www.skysports.com/football/news/12040/13558363/granit-xhaka-transfer-news-chelsea-interested-in-signing-sunderland-midfielder-to-reunite-him-with-xabi-alonso
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -45,7 +45,7 @@ US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup.
 ## Story 2: Manuel Ugarte: Manchester United waiting on injury update
 **Slug (lower-third):** Manuel Ugarte: Manchester United waiting on injury update  
 **When:** 2026-06-27 05:36 (America/Winnipeg)  •  **Published:** 2026-06-27 10:36 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manuel Ugarte: Manchester United waiting on injury update. Manchester United are waiting to discover the extent of Manuel Ugarte's injury after the midfielder was stretchered off during Uruguay's World Cup defeat by Spain. Potential impact on the lineup and upcoming fixtures.
@@ -68,13 +68,13 @@ Manuel Ugarte: Manchester United waiting on injury update. Manchester United are
 
 ### Club Updates
 
-## Story 3: Today on Sky Sports Racing: Spirit Mixer bids to defend Northumberland Plate crown at Newcastle live on Saturday
-**Slug (lower-third):** Today on Sky Sports Racing: Spirit Mixer bids to defend N…  
-**When:** 2026-06-27 02:00 (America/Winnipeg)  •  **Published:** 2026-06-27 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~24s
+## Story 3: Arsenal news: Performance coach Sam Wilson set to leave in latest backroom change
+**Slug (lower-third):** Arsenal news: Performance coach Sam Wilson set to leave i…  
+**When:** 2026-06-27 14:01 (America/Winnipeg)  •  **Published:** 2026-06-27 19:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Spirit Mixer bids to defend Northumberland Plate crown at Newcastle live on Saturday. The 2026 renewal of the Northumberland Plate sees Circus Of Rome well fancied to scoop the top prize from Gosforth Park - live on Sky Sports Racing at 3.15pm on Saturday; also on the card, Marvelman takes on Diligent Harry in the Chipchase Stakes Relevance to standings and momentum.
+Arsenal news: Performance coach Sam Wilson set to leave in latest backroom change. Arsenal's lead performance coach Sam Wilson is set to leave the club and join a European team. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +83,7 @@ Today on Sky Sports Racing: Spirit Mixer bids to defend Northumberland Plate cro
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Spirit Mixer bids to defend Northumberland Plate crown at Newcastle live on Saturday. https://www.skysports.com/racing/news/12040/13557636/today-on-sky-sports-racing-spirit-mixer-bids-to-defend-northumberland-plate-crown-at-newcastle-live-on-saturday
+- bbc.co.uk — Arsenal news: Performance coach Sam Wilson set to leave in latest backroom change. https://www.bbc.co.uk/sport/football/articles/cn75kem1g37o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +92,13 @@ Today on Sky Sports Racing: Spirit Mixer bids to defend Northumberland Plate cro
 
 ---
 
-## Story 4: Football gossip: Lacroix, Nmecha, Araujo, Greenwood, Ter Stegen
-**Slug (lower-third):** Football gossip: Lacroix, Nmecha, Araujo, Greenwood, Ter …  
-**When:** 2026-06-26 16:25 (America/Winnipeg)  •  **Published:** 2026-06-26 21:25 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
+## Story 4: Chelsea in talks to sign Sunderland's Granit Xhaka
+**Slug (lower-third):** Chelsea in talks to sign Sunderland's Granit Xhaka  
+**When:** 2026-06-27 13:16 (America/Winnipeg)  •  **Published:** 2026-06-27 18:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Lacroix, Nmecha, Araujo, Greenwood, Ter Stegen. Chelsea close in on Crystal Palace centre-back Maxence Lacroix, Newcastle United add Borussia Dortmund midfielder Felix Nmecha to their shortlist, while three Premier League clubs are chasing Uruguay left-back Maxi Araujo. Relevance to standings and momentum.
+Chelsea in talks to sign Sunderland's Granit Xhaka. Sunderland say experienced midfielder Granit Xhaka is not for sale amid reports Chelsea have entered talks over a move. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,10 +107,58 @@ Football gossip: Lacroix, Nmecha, Araujo, Greenwood, Ter Stegen. Chelsea close i
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Lacroix, Nmecha, Araujo, Greenwood, Ter Stegen. https://www.bbc.co.uk/sport/football/articles/c6210jyj0n6o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Chelsea in talks to sign Sunderland's Granit Xhaka. https://www.bbc.co.uk/sport/football/articles/c9d299g6wq6o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Cody Gakpo: Liverpool and Netherlands striker announces unborn baby loss
+**Slug (lower-third):** Cody Gakpo: Liverpool and Netherlands striker announces u…  
+**When:** 2026-06-27 13:02 (America/Winnipeg)  •  **Published:** 2026-06-27 18:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Cody Gakpo: Liverpool and Netherlands striker announces unborn baby loss. Noa van der Bij, the partner of Liverpool and Netherlands forward Cody Gakpo, announces the pair have lost their unborn son. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Cody Gakpo: Liverpool and Netherlands striker announces unborn baby loss. https://www.bbc.co.uk/sport/football/articles/ce37zz21e98o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Align The Stars wins Northumberland Plate at Newcastle for trainer Charlie Johnston
+**Slug (lower-third):** Align The Stars wins Northumberland Plate at Newcastle fo…  
+**When:** 2026-06-27 12:26 (America/Winnipeg)  •  **Published:** 2026-06-27 17:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Align The Stars wins Northumberland Plate at Newcastle for trainer Charlie Johnston. Charlie Johnston added another coveted handicap prize to his haul as Align The Stars stays on strongly to land the Northumberland Plate on an action-packed day at Newcastle. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Align The Stars wins Northumberland Plate at Newcastle for trainer Charlie Johnston. https://www.skysports.com/racing/news/12040/13558365/align-the-stars-wins-northumberland-plate-at-newcastle-for-trainer-charlie-johnston
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
