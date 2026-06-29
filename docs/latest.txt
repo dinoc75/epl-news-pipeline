@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-29 06:02 (America/Winnipeg)  |  2026-06-29 11:02 (UTC)
-**Stories in this rundown:** 6  |  **Style:** conversational broadcast
+**Generated:** 2026-06-29 10:50 (America/Winnipeg)  |  2026-06-29 15:50 (UTC)
+**Stories in this rundown:** 8  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 19s
+**Estimated total video length:** ~3m 54s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Liverpool transfer news: Bradley Barcola among alternative targets with PSG in talks to sign Yan Diomande
-- Ben Godfrey: Rangers sign ex-Everton defender on season-long loan from Atalanta
-- World Cup 2026: How the new Brazil is taking shape and why Matheus Cunha is key
+- Enzo Maresca: Succeeding Pep Guardiola at Man City is 'ultimate test' for Italian boss at club who 'will only accept winning'
+- Enzo Maresca: Former Chelsea boss apologises for Stamford Bridge exit and will pay compensation as Man City confirm appointment
+- Follow Pep and find scoring options: Maresca's Manchester City in-tray
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Liverpool transfer news: Bradley Barcola among alternative targets with PSG in talks to sign Yan Diomande
-**Slug (lower-third):** Liverpool transfer news: Bradley Barcola among alternativ…  
-**When:** 2026-06-29 06:12 (America/Winnipeg)  •  **Published:** 2026-06-29 11:12 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 1: Enzo Maresca: Former Chelsea boss apologises for Stamford Bridge exit and will pay compensation as Man City confirm appointment
+**Slug (lower-third):** Enzo Maresca: Former Chelsea boss apologises for Stamford…  
+**When:** 2026-06-29 10:22 (America/Winnipeg)  •  **Published:** 2026-06-29 15:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Liverpool transfer news: Bradley Barcola among alternative targets with PSG in talks to sign Yan Diomande. Liverpool target Yan Diomande has indicated his desire to join Paris Saint-Germain; PSG winger Bradley Barcola features highly among options Reds are considering as an alternative; Barcolas PSG future is uncertain due to frustrations about being overlooked for selection in big games Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Enzo Maresca: Former Chelsea boss apologises for Stamford Bridge exit and will pay compensation as Man City confirm appointment. Former Chelsea boss Enzo Maresca has apologised for the disruption his exit from Stamford Bridge caused; Man City confirmed his appointment on Monday; both the club and Maresca will pay Chelsea compensation after they said his exit was a major factor in their disappointing season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Liverpool transfer news: Bradley Barcola among alternative targets with PSG in t
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Liverpool transfer news: Bradley Barcola among alternative targets with PSG in talks to sign Yan Diomande. https://www.skysports.com/football/news/12040/13558837/liverpool-transfer-news-bradley-barcola-among-alternative-targets-with-psg-in-talks-to-sign-yan-diomande
+- skysports.com — Enzo Maresca: Former Chelsea boss apologises for Stamford Bridge exit and will pay compensation as Man City confirm appointment. https://www.skysports.com/football/news/12040/13558915/enzo-maresca-former-chelsea-boss-apologises-for-stamford-bridge-exit-and-will-pay-compensation-as-man-city-confirm-appointment
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Liverpool transfer news: Bradley Barcola among alternative targets with PSG in t
 
 ---
 
-## Story 2: Ben Godfrey: Rangers sign ex-Everton defender on season-long loan from Atalanta
-**Slug (lower-third):** Ben Godfrey: Rangers sign ex-Everton defender on season-l…  
-**When:** 2026-06-29 05:00 (America/Winnipeg)  •  **Published:** 2026-06-29 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+## Story 2: Follow Pep and find scoring options: Maresca's Manchester City in-tray
+**Slug (lower-third):** Follow Pep and find scoring options: Maresca's Manchester…  
+**When:** 2026-06-29 10:00 (America/Winnipeg)  •  **Published:** 2026-06-29 15:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ben Godfrey: Rangers sign ex-Everton defender on season-long loan from Atalanta. Rangers sign defender Ben Godfrey from Atalanta on a season-long loan; deal includes an option to make the move permanent next summer; ex-Everton defender becomes Rangers third summer signing after the arrivals of Lawrence Shankland and Ross McCrorie Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Follow Pep and find scoring options: Maresca's Manchester City in-tray. New manager Enzo Maresca needs to gain true backing from Manchester City hierarchy by stepping out from Pep Guardiola's shadow Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,55 @@ Ben Godfrey: Rangers sign ex-Everton defender on season-long loan from Atalanta.
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ben Godfrey: Rangers sign ex-Everton defender on season-long loan from Atalanta. https://www.skysports.com/football/news/12040/13558797/ben-godfrey-rangers-sign-ex-everton-defender-on-season-long-loan-from-atalanta
+- theguardian.com — Follow Pep and find scoring options: Maresca's Manchester City in-tray. https://www.theguardian.com/football/2026/jun/29/follow-pep-and-find-scoring-options-marescas-manchester-city-in-tray
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Scotland next manager: Harsh reality behind calls for David Moyes & Ange Postecoglou
+**Slug (lower-third):** Scotland next manager: Harsh reality behind calls for Dav…  
+**When:** 2026-06-29 09:31 (America/Winnipeg)  •  **Published:** 2026-06-29 14:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Scotland next manager: Harsh reality behind calls for David Moyes & Ange Postecoglou. Some Scotland fans are dreaming of David Moyes or Ange Postecoglou replacing Steve Clarke, but could either man be a realistic prospect? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Scotland next manager: Harsh reality behind calls for David Moyes & Ange Postecoglou. https://www.bbc.co.uk/sport/football/articles/ce8kew413jjo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Gary Neville reacts to Man City's Enzo Maresca appointment - 'He has to become a champion!'
+**Slug (lower-third):** Gary Neville reacts to Man City's Enzo Maresca appointmen…  
+**When:** 2026-06-29 09:11 (America/Winnipeg)  •  **Published:** 2026-06-29 14:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Gary Neville reacts to Man City's Enzo Maresca appointment - 'He has to become a champion!'. Gary Neville reacts to Man Citys Enzo Maresca appointment. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Gary Neville reacts to Man City's Enzo Maresca appointment - 'He has to become a champion!'. https://www.skysports.com/watch/video/13558920/gary-neville-reacts-to-man-citys-enzo-maresca-appointment-he-has-to-become-a-champion
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,10 +114,10 @@ Ben Godfrey: Rangers sign ex-Everton defender on season-long loan from Atalanta.
 
 ### Injuries
 
-## Story 3: Manchester United's Manuel Ugarte set for spell on sidelines with knee injury
+## Story 5: Manchester United's Manuel Ugarte set for spell on sidelines with knee injury
 **Slug (lower-third):** Manchester United's Manuel Ugarte set for spell on sideli…  
 **When:** 2026-06-28 15:56 (America/Winnipeg)  •  **Published:** 2026-06-28 20:56 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+**Virality score:** 77  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester United's Manuel Ugarte set for spell on sidelines with knee injury. 25-year-old midfielder faces extended period on sidelines after sustaining injury during Uruguay's World Cup clash against Spain Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
@@ -92,10 +140,58 @@ Manchester United's Manuel Ugarte set for spell on sidelines with knee injury. 2
 
 ### Club Updates
 
-## Story 4: World Cup 2026: How the new Brazil is taking shape and why Matheus Cunha is key
+## Story 6: Enzo Maresca: Succeeding Pep Guardiola at Man City is 'ultimate test' for Italian boss at club who 'will only accept winning'
+**Slug (lower-third):** Enzo Maresca: Succeeding Pep Guardiola at Man City is 'ul…  
+**When:** 2026-06-29 11:30 (America/Winnipeg)  •  **Published:** 2026-06-29 16:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Enzo Maresca: Succeeding Pep Guardiola at Man City is 'ultimate test' for Italian boss at club who 'will only accept winning'. Gary Neville on the demands placed on Enzo Maresca at Manchester City: Nothing less than winning is going to be accepted at Man City... Hes obviously had a really good upbringing in terms of his coaching journey, but this is the ultimate task Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Enzo Maresca: Succeeding Pep Guardiola at Man City is 'ultimate test' for Italian boss at club who 'will only accept winning'. https://www.skysports.com/football/news/12040/13558940/enzo-maresca-succeeding-pep-guardiola-at-man-city-is-ultimate-test-for-italian-boss-at-club-who-will-only-accept-winning
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Sam Kerr: Gotham FC sign former Chelsea striker
+**Slug (lower-third):** Sam Kerr: Gotham FC sign former Chelsea striker  
+**When:** 2026-06-29 09:25 (America/Winnipeg)  •  **Published:** 2026-06-29 14:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Sam Kerr: Gotham FC sign former Chelsea striker. Australian international Sam Kerr has joined Gotham FC on a four-year deal following her departure from Chelsea. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Sam Kerr: Gotham FC sign former Chelsea striker. https://www.bbc.co.uk/sport/football/articles/ckg5n027vrgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: World Cup 2026: How the new Brazil is taking shape and why Matheus Cunha is key
 **Slug (lower-third):** World Cup 2026: How the new Brazil is taking shape and wh…  
 **When:** 2026-06-29 02:03 (America/Winnipeg)  •  **Published:** 2026-06-29 07:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 World Cup 2026: How the new Brazil is taking shape and why Matheus Cunha is key. Former Brazil midfielder Lucas Leiva explains why Manchester United striker Matheus Cunha is so important to Brazil's adaptable system under Carlo Ancelotti. Relevance to standings and momentum.
@@ -108,54 +204,6 @@ World Cup 2026: How the new Brazil is taking shape and why Matheus Cunha is key.
 
 ### Sources
 - bbc.co.uk — World Cup 2026: How the new Brazil is taking shape and why Matheus Cunha is key. https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Nations Championship: Steve Borthwick's England under pressure ahead of tough South Africa, Argentina Tests | Depleted Ireland seek Eden Park history
-**Slug (lower-third):** Nations Championship: Steve Borthwick's England under pre…  
-**When:** 2026-06-29 01:00 (America/Winnipeg)  •  **Published:** 2026-06-29 06:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Nations Championship: Steve Borthwick's England under pressure ahead of tough South Africa, Argentina Tests | Depleted Ireland seek Eden Park history. Rugbys first Nations Championship clicks into gear this summer in New Zealand, South Africa, Australia, Argentina; England under mighty pressure to perform; Ireland depleted but have shot at Eden Park history; Can Scotland improve dreadful travelling record? Will Wales keep improving? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Nations Championship: Steve Borthwick's England under pressure ahead of tough South Africa, Argentina Tests | Depleted Ireland seek Eden Park history. https://www.skysports.com/rugby-union/news/12040/13558222/nations-championship-steve-borthwicks-england-under-pressure-ahead-of-tough-south-africa-argentina-tests-depleted-ireland-seek-eden-park-history
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Football gossip: Diomande, Mount, Jones, Monga, Akliouche, Martinez, Suzuki, Xhaka
-**Slug (lower-third):** Football gossip: Diomande, Mount, Jones, Monga, Akliouche…  
-**When:** 2026-06-28 15:49 (America/Winnipeg)  •  **Published:** 2026-06-28 20:49 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Diomande, Mount, Jones, Monga, Akliouche, Martinez, Suzuki, Xhaka. Yan Diomande picks Paris St-Germain over Liverpool, Ruben Amorim wants Mason Mount at AC Milan, Nottingham Forest eye Curtis Jones, Jeremy Monga in Arsenal's sights and Aston Villa battle Leeds for Zion Suzuki. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football gossip: Diomande, Mount, Jones, Monga, Akliouche, Martinez, Suzuki, Xhaka. https://www.bbc.co.uk/sport/football/articles/cqx1yjnxng2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
