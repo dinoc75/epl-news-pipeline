@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-30 04:39 (America/Winnipeg)  |  2026-06-30 09:39 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2026-06-30 09:22 (America/Winnipeg)  |  2026-06-30 14:22 (UTC)
+**Stories in this rundown:** 6  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 00s
+**Estimated total video length:** ~2m 00s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- World Cup 2026: Wayne Rooney would start Kobbie Mainoo against DR Congo
-- World Cup 2026: How many goals have players from Premier League clubs scored?
-- Today on Sky Sports Racing: Brighton and Ffos Las host live action
+- Christian Fuchs: Former Leicester City defender smashes six into river on cricket debut
+- Bruno Guimaraes: Arsenal target Brazil midfielder - can Newcastle keep him?
+- Football gossip: Kane, Mount, Nmecha, Olise, Diomande
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Enzo Maresca appointed Manchester City head coach: Why the Italian has replaced Pep Guardiola
-**Slug (lower-third):** Enzo Maresca appointed Manchester City head coach: Why th…  
-**When:** 2026-06-29 11:20 (America/Winnipeg)  •  **Published:** 2026-06-29 16:20 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
+## Story 1: Christian Fuchs: Former Leicester City defender smashes six into river on cricket debut
+**Slug (lower-third):** Christian Fuchs: Former Leicester City defender smashes s…  
+**When:** 2026-06-30 08:07 (America/Winnipeg)  •  **Published:** 2026-06-30 13:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Enzo Maresca appointed Manchester City head coach: Why the Italian has replaced Pep Guardiola. Pep Guardiola passes the baton on to Enzo Maresca, but why have Manchester City chosen the Italian as the Spaniard's replacement? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Christian Fuchs: Former Leicester City defender smashes six into river on cricket debut. Just a day after resigning as Newport County head coach, Christian Fuchs blows a kiss to a bowler after hitting him for six while making his cricket debut for Derbyshire village side Grindleford. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,10 +31,10 @@ Enzo Maresca appointed Manchester City head coach: Why the Italian has replaced 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Enzo Maresca appointed Manchester City head coach: Why the Italian has replaced Pep Guardiola. https://www.bbc.co.uk/sport/football/articles/c2k248wwk74o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Christian Fuchs: Former Leicester City defender smashes six into river on cricket debut. https://www.bbc.co.uk/sport/articles/cr475x3wplro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -44,8 +44,8 @@ Enzo Maresca appointed Manchester City head coach: Why the Italian has replaced 
 
 ## Story 2: Football gossip: Kane, Mount, Nmecha, Olise, Diomande
 **Slug (lower-third):** Football gossip: Kane, Mount, Nmecha, Olise, Diomande  
-**When:** 2026-06-29 17:18 (America/Winnipeg)  •  **Published:** 2026-06-29 22:18 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+**When:** 2026-06-30 05:23 (America/Winnipeg)  •  **Published:** 2026-06-30 10:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Kane, Mount, Nmecha, Olise, Diomande. Harry Kane will extend his Bayern Munich contract, Manchester City plan major rebuild and Dortmund's Felix Nmecha prefers Manchester United to Newcastle. Implications for the squad and table.
@@ -68,10 +68,34 @@ Football gossip: Kane, Mount, Nmecha, Olise, Diomande. Harry Kane will extend hi
 
 ### Club Updates
 
-## Story 3: World Cup 2026: Wayne Rooney would start Kobbie Mainoo against DR Congo
+## Story 3: Bruno Guimaraes: Arsenal target Brazil midfielder - can Newcastle keep him?
+**Slug (lower-third):** Bruno Guimaraes: Arsenal target Brazil midfielder - can N…  
+**When:** 2026-06-30 06:02 (America/Winnipeg)  •  **Published:** 2026-06-30 11:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Bruno Guimaraes: Arsenal target Brazil midfielder - can Newcastle keep him?. Bruno Guimaraes has been Newcastle United's leader, but Arsenal are lurking with intent and could soon try to prise him away. What happens next, and could he yet stay put? Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Bruno Guimaraes: Arsenal target Brazil midfielder - can Newcastle keep him?. https://www.bbc.co.uk/sport/football/articles/c5yz2d1zj2eo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: World Cup 2026: Wayne Rooney would start Kobbie Mainoo against DR Congo
 **Slug (lower-third):** World Cup 2026: Wayne Rooney would start Kobbie Mainoo ag…  
 **When:** 2026-06-30 03:06 (America/Winnipeg)  •  **Published:** 2026-06-30 08:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 World Cup 2026: Wayne Rooney would start Kobbie Mainoo against DR Congo. Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo. Relevance to standings and momentum.
@@ -92,34 +116,10 @@ World Cup 2026: Wayne Rooney would start Kobbie Mainoo against DR Congo. Former 
 
 ---
 
-## Story 4: World Cup 2026: How many goals have players from Premier League clubs scored?
-**Slug (lower-third):** World Cup 2026: How many goals have players from Premier …  
-**When:** 2026-06-30 02:45 (America/Winnipeg)  •  **Published:** 2026-06-30 07:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-World Cup 2026: How many goals have players from Premier League clubs scored?. Real Madrid and PSG lead the World Cup goal charts by club; Sunderland and Crystal Palace are surprise challengers ahead of Liverpool, Arsenal, Manchester United and Manchester City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — World Cup 2026: How many goals have players from Premier League clubs scored?. https://www.skysports.com/football/news/12040/13558909/world-cup-2026-how-many-goals-have-players-from-premier-league-clubs-scored
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 5: Today on Sky Sports Racing: Brighton and Ffos Las host live action
 **Slug (lower-third):** Today on Sky Sports Racing: Brighton and Ffos Las host li…  
 **When:** 2026-06-30 01:00 (America/Winnipeg)  •  **Published:** 2026-06-30 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Today on Sky Sports Racing: Brighton and Ffos Las host live action. The Sky Sports Racing cameras head to Brighton and Ffos Las on Tuesday - with 12 races scheduled from 2.43pm; King Of War faces Buy The Dip in Brightons feature contest over the mile Relevance to standings and momentum.
@@ -143,7 +143,7 @@ Today on Sky Sports Racing: Brighton and Ffos Las host live action. The Sky Spor
 ## Story 6: World Cup 2026: Cody Gakpo scores days after loss of unborn son
 **Slug (lower-third):** World Cup 2026: Cody Gakpo scores days after loss of unbo…  
 **When:** 2026-06-30 00:10 (America/Winnipeg)  •  **Published:** 2026-06-30 05:10 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 World Cup 2026: Cody Gakpo scores days after loss of unborn son. Liverpool forward Cody Gakpo scores for the Netherlands days after the loss of his unborn son, as they are knocked out on penalties by Morocco. Relevance to standings and momentum.
@@ -159,78 +159,6 @@ World Cup 2026: Cody Gakpo scores days after loss of unborn son. Liverpool forwa
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Fluency the key for Noni Madueke before England's 'difficult' DR Congo test
-**Slug (lower-third):** Fluency the key for Noni Madueke before England's 'diffic…  
-**When:** 2026-06-29 15:59 (America/Winnipeg)  •  **Published:** 2026-06-29 20:59 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Fluency the key for Noni Madueke before England's 'difficult' DR Congo test. Noni Madueke insists better execution of their gameplan will enable England to triumph against DR Congo, but he admits the team have been practising penalties Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Fluency the key for Noni Madueke before England's 'difficult' DR Congo test. https://www.theguardian.com/football/2026/jun/29/noni-madueke-england-democratic-republic-congo-world-cup-2026
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Noni Madueke reacts to Arsenal teammate Gabriel Martinelli's winning goal for Brazil vs Japan
-**Slug (lower-third):** Noni Madueke reacts to Arsenal teammate Gabriel Martinell…  
-**When:** 2026-06-29 15:32 (America/Winnipeg)  •  **Published:** 2026-06-29 20:32 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Noni Madueke reacts to Arsenal teammate Gabriel Martinelli's winning goal for Brazil vs Japan. Noni Madueke responds to Arsenal teammate Gabriel Martinellis winning goal for Brazil vs Japan in the round of 32 at the World Cup. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Noni Madueke reacts to Arsenal teammate Gabriel Martinelli's winning goal for Brazil vs Japan. https://www.skysports.com/watch/video/13559028/brazil-vs-japan-noni-madueke-reacts-to-arsenal-teammate-gabriel-martinellis-winning-goal
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Yan Diomande: Liverpool target prefers PSG move
-**Slug (lower-third):** Yan Diomande: Liverpool target prefers PSG move  
-**When:** 2026-06-29 12:41 (America/Winnipeg)  •  **Published:** 2026-06-29 17:41 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Yan Diomande: Liverpool target prefers PSG move. Liverpool target Yan Diomande would prefer to join Paris St-Germain, as the French club aim to agree a deal with RB Leipzig for the Ivory Coast winger. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Yan Diomande: Liverpool target prefers PSG move. https://www.bbc.co.uk/sport/football/articles/cy5v91kerr9o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
