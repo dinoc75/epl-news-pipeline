@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-06-30 09:22 (America/Winnipeg)  |  2026-06-30 14:22 (UTC)
-**Stories in this rundown:** 6  |  **Style:** conversational broadcast
+**Generated:** 2026-06-30 15:01 (America/Winnipeg)  |  2026-06-30 20:01 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 00s
+**Estimated total video length:** ~4m 39s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Christian Fuchs: Former Leicester City defender smashes six into river on cricket debut
-- Bruno Guimaraes: Arsenal target Brazil midfielder - can Newcastle keep him?
-- Football gossip: Kane, Mount, Nmecha, Olise, Diomande
+- Ivory Coast 1-2 Norway Highlights - World Cup 2026 - 30 June 2026
+- Aston Villa, Chelsea, Newcastle and Nottingham Forest fined by UEFA for breaching financial rules
+- World Cup 2026: Is the penalty stutter run-up that cost Germany and Netherlands at the end of its lifespan?
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Christian Fuchs: Former Leicester City defender smashes six into river on cricket debut
-**Slug (lower-third):** Christian Fuchs: Former Leicester City defender smashes s…  
-**When:** 2026-06-30 08:07 (America/Winnipeg)  •  **Published:** 2026-06-30 13:07 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Frank Lampard: Coventry City head coach signs new deal until 2029 ahead of Premier League return
+**Slug (lower-third):** Frank Lampard: Coventry City head coach signs new deal un…  
+**When:** 2026-06-30 13:40 (America/Winnipeg)  •  **Published:** 2026-06-30 18:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Christian Fuchs: Former Leicester City defender smashes six into river on cricket debut. Just a day after resigning as Newport County head coach, Christian Fuchs blows a kiss to a bowler after hitting him for six while making his cricket debut for Derbyshire village side Grindleford. Relevance to standings and momentum.
+Frank Lampard: Coventry City head coach signs new deal until 2029 ahead of Premier League return. Former Chelsea and England midfielder Frank Lampard has signed a deal with Coventry City; his new terms keep him at the club until 2029; Lampard led the Sky Blues to the Championship title last season and they will play in the Premier League for the first time in 25 years Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,31 @@ Christian Fuchs: Former Leicester City defender smashes six into river on cricke
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Christian Fuchs: Former Leicester City defender smashes six into river on cricket debut. https://www.bbc.co.uk/sport/articles/cr475x3wplro?at_medium=RSS&at_campaign=rss
+- skysports.com — Frank Lampard: Coventry City head coach signs new deal until 2029 ahead of Premier League return. https://www.skysports.com/football/news/12040/13559326/frank-lampard-coventry-city-head-coach-signs-new-deal-until-2029-ahead-of-premier-league-return
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Frank Lampard: Coventry boss signs new contract to 2029
+**Slug (lower-third):** Frank Lampard: Coventry boss signs new contract to 2029  
+**When:** 2026-06-30 12:17 (America/Winnipeg)  •  **Published:** 2026-06-30 17:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Frank Lampard: Coventry boss signs new contract to 2029. Coventry City manager Frank Lampard signs a new contract until 2029 before the club's first Premier League campaign in 25 years. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Frank Lampard: Coventry boss signs new contract to 2029. https://www.bbc.co.uk/sport/football/articles/c1wy5dlq051o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +66,13 @@ Christian Fuchs: Former Leicester City defender smashes six into river on cricke
 
 ### Transfers
 
-## Story 2: Football gossip: Kane, Mount, Nmecha, Olise, Diomande
-**Slug (lower-third):** Football gossip: Kane, Mount, Nmecha, Olise, Diomande  
-**When:** 2026-06-30 05:23 (America/Winnipeg)  •  **Published:** 2026-06-30 10:23 (UTC)  
+## Story 3: Brighton sign Leeds defender Pascal Struijk
+**Slug (lower-third):** Brighton sign Leeds defender Pascal Struijk  
+**When:** 2026-06-30 13:37 (America/Winnipeg)  •  **Published:** 2026-06-30 18:37 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Kane, Mount, Nmecha, Olise, Diomande. Harry Kane will extend his Bayern Munich contract, Manchester City plan major rebuild and Dortmund's Felix Nmecha prefers Manchester United to Newcastle. Implications for the squad and table.
+Brighton sign Leeds defender Pascal Struijk. Brighton sign Leeds United defender Pascal Struijk for an undisclosed fee understood to be about APS20m. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +81,34 @@ Football gossip: Kane, Mount, Nmecha, Olise, Diomande. Harry Kane will extend hi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Kane, Mount, Nmecha, Olise, Diomande. https://www.bbc.co.uk/sport/football/articles/cdjknmk894eo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Brighton sign Leeds defender Pascal Struijk. https://www.bbc.co.uk/sport/football/articles/c5yzg27xp00o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 4: Aston Villa, Chelsea, Newcastle and Nottingham Forest fined by UEFA for breaching financial rules
+**Slug (lower-third):** Aston Villa, Chelsea, Newcastle and Nottingham Forest fin…  
+**When:** 2026-06-30 14:26 (America/Winnipeg)  •  **Published:** 2026-06-30 19:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Aston Villa, Chelsea, Newcastle and Nottingham Forest fined by UEFA for breaching financial rules. Aston Villa, Chelsea, Newcastle and Nottingham Forest have been fined for breaches of UEFAs financial rules; all four Premier League clubs fell foul of UEFAs squad cost rule, while Newcastle also failed to comply with the football earnings rule Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Aston Villa, Chelsea, Newcastle and Nottingham Forest fined by UEFA for breaching financial rules. https://www.skysports.com/football/news/12040/13559340/aston-villa-chelsea-newcastle-and-nottingham-forest-fined-by-uefa-for-breaching-financial-rules
+- bbc.co.uk — Aston Villa fined APS19.4m by Uefa for breaching squad-cost rules. https://www.bbc.co.uk/sport/football/articles/c5yzr4geggro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +119,13 @@ Football gossip: Kane, Mount, Nmecha, Olise, Diomande. Harry Kane will extend hi
 
 ### Club Updates
 
-## Story 3: Bruno Guimaraes: Arsenal target Brazil midfielder - can Newcastle keep him?
-**Slug (lower-third):** Bruno Guimaraes: Arsenal target Brazil midfielder - can N…  
-**When:** 2026-06-30 06:02 (America/Winnipeg)  •  **Published:** 2026-06-30 11:02 (UTC)  
+## Story 5: Ivory Coast 1-2 Norway Highlights - World Cup 2026 - 30 June 2026
+**Slug (lower-third):** Ivory Coast 1-2 Norway Highlights - World Cup 2026 - 30 J…  
+**When:** 2026-06-30 14:40 (America/Winnipeg)  •  **Published:** 2026-06-30 19:40 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bruno Guimaraes: Arsenal target Brazil midfielder - can Newcastle keep him?. Bruno Guimaraes has been Newcastle United's leader, but Arsenal are lurking with intent and could soon try to prise him away. What happens next, and could he yet stay put? Relevance to standings and momentum.
+Ivory Coast 1-2 Norway Highlights - World Cup 2026 - 30 June 2026. Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +134,7 @@ Bruno Guimaraes: Arsenal target Brazil midfielder - can Newcastle keep him?. Bru
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Bruno Guimaraes: Arsenal target Brazil midfielder - can Newcastle keep him?. https://www.bbc.co.uk/sport/football/articles/c5yz2d1zj2eo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Ivory Coast 1-2 Norway Highlights - World Cup 2026 - 30 June 2026. https://www.bbc.co.uk/sport/football/videos/c2ky8qk2gl9o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +143,13 @@ Bruno Guimaraes: Arsenal target Brazil midfielder - can Newcastle keep him?. Bru
 
 ---
 
-## Story 4: World Cup 2026: Wayne Rooney would start Kobbie Mainoo against DR Congo
-**Slug (lower-third):** World Cup 2026: Wayne Rooney would start Kobbie Mainoo ag…  
-**When:** 2026-06-30 03:06 (America/Winnipeg)  •  **Published:** 2026-06-30 08:06 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 6: World Cup 2026: Is the penalty stutter run-up that cost Germany and Netherlands at the end of its lifespan?
+**Slug (lower-third):** World Cup 2026: Is the penalty stutter run-up that cost G…  
+**When:** 2026-06-30 14:20 (America/Winnipeg)  •  **Published:** 2026-06-30 19:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-World Cup 2026: Wayne Rooney would start Kobbie Mainoo against DR Congo. Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo. Relevance to standings and momentum.
+World Cup 2026: Is the penalty stutter run-up that cost Germany and Netherlands at the end of its lifespan?. Stuttered penalty run-ups have given players a boost of up to 10 per cent in the Premier League - but less than half of those using the technique have been converted during the 2026 World Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +158,7 @@ World Cup 2026: Wayne Rooney would start Kobbie Mainoo against DR Congo. Former 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — World Cup 2026: Wayne Rooney would start Kobbie Mainoo against DR Congo. https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss
+- skysports.com — World Cup 2026: Is the penalty stutter run-up that cost Germany and Netherlands at the end of its lifespan?. https://www.skysports.com/football/news/12040/13559248/world-cup-2026-is-the-penalty-stutter-run-up-that-cost-germany-and-netherlands-at-the-end-of-its-lifespan
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +167,13 @@ World Cup 2026: Wayne Rooney would start Kobbie Mainoo against DR Congo. Former 
 
 ---
 
-## Story 5: Today on Sky Sports Racing: Brighton and Ffos Las host live action
-**Slug (lower-third):** Today on Sky Sports Racing: Brighton and Ffos Las host li…  
-**When:** 2026-06-30 01:00 (America/Winnipeg)  •  **Published:** 2026-06-30 06:00 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 7: 'It's going to be tough': Declan Rice ready for DR Congo challenge in last 32
+**Slug (lower-third):** 'It's going to be tough': Declan Rice ready for DR Congo …  
+**When:** 2026-06-30 13:00 (America/Winnipeg)  •  **Published:** 2026-06-30 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Brighton and Ffos Las host live action. The Sky Sports Racing cameras head to Brighton and Ffos Las on Tuesday - with 12 races scheduled from 2.43pm; King Of War faces Buy The Dip in Brightons feature contest over the mile Relevance to standings and momentum.
+'It's going to be tough': Declan Rice ready for DR Congo challenge in last 32. The England midfielder's experience with Arsenal last season taught him the need to be patient against teams unwilling to attack, he tells David Hytner Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +182,7 @@ Today on Sky Sports Racing: Brighton and Ffos Las host live action. The Sky Spor
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Brighton and Ffos Las host live action. https://www.skysports.com/racing/news/12040/13558535/today-on-sky-sports-racing-brighton-and-ffos-las-host-live-action
+- theguardian.com — 'It's going to be tough': Declan Rice ready for DR Congo challenge in last 32. https://www.theguardian.com/football/2026/jun/30/declan-rice-england-dr-congo-world-cup-2026
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +191,13 @@ Today on Sky Sports Racing: Brighton and Ffos Las host live action. The Sky Spor
 
 ---
 
-## Story 6: World Cup 2026: Cody Gakpo scores days after loss of unborn son
-**Slug (lower-third):** World Cup 2026: Cody Gakpo scores days after loss of unbo…  
-**When:** 2026-06-30 00:10 (America/Winnipeg)  •  **Published:** 2026-06-30 05:10 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 8: Tottenham win race to sign West Ham's Mateus Fernandes for club record PS85m
+**Slug (lower-third):** Tottenham win race to sign West Ham's Mateus Fernandes fo…  
+**When:** 2026-06-30 12:51 (America/Winnipeg)  •  **Published:** 2026-06-30 17:51 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-World Cup 2026: Cody Gakpo scores days after loss of unborn son. Liverpool forward Cody Gakpo scores for the Netherlands days after the loss of his unborn son, as they are knocked out on penalties by Morocco. Relevance to standings and momentum.
+Tottenham win race to sign West Ham's Mateus Fernandes for club record PS85m. Tottenham have beaten Manchester United to the signing of the Portuguese midfielder, who is due to have a medical before completion of the deal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +206,55 @@ World Cup 2026: Cody Gakpo scores days after loss of unborn son. Liverpool forwa
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — World Cup 2026: Cody Gakpo scores days after loss of unborn son. https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Tottenham win race to sign West Ham's Mateus Fernandes for club record PS85m. https://www.theguardian.com/football/2026/jun/30/tottenham-west-ham-mateus-fernandes-club-record-85m-manchester-united-transfers
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Mateus Fernandes: Tottenham agree APS85m deal for West Ham midfielder
+**Slug (lower-third):** Mateus Fernandes: Tottenham agree APS85m deal for West Ha…  
+**When:** 2026-06-30 12:43 (America/Winnipeg)  •  **Published:** 2026-06-30 17:43 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Mateus Fernandes: Tottenham agree APS85m deal for West Ham midfielder. Tottenham agree a deal to sign West Ham's Mateus Fernandes as Manchester United pull out of the race for midfielder. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Mateus Fernandes: Tottenham agree APS85m deal for West Ham midfielder. https://www.bbc.co.uk/sport/football/articles/c6210xn3x14o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Bradley Barcola: Arsenal consider PSG forward as alternative to Morgan Rogers
+**Slug (lower-third):** Bradley Barcola: Arsenal consider PSG forward as alternat…  
+**When:** 2026-06-30 12:13 (America/Winnipeg)  •  **Published:** 2026-06-30 17:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Bradley Barcola: Arsenal consider PSG forward as alternative to Morgan Rogers. Arsenal are expected to step up their interest in Paris Saint-Germain's Bradley Barcola this week after receiving encouragement that the forward could be available this summer. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Bradley Barcola: Arsenal consider PSG forward as alternative to Morgan Rogers. https://www.bbc.co.uk/sport/football/articles/ckg48ek273yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
