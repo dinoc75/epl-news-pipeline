@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-07 04:44 (America/Winnipeg)  |  2026-07-07 09:44 (UTC)
+**Generated:** 2026-07-07 09:38 (America/Winnipeg)  |  2026-07-07 14:38 (UTC)
 **Stories in this rundown:** 5  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 42s
+**Estimated total video length:** ~2m 52s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
+- Nations Championship: England call up Emmanuel Iyogun and Chandler Cunningham-South to replace injured Cadan Murley, Beno Obano
 - Cristiano Ronaldo's best skills & showboats for Manchester United
 - Liam Rosenior: Former Chelsea manager named Paris FC manager
-- Newcastle transfer news: Club closing in on signing of Ajax midfielder Sean Steur
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Liam Rosenior: Former Chelsea manager named Paris FC manager
 **Slug (lower-third):** Liam Rosenior: Former Chelsea manager named Paris FC mana…  
 **When:** 2026-07-07 03:58 (America/Winnipeg)  •  **Published:** 2026-07-07 08:58 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Liam Rosenior: Former Chelsea manager named Paris FC manager. Liam Rosenior is back in football management with Ligue 1 club Paris FC after being sacked by Chelsea in April. Relevance to standings and momentum.
@@ -45,7 +45,7 @@ Liam Rosenior: Former Chelsea manager named Paris FC manager. Liam Rosenior is b
 ## Story 2: Newcastle transfer news: Club closing in on signing of Ajax midfielder Sean Steur
 **Slug (lower-third):** Newcastle transfer news: Club closing in on signing of Aj…  
 **When:** 2026-07-07 03:34 (America/Winnipeg)  •  **Published:** 2026-07-07 08:34 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Newcastle transfer news: Club closing in on signing of Ajax midfielder Sean Steur. Newcastle United are closing in on the signing of 18-year-old Ajax midfielder Sean Steur. Implications for the squad and table.
@@ -66,13 +66,15 @@ Newcastle transfer news: Club closing in on signing of Ajax midfielder Sean Steu
 
 ---
 
-## Story 3: Sandro Tonali seals PS92.5m move to Tottenham on back of 'magic' sales pitch
-**Slug (lower-third):** Sandro Tonali seals PS92.5m move to Tottenham on back of …  
-**When:** 2026-07-06 06:46 (America/Winnipeg)  •  **Published:** 2026-07-06 11:46 (UTC)  
-**Virality score:** 72  •  **Estimated runtime:** ~20s
+### Injuries
+
+## Story 3: Nations Championship: England call up Emmanuel Iyogun and Chandler Cunningham-South to replace injured Cadan Murley, Beno Obano
+**Slug (lower-third):** Nations Championship: England call up Emmanuel Iyogun and…  
+**When:** 2026-07-07 05:12 (America/Winnipeg)  •  **Published:** 2026-07-07 10:12 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Sandro Tonali seals PS92.5m move to Tottenham on back of 'magic' sales pitch. Sandro Tonali has completed a record-breaking transfer to Tottenham from Newcastle for an initial PS92.5m Implications for the squad and table.
+Nations Championship: England call up Emmanuel Iyogun and Chandler Cunningham-South to replace injured Cadan Murley, Beno Obano. England are facing a back-three selection headache after Cadan Murley was ruled out of the Nations Championship clash against Fiji with injury; Beno Obano also misses out after having returned to the squad for the first time since 2023; England play Fiji on Saturday July 11 in Liverpool Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,10 +83,10 @@ Sandro Tonali seals PS92.5m move to Tottenham on back of 'magic' sales pitch. Sa
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Sandro Tonali seals PS92.5m move to Tottenham on back of 'magic' sales pitch. https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-move-to-tottenham-newcastle-transfer-window
+- skysports.com — Nations Championship: England call up Emmanuel Iyogun and Chandler Cunningham-South to replace injured Cadan Murley, Beno Obano. https://www.skysports.com/rugby-union/news/12040/13561218/nations-championship-england-call-up-emmanuel-iyogun-and-chandler-cunningham-south-to-replace-injured-cadan-murley-beno-obano
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -95,7 +97,7 @@ Sandro Tonali seals PS92.5m move to Tottenham on back of 'magic' sales pitch. Sa
 ## Story 4: Cristiano Ronaldo's best skills & showboats for Manchester United
 **Slug (lower-third):** Cristiano Ronaldo's best skills & showboats for Mancheste…  
 **When:** 2026-07-07 05:06 (America/Winnipeg)  •  **Published:** 2026-07-07 10:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Cristiano Ronaldo's best skills & showboats for Manchester United. We look back at Cristiano Ronaldos most outrageous flicks and tricks from his spells in the Premier League with Manchester United. Relevance to standings and momentum.
@@ -119,7 +121,7 @@ Cristiano Ronaldo's best skills & showboats for Manchester United. We look back 
 ## Story 5: Today on Sky Sports Racing: Brighton, Wolverhampton and Uttoxeter
 **Slug (lower-third):** Today on Sky Sports Racing: Brighton, Wolverhampton and U…  
 **When:** 2026-07-07 02:00 (America/Winnipeg)  •  **Published:** 2026-07-07 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
+**Virality score:** 94  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
 Today on Sky Sports Racing: Brighton, Wolverhampton and Uttoxeter. In today's feature, Dan and Harry Skelton will attempt to make it four on the bounce with the ultra-progressive Sunray Shadow who takes on a host of in-form rivals at Uttoxeter. We also have competitive action from Brighton and Wolverhampton, live on Sky Sports Racing from 1.30pm Relevance to standings and momentum.
