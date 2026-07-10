@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-10 04:37 (America/Winnipeg)  |  2026-07-10 09:37 (UTC)
-**Stories in this rundown:** 8  |  **Style:** conversational broadcast
+**Generated:** 2026-07-10 09:29 (America/Winnipeg)  |  2026-07-10 14:29 (UTC)
+**Stories in this rundown:** 6  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 08s
+**Estimated total video length:** ~2m 14s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Rugby Football League: Ian Nolan appointed new chief executive
-- World Cup 2026: England defender Marc Guehi a serious doubt for quarter-final clash with Norway
-- Jeremy Monga: How good is potential Man City signing and what role could he play?
+- Liverpool latest: Michael Edwards leaves as chief executive officer of football for Fenway Sports Group
+- Rafa Benitez: Ex-Liverpool & Real Madrid boss reveals stance on Scotland amid search for Steve Clarke's successor
+- Arsenal: Former Man Utd defender Ona Batlle joins Gunners on a permanent deal from Barcelona
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Rugby Football League: Ian Nolan appointed new chief executive
 **Slug (lower-third):** Rugby Football League: Ian Nolan appointed new chief exec…  
 **When:** 2026-07-10 05:00 (America/Winnipeg)  •  **Published:** 2026-07-10 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+**Virality score:** 99  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 Rugby Football League: Ian Nolan appointed new chief executive. Former Manchester United executive Ian Nolan will take over the RFLs new CEO; Sky Sports will show every game of the Super League live this season, including two matches each round exclusively live Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -42,13 +42,13 @@ Rugby Football League: Ian Nolan appointed new chief executive. Former Mancheste
 
 ### Transfers
 
-## Story 2: World Cup 2026: EU lawmakers call for formal investigation into Folarin Balogun 'scandal' - Paper Talk
-**Slug (lower-third):** World Cup 2026: EU lawmakers call for formal investigatio…  
-**When:** 2026-07-09 18:00 (America/Winnipeg)  •  **Published:** 2026-07-09 23:00 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~28s
+## Story 2: Arsenal: Former Man Utd defender Ona Batlle joins Gunners on a permanent deal from Barcelona
+**Slug (lower-third):** Arsenal: Former Man Utd defender Ona Batlle joins Gunners…  
+**When:** 2026-07-10 07:00 (America/Winnipeg)  •  **Published:** 2026-07-10 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-World Cup 2026: EU lawmakers call for formal investigation into Folarin Balogun 'scandal' - Paper Talk. Plus: Englands Anthony Gordon says he took Mexico boss Javier Aguirres foul-mouthed rant as a compliment; Arsenal expected to test Newcastles resolve with a first official bid for Bruno Guimaraes; Lamine Yamal says he hopes to see Julian Alvarez complete a transfer to Barcelona Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Arsenal: Former Man Utd defender Ona Batlle joins Gunners on a permanent deal from Barcelona. Ona Batlle re-joined Barcelona in 2023 following a spell with Manchester United; World Cup winner signs permanent deal with Arsenal, came second in last seasons WSL behind runaway champions Manchester City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,31 @@ World Cup 2026: EU lawmakers call for formal investigation into Folarin Balogun 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — World Cup 2026: EU lawmakers call for formal investigation into Folarin Balogun 'scandal' - Paper Talk. https://www.skysports.com/football/news/12040/13562130/x-paper-talk
+- skysports.com — Arsenal: Former Man Utd defender Ona Batlle joins Gunners on a permanent deal from Barcelona. https://www.skysports.com/football/news/12040/13562080/arsenal-former-man-utd-defender-ona-batlle-joins-gunners-on-a-permanent-deal-from-barcelona
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Ona Batlle transfer news: Arsenal sign Spain defender on long-term contract
+**Slug (lower-third):** Ona Batlle transfer news: Arsenal sign Spain defender on …  
+**When:** 2026-07-10 06:01 (America/Winnipeg)  •  **Published:** 2026-07-10 11:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ona Batlle transfer news: Arsenal sign Spain defender on long-term contract. Arsenal sign Spain international Ona Batlle on a free transfer following her exit from Barcelona. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Ona Batlle transfer news: Arsenal sign Spain defender on long-term contract. https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +92,13 @@ World Cup 2026: EU lawmakers call for formal investigation into Folarin Balogun 
 
 ### Injuries
 
-## Story 3: World Cup 2026: England defender Marc Guehi a serious doubt for quarter-final clash with Norway
-**Slug (lower-third):** World Cup 2026: England defender Marc Guehi a serious dou…  
-**When:** 2026-07-10 02:20 (America/Winnipeg)  •  **Published:** 2026-07-10 07:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+## Story 4: Rafa Benitez: Ex-Liverpool & Real Madrid boss reveals stance on Scotland amid search for Steve Clarke's successor
+**Slug (lower-third):** Rafa Benitez: Ex-Liverpool & Real Madrid boss reveals sta…  
+**When:** 2026-07-10 08:00 (America/Winnipeg)  •  **Published:** 2026-07-10 13:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-World Cup 2026: England defender Marc Guehi a serious doubt for quarter-final clash with Norway. Marc Guehi a doubt for England's World Cup quarter-final on Saturday against Norway; The Man City defender is battling a hamstring strain picked up in the win over Mexico; Guehi didnt take part in the final training session in Kansas City; Dan Burn is pushing to come into the side Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Rafa Benitez: Ex-Liverpool & Real Madrid boss reveals stance on Scotland amid search for Steve Clarke's successor. The 66-year-old is out of work since leaving Panathinaikos; Steve Clarke stepped down after Scotlands World Cup exit, following seven years in the job; Scotland return to action in the Nations League in September Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +107,7 @@ World Cup 2026: England defender Marc Guehi a serious doubt for quarter-final cl
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — World Cup 2026: England defender Marc Guehi a serious doubt for quarter-final clash with Norway. https://www.skysports.com/football/news/12040/13562168/world-cup-2026-england-defender-marc-guehi-a-serious-doubt-for-quarter-final-clash-with-norway
+- skysports.com — Rafa Benitez: Ex-Liverpool & Real Madrid boss reveals stance on Scotland amid search for Steve Clarke's successor. https://www.skysports.com/football/news/12040/13562284/rafa-benitez-ex-liverpool-real-madrid-boss-reveals-stance-on-scotland-amid-search-for-steve-clarkes-successor
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -94,13 +118,13 @@ World Cup 2026: England defender Marc Guehi a serious doubt for quarter-final cl
 
 ### Club Updates
 
-## Story 4: Jeremy Monga: How good is potential Man City signing and what role could he play?
-**Slug (lower-third):** Jeremy Monga: How good is potential Man City signing and …  
-**When:** 2026-07-10 01:06 (America/Winnipeg)  •  **Published:** 2026-07-10 06:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Liverpool latest: Michael Edwards leaves as chief executive officer of football for Fenway Sports Group
+**Slug (lower-third):** Liverpool latest: Michael Edwards leaves as chief executi…  
+**When:** 2026-07-10 09:25 (America/Winnipeg)  •  **Published:** 2026-07-10 14:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Jeremy Monga: How good is potential Man City signing and what role could he play?. Manchester City appear to have struck an early blow on Arsenal by agreeing a deal to sign teenage starlet Jeremy Monga from Leicester City. Relevance to standings and momentum.
+Liverpool latest: Michael Edwards leaves as chief executive officer of football for Fenway Sports Group. Michael Edwards spent over 15 years at Liverpool over two spells; he oversaw the arrival of Arne Slot following Jurgen Klopps departure; Slot was replaced by Andoni Iraola this summer; Edwards is credited with signing players that helped Liverpool win the 2019/20 Premier League title Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,7 +133,7 @@ Jeremy Monga: How good is potential Man City signing and what role could he play
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Jeremy Monga: How good is potential Man City signing and what role could he play?. https://www.bbc.co.uk/sport/football/articles/cdr4vvlp7d0o?at_medium=RSS&at_campaign=rss
+- skysports.com — Liverpool latest: Michael Edwards leaves as chief executive officer of football for Fenway Sports Group. https://www.skysports.com/football/news/12040/13562295/liverpool-latest-michael-edwards-leaves-as-chief-executive-officer-of-football-for-fenway-sports-group
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,58 +142,10 @@ Jeremy Monga: How good is potential Man City signing and what role could he play
 
 ---
 
-## Story 5: Kylian Mbappe: Jurgen Klopp reveals how Liverpool tried to sign France striker
-**Slug (lower-third):** Kylian Mbappe: Jurgen Klopp reveals how Liverpool tried t…  
-**When:** 2026-07-09 18:42 (America/Winnipeg)  •  **Published:** 2026-07-09 23:42 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Kylian Mbappe: Jurgen Klopp reveals how Liverpool tried to sign France striker. Jurgen Klopp says he "flew around in a circle" in a private plane with Kylian Mbappe and his family when he tried to sign him for Liverpool a decade ago. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Kylian Mbappe: Jurgen Klopp reveals how Liverpool tried to sign France striker. https://www.bbc.co.uk/sport/football/articles/cpd3052gjvxo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Harry Brook stars as England thrash India by nine wickets to clinch T20 series with game to spare
-**Slug (lower-third):** Harry Brook stars as England thrash India by nine wickets…  
-**When:** 2026-07-09 15:35 (America/Winnipeg)  •  **Published:** 2026-07-09 20:35 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Harry Brook stars as England thrash India by nine wickets to clinch T20 series with game to spare. England thrash India by nine wickets in Bristol to clinch emphatic T20 series victory; victory in fifth and final T20 in Southampton (Saturday) will see England leapfrog India to become No 1 ranked T20 side; watch the fifth T20I on Saturday live on Sky Sports from 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Harry Brook stars as England thrash India by nine wickets to clinch T20 series with game to spare. https://www.skysports.com/cricket/news/12040/13561985/harry-brook-stars-as-england-thrash-india-by-nine-wickets-to-clinch-t20-series-with-game-to-spare
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Newcastle face sliding doors moment over Bruno Guimaraes in summer of upheaval
+## Story 6: Newcastle face sliding doors moment over Bruno Guimaraes in summer of upheaval
 **Slug (lower-third):** Newcastle face sliding doors moment over Bruno Guimaraes …  
 **When:** 2026-07-09 12:09 (America/Winnipeg)  •  **Published:** 2026-07-09 17:09 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
+**Virality score:** 73  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Newcastle face sliding doors moment over Bruno Guimaraes in summer of upheaval. With Saudi spending restricted and a glut of departures and arrivals, the stakes are high for Eddie Howe and his captain, amid uncertain times on Tyneside Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -182,30 +158,6 @@ Newcastle face sliding doors moment over Bruno Guimaraes in summer of upheaval. 
 
 ### Sources
 - theguardian.com — Newcastle face sliding doors moment over Bruno Guimaraes in summer of upheaval. https://www.theguardian.com/football/2026/jul/09/newcastle-face-sliding-doors-moment-over-bruno-guimaraes-in-summer-of-upheaval
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Manchester United insist new stadium 'not vanity project' despite prospect of more debt
-**Slug (lower-third):** Manchester United insist new stadium 'not vanity project'…  
-**When:** 2026-07-09 09:00 (America/Winnipeg)  •  **Published:** 2026-07-09 14:00 (UTC)  
-**Virality score:** 76  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Manchester United insist new stadium 'not vanity project' despite prospect of more debt. Manchester United have said their proposed new 100,000-capacity stadium may ead to further debt being loaded on the club but insisted it will be 'a sanity, not vanity project' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Manchester United insist new stadium 'not vanity project' despite prospect of more debt. https://www.theguardian.com/football/2026/jul/09/manchester-united-insist-new-stadium-not-vanity-project-despite-prospect-of-more-debt
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
