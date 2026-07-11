@@ -1,25 +1,99 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-11 02:58 (America/Winnipeg)  |  2026-07-11 07:58 (UTC)
-**Stories in this rundown:** 5  |  **Style:** conversational broadcast
+**Generated:** 2026-07-11 08:22 (America/Winnipeg)  |  2026-07-11 13:22 (UTC)
+**Stories in this rundown:** 9  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 56s
+**Estimated total video length:** ~3m 12s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- World Cup 2026: BBC pundits preview England v Norway
-- Mikel Merino: Arsenal midfielder proving Spain's World Cup hero after overcoming injury that left him in mobility scooter
-- Man Utd's Ederson move in doubt
+- Jurgen Klopp: Former Liverpool boss on the verge of becoming Germany head coach and replacing Julian Nagelsmann
+- Alejandro Garnacho absent from Chelsea pre-season training
+- World Cup 2026: A new chapter in Granit Xhaka's resurgence as Switzerland chase history
+
+---
+
+### Managerial Moves
+
+## Story 1: Jurgen Klopp: Former Liverpool boss on the verge of becoming Germany head coach and replacing Julian Nagelsmann
+**Slug (lower-third):** Jurgen Klopp: Former Liverpool boss on the verge of becom…  
+**When:** 2026-07-11 08:30 (America/Winnipeg)  •  **Published:** 2026-07-11 13:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+Jurgen Klopp: Former Liverpool boss on the verge of becoming Germany head coach and replacing Julian Nagelsmann. Jurgen Klopp had shown a general willingness to take the role; Julian Nagelsmann departed after Germanys World Cup exit; Nagelsmann had been in charge of Germany since September 2023 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Jurgen Klopp: Former Liverpool boss on the verge of becoming Germany head coach and replacing Julian Nagelsmann. https://www.skysports.com/football/news/12040/13560208/jurgen-klopp-former-liverpool-boss-on-the-verge-of-becoming-germany-head-coach-and-replacing-julian-nagelsmann
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Transfers
 
-## Story 1: World Cup 2026: BBC pundits preview England v Norway
+## Story 2: Jeremy Monga transfer: Man City complete signing of 17-year-old Leicester City winger for PS10m
+**Slug (lower-third):** Jeremy Monga transfer: Man City complete signing of 17-ye…  
+**When:** 2026-07-11 05:00 (America/Winnipeg)  •  **Published:** 2026-07-11 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Jeremy Monga transfer: Man City complete signing of 17-year-old Leicester City winger for PS10m. Monga has penned a five-year deal at Man City until the summer of 2031; the Leicester City winger joins for a fee of PS10m plus add-ons; the England U19 international is the third-youngest player to play in the Premier League; the 17-year-old played 30 times for Foxes last season Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Jeremy Monga transfer: Man City complete signing of 17-year-old Leicester City winger for PS10m. https://www.skysports.com/football/news/12040/13562077/jeremy-monga-transfer-man-city-complete-signing-of-17-year-old-leicester-city-winger
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Men's transfer window summer 2026: all deals from Europe's top five leagues
+**Slug (lower-third):** Men's transfer window summer 2026: all deals from Europe'…  
+**When:** 2026-07-11 04:15 (America/Winnipeg)  •  **Published:** 2026-07-11 09:15 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Men's transfer window summer 2026: all deals from Europe's top five leagues. All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Men's transfer window summer 2026: all deals from Europe's top five leagues. https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: World Cup 2026: BBC pundits preview England v Norway
 **Slug (lower-third):** World Cup 2026: BBC pundits preview England v Norway  
 **When:** 2026-07-11 00:10 (America/Winnipeg)  •  **Published:** 2026-07-11 05:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 World Cup 2026: BBC pundits preview England v Norway. BBC Sport World Cup pundits Micah Richards, Wayne Rooney and Cesar Azpilicueta look ahead to England's match against Norway and feel that Erling Haaland will have an advantage over his Manchester City team-mates in the match. Implications for the squad and table.
@@ -40,41 +114,15 @@ World Cup 2026: BBC pundits preview England v Norway. BBC Sport World Cup pundit
 
 ---
 
-### Injuries
-
-## Story 2: Mikel Merino: Arsenal midfielder proving Spain's World Cup hero after overcoming injury that left him in mobility scooter
-**Slug (lower-third):** Mikel Merino: Arsenal midfielder proving Spain's World Cu…  
-**When:** 2026-07-10 16:58 (America/Winnipeg)  •  **Published:** 2026-07-10 21:58 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Mikel Merino: Arsenal midfielder proving Spain's World Cup hero after overcoming injury that left him in mobility scooter. Mikel Merino scored in the 88th-minute, only 117 seconds after coming off the bench, in Spains World Cup quarter-final against Belgium; Arsenal midfielder also scored a late winner as a substitute against Portugal as he continues his habit of delivering at big moments Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Mikel Merino: Arsenal midfielder proving Spain's World Cup hero after overcoming injury that left him in mobility scooter. https://www.skysports.com/football/news/12040/13562417/mikel-merino-arsenal-midfielder-proving-spains-world-cup-hero-after-overcoming-injury-that-left-him-in-mobility-scooter
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 3: Man Utd's Ederson move in doubt
-**Slug (lower-third):** Man Utd's Ederson move in doubt  
-**When:** 2026-07-10 15:27 (America/Winnipeg)  •  **Published:** 2026-07-10 20:27 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+## Story 5: Alejandro Garnacho absent from Chelsea pre-season training
+**Slug (lower-third):** Alejandro Garnacho absent from Chelsea pre-season training  
+**When:** 2026-07-11 08:10 (America/Winnipeg)  •  **Published:** 2026-07-11 13:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd's Ederson move in doubt. Manchester United's attempt to complete a APS35m deal for Atalanta midfielder is in doubt Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Alejandro Garnacho absent from Chelsea pre-season training. Alejandro Garnacho has not yet joined up with Chelsea for pre-season as the club actively look to sell the winger. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +131,7 @@ Man Utd's Ederson move in doubt. Manchester United's attempt to complete a APS35
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Man Utd's Ederson move in doubt. https://www.bbc.co.uk/sport/football/articles/c9d2z59596eo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Alejandro Garnacho absent from Chelsea pre-season training. https://www.bbc.co.uk/sport/football/articles/cr47ykwr7zgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +140,13 @@ Man Utd's Ederson move in doubt. Manchester United's attempt to complete a APS35
 
 ---
 
-## Story 4: Wigan Warriors 30-18 Warrington Wolves: Hosts keep pressure on Leeds Rhinos as youngsters shine in win
-**Slug (lower-third):** Wigan Warriors 30-18 Warrington Wolves: Hosts keep pressu…  
-**When:** 2026-07-10 12:59 (America/Winnipeg)  •  **Published:** 2026-07-10 17:59 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~27s
+## Story 6: World Cup 2026: A new chapter in Granit Xhaka's resurgence as Switzerland chase history
+**Slug (lower-third):** World Cup 2026: A new chapter in Granit Xhaka's resurgenc…  
+**When:** 2026-07-11 06:58 (America/Winnipeg)  •  **Published:** 2026-07-11 11:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Wigan Warriors 30-18 Warrington Wolves: Hosts keep pressure on Leeds Rhinos as youngsters shine in win. Despite being without a host of senior players, Wigan secure memorable win to move two points behind Leeds; Bradford deepen Huddersfield gloom in win; Sky Sports will show every game of the Super League live this season, including two matches each round exclusively live Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+World Cup 2026: A new chapter in Granit Xhaka's resurgence as Switzerland chase history. Granit Xhaka has battled back from being booed by his own fans at Arsenal to being one of the most influential players for club and country as he looks to help Switzerland make history at the World Cup. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +155,7 @@ Wigan Warriors 30-18 Warrington Wolves: Hosts keep pressure on Leeds Rhinos as y
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Wigan Warriors 30-18 Warrington Wolves: Hosts keep pressure on Leeds Rhinos as youngsters shine in win. https://www.skysports.com/rugby-league/news/12040/13562383/wigan-warriors-30-18-warrington-wolves-hosts-keep-pressure-on-leeds-rhinos-as-youngsters-shine-in-win
+- bbc.co.uk — World Cup 2026: A new chapter in Granit Xhaka's resurgence as Switzerland chase history. https://www.bbc.co.uk/sport/football/articles/cy06zgdz728o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +164,13 @@ Wigan Warriors 30-18 Warrington Wolves: Hosts keep pressure on Leeds Rhinos as y
 
 ---
 
-## Story 5: Arsenal hail signing of 'winner' Ona Batlle after Barcelona summer exodus
-**Slug (lower-third):** Arsenal hail signing of 'winner' Ona Batlle after Barcelo…  
-**When:** 2026-07-10 06:00 (America/Winnipeg)  •  **Published:** 2026-07-10 11:00 (UTC)  
-**Virality score:** 74  •  **Estimated runtime:** ~20s
+## Story 7: Manchester City beat Arsenal to signing of 17-year-old Jeremy Monga from Leicester
+**Slug (lower-third):** Manchester City beat Arsenal to signing of 17-year-old Je…  
+**When:** 2026-07-11 04:00 (America/Winnipeg)  •  **Published:** 2026-07-11 09:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal hail signing of 'winner' Ona Batlle after Barcelona summer exodus. Arsenal have made the former Manchester United full-back Ona Batlle their fourth summer signing while Manchester City have signed Niamh Charles Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Manchester City beat Arsenal to signing of 17-year-old Jeremy Monga from Leicester. Manchester City have signed the Leicester winger Jeremy Monga, who holds the record as the Championship's youngest scorer, after he turned 17 on Friday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +179,55 @@ Arsenal hail signing of 'winner' Ona Batlle after Barcelona summer exodus. Arsen
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Arsenal hail signing of 'winner' Ona Batlle after Barcelona summer exodus. https://www.theguardian.com/football/2026/jul/10/arsenal-sign-ona-batlle-spain-barcelona-defender
+- theguardian.com — Manchester City beat Arsenal to signing of 17-year-old Jeremy Monga from Leicester. https://www.theguardian.com/football/2026/jul/11/manchester-city-beat-arsenal-to-signing-of-17-year-old-jeremy-monga-from-leicester
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Wigan Warriors 30-18 Warrington Wolves | Super League highlights
+**Slug (lower-third):** Wigan Warriors 30-18 Warrington Wolves | Super League hig…  
+**When:** 2026-07-10 17:21 (America/Winnipeg)  •  **Published:** 2026-07-10 22:21 (UTC)  
+**Virality score:** 84  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Wigan Warriors 30-18 Warrington Wolves | Super League highlights. Highlights of the Super League match between Wigan Warriors and Warrington Wolves. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Wigan Warriors 30-18 Warrington Wolves | Super League highlights. https://www.skysports.com/watch/video/13562424/wigan-warriors-30-18-warrington-wolves-super-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: England vs India | Women's Test match highlights
+**Slug (lower-third):** England vs India | Women's Test match highlights  
+**When:** 2026-07-10 13:44 (America/Winnipeg)  •  **Published:** 2026-07-10 18:44 (UTC)  
+**Virality score:** 78  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+England vs India | Women's Test match highlights. Highlights from day one of the first-ever Womens Test at Lords as England bowled India out for 285 before closing on 21-1 in reply. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — England vs India | Women's Test match highlights. https://www.skysports.com/watch/video/13562391/england-vs-india-womens-test-match-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
