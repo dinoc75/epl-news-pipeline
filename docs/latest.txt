@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-14 14:22 (America/Winnipeg)  |  2026-07-14 19:22 (UTC)
-**Stories in this rundown:** 10  |  **Style:** conversational broadcast
+**Generated:** 2026-07-14 21:33 (America/Winnipeg)  |  2026-07-15 02:33 (UTC)
+**Stories in this rundown:** 9  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 36s
+**Estimated total video length:** ~3m 27s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Julian Alvarez: Barcelona refuse to give up on Argentina World Cup star and Arsenal and Paris Saint-Germain target
-- Man Utd sign Youri Tielemans from Aston Villa on five-year deal
-- Aston Villa warned over sportswashing after signing Visit Rwanda sponsorship
+- Manchester United sign midfielder Youri Tielemans from Aston Villa
+- Arsenal transfer news: Gunners explore possible swap deal involving Viktor Gyokeres in Julian Alvarez talks - Paper Talk
+- Football gossip: Gyokeres, Alvarez, Torres, Barcola, Jones, Romero
 
 ---
 
 ### Transfers
 
-## Story 1: Leandro Trossard transfer news: Arsenal forward set for move to Besiktas
-**Slug (lower-third):** Leandro Trossard transfer news: Arsenal forward set for m…  
-**When:** 2026-07-14 09:11 (America/Winnipeg)  •  **Published:** 2026-07-14 14:11 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 1: Arsenal transfer news: Gunners explore possible swap deal involving Viktor Gyokeres in Julian Alvarez talks - Paper Talk
+**Slug (lower-third):** Arsenal transfer news: Gunners explore possible swap deal…  
+**When:** 2026-07-14 16:50 (America/Winnipeg)  •  **Published:** 2026-07-14 21:50 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Leandro Trossard transfer news: Arsenal forward set for move to Besiktas. Arsenal agree a transfer fee of about APS17m (20m euros) to sell Belgium forward Leandro Trossard to Beskitas. Implications for the squad and table.
+Arsenal transfer news: Gunners explore possible swap deal involving Viktor Gyokeres in Julian Alvarez talks - Paper Talk. Plus: Liverpools shortlist for potential wingers this summer revealed; Arsenal are set to accelerate their pursuit of Christos Tzolis; Chelsea have not given up on signing Morgan Rogers but accept a deal is difficult; Cristian Romero is set to leave Tottenham this summer Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,31 @@ Leandro Trossard transfer news: Arsenal forward set for move to Besiktas. Arsena
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Leandro Trossard transfer news: Arsenal forward set for move to Besiktas. https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss
+- skysports.com — Arsenal transfer news: Gunners explore possible swap deal involving Viktor Gyokeres in Julian Alvarez talks - Paper Talk. https://www.skysports.com/football/news/12040/13563503/arsenal-transfer-news-gunners-explore-possible-swap-deal-involving-viktor-gyokeres-in-julian-alvarez-talks-paper-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Football gossip: Gyokeres, Alvarez, Torres, Barcola, Jones, Romero
+**Slug (lower-third):** Football gossip: Gyokeres, Alvarez, Torres, Barcola, Jone…  
+**When:** 2026-07-14 16:20 (America/Winnipeg)  •  **Published:** 2026-07-14 21:20 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Gyokeres, Alvarez, Torres, Barcola, Jones, Romero. Viktor Gyokeres may be used as a makeweight to bring Julian Alvarez to Arsenal, Liverpool have made contract with Paris St-Germain over a transfer for Bradley Barcola, while Tottenham captain Cristian Romero is set to leave the club. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Football gossip: Gyokeres, Alvarez, Torres, Barcola, Jones, Romero. https://www.bbc.co.uk/sport/football/articles/c0mym8xvedlo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +66,13 @@ Leandro Trossard transfer news: Arsenal forward set for move to Besiktas. Arsena
 
 ### Club Updates
 
-## Story 2: Julian Alvarez: Barcelona refuse to give up on Argentina World Cup star and Arsenal and Paris Saint-Germain target
-**Slug (lower-third):** Julian Alvarez: Barcelona refuse to give up on Argentina …  
-**When:** 2026-07-14 14:45 (America/Winnipeg)  •  **Published:** 2026-07-14 19:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 3: Manchester United sign midfielder Youri Tielemans from Aston Villa
+**Slug (lower-third):** Manchester United sign midfielder Youri Tielemans from As…  
+**When:** 2026-07-14 16:34 (America/Winnipeg)  •  **Published:** 2026-07-14 21:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Julian Alvarez: Barcelona refuse to give up on Argentina World Cup star and Arsenal and Paris Saint-Germain target. Barcelonas PS100m bid for Atletico Madrid striker Julian Alvarez remains on the table, with speculation they could up their offer after the World Cup; Alvarez has attracted interest from Arsenal and PSG; Atletico rejected a PS130m bid for Alvarez from rivals Real Madrid in June Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Manchester United sign midfielder Youri Tielemans from Aston Villa. Manchester United have announced the signing of midfielder Youri Tielemans from Aston Villa. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +81,8 @@ Julian Alvarez: Barcelona refuse to give up on Argentina World Cup star and Arse
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Julian Alvarez: Barcelona refuse to give up on Argentina World Cup star and Arsenal and Paris Saint-Germain target. https://www.skysports.com/football/news/12040/13563502/julian-alvarez-barcelona-refuse-to-give-up-on-argentina-world-cup-star-and-arsenal-and-paris-saint-germain-target
+- espn.com — Manchester United sign midfielder Youri Tielemans from Aston Villa. https://www.espn.com/soccer/story/_/id/49356683/manchester-united-sign-midfielder-youri-tielemans-aston-villa
+- skysports.com — Youri Tielemans transfer news: Manchester United complete signing of midfielder from Aston Villa for PS35m. https://www.skysports.com/football/news/12040/13563132/youri-tielemans-transfer-news-manchester-united-xxxx
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,10 +91,34 @@ Julian Alvarez: Barcelona refuse to give up on Argentina World Cup star and Arse
 
 ---
 
-## Story 3: Man Utd sign Youri Tielemans from Aston Villa on five-year deal
+## Story 4: England Test cricket coach in-tray: Brendon McCullum's replacement needs to find a captain, replace Ben Stokes and cut the boozing escapades
+**Slug (lower-third):** England Test cricket coach in-tray: Brendon McCullum's re…  
+**When:** 2026-07-14 15:00 (America/Winnipeg)  •  **Published:** 2026-07-14 20:00 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~31s
+
+### Presenter Script (3–5 sentences)
+England Test cricket coach in-tray: Brendon McCullum's replacement needs to find a captain, replace Ben Stokes and cut the boozing escapades. Sam Curran and Rehan Ahmed contenders to replace Ben Stokes as Test all-rounder, but new coach also needs to find successor as captain and there are not too many options; how red-ball supremo works with white-ball boss Brendon McCullum will be vital as success targeted in all forms Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — England Test cricket coach in-tray: Brendon McCullum's replacement needs to find a captain, replace Ben Stokes and cut the boozing escapades. https://www.skysports.com/cricket/news/12040/13563501/england-test-cricket-coach-in-tray-brendon-mccullums-replacement-needs-to-find-a-captain-replace-ben-stokes-and-cut-the-boozing-escapades
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Man Utd sign Youri Tielemans from Aston Villa on five-year deal
 **Slug (lower-third):** Man Utd sign Youri Tielemans from Aston Villa on five-yea…  
 **When:** 2026-07-14 13:45 (America/Winnipeg)  •  **Published:** 2026-07-14 18:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man Utd sign Youri Tielemans from Aston Villa on five-year deal. Manchester United complete the signing of Youri Tielemans from Aston Villa on a five-year deal. Relevance to standings and momentum.
@@ -90,58 +139,10 @@ Man Utd sign Youri Tielemans from Aston Villa on five-year deal. Manchester Unit
 
 ---
 
-## Story 4: Aston Villa warned over sportswashing after signing Visit Rwanda sponsorship
-**Slug (lower-third):** Aston Villa warned over sportswashing after signing Visit…  
-**When:** 2026-07-14 13:44 (America/Winnipeg)  •  **Published:** 2026-07-14 18:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Aston Villa warned over sportswashing after signing Visit Rwanda sponsorship. Aston Villa are warned their new APS20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Aston Villa warned over sportswashing after signing Visit Rwanda sponsorship. https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Melvine Malard: Chelsea to sign Man Utd forward for about APS850,000
-**Slug (lower-third):** Melvine Malard: Chelsea to sign Man Utd forward for about…  
-**When:** 2026-07-14 13:35 (America/Winnipeg)  •  **Published:** 2026-07-14 18:35 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Melvine Malard: Chelsea to sign Man Utd forward for about APS850,000. Chelsea agree a deal worth about APS850,000 to sign Manchester United striker Melvine Malard. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Melvine Malard: Chelsea to sign Man Utd forward for about APS850,000. https://www.bbc.co.uk/sport/football/articles/c62120n7y8jo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 6: Inside Xabi Alonso's first week at Chelsea with secret friendlies
 **Slug (lower-third):** Inside Xabi Alonso's first week at Chelsea with secret fr…  
 **When:** 2026-07-14 12:44 (America/Winnipeg)  •  **Published:** 2026-07-14 17:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Inside Xabi Alonso's first week at Chelsea with secret friendlies. Chelsea's entire pre-season is already mapped out by new boss Xabi Alonso, keen to make an early impact on his players before the season begins. Relevance to standings and momentum.
@@ -162,13 +163,13 @@ Inside Xabi Alonso's first week at Chelsea with secret friendlies. Chelsea's ent
 
 ---
 
-## Story 7: Bournemouth sign APS25.7m striker Alvaro Rodriguez from Elche
-**Slug (lower-third):** Bournemouth sign APS25.7m striker Alvaro Rodriguez from E…  
-**When:** 2026-07-14 10:28 (America/Winnipeg)  •  **Published:** 2026-07-14 15:28 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Manchester United close to agreeing club-record sale of Melvine Malard to Chelsea
+**Slug (lower-third):** Manchester United close to agreeing club-record sale of M…  
+**When:** 2026-07-14 12:02 (America/Winnipeg)  •  **Published:** 2026-07-14 17:02 (UTC)  
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bournemouth sign APS25.7m striker Alvaro Rodriguez from Elche. Bournemouth announce the signing of striker Alvaro Rodriguez from Spanish club Elche in a deal worth up to APS25.7m. Relevance to standings and momentum.
+Manchester United close to agreeing club-record sale of Melvine Malard to Chelsea. Chelsea are closing in on a deal to sign the France forward Melvine Malard from Manchester United Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +178,7 @@ Bournemouth sign APS25.7m striker Alvaro Rodriguez from Elche. Bournemouth annou
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Bournemouth sign APS25.7m striker Alvaro Rodriguez from Elche. https://www.bbc.co.uk/sport/football/articles/c93239v347qo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Manchester United close to agreeing club-record sale of Melvine Malard to Chelsea. https://www.theguardian.com/football/2026/jul/14/manchester-united-close-to-agreeing-club-record-sale-of-melvine-malard-to-chelsea
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,34 +187,10 @@ Bournemouth sign APS25.7m striker Alvaro Rodriguez from Elche. Bournemouth annou
 
 ---
 
-## Story 8: World Cup 2026: Premier League dominates last four defences but not attacks
-**Slug (lower-third):** World Cup 2026: Premier League dominates last four defenc…  
-**When:** 2026-07-14 10:19 (America/Winnipeg)  •  **Published:** 2026-07-14 15:19 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-World Cup 2026: Premier League dominates last four defences but not attacks. Do the World Cup semi-final line-ups show the worldas best attacking talent plays outside the Premier League? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — World Cup 2026: Premier League dominates last four defences but not attacks. https://www.bbc.co.uk/sport/football/articles/c5yzy9g501vo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Ayyoub Bouaddi: Manchester City interested in Morocco and Lille wonderkid after impressive World Cup
+## Story 8: Ayyoub Bouaddi: Manchester City interested in Morocco and Lille wonderkid after impressive World Cup
 **Slug (lower-third):** Ayyoub Bouaddi: Manchester City interested in Morocco and…  
 **When:** 2026-07-14 06:34 (America/Winnipeg)  •  **Published:** 2026-07-14 11:34 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~28s
+**Virality score:** 84  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 Ayyoub Bouaddi: Manchester City interested in Morocco and Lille wonderkid after impressive World Cup. Ayyoub Bouaddi was one of the stars of the World Cup; the 18-year-old was an ever-present in midfield for Morocco and has been linked with a move to Manchester United; City have signed Elliot Anderson but could lose midfielders such as Tijjani Reijnders, Mateo Kovacic and Nico Gonzalez Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -228,16 +205,16 @@ Ayyoub Bouaddi: Manchester City interested in Morocco and Lille wonderkid after 
 - skysports.com — Ayyoub Bouaddi: Manchester City interested in Morocco and Lille wonderkid after impressive World Cup. https://www.skysports.com/football/news/12040/13563315/ayyoub-bouaddi-manchester-city-interested-in-morocco-and-lille-wonderkid-after-impressive-world-cup
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 10: Manchester City set sights on signing Morocco's Ayyoub Bouaddi for PS85m
+## Story 9: Manchester City set sights on signing Morocco's Ayyoub Bouaddi for PS85m
 **Slug (lower-third):** Manchester City set sights on signing Morocco's Ayyoub Bo…  
 **When:** 2026-07-14 06:08 (America/Winnipeg)  •  **Published:** 2026-07-14 11:08 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+**Virality score:** 82  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester City set sights on signing Morocco's Ayyoub Bouaddi for PS85m. Manchester City are intent on signing Ayyoub Bouaddi from Lille for EUR100m (PS85m Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -252,7 +229,7 @@ Manchester City set sights on signing Morocco's Ayyoub Bouaddi for PS85m. Manche
 - theguardian.com — Manchester City set sights on signing Morocco's Ayyoub Bouaddi for PS85m. https://www.theguardian.com/football/2026/jul/14/manchester-city-set-sights-on-signing-morocco-ayyoub-bouaddi-85m-transfer-window
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
