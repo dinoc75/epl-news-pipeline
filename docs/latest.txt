@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-16 08:54 (America/Winnipeg)  |  2026-07-16 13:54 (UTC)
-**Stories in this rundown:** 4  |  **Style:** conversational broadcast
+**Generated:** 2026-07-16 14:13 (America/Winnipeg)  |  2026-07-16 19:13 (UTC)
+**Stories in this rundown:** 6  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~1m 20s
+**Estimated total video length:** ~2m 09s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Dominik Szoboszlai agrees new Liverpool contract in boost to Andoni Iraola
-- Why did Manchester United pay Chelsea PS48m for Andrey Santos?
-- Aston Villa: Villa close to bringing in Joao Gomes for APS38m
+- Lucas Bergvall: Nottingham Forest to make APS45m offer for Tottenham midfielder
+- Arsenal close in on PS34m deal for Club Brugge forward Christos Tzolis
+- Marinakis, seafood and 'sweet honey' of Europe led Glasner to join Nottingham Forest
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Dominik Szoboszlai agrees new Liverpool contract in boost to Andoni Iraola
-**Slug (lower-third):** Dominik Szoboszlai agrees new Liverpool contract in boost…  
-**When:** 2026-07-16 07:31 (America/Winnipeg)  •  **Published:** 2026-07-16 12:31 (UTC)  
+## Story 1: Marinakis, seafood and 'sweet honey' of Europe led Glasner to join Nottingham Forest
+**Slug (lower-third):** Marinakis, seafood and 'sweet honey' of Europe led Glasne…  
+**When:** 2026-07-16 12:03 (America/Winnipeg)  •  **Published:** 2026-07-16 17:03 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Dominik Szoboszlai agrees new Liverpool contract in boost to Andoni Iraola. Dominik Szoboszlai, Liverpool's best performer during a difficult final season under Arne Slot, is close to signing a deal that would end doubts over his future Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Marinakis, seafood and 'sweet honey' of Europe led Glasner to join Nottingham Forest. Oliver Glasner was persuaded to take the Nottingham Forest manager's job over a seafood platter by the owner, Evangelos Marinakis Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,33 @@ Dominik Szoboszlai agrees new Liverpool contract in boost to Andoni Iraola. Domi
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Dominik Szoboszlai agrees new Liverpool contract in boost to Andoni Iraola. https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest
+- theguardian.com — Marinakis, seafood and 'sweet honey' of Europe led Glasner to join Nottingham Forest. https://www.theguardian.com/football/2026/jul/16/oliver-glasner-says-marinakis-ambition-convinced-him-to-take-nottingham-forest-job
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: Arsenal close in on PS34m deal for Club Brugge forward Christos Tzolis
+**Slug (lower-third):** Arsenal close in on PS34m deal for Club Brugge forward Ch…  
+**When:** 2026-07-16 13:22 (America/Winnipeg)  •  **Published:** 2026-07-16 18:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal close in on PS34m deal for Club Brugge forward Christos Tzolis. The Greece international is a replacement for the Besiktas-bound Leandro Trossard, while Arsenal also seek defensive cover after William Saliba's injury Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Arsenal close in on PS34m deal for Club Brugge forward Christos Tzolis. https://www.theguardian.com/football/2026/jul/16/arsenal-34m-deal-club-brugge-forward-christos-tzolis-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +68,13 @@ Dominik Szoboszlai agrees new Liverpool contract in boost to Andoni Iraola. Domi
 
 ### Club Updates
 
-## Story 2: Why did Manchester United pay Chelsea PS48m for Andrey Santos?
-**Slug (lower-third):** Why did Manchester United pay Chelsea PS48m for Andrey Sa…  
-**When:** 2026-07-16 06:43 (America/Winnipeg)  •  **Published:** 2026-07-16 11:43 (UTC)  
+## Story 3: Lucas Bergvall: Nottingham Forest to make APS45m offer for Tottenham midfielder
+**Slug (lower-third):** Lucas Bergvall: Nottingham Forest to make APS45m offer fo…  
+**When:** 2026-07-16 13:24 (America/Winnipeg)  •  **Published:** 2026-07-16 18:24 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Why did Manchester United pay Chelsea PS48m for Andrey Santos?. Michael Carrick's first signing is a surprise, but the Brazil midfielder will help the team deal with Casemiro's exit Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Lucas Bergvall: Nottingham Forest to make APS45m offer for Tottenham midfielder. Nottingham Forest are set to make an offer of APS45m for Tottenham midfielder Lucas Bergvall. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +83,7 @@ Why did Manchester United pay Chelsea PS48m for Andrey Santos?. Michael Carrick'
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Why did Manchester United pay Chelsea PS48m for Andrey Santos?. https://www.theguardian.com/football/2026/jul/16/andrey-santos-manchester-united-chelsea-michael-carrick-brazil-midfielder-casemiro
+- bbc.co.uk — Lucas Bergvall: Nottingham Forest to make APS45m offer for Tottenham midfielder. https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,10 +92,58 @@ Why did Manchester United pay Chelsea PS48m for Andrey Santos?. Michael Carrick'
 
 ---
 
-## Story 3: Aston Villa: Villa close to bringing in Joao Gomes for APS38m
+## Story 4: Christos Tzolis: Arsenal set to have a new 'warrior mode' winger who is the perfect replacement for Leandro Trossard
+**Slug (lower-third):** Christos Tzolis: Arsenal set to have a new 'warrior mode'…  
+**When:** 2026-07-16 10:05 (America/Winnipeg)  •  **Published:** 2026-07-16 15:05 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Christos Tzolis: Arsenal set to have a new 'warrior mode' winger who is the perfect replacement for Leandro Trossard. Arsenal are set to sign Christos Tzolis from Club Brugge for PS34m; the Greek winger is being signed as Leandro Trossards replacement and there are a lot of similarities between the two players; Tzolis got 51 goal contributions in 52 matches for Brugge last season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Christos Tzolis: Arsenal set to have a new 'warrior mode' winger who is the perfect replacement for Leandro Trossard. https://www.skysports.com/football/news/12040/13564054/christos-tzolis-arsenal-set-to-have-a-new-warrior-mode-winger-who-is-the-perfect-replacement-for-leandro-trossard
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Dominik Szoboszlai agrees Liverpool deal as Aston Villa go for Joao Gomes
+**Slug (lower-third):** Dominik Szoboszlai agrees Liverpool deal as Aston Villa g…  
+**When:** 2026-07-16 07:31 (America/Winnipeg)  •  **Published:** 2026-07-16 12:31 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Dominik Szoboszlai agrees Liverpool deal as Aston Villa go for Joao Gomes. Dominik Szoboszlai, Liverpool's best performer during a difficult season, is close to signing a new long-term deal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Dominik Szoboszlai agrees Liverpool deal as Aston Villa go for Joao Gomes. https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Aston Villa: Villa close to bringing in Joao Gomes for APS38m
 **Slug (lower-third):** Aston Villa: Villa close to bringing in Joao Gomes for AP…  
 **When:** 2026-07-16 04:18 (America/Winnipeg)  •  **Published:** 2026-07-16 09:18 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Aston Villa: Villa close to bringing in Joao Gomes for APS38m. Joao Gomes is set to leave Wolves after their relegation from the Premier League and join Aston Villa. Relevance to standings and momentum.
@@ -85,30 +159,6 @@ Aston Villa: Villa close to bringing in Joao Gomes for APS38m. Joao Gomes is set
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Football gossip: Summerville, Nusa, Bouaddi, Lewis, Mbaye, Stroud
-**Slug (lower-third):** Football gossip: Summerville, Nusa, Bouaddi, Lewis, Mbaye…  
-**When:** 2026-07-15 13:53 (America/Winnipeg)  •  **Published:** 2026-07-15 18:53 (UTC)  
-**Virality score:** 78  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Summerville, Nusa, Bouaddi, Lewis, Mbaye, Stroud. West Ham winger Crysencio Summerville is a target for Manchester United, Arsenal are preparing an offer for Norway winger Antonio Nusa, Everton consider moving for Manchester City's Rico Lewis, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football gossip: Summerville, Nusa, Bouaddi, Lewis, Mbaye, Stroud. https://www.bbc.co.uk/sport/football/articles/c1mymdm2rp8o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
