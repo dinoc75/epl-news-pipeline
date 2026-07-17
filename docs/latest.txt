@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-17 03:11 (America/Winnipeg)  |  2026-07-17 08:11 (UTC)
-**Stories in this rundown:** 6  |  **Style:** conversational broadcast
+**Generated:** 2026-07-17 08:40 (America/Winnipeg)  |  2026-07-17 13:40 (UTC)
+**Stories in this rundown:** 7  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~2m 02s
+**Estimated total video length:** ~3m 39s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Today on Sky Sports Racing: Arapaho Gold chases Newbury hat-trick with Wolverhampton also live on Friday
-- Football gossip: Spence, Romero, Sano, Konsa, Rayan, Benitez, Rushworth
-- William Saliba: Arsenal to assess defender's back injury with surgery an option
+- Rodri: Man City and Spain midfielder still setting the standard as Pep Guardiola's World Cup prediction proves accurate
+- Jarrod Bowen transfer news: West Ham forward commits future to club despite relegation from Premier League
+- Jarrod Bowen declares intention to stay at West Ham despite relegation
 
 ---
 
-### Managerial Moves
+### Transfers
 
-## Story 1: Marinakis, seafood and 'sweet honey' of Europe led Glasner to join Nottingham Forest
-**Slug (lower-third):** Marinakis, seafood and 'sweet honey' of Europe led Glasne…  
-**When:** 2026-07-16 12:03 (America/Winnipeg)  •  **Published:** 2026-07-16 17:03 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
+## Story 1: Jarrod Bowen transfer news: West Ham forward commits future to club despite relegation from Premier League
+**Slug (lower-third):** Jarrod Bowen transfer news: West Ham forward commits futu…  
+**When:** 2026-07-17 06:47 (America/Winnipeg)  •  **Published:** 2026-07-17 11:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Marinakis, seafood and 'sweet honey' of Europe led Glasner to join Nottingham Forest. Oliver Glasner was persuaded to take the Nottingham Forest manager's job over a seafood platter by the owner, Evangelos Marinakis Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jarrod Bowen transfer news: West Ham forward commits future to club despite relegation from Premier League. Jarrod Bowen says he will stay at West Ham following their relegation from the Premier League; Bowen wants to win promotion from the Championship; 29-year-old forward had interest from several Premier League clubs; Bowen is contracted until 2030 after signing a seven-year extension in 2023 Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,33 +31,7 @@ Marinakis, seafood and 'sweet honey' of Europe led Glasner to join Nottingham Fo
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Marinakis, seafood and 'sweet honey' of Europe led Glasner to join Nottingham Forest. https://www.theguardian.com/football/2026/jul/16/oliver-glasner-says-marinakis-ambition-convinced-him-to-take-nottingham-forest-job
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 2: William Saliba: Arsenal to assess defender's back injury with surgery an option
-**Slug (lower-third):** William Saliba: Arsenal to assess defender's back injury …  
-**When:** 2026-07-16 16:55 (America/Winnipeg)  •  **Published:** 2026-07-16 21:55 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-William Saliba: Arsenal to assess defender's back injury with surgery an option. Arsenal will assess William Saliba's back injury when he reports back to the club after World Cup duty. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — William Saliba: Arsenal to assess defender's back injury with surgery an option. https://www.bbc.co.uk/sport/football/articles/cp87np4282po?at_medium=RSS&at_campaign=rss
+- skysports.com — Jarrod Bowen transfer news: West Ham forward commits future to club despite relegation from Premier League. https://www.skysports.com/football/news/12040/13564319/jarrod-bowen-transfer-news-west-ham-commits-future-to-club-despite-relegation-from-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,12 +40,134 @@ William Saliba: Arsenal to assess defender's back injury with surgery an option.
 
 ---
 
+## Story 2: Manchester City: What happened at the club's loans exhibition day?
+**Slug (lower-third):** Manchester City: What happened at the club's loans exhibi…  
+**When:** 2026-07-17 05:16 (America/Winnipeg)  •  **Published:** 2026-07-17 10:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City: What happened at the club's loans exhibition day?. Manchester City welcome clubs to their training ground to showcase the talent that is on offer during the summer transfer window. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Manchester City: What happened at the club's loans exhibition day?. https://www.bbc.co.uk/sport/football/articles/cpw981n4v19o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Rodri: Man City and Spain midfielder still setting the standard as Pep Guardiola's World Cup prediction proves accurate
+**Slug (lower-third):** Rodri: Man City and Spain midfielder still setting the st…  
+**When:** 2026-07-17 07:00 (America/Winnipeg)  •  **Published:** 2026-07-17 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Rodri: Man City and Spain midfielder still setting the standard as Pep Guardiola's World Cup prediction proves accurate. Rodri is breaking records for Spain at the World Cup having returned to his dominant best, eerily in line with a prediction made by Pep Guardiola in October; follow the World Cup final between Spain and France across Sky Sports digital platforms on Sunday; kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Rodri: Man City and Spain midfielder still setting the standard as Pep Guardiola's World Cup prediction proves accurate. https://www.skysports.com/football/news/12040/13564001/rodri-man-city-and-spain-midfielder-still-setting-the-standard-as-pep-guardiolas-world-cup-prediction-proves-accurate
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Arsenal close in on PS34m deal for Club Brugge forward Christos Tzolis
+**Slug (lower-third):** Arsenal close in on PS34m deal for Club Brugge forward Ch…  
+**When:** 2026-07-16 13:22 (America/Winnipeg)  •  **Published:** 2026-07-16 18:22 (UTC)  
+**Virality score:** 76  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal close in on PS34m deal for Club Brugge forward Christos Tzolis. The Greece international is a replacement for the Besiktas-bound Leandro Trossard, while Arsenal also seek defensive cover after William Saliba's injury Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Arsenal close in on PS34m deal for Club Brugge forward Christos Tzolis. https://www.theguardian.com/football/2026/jul/16/arsenal-34m-deal-club-brugge-forward-christos-tzolis-premier-league
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ### Club Updates
 
-## Story 3: Today on Sky Sports Racing: Arapaho Gold chases Newbury hat-trick with Wolverhampton also live on Friday
+## Story 5: Jarrod Bowen declares intention to stay at West Ham despite relegation
+**Slug (lower-third):** Jarrod Bowen declares intention to stay at West Ham despi…  
+**When:** 2026-07-17 06:22 (America/Winnipeg)  •  **Published:** 2026-07-17 11:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Jarrod Bowen declares intention to stay at West Ham despite relegation. Jarrod Bowen has said he intends to stay at West Ham and described the decision as 'a no-brainer' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Jarrod Bowen declares intention to stay at West Ham despite relegation. https://www.theguardian.com/football/2026/jul/17/jarrod-bowen-stay-west-ham
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Newcastle: How have missed targets affected summer rebuild?
+**Slug (lower-third):** Newcastle: How have missed targets affected summer rebuil…  
+**When:** 2026-07-17 04:53 (America/Winnipeg)  •  **Published:** 2026-07-17 09:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Newcastle: How have missed targets affected summer rebuild?. Newcastle United have missed out on Johan Manzambi and Victor Munoz this summer, but the club are targeting players who are "desperate" to join. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Newcastle: How have missed targets affected summer rebuild?. https://www.bbc.co.uk/sport/football/articles/c8626pzz96zo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Today on Sky Sports Racing: Arapaho Gold chases Newbury hat-trick with Wolverhampton also live on Friday
 **Slug (lower-third):** Today on Sky Sports Racing: Arapaho Gold chases Newbury h…  
 **When:** 2026-07-17 01:00 (America/Winnipeg)  •  **Published:** 2026-07-17 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~22s
+**Virality score:** 94  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
 Today on Sky Sports Racing: Arapaho Gold chases Newbury hat-trick with Wolverhampton also live on Friday. Friday sees Newbury play host to an exciting card, headlined by a Listed contest featuring well-bred runners at 4.10pm; Wolverhampton also opens its gates for live action which kicks off at 2.13pm; watch both meetings live on Sky Sports Racing Relevance to standings and momentum.
@@ -87,78 +183,6 @@ Today on Sky Sports Racing: Arapaho Gold chases Newbury hat-trick with Wolverham
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Football gossip: Spence, Romero, Sano, Konsa, Rayan, Benitez, Rushworth
-**Slug (lower-third):** Football gossip: Spence, Romero, Sano, Konsa, Rayan, Beni…  
-**When:** 2026-07-16 17:27 (America/Winnipeg)  •  **Published:** 2026-07-16 22:27 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Spence, Romero, Sano, Konsa, Rayan, Benitez, Rushworth. Inter Milan work on deals for Djed Spence and Cristian Romero, Liverpool lead the race for Kaishu Sano, Arsenal show interest in Ezri Konsa, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football gossip: Spence, Romero, Sano, Konsa, Rayan, Benitez, Rushworth. https://www.bbc.co.uk/sport/football/articles/cvgx4rvz57vo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Lucas Bergvall: Nottingham Forest to make APS45m offer for Tottenham midfielder
-**Slug (lower-third):** Lucas Bergvall: Nottingham Forest to make APS45m offer fo…  
-**When:** 2026-07-16 13:24 (America/Winnipeg)  •  **Published:** 2026-07-16 18:24 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Lucas Bergvall: Nottingham Forest to make APS45m offer for Tottenham midfielder. Nottingham Forest are set to make an offer of APS45m for Tottenham midfielder Lucas Bergvall. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Lucas Bergvall: Nottingham Forest to make APS45m offer for Tottenham midfielder. https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Dominik Szoboszlai agrees Liverpool deal as Aston Villa go for Joao Gomes
-**Slug (lower-third):** Dominik Szoboszlai agrees Liverpool deal as Aston Villa g…  
-**When:** 2026-07-16 07:31 (America/Winnipeg)  •  **Published:** 2026-07-16 12:31 (UTC)  
-**Virality score:** 76  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Dominik Szoboszlai agrees Liverpool deal as Aston Villa go for Joao Gomes. Dominik Szoboszlai, Liverpool's best performer during a difficult season, is close to signing a new long-term deal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Dominik Szoboszlai agrees Liverpool deal as Aston Villa go for Joao Gomes. https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
