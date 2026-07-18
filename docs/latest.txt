@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-18 08:18 (America/Winnipeg)  |  2026-07-18 13:18 (UTC)
-**Stories in this rundown:** 7  |  **Style:** conversational broadcast
+**Generated:** 2026-07-18 14:06 (America/Winnipeg)  |  2026-07-18 19:06 (UTC)
+**Stories in this rundown:** 8  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 38s
+**Estimated total video length:** ~3m 52s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the air
-- Aston Villa: How Johan Manzambi can spearhead new era
-- Spain's Mikel Merino: 'The focus is on being a good human first, then a good footballer'
+- Explained: How Chelsea agreed PS117m deal for Morgan Rogers with Aston Villa?
+- Morgan Rogers transfer news: Chelsea agree record PS117m deal for Aston Villa forward and Arsenal's No 1 target
+- Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m deal
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Ezri Konsa: Arsenal preparing offer for Aston Villa defender as Morgan Rogers talks continue - Paper Talk
-**Slug (lower-third):** Ezri Konsa: Arsenal preparing offer for Aston Villa defen…  
-**When:** 2026-07-17 17:45 (America/Winnipeg)  •  **Published:** 2026-07-17 22:45 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~27s
+## Story 1: Andoni Iraola: Inside Liverpool manager's first week and the big decisions he faces
+**Slug (lower-third):** Andoni Iraola: Inside Liverpool manager's first week and …  
+**When:** 2026-07-18 10:54 (America/Winnipeg)  •  **Published:** 2026-07-18 15:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ezri Konsa: Arsenal preparing offer for Aston Villa defender as Morgan Rogers talks continue - Paper Talk. Plus: Crystal Palace value Chelsea target Maxence Lacroix at up to PS60m with the defender wanting to leave; Thomas Tuchel's appointment as England boss did not gain the unanimous backing of FA board members; Sir Gareth Southgate will attend Sunday's World Cup final Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Andoni Iraola: Inside Liverpool manager's first week and the big decisions he faces. New Liverpool manager Andoni Iraola has lots of decisions to make ahead of the new season. BBC Sport gives an insight into his first week in the job. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,10 +31,10 @@ Ezri Konsa: Arsenal preparing offer for Aston Villa defender as Morgan Rogers ta
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ezri Konsa: Arsenal preparing offer for Aston Villa defender as Morgan Rogers talks continue - Paper Talk. https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk
+- bbc.co.uk — Andoni Iraola: Inside Liverpool manager's first week and the big decisions he faces. https://www.bbc.co.uk/sport/football/articles/ce34zpppy6qo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -42,13 +42,13 @@ Ezri Konsa: Arsenal preparing offer for Aston Villa defender as Morgan Rogers ta
 
 ### Transfers
 
-## Story 2: Dominik Szoboszlai: Midfielder signs new five-year deal at Liverpool
-**Slug (lower-third):** Dominik Szoboszlai: Midfielder signs new five-year deal a…  
-**When:** 2026-07-17 10:00 (America/Winnipeg)  •  **Published:** 2026-07-17 15:00 (UTC)  
-**Virality score:** 73  •  **Estimated runtime:** ~21s
+## Story 2: Morgan Rogers transfer news: Chelsea agree record PS117m deal for Aston Villa forward and Arsenal's No 1 target
+**Slug (lower-third):** Morgan Rogers transfer news: Chelsea agree record PS117m …  
+**When:** 2026-07-18 14:10 (America/Winnipeg)  •  **Published:** 2026-07-18 19:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Dominik Szoboszlai: Midfielder signs new five-year deal at Liverpool. Dominik Szoboszlai has signed a new deal at Liverpool; The 25-year-olds new contract keeps him at Anfield until 2031; Szoboszlai moved to Liverpool for PS60m from RB Leipzig in the summer of 2023 Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Morgan Rogers transfer news: Chelsea agree record PS117m deal for Aston Villa forward and Arsenal's No 1 target. Arsenal had made Morgan Rogers their No 1 target; the record fee for a British player had already been broken this summer as Man City paid Nottingham Forest PS116m for Elliot Anderson Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,24 +57,23 @@ Dominik Szoboszlai: Midfielder signs new five-year deal at Liverpool. Dominik Sz
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Dominik Szoboszlai: Midfielder signs new five-year deal at Liverpool. https://www.skysports.com/football/news/12040/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool
+- skysports.com — Morgan Rogers transfer news: Chelsea agree record PS117m deal for Aston Villa forward and Arsenal's No 1 target. https://www.skysports.com/football/news/12040/13564758/morgan-rogers-transfer-news-chelsea-agree-record-117m-deal-for-aston-villa-forward-and-arsenals-no-1-target
+- bbc.co.uk — Morgan Rogers: Chelsea agree APS117m deal for Aston Villa midfielder. https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### League & Regulation
-
-## Story 3: Tonda Eckert exclusive: Southampton boss reveals he received police protection after threats during Spygate scandal
-**Slug (lower-third):** Tonda Eckert exclusive: Southampton boss reveals he recei…  
-**When:** 2026-07-17 16:15 (America/Winnipeg)  •  **Published:** 2026-07-17 21:15 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~27s
+## Story 3: Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m deal
+**Slug (lower-third):** Chelsea poised to sign Morgan Rogers from Aston Villa in …  
+**When:** 2026-07-18 13:10 (America/Winnipeg)  •  **Published:** 2026-07-18 18:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tonda Eckert exclusive: Southampton boss reveals he received police protection after threats during Spygate scandal. Southampton boss Tonda Eckert speaks exclusively to Sky Sports News over the Spygate scandal; Eckert reveals he received police protection amid threats while he had to move family to Germany; Saints were banished from Championship play-off final and will start season on points deduction Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m deal. Morgan Rogers has agreed terms on a six-year contract at Chelsea and is due to undergo a medical on Monday Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,10 +82,34 @@ Tonda Eckert exclusive: Southampton boss reveals he received police protection a
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tonda Eckert exclusive: Southampton boss reveals he received police protection after threats during Spygate scandal. https://www.skysports.com/football/news/12040/13564527/tonda-eckert-exclusive-southampton-boss-reveals-he-received-police-protection-after-threats-during-spygate-scandal
+- theguardian.com — Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m deal. https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Arsenal: Will the World Cup affect transfer plans?
+**Slug (lower-third):** Arsenal: Will the World Cup affect transfer plans?  
+**When:** 2026-07-18 09:47 (America/Winnipeg)  •  **Published:** 2026-07-18 14:47 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal: Will the World Cup affect transfer plans?. With the World Cup final taking place on Sunday and the start of the Premier League just over a month away, supporters are starting to think about how their side is shaping up for the new campaign. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Arsenal: Will the World Cup affect transfer plans?. https://www.bbc.co.uk/sport/football/articles/c4gj5z33e2lo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -94,10 +117,82 @@ Tonda Eckert exclusive: Southampton boss reveals he received police protection a
 
 ### Club Updates
 
-## Story 4: Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the air
+## Story 5: Explained: How Chelsea agreed PS117m deal for Morgan Rogers with Aston Villa?
+**Slug (lower-third):** Explained: How Chelsea agreed PS117m deal for Morgan Roge…  
+**When:** 2026-07-18 14:31 (America/Winnipeg)  •  **Published:** 2026-07-18 19:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Explained: How Chelsea agreed PS117m deal for Morgan Rogers with Aston Villa?. Sky Sports News Kaveh Solhekol breaks down Chelseas PS117m deal for Morgan Rogers and what he could add to Xabi Alonsos side. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Explained: How Chelsea agreed PS117m deal for Morgan Rogers with Aston Villa?. https://www.skysports.com/watch/video/13564768/why-have-chelsea-made-mega-bid-for-morgan-rogers
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Man Utd 0-1 Wrexham: Andrey Santos makes Red Devils debut in opening pre-season loss in Helsinki
+**Slug (lower-third):** Man Utd 0-1 Wrexham: Andrey Santos makes Red Devils debut…  
+**When:** 2026-07-18 13:00 (America/Winnipeg)  •  **Published:** 2026-07-18 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Man Utd 0-1 Wrexham: Andrey Santos makes Red Devils debut in opening pre-season loss in Helsinki. Match report as Manchester United lose 1-0 to Wrexham in their opening pre-season fixture of the summer; new PS50m signing from Chelsea Andrey Santos made his debut before Michael Carrick rung the changes at half-time; Uniteds next game is against Rosenborg in Trondheim on July 24 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man Utd 0-1 Wrexham: Andrey Santos makes Red Devils debut in opening pre-season loss in Helsinki. https://www.skysports.com/football/news/12040/13564369/man-utd-0-1-wrexham-andrey-santos-makes-red-devils-debut-in-opening-pre-season-loss-in-helsinki
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Warrington Wolves 34-12 Hull KR | Super League highlights
+**Slug (lower-third):** Warrington Wolves 34-12 Hull KR | Super League highlights  
+**When:** 2026-07-18 12:04 (America/Winnipeg)  •  **Published:** 2026-07-18 17:04 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Warrington Wolves 34-12 Hull KR | Super League highlights. Highlights of the Super League match between Warrington Wolves and Hull KR. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Warrington Wolves 34-12 Hull KR | Super League highlights. https://www.skysports.com/watch/video/13564721/warrington-wolves-34-12-hull-kr-super-league-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the air
 **Slug (lower-third):** Enzo Fernandez shows real quality for Argentina but Chels…  
 **When:** 2026-07-18 05:00 (America/Winnipeg)  •  **Published:** 2026-07-18 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the air. Brash midfielder has admirers in Madrid, though his World Cup displays illustrate what he can offer Xabi Alonso's Blues Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -113,78 +208,6 @@ Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the 
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Aston Villa: How Johan Manzambi can spearhead new era
-**Slug (lower-third):** Aston Villa: How Johan Manzambi can spearhead new era  
-**When:** 2026-07-18 04:39 (America/Winnipeg)  •  **Published:** 2026-07-18 09:39 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Aston Villa: How Johan Manzambi can spearhead new era. It is a new era for Aston Villa - and Johan Manzambi, who has just joined in a club record deal worth more than APS50m - will be one of the poster boys. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Aston Villa: How Johan Manzambi can spearhead new era. https://www.bbc.co.uk/sport/football/articles/c5yzyg028gxo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Spain's Mikel Merino: 'The focus is on being a good human first, then a good footballer'
-**Slug (lower-third):** Spain's Mikel Merino: 'The focus is on being a good human…  
-**When:** 2026-07-18 02:00 (America/Winnipeg)  •  **Published:** 2026-07-18 07:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-Spain's Mikel Merino: 'The focus is on being a good human first, then a good footballer'. The Arsenal midfielder talks about how Luis de la Fuente has created a team built on respect and how they plan to beat Argentina in the World Cup final Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Spain's Mikel Merino: 'The focus is on being a good human first, then a good footballer'. https://www.theguardian.com/football/2026/jul/18/spain-mikel-merino-good-human-footballer-interview-world-cup
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Johan Manzambi: Aston Villa sign Newcastle target from Freiburg in club-record PS59.5m deal
-**Slug (lower-third):** Johan Manzambi: Aston Villa sign Newcastle target from Fr…  
-**When:** 2026-07-17 13:04 (America/Winnipeg)  •  **Published:** 2026-07-17 18:04 (UTC)  
-**Virality score:** 77  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Johan Manzambi: Aston Villa sign Newcastle target from Freiburg in club-record PS59.5m deal. Aston Villa sign Johan Manzambi in PS59.5m club-record deal after snubbing Newcastle; midfielder joins Villa Park from Freiburg after breakout World Cup with Switzerland; Newcastle had agreed a deal worth PS49m for 20-year-old but Champions League football saw him choose Villa Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Johan Manzambi: Aston Villa sign Newcastle target from Freiburg in club-record PS59.5m deal. https://www.skysports.com/football/news/12040/13564492/johan-manzambi-aston-villa-sign-newcastle-target-from-freiburg-in-club-record-59-5m-deal
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
