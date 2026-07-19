@@ -1,8 +1,8 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-18 21:50 (America/Winnipeg)  |  2026-07-19 02:50 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2026-07-19 03:21 (America/Winnipeg)  |  2026-07-19 08:21 (UTC)
+**Stories in this rundown:** 7  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 06s
+**Estimated total video length:** ~2m 24s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Andoni Iraola: Inside Liverpool manager's first week and the big decisions he faces
 **Slug (lower-third):** Andoni Iraola: Inside Liverpool manager's first week and …  
 **When:** 2026-07-18 10:54 (America/Winnipeg)  •  **Published:** 2026-07-18 15:54 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+**Virality score:** 82  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Andoni Iraola: Inside Liverpool manager's first week and the big decisions he faces. New Liverpool manager Andoni Iraola has lots of decisions to make ahead of the new season. BBC Sport gives an insight into his first week in the job. Relevance to standings and momentum.
@@ -34,7 +34,7 @@ Andoni Iraola: Inside Liverpool manager's first week and the big decisions he fa
 - bbc.co.uk — Andoni Iraola: Inside Liverpool manager's first week and the big decisions he faces. https://www.bbc.co.uk/sport/football/articles/ce34zpppy6qo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -45,7 +45,7 @@ Andoni Iraola: Inside Liverpool manager's first week and the big decisions he fa
 ## Story 2: Morgan Rogers transfer news: Chelsea agree record PS117m deal for Aston Villa forward and Arsenal's No 1 target
 **Slug (lower-third):** Morgan Rogers transfer news: Chelsea agree record PS117m …  
 **When:** 2026-07-18 14:10 (America/Winnipeg)  •  **Published:** 2026-07-18 19:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+**Virality score:** 96  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
 Morgan Rogers transfer news: Chelsea agree record PS117m deal for Aston Villa forward and Arsenal's No 1 target. Arsenal had made Morgan Rogers their No 1 target; the record fee for a British player had already been broken this summer as Man City paid Nottingham Forest PS116m for Elliot Anderson Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -70,7 +70,7 @@ Morgan Rogers transfer news: Chelsea agree record PS117m deal for Aston Villa fo
 ## Story 3: Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m deal
 **Slug (lower-third):** Chelsea poised to sign Morgan Rogers from Aston Villa in …  
 **When:** 2026-07-18 13:10 (America/Winnipeg)  •  **Published:** 2026-07-18 18:10 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+**Virality score:** 84  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m deal. Morgan Rogers has agreed terms on a six-year contract at Chelsea and is due to undergo a medical on Monday Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -85,7 +85,7 @@ Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m 
 - theguardian.com — Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m deal. https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -96,7 +96,7 @@ Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m 
 ## Story 4: Fifa to announce record $15bn World Cup revenue, smashing expectations
 **Slug (lower-third):** Fifa to announce record $15bn World Cup revenue, smashing…  
 **When:** 2026-07-18 17:30 (America/Winnipeg)  •  **Published:** 2026-07-18 22:30 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Fifa to announce record $15bn World Cup revenue, smashing expectations. Hospitality and ticketing, especially through the steeply priced secondary market, are understood to account for a significant amount of the increase Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -120,7 +120,7 @@ Fifa to announce record $15bn World Cup revenue, smashing expectations. Hospital
 ## Story 5: Football gossip: Savinho, Foden, Rodri, Nelson, Upson, Palhinha, Romero
 **Slug (lower-third):** Football gossip: Savinho, Foden, Rodri, Nelson, Upson, Pa…  
 **When:** 2026-07-18 15:46 (America/Winnipeg)  •  **Published:** 2026-07-18 20:46 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Savinho, Foden, Rodri, Nelson, Upson, Palhinha, Romero. Tottenham are hopeful of signing Savinho from Manchester City, Real Madrid cool their interest in Rodri, AC Milan are keeping tabs on Phil Foden, plus more. Relevance to standings and momentum.
@@ -144,7 +144,7 @@ Football gossip: Savinho, Foden, Rodri, Nelson, Upson, Palhinha, Romero. Tottenh
 ## Story 6: Manchester United start new signing Andrey Santos in pre-season loss to Wrexham
 **Slug (lower-third):** Manchester United start new signing Andrey Santos in pre-…  
 **When:** 2026-07-18 14:15 (America/Winnipeg)  •  **Published:** 2026-07-18 19:15 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+**Virality score:** 85  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester United start new signing Andrey Santos in pre-season loss to Wrexham. Manchester United showcased their PS48m signing Andrey Santos in a 1-0 loss to Wrexham in Helsinki Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -168,7 +168,7 @@ Manchester United start new signing Andrey Santos in pre-season loss to Wrexham.
 ## Story 7: Warrington Wolves 34-12 Hull KR | Super League highlights
 **Slug (lower-third):** Warrington Wolves 34-12 Hull KR | Super League highlights  
 **When:** 2026-07-18 12:04 (America/Winnipeg)  •  **Published:** 2026-07-18 17:04 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+**Virality score:** 83  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Warrington Wolves 34-12 Hull KR | Super League highlights. Highlights of the Super League match between Warrington Wolves and Hull KR. Relevance to standings and momentum.
@@ -181,54 +181,6 @@ Warrington Wolves 34-12 Hull KR | Super League highlights. Highlights of the Sup
 
 ### Sources
 - skysports.com — Warrington Wolves 34-12 Hull KR | Super League highlights. https://www.skysports.com/watch/video/13564721/warrington-wolves-34-12-hull-kr-super-league-highlights
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the air
-**Slug (lower-third):** Enzo Fernandez shows real quality for Argentina but Chels…  
-**When:** 2026-07-18 05:00 (America/Winnipeg)  •  **Published:** 2026-07-18 10:00 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the air. Brash midfielder has admirers in Madrid, though his World Cup displays illustrate what he can offer Xabi Alonso's Blues Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the air. https://www.theguardian.com/football/2026/jul/18/enzo-fernandez-argentina-chelsea-future-world-cup
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Spain's Mikel Merino: 'The focus is on being a good human first, then a good footballer'
-**Slug (lower-third):** Spain's Mikel Merino: 'The focus is on being a good human…  
-**When:** 2026-07-18 02:00 (America/Winnipeg)  •  **Published:** 2026-07-18 07:00 (UTC)  
-**Virality score:** 76  •  **Estimated runtime:** ~22s
-
-### Presenter Script (3–5 sentences)
-Spain's Mikel Merino: 'The focus is on being a good human first, then a good footballer'. The Arsenal midfielder talks about how Luis de la Fuente has created a team built on respect and how they plan to beat Argentina in the World Cup final Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Spain's Mikel Merino: 'The focus is on being a good human first, then a good footballer'. https://www.theguardian.com/football/2026/jul/18/spain-mikel-merino-good-human-footballer-interview-world-cup
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
