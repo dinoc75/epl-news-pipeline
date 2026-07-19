@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-18 14:06 (America/Winnipeg)  |  2026-07-18 19:06 (UTC)
-**Stories in this rundown:** 8  |  **Style:** conversational broadcast
+**Generated:** 2026-07-18 21:50 (America/Winnipeg)  |  2026-07-19 02:50 (UTC)
+**Stories in this rundown:** 9  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 52s
+**Estimated total video length:** ~3m 06s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Explained: How Chelsea agreed PS117m deal for Morgan Rogers with Aston Villa?
 - Morgan Rogers transfer news: Chelsea agree record PS117m deal for Aston Villa forward and Arsenal's No 1 target
-- Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m deal
+- Fifa to announce record $15bn World Cup revenue, smashing expectations
+- Football gossip: Savinho, Foden, Rodri, Nelson, Upson, Palhinha, Romero
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Andoni Iraola: Inside Liverpool manager's first week and the big decisions he faces
 **Slug (lower-third):** Andoni Iraola: Inside Liverpool manager's first week and …  
 **When:** 2026-07-18 10:54 (America/Winnipeg)  •  **Published:** 2026-07-18 15:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Andoni Iraola: Inside Liverpool manager's first week and the big decisions he faces. New Liverpool manager Andoni Iraola has lots of decisions to make ahead of the new season. BBC Sport gives an insight into his first week in the job. Relevance to standings and momentum.
@@ -70,7 +70,7 @@ Morgan Rogers transfer news: Chelsea agree record PS117m deal for Aston Villa fo
 ## Story 3: Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m deal
 **Slug (lower-third):** Chelsea poised to sign Morgan Rogers from Aston Villa in …  
 **When:** 2026-07-18 13:10 (America/Winnipeg)  •  **Published:** 2026-07-18 18:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m deal. Morgan Rogers has agreed terms on a six-year contract at Chelsea and is due to undergo a medical on Monday Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -91,39 +91,15 @@ Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking PS117m 
 
 ---
 
-## Story 4: Arsenal: Will the World Cup affect transfer plans?
-**Slug (lower-third):** Arsenal: Will the World Cup affect transfer plans?  
-**When:** 2026-07-18 09:47 (America/Winnipeg)  •  **Published:** 2026-07-18 14:47 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal: Will the World Cup affect transfer plans?. With the World Cup final taking place on Sunday and the start of the Premier League just over a month away, supporters are starting to think about how their side is shaping up for the new campaign. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Arsenal: Will the World Cup affect transfer plans?. https://www.bbc.co.uk/sport/football/articles/c4gj5z33e2lo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 5: Explained: How Chelsea agreed PS117m deal for Morgan Rogers with Aston Villa?
-**Slug (lower-third):** Explained: How Chelsea agreed PS117m deal for Morgan Roge…  
-**When:** 2026-07-18 14:31 (America/Winnipeg)  •  **Published:** 2026-07-18 19:31 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Fifa to announce record $15bn World Cup revenue, smashing expectations
+**Slug (lower-third):** Fifa to announce record $15bn World Cup revenue, smashing…  
+**When:** 2026-07-18 17:30 (America/Winnipeg)  •  **Published:** 2026-07-18 22:30 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Explained: How Chelsea agreed PS117m deal for Morgan Rogers with Aston Villa?. Sky Sports News Kaveh Solhekol breaks down Chelseas PS117m deal for Morgan Rogers and what he could add to Xabi Alonsos side. Relevance to standings and momentum.
+Fifa to announce record $15bn World Cup revenue, smashing expectations. Hospitality and ticketing, especially through the steeply priced secondary market, are understood to account for a significant amount of the increase Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,7 +108,7 @@ Explained: How Chelsea agreed PS117m deal for Morgan Rogers with Aston Villa?. S
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Explained: How Chelsea agreed PS117m deal for Morgan Rogers with Aston Villa?. https://www.skysports.com/watch/video/13564768/why-have-chelsea-made-mega-bid-for-morgan-rogers
+- theguardian.com — Fifa to announce record $15bn World Cup revenue, smashing expectations. https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,13 +117,13 @@ Explained: How Chelsea agreed PS117m deal for Morgan Rogers with Aston Villa?. S
 
 ---
 
-## Story 6: Man Utd 0-1 Wrexham: Andrey Santos makes Red Devils debut in opening pre-season loss in Helsinki
-**Slug (lower-third):** Man Utd 0-1 Wrexham: Andrey Santos makes Red Devils debut…  
-**When:** 2026-07-18 13:00 (America/Winnipeg)  •  **Published:** 2026-07-18 18:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 5: Football gossip: Savinho, Foden, Rodri, Nelson, Upson, Palhinha, Romero
+**Slug (lower-third):** Football gossip: Savinho, Foden, Rodri, Nelson, Upson, Pa…  
+**When:** 2026-07-18 15:46 (America/Winnipeg)  •  **Published:** 2026-07-18 20:46 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man Utd 0-1 Wrexham: Andrey Santos makes Red Devils debut in opening pre-season loss in Helsinki. Match report as Manchester United lose 1-0 to Wrexham in their opening pre-season fixture of the summer; new PS50m signing from Chelsea Andrey Santos made his debut before Michael Carrick rung the changes at half-time; Uniteds next game is against Rosenborg in Trondheim on July 24 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Savinho, Foden, Rodri, Nelson, Upson, Palhinha, Romero. Tottenham are hopeful of signing Savinho from Manchester City, Real Madrid cool their interest in Rodri, AC Milan are keeping tabs on Phil Foden, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,7 +132,31 @@ Man Utd 0-1 Wrexham: Andrey Santos makes Red Devils debut in opening pre-season 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man Utd 0-1 Wrexham: Andrey Santos makes Red Devils debut in opening pre-season loss in Helsinki. https://www.skysports.com/football/news/12040/13564369/man-utd-0-1-wrexham-andrey-santos-makes-red-devils-debut-in-opening-pre-season-loss-in-helsinki
+- bbc.co.uk — Football gossip: Savinho, Foden, Rodri, Nelson, Upson, Palhinha, Romero. https://www.bbc.co.uk/sport/football/articles/cn8nypvz22no?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Manchester United start new signing Andrey Santos in pre-season loss to Wrexham
+**Slug (lower-third):** Manchester United start new signing Andrey Santos in pre-…  
+**When:** 2026-07-18 14:15 (America/Winnipeg)  •  **Published:** 2026-07-18 19:15 (UTC)  
+**Virality score:** 93  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United start new signing Andrey Santos in pre-season loss to Wrexham. Manchester United showcased their PS48m signing Andrey Santos in a 1-0 loss to Wrexham in Helsinki Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Manchester United start new signing Andrey Santos in pre-season loss to Wrexham. https://www.theguardian.com/football/2026/jul/18/manchester-united-start-new-signing-andrey-santos-in-pre-season-loss-to-wrexham
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -168,7 +168,7 @@ Man Utd 0-1 Wrexham: Andrey Santos makes Red Devils debut in opening pre-season 
 ## Story 7: Warrington Wolves 34-12 Hull KR | Super League highlights
 **Slug (lower-third):** Warrington Wolves 34-12 Hull KR | Super League highlights  
 **When:** 2026-07-18 12:04 (America/Winnipeg)  •  **Published:** 2026-07-18 17:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Warrington Wolves 34-12 Hull KR | Super League highlights. Highlights of the Super League match between Warrington Wolves and Hull KR. Relevance to standings and momentum.
@@ -192,7 +192,7 @@ Warrington Wolves 34-12 Hull KR | Super League highlights. Highlights of the Sup
 ## Story 8: Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the air
 **Slug (lower-third):** Enzo Fernandez shows real quality for Argentina but Chels…  
 **When:** 2026-07-18 05:00 (America/Winnipeg)  •  **Published:** 2026-07-18 10:00 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+**Virality score:** 80  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the air. Brash midfielder has admirers in Madrid, though his World Cup displays illustrate what he can offer Xabi Alonso's Blues Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -207,7 +207,31 @@ Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the 
 - theguardian.com — Enzo Fernandez shows real quality for Argentina but Chelsea future is up in the air. https://www.theguardian.com/football/2026/jul/18/enzo-fernandez-argentina-chelsea-future-world-cup
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Spain's Mikel Merino: 'The focus is on being a good human first, then a good footballer'
+**Slug (lower-third):** Spain's Mikel Merino: 'The focus is on being a good human…  
+**When:** 2026-07-18 02:00 (America/Winnipeg)  •  **Published:** 2026-07-18 07:00 (UTC)  
+**Virality score:** 76  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+Spain's Mikel Merino: 'The focus is on being a good human first, then a good footballer'. The Arsenal midfielder talks about how Luis de la Fuente has created a team built on respect and how they plan to beat Argentina in the World Cup final Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Spain's Mikel Merino: 'The focus is on being a good human first, then a good footballer'. https://www.theguardian.com/football/2026/jul/18/spain-mikel-merino-good-human-footballer-interview-world-cup
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
