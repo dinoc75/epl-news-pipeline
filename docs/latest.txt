@@ -1,78 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-21 08:53 (America/Winnipeg)  |  2026-07-21 13:53 (UTC)
+**Generated:** 2026-07-21 14:25 (America/Winnipeg)  |  2026-07-21 19:25 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 48s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Sir Alex Ferguson pays tribute to former rival Kevin Keegan
-- 'The utmost respect for him': Alex Ferguson pays tribute to Kevin Keegan
-- Newcastle United: Why club are changing badge
-
----
-
-### Managerial Moves
-
-## Story 1: Sir Alex Ferguson pays tribute to former rival Kevin Keegan
-**Slug (lower-third):** Sir Alex Ferguson pays tribute to former rival Kevin Keeg…  
-**When:** 2026-07-21 08:21 (America/Winnipeg)  •  **Published:** 2026-07-21 13:21 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Sir Alex Ferguson pays tribute to former rival Kevin Keegan. Former Manchester United manager Sir Alex Ferguson says Kevin Keegan "carried the love of the game on his sleeve" as he paid tribute to his former rival. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Sir Alex Ferguson pays tribute to former rival Kevin Keegan. https://www.bbc.co.uk/sport/football/articles/cpd7nzxzdjqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Enzo Maresca as Man City manager: Can Italian make a success of his return to a club so entrenched in Pep Guardiola's way?
-**Slug (lower-third):** Enzo Maresca as Man City manager: Can Italian make a succ…  
-**When:** 2026-07-21 05:30 (America/Winnipeg)  •  **Published:** 2026-07-21 10:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~33s
-
-### Presenter Script (3–5 sentences)
-Enzo Maresca as Man City manager: Can Italian make a success of his return to a club so entrenched in Pep Guardiola's way?. Enzo Maresca faces a mammoth task after taking the reigns from Pep Guardiola at Man City; he has all the tools to succeed - but the uncertainty of this new Premier League era presents its own challenges; Maresca will speak to the media for the first time since taking over this Friday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Enzo Maresca as Man City manager: Can Italian make a success of his return to a club so entrenched in Pep Guardiola's way?. https://www.skysports.com/football/news/12040/13564300/enzo-maresca-as-man-city-manager-can-italian-make-a-success-of-his-return-to-a-club-so-entrenched-in-pep-guardiolas-way
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Chelsea transfer news: John Stones emerges as potential option after summer exit from Man City
+- Chelsea transfer news: Club interested in former Man City defender John Stones
+- Manchester United supporters groups in uproar over suspension of season tickets
 
 ---
 
 ### Transfers
 
-## Story 3: Spurs break their women's transfer record to sign Alice Sombath from Lyonnes
-**Slug (lower-third):** Spurs break their women's transfer record to sign Alice S…  
-**When:** 2026-07-21 03:47 (America/Winnipeg)  •  **Published:** 2026-07-21 08:47 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 1: Chelsea transfer news: John Stones emerges as potential option after summer exit from Man City
+**Slug (lower-third):** Chelsea transfer news: John Stones emerges as potential o…  
+**When:** 2026-07-21 14:27 (America/Winnipeg)  •  **Published:** 2026-07-21 19:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Spurs break their women's transfer record to sign Alice Sombath from Lyonnes. Tottenham have signed the France defender Alice Sombath from Lyonnes for a club record fee Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Chelsea transfer news: John Stones emerges as potential option after summer exit from Man City. John Stones is searching for a new club following his World Cup campaign with England after leaving Manchester City at the end of his contract earlier this month; Chelsea have raised around PS130m through player sales during the current window, with further departures expected Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +31,7 @@ Spurs break their women's transfer record to sign Alice Sombath from Lyonnes. To
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Spurs break their women's transfer record to sign Alice Sombath from Lyonnes. https://www.theguardian.com/football/2026/jul/21/spurs-sign-alice-sombath-from-lyonnes-transfer-record
+- skysports.com — Chelsea transfer news: John Stones emerges as potential option after summer exit from Man City. https://www.skysports.com/football/news/12040/13565768/chelsea-transfer-news-john-stones-emerges-as-potential-option-after-summer-exit-from-man-city
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +40,13 @@ Spurs break their women's transfer record to sign Alice Sombath from Lyonnes. To
 
 ---
 
-## Story 4: AFC Bournemouth: Alex Scott rejects new contract with Premier League club
-**Slug (lower-third):** AFC Bournemouth: Alex Scott rejects new contract with Pre…  
-**When:** 2026-07-21 03:10 (America/Winnipeg)  •  **Published:** 2026-07-21 08:10 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 2: Chelsea transfer news: Club interested in former Man City defender John Stones
+**Slug (lower-third):** Chelsea transfer news: Club interested in former Man City…  
+**When:** 2026-07-21 13:57 (America/Winnipeg)  •  **Published:** 2026-07-21 18:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-AFC Bournemouth: Alex Scott rejects new contract with Premier League club. Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England Under-21 international. Implications for the squad and table.
+Chelsea transfer news: Club interested in former Man City defender John Stones. Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +55,7 @@ AFC Bournemouth: Alex Scott rejects new contract with Premier League club. Bourn
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — AFC Bournemouth: Alex Scott rejects new contract with Premier League club. https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Chelsea transfer news: Club interested in former Man City defender John Stones. https://www.bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +64,13 @@ AFC Bournemouth: Alex Scott rejects new contract with Premier League club. Bourn
 
 ---
 
-## Story 5: Transfer news: The players who could move before Deadline Day now the World Cup is over
-**Slug (lower-third):** Transfer news: The players who could move before Deadline…  
-**When:** 2026-07-21 03:00 (America/Winnipeg)  •  **Published:** 2026-07-21 08:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~28s
+## Story 3: Alejandro Garnacho transfer news: Aston Villa begin talks to sign forward from Chelsea
+**Slug (lower-third):** Alejandro Garnacho transfer news: Aston Villa begin talks…  
+**When:** 2026-07-21 11:46 (America/Winnipeg)  •  **Published:** 2026-07-21 16:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Transfer news: The players who could move before Deadline Day now the World Cup is over. The Premier League transfer window closes on Tuesday September 1 at 11pm and there are still so many deals to be done; follow every twist and turn on Sky Sports using our dedicated Transfer Centre and club blogs for all the latest news and rumours Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Alejandro Garnacho transfer news: Aston Villa begin talks to sign forward from Chelsea. Aston Villa have begun talks to sign Alejandro Garnacho from Chelsea; the proposal is for a potential loan deal, but Chelsea was a permanent element attached to any move; the Blues are prepared to sell Garnacho for PS42.7m this summer Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +79,8 @@ Transfer news: The players who could move before Deadline Day now the World Cup 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Transfer news: The players who could move before Deadline Day now the World Cup is over. https://www.skysports.com/football/news/12040/13565342/transfer-news-the-players-who-could-move-before-deadline-day-now-the-world-cup-is-over
+- skysports.com — Alejandro Garnacho transfer news: Aston Villa begin talks to sign forward from Chelsea. https://www.skysports.com/football/news/12040/13565713/alejandro-garnacho-transfer-news-aston-villa-begin-talks-to-sign-forward-from-chelsea
+- bbc.co.uk — Aston Villa enter talks to sign Chelsea's Garnacho. https://www.bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +91,13 @@ Transfer news: The players who could move before Deadline Day now the World Cup 
 
 ### Club Updates
 
-## Story 6: 'The utmost respect for him': Alex Ferguson pays tribute to Kevin Keegan
-**Slug (lower-third):** 'The utmost respect for him': Alex Ferguson pays tribute …  
-**When:** 2026-07-21 07:41 (America/Winnipeg)  •  **Published:** 2026-07-21 12:41 (UTC)  
+## Story 4: Manchester United supporters groups in uproar over suspension of season tickets
+**Slug (lower-third):** Manchester United supporters groups in uproar over suspen…  
+**When:** 2026-07-21 13:00 (America/Winnipeg)  •  **Published:** 2026-07-21 18:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'The utmost respect for him': Alex Ferguson pays tribute to Kevin Keegan. Alex Ferguson has said Kevin Keegan's Newcastle side of 1995-96 was their best ever and that 'Kevin carried the love of the game on his sleeve' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Manchester United supporters groups in uproar over suspension of season tickets. Manchester United fan groups have complained to the club over supporters being "treated as suspects" after some had season tickets suspended Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +106,7 @@ Transfer news: The players who could move before Deadline Day now the World Cup 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'The utmost respect for him': Alex Ferguson pays tribute to Kevin Keegan. https://www.theguardian.com/football/2026/jul/21/alex-ferguson-pays-tribute-kevin-keegan-newcastle
+- theguardian.com — Manchester United supporters groups in uproar over suspension of season tickets. https://www.theguardian.com/football/2026/jul/21/manchester-united-supporters-groups-suspension-of-season-tickets
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +115,13 @@ Transfer news: The players who could move before Deadline Day now the World Cup 
 
 ---
 
-## Story 7: Newcastle United: Why club are changing badge
-**Slug (lower-third):** Newcastle United: Why club are changing badge  
-**When:** 2026-07-21 07:34 (America/Winnipeg)  •  **Published:** 2026-07-21 12:34 (UTC)  
+## Story 5: Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia
+**Slug (lower-third):** Liverpool owner in talks to sell stake to QPR co-owner Am…  
+**When:** 2026-07-21 12:20 (America/Winnipeg)  •  **Published:** 2026-07-21 17:20 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle United: Why club are changing badge. Newcastle United supporters are set to vote on a new crest as the club look to change their badge for the first time since 1988. Relevance to standings and momentum.
+Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia. Liverpool's owner, Fenway Sports Group, is negotiating a deal to sell a stake in the club to the QPR co-owner Amit Bhatia Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +130,8 @@ Newcastle United: Why club are changing badge. Newcastle United supporters are s
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Newcastle United: Why club are changing badge. https://www.bbc.co.uk/sport/football/articles/cwyex91dwqlo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia. https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia
+- bbc.co.uk — Liverpool: FSG in talks to sell minority stake to Amit Bhatia consortium. https://www.bbc.co.uk/sport/football/articles/c1j1081dyn1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,37 +140,13 @@ Newcastle United: Why club are changing badge. Newcastle United supporters are s
 
 ---
 
-## Story 8: Arsenal, Aston Villa and Man Utd among Premier League clubs most impacted by injuries and possible World Cup fatigue
-**Slug (lower-third):** Arsenal, Aston Villa and Man Utd among Premier League clu…  
-**When:** 2026-07-21 06:44 (America/Winnipeg)  •  **Published:** 2026-07-21 11:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Arsenal, Aston Villa and Man Utd among Premier League clubs most impacted by injuries and possible World Cup fatigue. Man City had the most players feature at the World Cup but our overall impact index suggests Arsenal, Aston Villa and Man Utd could be most impacted by injuries and fatigue Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Arsenal, Aston Villa and Man Utd among Premier League clubs most impacted by injuries and possible World Cup fatigue. https://www.skysports.com/football/news/12040/13565569/arsenal-aston-villa-and-man-utd-among-premier-league-clubs-most-impacted-by-injuries-and-possible-world-cup-fatigue
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Kone, Summerville, Williams, Torres, Diop
-**Slug (lower-third):** Football gossip: Kone, Summerville, Williams, Torres, Diop  
-**When:** 2026-07-21 06:05 (America/Winnipeg)  •  **Published:** 2026-07-21 11:05 (UTC)  
+## Story 6: Crysencio Summerville: Al Hilal reach agreement with West Ham to sign Netherlands international
+**Slug (lower-third):** Crysencio Summerville: Al Hilal reach agreement with West…  
+**When:** 2026-07-21 12:15 (America/Winnipeg)  •  **Published:** 2026-07-21 17:15 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Kone, Summerville, Williams, Torres, Diop. Manchester United and Arsenal fight over France's Manu Kone, Nico Williams could be heading to the Premier League champions, and West Ham reject latest Crysencio Summerville offer. Relevance to standings and momentum.
+Crysencio Summerville: Al Hilal reach agreement with West Ham to sign Netherlands international. Roma had been trying to strike a deal with the Hammers for the Netherlands international; Sky Sports News understands a PS39m (EUR46m) proposal for Summerville from the Serie A club was rejected. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +155,7 @@ Football gossip: Kone, Summerville, Williams, Torres, Diop. Manchester United an
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Kone, Summerville, Williams, Torres, Diop. https://www.bbc.co.uk/sport/football/articles/c934q4722zyo?at_medium=RSS&at_campaign=rss
+- skysports.com — Crysencio Summerville: Al Hilal reach agreement with West Ham to sign Netherlands international. https://www.skysports.com/football/news/12040/13565724/crysencio-summerville-al-hilal-reach-agreement-with-west-ham-to-sign-netherlands-international
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +164,13 @@ Football gossip: Kone, Summerville, Williams, Torres, Diop. Manchester United an
 
 ---
 
-## Story 10: Today on Sky Sports Racing: Ombudsman's half-sister makes debut at Wolverhampton
-**Slug (lower-third):** Today on Sky Sports Racing: Ombudsman's half-sister makes…  
-**When:** 2026-07-21 01:00 (America/Winnipeg)  •  **Published:** 2026-07-21 06:00 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~22s
+## Story 7: West Ham: Al-Hilal agree APS68m Crysencio Summerville deal
+**Slug (lower-third):** West Ham: Al-Hilal agree APS68m Crysencio Summerville deal  
+**When:** 2026-07-21 11:31 (America/Winnipeg)  •  **Published:** 2026-07-21 16:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Ombudsman's half-sister makes debut at Wolverhampton. All eyes will be on Dunstall Park at 7pm when Syndicale - a half-sister of the great Ombudsman - takes to the track for the first time; Earlier in the day, Sky Sports Racing has Listed action from Vichy - where Horizon Dore faces Zarraf. Relevance to standings and momentum.
+West Ham: Al-Hilal agree APS68m Crysencio Summerville deal. Saudi club Al Hilal agree a APS68.3m deal to sign winger Crysencio Summerville from West Ham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +179,79 @@ Today on Sky Sports Racing: Ombudsman's half-sister makes debut at Wolverhampton
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Ombudsman's half-sister makes debut at Wolverhampton. https://www.skysports.com/racing/news/12040/13565186/today-on-sky-sports-racing-ombudsmans-half-sister-makes-debut-at-wolverhampton
+- bbc.co.uk — West Ham: Al-Hilal agree APS68m Crysencio Summerville deal. https://www.bbc.co.uk/sport/football/articles/ckg91k07gr9o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Anthony Taylor retires: Premier League referee steps down after 16 years in top flight following World Cup
+**Slug (lower-third):** Anthony Taylor retires: Premier League referee steps down…  
+**When:** 2026-07-21 11:00 (America/Winnipeg)  •  **Published:** 2026-07-21 16:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Anthony Taylor retires: Premier League referee steps down after 16 years in top flight following World Cup. Long-serving Premier League referee Anthony Taylor retires with immediate effect after 16 years at top of the game; Taylor also spent 14 years on FIFA list and refereed at two World Cups, with final game Spains win over Portugal last month Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Anthony Taylor retires: Premier League referee steps down after 16 years in top flight following World Cup. https://www.skysports.com/football/news/12040/13565695/anthony-taylor-retires-premier-league-referee-steps-down-after-16-years-in-top-flight-following-world-cup
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Anthony Taylor: Premier League referee announces retirement
+**Slug (lower-third):** Anthony Taylor: Premier League referee announces retireme…  
+**When:** 2026-07-21 10:33 (America/Winnipeg)  •  **Published:** 2026-07-21 15:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Anthony Taylor: Premier League referee announces retirement. Anthony Taylor announces his retirement from refereeing with immediate effect - ending a 20-year career. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Anthony Taylor: Premier League referee announces retirement. https://www.bbc.co.uk/sport/football/articles/c87n8ydlegqo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Kevin Keegan: Sir Alex Ferguson reflects on former rival's time at Newcastle
+**Slug (lower-third):** Kevin Keegan: Sir Alex Ferguson reflects on former rival'…  
+**When:** 2026-07-21 09:42 (America/Winnipeg)  •  **Published:** 2026-07-21 14:42 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Kevin Keegan: Sir Alex Ferguson reflects on former rival's time at Newcastle. Sir Alex Ferguson reflects on Kevin Keegans time at Newcastle following his death at the age of 75. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Kevin Keegan: Sir Alex Ferguson reflects on former rival's time at Newcastle. https://www.skysports.com/watch/video/13565657/kevin-keegan-sir-alex-ferguson-reflects-on-former-rivals-time-at-newcastle
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
