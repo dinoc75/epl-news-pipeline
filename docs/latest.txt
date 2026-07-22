@@ -1,25 +1,145 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-21 14:25 (America/Winnipeg)  |  2026-07-21 19:25 (UTC)
+**Generated:** 2026-07-21 21:45 (America/Winnipeg)  |  2026-07-22 02:45 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 35s
+**Estimated total video length:** ~4m 38s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Chelsea transfer news: John Stones emerges as potential option after summer exit from Man City
-- Chelsea transfer news: Club interested in former Man City defender John Stones
-- Manchester United supporters groups in uproar over suspension of season tickets
+- Man Utd transfer news: PSG midfielder Warren Zaire-Emery targeted as United consider bid
+- Liverpool transfer news: Andoni Iraola wants Alexis Mac Allister and Alisson to stay at Anfield
+- Football gossip: Rashford, Konsa, Diomande
 
 ---
 
 ### Transfers
 
-## Story 1: Chelsea transfer news: John Stones emerges as potential option after summer exit from Man City
+## Story 1: Man Utd transfer news: PSG midfielder Warren Zaire-Emery targeted as United consider bid
+**Slug (lower-third):** Man Utd transfer news: PSG midfielder Warren Zaire-Emery …  
+**When:** 2026-07-21 18:15 (America/Winnipeg)  •  **Published:** 2026-07-21 23:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Man Utd transfer news: PSG midfielder Warren Zaire-Emery targeted as United consider bid. Plus: Arsenal are preparing to step up their interest in Bruno Guimaraes; Cristiano Ronaldo has appeared to like an Instagram post claiming that FIFA helped Argentina to the World Cup final; Celtic have made an enquiry for ex-Hearts star James Penrice Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man Utd transfer news: PSG midfielder Warren Zaire-Emery targeted as United consider bid. https://www.skysports.com/football/news/12040/13565784/xxxx-paper-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Liverpool transfer news: Andoni Iraola wants Alexis Mac Allister and Alisson to stay at Anfield
+**Slug (lower-third):** Liverpool transfer news: Andoni Iraola wants Alexis Mac A…  
+**When:** 2026-07-21 17:46 (America/Winnipeg)  •  **Published:** 2026-07-21 22:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool transfer news: Andoni Iraola wants Alexis Mac Allister and Alisson to stay at Anfield. Liverpool boss Andoni Iraola wants midfielder Alexis Mac Allister and goalkeeper Alisson to remain at the club. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Liverpool transfer news: Andoni Iraola wants Alexis Mac Allister and Alisson to stay at Anfield. https://www.bbc.co.uk/sport/football/articles/cpd7n21n2qno?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: AFC Bournemouth: Chelsea have APS64m bid rejected for Alex Scott
+**Slug (lower-third):** AFC Bournemouth: Chelsea have APS64m bid rejected for Ale…  
+**When:** 2026-07-21 16:47 (America/Winnipeg)  •  **Published:** 2026-07-21 21:47 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+AFC Bournemouth: Chelsea have APS64m bid rejected for Alex Scott. Bournemouth reject a APS64m bid from Chelsea for Alex Scot after the midfielder turns down a new contract amid growing Premier League interest. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — AFC Bournemouth: Chelsea have APS64m bid rejected for Alex Scott. https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Morgan Rogers transfer news: Chelsea complete record-breaking PS117m deal to sign forward from Aston Villa
+**Slug (lower-third):** Morgan Rogers transfer news: Chelsea complete record-brea…  
+**When:** 2026-07-21 16:40 (America/Winnipeg)  •  **Published:** 2026-07-21 21:40 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~26s
+
+### Presenter Script (3–5 sentences)
+Morgan Rogers transfer news: Chelsea complete record-breaking PS117m deal to sign forward from Aston Villa. Chelsea have signed Morgan Rogers from Aston Villa for PS117m; the 23-year-old forward becomes the most expensive British player; sum beats Elliot Andersons PS116m move to Man City earlier this summer; Rogers has signed a seven-year deal at Stamford Bridge Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Morgan Rogers transfer news: Chelsea complete record-breaking PS117m deal to sign forward from Aston Villa. https://www.skysports.com/football/news/12040/13564944/morgan-rogers-transfer-news-chelsea-complete-record-breaking-117m-deal-to-sign-forward-from-aston-villa
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Morgan Rogers 'excited to join biggest club in London' after making PS117m Chelsea move
+**Slug (lower-third):** Morgan Rogers 'excited to join biggest club in London' af…  
+**When:** 2026-07-21 16:16 (America/Winnipeg)  •  **Published:** 2026-07-21 21:16 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Morgan Rogers 'excited to join biggest club in London' after making PS117m Chelsea move. Morgan Rogers has joined Chelsea from Aston Villa for a fee of PS117m, signing a seven-year deal to become the Blues' record signing Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Morgan Rogers 'excited to join biggest club in London' after making PS117m Chelsea move. https://www.theguardian.com/football/2026/jul/21/morgan-rogers-biggest-club-london-117m-chelsea-deal
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Chelsea transfer news: John Stones emerges as potential option after summer exit from Man City
 **Slug (lower-third):** Chelsea transfer news: John Stones emerges as potential o…  
 **When:** 2026-07-21 14:27 (America/Winnipeg)  •  **Published:** 2026-07-21 19:27 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+**Virality score:** 95  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
 Chelsea transfer news: John Stones emerges as potential option after summer exit from Man City. John Stones is searching for a new club following his World Cup campaign with England after leaving Manchester City at the end of his contract earlier this month; Chelsea have raised around PS130m through player sales during the current window, with further departures expected Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -40,10 +160,10 @@ Chelsea transfer news: John Stones emerges as potential option after summer exit
 
 ---
 
-## Story 2: Chelsea transfer news: Club interested in former Man City defender John Stones
+## Story 7: Chelsea transfer news: Club interested in former Man City defender John Stones
 **Slug (lower-third):** Chelsea transfer news: Club interested in former Man City…  
 **When:** 2026-07-21 13:57 (America/Winnipeg)  •  **Published:** 2026-07-21 18:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Chelsea transfer news: Club interested in former Man City defender John Stones. Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City. Implications for the squad and table.
@@ -64,40 +184,15 @@ Chelsea transfer news: Club interested in former Man City defender John Stones. 
 
 ---
 
-## Story 3: Alejandro Garnacho transfer news: Aston Villa begin talks to sign forward from Chelsea
-**Slug (lower-third):** Alejandro Garnacho transfer news: Aston Villa begin talks…  
-**When:** 2026-07-21 11:46 (America/Winnipeg)  •  **Published:** 2026-07-21 16:46 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Alejandro Garnacho transfer news: Aston Villa begin talks to sign forward from Chelsea. Aston Villa have begun talks to sign Alejandro Garnacho from Chelsea; the proposal is for a potential loan deal, but Chelsea was a permanent element attached to any move; the Blues are prepared to sell Garnacho for PS42.7m this summer Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Alejandro Garnacho transfer news: Aston Villa begin talks to sign forward from Chelsea. https://www.skysports.com/football/news/12040/13565713/alejandro-garnacho-transfer-news-aston-villa-begin-talks-to-sign-forward-from-chelsea
-- bbc.co.uk — Aston Villa enter talks to sign Chelsea's Garnacho. https://www.bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 4: Manchester United supporters groups in uproar over suspension of season tickets
-**Slug (lower-third):** Manchester United supporters groups in uproar over suspen…  
-**When:** 2026-07-21 13:00 (America/Winnipeg)  •  **Published:** 2026-07-21 18:00 (UTC)  
+## Story 8: Football gossip: Rashford, Konsa, Diomande
+**Slug (lower-third):** Football gossip: Rashford, Konsa, Diomande  
+**When:** 2026-07-21 17:44 (America/Winnipeg)  •  **Published:** 2026-07-21 22:44 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United supporters groups in uproar over suspension of season tickets. Manchester United fan groups have complained to the club over supporters being "treated as suspects" after some had season tickets suspended Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Football gossip: Rashford, Konsa, Diomande. A trio of Premier League heavyweights all want Marcus Rashford, Arsenal are interested in Aston Villa's Ezri Konsa, and Nottingham Forest look set to sign a new defender. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,7 +201,7 @@ Manchester United supporters groups in uproar over suspension of season tickets.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Manchester United supporters groups in uproar over suspension of season tickets. https://www.theguardian.com/football/2026/jul/21/manchester-united-supporters-groups-suspension-of-season-tickets
+- bbc.co.uk — Football gossip: Rashford, Konsa, Diomande. https://www.bbc.co.uk/sport/football/articles/c70g8j875klo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,13 +210,13 @@ Manchester United supporters groups in uproar over suspension of season tickets.
 
 ---
 
-## Story 5: Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia
-**Slug (lower-third):** Liverpool owner in talks to sell stake to QPR co-owner Am…  
-**When:** 2026-07-21 12:20 (America/Winnipeg)  •  **Published:** 2026-07-21 17:20 (UTC)  
+## Story 9: Liverpool owner FSG in talks to sell 30% stake to Amit Bhatia consortium for PS1.35bn
+**Slug (lower-third):** Liverpool owner FSG in talks to sell 30% stake to Amit Bh…  
+**When:** 2026-07-21 15:13 (America/Winnipeg)  •  **Published:** 2026-07-21 20:13 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia. Liverpool's owner, Fenway Sports Group, is negotiating a deal to sell a stake in the club to the QPR co-owner Amit Bhatia Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Liverpool owner FSG in talks to sell 30% stake to Amit Bhatia consortium for PS1.35bn. Liverpool's owner, Fenway Sports Group, is negotiating a deal to sell a 30% stake in the club to a consortium led by Amit Bhatia for PS1.35bn Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,7 +225,7 @@ Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia. Liverpool's 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia. https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia
+- theguardian.com — Liverpool owner FSG in talks to sell 30% stake to Amit Bhatia consortium for PS1.35bn. https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia
 - bbc.co.uk — Liverpool: FSG in talks to sell minority stake to Amit Bhatia consortium. https://www.bbc.co.uk/sport/football/articles/c1j1081dyn1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
@@ -140,13 +235,13 @@ Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia. Liverpool's 
 
 ---
 
-## Story 6: Crysencio Summerville: Al Hilal reach agreement with West Ham to sign Netherlands international
-**Slug (lower-third):** Crysencio Summerville: Al Hilal reach agreement with West…  
-**When:** 2026-07-21 12:15 (America/Winnipeg)  •  **Published:** 2026-07-21 17:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Manchester United supporters groups in uproar over suspension of season tickets
+**Slug (lower-third):** Manchester United supporters groups in uproar over suspen…  
+**When:** 2026-07-21 13:00 (America/Winnipeg)  •  **Published:** 2026-07-21 18:00 (UTC)  
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Crysencio Summerville: Al Hilal reach agreement with West Ham to sign Netherlands international. Roma had been trying to strike a deal with the Hammers for the Netherlands international; Sky Sports News understands a PS39m (EUR46m) proposal for Summerville from the Serie A club was rejected. Relevance to standings and momentum.
+Manchester United supporters groups in uproar over suspension of season tickets. Manchester United fan groups have complained to the club over supporters being "'treated as suspects' after some had season tickets suspended Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,103 +250,7 @@ Crysencio Summerville: Al Hilal reach agreement with West Ham to sign Netherland
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Crysencio Summerville: Al Hilal reach agreement with West Ham to sign Netherlands international. https://www.skysports.com/football/news/12040/13565724/crysencio-summerville-al-hilal-reach-agreement-with-west-ham-to-sign-netherlands-international
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: West Ham: Al-Hilal agree APS68m Crysencio Summerville deal
-**Slug (lower-third):** West Ham: Al-Hilal agree APS68m Crysencio Summerville deal  
-**When:** 2026-07-21 11:31 (America/Winnipeg)  •  **Published:** 2026-07-21 16:31 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-West Ham: Al-Hilal agree APS68m Crysencio Summerville deal. Saudi club Al Hilal agree a APS68.3m deal to sign winger Crysencio Summerville from West Ham. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — West Ham: Al-Hilal agree APS68m Crysencio Summerville deal. https://www.bbc.co.uk/sport/football/articles/ckg91k07gr9o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Anthony Taylor retires: Premier League referee steps down after 16 years in top flight following World Cup
-**Slug (lower-third):** Anthony Taylor retires: Premier League referee steps down…  
-**When:** 2026-07-21 11:00 (America/Winnipeg)  •  **Published:** 2026-07-21 16:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Anthony Taylor retires: Premier League referee steps down after 16 years in top flight following World Cup. Long-serving Premier League referee Anthony Taylor retires with immediate effect after 16 years at top of the game; Taylor also spent 14 years on FIFA list and refereed at two World Cups, with final game Spains win over Portugal last month Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Anthony Taylor retires: Premier League referee steps down after 16 years in top flight following World Cup. https://www.skysports.com/football/news/12040/13565695/anthony-taylor-retires-premier-league-referee-steps-down-after-16-years-in-top-flight-following-world-cup
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Anthony Taylor: Premier League referee announces retirement
-**Slug (lower-third):** Anthony Taylor: Premier League referee announces retireme…  
-**When:** 2026-07-21 10:33 (America/Winnipeg)  •  **Published:** 2026-07-21 15:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Anthony Taylor: Premier League referee announces retirement. Anthony Taylor announces his retirement from refereeing with immediate effect - ending a 20-year career. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Anthony Taylor: Premier League referee announces retirement. https://www.bbc.co.uk/sport/football/articles/c87n8ydlegqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Kevin Keegan: Sir Alex Ferguson reflects on former rival's time at Newcastle
-**Slug (lower-third):** Kevin Keegan: Sir Alex Ferguson reflects on former rival'…  
-**When:** 2026-07-21 09:42 (America/Winnipeg)  •  **Published:** 2026-07-21 14:42 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Kevin Keegan: Sir Alex Ferguson reflects on former rival's time at Newcastle. Sir Alex Ferguson reflects on Kevin Keegans time at Newcastle following his death at the age of 75. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Kevin Keegan: Sir Alex Ferguson reflects on former rival's time at Newcastle. https://www.skysports.com/watch/video/13565657/kevin-keegan-sir-alex-ferguson-reflects-on-former-rivals-time-at-newcastle
+- theguardian.com — Manchester United supporters groups in uproar over suspension of season tickets. https://www.theguardian.com/football/2026/jul/21/manchester-united-supporters-groups-suspension-of-season-tickets
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
