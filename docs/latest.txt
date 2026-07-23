@@ -1,28 +1,54 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-23 03:32 (America/Winnipeg)  |  2026-07-23 08:32 (UTC)
+**Generated:** 2026-07-23 09:03 (America/Winnipeg)  |  2026-07-23 14:03 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 37s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Tottenham 1-0 MK Dons | Pre-season highlights
-- BBC Sport quiz: Who am I? Guess Premier League footballer #3
-- Arsenal reveal William Saliba out for 'extended period' with back injury
+- Alejandro Garnacho to Aston Villa: Why the winger's Chelsea-Aston Villa transfer is complicated
+- West Ham: Laia Codina on Rita Guarino, a new project and Spain success
+- Arsenal transfer news: Christos Tzolis signs from Club Brugge for APS34m
+
+---
+
+### Managerial Moves
+
+## Story 1: Liverpool: Andoni Iraola reveals talks with other clubs before Anfield move
+**Slug (lower-third):** Liverpool: Andoni Iraola reveals talks with other clubs b…  
+**When:** 2026-07-23 07:44 (America/Winnipeg)  •  **Published:** 2026-07-23 12:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool: Andoni Iraola reveals talks with other clubs before Anfield move. New Liverpool manager Andoni Iraola says he was in talks with other clubs before the Reds swooped - then "things moved quite fast" to take him to Anfield. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Liverpool: Andoni Iraola reveals talks with other clubs before Anfield move. https://www.bbc.co.uk/sport/football/articles/cg4d5ex1ewzo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Transfers
 
-## Story 1: Alejandro Garnacho: Aston Villa agree loan deal for Chelsea winger
-**Slug (lower-third):** Alejandro Garnacho: Aston Villa agree loan deal for Chels…  
-**When:** 2026-07-22 15:19 (America/Winnipeg)  •  **Published:** 2026-07-22 20:19 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 2: Alejandro Garnacho to Aston Villa: Why the winger's Chelsea-Aston Villa transfer is complicated
+**Slug (lower-third):** Alejandro Garnacho to Aston Villa: Why the winger's Chels…  
+**When:** 2026-07-23 08:59 (America/Winnipeg)  •  **Published:** 2026-07-23 13:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Alejandro Garnacho: Aston Villa agree loan deal for Chelsea winger. Aston Villa agree a loan deal for Chelsea winger Alejandro Garnacho until the end of the 2026-27 season, with an obligation to buy. Implications for the squad and table.
+Alejandro Garnacho to Aston Villa: Why the winger's Chelsea-Aston Villa transfer is complicated. Sky Sports James Savundra explains the complications behind Alejandro Garnachos move from Chelsea to Aston Villa... Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,8 +57,7 @@ Alejandro Garnacho: Aston Villa agree loan deal for Chelsea winger. Aston Villa 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Alejandro Garnacho: Aston Villa agree loan deal for Chelsea winger. https://www.bbc.co.uk/sport/football/articles/cly9nrel0pyo?at_medium=RSS&at_campaign=rss
-- skysports.com — Alejandro Garnacho transfer news: Aston Villa agree deal with Chelsea for winger. https://www.skysports.com/football/news/12040/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger
+- skysports.com — Alejandro Garnacho to Aston Villa: Why the winger's Chelsea-Aston Villa transfer is complicated. https://www.skysports.com/watch/video/13566318/explained-why-a-move-for-alejandro-garnacho-from-chelsea-to-aston-villa-is-complicated
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -41,13 +66,13 @@ Alejandro Garnacho: Aston Villa agree loan deal for Chelsea winger. Aston Villa 
 
 ---
 
-## Story 2: Man City transfer news: Rodri pushing for Real Madrid move despite being set to undergo back surgery
-**Slug (lower-third):** Man City transfer news: Rodri pushing for Real Madrid mov…  
-**When:** 2026-07-22 17:45 (America/Winnipeg)  •  **Published:** 2026-07-22 22:45 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~28s
+## Story 3: Arsenal transfer news: Christos Tzolis signs from Club Brugge for APS34m
+**Slug (lower-third):** Arsenal transfer news: Christos Tzolis signs from Club Br…  
+**When:** 2026-07-23 08:04 (America/Winnipeg)  •  **Published:** 2026-07-23 13:04 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City transfer news: Rodri pushing for Real Madrid move despite being set to undergo back surgery. Plus: Liverpool believe they are in the driving seat to sign Bradley Barcola; Bruno Fernandes plans to pledge his future to Manchester United this month; an Argentina coach has spoken out about the physical altercation he was involved with after the World Cup final Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Arsenal transfer news: Christos Tzolis signs from Club Brugge for APS34m. Arsenal sign "extremely versatile attacking player" Christos Tzolis from Club Brugge for APS34m. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -56,7 +81,8 @@ Man City transfer news: Rodri pushing for Real Madrid move despite being set to 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man City transfer news: Rodri pushing for Real Madrid move despite being set to undergo back surgery. https://www.skysports.com/football/news/12040/13566135/man-city-transfer-news-rodri-pushing-for-real-madrid-move-despite-being-set-to-undergo-back-surgery
+- bbc.co.uk — Arsenal transfer news: Christos Tzolis signs from Club Brugge for APS34m. https://www.bbc.co.uk/sport/football/articles/cp8xk0x902do?at_medium=RSS&at_campaign=rss
+- skysports.com — Arsenal transfer news: Christos Tzolis signs in PS34m deal from Club Brugge as replacement for Leandro Trossard. https://www.skysports.com/football/news/12040/13564283/arsenal-transfer-news-christos-tzolis-signs-in-34m-deal-from-club-brugge-as-replacement-for-leandro-trossard
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -65,13 +91,13 @@ Man City transfer news: Rodri pushing for Real Madrid move despite being set to 
 
 ---
 
-## Story 3: Casemiro transfer news: Former Man Utd midfielder joins Inter Miami on free transfer
-**Slug (lower-third):** Casemiro transfer news: Former Man Utd midfielder joins I…  
-**When:** 2026-07-22 12:30 (America/Winnipeg)  •  **Published:** 2026-07-22 17:30 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~29s
+## Story 4: Transfer roundup: Barcelona sign Adeyemi, Monaco's Bamba set for Newcastle
+**Slug (lower-third):** Transfer roundup: Barcelona sign Adeyemi, Monaco's Bamba …  
+**When:** 2026-07-23 07:09 (America/Winnipeg)  •  **Published:** 2026-07-23 12:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Casemiro transfer news: Former Man Utd midfielder joins Inter Miami on free transfer. Casemiro left Manchester United after four years at Old Trafford; during his time at United he scored in the League Cup final victory in 2023 and reached two FA Cup finals, winning the competition in 2024; he was also part of the United side that reached the Europa League final in 2025 Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Transfer roundup: Barcelona sign Adeyemi, Monaco's Bamba set for Newcastle. Karim Adeyemi has signed for Barcelona from Borussia Dortmund in a PS19m deal while Newcastle are close to a PS34m deal for Monaco's Aladji Bamba Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -80,24 +106,22 @@ Casemiro transfer news: Former Man Utd midfielder joins Inter Miami on free tran
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Casemiro transfer news: Former Man Utd midfielder joins Inter Miami on free transfer. https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer
+- theguardian.com — Transfer roundup: Barcelona sign Adeyemi, Monaco's Bamba set for Newcastle. https://www.theguardian.com/football/2026/jul/23/transfer-roundup-barcelona-sign-karim-adeyemi-newcastle-aladji-bamba-monaco
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### Injuries
-
-## Story 4: Arsenal reveal William Saliba out for 'extended period' with back injury
-**Slug (lower-third):** Arsenal reveal William Saliba out for 'extended period' w…  
-**When:** 2026-07-22 16:05 (America/Winnipeg)  •  **Published:** 2026-07-22 21:05 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 5: Man Utd transfer news: Manu Kone and Carlos Baleba strongly considered in search for third midfielder signing
+**Slug (lower-third):** Man Utd transfer news: Manu Kone and Carlos Baleba strong…  
+**When:** 2026-07-23 07:00 (America/Winnipeg)  •  **Published:** 2026-07-23 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Arsenal reveal William Saliba out for 'extended period' with back injury. The France centre-back was forced off in the World Cup semi-final against Spain and will now sit out Arsenal's pre-season Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Man Utd transfer news: Manu Kone and Carlos Baleba strongly considered in search for third midfielder signing. Romas Manu Kone and Brightons Carlos Baleba strongly considered by Man Utd in search for third midfielder signing; United have moved to revisit a deal for Baleba while tentatively exploring a deal for Kone, with sources in France believing Man Utd lead the race to sign the Frenchman Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,8 +130,31 @@ Arsenal reveal William Saliba out for 'extended period' with back injury. The Fr
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Arsenal reveal William Saliba out for 'extended period' with back injury. https://www.theguardian.com/football/2026/jul/22/arsenal-william-saliba-back-injury-france-world-cup
-- skysports.com — William Saliba injury: Arsenal confirm France international will miss 'extended period' after returning from World Cup with back problem. https://www.skysports.com/football/news/12040/13566125/william-saliba-injury-arsenal-confirm-france-international-will-miss-extended-period-after-returning-from-world-cup-with-back-problem
+- skysports.com — Man Utd transfer news: Manu Kone and Carlos Baleba strongly considered in search for third midfielder signing. https://www.skysports.com/football/news/12040/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Newcastle: Aladji Bamba APS34m deal agreed with Monaco
+**Slug (lower-third):** Newcastle: Aladji Bamba APS34m deal agreed with Monaco  
+**When:** 2026-07-23 06:17 (America/Winnipeg)  •  **Published:** 2026-07-23 11:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Newcastle: Aladji Bamba APS34m deal agreed with Monaco. Midfielder Aladji Bamba is due to arrive on Thursday for a medical and to sign a long-term contract. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Newcastle: Aladji Bamba APS34m deal agreed with Monaco. https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,13 +165,13 @@ Arsenal reveal William Saliba out for 'extended period' with back injury. The Fr
 
 ### Club Updates
 
-## Story 5: Tottenham 1-0 MK Dons | Pre-season highlights
-**Slug (lower-third):** Tottenham 1-0 MK Dons | Pre-season highlights  
-**When:** 2026-07-23 02:20 (America/Winnipeg)  •  **Published:** 2026-07-23 07:20 (UTC)  
+## Story 7: West Ham: Laia Codina on Rita Guarino, a new project and Spain success
+**Slug (lower-third):** West Ham: Laia Codina on Rita Guarino, a new project and …  
+**When:** 2026-07-23 08:22 (America/Winnipeg)  •  **Published:** 2026-07-23 13:22 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham 1-0 MK Dons | Pre-season highlights. Watch highlights of the pre-season friendly between Tottenham and MK Dons. Credit: SPURSPLAY. Relevance to standings and momentum.
+West Ham: Laia Codina on Rita Guarino, a new project and Spain success. Laia Codina won trophies and found a "new family" during her three-year spell at Arsenal - but she was ready for a change with West Ham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +180,7 @@ Tottenham 1-0 MK Dons | Pre-season highlights. Watch highlights of the pre-seaso
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham 1-0 MK Dons | Pre-season highlights. https://www.skysports.com/watch/video/13566172/tottenham-1-0-mk-dons-pre-season-highlights
+- bbc.co.uk — West Ham: Laia Codina on Rita Guarino, a new project and Spain success. https://www.bbc.co.uk/sport/football/articles/cn4nmjwl8j1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +189,13 @@ Tottenham 1-0 MK Dons | Pre-season highlights. Watch highlights of the pre-seaso
 
 ---
 
-## Story 6: BBC Sport quiz: Who am I? Guess Premier League footballer #3
-**Slug (lower-third):** BBC Sport quiz: Who am I? Guess Premier League footballer…  
-**When:** 2026-07-23 00:46 (America/Winnipeg)  •  **Published:** 2026-07-23 05:46 (UTC)  
+## Story 8: Aston Villa season preview: Can Unai Emery work magic again?
+**Slug (lower-third):** Aston Villa season preview: Can Unai Emery work magic aga…  
+**When:** 2026-07-23 07:35 (America/Winnipeg)  •  **Published:** 2026-07-23 12:35 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-BBC Sport quiz: Who am I? Guess Premier League footballer #3. Will you get today's player in as few attempts as possible? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Aston Villa season preview: Can Unai Emery work magic again?. Aston Villa are back in the Champions League but must now cope with the loss of key players Morgan Rogers and Youri Tielemans. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +204,7 @@ BBC Sport quiz: Who am I? Guess Premier League footballer #3. Will you get today
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — BBC Sport quiz: Who am I? Guess Premier League footballer #3. https://www.bbc.co.uk/sport/football/articles/c5yw3yv2jxgo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Aston Villa season preview: Can Unai Emery work magic again?. https://www.bbc.co.uk/sport/football/articles/czxevl7vgz6o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +213,13 @@ BBC Sport quiz: Who am I? Guess Premier League footballer #3. Will you get today
 
 ---
 
-## Story 7: Football gossip: Barcola, Scott, Fernandes, Odegaard, Willock, Camavinga, Disasi
-**Slug (lower-third):** Football gossip: Barcola, Scott, Fernandes, Odegaard, Wil…  
-**When:** 2026-07-22 17:22 (America/Winnipeg)  •  **Published:** 2026-07-22 22:22 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 9: Leeds United: Leeds in talks to sign goalkeeper James Trafford from Manchester City
+**Slug (lower-third):** Leeds United: Leeds in talks to sign goalkeeper James Tra…  
+**When:** 2026-07-23 06:56 (America/Winnipeg)  •  **Published:** 2026-07-23 11:56 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Barcola, Scott, Fernandes, Odegaard, Willock, Camavinga, Disasi. Alex Scott favours a move to Arsenal, Bruno Fernandes is ready to commit his future to Manchester United, Liverpool are confident they will sign Bradley Barcola, plus more. Relevance to standings and momentum.
+Leeds United: Leeds in talks to sign goalkeeper James Trafford from Manchester City. Leeds United are in discussions with Manchester City to sign goalkeeper James Trafford. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,7 +228,7 @@ Football gossip: Barcola, Scott, Fernandes, Odegaard, Willock, Camavinga, Disasi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Barcola, Scott, Fernandes, Odegaard, Willock, Camavinga, Disasi. https://www.bbc.co.uk/sport/football/articles/c78gx10d9n4o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Leeds United: Leeds in talks to sign goalkeeper James Trafford from Manchester City. https://www.bbc.co.uk/sport/football/articles/clyl7eve9ddo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +237,13 @@ Football gossip: Barcola, Scott, Fernandes, Odegaard, Willock, Camavinga, Disasi
 
 ---
 
-## Story 8: Wolves: Striker Tolu Arokodare forces training to be cancelled
-**Slug (lower-third):** Wolves: Striker Tolu Arokodare forces training to be canc…  
-**When:** 2026-07-22 17:20 (America/Winnipeg)  •  **Published:** 2026-07-22 22:20 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 10: Manchester United consider Camavinga and Berge as midfield overhaul continues
+**Slug (lower-third):** Manchester United consider Camavinga and Berge as midfiel…  
+**When:** 2026-07-23 06:41 (America/Winnipeg)  •  **Published:** 2026-07-23 11:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Wolves: Striker Tolu Arokodare forces training to be cancelled. Wolves striker Tolu Arokodare forces the cancellation of a training session as he refuses to leave the pitch. Relevance to standings and momentum.
+Manchester United consider Camavinga and Berge as midfield overhaul continues. Real Madrid's Eduardo Camavinga and Fulham's Sander Berge are on United's radar despite the club havig already signed two midfielders this summer Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,55 +252,7 @@ Wolves: Striker Tolu Arokodare forces training to be cancelled. Wolves striker T
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Wolves: Striker Tolu Arokodare forces training to be cancelled. https://www.bbc.co.uk/sport/football/articles/cr5934j1jmdo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Casemiro: Inter Miami being investigated for tampering after signing ex-Manchester United midfielder
-**Slug (lower-third):** Casemiro: Inter Miami being investigated for tampering af…  
-**When:** 2026-07-22 15:44 (America/Winnipeg)  •  **Published:** 2026-07-22 20:44 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Casemiro: Inter Miami being investigated for tampering after signing ex-Manchester United midfielder. Major League Soccer says it is investigating allegations of tampering by Inter Miami after the club signed Brazil midfielder Casemiro. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Casemiro: Inter Miami being investigated for tampering after signing ex-Manchester United midfielder. https://www.bbc.co.uk/sport/football/articles/c3304ex7n7xo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield
-**Slug (lower-third):** Liverpool primed for business: Bezos, Bhatia and the next…  
-**When:** 2026-07-22 14:31 (America/Winnipeg)  •  **Published:** 2026-07-22 19:31 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield. Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi Mittal, while the Amazon founder has now been linked Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield. https://www.theguardian.com/football/2026/jul/22/liverpool-open-talks-over-selling-significant-stake-in-the-club
+- theguardian.com — Manchester United consider Camavinga and Berge as midfield overhaul continues. https://www.theguardian.com/football/2026/jul/23/manchester-united-consider-eduardo-camavinga-sander-berge-midfield-overhaul
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
