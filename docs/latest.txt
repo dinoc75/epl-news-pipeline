@@ -1,49 +1,25 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-23 21:46 (America/Winnipeg)  |  2026-07-24 02:46 (UTC)
+**Generated:** 2026-07-24 03:29 (America/Winnipeg)  |  2026-07-24 08:29 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 53s
+**Estimated total video length:** ~4m 47s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Man Utd transfer news: Eduardo Camavinga valuation revealed amid interest in Real Madrid midfielder
-- Football gossip: Tchouameni, Kone, Baleba, Stones, Konsa, Alajbegovic, Disasi, Diomande, Maeda, Harrison, Garner, Fernandez
-- Jermain Defoe: Former England striker leaves role as Woking manager after four months
+- Maxence Lacroix transfer news: Chelsea agree deal to sign France defender from Crystal Palace
+- Women's Super League: Man Utd sign goalkeeper Janina Leitzig
+- Newcastle transfer philosophy: Why Magpies are aiming to emulate Borussia Dortmund's work on young players
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Man Utd transfer news: Eduardo Camavinga valuation revealed amid interest in Real Madrid midfielder
-**Slug (lower-third):** Man Utd transfer news: Eduardo Camavinga valuation reveal…  
-**When:** 2026-07-23 17:30 (America/Winnipeg)  •  **Published:** 2026-07-23 22:30 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Man Utd transfer news: Eduardo Camavinga valuation revealed amid interest in Real Madrid midfielder. Plus: Pep Guardiola is set to turn down the opportunity to become the new Italy head coach; Chelsea outcast Axel Disasi is linked with a move to Ruben Amorims AC Milan; a player from a Polish team set to face off with Rangers has gone AWOL Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Man Utd transfer news: Eduardo Camavinga valuation revealed amid interest in Real Madrid midfielder. https://www.skysports.com/football/news/12040/13566448/man-utd-transfer-news-eduardo-camavinga-valuation-revealed-amid-interest-in-real-madrid-midfielder
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Jermain Defoe: Former England striker leaves role as Woking manager after four months
+## Story 1: Jermain Defoe: Former England striker leaves role as Woking manager after four months
 **Slug (lower-third):** Jermain Defoe: Former England striker leaves role as Woki…  
 **When:** 2026-07-23 16:02 (America/Winnipeg)  •  **Published:** 2026-07-23 21:02 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Jermain Defoe: Former England striker leaves role as Woking manager after four months. Former England and Tottenham striker Jermain Defoe has described his first managerial job as an "eye-opening experience" following his departure from National League side Woking after just four months and nine matches in charge. Relevance to standings and momentum.
@@ -66,13 +42,13 @@ Jermain Defoe: Former England striker leaves role as Woking manager after four m
 
 ### Transfers
 
-## Story 3: Bruno Guimaraes transfer news: Arsenal set to bid APS70m for Newcastle midfielder
-**Slug (lower-third):** Bruno Guimaraes transfer news: Arsenal set to bid APS70m …  
-**When:** 2026-07-23 11:56 (America/Winnipeg)  •  **Published:** 2026-07-23 16:56 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 2: Maxence Lacroix transfer news: Chelsea agree deal to sign France defender from Crystal Palace
+**Slug (lower-third):** Maxence Lacroix transfer news: Chelsea agree deal to sign…  
+**When:** 2026-07-24 04:20 (America/Winnipeg)  •  **Published:** 2026-07-24 09:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
 
 ### Presenter Script (3–5 sentences)
-Bruno Guimaraes transfer news: Arsenal set to bid APS70m for Newcastle midfielder. Arsenal are set to make a APS70m offer for Newcastle captain Bruno Guimaraes. Implications for the squad and table.
+Maxence Lacroix transfer news: Chelsea agree deal to sign France defender from Crystal Palace. Chelsea have agreed a deal with Crystal Palace for defender Maxence Lacroix; the 26-year-old joined the Eagles from Wolfsburg in 2024, helping them win the FA Cup and UEFA Conference League Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +57,7 @@ Bruno Guimaraes transfer news: Arsenal set to bid APS70m for Newcastle midfielde
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Bruno Guimaraes transfer news: Arsenal set to bid APS70m for Newcastle midfielder. https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss
+- skysports.com — Maxence Lacroix transfer news: Chelsea agree deal to sign France defender from Crystal Palace. https://www.skysports.com/football/news/12040/13565648/maxence-lacroix-transfer-news-chelsea-agree-deal-to-sign-france-defender-from-crystal-palace
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +66,13 @@ Bruno Guimaraes transfer news: Arsenal set to bid APS70m for Newcastle midfielde
 
 ---
 
-## Story 4: Alejandro Garnacho transfer news: Aston Villa offer winger route to redemption after completing Chelsea exit
-**Slug (lower-third):** Alejandro Garnacho transfer news: Aston Villa offer winge…  
-**When:** 2026-07-23 10:05 (America/Winnipeg)  •  **Published:** 2026-07-23 15:05 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~27s
+## Story 3: Women's Super League: Man Utd sign goalkeeper Janina Leitzig
+**Slug (lower-third):** Women's Super League: Man Utd sign goalkeeper Janina Leit…  
+**When:** 2026-07-24 03:07 (America/Winnipeg)  •  **Published:** 2026-07-24 08:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Alejandro Garnacho transfer news: Aston Villa offer winger route to redemption after completing Chelsea exit. Sky Sports assesses why Aston Villa could offer the perfect environment for Alejandro Garnacho to revive his career; the 22-year-old has joined the club from Chelsea on an initial loan deal with an obligation to make the switch permanent if certain conditions are met Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Women's Super League: Man Utd sign goalkeeper Janina Leitzig. Manchester United sign goalkeeper Janina Leitzig from Leicester City for an undisclosed fee. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +81,31 @@ Alejandro Garnacho transfer news: Aston Villa offer winger route to redemption a
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Alejandro Garnacho transfer news: Aston Villa offer winger route to redemption after completing Chelsea exit. https://www.skysports.com/football/news/12040/13566210/alejandro-garnacho-transfer-news-aston-villa-offer-winger-route-to-redemption-after-completing-chelsea-exit
+- bbc.co.uk — Women's Super League: Man Utd sign goalkeeper Janina Leitzig. https://www.bbc.co.uk/sport/football/articles/czjle91ry39o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Newcastle transfer philosophy: Why Magpies are aiming to emulate Borussia Dortmund's work on young players
+**Slug (lower-third):** Newcastle transfer philosophy: Why Magpies are aiming to …  
+**When:** 2026-07-24 03:00 (America/Winnipeg)  •  **Published:** 2026-07-24 08:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Newcastle transfer philosophy: Why Magpies are aiming to emulate Borussia Dortmund's work on young players. Newcastle are looking to adopt a recruitment model similar to Borussia Dortmund, which has brought through Jude Bellingham, Erling Haaland and Jadon Sancho; Magpies have signed three players this summer aged 21 and under and are close to a fourth in Monacos Aladji Bamba Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Newcastle transfer philosophy: Why Magpies are aiming to emulate Borussia Dortmund's work on young players. https://www.skysports.com/football/news/12040/13566313/newcastle-transfer-philosophy-why-magpies-are-aiming-to-emulate-borussia-dortmunds-work-on-young-players
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -119,7 +119,7 @@ Alejandro Garnacho transfer news: Aston Villa offer winger route to redemption a
 ## Story 5: Malaysian GP: Formula 1 considering Sepang return to 2026 calendar as replacement race before Singapore Grand Prix
 **Slug (lower-third):** Malaysian GP: Formula 1 considering Sepang return to 2026…  
 **When:** 2026-07-23 13:05 (America/Winnipeg)  •  **Published:** 2026-07-23 18:05 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~29s
+**Virality score:** 84  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
 Malaysian GP: Formula 1 considering Sepang return to 2026 calendar as replacement race before Singapore Grand Prix. Malaysia has emerged as an option for Formula 1 to join this years calendar as the sport looks to replace at least one of the two cancelled rounds from earlier this year; watch every session of the Hungarian Grand Prix from Friday live on Sky Sports F1 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -134,7 +134,7 @@ Malaysian GP: Formula 1 considering Sepang return to 2026 calendar as replacemen
 - skysports.com — Malaysian GP: Formula 1 considering Sepang return to 2026 calendar as replacement race before Singapore Grand Prix. https://www.skysports.com/f1/news/12040/13566259/malaysian-gp-formula-1-considering-sepang-return-to-2026-calendar-as-replacement-race-before-singapore-grand-prix
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -142,10 +142,82 @@ Malaysian GP: Formula 1 considering Sepang return to 2026 calendar as replacemen
 
 ### Club Updates
 
-## Story 6: Football gossip: Tchouameni, Kone, Baleba, Stones, Konsa, Alajbegovic, Disasi, Diomande, Maeda, Harrison, Garner, Fernandez
+## Story 6: Man United mascot, six, hit by club's ticket tout crackdown
+**Slug (lower-third):** Man United mascot, six, hit by club's ticket tout crackdo…  
+**When:** 2026-07-24 02:26 (America/Winnipeg)  •  **Published:** 2026-07-24 07:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man United mascot, six, hit by club's ticket tout crackdown. Ruari's mum denies any wrongdoing and says she manages other family members' tickets for them. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Man United mascot, six, hit by club's ticket tout crackdown. https://www.bbc.co.uk/news/articles/c79gdjr0ny4o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: BBC Sport quiz: Who am I? Guess Premier League footballer #4
+**Slug (lower-third):** BBC Sport quiz: Who am I? Guess Premier League footballer…  
+**When:** 2026-07-24 00:34 (America/Winnipeg)  •  **Published:** 2026-07-24 05:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+BBC Sport quiz: Who am I? Guess Premier League footballer #4. Will you get today's player in as few attempts as possible? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — BBC Sport quiz: Who am I? Guess Premier League footballer #4. https://www.bbc.co.uk/sport/football/articles/cx2d52rr559o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Chelsea: How Xabi Alonso will use Morgan Rogers and Cole Palmer
+**Slug (lower-third):** Chelsea: How Xabi Alonso will use Morgan Rogers and Cole …  
+**When:** 2026-07-24 00:28 (America/Winnipeg)  •  **Published:** 2026-07-24 05:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea: How Xabi Alonso will use Morgan Rogers and Cole Palmer. Why Morgan Rogers' skillset means he and fellow attacking midfielder Cole Palmer will prosper in Xabi Alonso's Chelsea. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Chelsea: How Xabi Alonso will use Morgan Rogers and Cole Palmer. https://www.bbc.co.uk/sport/football/articles/c4gwpzzgpyko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Football gossip: Tchouameni, Kone, Baleba, Stones, Konsa, Alajbegovic, Disasi, Diomande, Maeda, Harrison, Garner, Fernandez
 **Slug (lower-third):** Football gossip: Tchouameni, Kone, Baleba, Stones, Konsa,…  
 **When:** 2026-07-23 16:50 (America/Winnipeg)  •  **Published:** 2026-07-23 21:50 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~21s
+**Virality score:** 90  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Tchouameni, Kone, Baleba, Stones, Konsa, Alajbegovic, Disasi, Diomande, Maeda, Harrison, Garner, Fernandez. Real Madrid open to selling Aurelien Tchouameni to Manchester United, Arsenal eye John Stones and Ezri Konsa, Chelsea favourites for Kerim Alajbegovic, Yan Diomande back on radar of Premier League clubs and Daizen Maeda set for Ipswich Town move. Relevance to standings and momentum.
@@ -166,34 +238,10 @@ Football gossip: Tchouameni, Kone, Baleba, Stones, Konsa, Alajbegovic, Disasi, D
 
 ---
 
-## Story 7: Chelsea paid Aston Villa PS117m for Morgan Rogers. Is he the right fit?
-**Slug (lower-third):** Chelsea paid Aston Villa PS117m for Morgan Rogers. Is he …  
-**When:** 2026-07-23 13:00 (America/Winnipeg)  •  **Published:** 2026-07-23 18:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea paid Aston Villa PS117m for Morgan Rogers. Is he the right fit?. The England attacker thrives when he can gallop into space but Xabi Alonso's best team built attacks slowly Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Chelsea paid Aston Villa PS117m for Morgan Rogers. Is he the right fit?. https://www.theguardian.com/football/2026/jul/23/chelsea-aston-villa-117m-morgan-rogers-england-xabi-alonso
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Elliot Anderson: New Man City signing sends Man Utd message after completing PS116m move from Nottingham Forest
+## Story 10: Elliot Anderson: New Man City signing sends Man Utd message after completing PS116m move from Nottingham Forest
 **Slug (lower-third):** Elliot Anderson: New Man City signing sends Man Utd messa…  
 **When:** 2026-07-23 12:30 (America/Winnipeg)  •  **Published:** 2026-07-23 17:30 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~28s
+**Virality score:** 84  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
 Elliot Anderson: New Man City signing sends Man Utd message after completing PS116m move from Nottingham Forest. Elliot Andersons PS116m move to Man City from Nottingham Forest confirmed; Anderson, who had been a Man Utd target, declared his new side the kings of Manchester; first Manchester derby of the new season is at Old Trafford on September 13, live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -208,55 +256,7 @@ Elliot Anderson: New Man City signing sends Man Utd message after completing PS1
 - skysports.com — Elliot Anderson: New Man City signing sends Man Utd message after completing PS116m move from Nottingham Forest. https://www.skysports.com/football/news/12040/13566398/elliot-anderson-new-man-city-signing-sends-man-utd-message-after-completing-116m-move-from-nottingham-forest
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Elliot Anderson: Man City newcomer's rise to England star and record signing
-**Slug (lower-third):** Elliot Anderson: Man City newcomer's rise to England star…  
-**When:** 2026-07-23 12:16 (America/Winnipeg)  •  **Published:** 2026-07-23 17:16 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Elliot Anderson: Man City newcomer's rise to England star and record signing. Elliot Anderson was a key part of England's World Cup side and is now Manchester City's record signing. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Elliot Anderson: Man City newcomer's rise to England star and record signing. https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Kevin Keegan: Newcastle United and Liverpool planning tribute at Premier League opener
-**Slug (lower-third):** Kevin Keegan: Newcastle United and Liverpool planning tri…  
-**When:** 2026-07-23 10:37 (America/Winnipeg)  •  **Published:** 2026-07-23 15:37 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Kevin Keegan: Newcastle United and Liverpool planning tribute at Premier League opener. Newcastle United and Liverpool are in discussions over a tribute to Kevin Keegan before their Premier League opener at St James' Park on Sunday 23rd August. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Kevin Keegan: Newcastle United and Liverpool planning tribute at Premier League opener. https://www.bbc.co.uk/sport/football/articles/c5yw69d1v37o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
