@@ -1,28 +1,52 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-31 09:09 (America/Winnipeg)  |  2026-07-31 14:09 (UTC)
+**Generated:** 2026-07-31 14:27 (America/Winnipeg)  |  2026-07-31 19:27 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 46s
+**Estimated total video length:** ~4m 30s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Chelsea handed PS10m fine and suspended transfer ban after admitting FA rule breaches dating back to Roman Abramovich era
-- Chelsea fined APS10m for breaching agent rules
-- Arsenal target Bruno Guimaraes not on Newcastle's flight to pre-season camp
+- Arsenal's next step: title defence may hinge on keeping a drained squad fit
+- Inter make new approach to Liverpool for Curtis Jones with PS30m offer likely
+- Matthias Jaissle: Newcastle to appoint German as new boss on Saturday after Eddie Howe exit confirmed
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Arsenal target Bruno Guimaraes not on Newcastle's flight to pre-season camp
+## Story 1: Matthias Jaissle: Newcastle to appoint German as new boss on Saturday after Eddie Howe exit confirmed
+**Slug (lower-third):** Matthias Jaissle: Newcastle to appoint German as new boss…  
+**When:** 2026-07-31 12:15 (America/Winnipeg)  •  **Published:** 2026-07-31 17:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Matthias Jaissle: Newcastle to appoint German as new boss on Saturday after Eddie Howe exit confirmed. Newcastle have agreed to pay PS9.5m compensation to Saudi side Al Ahli to appoint Matthias Jaissle as Eddie Howes successor; Howes exit confirmed on Friday; Jaissle will sign four-year deal at Newcastle; deal agreed to sign Lukas Hornicek, who will become first-choice goalkeeper Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Matthias Jaissle: Newcastle to appoint German as new boss on Saturday after Eddie Howe exit confirmed. https://www.skysports.com/football/news/12040/13568841/matthias-jaissle-newcastle-to-appoint-german-as-new-boss-on-saturday-after-eddie-howe-exit-confirmed
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Arsenal target Bruno Guimaraes not on Newcastle's flight to pre-season camp
 **Slug (lower-third):** Arsenal target Bruno Guimaraes not on Newcastle's flight …  
-**When:** 2026-07-31 07:50 (America/Winnipeg)  •  **Published:** 2026-07-31 12:50 (UTC)  
+**When:** 2026-07-31 11:17 (America/Winnipeg)  •  **Published:** 2026-07-31 16:17 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal target Bruno Guimaraes not on Newcastle's flight to pre-season camp. The midfielder was absent as teammates head to La Manga, with the incoming head coach Matthias Jaissle expected to meet his new squad in Spain over the weekend Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arsenal target Bruno Guimaraes not on Newcastle's flight to pre-season camp. The midfielder was absent as teammates head to La Manga, as Eddie Howe confirms he has stood down as head coach 'to recharge and take a break'. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -40,15 +64,63 @@ Arsenal target Bruno Guimaraes not on Newcastle's flight to pre-season camp. The
 
 ---
 
+## Story 3: Newcastle United: Eddie Howe steps down as head coach
+**Slug (lower-third):** Newcastle United: Eddie Howe steps down as head coach  
+**When:** 2026-07-31 11:09 (America/Winnipeg)  •  **Published:** 2026-07-31 16:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Newcastle United: Eddie Howe steps down as head coach. Eddie Howe steps down as head coach of Newcastle United after nearly five years in charge. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Newcastle United: Eddie Howe steps down as head coach. https://www.bbc.co.uk/sport/football/articles/c74gdn2w3d7o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Celtic reject Engels bid and confirm Johnston interest
+**Slug (lower-third):** Celtic reject Engels bid and confirm Johnston interest  
+**When:** 2026-07-31 09:15 (America/Winnipeg)  •  **Published:** 2026-07-31 14:15 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Celtic reject Engels bid and confirm Johnston interest. Celtic reject a West Ham approach for Arne Engels while there is Everton interest in Alistair Johnston, manager Martin O'Neill confirms. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Celtic reject Engels bid and confirm Johnston interest. https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ### Transfers
 
-## Story 2: Chelsea handed PS10m fine and suspended transfer ban after admitting FA rule breaches dating back to Roman Abramovich era
-**Slug (lower-third):** Chelsea handed PS10m fine and suspended transfer ban afte…  
-**When:** 2026-07-31 09:28 (America/Winnipeg)  •  **Published:** 2026-07-31 14:28 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+## Story 5: Giulia Dragoni: Chelsea sign Italy international from Barcelona
+**Slug (lower-third):** Giulia Dragoni: Chelsea sign Italy international from Bar…  
+**When:** 2026-07-31 11:52 (America/Winnipeg)  •  **Published:** 2026-07-31 16:52 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea handed PS10m fine and suspended transfer ban after admitting FA rule breaches dating back to Roman Abramovich era. Chelsea fined and given suspended transfer ban for 74 breaches of FA agent regulations; clubs owners self-reported breaches to the FA, the Premier League and UEFA after making the discovery when they bought Chelsea in May 2022; Chelsea were fined by the Premier League in March Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Giulia Dragoni: Chelsea sign Italy international from Barcelona. Chelsea sign Italy attacking midfielder Giulia Dragoni from Barcelona on a four-year contract. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,55 +129,7 @@ Chelsea handed PS10m fine and suspended transfer ban after admitting FA rule bre
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea handed PS10m fine and suspended transfer ban after admitting FA rule breaches dating back to Roman Abramovich era. https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: West Ham transfer news: Hammers in talks to sign Celtic midfielder Arne Engels amid Premier League interest
-**Slug (lower-third):** West Ham transfer news: Hammers in talks to sign Celtic m…  
-**When:** 2026-07-31 04:03 (America/Winnipeg)  •  **Published:** 2026-07-31 09:03 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-West Ham transfer news: Hammers in talks to sign Celtic midfielder Arne Engels amid Premier League interest. Arne Engels has been a target for Nottingham Forest and other Premier League clubs, but West Ham are pursuing a deal for the Belgium international midfielder; Celtic are holding out for a deal worth around PS25m; Engels has entered the last two years of his contract at Parkhead Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — West Ham transfer news: Hammers in talks to sign Celtic midfielder Arne Engels amid Premier League interest. https://www.skysports.com/football/news/12040/13568688/west-ham-transfer-news-hammers-in-talks-to-sign-celtic-midfielder-arne-engels-amid-premier-league-interest
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Bournemouth transfers: Benfica accept APS26m offer for Antonio Silva
-**Slug (lower-third):** Bournemouth transfers: Benfica accept APS26m offer for An…  
-**When:** 2026-07-31 03:03 (America/Winnipeg)  •  **Published:** 2026-07-31 08:03 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bournemouth transfers: Benfica accept APS26m offer for Antonio Silva. Bournemouth agree a deal worth up to almost APS26m for Benfica centre-back Antonio Silva. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Bournemouth transfers: Benfica accept APS26m offer for Antonio Silva. https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Giulia Dragoni: Chelsea sign Italy international from Barcelona. https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +140,13 @@ Bournemouth transfers: Benfica accept APS26m offer for Antonio Silva. Bournemout
 
 ### League & Regulation
 
-## Story 5: Chelsea fined APS10m for breaching agent rules
-**Slug (lower-third):** Chelsea fined APS10m for breaching agent rules  
-**When:** 2026-07-31 09:01 (America/Winnipeg)  •  **Published:** 2026-07-31 14:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: Mykhailo Mudryk: Chelsea winger cleared to play again with immediate effect after doping ban resolved
+**Slug (lower-third):** Mykhailo Mudryk: Chelsea winger cleared to play again wit…  
+**When:** 2026-07-31 11:16 (America/Winnipeg)  •  **Published:** 2026-07-31 16:16 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Chelsea fined APS10m for breaching agent rules. Chelsea are fined APS10m by the Football Association for breaching rules relating to payments to agents between 2009 and 2022. Relevance to standings and momentum.
+Mykhailo Mudryk: Chelsea winger cleared to play again with immediate effect after doping ban resolved. Mykhailo Mudryk has not played competitively since November 2024; Mudryk had received a four-year ban for failing drugs test but filed an appeal to CAS; Changes to WADA procedures mean that, had his failed test produced the same result now, charges would not be brought Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,31 +155,7 @@ Chelsea fined APS10m for breaching agent rules. Chelsea are fined APS10m by the 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Chelsea fined APS10m for breaching agent rules. https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: West Ham: Amanda Staveley and Mehrdad Ghodoussi's PCP Capital Partners make offer for stake in Championship club
-**Slug (lower-third):** West Ham: Amanda Staveley and Mehrdad Ghodoussi's PCP Cap…  
-**When:** 2026-07-31 06:30 (America/Winnipeg)  •  **Published:** 2026-07-31 11:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-West Ham: Amanda Staveley and Mehrdad Ghodoussi's PCP Capital Partners make offer for stake in Championship club. PCP Capital Partners - run by former Newcastle owners Amanda Staveley and her husband Mehrdad Ghodoussi - have made an offer to buy a 25.1 per cent stake in West Ham; the share currently belongs to the family of the late David Gold Disciplinary outcome could affect availability.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — West Ham: Amanda Staveley and Mehrdad Ghodoussi's PCP Capital Partners make offer for stake in Championship club. https://www.skysports.com/football/news/12040/13568730/west-ham-amanda-staveley-and-mehrdad-ghodoussis-pcp-capital-partners-make-offer-for-stake-in-championship-club
+- skysports.com — Mykhailo Mudryk: Chelsea winger cleared to play again with immediate effect after doping ban resolved. https://www.skysports.com/football/news/12040/13568818/mykhailo-mudryk-chelsea-winger-cleared-to-play-again-with-immediate-effect-after-doping-ban-resolved
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,10 +166,58 @@ West Ham: Amanda Staveley and Mehrdad Ghodoussi's PCP Capital Partners make offe
 
 ### Club Updates
 
-## Story 7: Meet Jean-Matteo Bahoya: The Bundesliga's fastest player attracting Premier League interest
+## Story 7: Arsenal's next step: title defence may hinge on keeping a drained squad fit
+**Slug (lower-third):** Arsenal's next step: title defence may hinge on keeping a…  
+**When:** 2026-07-31 14:00 (America/Winnipeg)  •  **Published:** 2026-07-31 19:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Arsenal's next step: title defence may hinge on keeping a drained squad fit. Adding to a capable team is not easy, while the club may not dare to shatter the wage structure for Vinicius Junior Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Arsenal's next step: title defence may hinge on keeping a drained squad fit. https://www.theguardian.com/football/2026/jul/31/arsenal-mikel-arteta-injuries-fatigue-title-defence
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Inter make new approach to Liverpool for Curtis Jones with PS30m offer likely
+**Slug (lower-third):** Inter make new approach to Liverpool for Curtis Jones wit…  
+**When:** 2026-07-31 13:01 (America/Winnipeg)  •  **Published:** 2026-07-31 18:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Inter make new approach to Liverpool for Curtis Jones with PS30m offer likely. Inter have made another approach for Curtis Jones and are willing to raise their offer for the Liverpool midfielder to EUR35m Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Inter make new approach to Liverpool for Curtis Jones with PS30m offer likely. https://www.theguardian.com/football/2026/jul/31/inter-liverpool-curtis-jones-football-transfer-window
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Meet Jean-Matteo Bahoya: The Bundesliga's fastest player attracting Premier League interest
 **Slug (lower-third):** Meet Jean-Matteo Bahoya: The Bundesliga's fastest player …  
 **When:** 2026-07-31 05:00 (America/Winnipeg)  •  **Published:** 2026-07-31 10:00 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Meet Jean-Matteo Bahoya: The Bundesliga's fastest player attracting Premier League interest. Meet Jean-Matteo Bahoya: The Bundesligas fastest player attracting Premier League interest Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -190,10 +238,10 @@ Meet Jean-Matteo Bahoya: The Bundesliga's fastest player attracting Premier Leag
 
 ---
 
-## Story 8: Curtis Jones: Liverpool midfielder has heated argument with team-mates
+## Story 10: Curtis Jones: Liverpool midfielder has heated argument with team-mates
 **Slug (lower-third):** Curtis Jones: Liverpool midfielder has heated argument wi…  
 **When:** 2026-07-31 04:33 (America/Winnipeg)  •  **Published:** 2026-07-31 09:33 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Curtis Jones: Liverpool midfielder has heated argument with team-mates. Liverpool's Curtis Jones has a heated argument with team-mate Dominik Szoboszlai after his side's win over Wrexham. Relevance to standings and momentum.
@@ -206,54 +254,6 @@ Curtis Jones: Liverpool midfielder has heated argument with team-mates. Liverpoo
 
 ### Sources
 - bbc.co.uk — Curtis Jones: Liverpool midfielder has heated argument with team-mates. https://www.bbc.co.uk/sport/football/articles/c4gx07351y8o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Antonio Silva to Bournemouth: Benfica and Portugal defender is Premier League ready and a good fit for Marco Rose
-**Slug (lower-third):** Antonio Silva to Bournemouth: Benfica and Portugal defend…  
-**When:** 2026-07-31 04:30 (America/Winnipeg)  •  **Published:** 2026-07-31 09:30 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~24s
-
-### Presenter Script (3–5 sentences)
-Antonio Silva to Bournemouth: Benfica and Portugal defender is Premier League ready and a good fit for Marco Rose. With Antonio Silva set to make the switch from Benfica to Bournemouth, Adam Bate speaks to the Portugal internationals former coach Joao Nuno Fonseca to find out more about his strengths - and why the Cherries may have found another precious defensive gem... Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Antonio Silva to Bournemouth: Benfica and Portugal defender is Premier League ready and a good fit for Marco Rose. https://www.skysports.com/football/news/12040/13565767/antonio-silva-to-bournemouth-benfica-and-portugal-defender-is-premier-league-ready-and-a-good-fit-for-marco-rose
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: World Cup 2026: The Premier League clubs fighting a World Cup hangover
-**Slug (lower-third):** World Cup 2026: The Premier League clubs fighting a World…  
-**When:** 2026-07-31 03:08 (America/Winnipeg)  •  **Published:** 2026-07-31 08:08 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-World Cup 2026: The Premier League clubs fighting a World Cup hangover. Which Premier League clubs have carried the biggest World Cup workload? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — World Cup 2026: The Premier League clubs fighting a World Cup hangover. https://www.bbc.co.uk/sport/football/articles/c87n3wydzjzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
