@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-07-31 03:51 (America/Winnipeg)  |  2026-07-31 08:51 (UTC)
+**Generated:** 2026-07-31 09:09 (America/Winnipeg)  |  2026-07-31 14:09 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 37s
+**Estimated total video length:** ~4m 46s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Antonio Silva to Bournemouth: Benfica and Portugal defender is Premier League ready and a good fit for Marco Rose
-- West Ham transfer news: Hammers in talks to sign Celtic midfielder Arne Engels amid Premier League interest
-- Football transfer rumours: Guimaraes set for Arsenal? Newcastle to bring in Froholdt?
+- Chelsea handed PS10m fine and suspended transfer ban after admitting FA rule breaches dating back to Roman Abramovich era
+- Chelsea fined APS10m for breaching agent rules
+- Arsenal target Bruno Guimaraes not on Newcastle's flight to pre-season camp
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Today on Sky Sports Racing: Siouxperb clashes with promising newcomers in Newcastle feature with Wolverhampton and Bath also live on Friday
-**Slug (lower-third):** Today on Sky Sports Racing: Siouxperb clashes with promis…  
-**When:** 2026-07-31 01:00 (America/Winnipeg)  •  **Published:** 2026-07-31 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 1: Arsenal target Bruno Guimaraes not on Newcastle's flight to pre-season camp
+**Slug (lower-third):** Arsenal target Bruno Guimaraes not on Newcastle's flight …  
+**When:** 2026-07-31 07:50 (America/Winnipeg)  •  **Published:** 2026-07-31 12:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Siouxperb clashes with promising newcomers in Newcastle feature with Wolverhampton and Bath also live on Friday. There is plenty happening on Sky Sports Racing on Friday, with Wolverhampton, Newcastle and Bath hosting live action from 2pm; the feature contest from the north-east sees Siouxperb look to bounce back from disappointment at Royal Ascot Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arsenal target Bruno Guimaraes not on Newcastle's flight to pre-season camp. The midfielder was absent as teammates head to La Manga, with the incoming head coach Matthias Jaissle expected to meet his new squad in Spain over the weekend Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Today on Sky Sports Racing: Siouxperb clashes with promising newcomers in Newcas
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Siouxperb clashes with promising newcomers in Newcastle feature with Wolverhampton and Bath also live on Friday. https://www.skysports.com/racing/news/12040/13568079/today-on-sky-sports-racing-siouxperb-clashes-with-promising-newcomers-in-newcastle-feature-with-wolverhampton-and-bath-also-live-on-friday
+- theguardian.com — Arsenal target Bruno Guimaraes not on Newcastle's flight to pre-season camp. https://www.theguardian.com/football/2026/jul/31/newcastle-bruno-guimaraes-pre-season-camp
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,37 @@ Today on Sky Sports Racing: Siouxperb clashes with promising newcomers in Newcas
 
 ### Transfers
 
-## Story 2: West Ham transfer news: Hammers in talks to sign Celtic midfielder Arne Engels amid Premier League interest
-**Slug (lower-third):** West Ham transfer news: Hammers in talks to sign Celtic m…  
-**When:** 2026-07-31 04:03 (America/Winnipeg)  •  **Published:** 2026-07-31 09:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 2: Chelsea handed PS10m fine and suspended transfer ban after admitting FA rule breaches dating back to Roman Abramovich era
+**Slug (lower-third):** Chelsea handed PS10m fine and suspended transfer ban afte…  
+**When:** 2026-07-31 09:28 (America/Winnipeg)  •  **Published:** 2026-07-31 14:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-West Ham transfer news: Hammers in talks to sign Celtic midfielder Arne Engels amid Premier League interest. Arne Engels has been a target for Nottingham Forest and other Premier League clubs, but West Ham are pursuing a deal for the Belgium international midfielder; Engels has entered the last two years of his contract at Parkhead Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Chelsea handed PS10m fine and suspended transfer ban after admitting FA rule breaches dating back to Roman Abramovich era. Chelsea fined and given suspended transfer ban for 74 breaches of FA agent regulations; clubs owners self-reported breaches to the FA, the Premier League and UEFA after making the discovery when they bought Chelsea in May 2022; Chelsea were fined by the Premier League in March Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Chelsea handed PS10m fine and suspended transfer ban after admitting FA rule breaches dating back to Roman Abramovich era. https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: West Ham transfer news: Hammers in talks to sign Celtic midfielder Arne Engels amid Premier League interest
+**Slug (lower-third):** West Ham transfer news: Hammers in talks to sign Celtic m…  
+**When:** 2026-07-31 04:03 (America/Winnipeg)  •  **Published:** 2026-07-31 09:03 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+West Ham transfer news: Hammers in talks to sign Celtic midfielder Arne Engels amid Premier League interest. Arne Engels has been a target for Nottingham Forest and other Premier League clubs, but West Ham are pursuing a deal for the Belgium international midfielder; Celtic are holding out for a deal worth around PS25m; Engels has entered the last two years of his contract at Parkhead Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -66,34 +90,10 @@ West Ham transfer news: Hammers in talks to sign Celtic midfielder Arne Engels a
 
 ---
 
-## Story 3: Football transfer rumours: Guimaraes set for Arsenal? Newcastle to bring in Froholdt?
-**Slug (lower-third):** Football transfer rumours: Guimaraes set for Arsenal? New…  
-**When:** 2026-07-31 03:37 (America/Winnipeg)  •  **Published:** 2026-07-31 08:37 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football transfer rumours: Guimaraes set for Arsenal? Newcastle to bring in Froholdt?. Hall and Joelinton to leave Magpies? | Hill to Liverpool? | Mac Allister to Real Madrid? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Football transfer rumours: Guimaraes set for Arsenal? Newcastle to bring in Froholdt?. https://www.theguardian.com/football/2026/jul/31/football-transfer-rumours-bruno-guimaraes-arsenal-newcastle-victor-froholdt
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 4: Bournemouth transfers: Benfica accept APS26m offer for Antonio Silva
 **Slug (lower-third):** Bournemouth transfers: Benfica accept APS26m offer for An…  
 **When:** 2026-07-31 03:03 (America/Winnipeg)  •  **Published:** 2026-07-31 08:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Bournemouth transfers: Benfica accept APS26m offer for Antonio Silva. Bournemouth agree a deal worth up to almost APS26m for Benfica centre-back Antonio Silva. Implications for the squad and table.
@@ -114,12 +114,110 @@ Bournemouth transfers: Benfica accept APS26m offer for Antonio Silva. Bournemout
 
 ---
 
+### League & Regulation
+
+## Story 5: Chelsea fined APS10m for breaching agent rules
+**Slug (lower-third):** Chelsea fined APS10m for breaching agent rules  
+**When:** 2026-07-31 09:01 (America/Winnipeg)  •  **Published:** 2026-07-31 14:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea fined APS10m for breaching agent rules. Chelsea are fined APS10m by the Football Association for breaching rules relating to payments to agents between 2009 and 2022. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Chelsea fined APS10m for breaching agent rules. https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: West Ham: Amanda Staveley and Mehrdad Ghodoussi's PCP Capital Partners make offer for stake in Championship club
+**Slug (lower-third):** West Ham: Amanda Staveley and Mehrdad Ghodoussi's PCP Cap…  
+**When:** 2026-07-31 06:30 (America/Winnipeg)  •  **Published:** 2026-07-31 11:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+West Ham: Amanda Staveley and Mehrdad Ghodoussi's PCP Capital Partners make offer for stake in Championship club. PCP Capital Partners - run by former Newcastle owners Amanda Staveley and her husband Mehrdad Ghodoussi - have made an offer to buy a 25.1 per cent stake in West Ham; the share currently belongs to the family of the late David Gold Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — West Ham: Amanda Staveley and Mehrdad Ghodoussi's PCP Capital Partners make offer for stake in Championship club. https://www.skysports.com/football/news/12040/13568730/west-ham-amanda-staveley-and-mehrdad-ghodoussis-pcp-capital-partners-make-offer-for-stake-in-championship-club
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
 ### Club Updates
 
-## Story 5: Antonio Silva to Bournemouth: Benfica and Portugal defender is Premier League ready and a good fit for Marco Rose
+## Story 7: Meet Jean-Matteo Bahoya: The Bundesliga's fastest player attracting Premier League interest
+**Slug (lower-third):** Meet Jean-Matteo Bahoya: The Bundesliga's fastest player …  
+**When:** 2026-07-31 05:00 (America/Winnipeg)  •  **Published:** 2026-07-31 10:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Meet Jean-Matteo Bahoya: The Bundesliga's fastest player attracting Premier League interest. Meet Jean-Matteo Bahoya: The Bundesligas fastest player attracting Premier League interest Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Meet Jean-Matteo Bahoya: The Bundesliga's fastest player attracting Premier League interest. https://www.skysports.com/football/story-telling/12040/13568489/meet-jean-matteo-bahoya-the-bundesligas-fastest-player-attracting-premier-league-interest
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Curtis Jones: Liverpool midfielder has heated argument with team-mates
+**Slug (lower-third):** Curtis Jones: Liverpool midfielder has heated argument wi…  
+**When:** 2026-07-31 04:33 (America/Winnipeg)  •  **Published:** 2026-07-31 09:33 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Curtis Jones: Liverpool midfielder has heated argument with team-mates. Liverpool's Curtis Jones has a heated argument with team-mate Dominik Szoboszlai after his side's win over Wrexham. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Curtis Jones: Liverpool midfielder has heated argument with team-mates. https://www.bbc.co.uk/sport/football/articles/c4gx07351y8o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Antonio Silva to Bournemouth: Benfica and Portugal defender is Premier League ready and a good fit for Marco Rose
 **Slug (lower-third):** Antonio Silva to Bournemouth: Benfica and Portugal defend…  
 **When:** 2026-07-31 04:30 (America/Winnipeg)  •  **Published:** 2026-07-31 09:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+**Virality score:** 99  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
 Antonio Silva to Bournemouth: Benfica and Portugal defender is Premier League ready and a good fit for Marco Rose. With Antonio Silva set to make the switch from Benfica to Bournemouth, Adam Bate speaks to the Portugal internationals former coach Joao Nuno Fonseca to find out more about his strengths - and why the Cherries may have found another precious defensive gem... Relevance to standings and momentum.
@@ -140,34 +238,10 @@ Antonio Silva to Bournemouth: Benfica and Portugal defender is Premier League re
 
 ---
 
-## Story 6: Aggie Beever-Jones: Chelsea & England forward on toughest season mentally
-**Slug (lower-third):** Aggie Beever-Jones: Chelsea & England forward on toughest…  
-**When:** 2026-07-31 03:09 (America/Winnipeg)  •  **Published:** 2026-07-31 08:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Aggie Beever-Jones: Chelsea & England forward on toughest season mentally. Chelsea and England forward Aggie Beever-Jones had her "hardest" season in 2025-26 and she had a big decision to make about her future when it ended. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Aggie Beever-Jones: Chelsea & England forward on toughest season mentally. https://www.bbc.co.uk/sport/football/articles/c235g2vngk9o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: World Cup 2026: The Premier League clubs fighting a World Cup hangover
+## Story 10: World Cup 2026: The Premier League clubs fighting a World Cup hangover
 **Slug (lower-third):** World Cup 2026: The Premier League clubs fighting a World…  
 **When:** 2026-07-31 03:08 (America/Winnipeg)  •  **Published:** 2026-07-31 08:08 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 World Cup 2026: The Premier League clubs fighting a World Cup hangover. Which Premier League clubs have carried the biggest World Cup workload? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -180,78 +254,6 @@ World Cup 2026: The Premier League clubs fighting a World Cup hangover. Which Pr
 
 ### Sources
 - bbc.co.uk — World Cup 2026: The Premier League clubs fighting a World Cup hangover. https://www.bbc.co.uk/sport/football/articles/c87n3wydzjzo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Jaissle heads for Newcastle after success in Saudi Arabia that has eluded so many
-**Slug (lower-third):** Jaissle heads for Newcastle after success in Saudi Arabia…  
-**When:** 2026-07-31 02:00 (America/Winnipeg)  •  **Published:** 2026-07-31 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Jaissle heads for Newcastle after success in Saudi Arabia that has eluded so many. German coach was almost unknown on arrival in Saudi Pro League in 2023 but clinched major titles and won over fans Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Jaissle heads for Newcastle after success in Saudi Arabia that has eluded so many. https://www.theguardian.com/football/2026/jul/31/matthias-jaissle-newcastle-united-al-ahli-saudi-pro-league
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: BBC Sport quiz: Who am I? Guess Premier League footballer No 11
-**Slug (lower-third):** BBC Sport quiz: Who am I? Guess Premier League footballer…  
-**When:** 2026-07-31 00:17 (America/Winnipeg)  •  **Published:** 2026-07-31 05:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-BBC Sport quiz: Who am I? Guess Premier League footballer No 11. Work out the identity of today's player in as few attempts as possible. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — BBC Sport quiz: Who am I? Guess Premier League footballer No 11. https://www.bbc.co.uk/sport/football/articles/cy745804r8yo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Roberto de Zerbi's 'ultra' ethos and the Brescia roots now aiding Spurs
-**Slug (lower-third):** Roberto de Zerbi's 'ultra' ethos and the Brescia roots no…  
-**When:** 2026-07-31 00:12 (America/Winnipeg)  •  **Published:** 2026-07-31 05:12 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Roberto de Zerbi's 'ultra' ethos and the Brescia roots now aiding Spurs. Roberto de Zerbi says he was born an ultra, raised on the Brescia curva alongside his father - and he has carried those roots to north London. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Roberto de Zerbi's 'ultra' ethos and the Brescia roots now aiding Spurs. https://www.bbc.co.uk/sport/football/articles/c1j15e0p17zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
