@@ -1,75 +1,97 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-04 21:36 (America/Winnipeg)  |  2026-08-05 02:36 (UTC)
+**Generated:** 2026-08-05 03:37 (America/Winnipeg)  |  2026-08-05 08:37 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Diogo Costa transfer news: Chelsea eyeing move for Porto goalkeeper - Paper Talk
-- Trabzonspor aim to sign Mohamed Salah this week after opening transfer talks
-- Mohamed Salah: Turkish club Trabzonspor begin negotiations to sign former Liverpool forward
-
----
-
-### Managerial Moves
-
-## Story 1: Eva Olid: Man Utd set to appoint ex-Hearts boss as new women's manager
-**Slug (lower-third):** Eva Olid: Man Utd set to appoint ex-Hearts boss as new wo…  
-**When:** 2026-08-04 13:51 (America/Winnipeg)  •  **Published:** 2026-08-04 18:51 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Eva Olid: Man Utd set to appoint ex-Hearts boss as new women's manager. Manchester United are set to appoint former Hearts boss Eva Olid as their women's manager to replace Marc Skinner. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Eva Olid: Man Utd set to appoint ex-Hearts boss as new women's manager. https://www.bbc.co.uk/sport/football/articles/c86n72316g1o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Manchester United set to appoint former Hearts manager Eva Olid as new head coach
-**Slug (lower-third):** Manchester United set to appoint former Hearts manager Ev…  
-**When:** 2026-08-04 12:15 (America/Winnipeg)  •  **Published:** 2026-08-04 17:15 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester United set to appoint former Hearts manager Eva Olid as new head coach. Manchester United are closing in on their new head coach after the departure of Marc Skinner Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Manchester United set to appoint former Hearts manager Eva Olid as new head coach. https://www.theguardian.com/football/2026/aug/04/manchester-united-women-new-head-coach-marc-skinner
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Bruno Guimaraes transfer news: Arsenal agree PS75m fee for Newcastle midfielder
+- Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?
+- Chelsea transfer news: Blues nearing deal for Rayo Vallecano defender Pep Chavarria
 
 ---
 
 ### Transfers
 
-## Story 3: Diogo Costa transfer news: Chelsea eyeing move for Porto goalkeeper - Paper Talk
+## Story 1: Bruno Guimaraes transfer news: Arsenal agree PS75m fee for Newcastle midfielder
+**Slug (lower-third):** Bruno Guimaraes transfer news: Arsenal agree PS75m fee fo…  
+**When:** 2026-08-05 04:13 (America/Winnipeg)  •  **Published:** 2026-08-05 09:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Bruno Guimaraes transfer news: Arsenal agree PS75m fee for Newcastle midfielder. Arsenal reach deal for Newcastle captain Bruno Guimaraes; Guimaraes has two years remaining on his contract at St James Park; the Gunners have now agreed a PS75m fee for the Brazilian, who has been given permission to travel for a medical Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Bruno Guimaraes transfer news: Arsenal agree PS75m fee for Newcastle midfielder. https://www.skysports.com/football/news/12040/13569653/bruno-guimaraes-transfer-news-arsenal-agree-75m-fee-for-newcastle-midfielder
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?
+**Slug (lower-third):** Football transfer rumours: Folarin Balogun to Spurs? Pedr…  
+**When:** 2026-08-05 02:31 (America/Winnipeg)  •  **Published:** 2026-08-05 07:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?. Tijjani Reijnders to Nottingham Forest? | Crystal Palace to sign winger Zavier Gozo? | Jadon Sancho considering his future? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?. https://www.theguardian.com/football/2026/aug/05/football-transfer-rumours-folarin-balogun-tottenham-hotspur-pedro-neto-manchester-city
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Chelsea transfer news: Blues nearing deal for Rayo Vallecano defender Pep Chavarria
+**Slug (lower-third):** Chelsea transfer news: Blues nearing deal for Rayo Vallec…  
+**When:** 2026-08-05 02:28 (America/Winnipeg)  •  **Published:** 2026-08-05 07:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea transfer news: Blues nearing deal for Rayo Vallecano defender Pep Chavarria. Chelsea are closing in on an agreement with Rayo Vallecano for defender Pep Chavarria. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Chelsea transfer news: Blues nearing deal for Rayo Vallecano defender Pep Chavarria. https://www.bbc.co.uk/sport/football/articles/c4gygn47rpmo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Diogo Costa transfer news: Chelsea eyeing move for Porto goalkeeper - Paper Talk
 **Slug (lower-third):** Diogo Costa transfer news: Chelsea eyeing move for Porto …  
 **When:** 2026-08-04 17:30 (America/Winnipeg)  •  **Published:** 2026-08-04 22:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+**Virality score:** 91  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
 Diogo Costa transfer news: Chelsea eyeing move for Porto goalkeeper - Paper Talk. Latest transfer news and headlines as Man City midfielder Tijjani Reijnders emerges as a PS55m target for Nottingham Forest; United States striker Folarin Balogun has been offered to Tottenham; Trabzonspor are closing in on a two-year deal with former Liverpool forward Mo Salah Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -90,10 +112,10 @@ Diogo Costa transfer news: Chelsea eyeing move for Porto goalkeeper - Paper Talk
 
 ---
 
-## Story 4: Trabzonspor aim to sign Mohamed Salah this week after opening transfer talks
+## Story 5: Trabzonspor aim to sign Mohamed Salah this week after opening transfer talks
 **Slug (lower-third):** Trabzonspor aim to sign Mohamed Salah this week after ope…  
 **When:** 2026-08-04 16:52 (America/Winnipeg)  •  **Published:** 2026-08-04 21:52 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Trabzonspor aim to sign Mohamed Salah this week after opening transfer talks. The Turkish Super Lig side Trabzonspor have begun transfer negotiations with Mohamed Salah and hope to sign the former Liverpool player this week Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -114,13 +136,15 @@ Trabzonspor aim to sign Mohamed Salah this week after opening transfer talks. Th
 
 ---
 
-## Story 5: Football gossip: Reijnders, Balogun, Vinicius Jr, Savinho, Gakpo, Neto, Chavarria
-**Slug (lower-third):** Football gossip: Reijnders, Balogun, Vinicius Jr, Savinho…  
-**When:** 2026-08-04 15:52 (America/Winnipeg)  •  **Published:** 2026-08-04 20:52 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+### Injuries
+
+## Story 6: Marcus Rashford: Will he return to Man Utd - and what impact would he have?
+**Slug (lower-third):** Marcus Rashford: Will he return to Man Utd - and what imp…  
+**When:** 2026-08-05 00:42 (America/Winnipeg)  •  **Published:** 2026-08-05 05:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Reijnders, Balogun, Vinicius Jr, Savinho, Gakpo, Neto, Chavarria. Nottingham Forest eye Tijjani Reijnders, Spurs want Savinho and Nicolas Jackson, Real Madrid resume Vinicius Jr contract talks, plus more. Implications for the squad and table.
+Marcus Rashford: Will he return to Man Utd - and what impact would he have?. Marcus Rashford is expected to return to Manchester United training in the coming days as debate continues over whether that is a good thing or not. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,103 +153,7 @@ Football gossip: Reijnders, Balogun, Vinicius Jr, Savinho, Gakpo, Neto, Chavarri
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Reijnders, Balogun, Vinicius Jr, Savinho, Gakpo, Neto, Chavarria. https://www.bbc.co.uk/sport/football/articles/cy8mvgp179po?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: All the latest on Bruno Guimaraes to Arsenal EXPLAINED - 'It's inevitable'
-**Slug (lower-third):** All the latest on Bruno Guimaraes to Arsenal EXPLAINED - …  
-**When:** 2026-08-04 14:10 (America/Winnipeg)  •  **Published:** 2026-08-04 19:10 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-All the latest on Bruno Guimaraes to Arsenal EXPLAINED - 'It's inevitable'. Sky Sports Dharmesh Sheth and Michael Bridge explain all the latest on Bruno Guimaraes potential transfer to Arsenal. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — All the latest on Bruno Guimaraes to Arsenal EXPLAINED - 'It's inevitable'. https://www.skysports.com/watch/video/13569837/all-the-latest-on-bruno-guimaraes-to-arsenal-explained-its-inevitable
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Barcelona sign Brazil forward Kerolin from Manchester City for club-record PS1.25m
-**Slug (lower-third):** Barcelona sign Brazil forward Kerolin from Manchester Cit…  
-**When:** 2026-08-04 13:57 (America/Winnipeg)  •  **Published:** 2026-08-04 18:57 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Barcelona sign Brazil forward Kerolin from Manchester City for club-record PS1.25m. The transfer fee is the largest sum received for a sale by a WSL side, eclipsing Olivia Smith's PS1m move from Liverpool to Arsenal in 2025 Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Barcelona sign Brazil forward Kerolin from Manchester City for club-record PS1.25m. https://www.theguardian.com/football/2026/aug/04/barcelona-sign-brazil-forward-kerolin-manchester-city-womens-super-league
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Florentino Luis transfer news: Ipswich Town sign midfielder from relegated Burnley
-**Slug (lower-third):** Florentino Luis transfer news: Ipswich Town sign midfield…  
-**When:** 2026-08-04 13:09 (America/Winnipeg)  •  **Published:** 2026-08-04 18:09 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Florentino Luis transfer news: Ipswich Town sign midfielder from relegated Burnley. Newly promoted Ipswich Town complete the signing of Portuguese midfielder Florentino Luis from Burnley for an undisclosed fee. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Florentino Luis transfer news: Ipswich Town sign midfielder from relegated Burnley. https://www.bbc.co.uk/sport/football/articles/cjrv0pxvqx1o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Kerolin Nicoli transfer news: Man City forward joins Barcelona as Women's Super League's most expensive export
-**Slug (lower-third):** Kerolin Nicoli transfer news: Man City forward joins Barc…  
-**When:** 2026-08-04 11:30 (America/Winnipeg)  •  **Published:** 2026-08-04 16:30 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~26s
-
-### Presenter Script (3–5 sentences)
-Kerolin Nicoli transfer news: Man City forward joins Barcelona as Women's Super League's most expensive export. Brazilian forward Kerolin was schooled on the streets of Sao Paulo, playing barefoot with boys; now, she has signed for European giants Barcelona from Man City; her fee is the highest ever received for a Womens Super League player Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Kerolin Nicoli transfer news: Man City forward joins Barcelona as Women's Super League's most expensive export. https://www.skysports.com/football/news/12040/13566568/kerolin-nicoli-transfer-news-man-city-forward-joins-barcelona-as-womens-super-leagues-most-expensive-export
+- bbc.co.uk — Marcus Rashford: Will he return to Man Utd - and what impact would he have?. https://www.bbc.co.uk/sport/football/articles/cx25y63wr51o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +164,13 @@ Kerolin Nicoli transfer news: Man City forward joins Barcelona as Women's Super 
 
 ### Club Updates
 
-## Story 10: Mohamed Salah: Turkish club Trabzonspor begin negotiations to sign former Liverpool forward
-**Slug (lower-third):** Mohamed Salah: Turkish club Trabzonspor begin negotiation…  
-**When:** 2026-08-04 16:39 (America/Winnipeg)  •  **Published:** 2026-08-04 21:39 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 7: Hector Bellerin: 'When you leave a club like Arsenal, it's scary. It hurts'
+**Slug (lower-third):** Hector Bellerin: 'When you leave a club like Arsenal, it'…  
+**When:** 2026-08-05 02:00 (America/Winnipeg)  •  **Published:** 2026-08-05 07:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Mohamed Salah: Turkish club Trabzonspor begin negotiations to sign former Liverpool forward. Turkish club Trabzonspor say they have begun negotiations to sign Mohamed Salah. Relevance to standings and momentum.
+Hector Bellerin: 'When you leave a club like Arsenal, it's scary. It hurts'. Spanish full-back Hector Bellerin tells Sid Lowe about his elation at his old club ending their title drought and how Mikel Arteta has helped prolong his career Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +179,79 @@ Mohamed Salah: Turkish club Trabzonspor begin negotiations to sign former Liverp
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Mohamed Salah: Turkish club Trabzonspor begin negotiations to sign former Liverpool forward. https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Hector Bellerin: 'When you leave a club like Arsenal, it's scary. It hurts'. https://www.theguardian.com/football/2026/aug/05/hector-bellerin-arsenal-mikel-arteta-real-betis
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Today on Sky Sports Racing: Silca Bay and Sea Suite face off as Brighton Festival begins
+**Slug (lower-third):** Today on Sky Sports Racing: Silca Bay and Sea Suite face …  
+**When:** 2026-08-05 01:00 (America/Winnipeg)  •  **Published:** 2026-08-05 06:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Today on Sky Sports Racing: Silca Bay and Sea Suite face off as Brighton Festival begins. Slica Bay and Sea Suite are two of the key names assembled for the Brighton Mile on the opening day of the south coast tracks Summer Festival; We also head to Yarmouth, where a six-race evening card is scheduled - live on Sky Sports Racing. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Today on Sky Sports Racing: Silca Bay and Sea Suite face off as Brighton Festival begins. https://www.skysports.com/racing/news/12040/13569452/today-on-sky-sports-racing-silca-bay-and-sea-suite-face-off-as-brighton-festival-begins
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Bradley Barcola: Why Liverpool want PSG winger for APS100m
+**Slug (lower-third):** Bradley Barcola: Why Liverpool want PSG winger for APS100m  
+**When:** 2026-08-05 00:28 (America/Winnipeg)  •  **Published:** 2026-08-05 05:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Bradley Barcola: Why Liverpool want PSG winger for APS100m. With Liverpool prepared to make Bradley Barcola their third APS100m signing, BBC Sport looks at what the France and Paris St-Germain winger would bring to Anfield. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Bradley Barcola: Why Liverpool want PSG winger for APS100m. https://www.bbc.co.uk/sport/football/articles/c5y3pd5xvpzo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: BBC Sport quiz: Who am I? Guess Premier League footballer No 16
+**Slug (lower-third):** BBC Sport quiz: Who am I? Guess Premier League footballer…  
+**When:** 2026-08-05 00:17 (America/Winnipeg)  •  **Published:** 2026-08-05 05:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+BBC Sport quiz: Who am I? Guess Premier League footballer No 16. Work out the identity of today's player in as few attempts as possible. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — BBC Sport quiz: Who am I? Guess Premier League footballer No 16. https://www.bbc.co.uk/sport/football/articles/cd7l8wd3748o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
