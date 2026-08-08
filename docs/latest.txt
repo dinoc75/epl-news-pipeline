@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-07 13:58 (America/Winnipeg)  |  2026-08-07 18:58 (UTC)
+**Generated:** 2026-08-07 20:43 (America/Winnipeg)  |  2026-08-08 01:43 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 43s
+**Estimated total video length:** ~4m 32s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Coventry City transfers: Caleb Yirenkyi completes club-record move from Nordsjaelland
-- Bradley Barcola transfer news: Liverpool deal for PSG winger difficult to complete after talks
-- Lewis Hall transfer news: Newcastle tell Man Utd left-back is not for sale this summer
+- Bradley Barcola transfer news: Arsenal could hijack Liverpool's move for PSG winger - Paper Talk
+- Liverpool transfers: Ronald Araujo close to season-long loan from Barcelona
+- Ronald Araujo transfer news: Liverpool agree loan deal for Barcelona defender to add depth at centre-back
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Manchester City reject Barcelona's opening PS38.5m bid for Rodri as talks continue
 **Slug (lower-third):** Manchester City reject Barcelona's opening PS38.5m bid fo…  
 **When:** 2026-08-07 09:02 (America/Winnipeg)  •  **Published:** 2026-08-07 14:02 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester City reject Barcelona's opening PS38.5m bid for Rodri as talks continue. Real Madrid's returning manager Jose Mourinho is reportedly unhappy over Barcelona's hijack while City are ready to seal deal for Morocco star Bouaddi Relevance to standings and momentum.
@@ -43,10 +43,106 @@ Manchester City reject Barcelona's opening PS38.5m bid for Rodri as talks contin
 
 ### Transfers
 
-## Story 2: Coventry City transfers: Caleb Yirenkyi completes club-record move from Nordsjaelland
+## Story 2: Bradley Barcola transfer news: Arsenal could hijack Liverpool's move for PSG winger - Paper Talk
+**Slug (lower-third):** Bradley Barcola transfer news: Arsenal could hijack Liver…  
+**When:** 2026-08-07 18:30 (America/Winnipeg)  •  **Published:** 2026-08-07 23:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Bradley Barcola transfer news: Arsenal could hijack Liverpool's move for PSG winger - Paper Talk. Latest transfer news and headlines as Arsenal have three left-wing targets on their shortlist after Vinicius Jrs Real Madrid contract extension; Barcelona had a bid of PS38.5m for Rodri rejected by Man City, who are exploring a move for Chelsea midfielder Enzo Fernandez Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Bradley Barcola transfer news: Arsenal could hijack Liverpool's move for PSG winger - Paper Talk. https://www.skysports.com/football/news/12040/13570879/bradley-barcola-transfer-news-arsenal-could-hijack-liverpools-move-for-psg-winger-paper-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Liverpool transfers: Ronald Araujo close to season-long loan from Barcelona
+**Slug (lower-third):** Liverpool transfers: Ronald Araujo close to season-long l…  
+**When:** 2026-08-07 17:54 (America/Winnipeg)  •  **Published:** 2026-08-07 22:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool transfers: Ronald Araujo close to season-long loan from Barcelona. Liverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to purchase. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Liverpool transfers: Ronald Araujo close to season-long loan from Barcelona. https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Ronald Araujo transfer news: Liverpool agree loan deal for Barcelona defender to add depth at centre-back
+**Slug (lower-third):** Ronald Araujo transfer news: Liverpool agree loan deal fo…  
+**When:** 2026-08-07 17:51 (America/Winnipeg)  •  **Published:** 2026-08-07 22:51 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Ronald Araujo transfer news: Liverpool agree loan deal for Barcelona defender to add depth at centre-back. Liverpool agree season-long loan deal for Barcelona defender Ronald Araujo; Reds adding more depth at centre-back after losing Ibrahima Konate to Real Madrid and 21-year-old new signing Jeremy Jacquets lack of fitness Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Ronald Araujo transfer news: Liverpool agree loan deal for Barcelona defender to add depth at centre-back. https://www.skysports.com/football/news/12040/13570871/ronald-araujo-transfer-news-liverpool-agree-loan-deal-for-barcelona-defender-to-add-depth-at-centre-back
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Football gossip: Fernandez, Esposito, Barcola, Alvarez, Ndiaye, Hall
+**Slug (lower-third):** Football gossip: Fernandez, Esposito, Barcola, Alvarez, N…  
+**When:** 2026-08-07 16:07 (America/Winnipeg)  •  **Published:** 2026-08-07 21:07 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Fernandez, Esposito, Barcola, Alvarez, Ndiaye, Hall. Manchester City explore Enzo Fernandez move, Arsenal could battle Manchester United for Pio Esposito and Liverpool yet to agree Bradley Barcola fee, plus more. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Football gossip: Fernandez, Esposito, Barcola, Alvarez, Ndiaye, Hall. https://www.bbc.co.uk/sport/football/articles/c0l5x67wl67o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Coventry City transfers: Caleb Yirenkyi completes club-record move from Nordsjaelland
 **Slug (lower-third):** Coventry City transfers: Caleb Yirenkyi completes club-re…  
 **When:** 2026-08-07 13:37 (America/Winnipeg)  •  **Published:** 2026-08-07 18:37 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Coventry City transfers: Caleb Yirenkyi completes club-record move from Nordsjaelland. Premier League newcomers Coventry City have completed the club-record signing of Ghana midfielder Caleb Yirenkyi. Implications for the squad and table.
@@ -67,113 +163,15 @@ Coventry City transfers: Caleb Yirenkyi completes club-record move from Nordsjae
 
 ---
 
-## Story 3: Bradley Barcola transfer news: Liverpool deal for PSG winger difficult to complete after talks
-**Slug (lower-third):** Bradley Barcola transfer news: Liverpool deal for PSG win…  
-**When:** 2026-08-07 13:00 (America/Winnipeg)  •  **Published:** 2026-08-07 18:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Bradley Barcola transfer news: Liverpool deal for PSG winger difficult to complete after talks. Liverpool hold Bradley Barcola talks with PSG; it is understood there is a significant gap in valuation between the two clubs; PSG value Barcola at PS145m; PSGs stance on the fee makes it a difficult deal to complete at this stage; a move to Anfield is said to appeal to Barcola Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Bradley Barcola transfer news: Liverpool deal for PSG winger difficult to complete after talks. https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Lewis Hall transfer news: Newcastle tell Man Utd left-back is not for sale this summer
-**Slug (lower-third):** Lewis Hall transfer news: Newcastle tell Man Utd left-bac…  
-**When:** 2026-08-07 10:13 (America/Winnipeg)  •  **Published:** 2026-08-07 15:13 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Lewis Hall transfer news: Newcastle tell Man Utd left-back is not for sale this summer. Lewis Hall is a long-term target for Manchester United but Newcastle have told the Old Trafford side the left-back is not for sale this summer; Michael Carrick only has Luke Shaw as a senior left-back option right now, following Tyrell Malacias exit Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Lewis Hall transfer news: Newcastle tell Man Utd left-back is not for sale this summer. https://www.skysports.com/football/news/12040/13570700/lewis-hall-transfer-news-newcastle-tell-man-utd-left-back-is-not-for-sale-this-summer
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Rodri transfer news: Man City reject initial Barcelona off for Spain midfielder with bid considered far too low
-**Slug (lower-third):** Rodri transfer news: Man City reject initial Barcelona of…  
-**When:** 2026-08-07 08:45 (America/Winnipeg)  •  **Published:** 2026-08-07 13:45 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Rodri transfer news: Man City reject initial Barcelona off for Spain midfielder with bid considered far too low. Manchester City have rejected an initial offer from Barcelona for Rodri; the bid is considered far too low for the Spain midfielder; Sky in Italy have reported that Chelseas Enzo Fernandez would be City boss Enzo Marescas dream signing Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Rodri transfer news: Man City reject initial Barcelona off for Spain midfielder with bid considered far too low. https://www.skysports.com/football/news/12040/13570585/rodri-transfer-news-man-city-reject-initial-barcelona-off-for-spain-midfielder-with-bid-considered-far-too-low
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 6: Billy Vigar: Solid perimeter walls around pitches banned by FA after death of former Arsenal youngster
-**Slug (lower-third):** Billy Vigar: Solid perimeter walls around pitches banned …  
-**When:** 2026-08-07 08:24 (America/Winnipeg)  •  **Published:** 2026-08-07 13:24 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Billy Vigar: Solid perimeter walls around pitches banned by FA after death of former Arsenal youngster. The Football Association has banned solid perimeter walls around pitches after a safety review following the death of former Arsenal youth player Billy Vigar. Disciplinary outcome could affect availability.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Billy Vigar: Solid perimeter walls around pitches banned by FA after death of former Arsenal youngster. https://www.bbc.co.uk/sport/football/articles/c74gwz54jedo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 7: Crystal Palace sign Takehiro Tomiyasu after successful trial
-**Slug (lower-third):** Crystal Palace sign Takehiro Tomiyasu after successful tr…  
-**When:** 2026-08-07 10:08 (America/Winnipeg)  •  **Published:** 2026-08-07 15:08 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Carabao Cup: Will Lankshear strike sees Middlesbrough past Wrexham as Wolves beat Port Vale and Stevenage edge Wycombe
+**Slug (lower-third):** Carabao Cup: Will Lankshear strike sees Middlesbrough pas…  
+**When:** 2026-08-07 17:05 (America/Winnipeg)  •  **Published:** 2026-08-07 22:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace sign Takehiro Tomiyasu after successful trial. Crystal Palace complete the signing of Japan defender Takehiro Tomiyasu following a successful pre-season trial. Relevance to standings and momentum.
+Carabao Cup: Will Lankshear strike sees Middlesbrough past Wrexham as Wolves beat Port Vale and Stevenage edge Wycombe. Will Lankshear scores only goal to see Middlesbrough into Carabao Cup second round with 1-0 win over Wrexham; Josh Magennis strikes in 95th minute as Stevenage beat Wycombe 2-1; Wolves net three first-half goals to breeze past Port Vale Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +180,7 @@ Crystal Palace sign Takehiro Tomiyasu after successful trial. Crystal Palace com
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Crystal Palace sign Takehiro Tomiyasu after successful trial. https://www.bbc.co.uk/sport/football/articles/c07rxpj2ln9o?at_medium=RSS&at_campaign=rss
+- skysports.com — Carabao Cup: Will Lankshear strike sees Middlesbrough past Wrexham as Wolves beat Port Vale and Stevenage edge Wycombe. https://www.skysports.com/football/news/12040/13570859/carabao-cup-will-lankshear-strike-sees-middlesbrough-past-wrexham-as-wolves-beat-port-vale-and-stevenage-edge-wycombe
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,10 +189,34 @@ Crystal Palace sign Takehiro Tomiyasu after successful trial. Crystal Palace com
 
 ---
 
-## Story 8: Premier League: Why do the world's best footballers move elsewhere?
+## Story 8: Will Lankshear starts off in style to see Middlesbrough past Wrexham
+**Slug (lower-third):** Will Lankshear starts off in style to see Middlesbrough p…  
+**When:** 2026-08-07 16:20 (America/Winnipeg)  •  **Published:** 2026-08-07 21:20 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Will Lankshear starts off in style to see Middlesbrough past Wrexham. The PS10m summer signing from Spurs scored a fine volley on his debut for Boro, who by advancing to the second round have improved on last year already Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Will Lankshear starts off in style to see Middlesbrough past Wrexham. https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Premier League: Why do the world's best footballers move elsewhere?
 **Slug (lower-third):** Premier League: Why do the world's best footballers move …  
 **When:** 2026-08-07 08:22 (America/Winnipeg)  •  **Published:** 2026-08-07 13:22 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League: Why do the world's best footballers move elsewhere?. Vinicius Jr chose to stay at Real Madrid, but why does the Premier League rarely attract global superstars at their peak? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -215,34 +237,10 @@ Premier League: Why do the world's best footballers move elsewhere?. Vinicius Jr
 
 ---
 
-## Story 9: Boardroom struggle deepens gloom as West Ham prepare for life on the outside
-**Slug (lower-third):** Boardroom struggle deepens gloom as West Ham prepare for …  
-**When:** 2026-08-07 08:14 (America/Winnipeg)  •  **Published:** 2026-08-07 13:14 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Boardroom struggle deepens gloom as West Ham prepare for life on the outside. The power battle over Vanessa Gold's shares and the David Sullivan Panorama allegations are overshadowing the start of the season in the Championship Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Boardroom struggle deepens gloom as West Ham prepare for life on the outside. https://www.theguardian.com/football/2026/aug/07/boardroom-struggle-deepens-gloom-as-west-ham-prepare-for-life-on-the-outside
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 10: Leicester City: Premier League title moments - a decade on
 **Slug (lower-third):** Leicester City: Premier League title moments - a decade on  
 **When:** 2026-08-07 07:41 (America/Winnipeg)  •  **Published:** 2026-08-07 12:41 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Leicester City: Premier League title moments - a decade on. Leicester are gearing up for League One but 10 years ago they were defending Premier League champions. The dream moments haven't been forgotten. Relevance to standings and momentum.
