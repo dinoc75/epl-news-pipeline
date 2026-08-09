@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-09 07:52 (America/Winnipeg)  |  2026-08-09 12:52 (UTC)
+**Generated:** 2026-08-09 13:42 (America/Winnipeg)  |  2026-08-09 18:42 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 38s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Louis Page: Manchester United working on deal to sign Leicester teenager
-- Valencia 1-2 Newcastle: What we learned after Matthias Jaissle's first game in charge
-- Tempers flare between Real Betis and Bournemouth in pre-season 'friendly'
+- Trevoh Chalobah: Como sign defender from Chelsea in APS30m deal
+- Iraola says Liverpool have work to do as familiar frailties in defence prove costly
+- Liverpool: Reds 'cannot sustain level', says Andoni Iraola
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Matthias Jaissle: Newcastle start with friendly win under new manager
-**Slug (lower-third):** Matthias Jaissle: Newcastle start with friendly win under…  
-**When:** 2026-08-08 18:23 (America/Winnipeg)  •  **Published:** 2026-08-08 23:23 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 1: Iraola says Liverpool have work to do as familiar frailties in defence prove costly
+**Slug (lower-third):** Iraola says Liverpool have work to do as familiar frailti…  
+**When:** 2026-08-09 12:55 (America/Winnipeg)  •  **Published:** 2026-08-09 17:55 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Matthias Jaissle: Newcastle start with friendly win under new manager. It was a night which ended with Newcastle United lifting a trophy, but there was certainly no danger of head coach Matthias Jaissle getting carried away. Relevance to standings and momentum.
+Iraola says Liverpool have work to do as familiar frailties in defence prove costly. Andoni Iraola was disappointed by Liverpool's inability to sustain their good first half as they surrendered a two-goal lead to lose 3-2 against Monaco Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Matthias Jaissle: Newcastle start with friendly win under new manager. It was a 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Matthias Jaissle: Newcastle start with friendly win under new manager. https://www.bbc.co.uk/sport/football/articles/c3049pl53yyo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Iraola says Liverpool have work to do as familiar frailties in defence prove costly. https://www.theguardian.com/football/2026/aug/09/andoni-iraola-liverpool-monaco-preseason-friendly-anfield
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,13 @@ Matthias Jaissle: Newcastle start with friendly win under new manager. It was a 
 
 ### Transfers
 
-## Story 2: Cristian Romero open to joining Arsenal but Tottenham adamant their defender will not cross the north London divide - Paper Talk
-**Slug (lower-third):** Cristian Romero open to joining Arsenal but Tottenham ada…  
-**When:** 2026-08-08 18:15 (America/Winnipeg)  •  **Published:** 2026-08-08 23:15 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~30s
+## Story 2: Bruno Guimaraes: Midfielder can help Arsenal reach next level, says Mikel Arteta
+**Slug (lower-third):** Bruno Guimaraes: Midfielder can help Arsenal reach next l…  
+**When:** 2026-08-09 11:43 (America/Winnipeg)  •  **Published:** 2026-08-09 16:43 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Cristian Romero open to joining Arsenal but Tottenham adamant their defender will not cross the north London divide - Paper Talk. Latest transfer news and headlines as Arsenal target Spurs captain Cristian Romero, and eye up move for Juventus winger Kenan Yildiz after seeing Vinicius Jr bid fail; Everton and Crystal Palace discuss swap deal for Dwight McNeil and Brennan Johnson; Barcelona confident of signing Rodri Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Bruno Guimaraes: Midfielder can help Arsenal reach next level, says Mikel Arteta. Mikel Arteta said the signing of Bruno Guimaraes will help Arsenal go to the "next level" and hints that the Gunners are not done with their summer transfer activity. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +57,55 @@ Cristian Romero open to joining Arsenal but Tottenham adamant their defender wil
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Cristian Romero open to joining Arsenal but Tottenham adamant their defender will not cross the north London divide - Paper Talk. https://www.skysports.com/football/news/12040/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk
+- bbc.co.uk — Bruno Guimaraes: Midfielder can help Arsenal reach next level, says Mikel Arteta. https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Dwight McNeil & Brennan Johnson: Everton and Crystal Palace in talks over swap deal for pair
+**Slug (lower-third):** Dwight McNeil & Brennan Johnson: Everton and Crystal Pala…  
+**When:** 2026-08-09 10:03 (America/Winnipeg)  •  **Published:** 2026-08-09 15:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Dwight McNeil & Brennan Johnson: Everton and Crystal Palace in talks over swap deal for pair. Everton and Crystal Palace are in talks about a swap deal that would see Toffees' winger Dwight McNeil join the Eagles, and Wales international Brennan Johnson move in the opposite direction. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Dwight McNeil & Brennan Johnson: Everton and Crystal Palace in talks over swap deal for pair. https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Shea Charles: Fulham agree APS30m fee for Southampton midfielder
+**Slug (lower-third):** Shea Charles: Fulham agree APS30m fee for Southampton mid…  
+**When:** 2026-08-09 08:10 (America/Winnipeg)  •  **Published:** 2026-08-09 13:10 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Shea Charles: Fulham agree APS30m fee for Southampton midfielder. Fulham agree a deal worth up to APS30m for Southampton midfielder Shea Charles, subject to a medical. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Shea Charles: Fulham agree APS30m fee for Southampton midfielder. https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +116,13 @@ Cristian Romero open to joining Arsenal but Tottenham adamant their defender wil
 
 ### Injuries
 
-## Story 3: Valencia 1-2 Newcastle: What we learned after Matthias Jaissle's first game in charge
-**Slug (lower-third):** Valencia 1-2 Newcastle: What we learned after Matthias Ja…  
-**When:** 2026-08-09 07:05 (America/Winnipeg)  •  **Published:** 2026-08-09 12:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 5: Seamus Coleman: Republic of Ireland defender training with Killybegs, but no GAA return for now
+**Slug (lower-third):** Seamus Coleman: Republic of Ireland defender training wit…  
+**When:** 2026-08-09 11:36 (America/Winnipeg)  •  **Published:** 2026-08-09 16:36 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Valencia 1-2 Newcastle: What we learned after Matthias Jaissle's first game in charge. Newcastle boss Matthias Jaissle makes winning start with 2-1 victory at 10-man Valencia; Yoane Wissas second-half double earned win at Mestalla; Anthony Elanga stretchered off in first half after red-card horror tackle by Jose Gaya - but winger does not appear to have serious injury Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Seamus Coleman: Republic of Ireland defender training with Killybegs, but no GAA return for now. Former Everton defender Seamus Coleman has been training with Killybegs but a return to his local Gaelic football club is unlikely to be on the cards for now. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,34 +131,10 @@ Valencia 1-2 Newcastle: What we learned after Matthias Jaissle's first game in c
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Valencia 1-2 Newcastle: What we learned after Matthias Jaissle's first game in charge. https://www.skysports.com/football/news/12040/13571333/valencia-1-2-newcastle-what-we-learned-after-matthias-jaissles-first-game-in-charge
+- bbc.co.uk — Seamus Coleman: Republic of Ireland defender training with Killybegs, but no GAA return for now. https://www.bbc.co.uk/sport/football/articles/c4g32r7yd2eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Mason Mount injury overshadows Manchester United's draw with PSG
-**Slug (lower-third):** Mason Mount injury overshadows Manchester United's draw w…  
-**When:** 2026-08-08 14:10 (America/Winnipeg)  •  **Published:** 2026-08-08 19:10 (UTC)  
-**Virality score:** 79  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Mason Mount injury overshadows Manchester United's draw with PSG. Manchester United managed a creditable 1-1 draw with Paris Saint-Germain but the result was overshadowed by a foot injury for Mason Mount Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Mason Mount injury overshadows Manchester United's draw with PSG. https://www.theguardian.com/football/2026/aug/08/mason-mount-injury-overshadows-manchester-uniteds-draw-with-psg
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -118,13 +142,13 @@ Mason Mount injury overshadows Manchester United's draw with PSG. Manchester Uni
 
 ### Club Updates
 
-## Story 5: Louis Page: Manchester United working on deal to sign Leicester teenager
-**Slug (lower-third):** Louis Page: Manchester United working on deal to sign Lei…  
-**When:** 2026-08-09 07:13 (America/Winnipeg)  •  **Published:** 2026-08-09 12:13 (UTC)  
+## Story 6: Trevoh Chalobah: Como sign defender from Chelsea in APS30m deal
+**Slug (lower-third):** Trevoh Chalobah: Como sign defender from Chelsea in APS30…  
+**When:** 2026-08-09 12:55 (America/Winnipeg)  •  **Published:** 2026-08-09 17:55 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Louis Page: Manchester United working on deal to sign Leicester teenager. Manchester United are working on a deal to sign Leicester teenager Louis Page. Relevance to standings and momentum.
+Trevoh Chalobah: Como sign defender from Chelsea in APS30m deal. Como have signed defender Trevoh Chalobah from Chelsea in a deal worth more than APS30m. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +157,7 @@ Louis Page: Manchester United working on deal to sign Leicester teenager. Manche
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Louis Page: Manchester United working on deal to sign Leicester teenager. https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Trevoh Chalobah: Como sign defender from Chelsea in APS30m deal. https://www.bbc.co.uk/sport/football/articles/cn4n884vr4mo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +166,13 @@ Louis Page: Manchester United working on deal to sign Leicester teenager. Manche
 
 ---
 
-## Story 6: Tempers flare between Real Betis and Bournemouth in pre-season 'friendly'
-**Slug (lower-third):** Tempers flare between Real Betis and Bournemouth in pre-s…  
-**When:** 2026-08-09 05:20 (America/Winnipeg)  •  **Published:** 2026-08-09 10:20 (UTC)  
+## Story 7: Liverpool: Reds 'cannot sustain level', says Andoni Iraola
+**Slug (lower-third):** Liverpool: Reds 'cannot sustain level', says Andoni Iraola  
+**When:** 2026-08-09 12:28 (America/Winnipeg)  •  **Published:** 2026-08-09 17:28 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tempers flare between Real Betis and Bournemouth in pre-season 'friendly'. Watch as Bournemouths 2-2 draw with Real Betis was anything but a pre-season friendly, as an on-pitch brawl resulted in two red cards, including one for former Manchester United winger Antony. Relevance to standings and momentum.
+Liverpool: Reds 'cannot sustain level', says Andoni Iraola. After throwing away a two-goal lead for the second match in a row, Andoni Iraola says his Liverpool side "cannot sustain the level we want". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,8 +181,7 @@ Tempers flare between Real Betis and Bournemouth in pre-season 'friendly'. Watch
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tempers flare between Real Betis and Bournemouth in pre-season 'friendly'. https://www.skysports.com/watch/video/13571317/tempers-flare-between-real-betis-and-bournemouth-in-pre-season-friendly
-- bbc.co.uk — Bournemouth: Alex Scott and Real Betis' Antony sent off in pre-season friendly. https://www.bbc.co.uk/sport/football/articles/c2k78znk7w2o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Liverpool: Reds 'cannot sustain level', says Andoni Iraola. https://www.bbc.co.uk/sport/football/articles/c3r0zzpw5gjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,10 +190,58 @@ Tempers flare between Real Betis and Bournemouth in pre-season 'friendly'. Watch
 
 ---
 
-## Story 7: BBC Sport quiz: Who am I? Guess Premier League footballer No 20
+## Story 8: Lucas Digne: PSG sign Aston Villa defender in APS8.5m deal
+**Slug (lower-third):** Lucas Digne: PSG sign Aston Villa defender in APS8.5m deal  
+**When:** 2026-08-09 12:12 (America/Winnipeg)  •  **Published:** 2026-08-09 17:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Lucas Digne: PSG sign Aston Villa defender in APS8.5m deal. France international Lucas Digne has completed his move from Aston Villa to European champions Paris St-Germain. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Lucas Digne: PSG sign Aston Villa defender in APS8.5m deal. https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Arsenal 2-3 Borussia Dortmund: Mikel Arteta's side defend poorly but Christos Tzolis shines as Gunners lose Emirates Cup
+**Slug (lower-third):** Arsenal 2-3 Borussia Dortmund: Mikel Arteta's side defend…  
+**When:** 2026-08-09 10:58 (America/Winnipeg)  •  **Published:** 2026-08-09 15:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Arsenal 2-3 Borussia Dortmund: Mikel Arteta's side defend poorly but Christos Tzolis shines as Gunners lose Emirates Cup. Report as Arsenal lost 3-2 against Borussia Dortmund to suffer back-to-back pre-season losses; Dortmund were 2-0 up at half-time thanks to Samuele Inacio and Konstantinos Karetsas; Joane Gadou made it 3-1 after half-time; Ethan Nwaneri and Viktor Gyokeres pulled goals back for Arsenal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal 2-3 Borussia Dortmund: Mikel Arteta's side defend poorly but Christos Tzolis shines as Gunners lose Emirates Cup. https://www.skysports.com/football/news/12040/13571075/arsenal-2-3-borussia-dortmund-mikel-artetas-side-defend-poorly-but-christos-tzolis-shines-as-gunners-lose-emirates-cup
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: BBC Sport quiz: Who am I? Guess Premier League footballer No 20
 **Slug (lower-third):** BBC Sport quiz: Who am I? Guess Premier League footballer…  
 **When:** 2026-08-09 00:36 (America/Winnipeg)  •  **Published:** 2026-08-09 05:36 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+**Virality score:** 86  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 BBC Sport quiz: Who am I? Guess Premier League footballer No 20. Work out the identity of today's player in as few attempts as possible. Relevance to standings and momentum.
@@ -186,78 +257,6 @@ BBC Sport quiz: Who am I? Guess Premier League footballer No 20. Work out the id
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Bradford Bulls 4-42 Warrington Wolves | Super League highlights
-**Slug (lower-third):** Bradford Bulls 4-42 Warrington Wolves | Super League high…  
-**When:** 2026-08-08 19:00 (America/Winnipeg)  •  **Published:** 2026-08-09 00:00 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bradford Bulls 4-42 Warrington Wolves | Super League highlights. Highlights of the Super League clash between Bradford Bulls and Warrington Wolves as Matty Ashton scored twice in a dominant 42-4 victory for the visitors. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Bradford Bulls 4-42 Warrington Wolves | Super League highlights. https://www.skysports.com/watch/video/13571231/bradford-bulls-4-42-warrington-wolves-super-league-highlights
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Rodri, Romero, Diomande, Torres, McNeil, Johnson, Ruggeri
-**Slug (lower-third):** Football gossip: Rodri, Romero, Diomande, Torres, McNeil,…  
-**When:** 2026-08-08 15:37 (America/Winnipeg)  •  **Published:** 2026-08-08 20:37 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Rodri, Romero, Diomande, Torres, McNeil, Johnson, Ruggeri. Barcelona increase their Rodri bid, Cristian Romero wants to join Arsenal, Forest are set to sign Ousmane Diomande, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football gossip: Rodri, Romero, Diomande, Torres, McNeil, Johnson, Ruggeri. https://www.bbc.co.uk/sport/football/articles/c05qvj0yj46o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Youri Tielemans: Man Utd midfielder impresses on debut against PSG
-**Slug (lower-third):** Youri Tielemans: Man Utd midfielder impresses on debut ag…  
-**When:** 2026-08-08 14:15 (America/Winnipeg)  •  **Published:** 2026-08-08 19:15 (UTC)  
-**Virality score:** 80  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Youri Tielemans: Man Utd midfielder impresses on debut against PSG. Manchester United's APS35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain in Gothenburg. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Youri Tielemans: Man Utd midfielder impresses on debut against PSG. https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
