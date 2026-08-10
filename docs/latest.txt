@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-10 08:10 (America/Winnipeg)  |  2026-08-10 13:10 (UTC)
+**Generated:** 2026-08-10 13:58 (America/Winnipeg)  |  2026-08-10 18:58 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 33s
+**Estimated total video length:** ~4m 43s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Jose Mourinho: How Manchester United missed out on first choice to replace Sir Alex Ferguson
-- Crystal Palace close to signing Anan Khalaili from Union SG
-- Premier League: What are rules on player swaps in the transfer window?
+- Ronald Araujo transfer news: Liverpool complete deal to sign Barcelona defender on loan with option to buy
+- Araujo joins Liverpool on loan and Van Dijk hopes for more arrivals before new season
+- Evangelos Marinakis: Nottingham Forest owner sues Crystal Palace over fan banner
 
 ---
 
-### Managerial Moves
+### Transfers
 
-## Story 1: Victor Munoz to Liverpool: Spain international is a symbol of Andoni Iraola's plan to add intensity in attack
-**Slug (lower-third):** Victor Munoz to Liverpool: Spain international is a symbo…  
-**When:** 2026-08-10 07:00 (America/Winnipeg)  •  **Published:** 2026-08-10 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 1: Ronald Araujo transfer news: Liverpool complete deal to sign Barcelona defender on loan with option to buy
+**Slug (lower-third):** Ronald Araujo transfer news: Liverpool complete deal to s…  
+**When:** 2026-08-10 13:30 (America/Winnipeg)  •  **Published:** 2026-08-10 18:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Victor Munoz to Liverpool: Spain international is a symbol of Andoni Iraola's plan to add intensity in attack. Liverpool are set to change their approach under Andoni Iraola this coming season and the summer signing of Victor Munoz is indicative of the shift that the new head coach wants to make at Anfield. Adam Bate looks at what Munoz brings and why it is so different... Relevance to standings and momentum.
+Ronald Araujo transfer news: Liverpool complete deal to sign Barcelona defender on loan with option to buy. Liverpool have signed Barcelona defender Ronald Araujo on a season-long loan; deal includes an option to buy for PS47.14m (EUR55m); Reds add more depth at centre-back after losing Ibrahima Konate to Real Madrid and 21-year-old new signing Jeremy Jacquets lack of fitness Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Victor Munoz to Liverpool: Spain international is a symbol of Andoni Iraola's pl
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Victor Munoz to Liverpool: Spain international is a symbol of Andoni Iraola's plan to add intensity in attack. https://www.skysports.com/football/news/12040/13561572/victor-munoz-to-liverpool-spain-international-is-a-symbol-of-andoni-iraolas-plan-to-add-intensity-in-attack
+- skysports.com — Ronald Araujo transfer news: Liverpool complete deal to sign Barcelona defender on loan with option to buy. https://www.skysports.com/football/news/12040/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ Victor Munoz to Liverpool: Spain international is a symbol of Andoni Iraola's pl
 
 ---
 
-### Transfers
-
-## Story 2: Premier League: What are rules on player swaps in the transfer window?
-**Slug (lower-third):** Premier League: What are rules on player swaps in the tra…  
-**When:** 2026-08-10 07:37 (America/Winnipeg)  •  **Published:** 2026-08-10 12:37 (UTC)  
+## Story 2: Araujo joins Liverpool on loan and Van Dijk hopes for more arrivals before new season
+**Slug (lower-third):** Araujo joins Liverpool on loan and Van Dijk hopes for mor…  
+**When:** 2026-08-10 13:16 (America/Winnipeg)  •  **Published:** 2026-08-10 18:16 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: What are rules on player swaps in the transfer window?. Our Ask Me Anything team look at what the rules are for Premier League clubs exchanging players in swap deals. Implications for the squad and table.
+Araujo joins Liverpool on loan and Van Dijk hopes for more arrivals before new season. Virgil van Dijk is relishing the prospect of partnering Ronald Araujo, with the Barcelona centre-back joining Liverpool on loan Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +55,31 @@ Premier League: What are rules on player swaps in the transfer window?. Our Ask 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League: What are rules on player swaps in the transfer window?. https://www.bbc.co.uk/sport/football/articles/cvgwklkvq7qo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Araujo joins Liverpool on loan and Van Dijk hopes for more arrivals before new season. https://www.theguardian.com/football/2026/aug/10/virgil-van-dijk-ronald-araujo-liverpool
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Man City transfer news: Talks ongoing with Lille's Ayyoub Bouaddi but Rodri to Barcelona talks inactive with Enzo Fernandez also an option
+**Slug (lower-third):** Man City transfer news: Talks ongoing with Lille's Ayyoub…  
+**When:** 2026-08-10 12:39 (America/Winnipeg)  •  **Published:** 2026-08-10 17:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~32s
+
+### Presenter Script (3–5 sentences)
+Man City transfer news: Talks ongoing with Lille's Ayyoub Bouaddi but Rodri to Barcelona talks inactive with Enzo Fernandez also an option. Personal terms have been in place for a while with Ayyoub Bouaddi as Man City and Lille work to find an agreement; City do not consider talks with Barcelona for Rodri to be active after a derisory opening offer; Chelseas Enzo Fernandez is a player that City have on their shortlist Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man City transfer news: Talks ongoing with Lille's Ayyoub Bouaddi but Rodri to Barcelona talks inactive with Enzo Fernandez also an option. https://www.skysports.com/football/news/12040/13571742/man-city-transfer-news-talks-ongoing-with-lilles-ayyoub-bouaddi-but-rodri-to-barcelona-talks-inactive-with-enzo-fernandez-also-an-option
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +90,13 @@ Premier League: What are rules on player swaps in the transfer window?. Our Ask 
 
 ### Injuries
 
-## Story 3: Championship all-stars to global gamble a will Ipswich Town's approach work?
-**Slug (lower-third):** Championship all-stars to global gamble a will Ipswich To…  
-**When:** 2026-08-10 06:11 (America/Winnipeg)  •  **Published:** 2026-08-10 11:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Are Manchester United returning to relevance under Michael Carrick? | Jonathan Wilson
+**Slug (lower-third):** Are Manchester United returning to relevance under Michae…  
+**When:** 2026-08-10 10:01 (America/Winnipeg)  •  **Published:** 2026-08-10 15:01 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Championship all-stars to global gamble a will Ipswich Town's approach work?. As Ipswich prepare for their return to the Premier League, BBC Sport look at how they are approaching the transfer market differently. Implications for the squad and table.
+Are Manchester United returning to relevance under Michael Carrick? | Jonathan Wilson. In a mailbag edition of his newsletter, Jonathan answers questions about Michael Carrick, VAR and the Premier League's new teams Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +105,33 @@ Championship all-stars to global gamble a will Ipswich Town's approach work?. As
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Championship all-stars to global gamble a will Ipswich Town's approach work?. https://www.bbc.co.uk/sport/football/articles/cx2lexp9qjxo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Are Manchester United returning to relevance under Michael Carrick? | Jonathan Wilson. https://www.theguardian.com/football/2026/aug/10/are-manchester-united-returning-to-relevance
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 5: Evangelos Marinakis: Nottingham Forest owner sues Crystal Palace over fan banner
+**Slug (lower-third):** Evangelos Marinakis: Nottingham Forest owner sues Crystal…  
+**When:** 2026-08-10 13:11 (America/Winnipeg)  •  **Published:** 2026-08-10 18:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Evangelos Marinakis: Nottingham Forest owner sues Crystal Palace over fan banner. Evangelos Marinakis is suing Crystal Palace for a banner unfurled by their fans depicting the Nottingham Forest owner holding a gun to midfielder Morgan Gibbs-White's head. Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Evangelos Marinakis: Nottingham Forest owner sues Crystal Palace over fan banner. https://www.bbc.co.uk/sport/football/articles/czjlwe90py7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -94,13 +142,13 @@ Championship all-stars to global gamble a will Ipswich Town's approach work?. As
 
 ### Club Updates
 
-## Story 4: Jose Mourinho: How Manchester United missed out on first choice to replace Sir Alex Ferguson
-**Slug (lower-third):** Jose Mourinho: How Manchester United missed out on first …  
-**When:** 2026-08-10 07:59 (America/Winnipeg)  •  **Published:** 2026-08-10 12:59 (UTC)  
+## Story 6: Aston Villa in talks to sign Joao Palhinha from Bayern Munich
+**Slug (lower-third):** Aston Villa in talks to sign Joao Palhinha from Bayern Mu…  
+**When:** 2026-08-10 10:40 (America/Winnipeg)  •  **Published:** 2026-08-10 15:40 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jose Mourinho: How Manchester United missed out on first choice to replace Sir Alex Ferguson. The inside story of Manchester United's attempt to get Jose Mourinho to replace Sir Alex Ferguson, why he said 'no' and the impact of that decision. Relevance to standings and momentum.
+Aston Villa in talks to sign Joao Palhinha from Bayern Munich. Aston Villa are in talks over a move for Bayern Munich midfielder Joao Palhinha. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -109,7 +157,7 @@ Jose Mourinho: How Manchester United missed out on first choice to replace Sir A
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Jose Mourinho: How Manchester United missed out on first choice to replace Sir Alex Ferguson. https://www.bbc.co.uk/sport/football/articles/cd7ljn5rej4o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Aston Villa in talks to sign Joao Palhinha from Bayern Munich. https://www.bbc.co.uk/sport/football/articles/c1m1krdjk4no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,13 +166,13 @@ Jose Mourinho: How Manchester United missed out on first choice to replace Sir A
 
 ---
 
-## Story 5: Crystal Palace close to signing Anan Khalaili from Union SG
-**Slug (lower-third):** Crystal Palace close to signing Anan Khalaili from Union …  
-**When:** 2026-08-10 07:45 (America/Winnipeg)  •  **Published:** 2026-08-10 12:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Jordan Nobbs ready to complete wishlist with Newcastle WSL dream
+**Slug (lower-third):** Jordan Nobbs ready to complete wishlist with Newcastle WS…  
+**When:** 2026-08-10 10:31 (America/Winnipeg)  •  **Published:** 2026-08-10 15:31 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace close to signing Anan Khalaili from Union SG. Crystal Palace poised to sign 21-year-old midfielder Anan Khalaili from Belgian side Union Saint-Gilloise. Relevance to standings and momentum.
+Jordan Nobbs ready to complete wishlist with Newcastle WSL dream. Jordan Nobbs has said she is determined to help women's football to thrive in the north-east, with Newcastle having made several ambitious signings this summer Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +181,7 @@ Crystal Palace close to signing Anan Khalaili from Union SG. Crystal Palace pois
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Crystal Palace close to signing Anan Khalaili from Union SG. https://www.bbc.co.uk/sport/football/articles/c4g36zdrq2lo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Jordan Nobbs ready to complete wishlist with Newcastle WSL dream. https://www.theguardian.com/football/2026/aug/10/jordan-nobbs-newcastle-united-wsl2-sunderland-promotion-womens-football
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +190,13 @@ Crystal Palace close to signing Anan Khalaili from Union SG. Crystal Palace pois
 
 ---
 
-## Story 6: Crystal Palace and Everton agree Brennan Johnson-Dwight McNeil swap deal
-**Slug (lower-third):** Crystal Palace and Everton agree Brennan Johnson-Dwight M…  
-**When:** 2026-08-10 06:35 (America/Winnipeg)  •  **Published:** 2026-08-10 11:35 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Arsenal have looked defensively weak in pre-season - can they cope without William Saliba as Premier League campaign nears?
+**Slug (lower-third):** Arsenal have looked defensively weak in pre-season - can …  
+**When:** 2026-08-10 09:29 (America/Winnipeg)  •  **Published:** 2026-08-10 14:29 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Crystal Palace and Everton agree Brennan Johnson-Dwight McNeil swap deal. Crystal Palace and Everton have agreed a straight swap for Brennan Johnson and Dwight McNeil Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arsenal have looked defensively weak in pre-season - can they cope without William Saliba as Premier League campaign nears?. Arsenal have looked particularly porous in pre-season, missing the defensive stability of William Saliba; they have shipped seven goals in three games ahead of the new campaign, which kicks off against Man City in the Community Shield on Sunday Aug 16 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,56 +205,7 @@ Crystal Palace and Everton agree Brennan Johnson-Dwight McNeil swap deal. Crysta
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Crystal Palace and Everton agree Brennan Johnson-Dwight McNeil swap deal. https://www.theguardian.com/football/2026/aug/10/crystal-palace-everton-brennan-johnson-dwight-mcneil-transfer-roundup
-- bbc.co.uk — Dwight McNeil & Brennan Johnson: Everton and Crystal Palace agree swap deal for pair. https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Liverpool: Amazon founder Jeff Bezos nears deal to buy stake with consortium led by Amit Bhatia
-**Slug (lower-third):** Liverpool: Amazon founder Jeff Bezos nears deal to buy st…  
-**When:** 2026-08-10 06:14 (America/Winnipeg)  •  **Published:** 2026-08-10 11:14 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Liverpool: Amazon founder Jeff Bezos nears deal to buy stake with consortium led by Amit Bhatia. Amazon founder Jeff Bezos closing in on a deal to buy a roughly one-third stake in Liverpool, according to Sky News; Liverpools controlling shareholder Fenway Sports Group preparing announcement this week; consortium is led by Amit Bhatia, son-in-law of steel billionaire Lakshmi Mittal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Liverpool: Amazon founder Jeff Bezos nears deal to buy stake with consortium led by Amit Bhatia. https://www.skysports.com/football/news/12040/13571596/liverpool-amazon-founder-jeff-bezos-nears-deal-to-buy-stake-with-consortium-led-by-amit-bhatia
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Manchester City closing in on PS85m Bouaddi to soften blow of Rodri's expected exit
-**Slug (lower-third):** Manchester City closing in on PS85m Bouaddi to soften blo…  
-**When:** 2026-08-10 06:01 (America/Winnipeg)  •  **Published:** 2026-08-10 11:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester City closing in on PS85m Bouaddi to soften blow of Rodri's expected exit. Manchester City are closing in on signing Ayyoub Bouaddi from Lille with the midfielder's expected arrival clearing the path for Rodri's intent to join Barcelona Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Manchester City closing in on PS85m Bouaddi to soften blow of Rodri's expected exit. https://www.theguardian.com/football/2026/aug/10/manchester-city-85m-ayyoub-bouaddi-rodri-barcelona-transfer
+- skysports.com — Arsenal have looked defensively weak in pre-season - can they cope without William Saliba as Premier League campaign nears?. https://www.skysports.com/football/news/12040/13571668/arsenal-have-looked-defensively-weak-in-pre-season-can-they-cope-without-william-saliba-as-premier-league-campaign-nears
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -218,7 +217,7 @@ Manchester City closing in on PS85m Bouaddi to soften blow of Rodri's expected e
 ## Story 9: Premier League 2026-27 preview No 2: Aston Villa
 **Slug (lower-third):** Premier League 2026-27 preview No 2: Aston Villa  
 **When:** 2026-08-10 06:00 (America/Winnipeg)  •  **Published:** 2026-08-10 11:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League 2026-27 preview No 2: Aston Villa. Unai Emery's task seems to get harder each year, and the Europa League winners need their big signings to shine Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -239,13 +238,13 @@ Premier League 2026-27 preview No 2: Aston Villa. Unai Emery's task seems to get
 
 ---
 
-## Story 10: Newcastle United: Jordan Nobbs says promotion would be 'job done'
-**Slug (lower-third):** Newcastle United: Jordan Nobbs says promotion would be 'j…  
-**When:** 2026-08-10 06:00 (America/Winnipeg)  •  **Published:** 2026-08-10 11:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Jose Mourinho: How Manchester United missed out on first choice to replace Sir Alex Ferguson
+**Slug (lower-third):** Jose Mourinho: How Manchester United missed out on first …  
+**When:** 2026-08-10 07:59 (America/Winnipeg)  •  **Published:** 2026-08-10 12:59 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle United: Jordan Nobbs says promotion would be 'job done'. Jordan Nobbs says helping Newcastle United gain promotion to the Women's Super League for the first time would be "job done" in her career. Relevance to standings and momentum.
+Jose Mourinho: How Manchester United missed out on first choice to replace Sir Alex Ferguson. The inside story of Manchester United's attempt to get Jose Mourinho to replace Sir Alex Ferguson, why he said 'no' and the impact of that decision. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -254,7 +253,7 @@ Newcastle United: Jordan Nobbs says promotion would be 'job done'. Jordan Nobbs 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Newcastle United: Jordan Nobbs says promotion would be 'job done'. https://www.bbc.co.uk/sport/football/articles/cy07d00lrz1o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Jose Mourinho: How Manchester United missed out on first choice to replace Sir Alex Ferguson. https://www.bbc.co.uk/sport/football/articles/cd7ljn5rej4o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
