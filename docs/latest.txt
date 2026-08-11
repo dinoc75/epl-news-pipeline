@@ -1,78 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-11 02:09 (America/Winnipeg)  |  2026-08-11 07:09 (UTC)
+**Generated:** 2026-08-11 08:07 (America/Winnipeg)  |  2026-08-11 13:07 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 33s
+**Estimated total video length:** ~4m 40s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Marcus Rashford: What are Manchester United's plans to reintegrate the England forward after two loan spells?
-- Gianni Infantino: Donald Trump warns of 'terrible mistake' if FIFA replaces under-pressure president
-- Enzo Maresca: Man City manager on what he did after Chelsea, Premier League and Erling Haaland
-
----
-
-### Managerial Moves
-
-## Story 1: Enzo Maresca: Man City manager on what he did after Chelsea, Premier League and Erling Haaland
-**Slug (lower-third):** Enzo Maresca: Man City manager on what he did after Chels…  
-**When:** 2026-08-11 01:00 (America/Winnipeg)  •  **Published:** 2026-08-11 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Enzo Maresca: Man City manager on what he did after Chelsea, Premier League and Erling Haaland. New Manchester City manager Enzo Maresca talks about replacing Pep Guardiola, his interest in AI and his captaincy dilemma. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Enzo Maresca: Man City manager on what he did after Chelsea, Premier League and Erling Haaland. https://www.bbc.co.uk/sport/football/articles/cz970w31k75o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Premier League 2026-27 preview No 3: Bournemouth
-**Slug (lower-third):** Premier League 2026-27 preview No 3: Bournemouth  
-**When:** 2026-08-10 18:01 (America/Winnipeg)  •  **Published:** 2026-08-10 23:01 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League 2026-27 preview No 3: Bournemouth. New head coach Marco Rose has a lot to live up after last season's sixth-placed finish while fans have a first year in Europe to look forward to Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League 2026-27 preview No 3: Bournemouth. https://www.theguardian.com/football/2026/aug/11/premier-league-2026-27-preview-bournemouth
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Evangelos Marinakis: Nottingham Forest owner suing Crystal Palace for defamation after banner at Selhurst Park
+- Should Liverpool be worried? Pre-season form, injuries and squad depth concerns for Andoni Iraola ahead of season opener
+- Arsenal's Myles Lewis-Skelly offered to Manchester United as left-back solution
 
 ---
 
 ### Transfers
 
-## Story 3: Marcus Rashford: What are Manchester United's plans to reintegrate the England forward after two loan spells?
-**Slug (lower-third):** Marcus Rashford: What are Manchester United's plans to re…  
-**When:** 2026-08-11 03:00 (America/Winnipeg)  •  **Published:** 2026-08-11 08:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 1: Evann Guessand: Crystal Palace in talks to re-sign Aston Villa forward on loan
+**Slug (lower-third):** Evann Guessand: Crystal Palace in talks to re-sign Aston …  
+**When:** 2026-08-11 06:54 (America/Winnipeg)  •  **Published:** 2026-08-11 11:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Marcus Rashford: What are Manchester United's plans to reintegrate the England forward after two loan spells?. Marcus Rashford will be fully reintegrated into the Manchester United squad after his loan at Barcelona came to an end earlier this summer; Rashford last appeared for United in December 2024; United face Leeds at Dublins Croke Park on Wednesday Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Evann Guessand: Crystal Palace in talks to re-sign Aston Villa forward on loan. Crystal Palace are in talks to re-sign Ivory Coast forward Evann Guessand on a season-long loan from Aston Villa. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +31,7 @@ Marcus Rashford: What are Manchester United's plans to reintegrate the England f
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Marcus Rashford: What are Manchester United's plans to reintegrate the England forward after two loan spells?. https://www.skysports.com/football/news/12040/13571617/marcus-rashford-what-are-manchester-uniteds-plans-to-reintegrate-the-england-forward-after-two-loan-spells
+- bbc.co.uk — Evann Guessand: Crystal Palace in talks to re-sign Aston Villa forward on loan. https://www.bbc.co.uk/sport/football/articles/czrjee6gzkxo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +40,13 @@ Marcus Rashford: What are Manchester United's plans to reintegrate the England f
 
 ---
 
-## Story 4: Micky van de Ven: Tottenham defender signs new long-term deal
-**Slug (lower-third):** Micky van de Ven: Tottenham defender signs new long-term …  
-**When:** 2026-08-10 15:59 (America/Winnipeg)  •  **Published:** 2026-08-10 20:59 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 2: Transfer roundup: Nottingham Forest seal PS34m deal for Sporting's Diomande
+**Slug (lower-third):** Transfer roundup: Nottingham Forest seal PS34m deal for S…  
+**When:** 2026-08-11 06:47 (America/Winnipeg)  •  **Published:** 2026-08-11 11:47 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Micky van de Ven: Tottenham defender signs new long-term deal. Tottenham defender Micky van de Ven says it is "clear the direction the club wants to go in" after signing a new long-term deal with Spurs. Relevance to standings and momentum.
+Transfer roundup: Nottingham Forest seal PS34m deal for Sporting's Diomande. Nottingham Forest have signed Cote d'Ivoire defender Ousmane Diomande from Sporting, while Fulham have snapped up Shea Charles from Southampton Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +55,7 @@ Micky van de Ven: Tottenham defender signs new long-term deal. Tottenham defende
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Micky van de Ven: Tottenham defender signs new long-term deal. https://www.bbc.co.uk/sport/football/articles/c4g362n1e28o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Transfer roundup: Nottingham Forest seal PS34m deal for Sporting's Diomande. https://www.theguardian.com/football/2026/aug/11/transfer-roundup-nottingham-forest-ousmane-diomande-fulham-shea-charles
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +64,13 @@ Micky van de Ven: Tottenham defender signs new long-term deal. Tottenham defende
 
 ---
 
-## Story 5: Arsenal transfer news: Who are Gunners like to sign this transfer window?
-**Slug (lower-third):** Arsenal transfer news: Who are Gunners like to sign this …  
-**When:** 2026-08-10 15:32 (America/Winnipeg)  •  **Published:** 2026-08-10 20:32 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 3: Ayyoub Bouaddi transfer: Why do Man City want to spend big on another midfielder after signing Elliot Anderson?
+**Slug (lower-third):** Ayyoub Bouaddi transfer: Why do Man City want to spend bi…  
+**When:** 2026-08-11 06:41 (America/Winnipeg)  •  **Published:** 2026-08-11 11:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Arsenal transfer news: Who are Gunners like to sign this transfer window?. One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal. Implications for the squad and table.
+Ayyoub Bouaddi transfer: Why do Man City want to spend big on another midfielder after signing Elliot Anderson?. Personal terms have been in place for a while with midfielder Ayyoub Bouaddi as Man City and Lille work to find an agreement; the 18-year-old shone for Morocco at the World Cup - is he the answer if Rodri leaves this summer? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +79,7 @@ Arsenal transfer news: Who are Gunners like to sign this transfer window?. One b
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Arsenal transfer news: Who are Gunners like to sign this transfer window?. https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss
+- skysports.com — Ayyoub Bouaddi transfer: Why do Man City want to spend big on another midfielder after signing Elliot Anderson?. https://www.skysports.com/football/news/12040/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +90,13 @@ Arsenal transfer news: Who are Gunners like to sign this transfer window?. One b
 
 ### League & Regulation
 
-## Story 6: Nottingham Forest owner Marinakis sues Crystal Palace over fan banner
-**Slug (lower-third):** Nottingham Forest owner Marinakis sues Crystal Palace ove…  
-**When:** 2026-08-10 14:10 (America/Winnipeg)  •  **Published:** 2026-08-10 19:10 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 4: Evangelos Marinakis: Nottingham Forest owner suing Crystal Palace for defamation after banner at Selhurst Park
+**Slug (lower-third):** Evangelos Marinakis: Nottingham Forest owner suing Crysta…  
+**When:** 2026-08-11 08:25 (America/Winnipeg)  •  **Published:** 2026-08-11 13:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest owner Marinakis sues Crystal Palace over fan banner. The banner depicted Evangelos Marinakis, the Nottingham Forest owner, holding a gun to the head of Morgan Gibbs-White, with Palace already fined PS50,000 by the FA over the incident Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Evangelos Marinakis: Nottingham Forest owner suing Crystal Palace for defamation after banner at Selhurst Park. Nottingham Forest owner Evangelos Marinakis is suing Crystal Palace for defamation for a banner unfurled at Selhurst Park last season; FA investigated the incident in November; Palace were charged and fined PS50,000 but Marinakis determined to pursue club to full extent of the law Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,8 +105,7 @@ Nottingham Forest owner Marinakis sues Crystal Palace over fan banner. The banne
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Nottingham Forest owner Marinakis sues Crystal Palace over fan banner. https://www.theguardian.com/football/2026/aug/10/nottingham-forest-owner-marinakis-sues-crystal-palace-over-fan-banner
-- bbc.co.uk — Evangelos Marinakis: Nottingham Forest owner sues Crystal Palace over fan banner. https://www.bbc.co.uk/sport/football/articles/czjlwe90py7o?at_medium=RSS&at_campaign=rss
+- skysports.com — Evangelos Marinakis: Nottingham Forest owner suing Crystal Palace for defamation after banner at Selhurst Park. https://www.skysports.com/football/news/12040/13571952/evangelos-marinakis-nottingham-forest-owner-suing-crystal-palace-for-defamation-after-banner-at-selhurst-park
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +116,13 @@ Nottingham Forest owner Marinakis sues Crystal Palace over fan banner. The banne
 
 ### Club Updates
 
-## Story 7: Gianni Infantino: Donald Trump warns of 'terrible mistake' if FIFA replaces under-pressure president
-**Slug (lower-third):** Gianni Infantino: Donald Trump warns of 'terrible mistake…  
-**When:** 2026-08-11 02:04 (America/Winnipeg)  •  **Published:** 2026-08-11 07:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 5: Should Liverpool be worried? Pre-season form, injuries and squad depth concerns for Andoni Iraola ahead of season opener
+**Slug (lower-third):** Should Liverpool be worried? Pre-season form, injuries an…  
+**When:** 2026-08-11 08:00 (America/Winnipeg)  •  **Published:** 2026-08-11 13:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Gianni Infantino: Donald Trump warns of 'terrible mistake' if FIFA replaces under-pressure president. US President Donald Trump backs Gianni Infantino; FIFA chief has come under pressure over his botched plan to sell off stakes in the mens World Cup; Trump said: FIFA would be making a terrible mistake if, for any reason, they even considered replacing president Gianni Infantino Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Should Liverpool be worried? Pre-season form, injuries and squad depth concerns for Andoni Iraola ahead of season opener. Liverpool blew a two-goal lead for the second game in a row under Andoni Iraola against Monaco; they were beaten by Leeds from 2-0 up a week earlier; watch their season opener at Newcastle live on Sky Sports on August 23, kick-off 4.30pm Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +131,7 @@ Gianni Infantino: Donald Trump warns of 'terrible mistake' if FIFA replaces unde
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Gianni Infantino: Donald Trump warns of 'terrible mistake' if FIFA replaces under-pressure president. https://www.skysports.com/football/news/12040/13571834/gianni-infantino-donald-trump-warns-of-terrible-mistake-if-fifa-replaces-under-pressure-president
+- skysports.com — Should Liverpool be worried? Pre-season form, injuries and squad depth concerns for Andoni Iraola ahead of season opener. https://www.skysports.com/football/news/12040/13571608/should-liverpool-be-worried-pre-season-form-injuries-and-squad-depth-concerns-for-andoni-iraola-ahead-of-season-opener
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +140,13 @@ Gianni Infantino: Donald Trump warns of 'terrible mistake' if FIFA replaces unde
 
 ---
 
-## Story 8: BBC Sport quiz: Who am I? Guess Premier League footballer No 22
-**Slug (lower-third):** BBC Sport quiz: Who am I? Guess Premier League footballer…  
-**When:** 2026-08-11 00:42 (America/Winnipeg)  •  **Published:** 2026-08-11 05:42 (UTC)  
+## Story 6: Arsenal's Myles Lewis-Skelly offered to Manchester United as left-back solution
+**Slug (lower-third):** Arsenal's Myles Lewis-Skelly offered to Manchester United…  
+**When:** 2026-08-11 07:09 (America/Winnipeg)  •  **Published:** 2026-08-11 12:09 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-BBC Sport quiz: Who am I? Guess Premier League footballer No 22. Work out the identity of today's player in as few attempts as possible. Relevance to standings and momentum.
+Arsenal's Myles Lewis-Skelly offered to Manchester United as left-back solution. Myles Lewis-Skelly has been offered to Manchester United as a potential left-back option, with Arsenal wishing to recoup some of the PS75m paid to Newcastle for Bruno Guimaraes Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +155,7 @@ BBC Sport quiz: Who am I? Guess Premier League footballer No 22. Work out the id
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — BBC Sport quiz: Who am I? Guess Premier League footballer No 22. https://www.bbc.co.uk/sport/football/articles/cnvnmgzr65vo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Arsenal's Myles Lewis-Skelly offered to Manchester United as left-back solution. https://www.theguardian.com/football/2026/aug/11/arsenal-myles-lewis-skelly-offered-to-manchester-united-left-back
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +164,13 @@ BBC Sport quiz: Who am I? Guess Premier League footballer No 22. Work out the id
 
 ---
 
-## Story 9: Carabao Cup second-round draw: Chelsea vs Luton, Tottenham vs Charlton, Newcastle vs West Brom
-**Slug (lower-third):** Carabao Cup second-round draw: Chelsea vs Luton, Tottenha…  
-**When:** 2026-08-10 15:01 (America/Winnipeg)  •  **Published:** 2026-08-10 20:01 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 7: Crystal Palace: Co-owner Steve Parish contacted Dwight McNeil's girlfriend before move
+**Slug (lower-third):** Crystal Palace: Co-owner Steve Parish contacted Dwight Mc…  
+**When:** 2026-08-11 07:07 (America/Winnipeg)  •  **Published:** 2026-08-11 12:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Carabao Cup second-round draw: Chelsea vs Luton, Tottenham vs Charlton, Newcastle vs West Brom. Nottingham Forest will face Leeds in the Carabao Cup in the only all-Premier League tie in the second round of the competition. Relevance to standings and momentum.
+Crystal Palace: Co-owner Steve Parish contacted Dwight McNeil's girlfriend before move. Crystal Palace co-owner and chairman Steve Parish contacts Dwight McNeil's partner before the midfielder's move to the club. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,8 +179,7 @@ Carabao Cup second-round draw: Chelsea vs Luton, Tottenham vs Charlton, Newcastl
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Carabao Cup second-round draw: Chelsea vs Luton, Tottenham vs Charlton, Newcastle vs West Brom. https://www.bbc.co.uk/sport/football/articles/c98vm4rz7m7o?at_medium=RSS&at_campaign=rss
-- skysports.com — Carabao Cup second round: Chelsea vs Luton, Tottenham vs Charlton and Newcastle vs West Brom as 11 Premier League sides enter draw. https://www.skysports.com/football/news/12040/13571634/carabao-cup-second-round-chelsea-vs-luton-tottenham-vs-charlton-and-newcastle-vs-west-brom-as-11-premier-league-sides-enter-draw
+- bbc.co.uk — Crystal Palace: Co-owner Steve Parish contacted Dwight McNeil's girlfriend before move. https://www.bbc.co.uk/sport/football/articles/cwyjxxg5ze5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -240,13 +188,13 @@ Carabao Cup second-round draw: Chelsea vs Luton, Tottenham vs Charlton, Newcastl
 
 ---
 
-## Story 10: Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds
-**Slug (lower-third):** Carabao Cup second-round draw: Chelsea host Luton, Forest…  
-**When:** 2026-08-10 16:55 (America/Winnipeg)  •  **Published:** 2026-08-10 21:55 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 8: Are Manchester United's women's side judged differently to WSL rivals?
+**Slug (lower-third):** Are Manchester United's women's side judged differently t…  
+**When:** 2026-08-11 06:37 (America/Winnipeg)  •  **Published:** 2026-08-11 11:37 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds. Spurs will play Charlton, Preston v Everton, Brentford are away at Birmingham and Ipswich are at home to Leicester Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Are Manchester United's women's side judged differently to WSL rivals?. Manchester United are one of the biggest clubs in the world, but is the women's team really judged differently as a result? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -255,7 +203,55 @@ Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds. Spur
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds. https://www.theguardian.com/football/2026/aug/10/carabao-cup-second-round-draw-chelsea-luton-nottingham-forest-leeds
+- bbc.co.uk — Are Manchester United's women's side judged differently to WSL rivals?. https://www.bbc.co.uk/sport/football/articles/c9d84y02v7lo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Shea Charles: How Fulham signing became NI's most expensive footballer
+**Slug (lower-third):** Shea Charles: How Fulham signing became NI's most expensi…  
+**When:** 2026-08-11 06:36 (America/Winnipeg)  •  **Published:** 2026-08-11 11:36 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Shea Charles: How Fulham signing became NI's most expensive footballer. After he became Northern Ireland's most expensive player, BBC Sport NI looks at the rise of Shea Charles, from Manchester City's academy to Fulham's APS30m man. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Shea Charles: How Fulham signing became NI's most expensive footballer. https://www.bbc.co.uk/sport/football/articles/cn5n3rl0p0ko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Women's Champions League: Chelsea to face Real Sociedad in third qualifying round
+**Slug (lower-third):** Women's Champions League: Chelsea to face Real Sociedad i…  
+**When:** 2026-08-11 06:35 (America/Winnipeg)  •  **Published:** 2026-08-11 11:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Women's Champions League: Chelsea to face Real Sociedad in third qualifying round. Chelsea will face Spanish side Real Sociedad in the Women's Champions League third qualifying round, with the first leg of the tie on 26 August. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Women's Champions League: Chelsea to face Real Sociedad in third qualifying round. https://www.bbc.co.uk/sport/football/articles/cdrvm27rel0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
