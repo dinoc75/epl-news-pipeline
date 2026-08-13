@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-13 08:13 (America/Winnipeg)  |  2026-08-13 13:13 (UTC)
+**Generated:** 2026-08-13 14:03 (America/Winnipeg)  |  2026-08-13 19:03 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- West Ham: Will the Hammers bounce straight back to the Premier League?
-- Marcus Rashford transfer news: Tottenham should sign Man Utd forward, says ex-Spurs midfielder Jamie O'Hara
-- 'He has a very high ceiling': Madjo makes instant mark on delayed Aston Villa bow
+- Leicester City for sale: Thai owners King Power put club on market for more than PS200m
+- Man Utd: Michael Carrick is pushing to improve the squad this summer
+- Arsenal invite offers for Gabriel Martinelli and Ethan Nwaneri
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Premier League 2026-27 preview No 8: Crystal Palace
-**Slug (lower-third):** Premier League 2026-27 preview No 8: Crystal Palace  
-**When:** 2026-08-13 06:00 (America/Winnipeg)  •  **Published:** 2026-08-13 11:00 (UTC)  
+## Story 1: Man Utd: Michael Carrick will keep pushing new transfer signings this summer
+**Slug (lower-third):** Man Utd: Michael Carrick will keep pushing new transfer s…  
+**When:** 2026-08-13 11:21 (America/Winnipeg)  •  **Published:** 2026-08-13 16:21 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League 2026-27 preview No 8: Crystal Palace. Palace take a risk with new manager Pierre Sage, who is tasked with building on Glasner's unprecedented success Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Man Utd: Michael Carrick will keep pushing new transfer signings this summer. Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie Mainoo. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Premier League 2026-27 preview No 8: Crystal Palace. Palace take a risk with new
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League 2026-27 preview No 8: Crystal Palace. https://www.theguardian.com/football/2026/aug/13/premier-league-2026-27-preview-no-8-crystal-palace
+- bbc.co.uk — Man Utd: Michael Carrick will keep pushing new transfer signings this summer. https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,37 +42,13 @@ Premier League 2026-27 preview No 8: Crystal Palace. Palace take a risk with new
 
 ### Transfers
 
-## Story 2: Marcus Rashford transfer news: Tottenham should sign Man Utd forward, says ex-Spurs midfielder Jamie O'Hara
-**Slug (lower-third):** Marcus Rashford transfer news: Tottenham should sign Man …  
-**When:** 2026-08-13 07:05 (America/Winnipeg)  •  **Published:** 2026-08-13 12:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Marcus Rashford transfer news: Tottenham should sign Man Utd forward, says ex-Spurs midfielder Jamie O'Hara. Jamie OHara was speaking on Sky Sports Tottenham summer special podcast; the show also features Sky Sports News Michael Bridge and Lyall Thomas, who analyse Spurs summer window so far, discuss the business still needed and answer your questions ahead of the new season Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Marcus Rashford transfer news: Tottenham should sign Man Utd forward, says ex-Spurs midfielder Jamie O'Hara. https://www.skysports.com/football/news/12040/13572329/marcus-rashford-transfer-news-tottenham-should-sign-man-utd-forward-says-ex-spurs-midfielder-jamie-ohara
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Men's transfer window summer 2026: all deals from Europe's top five leagues
-**Slug (lower-third):** Men's transfer window summer 2026: all deals from Europe'…  
-**When:** 2026-08-13 05:29 (America/Winnipeg)  •  **Published:** 2026-08-13 10:29 (UTC)  
+## Story 2: Man Utd: Michael Carrick is pushing to improve the squad this summer
+**Slug (lower-third):** Man Utd: Michael Carrick is pushing to improve the squad …  
+**When:** 2026-08-13 12:56 (America/Winnipeg)  •  **Published:** 2026-08-13 17:56 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Men's transfer window summer 2026: all deals from Europe's top five leagues. All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Man Utd: Michael Carrick is pushing to improve the squad this summer. Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +57,7 @@ Men's transfer window summer 2026: all deals from Europe's top five leagues. All
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Men's transfer window summer 2026: all deals from Europe's top five leagues. https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues
+- bbc.co.uk — Man Utd: Michael Carrick is pushing to improve the squad this summer. https://www.bbc.co.uk/sport/football/videos/c4g3vg077vpo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +66,13 @@ Men's transfer window summer 2026: all deals from Europe's top five leagues. All
 
 ---
 
-## Story 4: Rodri transfer news: Man City reject PS55m bid from Barcelona for World Cup-winning midfielder
-**Slug (lower-third):** Rodri transfer news: Man City reject PS55m bid from Barce…  
-**When:** 2026-08-13 05:00 (America/Winnipeg)  •  **Published:** 2026-08-13 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 3: Bournemouth transfer news: Enes Unal leaves to rejoin Getafe
+**Slug (lower-third):** Bournemouth transfer news: Enes Unal leaves to rejoin Get…  
+**When:** 2026-08-13 10:34 (America/Winnipeg)  •  **Published:** 2026-08-13 15:34 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Rodri transfer news: Man City reject PS55m bid from Barcelona for World Cup-winning midfielder. Barcelona were expected to raise their offer to between PS50m and PS60m after an initial approach was knocked back by Manchester City last week; However their latest bid is seen as not enough; City are seeking upwards of PS60m for the 30-year-old midfielder Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Bournemouth transfer news: Enes Unal leaves to rejoin Getafe. Enes Unal leaves Bournemouth to rejoin Spanish club Getafe. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +81,83 @@ Rodri transfer news: Man City reject PS55m bid from Barcelona for World Cup-winn
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Rodri transfer news: Man City reject PS55m bid from Barcelona for World Cup-winning midfielder. https://www.skysports.com/football/news/12040/13567985/rodri-transfer-news-man-city-reject-55m-bid-from-barcelona-for-world-cup-winning-midfielder
+- bbc.co.uk — Bournemouth transfer news: Enes Unal leaves to rejoin Getafe. https://www.bbc.co.uk/sport/football/articles/cy9w2749p89o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 4: West Ham news: Uncertainty in boardroom before Championship return
+**Slug (lower-third):** West Ham news: Uncertainty in boardroom before Championsh…  
+**When:** 2026-08-13 10:02 (America/Winnipeg)  •  **Published:** 2026-08-13 15:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+West Ham news: Uncertainty in boardroom before Championship return. As West Ham get ready to start their first league campaign outside the top flight since 2011-12, what's going on in the boardroom? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — West Ham news: Uncertainty in boardroom before Championship return. https://www.bbc.co.uk/sport/football/articles/cz7d88zgypno?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 5: Carrick rules out PS100m signing for Manchester United as Rashford rejoins squad
+**Slug (lower-third):** Carrick rules out PS100m signing for Manchester United as…  
+**When:** 2026-08-13 11:00 (America/Winnipeg)  •  **Published:** 2026-08-13 16:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Carrick rules out PS100m signing for Manchester United as Rashford rejoins squad. Michael Carrick has stated that Manchester United will not make a PS100m signing due to finances as Marcus Rashford joined up with the squad again Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Carrick rules out PS100m signing for Manchester United as Rashford rejoins squad. https://www.theguardian.com/football/2026/aug/13/manchester-united-marcus-rashford-michael-carrick-transfer-window
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Gambling out - who is in? The changing face of Premier League shirts
+**Slug (lower-third):** Gambling out - who is in? The changing face of Premier Le…  
+**When:** 2026-08-13 09:57 (America/Winnipeg)  •  **Published:** 2026-08-13 14:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Gambling out - who is in? The changing face of Premier League shirts. Premier League kits are going to have a very different look this season after clubs voted to ban gambling on the front of shirts. BBC Sport looks at the history of sponsorship, and who is replacing the betting companies. Disciplinary outcome could affect availability.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Gambling out - who is in? The changing face of Premier League shirts. https://www.bbc.co.uk/sport/football/articles/c4g3vrr1vdro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +168,13 @@ Rodri transfer news: Man City reject PS55m bid from Barcelona for World Cup-winn
 
 ### Club Updates
 
-## Story 5: West Ham: Will the Hammers bounce straight back to the Premier League?
-**Slug (lower-third):** West Ham: Will the Hammers bounce straight back to the Pr…  
-**When:** 2026-08-13 07:18 (America/Winnipeg)  •  **Published:** 2026-08-13 12:18 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Leicester City for sale: Thai owners King Power put club on market for more than PS200m
+**Slug (lower-third):** Leicester City for sale: Thai owners King Power put club …  
+**When:** 2026-08-13 13:27 (America/Winnipeg)  •  **Published:** 2026-08-13 18:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-West Ham: Will the Hammers bounce straight back to the Premier League?. BBC Sport analyses the season ahead for West Ham, who will be playing in the Championship for the first time in 14 years. Relevance to standings and momentum.
+Leicester City for sale: Thai owners King Power put club on market for more than PS200m. Leicester Citys mens and womens teams, stadium, mens training facilities and sister club OH Leuven are all included in a sales brochure, with owners King Power putting a PS224m price on the assets; the Srivaddhanaprabha family bought Leicester for PS35m in 2010 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +183,7 @@ West Ham: Will the Hammers bounce straight back to the Premier League?. BBC Spor
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — West Ham: Will the Hammers bounce straight back to the Premier League?. https://www.bbc.co.uk/sport/football/articles/ckg9y2xrnego?at_medium=RSS&at_campaign=rss
+- skysports.com — Leicester City for sale: Thai owners King Power put club on market for more than PS200m. https://www.skysports.com/football/news/12040/13572696/leicester-city-for-sale-thai-owners-king-power-put-club-on-market-for-more-than-200m
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +192,13 @@ West Ham: Will the Hammers bounce straight back to the Premier League?. BBC Spor
 
 ---
 
-## Story 6: 'He has a very high ceiling': Madjo makes instant mark on delayed Aston Villa bow
-**Slug (lower-third):** 'He has a very high ceiling': Madjo makes instant mark on…  
-**When:** 2026-08-13 07:00 (America/Winnipeg)  •  **Published:** 2026-08-13 12:00 (UTC)  
+## Story 8: Arsenal invite offers for Gabriel Martinelli and Ethan Nwaneri
+**Slug (lower-third):** Arsenal invite offers for Gabriel Martinelli and Ethan Nw…  
+**When:** 2026-08-13 12:49 (America/Winnipeg)  •  **Published:** 2026-08-13 17:49 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-'He has a very high ceiling': Madjo makes instant mark on delayed Aston Villa bow. Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arsenal invite offers for Gabriel Martinelli and Ethan Nwaneri. Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +207,7 @@ West Ham: Will the Hammers bounce straight back to the Premier League?. BBC Spor
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'He has a very high ceiling': Madjo makes instant mark on delayed Aston Villa bow. https://www.theguardian.com/football/2026/aug/13/aston-villa-brian-madjo-makes-mark-psg
+- bbc.co.uk — Arsenal invite offers for Gabriel Martinelli and Ethan Nwaneri. https://www.bbc.co.uk/sport/football/articles/cwy42yqwk30o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +216,13 @@ West Ham: Will the Hammers bounce straight back to the Premier League?. BBC Spor
 
 ---
 
-## Story 7: Anthony Taylor: Retiring Premier League referee on VAR, toxic debate and intense scrutiny.
-**Slug (lower-third):** Anthony Taylor: Retiring Premier League referee on VAR, t…  
-**When:** 2026-08-13 06:35 (America/Winnipeg)  •  **Published:** 2026-08-13 11:35 (UTC)  
+## Story 9: Wesley Fofana is handling online hate for 'amazing' Chelsea future
+**Slug (lower-third):** Wesley Fofana is handling online hate for 'amazing' Chels…  
+**When:** 2026-08-13 11:02 (America/Winnipeg)  •  **Published:** 2026-08-13 16:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Anthony Taylor: Retiring Premier League referee on VAR, toxic debate and intense scrutiny.. Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials. Relevance to standings and momentum.
+Wesley Fofana is handling online hate for 'amazing' Chelsea future. Wesley Fofana shed tears, faced criticism for laughing at the wrong moment and exposed racist abuse last season but believes stability will lead to "amazing" Chelsea future. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +231,7 @@ Anthony Taylor: Retiring Premier League referee on VAR, toxic debate and intense
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Anthony Taylor: Retiring Premier League referee on VAR, toxic debate and intense scrutiny.. https://www.bbc.co.uk/sport/football/articles/czxq25zejj4o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Wesley Fofana is handling online hate for 'amazing' Chelsea future. https://www.bbc.co.uk/sport/football/articles/c62vddx10gjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +240,13 @@ Anthony Taylor: Retiring Premier League referee on VAR, toxic debate and intense
 
 ---
 
-## Story 8: Kieran Trippier: 'The Championship is relentless ... it's totally different to the Premier League'
-**Slug (lower-third):** Kieran Trippier: 'The Championship is relentless ... it's…  
-**When:** 2026-08-13 06:00 (America/Winnipeg)  •  **Published:** 2026-08-13 11:00 (UTC)  
+## Story 10: Arsenal reignite interest in Aston Villa defender Ezri Konsa
+**Slug (lower-third):** Arsenal reignite interest in Aston Villa defender Ezri Ko…  
+**When:** 2026-08-13 10:47 (America/Winnipeg)  •  **Published:** 2026-08-13 15:47 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Kieran Trippier: 'The Championship is relentless ... it's totally different to the Premier League'. The former England full-back is back in the Championship after 12 years away, hoping to lead Wolves out of it Relevance to standings and momentum.
+Arsenal reignite interest in Aston Villa defender Ezri Konsa. Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,55 +255,7 @@ Kieran Trippier: 'The Championship is relentless ... it's totally different to t
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Kieran Trippier: 'The Championship is relentless ... it's totally different to the Premier League'. https://www.theguardian.com/football/2026/aug/13/kieran-trippier-wolves-championship-premier-league-england
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Wayne Rooney to co-host new Manchester United show alongside Mark Goldbridge
-**Slug (lower-third):** Wayne Rooney to co-host new Manchester United show alongs…  
-**When:** 2026-08-13 05:17 (America/Winnipeg)  •  **Published:** 2026-08-13 10:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Wayne Rooney to co-host new Manchester United show alongside Mark Goldbridge. Wayne Rooney will co-host a new Manchester United-dedicated show alongside influencer Mark Goldbrige this season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Wayne Rooney to co-host new Manchester United show alongside Mark Goldbridge. https://www.bbc.co.uk/sport/football/articles/c8xnwn4zjeno?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Fulham leave pitch as Malaga take penalty into empty net
-**Slug (lower-third):** Fulham leave pitch as Malaga take penalty into empty net  
-**When:** 2026-08-13 04:17 (America/Winnipeg)  •  **Published:** 2026-08-13 09:17 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Fulham leave pitch as Malaga take penalty into empty net. Fulham's pre-season friendly against Malaga ends in chaotic fashion as the Premier League side leave the pitch before a penalty shootout. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Fulham leave pitch as Malaga take penalty into empty net. https://www.bbc.co.uk/sport/football/articles/cz052j8x9x1o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Arsenal reignite interest in Aston Villa defender Ezri Konsa. https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
