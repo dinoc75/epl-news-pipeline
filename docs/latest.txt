@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-13 14:03 (America/Winnipeg)  |  2026-08-13 19:03 (UTC)
+**Generated:** 2026-08-13 21:02 (America/Winnipeg)  |  2026-08-14 02:02 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 28s
@@ -8,9 +8,9 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Leicester City for sale: Thai owners King Power put club on market for more than PS200m
-- Man Utd: Michael Carrick is pushing to improve the squad this summer
-- Arsenal invite offers for Gabriel Martinelli and Ethan Nwaneri
+- Premier League 2026-27 preview No 9: Everton
+- Man City's Tijjani Reijnders set for APS52m Saudi move
+- Football gossip: Rodri, Spence, Pubill, Iroegbunam, Jesus
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Man Utd: Michael Carrick will keep pushing new transfer signings this summer
 **Slug (lower-third):** Man Utd: Michael Carrick will keep pushing new transfer s…  
 **When:** 2026-08-13 11:21 (America/Winnipeg)  •  **Published:** 2026-08-13 16:21 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man Utd: Michael Carrick will keep pushing new transfer signings this summer. Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie Mainoo. Implications for the squad and table.
@@ -45,7 +45,7 @@ Man Utd: Michael Carrick will keep pushing new transfer signings this summer. Be
 ## Story 2: Man Utd: Michael Carrick is pushing to improve the squad this summer
 **Slug (lower-third):** Man Utd: Michael Carrick is pushing to improve the squad …  
 **When:** 2026-08-13 12:56 (America/Winnipeg)  •  **Published:** 2026-08-13 17:56 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 94  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man Utd: Michael Carrick is pushing to improve the squad this summer. Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress. Implications for the squad and table.
@@ -66,112 +66,132 @@ Man Utd: Michael Carrick is pushing to improve the squad this summer. Ahead of h
 
 ---
 
-## Story 3: Bournemouth transfer news: Enes Unal leaves to rejoin Getafe
-**Slug (lower-third):** Bournemouth transfer news: Enes Unal leaves to rejoin Get…  
-**When:** 2026-08-13 10:34 (America/Winnipeg)  •  **Published:** 2026-08-13 15:34 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Bournemouth transfer news: Enes Unal leaves to rejoin Getafe. Enes Unal leaves Bournemouth to rejoin Spanish club Getafe. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Bournemouth transfer news: Enes Unal leaves to rejoin Getafe. https://www.bbc.co.uk/sport/football/articles/cy9w2749p89o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 4: West Ham news: Uncertainty in boardroom before Championship return
-**Slug (lower-third):** West Ham news: Uncertainty in boardroom before Championsh…  
-**When:** 2026-08-13 10:02 (America/Winnipeg)  •  **Published:** 2026-08-13 15:02 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-West Ham news: Uncertainty in boardroom before Championship return. As West Ham get ready to start their first league campaign outside the top flight since 2011-12, what's going on in the boardroom? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — West Ham news: Uncertainty in boardroom before Championship return. https://www.bbc.co.uk/sport/football/articles/cz7d88zgypno?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 5: Carrick rules out PS100m signing for Manchester United as Rashford rejoins squad
-**Slug (lower-third):** Carrick rules out PS100m signing for Manchester United as…  
-**When:** 2026-08-13 11:00 (America/Winnipeg)  •  **Published:** 2026-08-13 16:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Carrick rules out PS100m signing for Manchester United as Rashford rejoins squad. Michael Carrick has stated that Manchester United will not make a PS100m signing due to finances as Marcus Rashford joined up with the squad again Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Carrick rules out PS100m signing for Manchester United as Rashford rejoins squad. https://www.theguardian.com/football/2026/aug/13/manchester-united-marcus-rashford-michael-carrick-transfer-window
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Gambling out - who is in? The changing face of Premier League shirts
-**Slug (lower-third):** Gambling out - who is in? The changing face of Premier Le…  
-**When:** 2026-08-13 09:57 (America/Winnipeg)  •  **Published:** 2026-08-13 14:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Gambling out - who is in? The changing face of Premier League shirts. Premier League kits are going to have a very different look this season after clubs voted to ban gambling on the front of shirts. BBC Sport looks at the history of sponsorship, and who is replacing the betting companies. Disciplinary outcome could affect availability.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Gambling out - who is in? The changing face of Premier League shirts. https://www.bbc.co.uk/sport/football/articles/c4g3vrr1vdro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 7: Leicester City for sale: Thai owners King Power put club on market for more than PS200m
+## Story 3: Premier League 2026-27 preview No 9: Everton
+**Slug (lower-third):** Premier League 2026-27 preview No 9: Everton  
+**When:** 2026-08-13 18:01 (America/Winnipeg)  •  **Published:** 2026-08-13 23:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League 2026-27 preview No 9: Everton. Modest but sensible-looking recruitment befits the club's new air of stability but a continuation of their spring slump could test David Moyes's appetite for the fight Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League 2026-27 preview No 9: Everton. https://www.theguardian.com/football/2026/aug/14/premier-league-2026-27-preview-no-9-everton
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Man City's Tijjani Reijnders set for APS52m Saudi move
+**Slug (lower-third):** Man City's Tijjani Reijnders set for APS52m Saudi move  
+**When:** 2026-08-13 17:12 (America/Winnipeg)  •  **Published:** 2026-08-13 22:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man City's Tijjani Reijnders set for APS52m Saudi move. Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a APS52m move was agreed with Saudi Pro-League side Al-Qadsiah. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Man City's Tijjani Reijnders set for APS52m Saudi move. https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Football gossip: Rodri, Spence, Pubill, Iroegbunam, Jesus
+**Slug (lower-third):** Football gossip: Rodri, Spence, Pubill, Iroegbunam, Jesus  
+**When:** 2026-08-13 17:03 (America/Winnipeg)  •  **Published:** 2026-08-13 22:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Rodri, Spence, Pubill, Iroegbunam, Jesus. Barcelona's latest Rodri bid rejected, Tottenham's Djed Spence on verge of Inter Milan move, Arsenal rebuffed in bid for Marc Pubill, plus more. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Football gossip: Rodri, Spence, Pubill, Iroegbunam, Jesus. https://www.bbc.co.uk/sport/football/articles/c2dk2618pxgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Explained: Why Leicester City has been put up for sale for PS224m
+**Slug (lower-third):** Explained: Why Leicester City has been put up for sale fo…  
+**When:** 2026-08-13 15:29 (America/Winnipeg)  •  **Published:** 2026-08-13 20:29 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Explained: Why Leicester City has been put up for sale for PS224m. Sky Sports Rob Dorsett explains why Thai owners King Power are seeking to sell Leicester City for more than PS200m. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Explained: Why Leicester City has been put up for sale for PS224m. https://www.skysports.com/watch/video/13572726/explained-why-leicester-city-has-been-put-up-for-sale-for-224m
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Championship spending hits record levels and likely to go higher as playoffs expand
+**Slug (lower-third):** Championship spending hits record levels and likely to go…  
+**When:** 2026-08-13 14:00 (America/Winnipeg)  •  **Published:** 2026-08-13 19:00 (UTC)  
+**Virality score:** 94  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Championship spending hits record levels and likely to go higher as playoffs expand. With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow - but so will the risks Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Championship spending hits record levels and likely to go higher as playoffs expand. https://www.theguardian.com/football/2026/aug/13/championship-spending-record-premier-league-playoffs
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Leicester City for sale: Thai owners King Power put club on market for more than PS200m
 **Slug (lower-third):** Leicester City for sale: Thai owners King Power put club …  
 **When:** 2026-08-13 13:27 (America/Winnipeg)  •  **Published:** 2026-08-13 18:27 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+**Virality score:** 94  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
 Leicester City for sale: Thai owners King Power put club on market for more than PS200m. Leicester Citys mens and womens teams, stadium, mens training facilities and sister club OH Leuven are all included in a sales brochure, with owners King Power putting a PS224m price on the assets; the Srivaddhanaprabha family bought Leicester for PS35m in 2010 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -192,34 +212,10 @@ Leicester City for sale: Thai owners King Power put club on market for more than
 
 ---
 
-## Story 8: Arsenal invite offers for Gabriel Martinelli and Ethan Nwaneri
-**Slug (lower-third):** Arsenal invite offers for Gabriel Martinelli and Ethan Nw…  
-**When:** 2026-08-13 12:49 (America/Winnipeg)  •  **Published:** 2026-08-13 17:49 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal invite offers for Gabriel Martinelli and Ethan Nwaneri. Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Arsenal invite offers for Gabriel Martinelli and Ethan Nwaneri. https://www.bbc.co.uk/sport/football/articles/cwy42yqwk30o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ## Story 9: Wesley Fofana is handling online hate for 'amazing' Chelsea future
 **Slug (lower-third):** Wesley Fofana is handling online hate for 'amazing' Chels…  
 **When:** 2026-08-13 11:02 (America/Winnipeg)  •  **Published:** 2026-08-13 16:02 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Wesley Fofana is handling online hate for 'amazing' Chelsea future. Wesley Fofana shed tears, faced criticism for laughing at the wrong moment and exposed racist abuse last season but believes stability will lead to "amazing" Chelsea future. Relevance to standings and momentum.
@@ -243,7 +239,7 @@ Wesley Fofana is handling online hate for 'amazing' Chelsea future. Wesley Fofan
 ## Story 10: Arsenal reignite interest in Aston Villa defender Ezri Konsa
 **Slug (lower-third):** Arsenal reignite interest in Aston Villa defender Ezri Ko…  
 **When:** 2026-08-13 10:47 (America/Winnipeg)  •  **Published:** 2026-08-13 15:47 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Arsenal reignite interest in Aston Villa defender Ezri Konsa. Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender. Relevance to standings and momentum.
