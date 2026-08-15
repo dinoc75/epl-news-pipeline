@@ -1,25 +1,49 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-15 07:39 (America/Winnipeg)  |  2026-08-15 12:39 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2026-08-15 13:30 (America/Winnipeg)  |  2026-08-15 18:30 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 01s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Ferran Torres: PSG sign World Cup final hero from Barcelona for PS42.7m
-- Anan Khalaili transfer news: Crystal Palace sign winger from Union Saint-Gilloise
-- Tottenham: Cristian Romero says 'I wasn't perfect' as Atletico Madrid move confirmed
+- Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki as Emiliano Martinez nears exit
+- Djed Spence: Inter Milan sign England full-back from Tottenham
+- Djed Spence transfer news: Tottenham defender completes PS30m Inter Milan move
 
 ---
 
 ### Managerial Moves
 
-## Story 1: 'Not going to be an issue': Mikel Arteta relaxed about Arsenal contract situation
+## Story 1: Scotland: Belgian Sebastien Pocognoli frontrunner to be new head coach
+**Slug (lower-third):** Scotland: Belgian Sebastien Pocognoli frontrunner to be n…  
+**When:** 2026-08-15 08:58 (America/Winnipeg)  •  **Published:** 2026-08-15 13:58 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Scotland: Belgian Sebastien Pocognoli frontrunner to be new head coach. Former Monaco head coach Sebastien Pocognoli is identified by the Scottish FA as their prime candidate to replace Steve Clarke. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Scotland: Belgian Sebastien Pocognoli frontrunner to be new head coach. https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: 'Not going to be an issue': Mikel Arteta relaxed about Arsenal contract situation
 **Slug (lower-third):** 'Not going to be an issue': Mikel Arteta relaxed about Ar…  
 **When:** 2026-08-14 16:30 (America/Winnipeg)  •  **Published:** 2026-08-14 21:30 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~21s
+**Virality score:** 74  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 'Not going to be an issue': Mikel Arteta relaxed about Arsenal contract situation. The Arsenal manager, whose current deal expires at the end of the new season, said of his future: 'They don't have to worry about that, I want to be here' Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -42,13 +66,13 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ### Transfers
 
-## Story 2: Ferran Torres: PSG sign World Cup final hero from Barcelona for PS42.7m
-**Slug (lower-third):** Ferran Torres: PSG sign World Cup final hero from Barcelo…  
-**When:** 2026-08-15 05:32 (America/Winnipeg)  •  **Published:** 2026-08-15 10:32 (UTC)  
+## Story 3: Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki as Emiliano Martinez nears exit
+**Slug (lower-third):** Transfer roundup: Aston Villa close on Japan keeper Zion …  
+**When:** 2026-08-15 12:53 (America/Winnipeg)  •  **Published:** 2026-08-15 17:53 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ferran Torres: PSG sign World Cup final hero from Barcelona for PS42.7m. Ferran Torres joins Champions League winners for PS42.7m; Striker scored Spains winner in the 2026 World Cup vs Argentina; The transfer potentially frees up some funds for Barcelonas pursuit of Manchester City midfielder Rodri Implications for the squad and table.
+Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki as Emiliano Martinez nears exit. Aston Villa are preparing for the potential exit of goalkeeper Emiliano Martinez by accelerating a move for Parma's Zion Suzuki Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +81,7 @@ Ferran Torres: PSG sign World Cup final hero from Barcelona for PS42.7m. Ferran 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ferran Torres: PSG sign World Cup final hero from Barcelona for PS42.7m. https://www.skysports.com/football/news/12040/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m
+- theguardian.com — Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki as Emiliano Martinez nears exit. https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,10 +90,82 @@ Ferran Torres: PSG sign World Cup final hero from Barcelona for PS42.7m. Ferran 
 
 ---
 
-## Story 3: Anan Khalaili transfer news: Crystal Palace sign winger from Union Saint-Gilloise
+## Story 4: Djed Spence: Inter Milan sign England full-back from Tottenham
+**Slug (lower-third):** Djed Spence: Inter Milan sign England full-back from Tott…  
+**When:** 2026-08-15 12:15 (America/Winnipeg)  •  **Published:** 2026-08-15 17:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Djed Spence: Inter Milan sign England full-back from Tottenham. England full-back Djed Spence signs a five-year deal at Inter Milan as he makes a move to Italy from Tottenham. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Djed Spence: Inter Milan sign England full-back from Tottenham. https://www.bbc.co.uk/sport/football/articles/cz64vg6znz1o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Djed Spence transfer news: Tottenham defender completes PS30m Inter Milan move
+**Slug (lower-third):** Djed Spence transfer news: Tottenham defender completes P…  
+**When:** 2026-08-15 12:00 (America/Winnipeg)  •  **Published:** 2026-08-15 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Djed Spence transfer news: Tottenham defender completes PS30m Inter Milan move. Tottenham defender Djed Spence has completed a PS30m move to Inter Milan; Spurs have included a 10 per cent sell-on clause; Spence was a star for England at the World Cup but faced competition for his place at Spurs on both sides, while Inter are looking for a right wing-back Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Djed Spence transfer news: Tottenham defender completes PS30m Inter Milan move. https://www.skysports.com/football/news/12040/13573504/djed-spence-transfer-news-tottenham-defender-completes-30m-inter-milan-move
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Newcastle United transfer news: Advanced talks in move for Benfica defender Amar Dedic
+**Slug (lower-third):** Newcastle United transfer news: Advanced talks in move fo…  
+**When:** 2026-08-15 08:54 (America/Winnipeg)  •  **Published:** 2026-08-15 13:54 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Newcastle United transfer news: Advanced talks in move for Benfica defender Amar Dedic. Newcastle United are in advanced talks as they aim to bring in defender Amar Dedic from Benfica. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Newcastle United transfer news: Advanced talks in move for Benfica defender Amar Dedic. https://www.bbc.co.uk/sport/football/articles/c70gg3dp61lo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Anan Khalaili transfer news: Crystal Palace sign winger from Union Saint-Gilloise
 **Slug (lower-third):** Anan Khalaili transfer news: Crystal Palace sign winger f…  
 **When:** 2026-08-15 04:03 (America/Winnipeg)  •  **Published:** 2026-08-15 09:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Anan Khalaili transfer news: Crystal Palace sign winger from Union Saint-Gilloise. Crystal Palace sign Israel international Ana Khalaili on a deal which runs until 2031. Implications for the squad and table.
@@ -90,41 +186,15 @@ Anan Khalaili transfer news: Crystal Palace sign winger from Union Saint-Gillois
 
 ---
 
-### Injuries
-
-## Story 4: Raul Jimenez's injury-time penalty salvages point for Wolves against Blackburn
-**Slug (lower-third):** Raul Jimenez's injury-time penalty salvages point for Wol…  
-**When:** 2026-08-14 16:21 (America/Winnipeg)  •  **Published:** 2026-08-14 21:21 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Raul Jimenez's injury-time penalty salvages point for Wolves against Blackburn. Wolves drew 2-2 against Blackburn in the Championship season opener after Raul Jimenez scored a spot-kick deep in stoppage time Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Raul Jimenez's injury-time penalty salvages point for Wolves against Blackburn. https://www.theguardian.com/football/2026/aug/14/wolves-blackburn-championship-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 5: Tottenham: Cristian Romero says 'I wasn't perfect' as Atletico Madrid move confirmed
-**Slug (lower-third):** Tottenham: Cristian Romero says 'I wasn't perfect' as Atl…  
-**When:** 2026-08-15 02:44 (America/Winnipeg)  •  **Published:** 2026-08-15 07:44 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 8: Premier League pre-season friendlies 2026/27: Fixtures, results, UK kick-off times, summer tour schedule and training camps
+**Slug (lower-third):** Premier League pre-season friendlies 2026/27: Fixtures, r…  
+**When:** 2026-08-15 12:00 (America/Winnipeg)  •  **Published:** 2026-08-15 17:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Tottenham: Cristian Romero says 'I wasn't perfect' as Atletico Madrid move confirmed. Cristian Romero says he "wasn't perfect" during his five years with Tottenham Hotspur as his move to Atletico Madrid is confirmed. Relevance to standings and momentum.
+Premier League pre-season friendlies 2026/27: Fixtures, results, UK kick-off times, summer tour schedule and training camps. Premier League clubs are coming to the end of their pre-season preparations; the 2026/27 Premier League season starts on August 21; watch at least 215 live Premier League games on Sky Sports in 2026/27 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -133,7 +203,7 @@ Tottenham: Cristian Romero says 'I wasn't perfect' as Atletico Madrid move confi
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Tottenham: Cristian Romero says 'I wasn't perfect' as Atletico Madrid move confirmed. https://www.bbc.co.uk/sport/football/articles/c20dyz4vrero?at_medium=RSS&at_campaign=rss
+- skysports.com — Premier League pre-season friendlies 2026/27: Fixtures, results, UK kick-off times, summer tour schedule and training camps. https://www.skysports.com/football/news/12040/13546612/premier-league-pre-season-friendlies-2026-27-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -142,13 +212,13 @@ Tottenham: Cristian Romero says 'I wasn't perfect' as Atletico Madrid move confi
 
 ---
 
-## Story 6: Premier League: Why clubs are targeting EFL academy players
-**Slug (lower-third):** Premier League: Why clubs are targeting EFL academy playe…  
-**When:** 2026-08-15 02:16 (America/Winnipeg)  •  **Published:** 2026-08-15 07:16 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 9: Chelsea: Enzo Fernandez booed and Morgan Rogers scores as Xabi Alonso reveals blueprint
+**Slug (lower-third):** Chelsea: Enzo Fernandez booed and Morgan Rogers scores as…  
+**When:** 2026-08-15 11:22 (America/Winnipeg)  •  **Published:** 2026-08-15 16:22 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Why clubs are targeting EFL academy players. Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads. Relevance to standings and momentum.
+Chelsea: Enzo Fernandez booed and Morgan Rogers scores as Xabi Alonso reveals blueprint. Enzo Fernandez is booed by sections of the Chelsea support, Morgan Rogers scores on his first appearance and Xabi Alonso offers a glimpse of what could be his blueprint for the season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,7 +227,7 @@ Premier League: Why clubs are targeting EFL academy players. Premier League club
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League: Why clubs are targeting EFL academy players. https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Chelsea: Enzo Fernandez booed and Morgan Rogers scores as Xabi Alonso reveals blueprint. https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -166,13 +236,13 @@ Premier League: Why clubs are targeting EFL academy players. Premier League club
 
 ---
 
-## Story 7: BBC Sport quiz: Who am I? Guess Premier League footballer No 26
-**Slug (lower-third):** BBC Sport quiz: Who am I? Guess Premier League footballer…  
-**When:** 2026-08-15 01:44 (America/Winnipeg)  •  **Published:** 2026-08-15 06:44 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 10: Bournemouth vow to 'do better' after 'disgusting' email about staff changes
+**Slug (lower-third):** Bournemouth vow to 'do better' after 'disgusting' email a…  
+**When:** 2026-08-15 09:02 (America/Winnipeg)  •  **Published:** 2026-08-15 14:02 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-BBC Sport quiz: Who am I? Guess Premier League footballer No 26. Work out the identity of today's player in as few attempts as possible. Relevance to standings and momentum.
+Bournemouth vow to 'do better' after 'disgusting' email about staff changes. Bournemouth vow to "do better" after changes to matchday staffing were handled in a manner which "did not reflect the standards we expect". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -181,58 +251,10 @@ BBC Sport quiz: Who am I? Guess Premier League footballer No 26. Work out the id
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — BBC Sport quiz: Who am I? Guess Premier League footballer No 26. https://www.bbc.co.uk/sport/football/articles/czrjyxn7mn4o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Bournemouth vow to 'do better' after 'disgusting' email about staff changes. https://www.bbc.co.uk/sport/football/articles/cy8ee0gzqx2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Football gossip: Hinshelwood, Rodri, Osimhen, Gakpo, Munoz, Delap, Baleba
-**Slug (lower-third):** Football gossip: Hinshelwood, Rodri, Osimhen, Gakpo, Muno…  
-**When:** 2026-08-14 16:14 (America/Winnipeg)  •  **Published:** 2026-08-14 21:14 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Hinshelwood, Rodri, Osimhen, Gakpo, Munoz, Delap, Baleba. Arsenal lead race for Jack Hinshelwood, Barcelona set to make third Rodri bid, Manchester United and Tottenham join Arsenal in discussing Victor Osimhen, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football gossip: Hinshelwood, Rodri, Osimhen, Gakpo, Munoz, Delap, Baleba. https://www.bbc.co.uk/sport/football/articles/c80n2g2x0g7o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Liverpool owner FSG seals PS1.65bn sale of 30% stake to consortium including Jeff Bezos
-**Slug (lower-third):** Liverpool owner FSG seals PS1.65bn sale of 30% stake to c…  
-**When:** 2026-08-14 11:00 (America/Winnipeg)  •  **Published:** 2026-08-14 16:00 (UTC)  
-**Virality score:** 74  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool owner FSG seals PS1.65bn sale of 30% stake to consortium including Jeff Bezos. Liverpool's owner has confirmed the sale of 30% of the club to a consortium including Amit Bhatia, Amazon founder Jeff Bezos and Facebook co-founder Eduardo Saverin Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Liverpool owner FSG seals PS1.65bn sale of 30% stake to consortium including Jeff Bezos. https://www.theguardian.com/football/2026/aug/14/liverpool-fc-ownership-stake-sale-jeff-bezos-consortium
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
