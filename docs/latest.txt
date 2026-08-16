@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-16 07:40 (America/Winnipeg)  |  2026-08-16 12:40 (UTC)
+**Generated:** 2026-08-16 13:30 (America/Winnipeg)  |  2026-08-16 18:30 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 35s
+**Estimated total video length:** ~4m 32s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Taiwo Awoniyi transfer news: Coventry City close in on signing striker Nottingham Forest
-- Aston Villa transfer news: Zion Suzuki lined up as Juventus-linked Emiliano Martinez replacement after PS29.9m deal agreed with Parma
-- Marcus Rashford: Harry Maguire believes Man Utd team-mate can improve side
+- Sebastien Pocognoli: Scotland appoint former Monaco head coach to replace Steve Clarke on two-year contract
+- Burnley 2-2 West Ham: Hammers throw away two-goal lead on Championship return as Zian Flemming hits late double
+- Burnley 2-2 West Ham United | Championship highlights
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Premier League fans' previews: our club-by-club guide to 2026-27
-**Slug (lower-third):** Premier League fans' previews: our club-by-club guide to …  
-**When:** 2026-08-16 02:00 (America/Winnipeg)  •  **Published:** 2026-08-16 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 1: Sebastien Pocognoli: Scotland appoint former Monaco head coach to replace Steve Clarke on two-year contract
+**Slug (lower-third):** Sebastien Pocognoli: Scotland appoint former Monaco head …  
+**When:** 2026-08-16 13:33 (America/Winnipeg)  •  **Published:** 2026-08-16 18:33 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Premier League fans' previews: our club-by-club guide to 2026-27. The Guardian's fans' network looks ahead to the new season: fresh talent, weak links, and who will be sacked first Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sebastien Pocognoli: Scotland appoint former Monaco head coach to replace Steve Clarke on two-year contract. Sebastien Pocognoli won the Belgian league with Union Saint-Gilloise last year; Pocognoli was a free agent after leaving Monaco in June; Steve Clarke left the Scotland job after their World Cup group-stage elimination; Pocognoli has signed a two-year deal Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Premier League fans' previews: our club-by-club guide to 2026-27. The Guardian's
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League fans' previews: our club-by-club guide to 2026-27. https://www.theguardian.com/football/2026/aug/16/premier-league-fans-previews-our-club-by-club-guide-to-2026-27
+- skysports.com — Sebastien Pocognoli: Scotland appoint former Monaco head coach to replace Steve Clarke on two-year contract. https://www.skysports.com/football/news/12040/13573798/sebastien-pocognoli-scotland-appoint-former-monaco-head-coach-to-replace-steve-clarke-on-two-year-contract
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -45,7 +45,7 @@ Premier League fans' previews: our club-by-club guide to 2026-27. The Guardian's
 ## Story 2: Taiwo Awoniyi transfer news: Coventry City close in on signing striker Nottingham Forest
 **Slug (lower-third):** Taiwo Awoniyi transfer news: Coventry City close in on si…  
 **When:** 2026-08-16 07:03 (America/Winnipeg)  •  **Published:** 2026-08-16 12:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Taiwo Awoniyi transfer news: Coventry City close in on signing striker Nottingham Forest. Coventry City agree a deal worth about APS17m for Nottingham Forest striker Taiwo Awoniyi. Implications for the squad and table.
@@ -66,61 +66,15 @@ Taiwo Awoniyi transfer news: Coventry City close in on signing striker Nottingha
 
 ---
 
-## Story 3: Aston Villa transfer news: Zion Suzuki lined up as Juventus-linked Emiliano Martinez replacement after PS29.9m deal agreed with Parma
-**Slug (lower-third):** Aston Villa transfer news: Zion Suzuki lined up as Juvent…  
-**When:** 2026-08-16 07:02 (America/Winnipeg)  •  **Published:** 2026-08-16 12:02 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~24s
+### Injuries
 
-### Presenter Script (3–5 sentences)
-Aston Villa transfer news: Zion Suzuki lined up as Juventus-linked Emiliano Martinez replacement after PS29.9m deal agreed with Parma. Aston Villas agreement with Parma comes after the Midlands club received a bid for current No 1 Emiliano Martinez; Juventus negotiations with Villa for Martinez are ongoing; Suzuki had been linked with a move to Paris Saint-Germain before the proposed deal collapsed Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Aston Villa transfer news: Zion Suzuki lined up as Juventus-linked Emiliano Martinez replacement after PS29.9m deal agreed with Parma. https://www.skysports.com/football/news/12040/13573666/aston-villa-transfer-news-zion-suzuki-lined-up-as-juventus-linked-emiliano-martinez-replacement-after-29-9m-deal-agreed-with-parma
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica
-**Slug (lower-third):** Newcastle transfer news: Club agree deal to sign defender…  
-**When:** 2026-08-16 04:48 (America/Winnipeg)  •  **Published:** 2026-08-16 09:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica. Sky Sports News understands Newcastle and Benfica have agreed a PS29.5m deal for Dedic, with confidence he will join in time for next Sunday's Premier League opener against Liverpool, live on Sky Sports; the club are also in talks with Bayern Munich over Joao Palhinha Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica. https://www.skysports.com/football/news/12040/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki; Djed Spence seals Inter move
-**Slug (lower-third):** Transfer roundup: Aston Villa close on Japan keeper Zion …  
-**When:** 2026-08-16 04:47 (America/Winnipeg)  •  **Published:** 2026-08-16 09:47 (UTC)  
+## Story 3: Burnley 2-2 West Ham: Hammers throw away two-goal lead on Championship return as Zian Flemming hits late double
+**Slug (lower-third):** Burnley 2-2 West Ham: Hammers throw away two-goal lead on…  
+**When:** 2026-08-16 13:28 (America/Winnipeg)  •  **Published:** 2026-08-16 18:28 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki; Djed Spence seals Inter move. Aston Villa are preparing for the potential exit of goalkeeper Emiliano Martinez by accelerating a move for Parma's Zion Suzuki Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Burnley 2-2 West Ham: Hammers throw away two-goal lead on Championship return as Zian Flemming hits late double. Zian Flemming struck twice late on as Burnley came back to deny West Ham in a 2-2 Championship draw between the freshly relegated sides at Turf Moor. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +83,7 @@ Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki; Djed Spence sea
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki; Djed Spence seals Inter move. https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window
+- skysports.com — Burnley 2-2 West Ham: Hammers throw away two-goal lead on Championship return as Zian Flemming hits late double. https://www.skysports.com/football/burnley-vs-west-ham-united/report/560507
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +94,13 @@ Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki; Djed Spence sea
 
 ### Club Updates
 
-## Story 6: Marcus Rashford: Harry Maguire believes Man Utd team-mate can improve side
-**Slug (lower-third):** Marcus Rashford: Harry Maguire believes Man Utd team-mate…  
-**When:** 2026-08-16 06:00 (America/Winnipeg)  •  **Published:** 2026-08-16 11:00 (UTC)  
+## Story 4: Burnley 2-2 West Ham United | Championship highlights
+**Slug (lower-third):** Burnley 2-2 West Ham United | Championship highlights  
+**When:** 2026-08-16 13:16 (America/Winnipeg)  •  **Published:** 2026-08-16 18:16 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Marcus Rashford: Harry Maguire believes Man Utd team-mate can improve side. Manchester United defender Harry Maguire says he hopes Marcus Rashford will stay at the club because he can improve Michael Carrick's team. Relevance to standings and momentum.
+Burnley 2-2 West Ham United | Championship highlights. Highlights of the Sky Bet Championship match between Burnley and West Ham United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +109,7 @@ Marcus Rashford: Harry Maguire believes Man Utd team-mate can improve side. Manc
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Marcus Rashford: Harry Maguire believes Man Utd team-mate can improve side. https://www.bbc.co.uk/sport/football/articles/c4g442me1k8o?at_medium=RSS&at_campaign=rss
+- skysports.com — Burnley 2-2 West Ham United | Championship highlights. https://www.skysports.com/watch/video/13573796/burnley-2-2-west-ham-united-championship-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +118,13 @@ Marcus Rashford: Harry Maguire believes Man Utd team-mate can improve side. Manc
 
 ---
 
-## Story 7: Wrexham's Premier League bid: How ready are the Hollywood-owned club from Wales for a Championship promotion race?
-**Slug (lower-third):** Wrexham's Premier League bid: How ready are the Hollywood…  
-**When:** 2026-08-16 05:00 (America/Winnipeg)  •  **Published:** 2026-08-16 10:00 (UTC)  
+## Story 5: Ben Stokes' Durham lose One-Day Cup semi-final to Middlesex who book final meeting with Leicestershire
+**Slug (lower-third):** Ben Stokes' Durham lose One-Day Cup semi-final to Middles…  
+**When:** 2026-08-16 11:58 (America/Winnipeg)  •  **Published:** 2026-08-16 16:58 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Wrexham's Premier League bid: How ready are the Hollywood-owned club from Wales for a Championship promotion race?. Wrexham missed out on the Championship play-off places by two points last season; are they better placed to make the leap this time? Sky Sports assesses their chances! Watch Cardiff City vs Wrexham on Monday, live on Sky Sports Football; kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ben Stokes' Durham lose One-Day Cup semi-final to Middlesex who book final meeting with Leicestershire. Middlesex recover from 145-7, chasing 255, to beat Durham by two wickets after an unbeaten 83 from Luke Hollman; they will play Leicestershire in One-Day Cup final at Trent Bridge on September 20 after they beat Notts Outlaws by 13 runs in Sundays other semi-final Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +133,7 @@ Wrexham's Premier League bid: How ready are the Hollywood-owned club from Wales 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Wrexham's Premier League bid: How ready are the Hollywood-owned club from Wales for a Championship promotion race?. https://www.skysports.com/football/news/12040/13572631/wrexhams-premier-league-bid-how-ready-are-the-hollywood-owned-club-from-wales-for-a-championship-promotion-race
+- skysports.com — Ben Stokes' Durham lose One-Day Cup semi-final to Middlesex who book final meeting with Leicestershire. https://www.skysports.com/cricket/news/12040/13573761/ben-stokes-durham-lose-one-day-cup-semi-final-to-middlesex-who-book-final-meeting-with-leicestershire
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +142,13 @@ Wrexham's Premier League bid: How ready are the Hollywood-owned club from Wales 
 
 ---
 
-## Story 8: Leicester learn harsh reality of life in League One but youngsters provide silver lining
-**Slug (lower-third):** Leicester learn harsh reality of life in League One but y…  
-**When:** 2026-08-16 02:00 (America/Winnipeg)  •  **Published:** 2026-08-16 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 6: Arsenal 3-0 Man City: How the players rated after Gunners comfortably win Community Shield
+**Slug (lower-third):** Arsenal 3-0 Man City: How the players rated after Gunners…  
+**When:** 2026-08-16 11:18 (America/Winnipeg)  •  **Published:** 2026-08-16 16:18 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leicester learn harsh reality of life in League One but youngsters provide silver lining. Uncertainty about Leicester's future was matched by some on the pitch in 1-1 draw with Notts County Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Arsenal 3-0 Man City: How the players rated after Gunners comfortably win Community Shield. How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +157,7 @@ Leicester learn harsh reality of life in League One but youngsters provide silve
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Leicester learn harsh reality of life in League One but youngsters provide silver lining. https://www.theguardian.com/football/2026/aug/16/leicester-learn-harsh-reality-of-life-league-one-but-youngsters-provide-silver-lining
+- bbc.co.uk — Arsenal 3-0 Man City: How the players rated after Gunners comfortably win Community Shield. https://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +166,13 @@ Leicester learn harsh reality of life in League One but youngsters provide silve
 
 ---
 
-## Story 9: Arsenal v Man City: Community Shield 2026 - does winning trophy lead to good season?
-**Slug (lower-third):** Arsenal v Man City: Community Shield 2026 - does winning …  
-**When:** 2026-08-16 00:29 (America/Winnipeg)  •  **Published:** 2026-08-16 05:29 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 7: Calafiori's fast start inspires Arsenal to big Community Shield win over Manchester City
+**Slug (lower-third):** Calafiori's fast start inspires Arsenal to big Community …  
+**When:** 2026-08-16 11:06 (America/Winnipeg)  •  **Published:** 2026-08-16 16:06 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal v Man City: Community Shield 2026 - does winning trophy lead to good season?. Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Calafiori's fast start inspires Arsenal to big Community Shield win over Manchester City. Kai Havertz and Martin Odegaard were also on target in Arsenal's emphatic 3-0 win against Manchester City in the Community Shield in Cardiff Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +181,7 @@ Arsenal v Man City: Community Shield 2026 - does winning trophy lead to good sea
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Arsenal v Man City: Community Shield 2026 - does winning trophy lead to good season?. https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Calafiori's fast start inspires Arsenal to big Community Shield win over Manchester City. https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +190,13 @@ Arsenal v Man City: Community Shield 2026 - does winning trophy lead to good sea
 
 ---
 
-## Story 10: Premier League - how tough will it be for Arsenal to defend their title?
-**Slug (lower-third):** Premier League - how tough will it be for Arsenal to defe…  
-**When:** 2026-08-16 00:20 (America/Winnipeg)  •  **Published:** 2026-08-16 05:20 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~21s
+## Story 8: Watford 2-1 Southampton: Saints baited over Spygate scandal in opening-weekend loss
+**Slug (lower-third):** Watford 2-1 Southampton: Saints baited over Spygate scand…  
+**When:** 2026-08-16 10:30 (America/Winnipeg)  •  **Published:** 2026-08-16 15:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League - how tough will it be for Arsenal to defend their title?. Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped are they for the challenge? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Watford 2-1 Southampton: Saints baited over Spygate scandal in opening-weekend loss. Southampton discovered that the Championship will be an unforgiving arena this season as they were baited about Spygate on their way to being beaten 2-1 by a new-look Watford side at Vicarage Road. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +205,55 @@ Premier League - how tough will it be for Arsenal to defend their title?. Arsena
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League - how tough will it be for Arsenal to defend their title?. https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o?at_medium=RSS&at_campaign=rss
+- skysports.com — Watford 2-1 Southampton: Saints baited over Spygate scandal in opening-weekend loss. https://www.skysports.com/football/watford-vs-southampton/report/560508
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Nabizada stunner edges Watford past Southampton as 'Spygate' still looms large
+**Slug (lower-third):** Nabizada stunner edges Watford past Southampton as 'Spyga…  
+**When:** 2026-08-16 09:44 (America/Winnipeg)  •  **Published:** 2026-08-16 14:44 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Nabizada stunner edges Watford past Southampton as 'Spygate' still looms large. Amin Nabizada and Iker Bravo's early goals helped Watford to a perfect start to the season as they beat Southampton 2-1 at Vicarage Road Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Nabizada stunner edges Watford past Southampton as 'Spygate' still looms large. https://www.theguardian.com/football/2026/aug/16/watford-southampton-championship-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Aston Villa close in on Zion Suzuki signing with Emi Martinez's future in doubt
+**Slug (lower-third):** Aston Villa close in on Zion Suzuki signing with Emi Mart…  
+**When:** 2026-08-16 08:38 (America/Winnipeg)  •  **Published:** 2026-08-16 13:38 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Aston Villa close in on Zion Suzuki signing with Emi Martinez's future in doubt. Aston Villa close in on the signing of Parma goalkeeper Zion Suzuki, with Emi Martinez's future in increasing doubt. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Aston Villa close in on Zion Suzuki signing with Emi Martinez's future in doubt. https://www.bbc.co.uk/sport/football/articles/ckg44n858qvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
