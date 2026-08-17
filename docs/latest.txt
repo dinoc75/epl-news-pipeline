@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-17 01:57 (America/Winnipeg)  |  2026-08-17 06:57 (UTC)
+**Generated:** 2026-08-17 07:45 (America/Winnipeg)  |  2026-08-17 12:45 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 24s
+**Estimated total video length:** ~4m 03s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League data analysis: Will last season's competitive revolution continue?
-- Premier League: Remembering the audacious attempt to turn Wimbledon into the Dublin Dons
-- Today on Sky Sports Racing: Lingfield, Windsor and Wolverhampton host live action
+- Man City's Community Shield defeat to Arsenal revealed the scale of the job facing Enzo Maresca on eve of new Premier League season
+- Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal
+- Premier League 2026-27 preview No 12: Ipswich
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Chelsea transfer news: Liam Delap and Pedro Neto move closer to exit door - Paper Talk
-**Slug (lower-third):** Chelsea transfer news: Liam Delap and Pedro Neto move clo…  
-**When:** 2026-08-16 17:30 (America/Winnipeg)  •  **Published:** 2026-08-16 22:30 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~23s
+## Story 1: Premier League 2026-27 preview No 12: Ipswich
+**Slug (lower-third):** Premier League 2026-27 preview No 12: Ipswich  
+**When:** 2026-08-17 06:00 (America/Winnipeg)  •  **Published:** 2026-08-17 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea transfer news: Liam Delap and Pedro Neto move closer to exit door - Paper Talk. Latest transfer news and headlines as Chrstian Kofanes agent Eric Depolo says Arsenal are monitoring the Bayer Leverkusen forward; Manchester United are stepping up their efforts to cash in on their academy Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Premier League 2026-27 preview No 12: Ipswich. They have a new manager and a higher net spend than Manchester City, but will that be enough for Ipswich to avoid another yo-yoing relegation? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Chelsea transfer news: Liam Delap and Pedro Neto move closer to exit door - Pape
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea transfer news: Liam Delap and Pedro Neto move closer to exit door - Paper Talk. https://www.skysports.com/football/news/12040/13573816/chelsea-transfer-news-liam-delap-and-pedro-neto-move-closer-to-exit-door-paper-talk
+- theguardian.com — Premier League 2026-27 preview No 12: Ipswich. https://www.theguardian.com/football/2026/aug/17/premier-league-2026-27-preview-no-12-ipswich
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,15 @@ Chelsea transfer news: Liam Delap and Pedro Neto move closer to exit door - Pape
 
 ---
 
-## Story 2: Rodri transfer news: Spain captain agrees deal to join Barcelona from Man City
-**Slug (lower-third):** Rodri transfer news: Spain captain agrees deal to join Ba…  
-**When:** 2026-08-16 14:37 (America/Winnipeg)  •  **Published:** 2026-08-16 19:37 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+### Transfers
+
+## Story 2: Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal
+**Slug (lower-third):** Tottenham goalkeeper Guglielmo Vicario to leave for Juven…  
+**When:** 2026-08-17 06:42 (America/Winnipeg)  •  **Published:** 2026-08-17 11:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Rodri transfer news: Spain captain agrees deal to join Barcelona from Man City. Barcelona agree a deal to sign Spain captain Rodri from Manchester City. Implications for the squad and table.
+Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal. Juventus have agreed a deal with Tottenham for Guglielmo Vicario to join on an initial loan after the Italian side decided against a move for Aston Villa's Emiliano Martinez Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +57,55 @@ Rodri transfer news: Spain captain agrees deal to join Barcelona from Man City. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Rodri transfer news: Spain captain agrees deal to join Barcelona from Man City. https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal. https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Enzo Fernandez transfer news: Man City remain interested in Chelsea midfielder despite missing deadline to make bid
+**Slug (lower-third):** Enzo Fernandez transfer news: Man City remain interested …  
+**When:** 2026-08-17 05:30 (America/Winnipeg)  •  **Published:** 2026-08-17 10:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
+
+### Presenter Script (3–5 sentences)
+Enzo Fernandez transfer news: Man City remain interested in Chelsea midfielder despite missing deadline to make bid. Man City are still interested in Chelsea midfielder Enzo Fernandez despite missing the deadline to make a bid; Chelsea set cut-off for last Friday at 5pm but City did not launch a bid; Blues value the player at PS120m, who came on and was booed by fans against Real Sociedad on Saturday Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Enzo Fernandez transfer news: Man City remain interested in Chelsea midfielder despite missing deadline to make bid. https://www.skysports.com/football/news/12040/13573958/enzo-fernandez-transfer-news-man-city-remain-interested-in-chelsea-midfielder-despite-missing-deadline-to-make-bid
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Ayyoub Bouaddi transfer news: Manchester City in advanced talks for midfielder
+**Slug (lower-third):** Ayyoub Bouaddi transfer news: Manchester City in advanced…  
+**When:** 2026-08-17 04:23 (America/Winnipeg)  •  **Published:** 2026-08-17 09:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ayyoub Bouaddi transfer news: Manchester City in advanced talks for midfielder. Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Ayyoub Bouaddi transfer news: Manchester City in advanced talks for midfielder. https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +116,13 @@ Rodri transfer news: Spain captain agrees deal to join Barcelona from Man City. 
 
 ### Injuries
 
-## Story 3: Jack Grealish: Shop window or new chance - what next for Man City winger?
-**Slug (lower-third):** Jack Grealish: Shop window or new chance - what next for …  
-**When:** 2026-08-16 13:30 (America/Winnipeg)  •  **Published:** 2026-08-16 18:30 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 5: Sam Burgess ready for Warrington Wolves' huge Hull KR test on Tuesday night as Robins face Mikey Lewis conundrum
+**Slug (lower-third):** Sam Burgess ready for Warrington Wolves' huge Hull KR tes…  
+**When:** 2026-08-17 05:21 (America/Winnipeg)  •  **Published:** 2026-08-17 10:21 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Jack Grealish: Shop window or new chance - what next for Man City winger?. Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sam Burgess ready for Warrington Wolves' huge Hull KR test on Tuesday night as Robins face Mikey Lewis conundrum. Warrington Wolves and Hull KR will play on Tuesday night in a hotly anticipated clash; Mikey Lewis could return from his four-match suspension if picked for the Robins; Hull KR face Warrington Wolves on Tuesday August 18, live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,31 +131,7 @@ Jack Grealish: Shop window or new chance - what next for Man City winger?. Jack 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Jack Grealish: Shop window or new chance - what next for Man City winger?. https://www.bbc.co.uk/sport/football/articles/c07rr20g732o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Burnley 2-2 West Ham: Hammers throw away two-goal lead on Championship return as Zian Flemming hits late double
-**Slug (lower-third):** Burnley 2-2 West Ham: Hammers throw away two-goal lead on…  
-**When:** 2026-08-16 13:28 (America/Winnipeg)  •  **Published:** 2026-08-16 18:28 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Burnley 2-2 West Ham: Hammers throw away two-goal lead on Championship return as Zian Flemming hits late double. Zian Flemming struck twice late on as Burnley came back to deny West Ham in a 2-2 Championship draw between the freshly relegated sides at Turf Moor. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Burnley 2-2 West Ham: Hammers throw away two-goal lead on Championship return as Zian Flemming hits late double. https://www.skysports.com/football/burnley-vs-west-ham-united/report/560507
+- skysports.com — Sam Burgess ready for Warrington Wolves' huge Hull KR test on Tuesday night as Robins face Mikey Lewis conundrum. https://www.skysports.com/rugby-league/news/12040/13573957/sam-burgess-ready-for-warrington-wolves-huge-hull-kr-test-on-tuesday-night-as-robins-face-mikey-lewis-conundrum
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +142,37 @@ Burnley 2-2 West Ham: Hammers throw away two-goal lead on Championship return as
 
 ### Club Updates
 
-## Story 5: Premier League data analysis: Will last season's competitive revolution continue?
-**Slug (lower-third):** Premier League data analysis: Will last season's competit…  
-**When:** 2026-08-17 01:41 (America/Winnipeg)  •  **Published:** 2026-08-17 06:41 (UTC)  
+## Story 6: Man City's Community Shield defeat to Arsenal revealed the scale of the job facing Enzo Maresca on eve of new Premier League season
+**Slug (lower-third):** Man City's Community Shield defeat to Arsenal revealed th…  
+**When:** 2026-08-17 07:50 (America/Winnipeg)  •  **Published:** 2026-08-17 12:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
+
+### Presenter Script (3–5 sentences)
+Man City's Community Shield defeat to Arsenal revealed the scale of the job facing Enzo Maresca on eve of new Premier League season. Enzo Marescas Man City were exposed in a brutal defeat to Arsenal in the Community Shield; the spine of his side all faced issues, particularly noticeable in midfield; Man City play their first Premier League game against Bournemouth on Sunday, live on Sky Sports Main Event; kick-off 2pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man City's Community Shield defeat to Arsenal revealed the scale of the job facing Enzo Maresca on eve of new Premier League season. https://www.skysports.com/football/news/12040/13573985/man-citys-community-shield-defeat-to-arsenal-revealed-the-scale-of-the-job-facing-enzo-maresca-on-eve-of-new-premier-league-season
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Martin Odegaard happy with Arsenal's new duo and says team hungry for title defence
+**Slug (lower-third):** Martin Odegaard happy with Arsenal's new duo and says tea…  
+**When:** 2026-08-17 06:00 (America/Winnipeg)  •  **Published:** 2026-08-17 11:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League data analysis: Will last season's competitive revolution continue?. Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around. Relevance to standings and momentum.
+Martin Odegaard happy with Arsenal's new duo and says team hungry for title defence. Martin Odegaard has praised the instant impact made by new signings Bruno Guimaraes and Christos Tzolis in Arsenal's Community Shield victory over Manchester City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +181,7 @@ Premier League data analysis: Will last season's competitive revolution continue
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League data analysis: Will last season's competitive revolution continue?. https://www.bbc.co.uk/sport/football/articles/c4gddjpjm49o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Martin Odegaard happy with Arsenal's new duo and says team hungry for title defence. https://www.theguardian.com/football/2026/aug/17/martin-odegaard-arsenal-new-signings-premier-league-title-defence
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +190,13 @@ Premier League data analysis: Will last season's competitive revolution continue
 
 ---
 
-## Story 6: Premier League: Remembering the audacious attempt to turn Wimbledon into the Dublin Dons
-**Slug (lower-third):** Premier League: Remembering the audacious attempt to turn…  
-**When:** 2026-08-17 01:19 (America/Winnipeg)  •  **Published:** 2026-08-17 06:19 (UTC)  
+## Story 8: Women's Super League: Leicester's Sam Tierney on not jumping ship
+**Slug (lower-third):** Women's Super League: Leicester's Sam Tierney on not jump…  
+**When:** 2026-08-17 05:44 (America/Winnipeg)  •  **Published:** 2026-08-17 10:44 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Remembering the audacious attempt to turn Wimbledon into the Dublin Dons. Just how close did an Irish consortium come to buying a Premier League team and moving them to Dublin? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Women's Super League: Leicester's Sam Tierney on not jumping ship. When Leicester City were relegated from the Women's Super League in May, it was the catalyst for a mass exodus from the club. But Sam Tierney stayed. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +205,7 @@ Premier League: Remembering the audacious attempt to turn Wimbledon into the Dub
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League: Remembering the audacious attempt to turn Wimbledon into the Dublin Dons. https://www.bbc.co.uk/sport/football/articles/c05q03v8nrno?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Women's Super League: Leicester's Sam Tierney on not jumping ship. https://www.bbc.co.uk/sport/football/articles/c0jl6wqg6d3o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +214,13 @@ Premier League: Remembering the audacious attempt to turn Wimbledon into the Dub
 
 ---
 
-## Story 7: Today on Sky Sports Racing: Lingfield, Windsor and Wolverhampton host live action
-**Slug (lower-third):** Today on Sky Sports Racing: Lingfield, Windsor and Wolver…  
-**When:** 2026-08-17 01:00 (America/Winnipeg)  •  **Published:** 2026-08-17 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+## Story 9: Chelsea's Morgan Rogers relishing prospect of playing with Cole Palmer as he targets Premier League and Champions League glory
+**Slug (lower-third):** Chelsea's Morgan Rogers relishing prospect of playing wit…  
+**When:** 2026-08-17 05:00 (America/Winnipeg)  •  **Published:** 2026-08-17 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Lingfield, Windsor and Wolverhampton host live action. Monday Night Racing comes from Windsor and Wolverhampton, with Mithaaly looking for a first career success in the second race at the Berkshire track; Watch every race - including an afternoon card from Lingfield - live on Sky Sports Racing. Relevance to standings and momentum.
+Chelsea's Morgan Rogers relishing prospect of playing with Cole Palmer as he targets Premier League and Champions League glory. Morgan Rogers unfazed by price tag and confident of forming effective partnership with Cole Palmer; watch full interview on Premier League Show from 5pm on Sky Sports News; Chelsea visit Fulham in the first Monday Night Football of the season on August 24, kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +229,7 @@ Today on Sky Sports Racing: Lingfield, Windsor and Wolverhampton host live actio
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Lingfield, Windsor and Wolverhampton host live action. https://www.skysports.com/racing/news/12040/13573655/today-on-sky-sports-racing-lingfield-windsor-and-wolverhampton-host-live-action
+- skysports.com — Chelsea's Morgan Rogers relishing prospect of playing with Cole Palmer as he targets Premier League and Champions League glory. https://www.skysports.com/football/news/12040/13572952/chelseas-morgan-rogers-relishing-prospect-of-playing-with-cole-palmer-as-he-targets-premier-league-and-champions-league-glory
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +238,13 @@ Today on Sky Sports Racing: Lingfield, Windsor and Wolverhampton host live actio
 
 ---
 
-## Story 8: Football gossip: Vicario, Martinez, Neto, Zubimendi, Delap, Mikautadze, Osimhen, Cherif
-**Slug (lower-third):** Football gossip: Vicario, Martinez, Neto, Zubimendi, Dela…  
-**When:** 2026-08-17 00:54 (America/Winnipeg)  •  **Published:** 2026-08-17 05:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Bazoumana Toure to Newcastle United: Speed of Ivorian winger from Hoffenheim could define Matthias Jaissle's new team
+**Slug (lower-third):** Bazoumana Toure to Newcastle United: Speed of Ivorian win…  
+**When:** 2026-08-17 05:00 (America/Winnipeg)  •  **Published:** 2026-08-17 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Vicario, Martinez, Neto, Zubimendi, Delap, Mikautadze, Osimhen, Cherif. Juventus increase talks for Guglielmo Vicario and pull out of move for Emiliano Martinez, Manchester City face competition for Pedro Neto and Real Madrid want Martin Zubimendi., plus more. Relevance to standings and momentum.
+Bazoumana Toure to Newcastle United: Speed of Ivorian winger from Hoffenheim could define Matthias Jaissle's new team. Amid a summer of upheaval at Newcastle United, the signing of Bazoumana Toure from Hoffenheim stands out. Adam Bate speaks to the man who brought the winger to Europe to find out why this is a player who could have a big impact on the Premier League... Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,55 +253,7 @@ Football gossip: Vicario, Martinez, Neto, Zubimendi, Delap, Mikautadze, Osimhen,
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Vicario, Martinez, Neto, Zubimendi, Delap, Mikautadze, Osimhen, Cherif. https://www.bbc.co.uk/sport/football/articles/c4gkk7r2r4yo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Rodri: Watch midfielder's defining Manchester City moments as move to Barcelona announced
-**Slug (lower-third):** Rodri: Watch midfielder's defining Manchester City moment…  
-**When:** 2026-08-16 15:51 (America/Winnipeg)  •  **Published:** 2026-08-16 20:51 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Rodri: Watch midfielder's defining Manchester City moments as move to Barcelona announced. BBC Sport takes a look back at the moments that defined Rodri's time at Manchester City, from important goals to injuries and a Ballon d'Or, as the great midfielder takes his next step in his career. Potential impact on the lineup and upcoming fixtures.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Rodri: Watch midfielder's defining Manchester City moments as move to Barcelona announced. https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Community Shield: Nightmare Man City start for Enzo Maresca - are Arsenal really so far ahead?
-**Slug (lower-third):** Community Shield: Nightmare Man City start for Enzo Mares…  
-**When:** 2026-08-16 14:37 (America/Winnipeg)  •  **Published:** 2026-08-16 19:37 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Community Shield: Nightmare Man City start for Enzo Maresca - are Arsenal really so far ahead?. Did Arsenal show just how far above Manchester City they are with their dominant Community Shield win? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Community Shield: Nightmare Man City start for Enzo Maresca - are Arsenal really so far ahead?. https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss
+- skysports.com — Bazoumana Toure to Newcastle United: Speed of Ivorian winger from Hoffenheim could define Matthias Jaissle's new team. https://www.skysports.com/football/news/12040/13561315/bazoumana-toure-to-newcastle-united-speed-of-ivorian-winger-from-hoffenheim-could-define-matthias-jaissles-new-team
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
