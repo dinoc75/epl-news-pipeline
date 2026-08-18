@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-18 01:44 (America/Winnipeg)  |  2026-08-18 06:44 (UTC)
+**Generated:** 2026-08-18 07:48 (America/Winnipeg)  |  2026-08-18 12:48 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 30s
+**Estimated total video length:** ~4m 37s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Pep Guardiola opens up on time at Man City in NEW documentary series
-- Australia vs Bangladesh: Hosts drop opener Jake Weatherald but keep faith in Marnus Labuschagne for must-win second Test
-- Premier League Golden Boot: Who could rival Erling Haaland for award?
+- Premier League 2026-27 preview No 14: Liverpool
+- Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?
+- David Squires on ... new managers causing a stir before Premier League's return
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal
-**Slug (lower-third):** Tottenham goalkeeper Guglielmo Vicario to leave for Juven…  
-**When:** 2026-08-17 12:09 (America/Winnipeg)  •  **Published:** 2026-08-17 17:09 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 1: David Squires on ... new managers causing a stir before Premier League's return
+**Slug (lower-third):** David Squires on ... new managers causing a stir before P…  
+**When:** 2026-08-18 05:38 (America/Winnipeg)  •  **Published:** 2026-08-18 10:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal. Juventus have agreed a deal with Tottenham for Guglielmo Vicario to join on an initial loan after the Italian side decided against a move for Aston Villa's Emiliano Martinez Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+David Squires on ... new managers causing a stir before Premier League's return. Our cartoonist on the nine fresh faces in club dugouts and their potential impact as they begin work Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal. Juven
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal. https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window
+- theguardian.com — David Squires on ... new managers causing a stir before Premier League's return. https://www.theguardian.com/football/picture/2026/aug/18/david-squires-new-managers-causing-stir-premier-league-return
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,15 @@ Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal. Juven
 
 ---
 
-## Story 2: Bruno Fernandes transfer news: Manchester United captain not for sale at any price despite Galatasaray interest
-**Slug (lower-third):** Bruno Fernandes transfer news: Manchester United captain …  
-**When:** 2026-08-17 11:01 (America/Winnipeg)  •  **Published:** 2026-08-17 16:01 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~25s
+### Transfers
+
+## Story 2: Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?
+**Slug (lower-third):** Enzo Fernandez: Is possible Man City move this year's Isa…  
+**When:** 2026-08-18 05:46 (America/Winnipeg)  •  **Published:** 2026-08-18 10:46 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bruno Fernandes transfer news: Manchester United captain not for sale at any price despite Galatasaray interest. Bruno Fernandes broke the Premier League record for most assists in a single season last season; Reports have claimed Turkish side Galatasaray are ready to bid for the 31-year-old, who has entered the final year of his contract Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?. Enzo Fernandez's possible Manchester City move is following the pattern of Alexander Isak's transfer last summer - and creating headaches for Chelsea. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,24 +57,22 @@ Bruno Fernandes transfer news: Manchester United captain not for sale at any pri
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Bruno Fernandes transfer news: Manchester United captain not for sale at any price despite Galatasaray interest. https://www.skysports.com/football/news/12040/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest
+- bbc.co.uk — Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?. https://www.bbc.co.uk/sport/football/articles/cx2dzj2w25vo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-### League & Regulation
-
-## Story 3: Australia vs Bangladesh: Hosts drop opener Jake Weatherald but keep faith in Marnus Labuschagne for must-win second Test
-**Slug (lower-third):** Australia vs Bangladesh: Hosts drop opener Jake Weatheral…  
-**When:** 2026-08-18 02:00 (America/Winnipeg)  •  **Published:** 2026-08-18 07:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 3: Premier League: When does the 2026 summer transfer window close?
+**Slug (lower-third):** Premier League: When does the 2026 summer transfer window…  
+**When:** 2026-08-18 05:08 (America/Winnipeg)  •  **Published:** 2026-08-18 10:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Australia vs Bangladesh: Hosts drop opener Jake Weatherald but keep faith in Marnus Labuschagne for must-win second Test. Australia have replaced Jake Weatherald with Matt Renshaw in their 13-man squad for their must-win second Test with Bangladesh; Weatherald is the only change after their shock nine-wicket loss on home soil in the series opener Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Premier League: When does the 2026 summer transfer window close?. Our Ask Me Anything team explains when the summer transfer window closes Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +81,58 @@ Australia vs Bangladesh: Hosts drop opener Jake Weatherald but keep faith in Mar
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Australia vs Bangladesh: Hosts drop opener Jake Weatherald but keep faith in Marnus Labuschagne for must-win second Test. https://www.skysports.com/cricket/news/12040/13574220/australia-vs-bangladesh-hosts-drop-opener-jake-weatherald-but-keep-faith-in-marnus-labuschagne-for-must-win-second-test
+- bbc.co.uk — Premier League: When does the 2026 summer transfer window close?. https://www.bbc.co.uk/sport/football/articles/c8xgn20ddrzo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: 'Really happy' Amar Dedic completes PS29.5m move from Benfica to Newcastle
+**Slug (lower-third):** 'Really happy' Amar Dedic completes PS29.5m move from Ben…  
+**When:** 2026-08-18 04:35 (America/Winnipeg)  •  **Published:** 2026-08-18 09:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'Really happy' Amar Dedic completes PS29.5m move from Benfica to Newcastle. Amar Dedic has joined Newcastle from Benfica in a PS29.5m transfer while Sunderland are set to announce signing of Dayann Methalie for PS25.6m Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'Really happy' Amar Dedic completes PS29.5m move from Benfica to Newcastle. https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window
+- skysports.com — Newcastle transfer news: Amar Dedic completes PS29.5m move to St James' Park from Benfica. https://www.skysports.com/football/news/12040/13574258/newcastle-transfer-news-amar-dedic-completes-29-5m-move-to-st-james-park-from-benfica
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 5: Alexander Isak returns to Newcastle: Liverpool striker faces St James' Park reunion still waiting to reignite his career
+**Slug (lower-third):** Alexander Isak returns to Newcastle: Liverpool striker fa…  
+**When:** 2026-08-18 04:30 (America/Winnipeg)  •  **Published:** 2026-08-18 09:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Alexander Isak returns to Newcastle: Liverpool striker faces St James' Park reunion still waiting to reignite his career. Ahead of Alexander Isaks return to Newcastle as a Liverpool player - live on Sky Sports on Sunday, kick-off 4.30pm - Adam Bate went to watch him in action to see how close the striker is to finding the form that made him the most expensive signing in British history Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Alexander Isak returns to Newcastle: Liverpool striker faces St James' Park reunion still waiting to reignite his career. https://www.skysports.com/football/news/12040/13569643/alexander-isak-returns-to-newcastle-liverpool-striker-faces-st-james-park-reunion-still-waiting-to-reignite-his-career
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +143,13 @@ Australia vs Bangladesh: Hosts drop opener Jake Weatherald but keep faith in Mar
 
 ### Club Updates
 
-## Story 4: Pep Guardiola opens up on time at Man City in NEW documentary series
-**Slug (lower-third):** Pep Guardiola opens up on time at Man City in NEW documen…  
-**When:** 2026-08-18 02:10 (America/Winnipeg)  •  **Published:** 2026-08-18 07:10 (UTC)  
+## Story 6: Premier League 2026-27 preview No 14: Liverpool
+**Slug (lower-third):** Premier League 2026-27 preview No 14: Liverpool  
+**When:** 2026-08-18 06:00 (America/Winnipeg)  •  **Published:** 2026-08-18 11:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pep Guardiola opens up on time at Man City in NEW documentary series. In a new new Prime Video documentary, A Beautiful Obsession, Pep Guardiola opens up about his time at Manchester City. Video credit: Prime Video Relevance to standings and momentum.
+Premier League 2026-27 preview No 14: Liverpool. Andoni Iraola has his hands full - replacing Mo Salah and restoring faith at Liverpool - and will hope big name investors bring stability not disharmony Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +158,7 @@ Pep Guardiola opens up on time at Man City in NEW documentary series. In a new n
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Pep Guardiola opens up on time at Man City in NEW documentary series. https://www.skysports.com/watch/video/13574225/pep-guardiola-accepts-time-at-man-city-not-eternal-in-new-documentary-series
+- theguardian.com — Premier League 2026-27 preview No 14: Liverpool. https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +167,13 @@ Pep Guardiola opens up on time at Man City in NEW documentary series. In a new n
 
 ---
 
-## Story 5: Premier League Golden Boot: Who could rival Erling Haaland for award?
-**Slug (lower-third):** Premier League Golden Boot: Who could rival Erling Haalan…  
-**When:** 2026-08-18 01:11 (America/Winnipeg)  •  **Published:** 2026-08-18 06:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: Premier League season preview: Each club's pre-season preparations analysed ahead of new campaign's kick-off this Friday
+**Slug (lower-third):** Premier League season preview: Each club's pre-season pre…  
+**When:** 2026-08-18 05:30 (America/Winnipeg)  •  **Published:** 2026-08-18 10:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Premier League Golden Boot: Who could rival Erling Haaland for award?. Erling Haaland will hope for a record-equalling fourth Golden Boot this season - but who could challenge him as the Premier League's top-scorer? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League season preview: Each club's pre-season preparations analysed ahead of new campaign's kick-off this Friday. How have all 20 Premier League sides pre-season preparations gone ahead of the new season? How ready are clubs for the new campaign? Watch Arsenal vs Coventry live on Sky Sports Premier League on Friday from 7pm, kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +182,7 @@ Premier League Golden Boot: Who could rival Erling Haaland for award?. Erling Ha
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League Golden Boot: Who could rival Erling Haaland for award?. https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss
+- skysports.com — Premier League season preview: Each club's pre-season preparations analysed ahead of new campaign's kick-off this Friday. https://www.skysports.com/football/news/12040/13572964/premier-league-season-preview-each-clubs-pre-season-preparations-analysed-ahead-of-new-campaigns-kick-off-this-friday
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,83 +191,10 @@ Premier League Golden Boot: Who could rival Erling Haaland for award?. Erling Ha
 
 ---
 
-## Story 6: Today on Sky Sports Racing: Chepstow, Lingfield and Wolverhampton host action
-**Slug (lower-third):** Today on Sky Sports Racing: Chepstow, Lingfield and Wolve…  
-**When:** 2026-08-18 01:00 (America/Winnipeg)  •  **Published:** 2026-08-18 06:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Chepstow, Lingfield and Wolverhampton host action. Grove Street faces Avionics in todays feature contest from Chepstow, which runs alongside daytime action from Lingfield; In the evening, attention switches to a six-race card from Wolverhampton - all live on Sky Sports Racing. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Today on Sky Sports Racing: Chepstow, Lingfield and Wolverhampton host action. https://www.skysports.com/racing/news/12040/13573965/today-on-sky-sports-racing-chepstow-lingfield-and-wolverhampton-host-action
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Todd Boehly and Mark Walter consider selling Chelsea shares to Clearlake Capital
-**Slug (lower-third):** Todd Boehly and Mark Walter consider selling Chelsea shar…  
-**When:** 2026-08-17 13:56 (America/Winnipeg)  •  **Published:** 2026-08-17 18:56 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Todd Boehly and Mark Walter consider selling Chelsea shares to Clearlake Capital. Todd Boehly and Mark Walter are considering selling their shares in Chelsea in a deal that would give the majority owners, Clearlake Capital, full control Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Todd Boehly and Mark Walter consider selling Chelsea shares to Clearlake Capital. https://www.theguardian.com/football/2026/aug/17/chelsea-todd-boehly-mark-walter-consider-selling-shares-clearlake-capital
-- skysports.com — Chelsea co-owners Todd Boehly and Mark Walter hold talks over selling shares to majority owners Clearlake Capital. https://www.skysports.com/football/news/12040/13574134/chelsea-co-owners-todd-boehly-and-mark-walter-hold-talks-over-selling-shares-to-majority-owners-clearlake-capital
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Pep Guardiola documentary: Kyle Walker fallout revealed in intense scenes
-**Slug (lower-third):** Pep Guardiola documentary: Kyle Walker fallout revealed i…  
-**When:** 2026-08-17 18:00 (America/Winnipeg)  •  **Published:** 2026-08-17 23:00 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Pep Guardiola documentary: Kyle Walker fallout revealed in intense scenes. A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Pep Guardiola documentary: Kyle Walker fallout revealed in intense scenes. https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Fernandez, Neto, Casado, Fernandes, Barcola, Mbaye, Kane
+## Story 8: Football gossip: Fernandez, Neto, Casado, Fernandes, Barcola, Mbaye, Kane
 **Slug (lower-third):** Football gossip: Fernandez, Neto, Casado, Fernandes, Barc…  
-**When:** 2026-08-17 16:42 (America/Winnipeg)  •  **Published:** 2026-08-17 21:42 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+**When:** 2026-08-18 05:20 (America/Winnipeg)  •  **Published:** 2026-08-18 10:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Football gossip: Fernandez, Neto, Casado, Fernandes, Barcola, Mbaye, Kane. Manchester City will need to pay more than APS120m for Enzo Fernandez, Chelsea winger Pedro Neto has no shortage of suitors, Bruno Fernandes is offered a huge salary increase, plus more. Relevance to standings and momentum.
@@ -237,13 +215,13 @@ Football gossip: Fernandez, Neto, Casado, Fernandes, Barcola, Mbaye, Kane. Manch
 
 ---
 
-## Story 10: Rodri lands in Barcelona to complete 'dream' move
-**Slug (lower-third):** Rodri lands in Barcelona to complete 'dream' move  
-**When:** 2026-08-17 15:02 (America/Winnipeg)  •  **Published:** 2026-08-17 20:02 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 9: Will Lankshear: Is Middlesbrough's new striker the next Harry Kane? Rise of ex-Tottenham forward set to light up Championship
+**Slug (lower-third):** Will Lankshear: Is Middlesbrough's new striker the next H…  
+**When:** 2026-08-18 05:00 (America/Winnipeg)  •  **Published:** 2026-08-18 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Rodri lands in Barcelona to complete 'dream' move. Spain midfielder Rodri says it is his "dream" to play for Barcelona as he arrives in the city to complete his move from Manchester City. Relevance to standings and momentum.
+Will Lankshear: Is Middlesbrough's new striker the next Harry Kane? Rise of ex-Tottenham forward set to light up Championship. Will Lankshear has made a stunning start to his Middlesbrough career but those who know him think this is just the start. A future PS100m striker? The next Harry Kane? Adam Bate speaks to his coaches to find out more about the former Tottenham forward... Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -252,7 +230,31 @@ Rodri lands in Barcelona to complete 'dream' move. Spain midfielder Rodri says i
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Rodri lands in Barcelona to complete 'dream' move. https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo?at_medium=RSS&at_campaign=rss
+- skysports.com — Will Lankshear: Is Middlesbrough's new striker the next Harry Kane? Rise of ex-Tottenham forward set to light up Championship. https://www.skysports.com/football/news/12040/13570574/will-lankshear-is-middlesbroughs-new-striker-the-next-harry-kane-rise-of-ex-tottenham-forward-set-to-light-up-championship
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Guardiola's row with Walker at Manchester City revealed in new Amazon documentary
+**Slug (lower-third):** Guardiola's row with Walker at Manchester City revealed i…  
+**When:** 2026-08-18 03:42 (America/Winnipeg)  •  **Published:** 2026-08-18 08:42 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Guardiola's row with Walker at Manchester City revealed in new Amazon documentary. A new documentary captures the strain of Pep Guardiola's final season at Manchester City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Guardiola's row with Walker at Manchester City revealed in new Amazon documentary. https://www.theguardian.com/football/2026/aug/18/pep-guardiola-row-kyle-walker-manchester-city-revealed-new-amazon-documentary
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
