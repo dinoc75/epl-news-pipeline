@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-18 07:48 (America/Winnipeg)  |  2026-08-18 12:48 (UTC)
+**Generated:** 2026-08-18 13:39 (America/Winnipeg)  |  2026-08-18 18:39 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 37s
+**Estimated total video length:** ~3m 29s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Premier League 2026-27 preview No 14: Liverpool
-- Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?
-- David Squires on ... new managers causing a stir before Premier League's return
+- Sky Sports | Snooker News
+- Rodri joins Barcelona from Man City in APS65m deal
+- Transfer roundup: Dedic completes PS29.5m Newcastle move, Wan-Bissaka loaned to Villa
 
 ---
 
 ### Managerial Moves
 
-## Story 1: David Squires on ... new managers causing a stir before Premier League's return
-**Slug (lower-third):** David Squires on ... new managers causing a stir before P…  
-**When:** 2026-08-18 05:38 (America/Winnipeg)  •  **Published:** 2026-08-18 10:38 (UTC)  
+## Story 1: Gianni Infantino: Fifa's Kevin Lamour sacking 'deeply troubling' - Uefa executive Laura McAllister
+**Slug (lower-third):** Gianni Infantino: Fifa's Kevin Lamour sacking 'deeply tro…  
+**When:** 2026-08-18 12:51 (America/Winnipeg)  •  **Published:** 2026-08-18 17:51 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-David Squires on ... new managers causing a stir before Premier League's return. Our cartoonist on the nine fresh faces in club dugouts and their potential impact as they begin work Relevance to standings and momentum.
+Gianni Infantino: Fifa's Kevin Lamour sacking 'deeply troubling' - Uefa executive Laura McAllister. Fifa's decision to dismiss senior executive Kevin Lamour following his criticism of president Gianni Infantino sends a "deeply troubling message to all of us seeking change", says UEFA vice-president Laura McAllister. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,55 @@ David Squires on ... new managers causing a stir before Premier League's return.
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — David Squires on ... new managers causing a stir before Premier League's return. https://www.theguardian.com/football/picture/2026/aug/18/david-squires-new-managers-causing-stir-premier-league-return
+- bbc.co.uk — Gianni Infantino: Fifa's Kevin Lamour sacking 'deeply troubling' - Uefa executive Laura McAllister. https://www.bbc.co.uk/sport/football/articles/cqlxwnz71qgo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Chelsea's boardroom rift: if Boehly goes who will Clearlake have left to blame? | Sam Cunningham
+**Slug (lower-third):** Chelsea's boardroom rift: if Boehly goes who will Clearla…  
+**When:** 2026-08-18 11:53 (America/Winnipeg)  •  **Published:** 2026-08-18 16:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea's boardroom rift: if Boehly goes who will Clearlake have left to blame? | Sam Cunningham. Despite another reset with a new manager and fresh strategy, the boardroom drama persists at Stamford Bridge Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Chelsea's boardroom rift: if Boehly goes who will Clearlake have left to blame? | Sam Cunningham. https://www.theguardian.com/football/2026/aug/18/chelsea-todd-boehly-mark-walter-clearlake-capital-ownership
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Patrick Vieira named as new Senegal men's national team head coach
+**Slug (lower-third):** Patrick Vieira named as new Senegal men's national team h…  
+**When:** 2026-08-18 09:38 (America/Winnipeg)  •  **Published:** 2026-08-18 14:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Patrick Vieira named as new Senegal men's national team head coach. Former Arsenal and France captain Patrick Vieira is appointed as the new head coach of the Senegal men's national team. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Patrick Vieira named as new Senegal men's national team head coach. https://www.bbc.co.uk/sport/football/articles/cr49v9dn431o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +90,13 @@ David Squires on ... new managers causing a stir before Premier League's return.
 
 ### Transfers
 
-## Story 2: Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?
-**Slug (lower-third):** Enzo Fernandez: Is possible Man City move this year's Isa…  
-**When:** 2026-08-18 05:46 (America/Winnipeg)  •  **Published:** 2026-08-18 10:46 (UTC)  
+## Story 4: Transfer roundup: Dedic completes PS29.5m Newcastle move, Wan-Bissaka loaned to Villa
+**Slug (lower-third):** Transfer roundup: Dedic completes PS29.5m Newcastle move,…  
+**When:** 2026-08-18 13:13 (America/Winnipeg)  •  **Published:** 2026-08-18 18:13 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?. Enzo Fernandez's possible Manchester City move is following the pattern of Alexander Isak's transfer last summer - and creating headaches for Chelsea. Implications for the squad and table.
+Transfer roundup: Dedic completes PS29.5m Newcastle move, Wan-Bissaka loaned to Villa. Amar Dedic has joined Newcastle from Benfica in a PS29.5m transfer while Aston Villa have agreed a deal with West Ham to sign Aaron Wan-Bissaka on loan Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +105,7 @@ Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?. Enzo F
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?. https://www.bbc.co.uk/sport/football/articles/cx2dzj2w25vo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Transfer roundup: Dedic completes PS29.5m Newcastle move, Wan-Bissaka loaned to Villa. https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +114,13 @@ Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?. Enzo F
 
 ---
 
-## Story 3: Premier League: When does the 2026 summer transfer window close?
-**Slug (lower-third):** Premier League: When does the 2026 summer transfer window…  
-**When:** 2026-08-18 05:08 (America/Winnipeg)  •  **Published:** 2026-08-18 10:08 (UTC)  
+## Story 5: Aaron Wan-Bissaka: Aston Villa agree deal to sign West Ham defender
+**Slug (lower-third):** Aaron Wan-Bissaka: Aston Villa agree deal to sign West Ha…  
+**When:** 2026-08-18 12:56 (America/Winnipeg)  •  **Published:** 2026-08-18 17:56 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: When does the 2026 summer transfer window close?. Our Ask Me Anything team explains when the summer transfer window closes Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Aaron Wan-Bissaka: Aston Villa agree deal to sign West Ham defender. Aston Villa agree to sign West Ham defender Aaron Wan-Bissaka on an initial loan deal with an obligation to buy at the end of the season. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +129,7 @@ Premier League: When does the 2026 summer transfer window close?. Our Ask Me Any
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League: When does the 2026 summer transfer window close?. https://www.bbc.co.uk/sport/football/articles/c8xgn20ddrzo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Aaron Wan-Bissaka: Aston Villa agree deal to sign West Ham defender. https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +138,15 @@ Premier League: When does the 2026 summer transfer window close?. Our Ask Me Any
 
 ---
 
-## Story 4: 'Really happy' Amar Dedic completes PS29.5m move from Benfica to Newcastle
-**Slug (lower-third):** 'Really happy' Amar Dedic completes PS29.5m move from Ben…  
-**When:** 2026-08-18 04:35 (America/Winnipeg)  •  **Published:** 2026-08-18 09:35 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+### League & Regulation
+
+## Story 6: Manchester City charges: Premier League chief executive Richard Masters says verdict 'has taken longer than expected'
+**Slug (lower-third):** Manchester City charges: Premier League chief executive R…  
+**When:** 2026-08-18 11:30 (America/Winnipeg)  •  **Published:** 2026-08-18 16:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-'Really happy' Amar Dedic completes PS29.5m move from Benfica to Newcastle. Amar Dedic has joined Newcastle from Benfica in a PS29.5m transfer while Sunderland are set to announce signing of Dayann Methalie for PS25.6m Implications for the squad and table.
+Manchester City charges: Premier League chief executive Richard Masters says verdict 'has taken longer than expected'. In February 2023, Manchester City were charged by the Premier League with more than 100 alleged breaches of the leagues financial rules; City have denied all the charges; a 12-week hearing led by an independent commission concluded in December 2024, but a verdict has yet to be delivered Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,34 +155,7 @@ Premier League: When does the 2026 summer transfer window close?. Our Ask Me Any
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — 'Really happy' Amar Dedic completes PS29.5m move from Benfica to Newcastle. https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window
-- skysports.com — Newcastle transfer news: Amar Dedic completes PS29.5m move to St James' Park from Benfica. https://www.skysports.com/football/news/12040/13574258/newcastle-transfer-news-amar-dedic-completes-29-5m-move-to-st-james-park-from-benfica
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### Injuries
-
-## Story 5: Alexander Isak returns to Newcastle: Liverpool striker faces St James' Park reunion still waiting to reignite his career
-**Slug (lower-third):** Alexander Isak returns to Newcastle: Liverpool striker fa…  
-**When:** 2026-08-18 04:30 (America/Winnipeg)  •  **Published:** 2026-08-18 09:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Alexander Isak returns to Newcastle: Liverpool striker faces St James' Park reunion still waiting to reignite his career. Ahead of Alexander Isaks return to Newcastle as a Liverpool player - live on Sky Sports on Sunday, kick-off 4.30pm - Adam Bate went to watch him in action to see how close the striker is to finding the form that made him the most expensive signing in British history Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Alexander Isak returns to Newcastle: Liverpool striker faces St James' Park reunion still waiting to reignite his career. https://www.skysports.com/football/news/12040/13569643/alexander-isak-returns-to-newcastle-liverpool-striker-faces-st-james-park-reunion-still-waiting-to-reignite-his-career
+- skysports.com — Manchester City charges: Premier League chief executive Richard Masters says verdict 'has taken longer than expected'. https://www.skysports.com/football/news/12040/13574259/manchester-city-charges-premier-league-chief-executive-richard-masters-says-verdict-has-taken-longer-than-expected
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -143,13 +166,13 @@ Alexander Isak returns to Newcastle: Liverpool striker faces St James' Park reun
 
 ### Club Updates
 
-## Story 6: Premier League 2026-27 preview No 14: Liverpool
-**Slug (lower-third):** Premier League 2026-27 preview No 14: Liverpool  
-**When:** 2026-08-18 06:00 (America/Winnipeg)  •  **Published:** 2026-08-18 11:00 (UTC)  
+## Story 7: Sky Sports | Snooker News
+**Slug (lower-third):** Sky Sports | Snooker News  
+**When:** 2026-08-18 13:54 (America/Winnipeg)  •  **Published:** 2026-08-18 18:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League 2026-27 preview No 14: Liverpool. Andoni Iraola has his hands full - replacing Mo Salah and restoring faith at Liverpool - and will hope big name investors bring stability not disharmony Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Sky Sports | Snooker News. Get the latest Snooker news with Sky Sports. We cover all the major tournaments including Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -158,7 +181,7 @@ Premier League 2026-27 preview No 14: Liverpool. Andoni Iraola has his hands ful
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League 2026-27 preview No 14: Liverpool. https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool
+- skysports.com — Sky Sports | Snooker News. https://www.skysports.com/more-sports/snooker
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,37 +190,13 @@ Premier League 2026-27 preview No 14: Liverpool. Andoni Iraola has his hands ful
 
 ---
 
-## Story 7: Premier League season preview: Each club's pre-season preparations analysed ahead of new campaign's kick-off this Friday
-**Slug (lower-third):** Premier League season preview: Each club's pre-season pre…  
-**When:** 2026-08-18 05:30 (America/Winnipeg)  •  **Published:** 2026-08-18 10:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Premier League season preview: Each club's pre-season preparations analysed ahead of new campaign's kick-off this Friday. How have all 20 Premier League sides pre-season preparations gone ahead of the new season? How ready are clubs for the new campaign? Watch Arsenal vs Coventry live on Sky Sports Premier League on Friday from 7pm, kick-off 8pm Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Premier League season preview: Each club's pre-season preparations analysed ahead of new campaign's kick-off this Friday. https://www.skysports.com/football/news/12040/13572964/premier-league-season-preview-each-clubs-pre-season-preparations-analysed-ahead-of-new-campaigns-kick-off-this-friday
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Football gossip: Fernandez, Neto, Casado, Fernandes, Barcola, Mbaye, Kane
-**Slug (lower-third):** Football gossip: Fernandez, Neto, Casado, Fernandes, Barc…  
-**When:** 2026-08-18 05:20 (America/Winnipeg)  •  **Published:** 2026-08-18 10:20 (UTC)  
+## Story 8: Rodri joins Barcelona from Man City in APS65m deal
+**Slug (lower-third):** Rodri joins Barcelona from Man City in APS65m deal  
+**When:** 2026-08-18 13:14 (America/Winnipeg)  •  **Published:** 2026-08-18 18:14 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Fernandez, Neto, Casado, Fernandes, Barcola, Mbaye, Kane. Manchester City will need to pay more than APS120m for Enzo Fernandez, Chelsea winger Pedro Neto has no shortage of suitors, Bruno Fernandes is offered a huge salary increase, plus more. Relevance to standings and momentum.
+Rodri joins Barcelona from Man City in APS65m deal. Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +205,7 @@ Football gossip: Fernandez, Neto, Casado, Fernandes, Barcola, Mbaye, Kane. Manch
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Fernandez, Neto, Casado, Fernandes, Barcola, Mbaye, Kane. https://www.bbc.co.uk/sport/football/articles/cz64z1dxn7xo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Rodri joins Barcelona from Man City in APS65m deal. https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,13 +214,13 @@ Football gossip: Fernandez, Neto, Casado, Fernandes, Barcola, Mbaye, Kane. Manch
 
 ---
 
-## Story 9: Will Lankshear: Is Middlesbrough's new striker the next Harry Kane? Rise of ex-Tottenham forward set to light up Championship
-**Slug (lower-third):** Will Lankshear: Is Middlesbrough's new striker the next H…  
-**When:** 2026-08-18 05:00 (America/Winnipeg)  •  **Published:** 2026-08-18 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 9: Joe Hart on Man City, Arsenal's title defence and Chelsea's hopes
+**Slug (lower-third):** Joe Hart on Man City, Arsenal's title defence and Chelsea…  
+**When:** 2026-08-18 10:01 (America/Winnipeg)  •  **Published:** 2026-08-18 15:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Will Lankshear: Is Middlesbrough's new striker the next Harry Kane? Rise of ex-Tottenham forward set to light up Championship. Will Lankshear has made a stunning start to his Middlesbrough career but those who know him think this is just the start. A future PS100m striker? The next Harry Kane? Adam Bate speaks to his coaches to find out more about the former Tottenham forward... Relevance to standings and momentum.
+Joe Hart on Man City, Arsenal's title defence and Chelsea's hopes. The former Manchester City and England goalkeeper believes Enzo Maresca will be given time to build. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -230,7 +229,7 @@ Will Lankshear: Is Middlesbrough's new striker the next Harry Kane? Rise of ex-T
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Will Lankshear: Is Middlesbrough's new striker the next Harry Kane? Rise of ex-Tottenham forward set to light up Championship. https://www.skysports.com/football/news/12040/13570574/will-lankshear-is-middlesbroughs-new-striker-the-next-harry-kane-rise-of-ex-tottenham-forward-set-to-light-up-championship
+- bbc.co.uk — Joe Hart on Man City, Arsenal's title defence and Chelsea's hopes. https://www.bbc.co.uk/sport/articles/cly5e5ezlj5o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -239,13 +238,13 @@ Will Lankshear: Is Middlesbrough's new striker the next Harry Kane? Rise of ex-T
 
 ---
 
-## Story 10: Guardiola's row with Walker at Manchester City revealed in new Amazon documentary
-**Slug (lower-third):** Guardiola's row with Walker at Manchester City revealed i…  
-**When:** 2026-08-18 03:42 (America/Winnipeg)  •  **Published:** 2026-08-18 08:42 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 10: Jeff Bezos: Amazon founder's consortium bought close to 40% of Liverpool
+**Slug (lower-third):** Jeff Bezos: Amazon founder's consortium bought close to 4…  
+**When:** 2026-08-18 08:51 (America/Winnipeg)  •  **Published:** 2026-08-18 13:51 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Guardiola's row with Walker at Manchester City revealed in new Amazon documentary. A new documentary captures the strain of Pep Guardiola's final season at Manchester City Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jeff Bezos: Amazon founder's consortium bought close to 40% of Liverpool. A consortium including Amazon founder Jeff Bezos bought close to 40% of Liverpool from Fenway Sports Group (FSG). Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -254,7 +253,7 @@ Guardiola's row with Walker at Manchester City revealed in new Amazon documentar
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Guardiola's row with Walker at Manchester City revealed in new Amazon documentary. https://www.theguardian.com/football/2026/aug/18/pep-guardiola-row-kyle-walker-manchester-city-revealed-new-amazon-documentary
+- bbc.co.uk — Jeff Bezos: Amazon founder's consortium bought close to 40% of Liverpool. https://www.bbc.co.uk/sport/football/articles/cly9l92kj6po?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
