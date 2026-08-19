@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-19 07:49 (America/Winnipeg)  |  2026-08-19 12:49 (UTC)
+**Generated:** 2026-08-19 13:36 (America/Winnipeg)  |  2026-08-19 18:36 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 52s
+**Estimated total video length:** ~3m 20s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Mikey Lewis: Hull KR left sweating as star man sent to sin bin against Warrington Wolves on return from four-match ban
-- Manchester City charges: Premier League clubs 'want clarity', says Arsenal chief Richard Garlick
-- Manchester United make PS65m offer for Brighton's Carlos Baleba
+- Baptisms of fire: the fixture list has not been kind to Coventry, Hull and Ipswich
+- Harry Kane: England striker plays down returning to Premier League in future to break Alan Shearer record
+- Tijjani Reijnders: Dutch midfielder joins Al-Qadsiah from Man City in APS52m move
 
 ---
 
 ### Transfers
 
-## Story 1: Tottenham transfer news: Spurs considering Cody Gakpo, Savinho, Omar Marmoush and Pedro Neto in search for three new forwards
-**Slug (lower-third):** Tottenham transfer news: Spurs considering Cody Gakpo, Sa…  
-**When:** 2026-08-19 06:49 (America/Winnipeg)  •  **Published:** 2026-08-19 11:49 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+## Story 1: Inter hold talks with Liverpool over deal for PS30m-rated Curtis Jones
+**Slug (lower-third):** Inter hold talks with Liverpool over deal for PS30m-rated…  
+**When:** 2026-08-19 10:32 (America/Winnipeg)  •  **Published:** 2026-08-19 15:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham transfer news: Spurs considering Cody Gakpo, Savinho, Omar Marmoush and Pedro Neto in search for three new forwards. Spurs ideal end to the window is to buy Savinho from Manchester City, Cody Gakpo from Liverpool and a new centre-forward; Chelsea forward Pedro Neto and Citys Omar Marmoush are also of interest; Spurs have spent more than PS200m on six first-team players already this summer Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Inter hold talks with Liverpool over deal for PS30m-rated Curtis Jones. Inter have renewed their interest in Curtis Jones, who is in the final year of his contract at Liverpool Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Tottenham transfer news: Spurs considering Cody Gakpo, Savinho, Omar Marmoush an
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham transfer news: Spurs considering Cody Gakpo, Savinho, Omar Marmoush and Pedro Neto in search for three new forwards. https://www.skysports.com/football/news/12040/13574668/tottenham-transfer-news-spurs-considering-cody-gakpo-savinho-omar-marmoush-and-pedro-neto-in-search-for-three-new-forwards
+- theguardian.com — Inter hold talks with Liverpool over deal for PS30m-rated Curtis Jones. https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-curtis-jones-transfer-window-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Tottenham transfer news: Spurs considering Cody Gakpo, Savinho, Omar Marmoush an
 
 ---
 
-## Story 2: Ezri Konsa transfer news: Arsenal in advanced talks to sign Aston Villa and England defender
-**Slug (lower-third):** Ezri Konsa transfer news: Arsenal in advanced talks to si…  
-**When:** 2026-08-19 06:36 (America/Winnipeg)  •  **Published:** 2026-08-19 11:36 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 2: Curtis Jones transfer news: Inter Milan close in on APS30m deal for Liverpool midfielder
+**Slug (lower-third):** Curtis Jones transfer news: Inter Milan close in on APS30…  
+**When:** 2026-08-19 09:23 (America/Winnipeg)  •  **Published:** 2026-08-19 14:23 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ezri Konsa transfer news: Arsenal in advanced talks to sign Aston Villa and England defender. Ezri Konsa has two years remaining on his Aston Villa contract; Arsenal also held an interest in Jarell Quansah but look set to move for Konsa; Arsenal currently have William Saliba and Jurrien Timber out injured Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Curtis Jones transfer news: Inter Milan close in on APS30m deal for Liverpool midfielder. Italian champions Inter Milan are closing in on a deal worth 35m euros (APS30m) for Liverpool midfielder Curtis Jones. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,8 +55,7 @@ Ezri Konsa transfer news: Arsenal in advanced talks to sign Aston Villa and Engl
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ezri Konsa transfer news: Arsenal in advanced talks to sign Aston Villa and England defender. https://www.skysports.com/football/news/12040/13574665/ezri-konsa-transfer-news-arsenal-in-advanced-talks-to-sign-aston-villa-and-england-defender
-- bbc.co.uk — Arsenal transfer news: Aston Villa and England defender Ezri Konsa remains Gunners' target. https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Curtis Jones transfer news: Inter Milan close in on APS30m deal for Liverpool midfielder. https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -65,13 +64,13 @@ Ezri Konsa transfer news: Arsenal in advanced talks to sign Aston Villa and Engl
 
 ---
 
-## Story 3: Kosta Nedeljkovic: Rangers sign Aston Villa right-back on loan with PS4m obligation to buy Serbia international
-**Slug (lower-third):** Kosta Nedeljkovic: Rangers sign Aston Villa right-back on…  
-**When:** 2026-08-19 05:15 (America/Winnipeg)  •  **Published:** 2026-08-19 10:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 3: Arsenal transfer news: Ezri Konsa deal agreed with Aston Villa for APS50m-plus
+**Slug (lower-third):** Arsenal transfer news: Ezri Konsa deal agreed with Aston …  
+**When:** 2026-08-19 08:55 (America/Winnipeg)  •  **Published:** 2026-08-19 13:55 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Kosta Nedeljkovic: Rangers sign Aston Villa right-back on loan with PS4m obligation to buy Serbia international. Rangers have signed 11 players this summer; Kosta Nedeljkovic joins amid interest from other clubs following talks with boss Derek McInnes and Serbian team-mate Vanja Dragojevic, who just moved to Ibrox; Rangers are working on adding a winger and striker before the transfer window shuts Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Arsenal transfer news: Ezri Konsa deal agreed with Aston Villa for APS50m-plus. Arsenal agree a deal worth more than APS50m to sign Aston Villa and England defender Ezri Konsa. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -80,7 +79,7 @@ Kosta Nedeljkovic: Rangers sign Aston Villa right-back on loan with PS4m obligat
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Kosta Nedeljkovic: Rangers sign Aston Villa right-back on loan with PS4m obligation to buy Serbia international. https://www.skysports.com/football/news/12040/13574334/kosta-nedeljkovic-rangers-sign-aston-villa-right-back-on-loan-with-4m-obligation-to-buy-serbia-international
+- bbc.co.uk — Arsenal transfer news: Ezri Konsa deal agreed with Aston Villa for APS50m-plus. https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -91,39 +90,13 @@ Kosta Nedeljkovic: Rangers sign Aston Villa right-back on loan with PS4m obligat
 
 ### Injuries
 
-## Story 4: Mikey Lewis: Hull KR left sweating as star man sent to sin bin against Warrington Wolves on return from four-match ban
-**Slug (lower-third):** Mikey Lewis: Hull KR left sweating as star man sent to si…  
-**When:** 2026-08-19 07:40 (America/Winnipeg)  •  **Published:** 2026-08-19 12:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~30s
-
-### Presenter Script (3–5 sentences)
-Mikey Lewis: Hull KR left sweating as star man sent to sin bin against Warrington Wolves on return from four-match ban. Mikey Lewis was sent to the sin bin for Hull KR on his return from a four-match ban; The yellow card was for dangerous contact with kicker Ewan Irwin as his studs hit his ankle; Hull KR sit fifth with four games remaining in the regular season Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Mikey Lewis: Hull KR left sweating as star man sent to sin bin against Warrington Wolves on return from four-match ban. https://www.skysports.com/rugby-league/news/12040/13574634/mikey-lewis-hull-kr-left-sweating-as-star-man-sent-to-sin-bin-against-warrington-wolves-on-return-from-four-match-ban
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 5: Manchester City charges: Premier League clubs 'want clarity', says Arsenal chief Richard Garlick
-**Slug (lower-third):** Manchester City charges: Premier League clubs 'want clari…  
-**When:** 2026-08-19 07:30 (America/Winnipeg)  •  **Published:** 2026-08-19 12:30 (UTC)  
+## Story 4: Harry Kane: England striker plays down returning to Premier League in future to break Alan Shearer record
+**Slug (lower-third):** Harry Kane: England striker plays down returning to Premi…  
+**When:** 2026-08-19 12:14 (America/Winnipeg)  •  **Published:** 2026-08-19 17:14 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester City charges: Premier League clubs 'want clarity', says Arsenal chief Richard Garlick. Arsenal's chief executive Richard Garlick speaks out on the case against Manchester City and the more than 100 alleged breaches of the Premier League's financial rules. Relevance to standings and momentum.
+Harry Kane: England striker plays down returning to Premier League in future to break Alan Shearer record. Harry Kane says "the itch isn't there as much anymore" to one day return to England from Germany and try and break the all-time scoring record in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,7 +105,7 @@ Manchester City charges: Premier League clubs 'want clarity', says Arsenal chief
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Manchester City charges: Premier League clubs 'want clarity', says Arsenal chief Richard Garlick. https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Harry Kane: England striker plays down returning to Premier League in future to break Alan Shearer record. https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -143,13 +116,13 @@ Manchester City charges: Premier League clubs 'want clarity', says Arsenal chief
 
 ### Club Updates
 
-## Story 6: Manchester United make PS65m offer for Brighton's Carlos Baleba
-**Slug (lower-third):** Manchester United make PS65m offer for Brighton's Carlos …  
-**When:** 2026-08-19 07:01 (America/Winnipeg)  •  **Published:** 2026-08-19 12:01 (UTC)  
+## Story 5: Baptisms of fire: the fixture list has not been kind to Coventry, Hull and Ipswich
+**Slug (lower-third):** Baptisms of fire: the fixture list has not been kind to C…  
+**When:** 2026-08-19 12:33 (America/Winnipeg)  •  **Published:** 2026-08-19 17:33 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United make PS65m offer for Brighton's Carlos Baleba. Manchester United's have made a PS65m bid for the Brighton midfielder Carlos Baleba, who was a target for them last summer Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Baptisms of fire: the fixture list has not been kind to Coventry, Hull and Ipswich. A tough start awaits for the promoted trio, with Premier League matches against last season's top three and European qualifiers Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -158,7 +131,7 @@ Manchester United make PS65m offer for Brighton's Carlos Baleba. Manchester Unit
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Manchester United make PS65m offer for Brighton's Carlos Baleba. https://www.theguardian.com/football/2026/aug/19/manchester-united-brighton-carlos-baleba
+- theguardian.com — Baptisms of fire: the fixture list has not been kind to Coventry, Hull and Ipswich. https://www.theguardian.com/football/2026/aug/19/premer-league-fixtures-coventry-ipswich-hull
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -167,13 +140,13 @@ Manchester United make PS65m offer for Brighton's Carlos Baleba. Manchester Unit
 
 ---
 
-## Story 7: Erling Haaland: Is Man City striker worth APS15.5m price tag on FPL?
-**Slug (lower-third):** Erling Haaland: Is Man City striker worth APS15.5m price …  
-**When:** 2026-08-19 06:32 (America/Winnipeg)  •  **Published:** 2026-08-19 11:32 (UTC)  
+## Story 6: Tijjani Reijnders: Dutch midfielder joins Al-Qadsiah from Man City in APS52m move
+**Slug (lower-third):** Tijjani Reijnders: Dutch midfielder joins Al-Qadsiah from…  
+**When:** 2026-08-19 11:01 (America/Winnipeg)  •  **Published:** 2026-08-19 16:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Erling Haaland: Is Man City striker worth APS15.5m price tag on FPL?. FPL expert Gianni Buttice weighs up whether Manchester City striker Erling Haaland is worth his APS15.5m price tag on the game. Relevance to standings and momentum.
+Tijjani Reijnders: Dutch midfielder joins Al-Qadsiah from Man City in APS52m move. Netherlands midfielder Tijjani Reijnders completes a APS52m move to Saudi Arabian side Al-Qadsiah from Manchester City. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -182,7 +155,7 @@ Erling Haaland: Is Man City striker worth APS15.5m price tag on FPL?. FPL expert
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Erling Haaland: Is Man City striker worth APS15.5m price tag on FPL?. https://www.bbc.co.uk/sport/football/videos/cvgx0dngdl0o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Tijjani Reijnders: Dutch midfielder joins Al-Qadsiah from Man City in APS52m move. https://www.bbc.co.uk/sport/football/articles/c0m7el3zr2eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -191,13 +164,13 @@ Erling Haaland: Is Man City striker worth APS15.5m price tag on FPL?. FPL expert
 
 ---
 
-## Story 8: Manchester United's new midfielder? Carlos Baleba's Premier League best bits for Brighton!
-**Slug (lower-third):** Manchester United's new midfielder? Carlos Baleba's Premi…  
-**When:** 2026-08-19 06:24 (America/Winnipeg)  •  **Published:** 2026-08-19 11:24 (UTC)  
+## Story 7: Arsenal agree PS51m deal to sign Ezri Konsa from Aston Villa
+**Slug (lower-third):** Arsenal agree PS51m deal to sign Ezri Konsa from Aston Vi…  
+**When:** 2026-08-19 10:16 (America/Winnipeg)  •  **Published:** 2026-08-19 15:16 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United's new midfielder? Carlos Baleba's Premier League best bits for Brighton!. With Manchester United edging closer to reaching a full agreement with Brighton for Cameroon midfielder Carlos Baleba, take a look at his Premier League best bits. Relevance to standings and momentum.
+Arsenal agree PS51m deal to sign Ezri Konsa from Aston Villa. Arsenal have agreed a PS51m deal to sign Ezri Konsa from Aston Villa, who have rejected an offer of almost PS40m from Al-Hilal for Ollie Watkins Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -206,7 +179,8 @@ Manchester United's new midfielder? Carlos Baleba's Premier League best bits for
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Manchester United's new midfielder? Carlos Baleba's Premier League best bits for Brighton!. https://www.skysports.com/watch/video/13574661/manchester-uniteds-new-midfielder-carlos-balebas-premier-league-best-bits-for-brighton
+- theguardian.com — Arsenal agree PS51m deal to sign Ezri Konsa from Aston Villa. https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins
+- skysports.com — Ezri Konsa transfer news: Arsenal agree deal with Aston Villa to sign England defender. https://www.skysports.com/football/news/12040/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -215,10 +189,58 @@ Manchester United's new midfielder? Carlos Baleba's Premier League best bits for
 
 ---
 
-## Story 9: Premier League 2026-27 preview No 16: Manchester United
+## Story 8: Man Utd's pursuit of Brighton's Carlos Baleba as a 'third midfielder'
+**Slug (lower-third):** Man Utd's pursuit of Brighton's Carlos Baleba as a 'third…  
+**When:** 2026-08-19 09:35 (America/Winnipeg)  •  **Published:** 2026-08-19 14:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man Utd's pursuit of Brighton's Carlos Baleba as a 'third midfielder'. Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Man Utd's pursuit of Brighton's Carlos Baleba as a 'third midfielder'. https://www.bbc.co.uk/sport/football/articles/clylk1wexgno?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martinez
+**Slug (lower-third):** Not just big in Japan: Zion Suzuki has what it takes to f…  
+**When:** 2026-08-19 09:23 (America/Winnipeg)  •  **Published:** 2026-08-19 14:23 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martinez. He is replacing a World Cup winner and is his country's first Premier League keeper, but Villa's new signing has already dealt with harder challenges Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martinez. https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Premier League 2026-27 preview No 16: Manchester United
 **Slug (lower-third):** Premier League 2026-27 preview No 16: Manchester United  
 **When:** 2026-08-19 06:00 (America/Winnipeg)  •  **Published:** 2026-08-19 11:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League 2026-27 preview No 16: Manchester United. Bruno Fernandes and Youri Tielemans will be key to Michael Carrick's chances of success over a full season and of healing the rift between club and fans Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -231,30 +253,6 @@ Premier League 2026-27 preview No 16: Manchester United. Bruno Fernandes and You
 
 ### Sources
 - theguardian.com — Premier League 2026-27 preview No 16: Manchester United. https://www.theguardian.com/football/2026/aug/19/premier-league-2026-27-preview-no-16-manchester-united
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Aston Villa expect another bid from Al Hilal for Ollie Watkins
-**Slug (lower-third):** Aston Villa expect another bid from Al Hilal for Ollie Wa…  
-**When:** 2026-08-19 05:57 (America/Winnipeg)  •  **Published:** 2026-08-19 10:57 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Aston Villa expect another bid from Al Hilal for Ollie Watkins. Aston Villa have rejected an offer of almost PS40m from Al Hilal for striker Ollie Watkins Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Aston Villa expect another bid from Al Hilal for Ollie Watkins. https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
