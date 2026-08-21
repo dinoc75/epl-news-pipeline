@@ -1,28 +1,78 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-20 13:40 (America/Winnipeg)  |  2026-08-20 18:40 (UTC)
+**Generated:** 2026-08-20 20:21 (America/Winnipeg)  |  2026-08-21 01:21 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~4m 37s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Oliver Glasner has a plan for Premier League stability and success at Nottingham Forest - but it comes with a warning
-- Manchester United news: Michael Carrick dismisses easy Premier League start talk
-- Why are Arsenal signing Konsa and how strong could the Gunners be?
+- Premier League predictions & Jones Knows' best bets: Champions again, ole, ole? Arsenal to make fast start on FNF
+- Premier League 2026-27 preview No 19: Sunderland
+- Premier League: 10 things to look out for as the new season kicks off
+
+---
+
+### Transfers
+
+## Story 1: Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk
+**Slug (lower-third):** Arsenal transfer news: Gabriel Jesus of interest to Evert…  
+**When:** 2026-08-20 17:20 (America/Winnipeg)  •  **Published:** 2026-08-20 22:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
+
+### Presenter Script (3–5 sentences)
+Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk. Latest transfer news and headlines with Arsenal reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi; Adam Wharton is set to stay at Crystal Palace this season amid interest from Man City; Rangers have held talks with Besiktas over a move for Vaclav Cerny Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk. https://www.skysports.com/football/news/12040/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Chelsea news: Joao Pedro agrees new contract to 2034
+**Slug (lower-third):** Chelsea news: Joao Pedro agrees new contract to 2034  
+**When:** 2026-08-20 14:06 (America/Winnipeg)  •  **Published:** 2026-08-20 19:06 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea news: Joao Pedro agrees new contract to 2034. Chelsea are set to renew striker Joao Pedro's contract until 2034 before the start of the Premier League season. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Chelsea news: Joao Pedro agrees new contract to 2034. https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Club Updates
 
-## Story 1: Oliver Glasner has a plan for Premier League stability and success at Nottingham Forest - but it comes with a warning
-**Slug (lower-third):** Oliver Glasner has a plan for Premier League stability an…  
-**When:** 2026-08-20 13:00 (America/Winnipeg)  •  **Published:** 2026-08-20 18:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+## Story 3: Premier League predictions & Jones Knows' best bets: Champions again, ole, ole? Arsenal to make fast start on FNF
+**Slug (lower-third):** Premier League predictions & Jones Knows' best bets: Cham…  
+**When:** 2026-08-20 18:25 (America/Winnipeg)  •  **Published:** 2026-08-20 23:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Oliver Glasner has a plan for Premier League stability and success at Nottingham Forest - but it comes with a warning. Oliver Glasner is embarking on his first season as Nottingham Forest boss after steering Crystal Palace to a European trophy last season; Evangelos Marinakis wants success to be replicated at Forest - but can Glasner strike again?; Forests season kicks off against Leeds on Saturday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League predictions & Jones Knows' best bets: Champions again, ole, ole? Arsenal to make fast start on FNF. Our football betting expert Lewis Jones, aka Jones Knows, is back ahead of the new season; watch six matches live on Sky Sports from the opening round this weekend, starting with Arsenal vs Coventry on Friday from 6.30pm (kick-off 8pm) | Play Super 6 to win PS1m! Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +81,7 @@ Oliver Glasner has a plan for Premier League stability and success at Nottingham
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Oliver Glasner has a plan for Premier League stability and success at Nottingham Forest - but it comes with a warning. https://www.skysports.com/football/news/12040/13574953/oliver-glasner-has-a-plan-for-premier-league-stability-and-success-at-nottingham-forest-but-it-comes-with-a-warning
+- skysports.com — Premier League predictions & Jones Knows' best bets: Champions again, ole, ole? Arsenal to make fast start on FNF. https://www.skysports.com/football/news/12040/13575143/premier-league-predictions-jones-knows-best-bets-champions-again-ole-ole-arsenal-to-make-fast-start-on-fnf
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +90,13 @@ Oliver Glasner has a plan for Premier League stability and success at Nottingham
 
 ---
 
-## Story 2: Manchester United news: Michael Carrick dismisses easy Premier League start talk
-**Slug (lower-third):** Manchester United news: Michael Carrick dismisses easy Pr…  
-**When:** 2026-08-20 12:54 (America/Winnipeg)  •  **Published:** 2026-08-20 17:54 (UTC)  
+## Story 4: Premier League 2026-27 preview No 19: Sunderland
+**Slug (lower-third):** Premier League 2026-27 preview No 19: Sunderland  
+**When:** 2026-08-20 18:01 (America/Winnipeg)  •  **Published:** 2026-08-20 23:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United news: Michael Carrick dismisses easy Premier League start talk. The first 10 days of the new Premier League season could tell us a lot about what lies ahead for Manchester United. Relevance to standings and momentum.
+Premier League 2026-27 preview No 19: Sunderland. Sunderland fans hope Regis Le Bris and his talented squad can continue to surprise the pundits and Opta Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +105,7 @@ Manchester United news: Michael Carrick dismisses easy Premier League start talk
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Manchester United news: Michael Carrick dismisses easy Premier League start talk. https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League 2026-27 preview No 19: Sunderland. https://www.theguardian.com/football/2026/aug/21/premier-league-2026-27-preview-no-19-sunderland
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +114,13 @@ Manchester United news: Michael Carrick dismisses easy Premier League start talk
 
 ---
 
-## Story 3: Why are Arsenal signing Konsa and how strong could the Gunners be?
-**Slug (lower-third):** Why are Arsenal signing Konsa and how strong could the Gu…  
-**When:** 2026-08-20 12:48 (America/Winnipeg)  •  **Published:** 2026-08-20 17:48 (UTC)  
+## Story 5: Premier League: 10 things to look out for as the new season kicks off
+**Slug (lower-third):** Premier League: 10 things to look out for as the new seas…  
+**When:** 2026-08-20 18:01 (America/Winnipeg)  •  **Published:** 2026-08-20 23:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Why are Arsenal signing Konsa and how strong could the Gunners be?. Arsenal have already spent more than APS100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: 10 things to look out for as the new season kicks off. Manchester United's new-look midfield, Ipswich's ambition is tested and Kevin Keegan tributes at Newcastle Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +129,7 @@ Why are Arsenal signing Konsa and how strong could the Gunners be?. Arsenal have
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Why are Arsenal signing Konsa and how strong could the Gunners be?. https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League: 10 things to look out for as the new season kicks off. https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -88,13 +138,13 @@ Why are Arsenal signing Konsa and how strong could the Gunners be?. Arsenal have
 
 ---
 
-## Story 4: Sky Sports | Snooker News
-**Slug (lower-third):** Sky Sports | Snooker News  
-**When:** 2026-08-20 12:48 (America/Winnipeg)  •  **Published:** 2026-08-20 17:48 (UTC)  
+## Story 6: European playoffs: Rangers scrape first-leg win as Brighton draw in Norway
+**Slug (lower-third):** European playoffs: Rangers scrape first-leg win as Bright…  
+**When:** 2026-08-20 17:54 (America/Winnipeg)  •  **Published:** 2026-08-20 22:54 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sky Sports | Snooker News. Get the latest Snooker news with Sky Sports. We cover all the major tournaments including Premier League. Relevance to standings and momentum.
+European playoffs: Rangers scrape first-leg win as Brighton draw in Norway. Ryan Naderi gave Rangers a 1-0 Conference League playoff first leg win against Jablonec, while Brighton drew 0-0 at Tromso Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -103,7 +153,7 @@ Sky Sports | Snooker News. Get the latest Snooker news with Sky Sports. We cover
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sky Sports | Snooker News. https://www.skysports.com/more-sports/snooker
+- theguardian.com — European playoffs: Rangers scrape first-leg win as Brighton draw in Norway. https://www.theguardian.com/football/2026/aug/20/european-playoffs-rangers-scrape-first-leg-win-as-brighton-draw-in-norway
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -112,13 +162,13 @@ Sky Sports | Snooker News. Get the latest Snooker news with Sky Sports. We cover
 
 ---
 
-## Story 5: Sky Sports writers give their Premier League predictions ahead of new season
-**Slug (lower-third):** Sky Sports writers give their Premier League predictions …  
-**When:** 2026-08-20 12:09 (America/Winnipeg)  •  **Published:** 2026-08-20 17:09 (UTC)  
+## Story 7: Acun Ilicali: Hull owner hits out at pundits over 'laughable' criticism
+**Slug (lower-third):** Acun Ilicali: Hull owner hits out at pundits over 'laugha…  
+**When:** 2026-08-20 16:22 (America/Winnipeg)  •  **Published:** 2026-08-20 21:22 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sky Sports writers give their Premier League predictions ahead of new season. Sky Sports writers have given their Premier League predictions ahead of the new season, including their hot take and one to watch! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Acun Ilicali: Hull owner hits out at pundits over 'laughable' criticism. Hull City owner Acun Ilicali criticises pundits Joe Cole and Carlton Cole after they mock his side's chances of Premier League survival on a podcast. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -127,7 +177,7 @@ Sky Sports writers give their Premier League predictions ahead of new season. Sk
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sky Sports writers give their Premier League predictions ahead of new season. https://www.skysports.com/watch/video/13575127/sky-sports-writers-give-their-premier-league-predictions-ahead-of-new-season
+- bbc.co.uk — Acun Ilicali: Hull owner hits out at pundits over 'laughable' criticism. https://www.bbc.co.uk/sport/football/articles/c39eg04p08eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -136,13 +186,13 @@ Sky Sports writers give their Premier League predictions ahead of new season. Sk
 
 ---
 
-## Story 6: Yankuba Minteh: Liverpool have APS50m bid rejected for Brighton winger
-**Slug (lower-third):** Yankuba Minteh: Liverpool have APS50m bid rejected for Br…  
-**When:** 2026-08-20 12:06 (America/Winnipeg)  •  **Published:** 2026-08-20 17:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Tromso 0-0 Brighton: Seagulls held to goalless draw in first leg of Conference League play-off
+**Slug (lower-third):** Tromso 0-0 Brighton: Seagulls held to goalless draw in fi…  
+**When:** 2026-08-20 15:00 (America/Winnipeg)  •  **Published:** 2026-08-20 20:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Yankuba Minteh: Liverpool have APS50m bid rejected for Brighton winger. Liverpool have a APS50m bid rejected by Brighton for their winger Yankuba Minteh. Relevance to standings and momentum.
+Tromso 0-0 Brighton: Seagulls held to goalless draw in first leg of Conference League play-off. Brighton were forced to settle for a goalless draw against a stubborn Tromso side in the first leg of their Conference League play-off. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -151,7 +201,7 @@ Yankuba Minteh: Liverpool have APS50m bid rejected for Brighton winger. Liverpoo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Yankuba Minteh: Liverpool have APS50m bid rejected for Brighton winger. https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss
+- skysports.com — Tromso 0-0 Brighton: Seagulls held to goalless draw in first leg of Conference League play-off. https://www.skysports.com/football/tromso-vs-brighton-and-hove-albion/report/577284
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -160,10 +210,34 @@ Yankuba Minteh: Liverpool have APS50m bid rejected for Brighton winger. Liverpoo
 
 ---
 
-## Story 7: Michael Carrick rejects 'ridiculous' talk of easy start to Manchester United season
+## Story 9: Taylor Harwood-Bellis: Aston Villa APS18m bid rejected by Southampton
+**Slug (lower-third):** Taylor Harwood-Bellis: Aston Villa APS18m bid rejected by…  
+**When:** 2026-08-20 14:14 (America/Winnipeg)  •  **Published:** 2026-08-20 19:14 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Taylor Harwood-Bellis: Aston Villa APS18m bid rejected by Southampton. Aston Villa have bid worth around APS18m plus add-ons rejected by Southampton for defender Taylor Harwood-Bellis. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Taylor Harwood-Bellis: Aston Villa APS18m bid rejected by Southampton. https://www.bbc.co.uk/sport/football/articles/cx27w8kv9lvo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Michael Carrick rejects 'ridiculous' talk of easy start to Manchester United season
 **Slug (lower-third):** Michael Carrick rejects 'ridiculous' talk of easy start t…  
 **When:** 2026-08-20 12:00 (America/Winnipeg)  •  **Published:** 2026-08-20 17:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 92  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Michael Carrick rejects 'ridiculous' talk of easy start to Manchester United season. Michael Carrick has dismissed suggestions that facing promoted Hull and Ipswich constituted a favourable start to the season for Manchester United Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -176,78 +250,6 @@ Michael Carrick rejects 'ridiculous' talk of easy start to Manchester United sea
 
 ### Sources
 - theguardian.com — Michael Carrick rejects 'ridiculous' talk of easy start to Manchester United season. https://www.theguardian.com/football/2026/aug/20/michael-carrick-rejects-talk-of-easy-start-to-season-for-manchester-united
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Liverpool see PS50m bid for Yankuba Minteh rejected by Brighton
-**Slug (lower-third):** Liverpool see PS50m bid for Yankuba Minteh rejected by Br…  
-**When:** 2026-08-20 11:59 (America/Winnipeg)  •  **Published:** 2026-08-20 16:59 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool see PS50m bid for Yankuba Minteh rejected by Brighton. Liverpool have had a PS50m bid for winger Yankuba Minteh rejected by Brighton, and are continuing their pursuit of PSG's Bradley Barcola Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Liverpool see PS50m bid for Yankuba Minteh rejected by Brighton. https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Aston Martin: Crystal Palace and New York Jets owner Woody Johnson buys stake in British Formula 1 team
-**Slug (lower-third):** Aston Martin: Crystal Palace and New York Jets owner Wood…  
-**When:** 2026-08-20 11:50 (America/Winnipeg)  •  **Published:** 2026-08-20 16:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Aston Martin: Crystal Palace and New York Jets owner Woody Johnson buys stake in British Formula 1 team. Crystal Palace and New York Jets owner Woody Johnson has acquired a stake in the Aston Martin Formula 1 team; watch Dutch Grand Prix practice live on Sky Sports F1 at 11.30am on Friday, with Sprint Qualifying following at 3.30pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Aston Martin: Crystal Palace and New York Jets owner Woody Johnson buys stake in British Formula 1 team. https://www.skysports.com/f1/news/12040/13575106/aston-martin-crystal-palace-and-new-york-jets-owner-woody-johnson-buys-stake-in-british-formula-1-team
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Terry Dyson, only Spurs player to score north London derby hat-trick, dies at 91
-**Slug (lower-third):** Terry Dyson, only Spurs player to score north London derb…  
-**When:** 2026-08-20 11:28 (America/Winnipeg)  •  **Published:** 2026-08-20 16:28 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Terry Dyson, only Spurs player to score north London derby hat-trick, dies at 91. Terry Dyson, who helped Spurs win the Double in 1961, has died at the age of 91 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Terry Dyson, only Spurs player to score north London derby hat-trick, dies at 91. https://www.theguardian.com/football/2026/aug/20/terry-dyson-tottenham-dies-aged-91
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
