@@ -1,28 +1,54 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-21 13:37 (America/Winnipeg)  |  2026-08-21 18:37 (UTC)
+**Generated:** 2026-08-21 20:16 (America/Winnipeg)  |  2026-08-22 01:16 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 40s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Curtis Jones transfer news: Inter Milan sign midfielder from Liverpool in PS30m deal with sell-on clause included
-- Yankuba Minteh transfer news: Brighton reject Liverpool bid of PS60m for winger
-- Mohamed Salah: The inside story of Trabzonspor's move for ex-Liverpool star
+- Arsenal transfer news: Atletico Madrid finally shift Julian Alvarez position and now willing to sell striker to the Gunners - Paper Talk
+- Coventry City: Premier League return was about more than result
+- Jamie Carragher believes Liverpool's starting eleven is better than Man Utd's going into the 2026/27 PL season
+
+---
+
+### Managerial Moves
+
+## Story 1: De Zerbi defends Spurs transfer spree and claims every club 'wanted to kill us'
+**Slug (lower-third):** De Zerbi defends Spurs transfer spree and claims every cl…  
+**When:** 2026-08-21 16:30 (America/Winnipeg)  •  **Published:** 2026-08-21 21:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+De Zerbi defends Spurs transfer spree and claims every club 'wanted to kill us'. The Spurs head coach said as Spurs' transfer outlay is expected to pass PS300m: 'I don't know why the people don't love if Tottenham becomes better' Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — De Zerbi defends Spurs transfer spree and claims every club 'wanted to kill us'. https://www.theguardian.com/football/2026/aug/21/roberto-de-zerbi-tottenham-transfer-spree-brentford-premier-league
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Transfers
 
-## Story 1: Curtis Jones transfer news: Inter Milan sign midfielder from Liverpool in PS30m deal with sell-on clause included
-**Slug (lower-third):** Curtis Jones transfer news: Inter Milan sign midfielder f…  
-**When:** 2026-08-21 14:30 (America/Winnipeg)  •  **Published:** 2026-08-21 19:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
+## Story 2: Arsenal transfer news: Atletico Madrid finally shift Julian Alvarez position and now willing to sell striker to the Gunners - Paper Talk
+**Slug (lower-third):** Arsenal transfer news: Atletico Madrid finally shift Juli…  
+**When:** 2026-08-21 18:30 (America/Winnipeg)  •  **Published:** 2026-08-21 23:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
 
 ### Presenter Script (3–5 sentences)
-Curtis Jones transfer news: Inter Milan sign midfielder from Liverpool in PS30m deal with sell-on clause included. Curtis Jones had been at Liverpool since the age of nine, playing 228 times and scoring 22 goals; the 25-year-old is the third England international to move to Inter in this transfer window, after John Stones and Djed Spence Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Arsenal transfer news: Atletico Madrid finally shift Julian Alvarez position and now willing to sell striker to the Gunners - Paper Talk. Latest transfer news and headlines with Brighton rejecting a second Liverpool bid for Yankuba Minteh as they demand PS70m for the winger; Manchester United work hard to get signings over the line; Rangers could turn to Lens striker Rayan Fofana to replace crocked star Youssef Chermiti Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +57,7 @@ Curtis Jones transfer news: Inter Milan sign midfielder from Liverpool in PS30m 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Curtis Jones transfer news: Inter Milan sign midfielder from Liverpool in PS30m deal with sell-on clause included. https://www.skysports.com/football/news/12040/13575215/curtis-jones-transfer-news-inter-milan-sign-midfielder-from-liverpool-in-30m-deal-with-sell-on-clause-included
+- skysports.com — Arsenal transfer news: Atletico Madrid finally shift Julian Alvarez position and now willing to sell striker to the Gunners - Paper Talk. https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +66,13 @@ Curtis Jones transfer news: Inter Milan sign midfielder from Liverpool in PS30m 
 
 ---
 
-## Story 2: Mohamed Salah: The inside story of Trabzonspor's move for ex-Liverpool star
-**Slug (lower-third):** Mohamed Salah: The inside story of Trabzonspor's move for…  
-**When:** 2026-08-21 12:44 (America/Winnipeg)  •  **Published:** 2026-08-21 17:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 3: Jamie Carragher believes Liverpool's starting eleven is better than Man Utd's going into the 2026/27 PL season
+**Slug (lower-third):** Jamie Carragher believes Liverpool's starting eleven is b…  
+**When:** 2026-08-21 18:01 (America/Winnipeg)  •  **Published:** 2026-08-21 23:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Mohamed Salah: The inside story of Trabzonspor's move for ex-Liverpool star. Mohamed Salah was expected to move to Saudi Arabia or the United States after leaving Liverpool, but Turkish side Trabzonspor pulled off one of the coups of the transfer window. Implications for the squad and table.
+Jamie Carragher believes Liverpool's starting eleven is better than Man Utd's going into the 2026/27 PL season. Jamie Carragher believes Liverpool boast a stronger starting eleven than Manchester United heading into the 2026/27 Premier League season, but says the Reds still need to add depth and quality before the transfer window closes. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +81,7 @@ Mohamed Salah: The inside story of Trabzonspor's move for ex-Liverpool star. Moh
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Mohamed Salah: The inside story of Trabzonspor's move for ex-Liverpool star. https://www.bbc.co.uk/sport/football/videos/cx2reg4knn5o?at_medium=RSS&at_campaign=rss
+- skysports.com — Jamie Carragher believes Liverpool's starting eleven is better than Man Utd's going into the 2026/27 PL season. https://www.skysports.com/watch/video/13575664/jamie-carragher-believes-liverpools-starting-eleven-is-better-than-man-utds-going-into-the-2026-27-pl-season
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +90,13 @@ Mohamed Salah: The inside story of Trabzonspor's move for ex-Liverpool star. Moh
 
 ---
 
-## Story 3: Liverpool transfer news: APS60m Yankuba Minteh bid rejected by Brighton
-**Slug (lower-third):** Liverpool transfer news: APS60m Yankuba Minteh bid reject…  
-**When:** 2026-08-21 12:26 (America/Winnipeg)  •  **Published:** 2026-08-21 17:26 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Carlos Baleba transfer news: Manchester United and Brighton agree PS70m deal for midfielder
+**Slug (lower-third):** Carlos Baleba transfer news: Manchester United and Bright…  
+**When:** 2026-08-21 15:38 (America/Winnipeg)  •  **Published:** 2026-08-21 20:38 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Liverpool transfer news: APS60m Yankuba Minteh bid rejected by Brighton. Liverpool have an improved bid of APS60m for winger Yankuba Minteh rejected by Brighton but talks between the clubs continue. Implications for the squad and table.
+Carlos Baleba transfer news: Manchester United and Brighton agree PS70m deal for midfielder. Carlos Baleba will become Man Utds third midfield signing of the summer following Andrey Santos and Youri Tielemans; United open their Premier League campaign with an away game against Hull City on Saturday lunchtime Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,31 +105,7 @@ Liverpool transfer news: APS60m Yankuba Minteh bid rejected by Brighton. Liverpo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Liverpool transfer news: APS60m Yankuba Minteh bid rejected by Brighton. https://www.bbc.co.uk/sport/football/articles/ce97ky3vkx4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Arsenal transfer news: England defender Ezri Konsa leaves Aston Villa in APS55m deal
-**Slug (lower-third):** Arsenal transfer news: England defender Ezri Konsa leaves…  
-**When:** 2026-08-21 10:20 (America/Winnipeg)  •  **Published:** 2026-08-21 15:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal transfer news: England defender Ezri Konsa leaves Aston Villa in APS55m deal. Arsenal complete the APS55m signing of England defender Ezri Konsa from Aston Villa. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Arsenal transfer news: England defender Ezri Konsa leaves Aston Villa in APS55m deal. https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss
+- skysports.com — Carlos Baleba transfer news: Manchester United and Brighton agree PS70m deal for midfielder. https://www.skysports.com/football/news/12040/13575603/carlos-baleba-transfer-news-manchester-united-and-brighton-agree-70m-deal-for-midfielder
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,7 +117,7 @@ Arsenal transfer news: England defender Ezri Konsa leaves Aston Villa in APS55m 
 ## Story 5: Aston Villa: Ollie Watkins could leave Villa before transfer deadline
 **Slug (lower-third):** Aston Villa: Ollie Watkins could leave Villa before trans…  
 **When:** 2026-08-21 08:47 (America/Winnipeg)  •  **Published:** 2026-08-21 13:47 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Aston Villa: Ollie Watkins could leave Villa before transfer deadline. Aston Villa boss Unai Emery says striker Ollie Watkins could follow several star players out of the door this summer. Implications for the squad and table.
@@ -138,13 +140,13 @@ Aston Villa: Ollie Watkins could leave Villa before transfer deadline. Aston Vil
 
 ### Injuries
 
-## Story 6: Yankuba Minteh transfer news: Brighton reject Liverpool bid of PS60m for winger
-**Slug (lower-third):** Yankuba Minteh transfer news: Brighton reject Liverpool b…  
-**When:** 2026-08-21 13:24 (America/Winnipeg)  •  **Published:** 2026-08-21 18:24 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 6: Coventry City: Premier League return was about more than result
+**Slug (lower-third):** Coventry City: Premier League return was about more than …  
+**When:** 2026-08-21 18:13 (America/Winnipeg)  •  **Published:** 2026-08-21 23:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Yankuba Minteh transfer news: Brighton reject Liverpool bid of PS60m for winger. Brighton have rejected a PS60m bid from Liverpool for Yankuba Minteh after the Reds previously failed with a PS50m bid for the 22-year-old; the proposal did not meet Brightons valuation of the winger, who is expected to be out until October due to injury Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
+Coventry City: Premier League return was about more than result. Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +155,7 @@ Yankuba Minteh transfer news: Brighton reject Liverpool bid of PS60m for winger.
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Yankuba Minteh transfer news: Brighton reject Liverpool bid of PS60m for winger. https://www.skysports.com/football/news/12040/13575558/yankuba-minteh-transfer-news-brighton-reject-liverpool-bid-of-60m-for-winger
+- bbc.co.uk — Coventry City: Premier League return was about more than result. https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -165,7 +167,7 @@ Yankuba Minteh transfer news: Brighton reject Liverpool bid of PS60m for winger.
 ## Story 7: The Premier League returns, F1's Dutch Grand Prix and The Greatest Rivalry - follow with us
 **Slug (lower-third):** The Premier League returns, F1's Dutch Grand Prix and The…  
 **When:** 2026-08-21 11:03 (America/Winnipeg)  •  **Published:** 2026-08-21 16:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 91  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 The Premier League returns, F1's Dutch Grand Prix and The Greatest Rivalry - follow with us. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -188,37 +190,13 @@ The Premier League returns, F1's Dutch Grand Prix and The Greatest Rivalry - fol
 
 ### Club Updates
 
-## Story 8: Why are Shakhtar playing at Chelsea? Stamford Bridge to host exiled Ukrainian side's Champions League home games
-**Slug (lower-third):** Why are Shakhtar playing at Chelsea? Stamford Bridge to h…  
-**When:** 2026-08-21 11:30 (America/Winnipeg)  •  **Published:** 2026-08-21 16:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Why are Shakhtar playing at Chelsea? Stamford Bridge to host exiled Ukrainian side's Champions League home games. Shakhtar Donetsk to play Champions League home campaign at Chelseas Stamford Bridge for 2026/27 season; Ukrainian champions will play at least four matches in west London where large Ukrainian population is located; Blues able to accommodate Shakhtar after missing out on Europe themselves Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Why are Shakhtar playing at Chelsea? Stamford Bridge to host exiled Ukrainian side's Champions League home games. https://www.skysports.com/football/news/12040/13575487/why-are-shakhtar-playing-at-chelsea-stamford-bridge-to-host-exiled-ukrainian-sides-champions-league-home-games
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Champions League: Shakhtar agree to play Champions League ties at Chelsea
-**Slug (lower-third):** Champions League: Shakhtar agree to play Champions League…  
-**When:** 2026-08-21 10:40 (America/Winnipeg)  •  **Published:** 2026-08-21 15:40 (UTC)  
+## Story 8: Sky Sports | Snooker News
+**Slug (lower-third):** Sky Sports | Snooker News  
+**When:** 2026-08-21 16:46 (America/Winnipeg)  •  **Published:** 2026-08-21 21:46 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Champions League: Shakhtar agree to play Champions League ties at Chelsea. Ukrainian club Shakhtar Donetsk agree to play Champions League home games at Chelsea's Stamford Bridge this season. Relevance to standings and momentum.
+Sky Sports | Snooker News. Get the latest Snooker news with Sky Sports. We cover all the major tournaments including Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +205,7 @@ Champions League: Shakhtar agree to play Champions League ties at Chelsea. Ukrai
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Champions League: Shakhtar agree to play Champions League ties at Chelsea. https://www.bbc.co.uk/sport/football/articles/cpw9e1dz9kko?at_medium=RSS&at_campaign=rss
+- skysports.com — Sky Sports | Snooker News. https://www.skysports.com/more-sports/snooker
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +214,13 @@ Champions League: Shakhtar agree to play Champions League ties at Chelsea. Ukrai
 
 ---
 
-## Story 10: Premier League 2026-27 preview No 20: Tottenham
-**Slug (lower-third):** Premier League 2026-27 preview No 20: Tottenham  
-**When:** 2026-08-21 06:00 (America/Winnipeg)  •  **Published:** 2026-08-21 11:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 9: Inter Milan complete APS30m deal for Liverpool's Curtis Jones
+**Slug (lower-third):** Inter Milan complete APS30m deal for Liverpool's Curtis J…  
+**When:** 2026-08-21 16:23 (America/Winnipeg)  •  **Published:** 2026-08-21 21:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League 2026-27 preview No 20: Tottenham. Optimism abounds that De Zerbi and new signings can lead to a big improvement after two 17th-place finishes Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Inter Milan complete APS30m deal for Liverpool's Curtis Jones. Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth APS30m. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +229,31 @@ Premier League 2026-27 preview No 20: Tottenham. Optimism abounds that De Zerbi 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League 2026-27 preview No 20: Tottenham. https://www.theguardian.com/football/2026/aug/21/premier-league-2026-27-preview-no-20-tottenham
+- bbc.co.uk — Inter Milan complete APS30m deal for Liverpool's Curtis Jones. https://www.bbc.co.uk/sport/football/articles/czdm9pjd0ero?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Manchester United agree deal for Carlos Baleba to continue midfield rebuild
+**Slug (lower-third):** Manchester United agree deal for Carlos Baleba to continu…  
+**When:** 2026-08-21 16:30 (America/Winnipeg)  •  **Published:** 2026-08-21 21:30 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United agree deal for Carlos Baleba to continue midfield rebuild. Manchester United have agreed a deal worth an initial PS65m for Carlos Baleba and the Brighton midfielder will have his medical this weekend Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Manchester United agree deal for Carlos Baleba to continue midfield rebuild. https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
