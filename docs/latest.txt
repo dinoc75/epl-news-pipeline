@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-24 07:52 (America/Winnipeg)  |  2026-08-24 12:52 (UTC)
+**Generated:** 2026-08-24 13:41 (America/Winnipeg)  |  2026-08-24 18:41 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 38s
+**Estimated total video length:** ~4m 52s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Carabao Cup 2026/27: Watch Nottm Forest vs Leeds, Chelsea vs Luton, Tottenham vs Charlton and more with every game LIVE on Sky Sports
-- Arsenal, Barcelona or Atletico? | Where will Julian Alvarez end up?
-- Football Daily - PL Review: Hull glorious & Spurs dismal - BBC Sounds
+- Gianni Infantino: Uefa president Aleksander Ceferin rules himself out of Fifa presidency bid
+- Jean-Philippe Mateta: What does future hold after Crystal Palace contract claim?
+- Aston Villa: Ollie Watkins transfer saga leaves Villa shellshocked
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Fulham v Chelsea: Rafa Benitez on former players Alonso and Arbeloa as managers
-**Slug (lower-third):** Fulham v Chelsea: Rafa Benitez on former players Alonso a…  
-**When:** 2026-08-24 01:59 (America/Winnipeg)  •  **Published:** 2026-08-24 06:59 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 1: Liverpool are still haunted by the mess of last summer | Jonathan Wilson
+**Slug (lower-third):** Liverpool are still haunted by the mess of last summer | …  
+**When:** 2026-08-24 10:42 (America/Winnipeg)  •  **Published:** 2026-08-24 15:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Fulham v Chelsea: Rafa Benitez on former players Alonso and Arbeloa as managers. Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea. Relevance to standings and momentum.
+Liverpool are still haunted by the mess of last summer | Jonathan Wilson. Sunday's draw with Newcastle shows Andoni Iraola's new ideas as manager will need to overcome the squad's lack of balance Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Fulham v Chelsea: Rafa Benitez on former players Alonso and Arbeloa as managers.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Fulham v Chelsea: Rafa Benitez on former players Alonso and Arbeloa as managers. https://www.bbc.co.uk/sport/football/articles/ckge725zy1zo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Liverpool are still haunted by the mess of last summer | Jonathan Wilson. https://www.theguardian.com/football/2026/aug/24/liverpool-newcastle-united-premier-league-andoni-iraola
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -44,8 +44,8 @@ Fulham v Chelsea: Rafa Benitez on former players Alonso and Arbeloa as managers.
 
 ## Story 2: Jean-Philippe Mateta: What does future hold after Crystal Palace contract claim?
 **Slug (lower-third):** Jean-Philippe Mateta: What does future hold after Crystal…  
-**When:** 2026-08-24 03:06 (America/Winnipeg)  •  **Published:** 2026-08-24 08:06 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+**When:** 2026-08-24 13:19 (America/Winnipeg)  •  **Published:** 2026-08-24 18:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Jean-Philippe Mateta: What does future hold after Crystal Palace contract claim?. Following a dispute over the length of his contract, will Jean-Philippe Mateta stay at Crystal Palace beyond the transfer window? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -66,15 +66,13 @@ Jean-Philippe Mateta: What does future hold after Crystal Palace contract claim?
 
 ---
 
-### Injuries
-
-## Story 3: Today on Sky Sports Racing: Exciting debut winner Camarda Rc returns at Windsor
-**Slug (lower-third):** Today on Sky Sports Racing: Exciting debut winner Camarda…  
-**When:** 2026-08-24 01:00 (America/Winnipeg)  •  **Published:** 2026-08-24 06:00 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 3: Aston Villa: Ollie Watkins transfer saga leaves Villa shellshocked
+**Slug (lower-third):** Aston Villa: Ollie Watkins transfer saga leaves Villa she…  
+**When:** 2026-08-24 11:43 (America/Winnipeg)  •  **Published:** 2026-08-24 16:43 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Today on Sky Sports Racing: Exciting debut winner Camarda Rc returns at Windsor. The Sky Sports Racing cameras head for Brighton and Windsor on Monday, with all races live from 2.30pm; after impressing on debut last time out, Camarda Rc reappears in the feature from the Berkshire track Relevance to standings and momentum.
+Aston Villa: Ollie Watkins transfer saga leaves Villa shellshocked. Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +81,57 @@ Today on Sky Sports Racing: Exciting debut winner Camarda Rc returns at Windsor.
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Today on Sky Sports Racing: Exciting debut winner Camarda Rc returns at Windsor. https://www.skysports.com/racing/news/12040/13576203/today-on-sky-sports-racing-exciting-debut-winner-camarda-rc-returns-at-windsor
+- bbc.co.uk — Aston Villa: Ollie Watkins transfer saga leaves Villa shellshocked. https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Julian Alvarez transfer news: Arsenal, Barcelona or Atletico Madrid stay for striker?
+**Slug (lower-third):** Julian Alvarez transfer news: Arsenal, Barcelona or Atlet…  
+**When:** 2026-08-24 11:07 (America/Winnipeg)  •  **Published:** 2026-08-24 16:07 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Julian Alvarez transfer news: Arsenal, Barcelona or Atletico Madrid stay for striker?. An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Julian Alvarez transfer news: Arsenal, Barcelona or Atletico Madrid stay for striker?. https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 5: Gianni Infantino: Uefa president Aleksander Ceferin rules himself out of Fifa presidency bid
+**Slug (lower-third):** Gianni Infantino: Uefa president Aleksander Ceferin rules…  
+**When:** 2026-08-24 13:30 (America/Winnipeg)  •  **Published:** 2026-08-24 18:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Gianni Infantino: Uefa president Aleksander Ceferin rules himself out of Fifa presidency bid. Uefa president Aleksander Ceferin rules himself out of the running to replace Gianni Infantino, but expects a candidate to challenge the Fifa president's leadership in March. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Gianni Infantino: Uefa president Aleksander Ceferin rules himself out of Fifa presidency bid. https://www.bbc.co.uk/sport/football/articles/cp878rp71v2o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -94,10 +142,106 @@ Today on Sky Sports Racing: Exciting debut winner Camarda Rc returns at Windsor.
 
 ### Club Updates
 
-## Story 4: Carabao Cup 2026/27: Watch Nottm Forest vs Leeds, Chelsea vs Luton, Tottenham vs Charlton and more with every game LIVE on Sky Sports
+## Story 6: Europa League and Conference League group stage draws: British clubs including Bournemouth, Sunderland, Crystal Palace to discover opponents
+**Slug (lower-third):** Europa League and Conference League group stage draws: Br…  
+**When:** 2026-08-24 11:00 (America/Winnipeg)  •  **Published:** 2026-08-24 16:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Europa League and Conference League group stage draws: British clubs including Bournemouth, Sunderland, Crystal Palace to discover opponents. Europa League draw takes place on Friday at 12pm UK time with the Conference League draw to follow; Bournemouth, Sunderland and Crystal Palace feature in the Europa League league phase draw, with a number of British teams set to follow in the Conference League draw Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Europa League and Conference League group stage draws: British clubs including Bournemouth, Sunderland, Crystal Palace to discover opponents. https://www.skysports.com/football/news/12040/13576627/europa-league-and-conference-league-group-stage-draws-british-clubs-including-bournemouth-sunderland-crystal-palace-to-discover-opponents
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Man Utd: Why there shouldn't be panic after Michael Carrick's side suffered Premier League loss at Hull on opening day
+**Slug (lower-third):** Man Utd: Why there shouldn't be panic after Michael Carri…  
+**When:** 2026-08-24 10:28 (America/Winnipeg)  •  **Published:** 2026-08-24 15:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Man Utd: Why there shouldn't be panic after Michael Carrick's side suffered Premier League loss at Hull on opening day. Michael Carrick saw his Manchester United side beaten by promoted Hull City on the opening day of the new Premier League season; Dan Khan tells us why its not time to panic at Old Trafford yet; Man Utd host Ipswich, live on Sky on Sunday; kick off at 4.30pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man Utd: Why there shouldn't be panic after Michael Carrick's side suffered Premier League loss at Hull on opening day. https://www.skysports.com/football/news/12040/13576671/man-utd-why-there-shouldnt-be-panic-after-michael-carricks-side-suffered-premier-league-loss-at-hull-on-opening-day
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Brydon Carse to miss England's second Test vs Pakistan as Cricket Regulator conducts investigation into nightclub incident
+**Slug (lower-third):** Brydon Carse to miss England's second Test vs Pakistan as…  
+**When:** 2026-08-24 10:10 (America/Winnipeg)  •  **Published:** 2026-08-24 15:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Brydon Carse to miss England's second Test vs Pakistan as Cricket Regulator conducts investigation into nightclub incident. Video footage emerged of handcuffed Carse being led away by police on Saturday night; fast bowler had been out celebrating victory for Durham in County Championship after being released by England to play in game; Sonny Baker replaces Carse in squad for Lord's Test from Thursday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Brydon Carse to miss England's second Test vs Pakistan as Cricket Regulator conducts investigation into nightclub incident. https://www.skysports.com/cricket/news/12040/13576549/brydon-carse-to-miss-englands-second-test-vs-pakistan-as-cricket-regulator-conducts-investigation-into-nightclub-incident
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Harvey Elliott: Does Liverpool midfielder have an Anfield future after Newcastle omission?
+**Slug (lower-third):** Harvey Elliott: Does Liverpool midfielder have an Anfield…  
+**When:** 2026-08-24 09:23 (America/Winnipeg)  •  **Published:** 2026-08-24 14:23 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Harvey Elliott: Does Liverpool midfielder have an Anfield future after Newcastle omission?. Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Harvey Elliott: Does Liverpool midfielder have an Anfield future after Newcastle omission?. https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Carabao Cup 2026/27: Watch Nottm Forest vs Leeds, Chelsea vs Luton, Tottenham vs Charlton and more with every game LIVE on Sky Sports
 **Slug (lower-third):** Carabao Cup 2026/27: Watch Nottm Forest vs Leeds, Chelsea…  
 **When:** 2026-08-24 08:25 (America/Winnipeg)  •  **Published:** 2026-08-24 13:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+**Virality score:** 98  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
 Carabao Cup 2026/27: Watch Nottm Forest vs Leeds, Chelsea vs Luton, Tottenham vs Charlton and more with every game LIVE on Sky Sports. The Carabao Cup is back for the 2026/27 season, with every second-round tie live on Sky Sports; watch Nottingham Forest vs Leeds, Chelsea vs Luton, Tottenham vs Charlton, Fulham vs AFC Wimbledon, Newcastle vs West Brom, Preston vs Everton and more Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -110,150 +254,6 @@ Carabao Cup 2026/27: Watch Nottm Forest vs Leeds, Chelsea vs Luton, Tottenham vs
 
 ### Sources
 - skysports.com — Carabao Cup 2026/27: Watch Nottm Forest vs Leeds, Chelsea vs Luton, Tottenham vs Charlton and more with every game LIVE on Sky Sports. https://www.skysports.com/football/news/12040/13576598/carabao-cup-2026-27-watch-nottm-forest-vs-leeds-chelsea-vs-luton-tottenham-vs-charlton-and-more-with-every-game-live-on-sky-sports
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Arsenal, Barcelona or Atletico? | Where will Julian Alvarez end up?
-**Slug (lower-third):** Arsenal, Barcelona or Atletico? | Where will Julian Alvar…  
-**When:** 2026-08-24 08:16 (America/Winnipeg)  •  **Published:** 2026-08-24 13:16 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal, Barcelona or Atletico? | Where will Julian Alvarez end up?. Sky Sports Sam Blitz takes a closer look at the future of striker Julian Alvarez and where he may end up should he leave Atletico Madrid. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Arsenal, Barcelona or Atletico? | Where will Julian Alvarez end up?. https://www.skysports.com/watch/video/13576624/arsenal-or-barcelona-where-will-julian-alvarez-end-up
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Football Daily - PL Review: Hull glorious & Spurs dismal - BBC Sounds
-**Slug (lower-third):** Football Daily - PL Review: Hull glorious & Spurs dismal …  
-**When:** 2026-08-24 03:59 (America/Winnipeg)  •  **Published:** 2026-08-24 08:59 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football Daily - PL Review: Hull glorious & Spurs dismal - BBC Sounds. Rick Edwards, Luke Edwards, Charlie Austin & Dean Holden discuss the opening weekend. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football Daily - PL Review: Hull glorious & Spurs dismal - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0p60w5k?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Paper Talk: Could Alejandro Balde be on his way to Man Utd?
-**Slug (lower-third):** Paper Talk: Could Alejandro Balde be on his way to Man Ut…  
-**When:** 2026-08-24 03:14 (America/Winnipeg)  •  **Published:** 2026-08-24 08:14 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Paper Talk: Could Alejandro Balde be on his way to Man Utd?. Sky Sports News takes you through the back pages of the morning papers, including possible ins and outs at Manchester United. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Paper Talk: Could Alejandro Balde be on his way to Man Utd?. https://www.skysports.com/watch/video/13576530/paper-talk-could-alejandro-balde-be-on-his-way-to-man-utd
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Julian Alvarez: Does Atletico Madrid fans booing their own striker increase his chances of an Arsenal or Barcelona move?
-**Slug (lower-third):** Julian Alvarez: Does Atletico Madrid fans booing their ow…  
-**When:** 2026-08-24 02:25 (America/Winnipeg)  •  **Published:** 2026-08-24 07:25 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~29s
-
-### Presenter Script (3–5 sentences)
-Julian Alvarez: Does Atletico Madrid fans booing their own striker increase his chances of an Arsenal or Barcelona move?. Julian Alvarez was booed by his own Atletico Madrid supporters during Sundays draw with Villarreal; Arsenal and Barcelona are both interested in the Argentine - who wants to leave Atleti to join the Catalan club; does Alvarez being booed increase his chances of joining Arsenal instead? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Julian Alvarez: Does Atletico Madrid fans booing their own striker increase his chances of an Arsenal or Barcelona move?. https://www.skysports.com/football/news/12040/13576511/julian-alvarez-does-atletico-madrid-fans-booing-their-own-striker-increase-his-chances-of-an-arsenal-or-barcelona-move
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League: 10 talking points from opening weekend of the season
-**Slug (lower-third):** Premier League: 10 talking points from opening weekend of…  
-**When:** 2026-08-24 02:00 (America/Winnipeg)  •  **Published:** 2026-08-24 07:00 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: 10 talking points from opening weekend of the season. Manchester United's under-powered attack, Brentford's PS39m bargain and Dewsbury-Hall delivers for Everton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League: 10 talking points from opening weekend of the season. https://www.theguardian.com/football/2026/aug/24/premier-league-10-talking-points-from-opening-weekend-action
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Quiz: Do you know these footballers from their haircuts?
-**Slug (lower-third):** Quiz: Do you know these footballers from their haircuts?  
-**When:** 2026-08-24 00:50 (America/Winnipeg)  •  **Published:** 2026-08-24 05:50 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Quiz: Do you know these footballers from their haircuts?. Erling Haaland shaved off his flowing blond locks before the new Premier League season - but do you recognise these other footballers from their haircuts? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Quiz: Do you know these footballers from their haircuts?. https://www.bbc.co.uk/sport/football/articles/cwyeye08929o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
