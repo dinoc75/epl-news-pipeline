@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-23 13:31 (America/Winnipeg)  |  2026-08-23 18:31 (UTC)
+**Generated:** 2026-08-23 20:21 (America/Winnipeg)  |  2026-08-24 01:21 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 33s
+**Estimated total video length:** ~4m 49s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Newcastle 2-2 Liverpool | Premier League highlights
-- Newcastle 2-2 Liverpool: Dominik Szoboszlai snatches last-minute leveller from penalty spot to rescue Andoni Iraola
-- Ollie Watkins' absence at Brighton a question for him - Unai Emery
+- Match of the Day: Hull City's Dean Holden on the club's Premier League chances and Manchester United victory
+- Hull City 2-0 Manchester United: Assistant Dean Holden on back five tactic
+- Match of the Day: Joe Hart praises Marc Guehi's midfield performance for Manchester City
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Newcastle 2-2 Liverpool: Dominik Szoboszlai snatches last-minute leveller from penalty spot to rescue Andoni Iraola
-**Slug (lower-third):** Newcastle 2-2 Liverpool: Dominik Szoboszlai snatches last…  
-**When:** 2026-08-23 13:15 (America/Winnipeg)  •  **Published:** 2026-08-23 18:15 (UTC)  
+## Story 1: Match of the Day: Hull City's Dean Holden on the club's Premier League chances and Manchester United victory
+**Slug (lower-third):** Match of the Day: Hull City's Dean Holden on the club's P…  
+**When:** 2026-08-23 18:37 (America/Winnipeg)  •  **Published:** 2026-08-23 23:37 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle 2-2 Liverpool: Dominik Szoboszlai snatches last-minute leveller from penalty spot to rescue Andoni Iraola. Dominik Szoboszlai's last-gasp penalty earned Andoni Iraola a debut Liverpool point to deny Newcastle victory on Matthias Jaissle's managerial debut in a pulsating 2-2 draw at St James' Park. Relevance to standings and momentum.
+Match of the Day: Hull City's Dean Holden on the club's Premier League chances and Manchester United victory. Following their huge win against Manchester United, Hull City assistant head coach Dean Holden joins Gabby Logan, Danny Murphy and Joe Hart in the Match of the Day studio. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Newcastle 2-2 Liverpool: Dominik Szoboszlai snatches last-minute leveller from p
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Newcastle 2-2 Liverpool: Dominik Szoboszlai snatches last-minute leveller from penalty spot to rescue Andoni Iraola. https://www.skysports.com/football/newcastle-united-vs-liverpool/report/559452
+- bbc.co.uk — Match of the Day: Hull City's Dean Holden on the club's Premier League chances and Manchester United victory. https://www.bbc.co.uk/sport/football/videos/c0kmk6rd30no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Newcastle 2-2 Liverpool: Dominik Szoboszlai snatches last-minute leveller from p
 
 ---
 
-## Story 2: Premier League: Enzo Maresca post-match interview - Manchester City 2-1 Bournemouth
-**Slug (lower-third):** Premier League: Enzo Maresca post-match interview - Manch…  
-**When:** 2026-08-23 10:52 (America/Winnipeg)  •  **Published:** 2026-08-23 15:52 (UTC)  
+## Story 2: Hull City 2-0 Manchester United: Assistant Dean Holden on back five tactic
+**Slug (lower-third):** Hull City 2-0 Manchester United: Assistant Dean Holden on…  
+**When:** 2026-08-23 18:12 (America/Winnipeg)  •  **Published:** 2026-08-23 23:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: Enzo Maresca post-match interview - Manchester City 2-1 Bournemouth. Enzo Maresca marks his first Premier League game as Manchester City manager with a dramatic late comeback against Bournemouth, making a winning start to the 2026a27 season. Relevance to standings and momentum.
+Hull City 2-0 Manchester United: Assistant Dean Holden on back five tactic. Hull City boss Sergej Jakirovic kept his plan to topple Manchester United on their Premier League return under wraps for weeks, assistant head coach Dean Holden tells Match of the Day. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,31 @@ Premier League: Enzo Maresca post-match interview - Manchester City 2-1 Bournemo
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League: Enzo Maresca post-match interview - Manchester City 2-1 Bournemouth. https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Hull City 2-0 Manchester United: Assistant Dean Holden on back five tactic. https://www.bbc.co.uk/sport/football/articles/ce343r7245no?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Liverpool's Alexander Isak and Florian Wirtz 'biggest disappointments' says Gary Neville after pair underwhelm in draw at Newcastle
+**Slug (lower-third):** Liverpool's Alexander Isak and Florian Wirtz 'biggest dis…  
+**When:** 2026-08-23 16:30 (America/Winnipeg)  •  **Published:** 2026-08-23 21:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Liverpool's Alexander Isak and Florian Wirtz 'biggest disappointments' says Gary Neville after pair underwhelm in draw at Newcastle. Gary Neville labelled Alexander Isak and Florian Wirtz as Liverpools two biggest disappointments in their opening-weekend draw at Newcastle but has faith both can come good in the remainder of the season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Liverpool's Alexander Isak and Florian Wirtz 'biggest disappointments' says Gary Neville after pair underwhelm in draw at Newcastle. https://www.skysports.com/football/news/12040/13576437/liverpools-alexander-isak-and-florian-wirtz-biggest-disappointments-says-gary-neville-after-pair-underwhelm-in-draw-at-newcastle
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +90,13 @@ Premier League: Enzo Maresca post-match interview - Manchester City 2-1 Bournemo
 
 ### Transfers
 
-## Story 3: Arsenal transfer news: Al-Hilal open talks to sign Gabriel Martinelli
-**Slug (lower-third):** Arsenal transfer news: Al-Hilal open talks to sign Gabrie…  
-**When:** 2026-08-23 12:37 (America/Winnipeg)  •  **Published:** 2026-08-23 17:37 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Crystal Palace transfer news: Eagles prepare audacious PS50m bid to lure Jarrod Bowen back to Premier League - Paper Talk
+**Slug (lower-third):** Crystal Palace transfer news: Eagles prepare audacious PS…  
+**When:** 2026-08-23 17:25 (America/Winnipeg)  •  **Published:** 2026-08-23 22:25 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
 
 ### Presenter Script (3–5 sentences)
-Arsenal transfer news: Al-Hilal open talks to sign Gabriel Martinelli. Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli. Implications for the squad and table.
+Crystal Palace transfer news: Eagles prepare audacious PS50m bid to lure Jarrod Bowen back to Premier League - Paper Talk. Latest transfer news and headlines as Al Hilal work on double Premier League raid for Arsenals Gabriel Martinelli & Aston Villas Ollie Watkins; Man Utd target Alejandro Balde left out of Barcelona squad for their LaLiga opener; Couhaib Driouech set to leave PSV after failed Rangers move Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,55 +105,7 @@ Arsenal transfer news: Al-Hilal open talks to sign Gabriel Martinelli. Saudi Ara
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Arsenal transfer news: Al-Hilal open talks to sign Gabriel Martinelli. https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: 'Call his agent': Emery feels Watkins should explain absence from Villa's rout by Brighton
-**Slug (lower-third):** 'Call his agent': Emery feels Watkins should explain abse…  
-**When:** 2026-08-23 12:04 (America/Winnipeg)  •  **Published:** 2026-08-23 17:04 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-'Call his agent': Emery feels Watkins should explain absence from Villa's rout by Brighton. With Ollie Watkins considering a move to Al-Hilal and not in the squad in Sunday's heavy defeat at Brighton, Unai Emery said: 'This question is for him' Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — 'Call his agent': Emery feels Watkins should explain absence from Villa's rout by Brighton. https://www.theguardian.com/football/2026/aug/23/unai-emery-feels-ollie-watkins-should-explain-absence-from-aston-villa-loss-brighton
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Shaun Norris hit with two-shot penalty to blow winning chances at Nexo Championship
-**Slug (lower-third):** Shaun Norris hit with two-shot penalty to blow winning ch…  
-**When:** 2026-08-23 11:48 (America/Winnipeg)  •  **Published:** 2026-08-23 16:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Shaun Norris hit with two-shot penalty to blow winning chances at Nexo Championship. Shaun Norris was hit with a two-shot penalty, for kicking a replaced divot from under his feet on the fifth hole of his final round at the Nexo Championship. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Shaun Norris hit with two-shot penalty to blow winning chances at Nexo Championship. https://www.skysports.com/watch/video/13576348/shaun-norris-hit-with-two-shot-penalty-to-blow-winning-chances-at-nexo-championship
+- skysports.com — Crystal Palace transfer news: Eagles prepare audacious PS50m bid to lure Jarrod Bowen back to Premier League - Paper Talk. https://www.skysports.com/football/news/12040/13576453/crystal-palace-transfer-news-eagles-prepare-audacious-50m-bid-to-lure-jarrod-bowen-back-to-premier-league-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +116,13 @@ Shaun Norris hit with two-shot penalty to blow winning chances at Nexo Champions
 
 ### Club Updates
 
-## Story 6: Newcastle 2-2 Liverpool | Premier League highlights
-**Slug (lower-third):** Newcastle 2-2 Liverpool | Premier League highlights  
-**When:** 2026-08-23 13:47 (America/Winnipeg)  •  **Published:** 2026-08-23 18:47 (UTC)  
+## Story 5: Match of the Day: Joe Hart praises Marc Guehi's midfield performance for Manchester City
+**Slug (lower-third):** Match of the Day: Joe Hart praises Marc Guehi's midfield …  
+**When:** 2026-08-23 18:02 (America/Winnipeg)  •  **Published:** 2026-08-23 23:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle 2-2 Liverpool | Premier League highlights. FREE TO WATCH: Highlights from the Premier League match between Newcastle and Liverpool. Relevance to standings and momentum.
+Match of the Day: Joe Hart praises Marc Guehi's midfield performance for Manchester City. Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, with plenty of praise for the centre half in a different position against Bournemouth. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,8 +131,7 @@ Newcastle 2-2 Liverpool | Premier League highlights. FREE TO WATCH: Highlights f
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Newcastle 2-2 Liverpool | Premier League highlights. https://www.skysports.com/watch/video/13576408/newcastle-2-2-liverpool-premier-league-highlights
-- bbc.co.uk — Premier League: Newcastle United 2-2 Liverpool - Andoni Iraola post-match interview. https://www.bbc.co.uk/sport/football/videos/c4gvgj0w9j2o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Match of the Day: Joe Hart praises Marc Guehi's midfield performance for Manchester City. https://www.bbc.co.uk/sport/football/videos/cdewe13009do?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -165,13 +140,13 @@ Newcastle 2-2 Liverpool | Premier League highlights. FREE TO WATCH: Highlights f
 
 ---
 
-## Story 7: Ollie Watkins' absence at Brighton a question for him - Unai Emery
-**Slug (lower-third):** Ollie Watkins' absence at Brighton a question for him - U…  
-**When:** 2026-08-23 13:05 (America/Winnipeg)  •  **Published:** 2026-08-23 18:05 (UTC)  
+## Story 6: Match of the Day: Joe Hart analyses Newcastle United's performance against Liverpool in the Premier League
+**Slug (lower-third):** Match of the Day: Joe Hart analyses Newcastle United's pe…  
+**When:** 2026-08-23 18:01 (America/Winnipeg)  •  **Published:** 2026-08-23 23:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ollie Watkins' absence at Brighton a question for him - Unai Emery. Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery. Relevance to standings and momentum.
+Match of the Day: Joe Hart analyses Newcastle United's performance against Liverpool in the Premier League. Match of the Day's Joe Hart, Danny Murphy and Gabby Logan analyse Newcastle's energetic performance in their Premier League opener against Liverpool. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -180,7 +155,7 @@ Ollie Watkins' absence at Brighton a question for him - Unai Emery. Ollie Watkin
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Ollie Watkins' absence at Brighton a question for him - Unai Emery. https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Match of the Day: Joe Hart analyses Newcastle United's performance against Liverpool in the Premier League. https://www.bbc.co.uk/sport/football/videos/cr595yvrevjo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -189,10 +164,82 @@ Ollie Watkins' absence at Brighton a question for him - Unai Emery. Ollie Watkin
 
 ---
 
-## Story 8: Super League: Warrington Wolves continue winning streak against Huddersfield Giants as Leeds Rhinos rout York Knights
+## Story 7: Match of the Day: Will Ollie Watkins leave Aston Villa for Al Hilal after being left out of their match-day squad?
+**Slug (lower-third):** Match of the Day: Will Ollie Watkins leave Aston Villa fo…  
+**When:** 2026-08-23 17:39 (America/Winnipeg)  •  **Published:** 2026-08-23 22:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+Match of the Day: Will Ollie Watkins leave Aston Villa for Al Hilal after being left out of their match-day squad?. After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the verge of leaving the club for Al Hilal. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Match of the Day: Will Ollie Watkins leave Aston Villa for Al Hilal after being left out of their match-day squad?. https://www.bbc.co.uk/sport/football/videos/cwy4y5k4kg4o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Enzo Maresca's Man City experiment gets lucky, Alexander Isak's struggles continue and Aston Villa's problems exposed - Premier League hits and misses
+**Slug (lower-third):** Enzo Maresca's Man City experiment gets lucky, Alexander …  
+**When:** 2026-08-23 16:57 (America/Winnipeg)  •  **Published:** 2026-08-23 21:57 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
+
+### Presenter Script (3–5 sentences)
+Enzo Maresca's Man City experiment gets lucky, Alexander Isak's struggles continue and Aston Villa's problems exposed - Premier League hits and misses. Sky Sports football writers analyse Sundays action as Liverpool rescue a late draw at Newcastle and Man City score a stoppage-time winner to beat Bournemouth; Brighton also stun Aston Villa with four first-half goals in thumping win Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Enzo Maresca's Man City experiment gets lucky, Alexander Isak's struggles continue and Aston Villa's problems exposed - Premier League hits and misses. https://www.skysports.com/football/news/12040/13576249/enzo-marescas-man-city-experiment-gets-lucky-alexander-isaks-struggles-continue-and-aston-villas-problems-exposed-premier-league-hits-and-misses
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Man City 2-1 Bournemouth: How the players rated
+**Slug (lower-third):** Man City 2-1 Bournemouth: How the players rated  
+**When:** 2026-08-23 14:17 (America/Winnipeg)  •  **Published:** 2026-08-23 19:17 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man City 2-1 Bournemouth: How the players rated. How Man City and Bournemouth players rated following their Premier League match. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Man City 2-1 Bournemouth: How the players rated. https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Super League: Warrington Wolves continue winning streak against Huddersfield Giants as Leeds Rhinos rout York Knights
 **Slug (lower-third):** Super League: Warrington Wolves continue winning streak a…  
 **When:** 2026-08-23 12:40 (America/Winnipeg)  •  **Published:** 2026-08-23 17:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+**Virality score:** 94  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
 Super League: Warrington Wolves continue winning streak against Huddersfield Giants as Leeds Rhinos rout York Knights. Warrington claimed their fifth consecutive Betfred Super League victory with a 34-24 win against the Huddersfield Giants; Leeds cruised to a 66-16 win over York Knights; the Rhinos are now back at the top of the table Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -205,54 +252,6 @@ Super League: Warrington Wolves continue winning streak against Huddersfield Gia
 
 ### Sources
 - skysports.com — Super League: Warrington Wolves continue winning streak against Huddersfield Giants as Leeds Rhinos rout York Knights. https://www.skysports.com/rugby-league/news/12040/13576354/super-league-warrington-wolves-continue-winning-streak-against-huddersfield-giants-as-leeds-rhinos-rout-york-knights
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Aston Villa captain John McGinn apologises to fans but provides hope despite Brighton horror show
-**Slug (lower-third):** Aston Villa captain John McGinn apologises to fans but pr…  
-**When:** 2026-08-23 12:11 (America/Winnipeg)  •  **Published:** 2026-08-23 17:11 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Aston Villa captain John McGinn apologises to fans but provides hope despite Brighton horror show. Aston Villa captain John McGinns apology to the fans: Going away in the Premier League, we obviously apologise to the supporters, its not easy to travel, costs a lot of money, takes a lot of time. And they dont want to come here and see their team lose by four goals before half-time Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Aston Villa captain John McGinn apologises to fans but provides hope despite Brighton horror show. https://www.skysports.com/football/news/12040/13576370/aston-villa-captain-john-mcginn-apologises-to-fans-but-provides-hope-despite-brighton-horror-show
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Man City 2-1 Bournemouth: Enzo Maresca's masterstroke to play Marc Guehi in midfield
-**Slug (lower-third):** Man City 2-1 Bournemouth: Enzo Maresca's masterstroke to …  
-**When:** 2026-08-23 11:26 (America/Winnipeg)  •  **Published:** 2026-08-23 16:26 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man City 2-1 Bournemouth: Enzo Maresca's masterstroke to play Marc Guehi in midfield. Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Man City 2-1 Bournemouth: Enzo Maresca's masterstroke to play Marc Guehi in midfield. https://www.bbc.co.uk/sport/football/articles/cqx7x1wpz20o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
