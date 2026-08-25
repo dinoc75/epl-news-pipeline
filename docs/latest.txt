@@ -1,78 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-25 07:49 (America/Winnipeg)  |  2026-08-25 12:49 (UTC)
+**Generated:** 2026-08-25 13:40 (America/Winnipeg)  |  2026-08-25 18:40 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 40s
+**Estimated total video length:** ~4m 57s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Aston Villa make contact with Crystal Palace for Jean-Philippe Mateta and approach AC Milan for Rafael Leao
-- Savio transfer news: Tottenham sign winger from Manchester City in PS85m deal
-- PFA Awards: Sir Kenny Dalglish and Karen Carney win merit awards
-
----
-
-### Managerial Moves
-
-## Story 1: Chelsea Women: Sonia Bompastor and Ellie Carpenter on Blues' transitional moment as they target WSL and Champions League success
-**Slug (lower-third):** Chelsea Women: Sonia Bompastor and Ellie Carpenter on Blu…  
-**When:** 2026-08-25 05:00 (America/Winnipeg)  •  **Published:** 2026-08-25 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Chelsea Women: Sonia Bompastor and Ellie Carpenter on Blues' transitional moment as they target WSL and Champions League success. Chelsea are morphing into a new team under Sonia Bompastor; they are taking learning from a disappointing 2025/26 season, with a clear change in playing personnel; they want to return to WSL and domestic glory, as well as competing in the Champions League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Chelsea Women: Sonia Bompastor and Ellie Carpenter on Blues' transitional moment as they target WSL and Champions League success. https://www.skysports.com/football/news/12040/13568830/chelsea-women-sonia-bompastor-and-ellie-carpenter-on-blues-transitional-moment-as-they-target-wsl-and-champions-league-success
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: How did record nine new managers fare in opening round of Premier League games?
-**Slug (lower-third):** How did record nine new managers fare in opening round of…  
-**When:** 2026-08-25 03:54 (America/Winnipeg)  •  **Published:** 2026-08-25 08:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-How did record nine new managers fare in opening round of Premier League games?. Who impressed and who has work to do? BBC Sport chief football writer Phil McNulty looks at how the nine new managerial appointments fared on the opening week of the Premier League season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — How did record nine new managers fare in opening round of Premier League games?. https://www.bbc.co.uk/sport/football/articles/cr4v0p1xqryo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Julian Alvarez transfer latest: Atletico standing firm on Barcelona as Arsenal become only get out for Argentine striker
+- Liam Delap transfer: Nottingham Forest agree club-record deal to sign Chelsea striker
+- Bradley Barcola transfer news: Liverpool hold positive talks with optimism deal can be done with PSG for France international
 
 ---
 
 ### Transfers
 
-## Story 3: Savio transfer news: Tottenham sign winger from Manchester City in PS85m deal
-**Slug (lower-third):** Savio transfer news: Tottenham sign winger from Mancheste…  
-**When:** 2026-08-25 05:06 (America/Winnipeg)  •  **Published:** 2026-08-25 10:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 1: Julian Alvarez transfer latest: Atletico standing firm on Barcelona as Arsenal become only get out for Argentine striker
+**Slug (lower-third):** Julian Alvarez transfer latest: Atletico standing firm on…  
+**When:** 2026-08-25 14:00 (America/Winnipeg)  •  **Published:** 2026-08-25 19:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Savio transfer news: Tottenham sign winger from Manchester City in PS85m deal. Savio, formerly known as Savinho, joins Tottenham from Man City in an PS85m deal; Spurs will pay an initial PS75m for the 22-year-old, with a further PS10m available in add-ons; Brazilians arrival takes Spurs summer spending past the PS300m barrier Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Julian Alvarez transfer latest: Atletico standing firm on Barcelona as Arsenal become only get out for Argentine striker. Julian Alvarez is holding out for a move to Barcelona, but Atletico Madrid are standing firm on the refusal to sell to their LaLiga rivals; Atletico football expert Ruben Uria believes the only way out for Alvarez is to join Premier League champions Arsenal Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +31,7 @@ Savio transfer news: Tottenham sign winger from Manchester City in PS85m deal. S
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Savio transfer news: Tottenham sign winger from Manchester City in PS85m deal. https://www.skysports.com/football/news/12040/13575398/savio-transfer-news-tottenham-sign-winger-from-manchester-city-in-85m-deal
+- skysports.com — Julian Alvarez transfer latest: Atletico standing firm on Barcelona as Arsenal become only get out for Argentine striker. https://www.skysports.com/football/news/12040/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,15 +40,13 @@ Savio transfer news: Tottenham sign winger from Manchester City in PS85m deal. S
 
 ---
 
-### Injuries
-
-## Story 4: David Squires on ... boos, barcodes and buzzcuts as the Premier League returns
-**Slug (lower-third):** David Squires on ... boos, barcodes and buzzcuts as the P…  
-**When:** 2026-08-25 04:54 (America/Winnipeg)  •  **Published:** 2026-08-25 09:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Liam Delap transfer: Nottingham Forest agree club-record deal to sign Chelsea striker
+**Slug (lower-third):** Liam Delap transfer: Nottingham Forest agree club-record …  
+**When:** 2026-08-25 13:45 (America/Winnipeg)  •  **Published:** 2026-08-25 18:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-David Squires on ... boos, barcodes and buzzcuts as the Premier League returns. Our cartoonist looks back at the big storylines and fresh looks as the English top flight swung back into action Relevance to standings and momentum.
+Liam Delap transfer: Nottingham Forest agree club-record deal to sign Chelsea striker. Nottingham Forest have agreed a club-record PS50m deal to sign Liam Delap from Chelsea; striker moved to Stamford Bridge last summer, but scored just two goals in 41 games for the club; Chelsea could make a PS20m profit having signed the 23-year-old for PS30m Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +55,175 @@ David Squires on ... boos, barcodes and buzzcuts as the Premier League returns. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — David Squires on ... boos, barcodes and buzzcuts as the Premier League returns. https://www.theguardian.com/football/picture/2026/aug/25/david-squires-on-boos-barcodes-buzzcuts-premier-league-returns
+- skysports.com — Liam Delap transfer: Nottingham Forest agree club-record deal to sign Chelsea striker. https://www.skysports.com/football/news/12040/13577090/liam-delap-transfer-nottingham-forest-agree-club-record-deal-to-sign-chelsea-striker
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Bradley Barcola transfer news: Liverpool hold positive talks with optimism deal can be done with PSG for France international
+**Slug (lower-third):** Bradley Barcola transfer news: Liverpool hold positive ta…  
+**When:** 2026-08-25 13:20 (America/Winnipeg)  •  **Published:** 2026-08-25 18:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~30s
+
+### Presenter Script (3–5 sentences)
+Bradley Barcola transfer news: Liverpool hold positive talks with optimism deal can be done with PSG for France international. Liverpool hold positive talks with PSG over Bradley Barcola; there is optimism that a deal can be struck for the winger; there has been a gap in valuation between two clubs throughout summer, with PSG asking for around PS145m for Barcola; Reds also interested in PSGs Ibrahim Mbaye Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Bradley Barcola transfer news: Liverpool hold positive talks with optimism deal can be done with PSG for France international. https://www.skysports.com/football/news/12040/13567087/bradley-barcola-transfer-news-liverpool-hold-positive-talks-with-optimism-deal-can-be-done-with-psg-for-france-international
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Carlos Baleba transfer: Manchester United complete signing of Cameroon midfielder from Brighton
+**Slug (lower-third):** Carlos Baleba transfer: Manchester United complete signin…  
+**When:** 2026-08-25 11:45 (America/Winnipeg)  •  **Published:** 2026-08-25 16:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Carlos Baleba transfer: Manchester United complete signing of Cameroon midfielder from Brighton. Sky Sports News has been reporting on Uniteds interest in Baleba since last autumn and broke the news that they enquired about signing him during the January transfer window; the Cameroon international signs a five-year deal at Old Trafford Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Carlos Baleba transfer: Manchester United complete signing of Cameroon midfielder from Brighton. https://www.skysports.com/football/news/12040/13575283/carlos-baleba-transfer-manchester-united-complete-signing-of-cameroon-midfielder-from-brighton
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Transfer latest: Could Julian Alvarez still end up at Arsenal?
+**Slug (lower-third):** Transfer latest: Could Julian Alvarez still end up at Ars…  
+**When:** 2026-08-25 11:35 (America/Winnipeg)  •  **Published:** 2026-08-25 16:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Transfer latest: Could Julian Alvarez still end up at Arsenal?. The Transfer Show, along with Spanish football journalist Ruben Uria, explains how Julian Alvarez could still end up at Arsenal this season. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Transfer latest: Could Julian Alvarez still end up at Arsenal?. https://www.skysports.com/watch/video/13577035/transfer-latest-how-julian-alvarez-still-end-up-at-arsenal
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Transfer window 2026: What does your Premier League club need with a week to go?
+**Slug (lower-third):** Transfer window 2026: What does your Premier League club …  
+**When:** 2026-08-25 11:17 (America/Winnipeg)  •  **Published:** 2026-08-25 16:17 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Transfer window 2026: What does your Premier League club need with a week to go?. BBC Sport takes a look at what each of the Premier League clubs still need before the summer transfer window shuts in seven days. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Transfer window 2026: What does your Premier League club need with a week to go?. https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Man Utd transfer news: Will Michael Carrick's side buy a left-back before transfer window closes?
+**Slug (lower-third):** Man Utd transfer news: Will Michael Carrick's side buy a …  
+**When:** 2026-08-25 11:03 (America/Winnipeg)  •  **Published:** 2026-08-25 16:03 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man Utd transfer news: Will Michael Carrick's side buy a left-back before transfer window closes?. After spending APS155m on three midfielders, now Manchester United must decide whether to try to buy a left-back Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Man Utd transfer news: Will Michael Carrick's side buy a left-back before transfer window closes?. https://www.bbc.co.uk/sport/football/articles/clykngy3gldo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Manchester United confirm Carlos Baleba signing as midfield spend nears PS150m
+**Slug (lower-third):** Manchester United confirm Carlos Baleba signing as midfie…  
+**When:** 2026-08-25 10:58 (America/Winnipeg)  •  **Published:** 2026-08-25 15:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United confirm Carlos Baleba signing as midfield spend nears PS150m. Manchester United have confirmed the signing of Carlos Baleba from Brighton on a contract to 2031 Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Manchester United confirm Carlos Baleba signing as midfield spend nears PS150m. https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Aston Villa: The reality of the finances available to Unai Emery at Villa Park following a summer of upheaval
+**Slug (lower-third):** Aston Villa: The reality of the finances available to Una…  
+**When:** 2026-08-25 09:29 (America/Winnipeg)  •  **Published:** 2026-08-25 14:29 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Aston Villa: The reality of the finances available to Unai Emery at Villa Park following a summer of upheaval. Sky Sports News Rob Dorsett assesses the situation at Aston Villa following a summer of upheaval and a dismal 4-0 defeat to Brighton to start the 2026/27 season; Villa feel confident Emerys future is secure but top clubs have an admiration for the Spaniard Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Aston Villa: The reality of the finances available to Unai Emery at Villa Park following a summer of upheaval. https://www.skysports.com/football/news/12040/13576967/aston-villa-the-reality-of-the-finances-available-to-unai-emery-at-villa-park-following-a-summer-of-upheaval
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -118,37 +234,13 @@ David Squires on ... boos, barcodes and buzzcuts as the Premier League returns. 
 
 ### Club Updates
 
-## Story 5: Aston Villa make contact with Crystal Palace for Jean-Philippe Mateta and approach AC Milan for Rafael Leao
-**Slug (lower-third):** Aston Villa make contact with Crystal Palace for Jean-Phi…  
-**When:** 2026-08-25 07:00 (America/Winnipeg)  •  **Published:** 2026-08-25 12:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Aston Villa make contact with Crystal Palace for Jean-Philippe Mateta and approach AC Milan for Rafael Leao. Aston Villa interested in signing Crystal Palaces Jean-Philippe Mateta and Rafael Leao from AC Milan; Mateta is a long-term target and Villa are serious about Leao; club looking to strengthen forward areas in Unai Emerys squad due to uncertainty about Ollie Watkins future Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Aston Villa make contact with Crystal Palace for Jean-Philippe Mateta and approach AC Milan for Rafael Leao. https://www.skysports.com/football/news/12040/13576879/rafael-leao-transfer-news-aston-villa-make-approach-to-sign-portugal-forward-who-is-open-to-leaving-ac-milan
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: PFA Awards: Sir Kenny Dalglish and Karen Carney win merit awards
-**Slug (lower-third):** PFA Awards: Sir Kenny Dalglish and Karen Carney win merit…  
-**When:** 2026-08-25 05:01 (America/Winnipeg)  •  **Published:** 2026-08-25 10:01 (UTC)  
+## Story 10: 'He's box office': Gary Lineker admits wanting Roy Keane to join The Rest Is Football
+**Slug (lower-third):** 'He's box office': Gary Lineker admits wanting Roy Keane …  
+**When:** 2026-08-25 12:59 (America/Winnipeg)  •  **Published:** 2026-08-25 17:59 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-PFA Awards: Sir Kenny Dalglish and Karen Carney win merit awards. Liverpool and Scotland legend Sir Kenny Dalglish and Lionesses great Karen Carney win the Professional Footballers' Association's merit awards for 2026. Relevance to standings and momentum.
+'He's box office': Gary Lineker admits wanting Roy Keane to join The Rest Is Football. Podcast co-host says tongue-in-cheek that ex-Manchester United captain would like to sign up for his show Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -157,104 +249,7 @@ PFA Awards: Sir Kenny Dalglish and Karen Carney win merit awards. Liverpool and 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — PFA Awards: Sir Kenny Dalglish and Karen Carney win merit awards. https://www.bbc.co.uk/sport/football/articles/cn8e7q501j3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Savinho: Tottenham sign winger from Manchester City for APS75m
-**Slug (lower-third):** Savinho: Tottenham sign winger from Manchester City for A…  
-**When:** 2026-08-25 04:14 (America/Winnipeg)  •  **Published:** 2026-08-25 09:14 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Savinho: Tottenham sign winger from Manchester City for APS75m. Tottenham sign Brazil winger Savinho from Manchester City for an initial APS75m. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Savinho: Tottenham sign winger from Manchester City for APS75m. https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Football gossip: Gakpo, Gonzalez, Lewis-Skelly, Scott, Mazraoui
-**Slug (lower-third):** Football gossip: Gakpo, Gonzalez, Lewis-Skelly, Scott, Ma…  
-**When:** 2026-08-25 04:05 (America/Winnipeg)  •  **Published:** 2026-08-25 09:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Gakpo, Gonzalez, Lewis-Skelly, Scott, Mazraoui. Manchester City emerge as surprise Cody Gakpo suitors, Newcastle agree to sign Nico Gonzalez, and Manchester United are confident of signing Myles Lewis-Skelly, plus more. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football gossip: Gakpo, Gonzalez, Lewis-Skelly, Scott, Mazraoui. https://www.bbc.co.uk/sport/football/articles/cddv72gj7qro?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Fulham 2-3 Chelsea | Premier League highlights
-**Slug (lower-third):** Fulham 2-3 Chelsea | Premier League highlights  
-**When:** 2026-08-24 17:45 (America/Winnipeg)  •  **Published:** 2026-08-24 22:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Fulham 2-3 Chelsea | Premier League highlights. Highlights from Fulham's match against Chelsea in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Fulham 2-3 Chelsea | Premier League highlights. https://www.skysports.com/watch/video/13576822/fulham-2-3-chelsea-premier-league-highlights
-- bbc.co.uk — Premier League: Fulham 2-3 Chelsea - Alvaro Arbeloa post-match interview. https://www.bbc.co.uk/sport/football/videos/cnvlyev7v42o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Jack Grealish: What does the future hold for the Man City winger?
-**Slug (lower-third):** Jack Grealish: What does the future hold for the Man City…  
-**When:** 2026-08-25 01:09 (America/Winnipeg)  •  **Published:** 2026-08-25 06:09 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Jack Grealish: What does the future hold for the Man City winger?. Man City winger has made two substitute appearances so far this season, but his future remains in doubt. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Jack Grealish: What does the future hold for the Man City winger?. https://www.bbc.co.uk/sport/football/articles/cy0znx93x05o?at_medium=RSS&at_campaign=rss
+- theguardian.com — 'He's box office': Gary Lineker admits wanting Roy Keane to join The Rest Is Football. https://www.theguardian.com/football/2026/aug/25/gary-lineker-roy-keane-the-rest-is-football
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
