@@ -1,28 +1,52 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-27 03:01 (America/Winnipeg)  |  2026-08-27 08:01 (UTC)
+**Generated:** 2026-08-27 16:55 (America/Winnipeg)  |  2026-08-27 21:55 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 34s
+**Estimated total video length:** ~4m 32s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordonez?
-- Honest Ahanor: Chelsea in talks to sign Atalanta and Italy defender
-- Is Bukayo Saka getting back to his best at Arsenal?
+- Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk
+- Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Igor Jesus, Woltemade
+- Muniz and Garcia on target in Fulham's Carabao Cup cruise past Wimbledon
 
 ---
 
 ### Transfers
 
-## Story 1: Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordonez?
-**Slug (lower-third):** Football transfer rumours: Palace to hijack Aston Villa m…  
-**When:** 2026-08-27 02:43 (America/Winnipeg)  •  **Published:** 2026-08-27 07:43 (UTC)  
+## Story 1: Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk
+**Slug (lower-third):** Enzo Fernandez transfer news: Manchester City confident o…  
+**When:** 2026-08-27 17:35 (America/Winnipeg)  •  **Published:** 2026-08-27 22:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
+
+### Presenter Script (3–5 sentences)
+Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk. Latest transfer news and headlines include: Nottingham Forest make bid for Crystal Palace wing-back Daniel Munoz; Liverpool midfielder Harvey Elliott is attracting interest from two Serie A sides; Napoli have made contact with Newcastle over Nick Woltemades availability Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk. https://www.skysports.com/football/news/12040/13577977/enzo-fernandez-transfer-news-manchester-city-confident-of-signing-chelsea-midfielder-paper-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Emi Martinez transfer news: Chelsea agree APS7.5m fee for Villa goalkeeper
+**Slug (lower-third):** Emi Martinez transfer news: Chelsea agree APS7.5m fee for…  
+**When:** 2026-08-27 13:28 (America/Winnipeg)  •  **Published:** 2026-08-27 18:28 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordonez?. Chelsea to add Honest Ahanor? | Brighton seeking teenage kicks? | Roma to sign Morato from Nottingham Forest? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Emi Martinez transfer news: Chelsea agree APS7.5m fee for Villa goalkeeper. Chelsea agree a APS7.5m fee to sign Aston Villa goalkeeper Emiliano Martinez. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,55 +55,7 @@ Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordonez?. 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordonez?. https://www.theguardian.com/football/2026/aug/27/football-transfer-rumour-mill-crystal-palace-hijack-aston-villa-move-joel-ordonez
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Bradley Barcola transfer news: Liverpool set for more talks with PSG over signing winger before transfer deadline
-**Slug (lower-third):** Bradley Barcola transfer news: Liverpool set for more tal…  
-**When:** 2026-08-26 18:00 (America/Winnipeg)  •  **Published:** 2026-08-26 23:00 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~26s
-
-### Presenter Script (3–5 sentences)
-Bradley Barcola transfer news: Liverpool set for more talks with PSG over signing winger before transfer deadline. Latest transfer news and headlines include: Newcastle retain hope of signing Matias Fernandez-Pardo; Aston Villa enquire about West Ham defender Jean-Clair Todibo after losing Ezri Konsa to Arsenal; Liverpool yet to receive offers for Harvey Elliott or Federico Chiesa Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Bradley Barcola transfer news: Liverpool set for more talks with PSG over signing winger before transfer deadline. https://www.skysports.com/football/news/12040/13577609/bradley-barcola-transfer-news-liverpool-set-for-more-talks-with-psg-over-signing-winger-before-transfer-deadline
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Preston North End 0-4 Everton: Thierno Barry scores hat-trick as David Moyes' Toffees saunter into Carabao Cup third round
-**Slug (lower-third):** Preston North End 0-4 Everton: Thierno Barry scores hat-t…  
-**When:** 2026-08-26 16:51 (America/Winnipeg)  •  **Published:** 2026-08-26 21:51 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Preston North End 0-4 Everton: Thierno Barry scores hat-trick as David Moyes' Toffees saunter into Carabao Cup third round. Thierno Barry scored three goals and set up the other as Everton sauntered into the third round of the Carabao Cup by way of a 4-0 win over Preston at Deepdale. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Preston North End 0-4 Everton: Thierno Barry scores hat-trick as David Moyes' Toffees saunter into Carabao Cup third round. https://www.skysports.com/football/preston-north-end-vs-everton/report/577434
+- bbc.co.uk — Emi Martinez transfer news: Chelsea agree APS7.5m fee for Villa goalkeeper. https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +66,13 @@ Preston North End 0-4 Everton: Thierno Barry scores hat-trick as David Moyes' To
 
 ### Club Updates
 
-## Story 4: Honest Ahanor: Chelsea in talks to sign Atalanta and Italy defender
-**Slug (lower-third):** Honest Ahanor: Chelsea in talks to sign Atalanta and Ital…  
-**When:** 2026-08-27 02:28 (America/Winnipeg)  •  **Published:** 2026-08-27 07:28 (UTC)  
+## Story 3: Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Igor Jesus, Woltemade
+**Slug (lower-third):** Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Ig…  
+**When:** 2026-08-27 16:33 (America/Winnipeg)  •  **Published:** 2026-08-27 21:33 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Honest Ahanor: Chelsea in talks to sign Atalanta and Italy defender. Chelsea are in talks to sign 18-year-old Atalanta and Italy defender Honest Ahanor for APS34.3m. Relevance to standings and momentum.
+Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Igor Jesus, Woltemade. Arsenal continue pursuit to sign Julian Alvarez, Manchester City target Everton's Iliman Ndiaye and Aston Villa make direct contact to sign Rafael Leao. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +81,7 @@ Honest Ahanor: Chelsea in talks to sign Atalanta and Italy defender. Chelsea are
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Honest Ahanor: Chelsea in talks to sign Atalanta and Italy defender. https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Igor Jesus, Woltemade. https://www.bbc.co.uk/sport/football/articles/c3eq89xedp0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +90,13 @@ Honest Ahanor: Chelsea in talks to sign Atalanta and Italy defender. Chelsea are
 
 ---
 
-## Story 5: Is Bukayo Saka getting back to his best at Arsenal?
-**Slug (lower-third):** Is Bukayo Saka getting back to his best at Arsenal?  
-**When:** 2026-08-27 00:20 (America/Winnipeg)  •  **Published:** 2026-08-27 05:20 (UTC)  
+## Story 4: Muniz and Garcia on target in Fulham's Carabao Cup cruise past Wimbledon
+**Slug (lower-third):** Muniz and Garcia on target in Fulham's Carabao Cup cruise…  
+**When:** 2026-08-27 16:01 (America/Winnipeg)  •  **Published:** 2026-08-27 21:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Is Bukayo Saka getting back to his best at Arsenal?. Bukayo Saka has struggled to produce his best on a consistent basis in recent months, but could be getting back to top form this season. Relevance to standings and momentum.
+Muniz and Garcia on target in Fulham's Carabao Cup cruise past Wimbledon. Emile Smith Rowe opened the scoring as Fulham eased to a 3-0 win against AFC Wimbledon, setting up a third-round trip to West Ham Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +105,7 @@ Is Bukayo Saka getting back to his best at Arsenal?. Bukayo Saka has struggled t
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Is Bukayo Saka getting back to his best at Arsenal?. https://www.bbc.co.uk/sport/football/articles/cz0z7jyepgxo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Muniz and Garcia on target in Fulham's Carabao Cup cruise past Wimbledon. https://www.theguardian.com/football/2026/aug/27/fulham-wimbledon-carabao-cup-second-round-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +114,13 @@ Is Bukayo Saka getting back to his best at Arsenal?. Bukayo Saka has struggled t
 
 ---
 
-## Story 6: Tottenham 5-1 Charlton: Jamie Redknapp praises Savio after goalscoring debut as Roberto De Zerbi challenges new signing
-**Slug (lower-third):** Tottenham 5-1 Charlton: Jamie Redknapp praises Savio afte…  
-**When:** 2026-08-26 18:03 (America/Winnipeg)  •  **Published:** 2026-08-26 23:03 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~28s
+## Story 5: Ipswich Town sign Argentina World Cup winner Exequiel Palacios from Bayer Leverkusen
+**Slug (lower-third):** Ipswich Town sign Argentina World Cup winner Exequiel Pal…  
+**When:** 2026-08-27 15:54 (America/Winnipeg)  •  **Published:** 2026-08-27 20:54 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham 5-1 Charlton: Jamie Redknapp praises Savio after goalscoring debut as Roberto De Zerbi challenges new signing. Savio made an immediate impact on his Tottenham debut, coming off the bench to score and grab an assist against Charlton; Jamie Redknapp was full of praise for the Brazilian, but Spurs boss Roberto De Zerbi challenged his new man to build on his stunning start Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Ipswich Town sign Argentina World Cup winner Exequiel Palacios from Bayer Leverkusen. Argentina midfielder Exequiel Palacios becomes the first World Cup winner to sign for Ipswich Town after joining from Bayer Leverkusen. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +129,7 @@ Tottenham 5-1 Charlton: Jamie Redknapp praises Savio after goalscoring debut as 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham 5-1 Charlton: Jamie Redknapp praises Savio after goalscoring debut as Roberto De Zerbi challenges new signing. https://www.skysports.com/football/news/12040/13577607/tottenham-5-1-charlton-jamie-redknapp-praises-savio-after-goalscoring-debut-as-roberto-de-zerbi-challenges-new-signing
+- bbc.co.uk — Ipswich Town sign Argentina World Cup winner Exequiel Palacios from Bayer Leverkusen. https://www.bbc.co.uk/sport/football/articles/c77048xg87jo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +138,13 @@ Tottenham 5-1 Charlton: Jamie Redknapp praises Savio after goalscoring debut as 
 
 ---
 
-## Story 7: Nico Gonzalez: 'Mini Rodri' shown he will be loved at Newcastle
-**Slug (lower-third):** Nico Gonzalez: 'Mini Rodri' shown he will be loved at New…  
-**When:** 2026-08-26 17:52 (America/Winnipeg)  •  **Published:** 2026-08-26 22:52 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
+## Story 6: Danny Welbeck leads Chelsea past Luton as Fernandez misses Carabao Cup tie
+**Slug (lower-third):** Danny Welbeck leads Chelsea past Luton as Fernandez misse…  
+**When:** 2026-08-27 15:40 (America/Winnipeg)  •  **Published:** 2026-08-27 20:40 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nico Gonzalez: 'Mini Rodri' shown he will be loved at Newcastle. Nico Gonzalez is given a rapturous welcome before Newcastle's Carabao Cup win against West Brom following the APS52m midfielder's arrival from Manchester City. Relevance to standings and momentum.
+Danny Welbeck leads Chelsea past Luton as Fernandez misses Carabao Cup tie. Danny Welbeck scored his first goal for Chelsea in their 2-0 win over Luton in the Carabao Cup second round, but Enzo Fernandez was left out Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +153,7 @@ Nico Gonzalez: 'Mini Rodri' shown he will be loved at Newcastle. Nico Gonzalez i
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Nico Gonzalez: 'Mini Rodri' shown he will be loved at Newcastle. https://www.bbc.co.uk/sport/football/articles/cwyz3ky2kqdo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Danny Welbeck leads Chelsea past Luton as Fernandez misses Carabao Cup tie. https://www.theguardian.com/football/2026/aug/27/chelsea-luton-carabao-cup-second-round-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +162,13 @@ Nico Gonzalez: 'Mini Rodri' shown he will be loved at Newcastle. Nico Gonzalez i
 
 ---
 
-## Story 8: Women's Super League 2026-27 preview No 6: Chelsea
-**Slug (lower-third):** Women's Super League 2026-27 preview No 6: Chelsea  
-**When:** 2026-08-26 18:01 (America/Winnipeg)  •  **Published:** 2026-08-26 23:01 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 7: Rangers crash out of Conference League in shootout loss to Czech side Jablonec
+**Slug (lower-third):** Rangers crash out of Conference League in shootout loss t…  
+**When:** 2026-08-27 15:38 (America/Winnipeg)  •  **Published:** 2026-08-27 20:38 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Women's Super League 2026-27 preview No 6: Chelsea. There has been plenty of change over the summer at Stamford Bridge after last season left sour taste Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Rangers crash out of Conference League in shootout loss to Czech side Jablonec. Derek McInnes' side lost 4-3 on penalties to Jablonec after a 1-1 aggregate draw, while Brighton advanced with a second-leg rout of Tromso Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +177,7 @@ Women's Super League 2026-27 preview No 6: Chelsea. There has been plenty of cha
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Women's Super League 2026-27 preview No 6: Chelsea. https://www.theguardian.com/football/2026/aug/27/womens-super-league-2026-27-preview-no-6-chelsea
+- theguardian.com — Rangers crash out of Conference League in shootout loss to Czech side Jablonec. https://www.theguardian.com/football/2026/aug/27/europa-conference-league-rangers-jablonec-brighton
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +186,13 @@ Women's Super League 2026-27 preview No 6: Chelsea. There has been plenty of cha
 
 ---
 
-## Story 9: Tottenham Hotspur 5-1 Charlton Athletic: Savio scores and assists on debut as Spurs ease into Carabao Cup third round
-**Slug (lower-third):** Tottenham Hotspur 5-1 Charlton Athletic: Savio scores and…  
-**When:** 2026-08-26 17:00 (America/Winnipeg)  •  **Published:** 2026-08-26 22:00 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+## Story 8: Premier League predictions & Jones Knows' best bets: Crystal Palace pain? Man City to make it back-to-back wins
+**Slug (lower-third):** Premier League predictions & Jones Knows' best bets: Crys…  
+**When:** 2026-08-27 14:00 (America/Winnipeg)  •  **Published:** 2026-08-27 19:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Tottenham Hotspur 5-1 Charlton Athletic: Savio scores and assists on debut as Spurs ease into Carabao Cup third round. Savio grabbed a goal and assist on a dream debut as Tottenham thrashed Charlton to progress into the third round of the Carabao Cup. Relevance to standings and momentum.
+Premier League predictions & Jones Knows' best bets: Crystal Palace pain? Man City to make it back-to-back wins. Our football betting expert Lewis Jones landed all four of his best bets last weekend and nailed six correct results and four exact scores! Watch SEVEN matches live on Sky Sports this weekend; Play Super 6 for a chance to win PS1m! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +201,7 @@ Tottenham Hotspur 5-1 Charlton Athletic: Savio scores and assists on debut as Sp
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham Hotspur 5-1 Charlton Athletic: Savio scores and assists on debut as Spurs ease into Carabao Cup third round. https://www.skysports.com/football/tottenham-hotspur-vs-charlton-athletic/report/577440
+- skysports.com — Premier League predictions & Jones Knows' best bets: Crystal Palace pain? Man City to make it back-to-back wins. https://www.skysports.com/football/news/12040/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +210,13 @@ Tottenham Hotspur 5-1 Charlton Athletic: Savio scores and assists on debut as Sp
 
 ---
 
-## Story 10: Newcastle United 3-2 West Bromwich Albion: Harvey Barnes scores twice as Magpies progress in Carabao Cup
-**Slug (lower-third):** Newcastle United 3-2 West Bromwich Albion: Harvey Barnes …  
-**When:** 2026-08-26 16:35 (America/Winnipeg)  •  **Published:** 2026-08-26 21:35 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~20s
+## Story 9: Chelsea agree PS7.5m deal to sign Emiliano Martinez from Aston Villa
+**Slug (lower-third):** Chelsea agree PS7.5m deal to sign Emiliano Martinez from …  
+**When:** 2026-08-27 13:19 (America/Winnipeg)  •  **Published:** 2026-08-27 18:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle United 3-2 West Bromwich Albion: Harvey Barnes scores twice as Magpies progress in Carabao Cup. Harvey Barnes struck twice for Newcastle as they survived a scare against West Brom to win 3-2 and reach the third round of the Carabao Cup. Relevance to standings and momentum.
+Chelsea agree PS7.5m deal to sign Emiliano Martinez from Aston Villa. Chelsea have agreed a deal for the Aston Villa goalkeeper Emiliano Martinez but Enzo Fernandez has been left out of Thursday's Carabao Cup tie Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +225,33 @@ Newcastle United 3-2 West Bromwich Albion: Harvey Barnes scores twice as Magpies
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Newcastle United 3-2 West Bromwich Albion: Harvey Barnes scores twice as Magpies progress in Carabao Cup. https://www.skysports.com/football/newcastle-united-vs-west-bromwich-albion/report/577432
+- theguardian.com — Chelsea agree PS7.5m deal to sign Emiliano Martinez from Aston Villa. https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez
+- skysports.com — Emiliano Martinez transfer news: Chelsea agree PS7.5m deal to sign Aston Villa's World Cup winning goalkeeper. https://www.skysports.com/football/news/12040/13577794/emiliano-martinez-transfer-news-chelsea-agree-7-5m-deal-to-sign-aston-villas-world-cup-winning-goalkeeper
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Champions League draw: Arsenal face Real Madrid, Man City get Barcelona and PSG
+**Slug (lower-third):** Champions League draw: Arsenal face Real Madrid, Man City…  
+**When:** 2026-08-27 12:44 (America/Winnipeg)  •  **Published:** 2026-08-27 17:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Champions League draw: Arsenal face Real Madrid, Man City get Barcelona and PSG. Arsenal will host Real Madrid and visit Bayern Munich, Aston Villa entertain PSG and Liverpool face Inter at San Siro Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Champions League draw: Arsenal face Real Madrid, Man City get Barcelona and PSG. https://www.theguardian.com/football/2026/aug/27/champions-league-draw-arsenal-face-real-madrid-as-manchester-city-get-psg
+- skysports.com — Champions League draw: Arsenal to face Real Madrid and Bayern Munich in league phase as Man City and Aston Villa get PSG. https://www.skysports.com/football/news/12040/13577826/champions-league-draw-arsenal-to-face-real-madrid-and-bayern-munich-in-league-phase-as-man-city-and-aston-villa-get-psg
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
