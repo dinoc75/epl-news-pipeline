@@ -1,78 +1,52 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-28 05:04 (America/Winnipeg)  |  2026-08-28 10:04 (UTC)
+**Generated:** 2026-08-28 16:48 (America/Winnipeg)  |  2026-08-28 21:48 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 33s
+**Estimated total video length:** ~4m 37s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Sky Sports | Snooker News
-- Premier League: How top-flight officials adapt to pace of games
-- Women's Super League: Brighton boss Dario Vidosic leaves club
-
----
-
-### Managerial Moves
-
-## Story 1: Women's Super League: Brighton boss Dario Vidosic leaves club
-**Slug (lower-third):** Women's Super League: Brighton boss Dario Vidosic leaves …  
-**When:** 2026-08-28 04:00 (America/Winnipeg)  •  **Published:** 2026-08-28 09:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Women's Super League: Brighton boss Dario Vidosic leaves club. Brighton manager Dario Vidosic is leaving the Women's Super League club just a week before the start of the season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Women's Super League: Brighton boss Dario Vidosic leaves club. https://www.bbc.co.uk/sport/football/articles/c209g56znylo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Dario Vidosic steps down as Brighton manager and is leading Angel City candidate
-**Slug (lower-third):** Dario Vidosic steps down as Brighton manager and is leadi…  
-**When:** 2026-08-28 04:00 (America/Winnipeg)  •  **Published:** 2026-08-28 09:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Dario Vidosic steps down as Brighton manager and is leading Angel City candidate. The Brighton manager Dario Vidosic's exit from the Women's Super League club has been confirmed a little over a week before the start of the season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Dario Vidosic steps down as Brighton manager and is leading Angel City candidate. https://www.theguardian.com/football/2026/aug/27/dario-vidosic-to-step-down-as-brighton-manager-just-before-new-wsl-season
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+- Arsenal transfer news: Gunners hold talks for Real Madrid and Brazil forward Endrick - Paper Talk
+- Crystal Palace 1-4 Man City: Rayan Cherki and Erling Haaland net doubles as Enzo Maresca's reign begins with back-to-back wins
+- Kevin Danso: Tottenham reject loan move to Sunderland
 
 ---
 
 ### Transfers
 
-## Story 3: Football transfer rumours: Rafael Leao to Aston Villa? Harvey Elliott to Napoli or Lazio?
-**Slug (lower-third):** Football transfer rumours: Rafael Leao to Aston Villa? Ha…  
-**When:** 2026-08-28 03:27 (America/Winnipeg)  •  **Published:** 2026-08-28 08:27 (UTC)  
+## Story 1: Arsenal transfer news: Gunners hold talks for Real Madrid and Brazil forward Endrick - Paper Talk
+**Slug (lower-third):** Arsenal transfer news: Gunners hold talks for Real Madrid…  
+**When:** 2026-08-28 17:26 (America/Winnipeg)  •  **Published:** 2026-08-28 22:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
+
+### Presenter Script (3–5 sentences)
+Arsenal transfer news: Gunners hold talks for Real Madrid and Brazil forward Endrick - Paper Talk. Latest transfer news and headlines include: Man Utd forward Marcus Rashford is set to reject an approach Fenerbahce; Newcastle are attempting to offload Nick Woltemade before Deadline Day and have launched a move to sign Matias Fernandez-Pardo from Lille Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Arsenal transfer news: Gunners hold talks for Real Madrid and Brazil forward Endrick - Paper Talk. https://www.skysports.com/football/news/12040/13578352/arsenal-transfer-news-gunners-hold-talks-for-real-madrid-and-brazil-forward-endrick-paper-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Kevin Danso: Tottenham reject loan move to Sunderland
+**Slug (lower-third):** Kevin Danso: Tottenham reject loan move to Sunderland  
+**When:** 2026-08-28 16:41 (America/Winnipeg)  •  **Published:** 2026-08-28 21:41 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football transfer rumours: Rafael Leao to Aston Villa? Harvey Elliott to Napoli or Lazio?. Would Alvarez capture make Arteta happier? | Rafael Leao to make Aston Villa loan switch? | Fiorentina enquire about Joshua Zirkzee move? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Kevin Danso: Tottenham reject loan move to Sunderland. Tottenham Hotspur reject a loan offer from Sunderland for defender Kevin Danso. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +55,7 @@ Football transfer rumours: Rafael Leao to Aston Villa? Harvey Elliott to Napoli 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football transfer rumours: Rafael Leao to Aston Villa? Harvey Elliott to Napoli or Lazio?. https://www.theguardian.com/football/2026/aug/28/football-transfer-rumours-rafael-leao-to-aston-villa-harvey-elliott-to-napoli-or-lazio
+- bbc.co.uk — Kevin Danso: Tottenham reject loan move to Sunderland. https://www.bbc.co.uk/sport/football/articles/cp3knknq5neo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +64,13 @@ Football transfer rumours: Rafael Leao to Aston Villa? Harvey Elliott to Napoli 
 
 ---
 
-## Story 4: Enzo Fernandez transfer news: Chelsea prepared to sell Argentina midfielder to Manchester City for right price
-**Slug (lower-third):** Enzo Fernandez transfer news: Chelsea prepared to sell Ar…  
-**When:** 2026-08-28 03:15 (America/Winnipeg)  •  **Published:** 2026-08-28 08:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
+## Story 3: Nicolas Jackson transfer news: Aston Villa confirm club-record PS65m signing as deal agreed to sign Ibrahim Mbaye from PSG
+**Slug (lower-third):** Nicolas Jackson transfer news: Aston Villa confirm club-r…  
+**When:** 2026-08-28 14:20 (America/Winnipeg)  •  **Published:** 2026-08-28 19:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Enzo Fernandez transfer news: Chelsea prepared to sell Argentina midfielder to Manchester City for right price. Enzo Fernandez joined Chelsea from Benfica for PS107m in 2023; the Argentine played in Chelseas first Premier League game of the season against Fulham; but was not involved against Luton in Carabao Cup; Chelsea previously set an August 14 deadline for City to bid for Fernandez Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Nicolas Jackson transfer news: Aston Villa confirm club-record PS65m signing as deal agreed to sign Ibrahim Mbaye from PSG. Aston Villa have confirmed the signing of Nicolas Jackson in a club-record PS65m deal from Chelsea; Jackson has been signed as Ollie Watkins replacement as he nears a PS50m move to Al Hilal; Villa have also reached a verbal agreement to sign Ibrahim Mbaye from PSG Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,81 +79,7 @@ Enzo Fernandez transfer news: Chelsea prepared to sell Argentina midfielder to M
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Enzo Fernandez transfer news: Chelsea prepared to sell Argentina midfielder to Manchester City for right price. https://www.skysports.com/football/news/12040/13578017/enzo-fernandez-transfer-news-chelsea-prepared-to-sell-argentina-midfielder-to-manchester-city-for-right-price
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk
-**Slug (lower-third):** Enzo Fernandez transfer news: Manchester City confident o…  
-**When:** 2026-08-27 17:35 (America/Winnipeg)  •  **Published:** 2026-08-27 22:35 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~25s
-
-### Presenter Script (3–5 sentences)
-Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk. Latest transfer news and headlines include: Nottingham Forest make bid for Crystal Palace wing-back Daniel Munoz; Liverpool midfielder Harvey Elliott is attracting interest from two Serie A sides; Napoli have made contact with Newcastle over Nick Woltemades availability Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk. https://www.skysports.com/football/news/12040/13577977/enzo-fernandez-transfer-news-manchester-city-confident-of-signing-chelsea-midfielder-paper-talk
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-### League & Regulation
-
-## Story 6: Aston Villa's squad is crumbling while Spurs splash out. Are the financial rules fair?
-**Slug (lower-third):** Aston Villa's squad is crumbling while Spurs splash out. …  
-**When:** 2026-08-28 04:00 (America/Winnipeg)  •  **Published:** 2026-08-28 09:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Aston Villa's squad is crumbling while Spurs splash out. Are the financial rules fair?. Winning the Europa League and finishing fourth did not inoculate Villa and Spurs were not hampered by a season of woe Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Aston Villa's squad is crumbling while Spurs splash out. Are the financial rules fair?. https://www.theguardian.com/football/2026/aug/28/aston-villa-spurs-are-football-financial-rules-fair-transfers
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Women's Super League 2026-27 preview No 7: Crystal Palace
-**Slug (lower-third):** Women's Super League 2026-27 preview No 7: Crystal Palace  
-**When:** 2026-08-27 18:01 (America/Winnipeg)  •  **Published:** 2026-08-27 23:01 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Women's Super League 2026-27 preview No 7: Crystal Palace. Jo Potter's side charged to promotion and have brought in striker Bethany England as they bid to stay up Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Women's Super League 2026-27 preview No 7: Crystal Palace. https://www.theguardian.com/football/2026/aug/28/womens-super-league-2026-27-preview-no-7-crystal-palace
+- skysports.com — Nicolas Jackson transfer news: Aston Villa confirm club-record PS65m signing as deal agreed to sign Ibrahim Mbaye from PSG. https://www.skysports.com/football/news/12040/13578279/nicolas-jackson-transfer-news-aston-villa-confirm-club-record-65m-signing-as-deal-agreed-to-sign-ibrahim-mbaye-from-psg
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -190,13 +90,13 @@ Women's Super League 2026-27 preview No 7: Crystal Palace. Jo Potter's side char
 
 ### Club Updates
 
-## Story 8: Sky Sports | Snooker News
-**Slug (lower-third):** Sky Sports | Snooker News  
-**When:** 2026-08-28 05:00 (America/Winnipeg)  •  **Published:** 2026-08-28 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 4: Crystal Palace 1-4 Man City: Rayan Cherki and Erling Haaland net doubles as Enzo Maresca's reign begins with back-to-back wins
+**Slug (lower-third):** Crystal Palace 1-4 Man City: Rayan Cherki and Erling Haal…  
+**When:** 2026-08-28 16:45 (America/Winnipeg)  •  **Published:** 2026-08-28 21:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Sky Sports | Snooker News. Get the latest Snooker news with Sky Sports. We cover all the major tournaments including Premier League. Relevance to standings and momentum.
+Crystal Palace 1-4 Man City: Rayan Cherki and Erling Haaland net doubles as Enzo Maresca's reign begins with back-to-back wins. Rayan Cherki did his best Lionel Messi impression, producing moments of pure magic as Enzo Maresca's Manchester City stayed perfect in the Premier League with a 4-1 win over Crystal Palace at Selhurst Park. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -205,7 +105,7 @@ Sky Sports | Snooker News. Get the latest Snooker news with Sky Sports. We cover
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sky Sports | Snooker News. https://www.skysports.com/more-sports/snooker
+- skysports.com — Crystal Palace 1-4 Man City: Rayan Cherki and Erling Haaland net doubles as Enzo Maresca's reign begins with back-to-back wins. https://www.skysports.com/football/crystal-palace-vs-manchester-city/report/559458
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -214,13 +114,13 @@ Sky Sports | Snooker News. Get the latest Snooker news with Sky Sports. We cover
 
 ---
 
-## Story 9: Premier League: How top-flight officials adapt to pace of games
-**Slug (lower-third):** Premier League: How top-flight officials adapt to pace of…  
-**When:** 2026-08-28 04:40 (America/Winnipeg)  •  **Published:** 2026-08-28 09:40 (UTC)  
+## Story 5: Crystal Palace v Manchester City: How the players rated
+**Slug (lower-third):** Crystal Palace v Manchester City: How the players rated  
+**When:** 2026-08-28 16:01 (America/Winnipeg)  •  **Published:** 2026-08-28 21:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: How top-flight officials adapt to pace of games. Pre-season camps in Spain and full-time training throughout the season - the rigorous regimes top-flight officials undergo to keep up with the pace of play in the Premier League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Crystal Palace v Manchester City: How the players rated. How Crystal Palace and Manchester City's players rated following their Premier League match. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -229,7 +129,7 @@ Premier League: How top-flight officials adapt to pace of games. Pre-season camp
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League: How top-flight officials adapt to pace of games. https://www.bbc.co.uk/sport/football/articles/cd68q3wx56zo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Crystal Palace v Manchester City: How the players rated. https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -238,13 +138,13 @@ Premier League: How top-flight officials adapt to pace of games. Pre-season camp
 
 ---
 
-## Story 10: Premier League: 10 things to look out for this weekend
-**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
-**When:** 2026-08-27 18:01 (America/Winnipeg)  •  **Published:** 2026-08-27 23:01 (UTC)  
-**Virality score:** 88  •  **Estimated runtime:** ~20s
+## Story 6: Football gossip: Rashford, Camara, Fernandez-Pardo, Endrick, Mateta, Elliott
+**Slug (lower-third):** Football gossip: Rashford, Camara, Fernandez-Pardo, Endri…  
+**When:** 2026-08-28 15:48 (America/Winnipeg)  •  **Published:** 2026-08-28 20:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League: 10 things to look out for this weekend. Liverpool need midfield nous, Michael Carrick is already under pressure and Villa can bid farewell to Enzi Konsa Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Rashford, Camara, Fernandez-Pardo, Endrick, Mateta, Elliott. Arsenal monitor Marcus Rashford, Chelsea eye Monaco's Lamine Camara and Valencia push for Liverpool midfielder Harvey Elliott, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -253,7 +153,103 @@ Premier League: 10 things to look out for this weekend. Liverpool need midfield 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2026/aug/28/premier-league-10-things-to-look-out-for-this-weekend
+- bbc.co.uk — Football gossip: Rashford, Camara, Fernandez-Pardo, Endrick, Mateta, Elliott. https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Nicolas Jackson joins Aston Villa: How striker compares with Ollie Watkins
+**Slug (lower-third):** Nicolas Jackson joins Aston Villa: How striker compares w…  
+**When:** 2026-08-28 14:14 (America/Winnipeg)  •  **Published:** 2026-08-28 19:14 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Nicolas Jackson joins Aston Villa: How striker compares with Ollie Watkins. BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Nicolas Jackson joins Aston Villa: How striker compares with Ollie Watkins. https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Cartoon alpaca Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay
+**Slug (lower-third):** Cartoon alpaca Cole Palmer is a unicorn in this world inv…  
+**When:** 2026-08-28 11:59 (America/Winnipeg)  •  **Published:** 2026-08-28 16:59 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~21s
+
+### Presenter Script (3–5 sentences)
+Cartoon alpaca Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay. Much like Central Cee, the Chelsea attacker is a distinct presence and right now is perhaps the only truly creative English player out there Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Cartoon alpaca Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay. https://www.theguardian.com/football/2026/aug/28/cole-palmer-chelsea-central-cee-england-football
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: US Open tennis, Premier League and Itauma v Hrgovic - follow with us
+**Slug (lower-third):** US Open tennis, Premier League and Itauma v Hrgovic - fol…  
+**When:** 2026-08-28 11:51 (America/Winnipeg)  •  **Published:** 2026-08-28 16:51 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+US Open tennis, Premier League and Itauma v Hrgovic - follow with us. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — US Open tennis, Premier League and Itauma v Hrgovic - follow with us. https://www.theguardian.com/sport/2026/aug/28/us-open-tennis-premier-league-boxing-cricket-rugby-union-follow-with-us
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Manchester United sign Swedish winger Monica Jusu Bah for APS400k
+**Slug (lower-third):** Manchester United sign Swedish winger Monica Jusu Bah for…  
+**When:** 2026-08-28 11:13 (America/Winnipeg)  •  **Published:** 2026-08-28 16:13 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United sign Swedish winger Monica Jusu Bah for APS400k. Manchester United have confirmed the signing of Sweden winger Monica Jusu Bah from BK Hacken for just under APS400,000. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Manchester United sign Swedish winger Monica Jusu Bah for APS400k. https://www.bbc.co.uk/sport/football/articles/c14dlme86d8o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
