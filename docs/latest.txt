@@ -1,25 +1,123 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-27 16:55 (America/Winnipeg)  |  2026-08-27 21:55 (UTC)
+**Generated:** 2026-08-28 05:04 (America/Winnipeg)  |  2026-08-28 10:04 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~4m 33s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk
-- Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Igor Jesus, Woltemade
-- Muniz and Garcia on target in Fulham's Carabao Cup cruise past Wimbledon
+- Sky Sports | Snooker News
+- Premier League: How top-flight officials adapt to pace of games
+- Women's Super League: Brighton boss Dario Vidosic leaves club
+
+---
+
+### Managerial Moves
+
+## Story 1: Women's Super League: Brighton boss Dario Vidosic leaves club
+**Slug (lower-third):** Women's Super League: Brighton boss Dario Vidosic leaves …  
+**When:** 2026-08-28 04:00 (America/Winnipeg)  •  **Published:** 2026-08-28 09:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Women's Super League: Brighton boss Dario Vidosic leaves club. Brighton manager Dario Vidosic is leaving the Women's Super League club just a week before the start of the season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Women's Super League: Brighton boss Dario Vidosic leaves club. https://www.bbc.co.uk/sport/football/articles/c209g56znylo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Dario Vidosic steps down as Brighton manager and is leading Angel City candidate
+**Slug (lower-third):** Dario Vidosic steps down as Brighton manager and is leadi…  
+**When:** 2026-08-28 04:00 (America/Winnipeg)  •  **Published:** 2026-08-28 09:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Dario Vidosic steps down as Brighton manager and is leading Angel City candidate. The Brighton manager Dario Vidosic's exit from the Women's Super League club has been confirmed a little over a week before the start of the season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Dario Vidosic steps down as Brighton manager and is leading Angel City candidate. https://www.theguardian.com/football/2026/aug/27/dario-vidosic-to-step-down-as-brighton-manager-just-before-new-wsl-season
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Transfers
 
-## Story 1: Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk
+## Story 3: Football transfer rumours: Rafael Leao to Aston Villa? Harvey Elliott to Napoli or Lazio?
+**Slug (lower-third):** Football transfer rumours: Rafael Leao to Aston Villa? Ha…  
+**When:** 2026-08-28 03:27 (America/Winnipeg)  •  **Published:** 2026-08-28 08:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football transfer rumours: Rafael Leao to Aston Villa? Harvey Elliott to Napoli or Lazio?. Would Alvarez capture make Arteta happier? | Rafael Leao to make Aston Villa loan switch? | Fiorentina enquire about Joshua Zirkzee move? Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Football transfer rumours: Rafael Leao to Aston Villa? Harvey Elliott to Napoli or Lazio?. https://www.theguardian.com/football/2026/aug/28/football-transfer-rumours-rafael-leao-to-aston-villa-harvey-elliott-to-napoli-or-lazio
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Enzo Fernandez transfer news: Chelsea prepared to sell Argentina midfielder to Manchester City for right price
+**Slug (lower-third):** Enzo Fernandez transfer news: Chelsea prepared to sell Ar…  
+**When:** 2026-08-28 03:15 (America/Winnipeg)  •  **Published:** 2026-08-28 08:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Enzo Fernandez transfer news: Chelsea prepared to sell Argentina midfielder to Manchester City for right price. Enzo Fernandez joined Chelsea from Benfica for PS107m in 2023; the Argentine played in Chelseas first Premier League game of the season against Fulham; but was not involved against Luton in Carabao Cup; Chelsea previously set an August 14 deadline for City to bid for Fernandez Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Enzo Fernandez transfer news: Chelsea prepared to sell Argentina midfielder to Manchester City for right price. https://www.skysports.com/football/news/12040/13578017/enzo-fernandez-transfer-news-chelsea-prepared-to-sell-argentina-midfielder-to-manchester-city-for-right-price
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk
 **Slug (lower-third):** Enzo Fernandez transfer news: Manchester City confident o…  
 **When:** 2026-08-27 17:35 (America/Winnipeg)  •  **Published:** 2026-08-27 22:35 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+**Virality score:** 89  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
 Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfielder - Paper Talk. Latest transfer news and headlines include: Nottingham Forest make bid for Crystal Palace wing-back Daniel Munoz; Liverpool midfielder Harvey Elliott is attracting interest from two Serie A sides; Napoli have made contact with Newcastle over Nick Woltemades availability Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -40,13 +138,15 @@ Enzo Fernandez transfer news: Manchester City confident of signing Chelsea midfi
 
 ---
 
-## Story 2: Emi Martinez transfer news: Chelsea agree APS7.5m fee for Villa goalkeeper
-**Slug (lower-third):** Emi Martinez transfer news: Chelsea agree APS7.5m fee for…  
-**When:** 2026-08-27 13:28 (America/Winnipeg)  •  **Published:** 2026-08-27 18:28 (UTC)  
+### League & Regulation
+
+## Story 6: Aston Villa's squad is crumbling while Spurs splash out. Are the financial rules fair?
+**Slug (lower-third):** Aston Villa's squad is crumbling while Spurs splash out. …  
+**When:** 2026-08-28 04:00 (America/Winnipeg)  •  **Published:** 2026-08-28 09:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Emi Martinez transfer news: Chelsea agree APS7.5m fee for Villa goalkeeper. Chelsea agree a APS7.5m fee to sign Aston Villa goalkeeper Emiliano Martinez. Implications for the squad and table.
+Aston Villa's squad is crumbling while Spurs splash out. Are the financial rules fair?. Winning the Europa League and finishing fourth did not inoculate Villa and Spurs were not hampered by a season of woe Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +155,31 @@ Emi Martinez transfer news: Chelsea agree APS7.5m fee for Villa goalkeeper. Chel
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Emi Martinez transfer news: Chelsea agree APS7.5m fee for Villa goalkeeper. https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Aston Villa's squad is crumbling while Spurs splash out. Are the financial rules fair?. https://www.theguardian.com/football/2026/aug/28/aston-villa-spurs-are-football-financial-rules-fair-transfers
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Women's Super League 2026-27 preview No 7: Crystal Palace
+**Slug (lower-third):** Women's Super League 2026-27 preview No 7: Crystal Palace  
+**When:** 2026-08-27 18:01 (America/Winnipeg)  •  **Published:** 2026-08-27 23:01 (UTC)  
+**Virality score:** 88  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Women's Super League 2026-27 preview No 7: Crystal Palace. Jo Potter's side charged to promotion and have brought in striker Bethany England as they bid to stay up Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Women's Super League 2026-27 preview No 7: Crystal Palace. https://www.theguardian.com/football/2026/aug/28/womens-super-league-2026-27-preview-no-7-crystal-palace
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,13 +190,13 @@ Emi Martinez transfer news: Chelsea agree APS7.5m fee for Villa goalkeeper. Chel
 
 ### Club Updates
 
-## Story 3: Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Igor Jesus, Woltemade
-**Slug (lower-third):** Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Ig…  
-**When:** 2026-08-27 16:33 (America/Winnipeg)  •  **Published:** 2026-08-27 21:33 (UTC)  
+## Story 8: Sky Sports | Snooker News
+**Slug (lower-third):** Sky Sports | Snooker News  
+**When:** 2026-08-28 05:00 (America/Winnipeg)  •  **Published:** 2026-08-28 10:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Igor Jesus, Woltemade. Arsenal continue pursuit to sign Julian Alvarez, Manchester City target Everton's Iliman Ndiaye and Aston Villa make direct contact to sign Rafael Leao. Relevance to standings and momentum.
+Sky Sports | Snooker News. Get the latest Snooker news with Sky Sports. We cover all the major tournaments including Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +205,7 @@ Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Igor Jesus, Woltemade. Ar
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Igor Jesus, Woltemade. https://www.bbc.co.uk/sport/football/articles/c3eq89xedp0o?at_medium=RSS&at_campaign=rss
+- skysports.com — Sky Sports | Snooker News. https://www.skysports.com/more-sports/snooker
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +214,13 @@ Football gossip: Alvarez, Ndiaye, Leao, Gabriel Jesus, Igor Jesus, Woltemade. Ar
 
 ---
 
-## Story 4: Muniz and Garcia on target in Fulham's Carabao Cup cruise past Wimbledon
-**Slug (lower-third):** Muniz and Garcia on target in Fulham's Carabao Cup cruise…  
-**When:** 2026-08-27 16:01 (America/Winnipeg)  •  **Published:** 2026-08-27 21:01 (UTC)  
+## Story 9: Premier League: How top-flight officials adapt to pace of games
+**Slug (lower-third):** Premier League: How top-flight officials adapt to pace of…  
+**When:** 2026-08-28 04:40 (America/Winnipeg)  •  **Published:** 2026-08-28 09:40 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Muniz and Garcia on target in Fulham's Carabao Cup cruise past Wimbledon. Emile Smith Rowe opened the scoring as Fulham eased to a 3-0 win against AFC Wimbledon, setting up a third-round trip to West Ham Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League: How top-flight officials adapt to pace of games. Pre-season camps in Spain and full-time training throughout the season - the rigorous regimes top-flight officials undergo to keep up with the pace of play in the Premier League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +229,7 @@ Muniz and Garcia on target in Fulham's Carabao Cup cruise past Wimbledon. Emile 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Muniz and Garcia on target in Fulham's Carabao Cup cruise past Wimbledon. https://www.theguardian.com/football/2026/aug/27/fulham-wimbledon-carabao-cup-second-round-match-report
+- bbc.co.uk — Premier League: How top-flight officials adapt to pace of games. https://www.bbc.co.uk/sport/football/articles/cd68q3wx56zo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +238,13 @@ Muniz and Garcia on target in Fulham's Carabao Cup cruise past Wimbledon. Emile 
 
 ---
 
-## Story 5: Ipswich Town sign Argentina World Cup winner Exequiel Palacios from Bayer Leverkusen
-**Slug (lower-third):** Ipswich Town sign Argentina World Cup winner Exequiel Pal…  
-**When:** 2026-08-27 15:54 (America/Winnipeg)  •  **Published:** 2026-08-27 20:54 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Premier League: 10 things to look out for this weekend
+**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
+**When:** 2026-08-27 18:01 (America/Winnipeg)  •  **Published:** 2026-08-27 23:01 (UTC)  
+**Virality score:** 88  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ipswich Town sign Argentina World Cup winner Exequiel Palacios from Bayer Leverkusen. Argentina midfielder Exequiel Palacios becomes the first World Cup winner to sign for Ipswich Town after joining from Bayer Leverkusen. Relevance to standings and momentum.
+Premier League: 10 things to look out for this weekend. Liverpool need midfield nous, Michael Carrick is already under pressure and Villa can bid farewell to Enzi Konsa Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,129 +253,7 @@ Ipswich Town sign Argentina World Cup winner Exequiel Palacios from Bayer Leverk
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Ipswich Town sign Argentina World Cup winner Exequiel Palacios from Bayer Leverkusen. https://www.bbc.co.uk/sport/football/articles/c77048xg87jo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Danny Welbeck leads Chelsea past Luton as Fernandez misses Carabao Cup tie
-**Slug (lower-third):** Danny Welbeck leads Chelsea past Luton as Fernandez misse…  
-**When:** 2026-08-27 15:40 (America/Winnipeg)  •  **Published:** 2026-08-27 20:40 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Danny Welbeck leads Chelsea past Luton as Fernandez misses Carabao Cup tie. Danny Welbeck scored his first goal for Chelsea in their 2-0 win over Luton in the Carabao Cup second round, but Enzo Fernandez was left out Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Danny Welbeck leads Chelsea past Luton as Fernandez misses Carabao Cup tie. https://www.theguardian.com/football/2026/aug/27/chelsea-luton-carabao-cup-second-round-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Rangers crash out of Conference League in shootout loss to Czech side Jablonec
-**Slug (lower-third):** Rangers crash out of Conference League in shootout loss t…  
-**When:** 2026-08-27 15:38 (America/Winnipeg)  •  **Published:** 2026-08-27 20:38 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Rangers crash out of Conference League in shootout loss to Czech side Jablonec. Derek McInnes' side lost 4-3 on penalties to Jablonec after a 1-1 aggregate draw, while Brighton advanced with a second-leg rout of Tromso Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Rangers crash out of Conference League in shootout loss to Czech side Jablonec. https://www.theguardian.com/football/2026/aug/27/europa-conference-league-rangers-jablonec-brighton
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Premier League predictions & Jones Knows' best bets: Crystal Palace pain? Man City to make it back-to-back wins
-**Slug (lower-third):** Premier League predictions & Jones Knows' best bets: Crys…  
-**When:** 2026-08-27 14:00 (America/Winnipeg)  •  **Published:** 2026-08-27 19:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Premier League predictions & Jones Knows' best bets: Crystal Palace pain? Man City to make it back-to-back wins. Our football betting expert Lewis Jones landed all four of his best bets last weekend and nailed six correct results and four exact scores! Watch SEVEN matches live on Sky Sports this weekend; Play Super 6 for a chance to win PS1m! Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Premier League predictions & Jones Knows' best bets: Crystal Palace pain? Man City to make it back-to-back wins. https://www.skysports.com/football/news/12040/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Chelsea agree PS7.5m deal to sign Emiliano Martinez from Aston Villa
-**Slug (lower-third):** Chelsea agree PS7.5m deal to sign Emiliano Martinez from …  
-**When:** 2026-08-27 13:19 (America/Winnipeg)  •  **Published:** 2026-08-27 18:19 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Chelsea agree PS7.5m deal to sign Emiliano Martinez from Aston Villa. Chelsea have agreed a deal for the Aston Villa goalkeeper Emiliano Martinez but Enzo Fernandez has been left out of Thursday's Carabao Cup tie Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Chelsea agree PS7.5m deal to sign Emiliano Martinez from Aston Villa. https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez
-- skysports.com — Emiliano Martinez transfer news: Chelsea agree PS7.5m deal to sign Aston Villa's World Cup winning goalkeeper. https://www.skysports.com/football/news/12040/13577794/emiliano-martinez-transfer-news-chelsea-agree-7-5m-deal-to-sign-aston-villas-world-cup-winning-goalkeeper
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Champions League draw: Arsenal face Real Madrid, Man City get Barcelona and PSG
-**Slug (lower-third):** Champions League draw: Arsenal face Real Madrid, Man City…  
-**When:** 2026-08-27 12:44 (America/Winnipeg)  •  **Published:** 2026-08-27 17:44 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Champions League draw: Arsenal face Real Madrid, Man City get Barcelona and PSG. Arsenal will host Real Madrid and visit Bayern Munich, Aston Villa entertain PSG and Liverpool face Inter at San Siro Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Champions League draw: Arsenal face Real Madrid, Man City get Barcelona and PSG. https://www.theguardian.com/football/2026/aug/27/champions-league-draw-arsenal-face-real-madrid-as-manchester-city-get-psg
-- skysports.com — Champions League draw: Arsenal to face Real Madrid and Bayern Munich in league phase as Man City and Aston Villa get PSG. https://www.skysports.com/football/news/12040/13577826/champions-league-draw-arsenal-to-face-real-madrid-and-bayern-munich-in-league-phase-as-man-city-and-aston-villa-get-psg
+- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2026/aug/28/premier-league-10-things-to-look-out-for-this-weekend
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
