@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-29 11:20 (America/Winnipeg)  |  2026-08-29 16:20 (UTC)
+**Generated:** 2026-08-29 15:33 (America/Winnipeg)  |  2026-08-29 20:33 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~4m 36s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Southampton 5-1 Millwall: Cyle Larin scores twice in Saints romp
-- Bournemouth 1-1 Everton: James Tarkowski's late goal denies Bournemouth victory on Marco Rose's home debut
-- Alexander Isak: Liverpool manager Andoni Iraola must get best out of striker
+- Newcastle duo Anthony Elanga and Yoane Wissa thriving under Matthias Jaissle after win over Tottenham - Premier League hits and misses
+- Cody Gakpo transfer news: Manchester City open talks to sign Liverpool forward
+- Tottenham Hotspur 2-0 Newcastle United: Matthias Jaissle post-match interview
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Alexander Isak: Liverpool manager Andoni Iraola must get best out of striker
-**Slug (lower-third):** Alexander Isak: Liverpool manager Andoni Iraola must get …  
-**When:** 2026-08-29 10:49 (America/Winnipeg)  •  **Published:** 2026-08-29 15:49 (UTC)  
+## Story 1: Tottenham Hotspur 2-0 Newcastle United: Matthias Jaissle post-match interview
+**Slug (lower-third):** Tottenham Hotspur 2-0 Newcastle United: Matthias Jaissle …  
+**When:** 2026-08-29 15:02 (America/Winnipeg)  •  **Published:** 2026-08-29 20:02 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Alexander Isak: Liverpool manager Andoni Iraola must get best out of striker. Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Tottenham Hotspur 2-0 Newcastle United: Matthias Jaissle post-match interview. Newcastle manager Matthias Jaissle says their 2-0 away win is "well deserved" and praises his side's decision making to secure three points against Tottenham in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,79 @@ Alexander Isak: Liverpool manager Andoni Iraola must get best out of striker. Al
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Alexander Isak: Liverpool manager Andoni Iraola must get best out of striker. https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Tottenham Hotspur 2-0 Newcastle United: Matthias Jaissle post-match interview. https://www.bbc.co.uk/sport/football/videos/c3d7x1n93j2o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Premier League highlights: Liverpool 2-2 Nottingham Forest
+**Slug (lower-third):** Premier League highlights: Liverpool 2-2 Nottingham Forest  
+**When:** 2026-08-29 14:12 (America/Winnipeg)  •  **Published:** 2026-08-29 19:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League highlights: Liverpool 2-2 Nottingham Forest. Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Premier League highlights: Liverpool 2-2 Nottingham Forest. https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: No country for old men: Premier League grind is why managers are getting younger
+**Slug (lower-third):** No country for old men: Premier League grind is why manag…  
+**When:** 2026-08-29 14:00 (America/Winnipeg)  •  **Published:** 2026-08-29 19:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+No country for old men: Premier League grind is why managers are getting younger. The boss in the dugout is typically no longer an ageing former player - most are in their 40s on an exhausting treadmill Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — No country for old men: Premier League grind is why managers are getting younger. https://www.theguardian.com/football/2026/aug/29/premier-league-managers-young-old-football-coaches
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: David Moyes: Everton manager on fans' anger at potential Harrison Armstrong sale
+**Slug (lower-third):** David Moyes: Everton manager on fans' anger at potential …  
+**When:** 2026-08-29 13:59 (America/Winnipeg)  •  **Published:** 2026-08-29 18:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+David Moyes: Everton manager on fans' anger at potential Harrison Armstrong sale. David Moyes says "supporters aren't always wrong" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — David Moyes: Everton manager on fans' anger at potential Harrison Armstrong sale. https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +114,13 @@ Alexander Isak: Liverpool manager Andoni Iraola must get best out of striker. Al
 
 ### Transfers
 
-## Story 2: Alonso gets Chelsea's priorities right by ditching Sanchez for winner Martinez | Jacob Steinberg
-**Slug (lower-third):** Alonso gets Chelsea's priorities right by ditching Sanche…  
-**When:** 2026-08-29 06:00 (America/Winnipeg)  •  **Published:** 2026-08-29 11:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 5: Cody Gakpo transfer news: Manchester City open talks to sign Liverpool forward
+**Slug (lower-third):** Cody Gakpo transfer news: Manchester City open talks to s…  
+**When:** 2026-08-29 15:23 (America/Winnipeg)  •  **Published:** 2026-08-29 20:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Alonso gets Chelsea's priorities right by ditching Sanchez for winner Martinez | Jacob Steinberg. Signing of World Cup winner adds to sense that this is the summer when BlueCo got serious in transfer market Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Cody Gakpo transfer news: Manchester City open talks to sign Liverpool forward. Man City allowed wide forwards Savio and Omar Marmoush to join Tottenham this month, and winger Jack Grealish is of interest to Everton and Sunderland; Liverpool are set to sign winger Bradley Barcola and added Victor Munoz earlier this summer Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +129,8 @@ Alonso gets Chelsea's priorities right by ditching Sanchez for winner Martinez |
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Alonso gets Chelsea's priorities right by ditching Sanchez for winner Martinez | Jacob Steinberg. https://www.theguardian.com/football/2026/aug/29/xabi-alonso-chelsea-keepers-robert-sanchez-emiliano-martinez
+- skysports.com — Cody Gakpo transfer news: Manchester City open talks to sign Liverpool forward. https://www.skysports.com/football/news/12040/13578859/cody-gakpo-transfer-news-manchester-city-open-talks-to-sign-liverpool-forward
+- bbc.co.uk — Cody Gakpo: Manchester City open talks with Liverpool about transfer. https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +141,37 @@ Alonso gets Chelsea's priorities right by ditching Sanchez for winner Martinez |
 
 ### Club Updates
 
-## Story 3: Southampton 5-1 Millwall: Cyle Larin scores twice in Saints romp
-**Slug (lower-third):** Southampton 5-1 Millwall: Cyle Larin scores twice in Sain…  
-**When:** 2026-08-29 12:15 (America/Winnipeg)  •  **Published:** 2026-08-29 17:15 (UTC)  
+## Story 6: Newcastle duo Anthony Elanga and Yoane Wissa thriving under Matthias Jaissle after win over Tottenham - Premier League hits and misses
+**Slug (lower-third):** Newcastle duo Anthony Elanga and Yoane Wissa thriving und…  
+**When:** 2026-08-29 15:30 (America/Winnipeg)  •  **Published:** 2026-08-29 20:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Newcastle duo Anthony Elanga and Yoane Wissa thriving under Matthias Jaissle after win over Tottenham - Premier League hits and misses. Sky Sports football writers analyse Saturdays action as Anthony Elanga and Yoane Wissa form the heartbeat of Matthias Jaissles positive start at Newcastle; Rayan Cherki stars in Man City win over Palace; Hull City fly the flag for the Premier League newcomers Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Newcastle duo Anthony Elanga and Yoane Wissa thriving under Matthias Jaissle after win over Tottenham - Premier League hits and misses. https://www.skysports.com/football/news/12040/13578505/newcastle-duo-anthony-elanga-and-yoane-wissa-thriving-under-matthias-jaissle-after-win-over-tottenham-premier-league-hits-and-misses
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Tottenham Hotspur 0-2 Newcastle | Premier League highlights
+**Slug (lower-third):** Tottenham Hotspur 0-2 Newcastle | Premier League highligh…  
+**When:** 2026-08-29 14:30 (America/Winnipeg)  •  **Published:** 2026-08-29 19:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Southampton 5-1 Millwall: Cyle Larin scores twice in Saints romp. Cyle Larin proved why Southampton boss Tonda Eckert rates him as the best striker in the Championship as his double in a 5-1 victory shattered Millwall's perfect start to the season. Relevance to standings and momentum.
+Tottenham Hotspur 0-2 Newcastle | Premier League highlights. FREE TO WATCH: Highlights from the Premier League match between Tottenham Hotspur and Newcastle United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +180,8 @@ Southampton 5-1 Millwall: Cyle Larin scores twice in Saints romp. Cyle Larin pro
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Southampton 5-1 Millwall: Cyle Larin scores twice in Saints romp. https://www.skysports.com/football/southampton-vs-millwall/report/560530
+- skysports.com — Tottenham Hotspur 0-2 Newcastle | Premier League highlights. https://www.skysports.com/watch/video/13578834/tottenham-hotspur-0-2-newcastle-premier-league-highlights
+- bbc.co.uk — Premier League highlights: Tottenham Hotspur 0-2 Newcastle United. https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +190,13 @@ Southampton 5-1 Millwall: Cyle Larin scores twice in Saints romp. Cyle Larin pro
 
 ---
 
-## Story 4: Bournemouth 1-1 Everton: James Tarkowski's late goal denies Bournemouth victory on Marco Rose's home debut
-**Slug (lower-third):** Bournemouth 1-1 Everton: James Tarkowski's late goal deni…  
-**When:** 2026-08-29 11:45 (America/Winnipeg)  •  **Published:** 2026-08-29 16:45 (UTC)  
+## Story 8: Premier League highlights: Coventry City 0-1 Hull City
+**Slug (lower-third):** Premier League highlights: Coventry City 0-1 Hull City  
+**When:** 2026-08-29 14:12 (America/Winnipeg)  •  **Published:** 2026-08-29 19:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bournemouth 1-1 Everton: James Tarkowski's late goal denies Bournemouth victory on Marco Rose's home debut. James Tarkowski's stoppage-time goal denied Bournemouth victory on Marco Rose's home Premier League debut. Relevance to standings and momentum.
+Premier League highlights: Coventry City 0-1 Hull City. Substitute Liam Millar's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +205,7 @@ Bournemouth 1-1 Everton: James Tarkowski's late goal denies Bournemouth victory 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Bournemouth 1-1 Everton: James Tarkowski's late goal denies Bournemouth victory on Marco Rose's home debut. https://www.skysports.com/football/bournemouth-vs-everton/report/559455
+- bbc.co.uk — Premier League highlights: Coventry City 0-1 Hull City. https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +214,13 @@ Bournemouth 1-1 Everton: James Tarkowski's late goal denies Bournemouth victory 
 
 ---
 
-## Story 5: Liverpool 2-2 Nottingham Forest: Andoni Iraola frustrated by long wait to make substitutions
-**Slug (lower-third):** Liverpool 2-2 Nottingham Forest: Andoni Iraola frustrated…  
-**When:** 2026-08-29 10:27 (America/Winnipeg)  •  **Published:** 2026-08-29 15:27 (UTC)  
+## Story 9: Premier League highlights: Bournemouth 1-1 Everton
+**Slug (lower-third):** Premier League highlights: Bournemouth 1-1 Everton  
+**When:** 2026-08-29 14:12 (America/Winnipeg)  •  **Published:** 2026-08-29 19:12 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool 2-2 Nottingham Forest: Andoni Iraola frustrated by long wait to make substitutions. Liverpool boss Andoni Iraola says he was angry about being prevented from making a triple substitution sooner during his side's draw against Nottingham Forest. Relevance to standings and momentum.
+Premier League highlights: Bournemouth 1-1 Everton. Everton captain James Tarkowski strikes in the 91st minute to rescue a point, as Bournemouth settle for a 1-1 draw at the Vitality Stadium. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +229,7 @@ Liverpool 2-2 Nottingham Forest: Andoni Iraola frustrated by long wait to make s
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Liverpool 2-2 Nottingham Forest: Andoni Iraola frustrated by long wait to make substitutions. https://www.bbc.co.uk/sport/football/articles/cd795e9ejgzo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Premier League highlights: Bournemouth 1-1 Everton. https://www.bbc.co.uk/sport/football/videos/c70lenegd1qo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +238,13 @@ Liverpool 2-2 Nottingham Forest: Andoni Iraola frustrated by long wait to make s
 
 ---
 
-## Story 6: Daniel Munoz: Nottingham Forest in advanced talks to sign Crystal Palace defender
-**Slug (lower-third):** Daniel Munoz: Nottingham Forest in advanced talks to sign…  
-**When:** 2026-08-29 10:03 (America/Winnipeg)  •  **Published:** 2026-08-29 15:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: Super League: Warrington seal home play-off spot as Wakefield also book post-season place
+**Slug (lower-third):** Super League: Warrington seal home play-off spot as Wakef…  
+**When:** 2026-08-29 12:19 (America/Winnipeg)  •  **Published:** 2026-08-29 17:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Daniel Munoz: Nottingham Forest in advanced talks to sign Crystal Palace defender. Nottingham Forest are in advanced talks over a deal worth up to APS25m to sign Crystal Palace defender Daniel Munoz. Relevance to standings and momentum.
+Super League: Warrington seal home play-off spot as Wakefield also book post-season place. Warrington Wolves withstand late Hull FC fightback to win and guarantee home play-off; Wakefield Trinity beat York Knights to confirm their own post-season spot; watch round 26 of Super League from Thursday, live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,103 +253,7 @@ Daniel Munoz: Nottingham Forest in advanced talks to sign Crystal Palace defende
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Daniel Munoz: Nottingham Forest in advanced talks to sign Crystal Palace defender. https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Wolves 4-1 Stoke City: Rodrigo Gomes scores twice in comeback win
-**Slug (lower-third):** Wolves 4-1 Stoke City: Rodrigo Gomes scores twice in come…  
-**When:** 2026-08-29 09:00 (America/Winnipeg)  •  **Published:** 2026-08-29 14:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Wolves 4-1 Stoke City: Rodrigo Gomes scores twice in comeback win. Wolves came from behind to beat Stoke 4-1 and continue their unbeaten start in the Sky Bet Championship. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Wolves 4-1 Stoke City: Rodrigo Gomes scores twice in comeback win. https://www.skysports.com/football/wolverhampton-wanderers-vs-stoke-city/report/560532
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Harrison Armstrong: Nottingham Forest bid APS40m for Everton teenager
-**Slug (lower-third):** Harrison Armstrong: Nottingham Forest bid APS40m for Ever…  
-**When:** 2026-08-29 07:41 (America/Winnipeg)  •  **Published:** 2026-08-29 12:41 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Harrison Armstrong: Nottingham Forest bid APS40m for Everton teenager. Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Harrison Armstrong: Nottingham Forest bid APS40m for Everton teenager. https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Who was given the toughest fixtures in the Champions League draw?
-**Slug (lower-third):** Who was given the toughest fixtures in the Champions Leag…  
-**When:** 2026-08-29 07:24 (America/Winnipeg)  •  **Published:** 2026-08-29 12:24 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Who was given the toughest fixtures in the Champions League draw?. Liverpool and Arsenal have a decent set of fixtures, but Manchester City and Aston Villa do not have it so good Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Who was given the toughest fixtures in the Champions League draw?. https://www.theguardian.com/football/2026/aug/28/champions-league-draw-liverpool-arsenal-manchester-city-aston-villa
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Coventry City: Frank Lampard and Tom Grennan share why they will be brave in the Premier League
-**Slug (lower-third):** Coventry City: Frank Lampard and Tom Grennan share why th…  
-**When:** 2026-08-29 00:13 (America/Winnipeg)  •  **Published:** 2026-08-29 05:13 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Coventry City: Frank Lampard and Tom Grennan share why they will be brave in the Premier League. Frank Lampard and Tom Grennan discuss why Coventry will be playing brave football in the Premier League this season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Coventry City: Frank Lampard and Tom Grennan share why they will be brave in the Premier League. https://www.bbc.co.uk/sport/football/videos/c3r02929wllo?at_medium=RSS&at_campaign=rss
+- skysports.com — Super League: Warrington seal home play-off spot as Wakefield also book post-season place. https://www.skysports.com/rugby-league/news/12040/13578748/super-league-warrington-seal-home-play-off-spot-as-wakefield-also-book-post-season-place
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
