@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-30 11:14 (America/Winnipeg)  |  2026-08-30 16:14 (UTC)
+**Generated:** 2026-08-30 15:42 (America/Winnipeg)  |  2026-08-30 20:42 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~3m 24s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues victorious start as manager
-- Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point for hosts with late tap-in after Kevin Schade's brilliant opener
-- Leeds United 1-1 Brentford | Premier League highlights
+- Bruno Fernandes: Captain still setting the standard with Man Utd hat-trick
+- Manchester United v Ipswich Town: Gary O'Neil post-match interview
+- Manchester United 5-2 Ipswich Town: Michael Carrick post-match interview
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues victorious start as manager
-**Slug (lower-third):** Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xa…  
-**When:** 2026-08-30 11:30 (America/Winnipeg)  •  **Published:** 2026-08-30 16:30 (UTC)  
+## Story 1: Manchester United v Ipswich Town: Gary O'Neil post-match interview
+**Slug (lower-third):** Manchester United v Ipswich Town: Gary O'Neil post-match …  
+**When:** 2026-08-30 15:01 (America/Winnipeg)  •  **Published:** 2026-08-30 20:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues victorious start as manager. Chelsea held off a Brighton fightback to clinch a thrilling 4-3 victory and continue their winning start under manager Xabi Alonso. Relevance to standings and momentum.
+Manchester United v Ipswich Town: Gary O'Neil post-match interview. Ipswich Town manager Gary O'Neil questions the handball rule after a loophole allowed Harry Maguire's handling offence to stand as a Jacob Greaves own goal. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues vic
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues victorious start as manager. https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/report/559456
+- bbc.co.uk — Manchester United v Ipswich Town: Gary O'Neil post-match interview. https://www.bbc.co.uk/sport/football/videos/cwyzxz0yvz0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,15 +40,13 @@ Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues vic
 
 ---
 
-### Transfers
-
-## Story 2: Arsenal transfer news: Gabriel Jesus close to joining Barcelona
-**Slug (lower-third):** Arsenal transfer news: Gabriel Jesus close to joining Bar…  
-**When:** 2026-08-30 11:01 (America/Winnipeg)  •  **Published:** 2026-08-30 16:01 (UTC)  
+## Story 2: Manchester United 5-2 Ipswich Town: Michael Carrick post-match interview
+**Slug (lower-third):** Manchester United 5-2 Ipswich Town: Michael Carrick post-…  
+**When:** 2026-08-30 14:41 (America/Winnipeg)  •  **Published:** 2026-08-30 19:41 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal transfer news: Gabriel Jesus close to joining Barcelona. Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth APS8.6m. Implications for the squad and table.
+Manchester United 5-2 Ipswich Town: Michael Carrick post-match interview. Manchester United manager Michael Carrick is "really pleased" with his team as Bruno Fernandes' hat-trick inspires a 5-2 comeback win over Ipswich Town, following last weekend's opening-day defeat. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,79 +55,7 @@ Arsenal transfer news: Gabriel Jesus close to joining Barcelona. Barcelona are c
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Arsenal transfer news: Gabriel Jesus close to joining Barcelona. https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Jean-Matteo Bahoya transfer news: Hull City's deal for Frankfurt winger falls through
-**Slug (lower-third):** Jean-Matteo Bahoya transfer news: Hull City's deal for Fr…  
-**When:** 2026-08-30 10:09 (America/Winnipeg)  •  **Published:** 2026-08-30 15:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Jean-Matteo Bahoya transfer news: Hull City's deal for Frankfurt winger falls through. Hull City's move for Eintracht Frankfurt winger Jean-Matteo Bahoya falls through after the player decides against joining the Premier League side. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Jean-Matteo Bahoya transfer news: Hull City's deal for Frankfurt winger falls through. https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Gabriel Jesus: Barcelona agree PS8.6m deal in principle to sign Arsenal and Brazil forward
-**Slug (lower-third):** Gabriel Jesus: Barcelona agree PS8.6m deal in principle t…  
-**When:** 2026-08-30 09:01 (America/Winnipeg)  •  **Published:** 2026-08-30 14:01 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Gabriel Jesus: Barcelona agree PS8.6m deal in principle to sign Arsenal and Brazil forward. Barcelona agree deal with Arsenal to sign Gabriel Jesus; transfer for Brazilian forward worth PS8.6m; Jesus to travel to Spain to complete move; Arsenal also agree deal worth around PS7.7m to sell midfielder Fabio Vieira to Hamburg Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Gabriel Jesus: Barcelona agree PS8.6m deal in principle to sign Arsenal and Brazil forward. https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Manchester United transfer latest: Gary Neville claims the Red Devils must buy a centre-back and left-back before the transfer window closes
-**Slug (lower-third):** Manchester United transfer latest: Gary Neville claims th…  
-**When:** 2026-08-30 08:48 (America/Winnipeg)  •  **Published:** 2026-08-30 13:48 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~31s
-
-### Presenter Script (3–5 sentences)
-Manchester United transfer latest: Gary Neville claims the Red Devils must buy a centre-back and left-back before the transfer window closes. Gary Neville has insisted that Man Utds defensive vulnerabilities will let Michael Carrick down if not addressed by the end of the transfer window; summer transfer window deadline is 11pm on September 1 - follow on SSN and with the Transfer Centre in the Sky Sports app Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Manchester United transfer latest: Gary Neville claims the Red Devils must buy a centre-back and left-back before the transfer window closes. https://www.skysports.com/football/news/12040/13579014/manchester-united-transfer-latest-gary-neville-claims-the-red-devils-must-buy-a-centre-back-and-left-back-before-the-transfer-window-closes
+- bbc.co.uk — Manchester United 5-2 Ipswich Town: Michael Carrick post-match interview. https://www.bbc.co.uk/sport/football/videos/c05rprn1ld1o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +66,13 @@ Manchester United transfer latest: Gary Neville claims the Red Devils must buy a
 
 ### Club Updates
 
-## Story 6: Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point for hosts with late tap-in after Kevin Schade's brilliant opener
-**Slug (lower-third):** Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point fo…  
-**When:** 2026-08-30 11:15 (America/Winnipeg)  •  **Published:** 2026-08-30 16:15 (UTC)  
+## Story 3: Bruno Fernandes: Captain still setting the standard with Man Utd hat-trick
+**Slug (lower-third):** Bruno Fernandes: Captain still setting the standard with …  
+**When:** 2026-08-30 15:04 (America/Winnipeg)  •  **Published:** 2026-08-30 20:04 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point for hosts with late tap-in after Kevin Schade's brilliant opener. Dominic Calvert-Lewin scored a late tap-in to earn Leeds United a 1-1 draw with Brentford at Elland Road. Relevance to standings and momentum.
+Bruno Fernandes: Captain still setting the standard with Man Utd hat-trick. For all the new signings, it is still captain Bruno Fernandes who sets the standard at Manchester United, writes Simon Stone. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +81,7 @@ Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point for hosts with late tap-i
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point for hosts with late tap-in after Kevin Schade's brilliant opener. https://www.skysports.com/football/leeds-united-vs-brentford/report/559459
+- bbc.co.uk — Bruno Fernandes: Captain still setting the standard with Man Utd hat-trick. https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +90,13 @@ Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point for hosts with late tap-i
 
 ---
 
-## Story 7: Leeds United 1-1 Brentford | Premier League highlights
-**Slug (lower-third):** Leeds United 1-1 Brentford | Premier League highlights  
-**When:** 2026-08-30 11:11 (America/Winnipeg)  •  **Published:** 2026-08-30 16:11 (UTC)  
+## Story 4: Leeds United 1-1 Brentford highlights: match ends in a draw after Dominic Calvert-Lewin goal
+**Slug (lower-third):** Leeds United 1-1 Brentford highlights: match ends in a dr…  
+**When:** 2026-08-30 14:00 (America/Winnipeg)  •  **Published:** 2026-08-30 19:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Leeds United 1-1 Brentford | Premier League highlights. Highlights from Leeds United against Brentford in the Premier League. Relevance to standings and momentum.
+Leeds United 1-1 Brentford highlights: match ends in a draw after Dominic Calvert-Lewin goal. Dominic Calvert-Lewin scores his first goal of the season as Leeds battle back and earn a 1-1 draw against Brentford. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,7 +105,7 @@ Leeds United 1-1 Brentford | Premier League highlights. Highlights from Leeds Un
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Leeds United 1-1 Brentford | Premier League highlights. https://www.skysports.com/watch/video/13579102/leeds-united-1-1-brentford-premier-league-highlights
+- bbc.co.uk — Leeds United 1-1 Brentford highlights: match ends in a draw after Dominic Calvert-Lewin goal. https://www.bbc.co.uk/sport/football/videos/cn0jx60ekk0o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -188,13 +114,13 @@ Leeds United 1-1 Brentford | Premier League highlights. Highlights from Leeds Un
 
 ---
 
-## Story 8: Sunderland 1-0 Fulham | Premier League highlights
-**Slug (lower-third):** Sunderland 1-0 Fulham | Premier League highlights  
-**When:** 2026-08-30 11:10 (America/Winnipeg)  •  **Published:** 2026-08-30 16:10 (UTC)  
+## Story 5: Sunderland 1-0 Fulham highlights: Wilson Isidor scores winning goal against Fulham
+**Slug (lower-third):** Sunderland 1-0 Fulham highlights: Wilson Isidor scores wi…  
+**When:** 2026-08-30 14:00 (America/Winnipeg)  •  **Published:** 2026-08-30 19:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sunderland 1-0 Fulham | Premier League highlights. FREE TO WATCH: Highlights from Sunderland's match against Fulham in the Premier League. Relevance to standings and momentum.
+Sunderland 1-0 Fulham highlights: Wilson Isidor scores winning goal against Fulham. Substitute Wilson Isidor strikes in the 75th minute to secure a hard-fought 1-0 victory for Sunderland over Fulham at the Stadium of Light. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -203,7 +129,7 @@ Sunderland 1-0 Fulham | Premier League highlights. FREE TO WATCH: Highlights fro
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sunderland 1-0 Fulham | Premier League highlights. https://www.skysports.com/watch/video/13579100/sunderland-1-0-fulham-premier-league-highlights
+- bbc.co.uk — Sunderland 1-0 Fulham highlights: Wilson Isidor scores winning goal against Fulham. https://www.bbc.co.uk/sport/football/videos/cy9zq3zx7veo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -212,13 +138,13 @@ Sunderland 1-0 Fulham | Premier League highlights. FREE TO WATCH: Highlights fro
 
 ---
 
-## Story 9: Sunderland 1-0 Fulham: Substitute Wilson Isidor scores late Black Cats winner
-**Slug (lower-third):** Sunderland 1-0 Fulham: Substitute Wilson Isidor scores la…  
-**When:** 2026-08-30 10:45 (America/Winnipeg)  •  **Published:** 2026-08-30 15:45 (UTC)  
+## Story 6: Chelsea 4-3 Brighton & Hove Albion: Chelsea maintain perfect start in seven-goal thriller against Brighton
+**Slug (lower-third):** Chelsea 4-3 Brighton & Hove Albion: Chelsea maintain perf…  
+**When:** 2026-08-30 14:00 (America/Winnipeg)  •  **Published:** 2026-08-30 19:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Sunderland 1-0 Fulham: Substitute Wilson Isidor scores late Black Cats winner. Sunderland secured their first points of the season as Wilson Isidor's effort earned them a 1-0 win against Fulham. Relevance to standings and momentum.
+Chelsea 4-3 Brighton & Hove Albion: Chelsea maintain perfect start in seven-goal thriller against Brighton. Chelsea maintained their perfect start to the season under Xabi Alonso, holding off a Brighton fightback to win a seven-goal encounter 4-3 at Stamford Bridge. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -227,7 +153,7 @@ Sunderland 1-0 Fulham: Substitute Wilson Isidor scores late Black Cats winner. S
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Sunderland 1-0 Fulham: Substitute Wilson Isidor scores late Black Cats winner. https://www.skysports.com/football/sunderland-vs-fulham/report/559462
+- bbc.co.uk — Chelsea 4-3 Brighton & Hove Albion: Chelsea maintain perfect start in seven-goal thriller against Brighton. https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -236,13 +162,13 @@ Sunderland 1-0 Fulham: Substitute Wilson Isidor scores late Black Cats winner. S
 
 ---
 
-## Story 10: Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso
-**Slug (lower-third):** Chelsea hold off Brighton in 4-3 win but remain chaotic u…  
-**When:** 2026-08-30 10:15 (America/Winnipeg)  •  **Published:** 2026-08-30 15:15 (UTC)  
+## Story 7: Technical issue leaves officials in Chelsea game without comms
+**Slug (lower-third):** Technical issue leaves officials in Chelsea game without …  
+**When:** 2026-08-30 12:41 (America/Winnipeg)  •  **Published:** 2026-08-30 17:41 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso. Cole Palmer eventually made the home win safe after Brighton rallied from 3-0 down, with Joao Pedro scoring at both ends Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Technical issue leaves officials in Chelsea game without comms. When referee Michael Oliver emerged for the second half at Stamford Bridge on Sunday something important was missing - his communications pack. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -251,7 +177,79 @@ Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso. Cole 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso. https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report
+- bbc.co.uk — Technical issue leaves officials in Chelsea game without comms. https://www.bbc.co.uk/sport/football/articles/c5yl4lzp9gzo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Kobbie Mainoo stars alongside Bruno Fernandes in Man Utd's win over Ipswich - Premier League hits and misses
+**Slug (lower-third):** Kobbie Mainoo stars alongside Bruno Fernandes in Man Utd'…  
+**When:** 2026-08-30 12:31 (America/Winnipeg)  •  **Published:** 2026-08-30 17:31 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Kobbie Mainoo stars alongside Bruno Fernandes in Man Utd's win over Ipswich - Premier League hits and misses. The Sky Sports football writers analyse Sundays Premier League action as Kobbie Mainoo also impresses for Man Utd. Plus: Chelsea beat Brighton in thriller but is low possession a problem for Xabi Alonsos side? Sunderland sees off Fulham; Leeds and Brentford show growth... Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Kobbie Mainoo stars alongside Bruno Fernandes in Man Utd's win over Ipswich - Premier League hits and misses. https://www.skysports.com/football/news/12040/13579146/kobbie-mainoo-stars-alongside-bruno-fernandes-in-man-utds-win-over-ipswich-premier-league-hits-and-misses
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Ollie Watkins completes APS51m move to Saudi side Al-Hilal from Aston Villa
+**Slug (lower-third):** Ollie Watkins completes APS51m move to Saudi side Al-Hila…  
+**When:** 2026-08-30 12:12 (America/Winnipeg)  •  **Published:** 2026-08-30 17:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Ollie Watkins completes APS51m move to Saudi side Al-Hilal from Aston Villa. Ollie Watkins says he never imagined or intended his Aston Villa career to "end this way" after completing his APS51m move to Al-Hilal. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Ollie Watkins completes APS51m move to Saudi side Al-Hilal from Aston Villa. https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Emiliano Martinez: Why Chelsea need more than new keeper to challenge for title
+**Slug (lower-third):** Emiliano Martinez: Why Chelsea need more than new keeper …  
+**When:** 2026-08-30 12:12 (America/Winnipeg)  •  **Published:** 2026-08-30 17:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Emiliano Martinez: Why Chelsea need more than new keeper to challenge for title. Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Emiliano Martinez: Why Chelsea need more than new keeper to challenge for title. https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
