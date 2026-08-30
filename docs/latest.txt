@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-08-30 06:27 (America/Winnipeg)  |  2026-08-30 11:27 (UTC)
+**Generated:** 2026-08-30 11:14 (America/Winnipeg)  |  2026-08-30 16:14 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~4m 32s
@@ -8,45 +8,47 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Iliman Ndiaye and Richarlison transfer news: Tottenham and Everton in advanced talks over separate deals
-- Tottenham transfer news: Spurs advancing move for Iliman Ndiaye with Richarlison set to rejoin Everton
-- Emi Martinez transfer news: Chelsea complete signing of Argentina international goalkeeper from Aston Villa
+- Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues victorious start as manager
+- Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point for hosts with late tap-in after Kevin Schade's brilliant opener
+- Leeds United 1-1 Brentford | Premier League highlights
+
+---
+
+### Managerial Moves
+
+## Story 1: Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues victorious start as manager
+**Slug (lower-third):** Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xa…  
+**When:** 2026-08-30 11:30 (America/Winnipeg)  •  **Published:** 2026-08-30 16:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues victorious start as manager. Chelsea held off a Brighton fightback to clinch a thrilling 4-3 victory and continue their winning start under manager Xabi Alonso. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues victorious start as manager. https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/report/559456
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Transfers
 
-## Story 1: Iliman Ndiaye and Richarlison transfer news: Tottenham and Everton in advanced talks over separate deals
-**Slug (lower-third):** Iliman Ndiaye and Richarlison transfer news: Tottenham an…  
-**When:** 2026-08-30 05:42 (America/Winnipeg)  •  **Published:** 2026-08-30 10:42 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~31s
-
-### Presenter Script (3–5 sentences)
-Iliman Ndiaye and Richarlison transfer news: Tottenham and Everton in advanced talks over separate deals. Tottenham have been interested in Cody Gakpo who is now likely to go to Manchester City if he leaves Liverpool; Ndiaye had also been on Citys target list for a new forward; Richarlison left Everton to join Spurs in 2022 after a successful spell at the club, scoring 53 goals in 152 games Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Iliman Ndiaye and Richarlison transfer news: Tottenham and Everton in advanced talks over separate deals. https://www.skysports.com/football/news/12040/13578971/iliman-ndiaye-and-richarlison-transfer-news-tottenham-and-everton-in-advanced-talks-over-separate-deals
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 2: Tottenham transfer news: Spurs advancing move for Iliman Ndiaye with Richarlison set to rejoin Everton
-**Slug (lower-third):** Tottenham transfer news: Spurs advancing move for Iliman …  
-**When:** 2026-08-30 05:39 (America/Winnipeg)  •  **Published:** 2026-08-30 10:39 (UTC)  
+## Story 2: Arsenal transfer news: Gabriel Jesus close to joining Barcelona
+**Slug (lower-third):** Arsenal transfer news: Gabriel Jesus close to joining Bar…  
+**When:** 2026-08-30 11:01 (America/Winnipeg)  •  **Published:** 2026-08-30 16:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham transfer news: Spurs advancing move for Iliman Ndiaye with Richarlison set to rejoin Everton. Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations. Implications for the squad and table.
+Arsenal transfer news: Gabriel Jesus close to joining Barcelona. Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth APS8.6m. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +57,7 @@ Tottenham transfer news: Spurs advancing move for Iliman Ndiaye with Richarlison
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Tottenham transfer news: Spurs advancing move for Iliman Ndiaye with Richarlison set to rejoin Everton. https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Arsenal transfer news: Gabriel Jesus close to joining Barcelona. https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +66,37 @@ Tottenham transfer news: Spurs advancing move for Iliman Ndiaye with Richarlison
 
 ---
 
-## Story 3: Emi Martinez transfer news: Chelsea complete signing of Argentina international goalkeeper from Aston Villa
-**Slug (lower-third):** Emi Martinez transfer news: Chelsea complete signing of A…  
-**When:** 2026-08-30 04:10 (America/Winnipeg)  •  **Published:** 2026-08-30 09:10 (UTC)  
+## Story 3: Jean-Matteo Bahoya transfer news: Hull City's deal for Frankfurt winger falls through
+**Slug (lower-third):** Jean-Matteo Bahoya transfer news: Hull City's deal for Fr…  
+**When:** 2026-08-30 10:09 (America/Winnipeg)  •  **Published:** 2026-08-30 15:09 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Jean-Matteo Bahoya transfer news: Hull City's deal for Frankfurt winger falls through. Hull City's move for Eintracht Frankfurt winger Jean-Matteo Bahoya falls through after the player decides against joining the Premier League side. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Jean-Matteo Bahoya transfer news: Hull City's deal for Frankfurt winger falls through. https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Gabriel Jesus: Barcelona agree PS8.6m deal in principle to sign Arsenal and Brazil forward
+**Slug (lower-third):** Gabriel Jesus: Barcelona agree PS8.6m deal in principle t…  
+**When:** 2026-08-30 09:01 (America/Winnipeg)  •  **Published:** 2026-08-30 14:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
-Emi Martinez transfer news: Chelsea complete signing of Argentina international goalkeeper from Aston Villa. Chelsea sign Emiliano Martinez from Aston Villa on a three-year contract in deal worth PS7.5m; 2022 World Cup winner had been demoted to second choice at Villa Park after arrival of Japan goalkeeper Zion Suzuki from Parma Implications for the squad and table.
+Gabriel Jesus: Barcelona agree PS8.6m deal in principle to sign Arsenal and Brazil forward. Barcelona agree deal with Arsenal to sign Gabriel Jesus; transfer for Brazilian forward worth PS8.6m; Jesus to travel to Spain to complete move; Arsenal also agree deal worth around PS7.7m to sell midfielder Fabio Vieira to Hamburg Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +105,7 @@ Emi Martinez transfer news: Chelsea complete signing of Argentina international 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Emi Martinez transfer news: Chelsea complete signing of Argentina international goalkeeper from Aston Villa. https://www.skysports.com/football/news/12040/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa
+- skysports.com — Gabriel Jesus: Barcelona agree PS8.6m deal in principle to sign Arsenal and Brazil forward. https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -88,13 +114,13 @@ Emi Martinez transfer news: Chelsea complete signing of Argentina international 
 
 ---
 
-## Story 4: Villa and Chelsea transfers: Why the clubs keep doing business
-**Slug (lower-third):** Villa and Chelsea transfers: Why the clubs keep doing bus…  
-**When:** 2026-08-30 03:51 (America/Winnipeg)  •  **Published:** 2026-08-30 08:51 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Manchester United transfer latest: Gary Neville claims the Red Devils must buy a centre-back and left-back before the transfer window closes
+**Slug (lower-third):** Manchester United transfer latest: Gary Neville claims th…  
+**When:** 2026-08-30 08:48 (America/Winnipeg)  •  **Published:** 2026-08-30 13:48 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~31s
 
 ### Presenter Script (3–5 sentences)
-Villa and Chelsea transfers: Why the clubs keep doing business. After Emiliano Martinez's move, BBC Sport looks at why Aston Villa and Chelsea have become one of the Premier Leagueas busiest transfer partnerships since 2022. Implications for the squad and table.
+Manchester United transfer latest: Gary Neville claims the Red Devils must buy a centre-back and left-back before the transfer window closes. Gary Neville has insisted that Man Utds defensive vulnerabilities will let Michael Carrick down if not addressed by the end of the transfer window; summer transfer window deadline is 11pm on September 1 - follow on SSN and with the Transfer Centre in the Sky Sports app Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -103,31 +129,7 @@ Villa and Chelsea transfers: Why the clubs keep doing business. After Emiliano M
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Villa and Chelsea transfers: Why the clubs keep doing business. https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: 'I've had a very hectic career': Mario Balotelli on Italian football's troubles and his future
-**Slug (lower-third):** 'I've had a very hectic career': Mario Balotelli on Itali…  
-**When:** 2026-08-30 02:00 (America/Winnipeg)  •  **Published:** 2026-08-30 07:00 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-'I've had a very hectic career': Mario Balotelli on Italian football's troubles and his future. Striker talks to Emanuele Giulianelli about life in the UAE, problems with the Azzurri and the 'special feeling' of playing for Manchester City Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — 'I've had a very hectic career': Mario Balotelli on Italian football's troubles and his future. https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity
+- skysports.com — Manchester United transfer latest: Gary Neville claims the Red Devils must buy a centre-back and left-back before the transfer window closes. https://www.skysports.com/football/news/12040/13579014/manchester-united-transfer-latest-gary-neville-claims-the-red-devils-must-buy-a-centre-back-and-left-back-before-the-transfer-window-closes
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +140,13 @@ Villa and Chelsea transfers: Why the clubs keep doing business. After Emiliano M
 
 ### Club Updates
 
-## Story 6: Bradley Barcola: The 'grasshopper' whose family helped him reach the top
-**Slug (lower-third):** Bradley Barcola: The 'grasshopper' whose family helped hi…  
-**When:** 2026-08-30 02:38 (America/Winnipeg)  •  **Published:** 2026-08-30 07:38 (UTC)  
+## Story 6: Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point for hosts with late tap-in after Kevin Schade's brilliant opener
+**Slug (lower-third):** Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point fo…  
+**When:** 2026-08-30 11:15 (America/Winnipeg)  •  **Published:** 2026-08-30 16:15 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bradley Barcola: The 'grasshopper' whose family helped him reach the top. As Liverpool agree a APS123m deal for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family. Relevance to standings and momentum.
+Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point for hosts with late tap-in after Kevin Schade's brilliant opener. Dominic Calvert-Lewin scored a late tap-in to earn Leeds United a 1-1 draw with Brentford at Elland Road. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +155,7 @@ Bradley Barcola: The 'grasshopper' whose family helped him reach the top. As Liv
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Bradley Barcola: The 'grasshopper' whose family helped him reach the top. https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss
+- skysports.com — Leeds 1-1 Brentford: Dominic Calvert-Lewin earns point for hosts with late tap-in after Kevin Schade's brilliant opener. https://www.skysports.com/football/leeds-united-vs-brentford/report/559459
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +164,13 @@ Bradley Barcola: The 'grasshopper' whose family helped him reach the top. As Liv
 
 ---
 
-## Story 7: Samba Stars: Michail Antonio helps Ghanaian academy chase Premier League dreams
-**Slug (lower-third):** Samba Stars: Michail Antonio helps Ghanaian academy chase…  
-**When:** 2026-08-30 02:01 (America/Winnipeg)  •  **Published:** 2026-08-30 07:01 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~20s
+## Story 7: Leeds United 1-1 Brentford | Premier League highlights
+**Slug (lower-third):** Leeds United 1-1 Brentford | Premier League highlights  
+**When:** 2026-08-30 11:11 (America/Winnipeg)  •  **Published:** 2026-08-30 16:11 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Samba Stars: Michail Antonio helps Ghanaian academy chase Premier League dreams. Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro. Relevance to standings and momentum.
+Leeds United 1-1 Brentford | Premier League highlights. Highlights from Leeds United against Brentford in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +179,7 @@ Samba Stars: Michail Antonio helps Ghanaian academy chase Premier League dreams.
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Samba Stars: Michail Antonio helps Ghanaian academy chase Premier League dreams. https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss
+- skysports.com — Leeds United 1-1 Brentford | Premier League highlights. https://www.skysports.com/watch/video/13579102/leeds-united-1-1-brentford-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +188,13 @@ Samba Stars: Michail Antonio helps Ghanaian academy chase Premier League dreams.
 
 ---
 
-## Story 8: Hull FC 14-16 Warrington Wolves | Super League highlights
-**Slug (lower-third):** Hull FC 14-16 Warrington Wolves | Super League highlights  
-**When:** 2026-08-29 19:00 (America/Winnipeg)  •  **Published:** 2026-08-30 00:00 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+## Story 8: Sunderland 1-0 Fulham | Premier League highlights
+**Slug (lower-third):** Sunderland 1-0 Fulham | Premier League highlights  
+**When:** 2026-08-30 11:10 (America/Winnipeg)  •  **Published:** 2026-08-30 16:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Hull FC 14-16 Warrington Wolves | Super League highlights. Highlights of the Super League match between Hull FC and Warrington Wolves. Relevance to standings and momentum.
+Sunderland 1-0 Fulham | Premier League highlights. FREE TO WATCH: Highlights from Sunderland's match against Fulham in the Premier League. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +203,7 @@ Hull FC 14-16 Warrington Wolves | Super League highlights. Highlights of the Sup
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Hull FC 14-16 Warrington Wolves | Super League highlights. https://www.skysports.com/watch/video/13578907/hull-fc-14-16-warrington-wolves-super-league-highlights
+- skysports.com — Sunderland 1-0 Fulham | Premier League highlights. https://www.skysports.com/watch/video/13579100/sunderland-1-0-fulham-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +212,13 @@ Hull FC 14-16 Warrington Wolves | Super League highlights. Highlights of the Sup
 
 ---
 
-## Story 9: Match of the Day analysis: Why Liverpool aren't getting the best out of Alexander Isak
-**Slug (lower-third):** Match of the Day analysis: Why Liverpool aren't getting t…  
-**When:** 2026-08-29 17:34 (America/Winnipeg)  •  **Published:** 2026-08-29 22:34 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 9: Sunderland 1-0 Fulham: Substitute Wilson Isidor scores late Black Cats winner
+**Slug (lower-third):** Sunderland 1-0 Fulham: Substitute Wilson Isidor scores la…  
+**When:** 2026-08-30 10:45 (America/Winnipeg)  •  **Published:** 2026-08-30 15:45 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Match of the Day analysis: Why Liverpool aren't getting the best out of Alexander Isak. BBC Sport pundit Joe Hart believes Alexander Isak dropping deep to receive the ball instead of staying forward is a sign the striker is low in confidence. Relevance to standings and momentum.
+Sunderland 1-0 Fulham: Substitute Wilson Isidor scores late Black Cats winner. Sunderland secured their first points of the season as Wilson Isidor's effort earned them a 1-0 win against Fulham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +227,7 @@ Match of the Day analysis: Why Liverpool aren't getting the best out of Alexande
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Match of the Day analysis: Why Liverpool aren't getting the best out of Alexander Isak. https://www.bbc.co.uk/sport/football/videos/cx2zwrwg5d4o?at_medium=RSS&at_campaign=rss
+- skysports.com — Sunderland 1-0 Fulham: Substitute Wilson Isidor scores late Black Cats winner. https://www.skysports.com/football/sunderland-vs-fulham/report/559462
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +236,13 @@ Match of the Day analysis: Why Liverpool aren't getting the best out of Alexande
 
 ---
 
-## Story 10: Premier League highlights: Coventry City 0-1 Hull City
-**Slug (lower-third):** Premier League highlights: Coventry City 0-1 Hull City  
-**When:** 2026-08-29 14:12 (America/Winnipeg)  •  **Published:** 2026-08-29 19:12 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 10: Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso
+**Slug (lower-third):** Chelsea hold off Brighton in 4-3 win but remain chaotic u…  
+**When:** 2026-08-30 10:15 (America/Winnipeg)  •  **Published:** 2026-08-30 15:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Premier League highlights: Coventry City 0-1 Hull City. Substitute Liam Millar's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches. Relevance to standings and momentum.
+Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso. Cole Palmer eventually made the home win safe after Brighton rallied from 3-0 down, with Joao Pedro scoring at both ends Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +251,7 @@ Premier League highlights: Coventry City 0-1 Hull City. Substitute Liam Millar's
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League highlights: Coventry City 0-1 Hull City. https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso. https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
