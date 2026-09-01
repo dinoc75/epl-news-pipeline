@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-01 11:12 (America/Winnipeg)  |  2026-09-01 16:12 (UTC)
+**Generated:** 2026-09-01 15:41 (America/Winnipeg)  |  2026-09-01 20:41 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 41s
+**Estimated total video length:** ~4m 35s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Enzo Fernandez transfer news: Manchester City agree PS125m deal to sign Chelsea midfielder on Deadline Day
-- Enzo Fernandez transfer: Man City agree fee of APS125m for Chelsea midfielder
-- Matias Fernandez-Pardo transfer news: Newcastle sign Lille forward ahead of transfer deadline in deal worth PS51m
+- Lamine Camara: Chelsea agree PS47m deal to sign Monaco midfielder as Enzo Fernandez replacement
+- Iliman Ndiaye transfer news: Man City complete PS65m deal for Everton winger as Cody Gakpo alternative
+- Chelsea agree APS47.1m move for Monaco's Lamine Camara
 
 ---
 
 ### Transfers
 
-## Story 1: Enzo Fernandez transfer news: Manchester City agree PS125m deal to sign Chelsea midfielder on Deadline Day
-**Slug (lower-third):** Enzo Fernandez transfer news: Manchester City agree PS125…  
-**When:** 2026-09-01 11:58 (America/Winnipeg)  •  **Published:** 2026-09-01 16:58 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 1: Iliman Ndiaye transfer news: Man City complete PS65m deal for Everton winger as Cody Gakpo alternative
+**Slug (lower-third):** Iliman Ndiaye transfer news: Man City complete PS65m deal…  
+**When:** 2026-09-01 16:00 (America/Winnipeg)  •  **Published:** 2026-09-01 21:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Enzo Fernandez transfer news: Manchester City agree PS125m deal to sign Chelsea midfielder on Deadline Day. Enzo Fernandez joined Chelsea from Benfica for PS107m in 2023; the Argentine played in Chelseas first Premier League game of the season against Fulham but was not involved against Luton in the Carabao Cup and left out again when they faced Brighton Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Iliman Ndiaye transfer news: Man City complete PS65m deal for Everton winger as Cody Gakpo alternative. Manchester City have completed the PS65m signing of winger Iliman Ndiaye; City had an PS80m bid for Liverpools Cody Gakpo rejected on Monday and moved for Ndiaye as an alternative; Jack Grealish set to join Everton on loan with Toffees making an offer for Man Utds Joshua Zirkzee Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Enzo Fernandez transfer news: Manchester City agree PS125m deal to sign Chelsea 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Enzo Fernandez transfer news: Manchester City agree PS125m deal to sign Chelsea midfielder on Deadline Day. https://www.skysports.com/football/news/12040/13579667/enzo-fernandez-transfer-news-manchester-city-agree-125m-deal-to-sign-chelsea-midfielder-on-deadline-day
+- skysports.com — Iliman Ndiaye transfer news: Man City complete PS65m deal for Everton winger as Cody Gakpo alternative. https://www.skysports.com/football/news/12040/13579669/iliman-ndiaye-transfer-news-man-city-complete-65m-deal-for-everton-winger-as-cody-gakpo-alternative
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Enzo Fernandez transfer news: Manchester City agree PS125m deal to sign Chelsea 
 
 ---
 
-## Story 2: Enzo Fernandez transfer: Man City agree fee of APS125m for Chelsea midfielder
-**Slug (lower-third):** Enzo Fernandez transfer: Man City agree fee of APS125m fo…  
-**When:** 2026-09-01 10:55 (America/Winnipeg)  •  **Published:** 2026-09-01 15:55 (UTC)  
+## Story 2: Premier League clubs set new transfer spending record
+**Slug (lower-third):** Premier League clubs set new transfer spending record  
+**When:** 2026-09-01 15:17 (America/Winnipeg)  •  **Published:** 2026-09-01 20:17 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Enzo Fernandez transfer: Man City agree fee of APS125m for Chelsea midfielder. Manchester City agree to pay a British transfer record fee of APS125m for Chelsea midfielder Enzo Fernandez. Implications for the squad and table.
+Premier League clubs set new transfer spending record. Premier League clubs break their all-time summer transfer record after spending reaches APS3.198bn. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Enzo Fernandez transfer: Man City agree fee of APS125m for Chelsea midfielder. M
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Enzo Fernandez transfer: Man City agree fee of APS125m for Chelsea midfielder. https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Premier League clubs set new transfer spending record. https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,81 +64,9 @@ Enzo Fernandez transfer: Man City agree fee of APS125m for Chelsea midfielder. M
 
 ---
 
-## Story 3: Matias Fernandez-Pardo transfer news: Newcastle sign Lille forward ahead of transfer deadline in deal worth PS51m
-**Slug (lower-third):** Matias Fernandez-Pardo transfer news: Newcastle sign Lill…  
-**When:** 2026-09-01 10:52 (America/Winnipeg)  •  **Published:** 2026-09-01 15:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~26s
-
-### Presenter Script (3–5 sentences)
-Matias Fernandez-Pardo transfer news: Newcastle sign Lille forward ahead of transfer deadline in deal worth PS51m. Matias Fernandez-Pardo scored eight goals in 29 Ligue 1 games last season for Lille; he has been capped five times by Belgium and was part of their World Cup squad this summer; Newcastle pay Lille PS51m for the 21-year-old Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Matias Fernandez-Pardo transfer news: Newcastle sign Lille forward ahead of transfer deadline in deal worth PS51m. https://www.skysports.com/football/news/12040/13579855/matias-fernandez-pardo-transfer-news-newcastle-sign-lille-forward-ahead-of-transfer-deadline-in-deal-worth-51m
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Fulham transfer news: Club agree to sign midfielders Manuel Angel and Hugo Larsson
-**Slug (lower-third):** Fulham transfer news: Club agree to sign midfielders Manu…  
-**When:** 2026-09-01 10:14 (America/Winnipeg)  •  **Published:** 2026-09-01 15:14 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Fulham transfer news: Club agree to sign midfielders Manuel Angel and Hugo Larsson. Fulham agree to sign midfielders Manuel Angel and Hugo Larsson from Real Madrid and Eintracht Frankfurt respectively. Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Fulham transfer news: Club agree to sign midfielders Manuel Angel and Hugo Larsson. https://www.bbc.co.uk/sport/football/articles/c4grzg0jzgzo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Chelsea transfer latest: Deal close for Roma midfielder Manu Kone, as loan explored for Jamie Gittens to go the other way
-**Slug (lower-third):** Chelsea transfer latest: Deal close for Roma midfielder M…  
-**When:** 2026-09-01 09:38 (America/Winnipeg)  •  **Published:** 2026-09-01 14:38 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-Chelsea transfer latest: Deal close for Roma midfielder Manu Kone, as loan explored for Jamie Gittens to go the other way. Chelsea are working hard to line up a replacement for Enzo Fernandez before the deadline; the Blues are close to agreeing a deal to sign Manu Kone from Roma; Roma boss Gian Piero Gasperini does not want to sell a player; Monaco have rejected a PS38.5m bid from Chelsea for Camara Implications for the squad and table.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Chelsea transfer latest: Deal close for Roma midfielder Manu Kone, as loan explored for Jamie Gittens to go the other way. https://www.skysports.com/football/news/12040/13579726/chelsea-transfer-latest-deal-close-for-roma-midfielder-manu-kone-as-loan-explored-for-jamie-gittens-to-go-the-other-way
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Transfer deadline day 2026: Every done deal on deadline day
+## Story 3: Transfer deadline day 2026: Every done deal on deadline day
 **Slug (lower-third):** Transfer deadline day 2026: Every done deal on deadline d…  
-**When:** 2026-09-01 09:16 (America/Winnipeg)  •  **Published:** 2026-09-01 14:16 (UTC)  
+**When:** 2026-09-01 15:13 (America/Winnipeg)  •  **Published:** 2026-09-01 20:13 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -160,13 +88,13 @@ Transfer deadline day 2026: Every done deal on deadline day. Check out the signi
 
 ---
 
-## Story 7: Newcastle transfer: Matias Fernandez-Pardo joins from Lille for initial APS51.4m
-**Slug (lower-third):** Newcastle transfer: Matias Fernandez-Pardo joins from Lil…  
-**When:** 2026-09-01 09:01 (America/Winnipeg)  •  **Published:** 2026-09-01 14:01 (UTC)  
+## Story 4: Kevin Danso: Sunderland sign Spurs defender on loan
+**Slug (lower-third):** Kevin Danso: Sunderland sign Spurs defender on loan  
+**When:** 2026-09-01 14:50 (America/Winnipeg)  •  **Published:** 2026-09-01 19:50 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle transfer: Matias Fernandez-Pardo joins from Lille for initial APS51.4m. Newcastle United sign Belgium forward Matias Fernandez-Pardo from Lille for an initial APS51.4m. Implications for the squad and table.
+Kevin Danso: Sunderland sign Spurs defender on loan. Sunderland have signed Austria defender Kevin Danso from Tottenham on a loan deal until the end of the season. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -175,7 +103,7 @@ Newcastle transfer: Matias Fernandez-Pardo joins from Lille for initial APS51.4m
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Newcastle transfer: Matias Fernandez-Pardo joins from Lille for initial APS51.4m. https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Kevin Danso: Sunderland sign Spurs defender on loan. https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -184,13 +112,15 @@ Newcastle transfer: Matias Fernandez-Pardo joins from Lille for initial APS51.4m
 
 ---
 
-## Story 8: Brighton transfer news: Femi Azeez APS15m deal agreed with Millwall
-**Slug (lower-third):** Brighton transfer news: Femi Azeez APS15m deal agreed wit…  
-**When:** 2026-09-01 08:53 (America/Winnipeg)  •  **Published:** 2026-09-01 13:53 (UTC)  
+### Injuries
+
+## Story 5: Vivianne Miedema injury: Manchester City striker to miss start of season
+**Slug (lower-third):** Vivianne Miedema injury: Manchester City striker to miss …  
+**When:** 2026-09-01 13:26 (America/Winnipeg)  •  **Published:** 2026-09-01 18:26 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brighton transfer news: Femi Azeez APS15m deal agreed with Millwall. Brighton agree a deal to sign 25-year-old Nigeria winger Femi Azeez from Championship club Millwall. Implications for the squad and table.
+Vivianne Miedema injury: Manchester City striker to miss start of season. Vivianne Miedema will miss the start of the Women's Super League season because of a knee injury. Potential impact on the lineup and upcoming fixtures.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -199,7 +129,7 @@ Brighton transfer news: Femi Azeez APS15m deal agreed with Millwall. Brighton ag
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Brighton transfer news: Femi Azeez APS15m deal agreed with Millwall. https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Vivianne Miedema injury: Manchester City striker to miss start of season. https://www.bbc.co.uk/sport/football/articles/c0rez8re11ko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +140,13 @@ Brighton transfer news: Femi Azeez APS15m deal agreed with Millwall. Brighton ag
 
 ### Club Updates
 
-## Story 9: Man Utd locked in talks to sign Leicester youngster Louis Page on deadline day
-**Slug (lower-third):** Man Utd locked in talks to sign Leicester youngster Louis…  
-**When:** 2026-09-01 10:36 (America/Winnipeg)  •  **Published:** 2026-09-01 15:36 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: Lamine Camara: Chelsea agree PS47m deal to sign Monaco midfielder as Enzo Fernandez replacement
+**Slug (lower-third):** Lamine Camara: Chelsea agree PS47m deal to sign Monaco mi…  
+**When:** 2026-09-01 16:30 (America/Winnipeg)  •  **Published:** 2026-09-01 21:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
 
 ### Presenter Script (3–5 sentences)
-Man Utd locked in talks to sign Leicester youngster Louis Page on deadline day. Manchester United remain in talks to sign highly-rated Leicester youngster Louis Page in a deal that could be worth over APS10m. Relevance to standings and momentum.
+Lamine Camara: Chelsea agree PS47m deal to sign Monaco midfielder as Enzo Fernandez replacement. Chelsea are looking for a midfield addition with Enzo Fernandez set to join Manchester City in a PS125m deal, which is a joint-record for a British club; Camara, 22, has been at Monaco for two years since joining from Metz in 2024 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,7 +155,7 @@ Man Utd locked in talks to sign Leicester youngster Louis Page on deadline day. 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Man Utd locked in talks to sign Leicester youngster Louis Page on deadline day. https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go?at_medium=RSS&at_campaign=rss
+- skysports.com — Lamine Camara: Chelsea agree PS47m deal to sign Monaco midfielder as Enzo Fernandez replacement. https://www.skysports.com/football/news/12040/13579974/lamine-camara-chelsea-agree-deal-to-sign-monaco-midfielder-as-enzo-fernandez-replacement
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -234,13 +164,13 @@ Man Utd locked in talks to sign Leicester youngster Louis Page on deadline day. 
 
 ---
 
-## Story 10: Football Daily | Tottenham and the rapid disappearance of their club hype man
-**Slug (lower-third):** Football Daily | Tottenham and the rapid disappearance of…  
-**When:** 2026-09-01 09:33 (America/Winnipeg)  •  **Published:** 2026-09-01 14:33 (UTC)  
+## Story 7: Chelsea agree APS47.1m move for Monaco's Lamine Camara
+**Slug (lower-third):** Chelsea agree APS47.1m move for Monaco's Lamine Camara  
+**When:** 2026-09-01 15:30 (America/Winnipeg)  •  **Published:** 2026-09-01 20:30 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football Daily | Tottenham and the rapid disappearance of their club hype man. In today's Football Daily: Oh Spurs (part 236) Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Chelsea agree APS47.1m move for Monaco's Lamine Camara. Chelsea have moved to replace outgoing midfielder Enzo Fernandez with Monaco's Lamine Camara. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -249,7 +179,80 @@ Football Daily | Tottenham and the rapid disappearance of their club hype man. I
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Football Daily | Tottenham and the rapid disappearance of their club hype man. https://www.theguardian.com/football/2026/sep/01/football-daily-email-tottenham-oh-tottenham
+- bbc.co.uk — Chelsea agree APS47.1m move for Monaco's Lamine Camara. https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Iliman Ndiaye: Manchester City sign winger from Everton for APS65m
+**Slug (lower-third):** Iliman Ndiaye: Manchester City sign winger from Everton f…  
+**When:** 2026-09-01 15:26 (America/Winnipeg)  •  **Published:** 2026-09-01 20:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Iliman Ndiaye: Manchester City sign winger from Everton for APS65m. Manchester City sign winger Iliman Ndiaye from Everton in a deal worth up to APS65m. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Iliman Ndiaye: Manchester City sign winger from Everton for APS65m. https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Lucca Brughmans joins Liverpool in deal worth up to APS30m
+**Slug (lower-third):** Lucca Brughmans joins Liverpool in deal worth up to APS30m  
+**When:** 2026-09-01 13:01 (America/Winnipeg)  •  **Published:** 2026-09-01 18:01 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Lucca Brughmans joins Liverpool in deal worth up to APS30m. Liverpool have secured the signing of teenage goalkeeper Lucca Brughmans for the start of the 2027-28 season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Lucca Brughmans joins Liverpool in deal worth up to APS30m. https://www.bbc.co.uk/sport/football/articles/c86xp9epl83o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo
+**Slug (lower-third):** Aston Villa sign Mbaye and Harwood-Bellis as Newcastle ge…  
+**When:** 2026-09-01 12:58 (America/Winnipeg)  •  **Published:** 2026-09-01 17:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo. Aston Villa have added to their summer overhaul with the signings of Ibrahim Mbaye and Taylor Harwood-Bellis while Newcastle have added Matias Fernandez-Pardo to their squad from Lille Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo. https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo
+- bbc.co.uk — Aston Villa complete Mbaye and Harwood-Bellis signings. https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
