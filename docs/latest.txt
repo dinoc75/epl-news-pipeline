@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-04 15:24 (America/Winnipeg)  |  2026-09-04 20:24 (UTC)
+**Generated:** 2026-09-04 22:24 (America/Winnipeg)  |  2026-09-05 03:24 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 21s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- London City Lionesses 2-1 Man Utd: Alexia Putellas makes debut as Michele Kang's side make perfect start to new season
-- Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been
-- Dean says he always applied laws - but which matches did he play games in?
+- Has the real Alexander Isak finally arrived at Liverpool?
+- Richarlison: Striker's omission not my decision says Spurs boss Roberto de Zerbi
+- Chelsea transfer news: Blues offered chance to sign former Tottenham midfielder Yves Bissouma - Paper Talk
 
 ---
 
@@ -18,7 +18,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 
 ## Story 1: Richarlison: Striker's omission not my decision says Spurs boss Roberto de Zerbi
 **Slug (lower-third):** Richarlison: Striker's omission not my decision says Spur…  
-**When:** 2026-09-04 10:32 (America/Winnipeg)  •  **Published:** 2026-09-04 15:32 (UTC)  
+**When:** 2026-09-04 17:33 (America/Winnipeg)  •  **Published:** 2026-09-04 22:33 (UTC)  
 **Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
@@ -40,13 +40,13 @@ Richarlison: Striker's omission not my decision says Spurs boss Roberto de Zerbi
 
 ---
 
-## Story 2: Everton: David Moyes has to 'live with disappointments' after deadline day
-**Slug (lower-third):** Everton: David Moyes has to 'live with disappointments' a…  
-**When:** 2026-09-04 09:03 (America/Winnipeg)  •  **Published:** 2026-09-04 14:03 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 2: Ipswich 0-2 Liverpool: Andoni Iraola up and running as Reds boss with Alexander Isak at the double
+**Slug (lower-third):** Ipswich 0-2 Liverpool: Andoni Iraola up and running as Re…  
+**When:** 2026-09-04 16:49 (America/Winnipeg)  •  **Published:** 2026-09-04 21:49 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Everton: David Moyes has to 'live with disappointments' after deadline day. Everton manager David Moyes accepts he has "to live with disappointments" after admitting he wanted to do more business on transfer deadline day. Implications for the squad and table.
+Ipswich 0-2 Liverpool: Andoni Iraola up and running as Reds boss with Alexander Isak at the double. Andoni Iraola registered his first win as Liverpool head coach as Alexander Isak scored twice inside nine minutes to beat Ipswich 2-0. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,7 @@ Everton: David Moyes has to 'live with disappointments' after deadline day. Ever
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Everton: David Moyes has to 'live with disappointments' after deadline day. https://www.bbc.co.uk/sport/football/articles/c3v49617lzko?at_medium=RSS&at_campaign=rss
+- skysports.com — Ipswich 0-2 Liverpool: Andoni Iraola up and running as Reds boss with Alexander Isak at the double. https://www.skysports.com/football/ipswich-town-vs-liverpool/report/559470
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -64,13 +64,13 @@ Everton: David Moyes has to 'live with disappointments' after deadline day. Ever
 
 ---
 
-## Story 3: Enzo Fernandez: Several Man City players wanted updates before signing completed
-**Slug (lower-third):** Enzo Fernandez: Several Man City players wanted updates b…  
-**When:** 2026-09-04 08:35 (America/Winnipeg)  •  **Published:** 2026-09-04 13:35 (UTC)  
+## Story 3: Moyes reveals he has never spoken to Everton owner but is defiant after transfer blows
+**Slug (lower-third):** Moyes reveals he has never spoken to Everton owner but is…  
+**When:** 2026-09-04 16:30 (America/Winnipeg)  •  **Published:** 2026-09-04 21:30 (UTC)  
 **Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Enzo Fernandez: Several Man City players wanted updates before signing completed. Several Manchester City players wanted to know if Enzo Fernandez would join in the last days of the transfer window, says manager Enzo Maresca. Implications for the squad and table.
+Moyes reveals he has never spoken to Everton owner but is defiant after transfer blows. David Moyes has not spoken to the Everton owner and chairm, Dan Friedkin, in the 20 months since he returned to the club as manager Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -79,7 +79,57 @@ Enzo Fernandez: Several Man City players wanted updates before signing completed
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Enzo Fernandez: Several Man City players wanted updates before signing completed. https://www.bbc.co.uk/sport/football/articles/c5y4ge76jx8o?at_medium=RSS&at_campaign=rss
+- theguardian.com — Moyes reveals he has never spoken to Everton owner but is defiant after transfer blows. https://www.theguardian.com/football/2026/sep/04/david-moyes-reveals-never-spoken-everton-owner-dan-friedkin-defiant-after-transfer-blows
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 4: Chelsea transfer news: Blues offered chance to sign former Tottenham midfielder Yves Bissouma - Paper Talk
+**Slug (lower-third):** Chelsea transfer news: Blues offered chance to sign forme…  
+**When:** 2026-09-04 17:18 (America/Winnipeg)  •  **Published:** 2026-09-04 22:18 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Chelsea transfer news: Blues offered chance to sign former Tottenham midfielder Yves Bissouma - Paper Talk. Latest transfer news and headlines include: Gabriel Heinze made contact with Inter Milans Lautaro Martinez regarding a move to Arsenal; Man City and Chelsea were two clubs interested in signing Adam Wharton from Crystal Palace before Deadline Day; Spurs could rip up Richarlisons contract Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Chelsea transfer news: Blues offered chance to sign former Tottenham midfielder Yves Bissouma - Paper Talk. https://www.skysports.com/football/news/12040/13581538/chelsea-transfer-news-blues-offered-chance-to-sign-former-tottenham-midfielder-yves-bissouma-paper-talk
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Premier League news: Richarlison refused new contract, Alonso backs James in midfield
+**Slug (lower-third):** Premier League news: Richarlison refused new contract, Al…  
+**When:** 2026-09-04 16:30 (America/Winnipeg)  •  **Published:** 2026-09-04 21:30 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League news: Richarlison refused new contract, Alonso backs James in midfield. Maresca hails 'winner' Fernandez but will not make him captain, and De Zerbi defends Richarlison treatment Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League news: Richarlison refused new contract, Alonso backs James in midfield. https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -90,13 +140,61 @@ Enzo Fernandez: Several Man City players wanted updates before signing completed
 
 ### Club Updates
 
-## Story 4: London City Lionesses 2-1 Man Utd: Alexia Putellas makes debut as Michele Kang's side make perfect start to new season
-**Slug (lower-third):** London City Lionesses 2-1 Man Utd: Alexia Putellas makes …  
-**When:** 2026-09-04 16:00 (America/Winnipeg)  •  **Published:** 2026-09-04 21:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 6: Has the real Alexander Isak finally arrived at Liverpool?
+**Slug (lower-third):** Has the real Alexander Isak finally arrived at Liverpool?  
+**When:** 2026-09-04 17:37 (America/Winnipeg)  •  **Published:** 2026-09-04 22:37 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-London City Lionesses 2-1 Man Utd: Alexia Putellas makes debut as Michele Kang's side make perfect start to new season. London City Lionesses started their star-studded era and the new season with a comfortable 2-1 win over Manchester United. Relevance to standings and momentum.
+Has the real Alexander Isak finally arrived at Liverpool?. Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Has the real Alexander Isak finally arrived at Liverpool?. https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Football gossip: Bissouma, Wharton, Baena, Mane, Richarlison, Castellanos
+**Slug (lower-third):** Football gossip: Bissouma, Wharton, Baena, Mane, Richarli…  
+**When:** 2026-09-04 16:07 (America/Winnipeg)  •  **Published:** 2026-09-04 21:07 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Football gossip: Bissouma, Wharton, Baena, Mane, Richarlison, Castellanos. Chelsea were offered ex-Tottenham midfielder Yves Bissouma, Manchester City and Chelsea showed interest in Crystal Palace's Adam Wharton, Arsenal are considering move for Barcelona's Raphinha, plus more. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Football gossip: Bissouma, Wharton, Baena, Mane, Richarlison, Castellanos. https://www.bbc.co.uk/sport/football/articles/c7903g4nvn3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: London City Lionesses 2-1 Man Utd: Alexia Putellas makes debut as Michele Kang's side make perfect start to new season
+**Slug (lower-third):** London City Lionesses 2-1 Man Utd: Alexia Putellas makes …  
+**When:** 2026-09-04 16:00 (America/Winnipeg)  •  **Published:** 2026-09-04 21:00 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+London City Lionesses 2-1 Man Utd: Alexia Putellas makes debut as Michele Kang's side make perfect start to new season. London City Lionesses started their star-studded era and the new Women's Super League season with a comfortable 2-1 win over Manchester United. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -114,13 +212,13 @@ London City Lionesses 2-1 Man Utd: Alexia Putellas makes debut as Michele Kang's
 
 ---
 
-## Story 5: Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been
-**Slug (lower-third):** Chelsea hit bullseye with Morgan Rogers as Arsenal rue wh…  
-**When:** 2026-09-04 14:00 (America/Winnipeg)  •  **Published:** 2026-09-04 19:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
+## Story 9: Alexia Putellas begins WSL ride as London City outclass Manchester United
+**Slug (lower-third):** Alexia Putellas begins WSL ride as London City outclass M…  
+**When:** 2026-09-04 15:51 (America/Winnipeg)  •  **Published:** 2026-09-04 20:51 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been. The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso's team Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Alexia Putellas begins WSL ride as London City outclass Manchester United. Alexia Putellas made her Women's Super League bow as London City Lionesses brushed aside Manchester United in the season opener Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +227,7 @@ Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been. The
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been. https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta
+- theguardian.com — Alexia Putellas begins WSL ride as London City outclass Manchester United. https://www.theguardian.com/football/2026/sep/04/london-city-lionesses-manchester-united-wsl-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,10 +236,10 @@ Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been. The
 
 ---
 
-## Story 6: Dean says he always applied laws - but which matches did he play games in?
+## Story 10: Dean says he always applied laws - but which matches did he play games in?
 **Slug (lower-third):** Dean says he always applied laws - but which matches did …  
 **When:** 2026-09-04 13:33 (America/Winnipeg)  •  **Published:** 2026-09-04 18:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 93  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Dean says he always applied laws - but which matches did he play games in?. Is there any evidence that former Premier League referee Mike Dean used to play mini-games during matches? BBC Sport has taken a look at the evidence. Relevance to standings and momentum.
@@ -154,102 +252,6 @@ Dean says he always applied laws - but which matches did he play games in?. Is t
 
 ### Sources
 - bbc.co.uk — Dean says he always applied laws - but which matches did he play games in?. https://www.bbc.co.uk/sport/football/articles/czjzn84wn9wo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Premier League team news: predicted lineups for the weekend action
-**Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
-**When:** 2026-09-04 12:38 (America/Winnipeg)  •  **Published:** 2026-09-04 17:38 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League team news: predicted lineups for the weekend action. Coventry face a daunting trip to Manchester City before Arsenal host Chelsea on Sunday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Premier League news: Carrick warns no quick fix, Emery has 'hard' Harwood-Bellis chat
-**Slug (lower-third):** Premier League news: Carrick warns no quick fix, Emery ha…  
-**When:** 2026-09-04 09:58 (America/Winnipeg)  •  **Published:** 2026-09-04 14:58 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League news: Carrick warns no quick fix, Emery has 'hard' Harwood-Bellis chat. Maresca hails 'winner' Fernandez but will not make him captain, and De Zerbi defends Richarlison treatment Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Premier League news: Carrick warns no quick fix, Emery has 'hard' Harwood-Bellis chat. https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Aston Villa leave Taylor Harwood-Bellis and Brian Madjo out of Champions League squad
-**Slug (lower-third):** Aston Villa leave Taylor Harwood-Bellis and Brian Madjo o…  
-**When:** 2026-09-04 09:37 (America/Winnipeg)  •  **Published:** 2026-09-04 14:37 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Aston Villa leave Taylor Harwood-Bellis and Brian Madjo out of Champions League squad. Aston Villa leave new signing Taylor Harwood-Bellis and teenage striker Brian Madjo out of their squad for the league stage of the Champions League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Aston Villa leave Taylor Harwood-Bellis and Brian Madjo out of Champions League squad. https://www.bbc.co.uk/sport/football/articles/cvgypj5j47lo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Aaron Ramsdale: Southampton goalkeeper still has role at club
-**Slug (lower-third):** Aaron Ramsdale: Southampton goalkeeper still has role at …  
-**When:** 2026-09-04 06:42 (America/Winnipeg)  •  **Published:** 2026-09-04 11:42 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Aaron Ramsdale: Southampton goalkeeper still has role at club. Southampton boss Tonda Eckert says Aaron Ramsdale still has a role to "support the team" despite becoming their fourth-choice keeper. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Aaron Ramsdale: Southampton goalkeeper still has role at club. https://www.bbc.co.uk/sport/football/articles/c9v9elp98gro?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
