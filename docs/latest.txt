@@ -1,25 +1,75 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-06 22:23 (America/Winnipeg)  |  2026-09-07 03:23 (UTC)
+**Generated:** 2026-09-07 06:49 (America/Winnipeg)  |  2026-09-07 11:49 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 29s
+**Estimated total video length:** ~4m 52s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Highlights - Premier League - Arsenal 2-1 Chelsea
-- Transfer news: Former Manchester United and England winger Jadon Sancho lined up for stunning Borussia Dortmund return - Paper Talk
-- Troy Deeney's Team of the Week: Alexander Isak, Ezri Konsa, Tyrick Mitchell, Harvey Barnes
+- Tottenham: Roberto De Zerbi's criticism of Spurs forwards and medical staff 'worrying', says Paul Merson
+- Nottingham Forest 0-0 Tottenham: Neco Williams handball shown in new angle
+- WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine
+
+---
+
+### Managerial Moves
+
+## Story 1: Kevin Pietersen: England appoint former captain as specialist mentor for white-ball teams
+**Slug (lower-third):** Kevin Pietersen: England appoint former captain as specia…  
+**When:** 2026-09-07 06:00 (America/Winnipeg)  •  **Published:** 2026-09-07 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Kevin Pietersen: England appoint former captain as specialist mentor for white-ball teams. Kevin Pietersen will form part of Englands coaching setup at the 2027 Cricket World Cup in October and November next year; the former Ashes and T20 World Cup winner said: Putting on the England uniform again for the first time since 2014 is a profound honour and a deeply special moment Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Kevin Pietersen: England appoint former captain as specialist mentor for white-ball teams. https://www.skysports.com/cricket/news/12040/13582723/kevin-pietersen-england-appoint-former-captain-as-specialist-mentor-for-white-ball-teams
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
 ### Injuries
 
-## Story 1: Transfer news: Former Manchester United and England winger Jadon Sancho lined up for stunning Borussia Dortmund return - Paper Talk
+## Story 2: Manchester United v Sabah: Meet Azerbaijani club's coach Valdas Dambrauskas
+**Slug (lower-third):** Manchester United v Sabah: Meet Azerbaijani club's coach …  
+**When:** 2026-09-07 03:04 (America/Winnipeg)  •  **Published:** 2026-09-07 08:04 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester United v Sabah: Meet Azerbaijani club's coach Valdas Dambrauskas. Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Manchester United v Sabah: Meet Azerbaijani club's coach Valdas Dambrauskas. https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Transfer news: Former Manchester United and England winger Jadon Sancho lined up for stunning Borussia Dortmund return - Paper Talk
 **Slug (lower-third):** Transfer news: Former Manchester United and England winge…  
 **When:** 2026-09-06 17:41 (America/Winnipeg)  •  **Published:** 2026-09-06 22:41 (UTC)  
-**Virality score:** 99  •  **Estimated runtime:** ~29s
+**Virality score:** 86  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
 Transfer news: Former Manchester United and England winger Jadon Sancho lined up for stunning Borussia Dortmund return - Paper Talk. Latest transfer news and headlines include: Inter Milan midfielder Curtis Jones reveals the driving force behind his Liverpool exit; Aston Villa boss Unai Emery believes Alejandro Garnacho still needs more time to adapt; Napoli working hard to tie Scott McTominay down to new contract Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
@@ -40,87 +90,39 @@ Transfer news: Former Manchester United and England winger Jadon Sancho lined up
 
 ---
 
-## Story 2: Everton 2-2 Man Utd: Ainsley Maitland-Niles - an unlikely Everton hero
-**Slug (lower-third):** Everton 2-2 Man Utd: Ainsley Maitland-Niles - an unlikely…  
-**When:** 2026-09-06 14:09 (America/Winnipeg)  •  **Published:** 2026-09-06 19:09 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Everton 2-2 Man Utd: Ainsley Maitland-Niles - an unlikely Everton hero. Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Everton 2-2 Man Utd: Ainsley Maitland-Niles - an unlikely Everton hero. https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Highlights - Premier League - Everton 2-2 Manchester United
-**Slug (lower-third):** Highlights - Premier League - Everton 2-2 Manchester Unit…  
-**When:** 2026-09-06 13:58 (America/Winnipeg)  •  **Published:** 2026-09-06 18:58 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Highlights - Premier League - Everton 2-2 Manchester United. Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Highlights - Premier League - Everton 2-2 Manchester United. https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Women's Super League: New contenders emerge - but Manchester City start strong
-**Slug (lower-third):** Women's Super League: New contenders emerge - but Manches…  
-**When:** 2026-09-06 13:34 (America/Winnipeg)  •  **Published:** 2026-09-06 18:34 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Women's Super League: New contenders emerge - but Manchester City start strong. The Womenas Super League returned this weekend and with it a host of new signings, improved squads and unexpected results. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Women's Super League: New contenders emerge - but Manchester City start strong. https://www.bbc.co.uk/sport/football/articles/cj9x3wlg11po?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
 ### Club Updates
 
-## Story 5: Highlights - Premier League - Arsenal 2-1 Chelsea
-**Slug (lower-third):** Highlights - Premier League - Arsenal 2-1 Chelsea  
-**When:** 2026-09-06 13:58 (America/Winnipeg)  •  **Published:** 2026-09-06 18:58 (UTC)  
+## Story 4: Tottenham: Roberto De Zerbi's criticism of Spurs forwards and medical staff 'worrying', says Paul Merson
+**Slug (lower-third):** Tottenham: Roberto De Zerbi's criticism of Spurs forwards…  
+**When:** 2026-09-07 06:32 (America/Winnipeg)  •  **Published:** 2026-09-07 11:32 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Tottenham: Roberto De Zerbi's criticism of Spurs forwards and medical staff 'worrying', says Paul Merson. Tottenham drew 0-0 with Nottingham Forest on Saturday and are still waiting for their first Premier League goal of the season; Roberto De Zerbi criticised his forwards for not making better decisions and also said he was not happy with his medical staff influencing his substitutions Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Tottenham: Roberto De Zerbi's criticism of Spurs forwards and medical staff 'worrying', says Paul Merson. https://www.skysports.com/football/news/12040/13582716/tottenham-roberto-de-zerbis-criticism-of-spurs-forwards-and-medical-staff-worrying-says-paul-merson
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Nottingham Forest 0-0 Tottenham: Neco Williams handball shown in new angle
+**Slug (lower-third):** Nottingham Forest 0-0 Tottenham: Neco Williams handball s…  
+**When:** 2026-09-07 06:31 (America/Winnipeg)  •  **Published:** 2026-09-07 11:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Highlights - Premier League - Arsenal 2-1 Chelsea. Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium. Relevance to standings and momentum.
+Nottingham Forest 0-0 Tottenham: Neco Williams handball shown in new angle. New video footage shows the ball coming off Neco Williams' arm before his disallowed goal for Nottingham Forest in the 0-0 draw against Tottenham. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,8 +131,7 @@ Highlights - Premier League - Arsenal 2-1 Chelsea. Reigning champions Arsenal ca
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Highlights - Premier League - Arsenal 2-1 Chelsea. https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss
-- skysports.com — Arsenal 2-1 Chelsea | Premier League highlights. https://www.skysports.com/watch/video/13582508/arsenal-2-1-chelsea-premier-league-highlights
+- bbc.co.uk — Nottingham Forest 0-0 Tottenham: Neco Williams handball shown in new angle. https://www.bbc.co.uk/sport/football/videos/ckg8jjq5d05o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -139,13 +140,13 @@ Highlights - Premier League - Arsenal 2-1 Chelsea. Reigning champions Arsenal ca
 
 ---
 
-## Story 6: Troy Deeney's Team of the Week: Alexander Isak, Ezri Konsa, Tyrick Mitchell, Harvey Barnes
-**Slug (lower-third):** Troy Deeney's Team of the Week: Alexander Isak, Ezri Kons…  
-**When:** 2026-09-06 17:06 (America/Winnipeg)  •  **Published:** 2026-09-06 22:06 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 6: WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine
+**Slug (lower-third):** WSL talking points: Palace result in doubt after substitu…  
+**When:** 2026-09-07 06:20 (America/Winnipeg)  •  **Published:** 2026-09-07 11:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Troy Deeney's Team of the Week: Alexander Isak, Ezri Konsa, Tyrick Mitchell, Harvey Barnes. After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? Relevance to standings and momentum.
+WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine. Promoted side's thrilling win may be overturned after they used four substitutions windows while Georgia Stanway show the way for Gunners Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -154,7 +155,7 @@ Troy Deeney's Team of the Week: Alexander Isak, Ezri Konsa, Tyrick Mitchell, Har
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Troy Deeney's Team of the Week: Alexander Isak, Ezri Konsa, Tyrick Mitchell, Harvey Barnes. https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss
+- theguardian.com — WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine. https://www.theguardian.com/football/2026/sep/07/wsl-talking-points-palace-result-in-doubt-after-substitution-nightmare-arsenal-signings-shine
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -163,13 +164,61 @@ Troy Deeney's Team of the Week: Alexander Isak, Ezri Konsa, Tyrick Mitchell, Har
 
 ---
 
-## Story 7: Man City: Iliman Ndiaye says 'you don't say no' when City want you
-**Slug (lower-third):** Man City: Iliman Ndiaye says 'you don't say no' when City…  
-**When:** 2026-09-06 16:30 (America/Winnipeg)  •  **Published:** 2026-09-06 21:30 (UTC)  
+## Story 7: Neco Williams handball: New video shows ball hitting arms
+**Slug (lower-third):** Neco Williams handball: New video shows ball hitting arms  
+**When:** 2026-09-07 06:13 (America/Winnipeg)  •  **Published:** 2026-09-07 11:13 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Neco Williams handball: New video shows ball hitting arms. New video footage shows the ball coming off both Neco Williams' arms in the lead-up to his disallowed goal against Tottenham. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Neco Williams handball: New video shows ball hitting arms. https://www.bbc.co.uk/sport/football/articles/c0lr4401rw0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: 'Relief' of Premier League title has given Arsenal confidence, says David Raya
+**Slug (lower-third):** 'Relief' of Premier League title has given Arsenal confid…  
+**When:** 2026-09-07 06:00 (America/Winnipeg)  •  **Published:** 2026-09-07 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+'Relief' of Premier League title has given Arsenal confidence, says David Raya. David Raya says Arsenal are playing with greater confidence after the 'relief' of winning the Premier League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'Relief' of Premier League title has given Arsenal confidence, says David Raya. https://www.theguardian.com/football/2026/sep/07/david-raya-arsenal-confidence-premier-league-relief
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Premier League: 10 talking points from the weekend's action
+**Slug (lower-third):** Premier League: 10 talking points from the weekend's acti…  
+**When:** 2026-09-07 02:00 (America/Winnipeg)  •  **Published:** 2026-09-07 07:00 (UTC)  
 **Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Man City: Iliman Ndiaye says 'you don't say no' when City want you. New APS60m Manchester City signing Iliman Ndiaye says playing in the Champions League is where he belongs. Relevance to standings and momentum.
+Premier League: 10 talking points from the weekend's action. Fulham need a boost, Tottenham show some spirit and Jack Grealish offers Everton much-needed energy Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -178,7 +227,7 @@ Man City: Iliman Ndiaye says 'you don't say no' when City want you. New APS60m M
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Man City: Iliman Ndiaye says 'you don't say no' when City want you. https://www.bbc.co.uk/sport/football/articles/cdx5vxpl37zo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Premier League: 10 talking points from the weekend's action. https://www.theguardian.com/football/2026/sep/07/premier-league-10-talking-points-from-the-weekends-action
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -187,13 +236,13 @@ Man City: Iliman Ndiaye says 'you don't say no' when City want you. New APS60m M
 
 ---
 
-## Story 8: Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure
-**Slug (lower-third):** Richard Hughes confirmed as Al-Hilal sporting director af…  
-**When:** 2026-09-06 16:15 (America/Winnipeg)  •  **Published:** 2026-09-06 21:15 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+## Story 10: Today on Sky Sports Racing: Raaheeb aims to resume his progression at Windsor
+**Slug (lower-third):** Today on Sky Sports Racing: Raaheeb aims to resume his pr…  
+**When:** 2026-09-07 01:00 (America/Winnipeg)  •  **Published:** 2026-09-07 06:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure. The former Liverpool sporting director has taken up the position at Al-Hilal in Saudi Arabia Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Today on Sky Sports Racing: Raaheeb aims to resume his progression at Windsor. Baaeed and Hukums brother Raaheeb resumes his promising career when he goes for Group Three honours in the Winter Hill Stakes at Windsor; racing also takes place at Newton Abbot and Wolverhampton - with a total of 22 domestic races being shown live on Sky Sports Racing Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -202,55 +251,7 @@ Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure. https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Football gossip: Scott, Neto, Nkunku, Balogun, Murphy, Jones
-**Slug (lower-third):** Football gossip: Scott, Neto, Nkunku, Balogun, Murphy, Jo…  
-**When:** 2026-09-06 15:54 (America/Winnipeg)  •  **Published:** 2026-09-06 20:54 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Scott, Neto, Nkunku, Balogun, Murphy, Jones. Chelsea plot early move for Bournemouth midfielder Alex Scott, Chelsea winger Pedro Neto attracts interest, and Manchester United and Newcastle United inquire about Christopher Nkunku. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football gossip: Scott, Neto, Nkunku, Balogun, Murphy, Jones. https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay
-**Slug (lower-third):** Wild opening salvo against Chelsea hints at exciting time…  
-**When:** 2026-09-06 16:08 (America/Winnipeg)  •  **Published:** 2026-09-06 21:08 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay. The home side's response to Chelsea's early goal was to play breathless attacking football Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay. https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-2026
+- skysports.com — Today on Sky Sports Racing: Raaheeb aims to resume his progression at Windsor. https://www.skysports.com/racing/news/12040/13581963/today-on-sky-sports-racing-raaheeb-aims-to-resume-his-progression-at-windsor
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
