@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-12 15:17 (America/Winnipeg)  |  2026-09-12 20:17 (UTC)
+**Generated:** 2026-09-12 22:41 (America/Winnipeg)  |  2026-09-13 03:41 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 43s
+**Estimated total video length:** ~4m 38s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- West Ham 2-1 London City Lionesses: Kelly Gago and Viviane Asseyi strike as Hammers secure first Women's Super League win of season
-- Liverpool 0-0 Fulham: More dropped points at Anfield - is it too early for Liverpool to worry?
-- Tottenham 0-0 Everton: Spurs remain winless and goalless in Premier League as Toffees stay unbeaten
+- Highlights - Premier League - Sunderland 0-2 Arsenal
+- Highlights - Premier League - Aston Villa 1-2 Nottingham Forest
+- Mikel Arteta rages at Sunderland penalty decision after Arsenal win at Stadium of Light: 'This cannot happen'
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Liverpool boss Andoni Iraola bemoans lack of creativity and cutting edge against Fulham and explains Bradley Barcola plan
-**Slug (lower-third):** Liverpool boss Andoni Iraola bemoans lack of creativity a…  
-**When:** 2026-09-12 13:47 (America/Winnipeg)  •  **Published:** 2026-09-12 18:47 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
+## Story 1: Highlights - Premier League - Aston Villa 1-2 Nottingham Forest
+**Slug (lower-third):** Highlights - Premier League - Aston Villa 1-2 Nottingham …  
+**When:** 2026-09-12 16:30 (America/Winnipeg)  •  **Published:** 2026-09-12 21:30 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool boss Andoni Iraola bemoans lack of creativity and cutting edge against Fulham and explains Bradley Barcola plan. Liverpool were held to a goalless draw by Fulham as Andoni Iraolas wait for a first home Premier League win as Reds manager continues; Iraola: I think its the first game since Im here, I think weve had problems to create chances, to score goals, to make the difference offensively. Relevance to standings and momentum.
+Highlights - Premier League - Aston Villa 1-2 Nottingham Forest. Igor Jesus scores an 88th minute winner as Nottingham Forest beat Aston Villa at Villa Park for the first time in 32 years and gives Oliver Glasner his first victory as Forest head coach since taking charge in the summer. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,31 @@ Liverpool boss Andoni Iraola bemoans lack of creativity and cutting edge against
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Liverpool boss Andoni Iraola bemoans lack of creativity and cutting edge against Fulham and explains Bradley Barcola plan. https://www.skysports.com/football/news/12040/13585141/liverpool-boss-andoni-iraola-bemoans-lack-of-creativity-and-cutting-edge-against-fulham-and-explains-bradley-barcola-plan
+- bbc.co.uk — Highlights - Premier League - Aston Villa 1-2 Nottingham Forest. https://www.bbc.co.uk/sport/football/videos/cj64yzk2894o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Highlights - Premier League - Bournemouth 2-2 Brentford
+**Slug (lower-third):** Highlights - Premier League - Bournemouth 2-2 Brentford  
+**When:** 2026-09-12 16:30 (America/Winnipeg)  •  **Published:** 2026-09-12 21:30 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Highlights - Premier League - Bournemouth 2-2 Brentford. Marco Rose's wait for a first Premier League victory as Bournemouth head coach continues as they are held to a 2-2 draw by Brentford at Vitality Stadium. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Highlights - Premier League - Bournemouth 2-2 Brentford. https://www.bbc.co.uk/sport/football/videos/c1l6ennjpnzo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +66,13 @@ Liverpool boss Andoni Iraola bemoans lack of creativity and cutting edge against
 
 ### Transfers
 
-## Story 2: Tottenham 0-0 Everton: Spurs remain winless and goalless in Premier League as Toffees stay unbeaten
-**Slug (lower-third):** Tottenham 0-0 Everton: Spurs remain winless and goalless …  
-**When:** 2026-09-12 14:30 (America/Winnipeg)  •  **Published:** 2026-09-12 19:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 3: Mikel Arteta rages at Sunderland penalty decision after Arsenal win at Stadium of Light: 'This cannot happen'
+**Slug (lower-third):** Mikel Arteta rages at Sunderland penalty decision after A…  
+**When:** 2026-09-12 18:01 (America/Winnipeg)  •  **Published:** 2026-09-12 23:01 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
-Tottenham 0-0 Everton: Spurs remain winless and goalless in Premier League as Toffees stay unbeaten. Tottenham's winless and goalless start to the Premier League season continued with a 0-0 draw at home to unbeaten Everton. Implications for the squad and table.
+Mikel Arteta rages at Sunderland penalty decision after Arsenal win at Stadium of Light: 'This cannot happen'. Mikel Arteta was left furious by the award of Sunderlands penalty during Arsenals 2-0 win at the Stadium of Light, saying such decisions can cost a side a Premier League title; David Raya saved Enzo Le Fees spot kick as Gunners claimed a fourth straight win Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +81,7 @@ Tottenham 0-0 Everton: Spurs remain winless and goalless in Premier League as To
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham 0-0 Everton: Spurs remain winless and goalless in Premier League as Toffees stay unbeaten. https://www.skysports.com/football/tottenham-hotspur-vs-everton/report/559483
+- skysports.com — Mikel Arteta rages at Sunderland penalty decision after Arsenal win at Stadium of Light: 'This cannot happen'. https://www.skysports.com/football/news/12040/13585214/mikel-arteta-rages-at-sunderland-penalty-decision-after-arsenal-win-at-stadium-of-light-this-cannot-happen
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,10 +92,154 @@ Tottenham 0-0 Everton: Spurs remain winless and goalless in Premier League as To
 
 ### Club Updates
 
-## Story 3: West Ham 2-1 London City Lionesses: Kelly Gago and Viviane Asseyi strike as Hammers secure first Women's Super League win of season
+## Story 4: Highlights - Premier League - Sunderland 0-2 Arsenal
+**Slug (lower-third):** Highlights - Premier League - Sunderland 0-2 Arsenal  
+**When:** 2026-09-12 16:53 (America/Winnipeg)  •  **Published:** 2026-09-12 21:53 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Highlights - Premier League - Sunderland 0-2 Arsenal. Arsenal maintain their 100% start to their Premier League season with a win at Sunderland, who mount an admirable push for a point before Bukayo Saka's penalty puts the result beyond doubt. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Highlights - Premier League - Sunderland 0-2 Arsenal. https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Highlights - Premier League - Tottenham Hotspur 0-0 Everton
+**Slug (lower-third):** Highlights - Premier League - Tottenham Hotspur 0-0 Evert…  
+**When:** 2026-09-12 16:32 (America/Winnipeg)  •  **Published:** 2026-09-12 21:32 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Highlights - Premier League - Tottenham Hotspur 0-0 Everton. Tottenham's wait for a first Premier League goal and win this season continues after Roberto de Zerbi's side were held to a goalless home draw by Everton. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Highlights - Premier League - Tottenham Hotspur 0-0 Everton. https://www.bbc.co.uk/sport/football/videos/cg49xg625n0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Highlights - Premier League - Liverpool 0-0 Fulham
+**Slug (lower-third):** Highlights - Premier League - Liverpool 0-0 Fulham  
+**When:** 2026-09-12 16:31 (America/Winnipeg)  •  **Published:** 2026-09-12 21:31 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Highlights - Premier League - Liverpool 0-0 Fulham. Fulham claim their first Premier League point of the season after a difficult start under Alvaro Arbeloa, as Liverpool fail to score for the first time this season just days after their Champions League victory over Atletico Madrid. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Highlights - Premier League - Liverpool 0-0 Fulham. https://www.bbc.co.uk/sport/football/videos/c780zx2wl9vo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Highlights - Premier League - Crystal Palace 2-3 Ipswich Town
+**Slug (lower-third):** Highlights - Premier League - Crystal Palace 2-3 Ipswich …  
+**When:** 2026-09-12 16:31 (America/Winnipeg)  •  **Published:** 2026-09-12 21:31 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Highlights - Premier League - Crystal Palace 2-3 Ipswich Town. Zian Flemming scores his first goal for Ipswich to give the club a late victory over 10-man Crystal Palace at Selhurst Park. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Highlights - Premier League - Crystal Palace 2-3 Ipswich Town. https://www.bbc.co.uk/sport/football/videos/c7504wz4xgxo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Highlights - Premier League - Chelsea 2-2 Hull City
+**Slug (lower-third):** Highlights - Premier League - Chelsea 2-2 Hull City  
+**When:** 2026-09-12 16:30 (America/Winnipeg)  •  **Published:** 2026-09-12 21:30 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Highlights - Premier League - Chelsea 2-2 Hull City. In-form striker Joao Pedro scores a second-half equaliser as Chelsea rescues a point at home to promoted Hull City. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Highlights - Premier League - Chelsea 2-2 Hull City. https://www.bbc.co.uk/sport/football/videos/cwyz533qlw8o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Tottenham 0-0 Everton: Spurs blanked again as new era turns into a false dawn
+**Slug (lower-third):** Tottenham 0-0 Everton: Spurs blanked again as new era tur…  
+**When:** 2026-09-12 15:38 (America/Winnipeg)  •  **Published:** 2026-09-12 20:38 (UTC)  
+**Virality score:** 95  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Tottenham 0-0 Everton: Spurs blanked again as new era turns into a false dawn. Toothless Spurs' draw a blank again and are now in danger of seeing a brave new era turn into a false dawn, says chief football writer Phil McNulty. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Tottenham 0-0 Everton: Spurs blanked again as new era turns into a false dawn. https://www.bbc.co.uk/sport/football/articles/cvgydkv0yxdo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: West Ham 2-1 London City Lionesses: Kelly Gago and Viviane Asseyi strike as Hammers secure first Women's Super League win of season
 **Slug (lower-third):** West Ham 2-1 London City Lionesses: Kelly Gago and Vivian…  
 **When:** 2026-09-12 15:15 (America/Winnipeg)  •  **Published:** 2026-09-12 20:15 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~29s
+**Virality score:** 95  •  **Estimated runtime:** ~29s
 
 ### Presenter Script (3–5 sentences)
 West Ham 2-1 London City Lionesses: Kelly Gago and Viviane Asseyi strike as Hammers secure first Women's Super League win of season. Report and free match highlights as West Ham beat London City Lionesses 2-1; Kelly Gago and Viviane Asseyi score for hosts with Danielle van de Donk getting on the scoresheet for London City Lionesses late on to set up a frantic finish Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -84,174 +252,6 @@ West Ham 2-1 London City Lionesses: Kelly Gago and Viviane Asseyi strike as Hamm
 
 ### Sources
 - skysports.com — West Ham 2-1 London City Lionesses: Kelly Gago and Viviane Asseyi strike as Hammers secure first Women's Super League win of season. https://www.skysports.com/football/news/12040/13585167/west-ham-2-1-london-city-lionesses-kelly-gago-and-viviane-asseyi-strike-as-hammers-secure-first-womens-super-league-win-of-season
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Liverpool 0-0 Fulham: More dropped points at Anfield - is it too early for Liverpool to worry?
-**Slug (lower-third):** Liverpool 0-0 Fulham: More dropped points at Anfield - is…  
-**When:** 2026-09-12 14:30 (America/Winnipeg)  •  **Published:** 2026-09-12 19:30 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool 0-0 Fulham: More dropped points at Anfield - is it too early for Liverpool to worry?. Liverpool have failed to win either of their first two Premier League games at Anfield. But is it too early to worry? Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Liverpool 0-0 Fulham: More dropped points at Anfield - is it too early for Liverpool to worry?. https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Liverpool fail Fulham test as Chelsea's defensive problems continue to hamper their title challenge credentials - Premier League hits and misses
-**Slug (lower-third):** Liverpool fail Fulham test as Chelsea's defensive problem…  
-**When:** 2026-09-12 14:00 (America/Winnipeg)  •  **Published:** 2026-09-12 19:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Liverpool fail Fulham test as Chelsea's defensive problems continue to hamper their title challenge credentials - Premier League hits and misses. The Sky Sports football writers analyse Saturdays Premier League action as Liverpool fail to inspire in goalless draw with Fulham; Chelsea held by newly-promoted Hull in further showing of defensive frailties; Aston Villa have major attacking concerns Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Liverpool fail Fulham test as Chelsea's defensive problems continue to hamper their title challenge credentials - Premier League hits and misses. https://www.skysports.com/football/news/12040/13583460/liverpool-fail-fulham-test-as-chelseas-defensive-problems-continue-to-hamper-their-title-challenge-credentials-premier-league-hits-and-misses
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Tottenham waiting for first league goal of season after draw against Everton
-**Slug (lower-third):** Tottenham waiting for first league goal of season after d…  
-**When:** 2026-09-12 13:47 (America/Winnipeg)  •  **Published:** 2026-09-12 18:47 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Tottenham waiting for first league goal of season after draw against Everton. Everton missed big chances in the second half of the 0-0 draw against Spurs, who are now without a win in four Premier League games Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Tottenham waiting for first league goal of season after draw against Everton. https://www.theguardian.com/football/2026/sep/12/tottenham-everton-premier-league-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Premier League: Which goalkeepers have the most clean sheets?
-**Slug (lower-third):** Premier League: Which goalkeepers have the most clean she…  
-**When:** 2026-09-12 13:36 (America/Winnipeg)  •  **Published:** 2026-09-12 18:36 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League: Which goalkeepers have the most clean sheets?. Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Premier League: Which goalkeepers have the most clean sheets?. https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: New system, same problems - Xabi Alonso 'unhappy' with 'soft' Chelsea
-**Slug (lower-third):** New system, same problems - Xabi Alonso 'unhappy' with 's…  
-**When:** 2026-09-12 13:22 (America/Winnipeg)  •  **Published:** 2026-09-12 18:22 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-New system, same problems - Xabi Alonso 'unhappy' with 'soft' Chelsea. It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — New system, same problems - Xabi Alonso 'unhappy' with 'soft' Chelsea. https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Aston Villa: Unai Emery searching for answers after defeat by Nottingham Forest.
-**Slug (lower-third):** Aston Villa: Unai Emery searching for answers after defea…  
-**When:** 2026-09-12 13:06 (America/Winnipeg)  •  **Published:** 2026-09-12 18:06 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Aston Villa: Unai Emery searching for answers after defeat by Nottingham Forest.. Aston Villa have lost three of their opening four Premier League games to leave boss Unai Emery struggling for answers. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Aston Villa: Unai Emery searching for answers after defeat by Nottingham Forest.. https://www.bbc.co.uk/sport/football/articles/clye91zj7l0o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: WSL Highlights: West Ham United 2-1 London City Lionesses
-**Slug (lower-third):** WSL Highlights: West Ham United 2-1 London City Lionesses  
-**When:** 2026-09-12 12:43 (America/Winnipeg)  •  **Published:** 2026-09-12 17:43 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-WSL Highlights: West Ham United 2-1 London City Lionesses. West Ham United earn their first win of the WSL season, holding on to beat a highly-touted London City Lionesses side at home. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — WSL Highlights: West Ham United 2-1 London City Lionesses. https://www.bbc.co.uk/sport/football/videos/cvgyv73erdeo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
