@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-14 07:04 (America/Winnipeg)  |  2026-09-14 12:04 (UTC)
+**Generated:** 2026-09-14 16:36 (America/Winnipeg)  |  2026-09-14 21:36 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~4m 44s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Liverpool latest: Andoni Iraola frustrated by a lack of consistency
-- Man Utd: Pressure on Michael Carrick increasing after Man City defeat, says Gary Neville
-- Arsenal to contact Pro Ref over Ezri Konsa penalty incident
+- Blundering VAR duo set to be blocked from officiating on Manchester United games - Paper Talk
+- Leeds 4-1 Newcastle: Matthias Jaissle handed first defeat as Magpies boss as Dominic Calvert-Lewin leads Elland Road rout
+- Highlights - Premier League - Leeds United 4-1 Newcastle United
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Liverpool latest: Andoni Iraola frustrated by a lack of consistency
-**Slug (lower-third):** Liverpool latest: Andoni Iraola frustrated by a lack of c…  
-**When:** 2026-09-14 07:49 (America/Winnipeg)  •  **Published:** 2026-09-14 12:49 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 1: Manchester derby VAR officials not given Premier League game at weekend
+**Slug (lower-third):** Manchester derby VAR officials not given Premier League g…  
+**When:** 2026-09-14 12:02 (America/Winnipeg)  •  **Published:** 2026-09-14 17:02 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Liverpool latest: Andoni Iraola frustrated by a lack of consistency. Liverpool head coach Ando Iraola admits he has been frustrated by his sides lack of consistency, but says it is all part of the process as he settles in at his new club. Relevance to standings and momentum.
+Manchester derby VAR officials not given Premier League game at weekend. The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Liverpool latest: Andoni Iraola frustrated by a lack of consistency. Liverpool h
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Liverpool latest: Andoni Iraola frustrated by a lack of consistency. https://www.skysports.com/watch/video/13585814/liverpool-latest-andoni-iraola-frustrated-by-a-lack-of-consistency
+- bbc.co.uk — Manchester derby VAR officials not given Premier League game at weekend. https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Liverpool latest: Andoni Iraola frustrated by a lack of consistency. Liverpool h
 
 ---
 
-## Story 2: Familiar questions for Man Utd, now Carrick must find the answers
-**Slug (lower-third):** Familiar questions for Man Utd, now Carrick must find the…  
-**When:** 2026-09-14 06:25 (America/Winnipeg)  •  **Published:** 2026-09-14 11:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 2: Hull KR coach Willie Peters weighs up Warrington Wolves clash
+**Slug (lower-third):** Hull KR coach Willie Peters weighs up Warrington Wolves c…  
+**When:** 2026-09-14 11:16 (America/Winnipeg)  •  **Published:** 2026-09-14 16:16 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Familiar questions for Man Utd, now Carrick must find the answers. After one win in four Premier League games, the problems are mounting for Manchester United and manager Michael Carrick. Relevance to standings and momentum.
+Hull KR coach Willie Peters weighs up Warrington Wolves clash. Hull KR head coach Willie Peters looks ahead to their first clash against Warrington Wolves. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,7 +55,57 @@ Familiar questions for Man Utd, now Carrick must find the answers. After one win
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Familiar questions for Man Utd, now Carrick must find the answers. https://www.bbc.co.uk/sport/football/articles/cddv5mqjgvlo?at_medium=RSS&at_campaign=rss
+- skysports.com — Hull KR coach Willie Peters weighs up Warrington Wolves clash. https://www.skysports.com/watch/video/13585875/well-get-what-we-deserve-hull-kr-coach-willie-peters-weighs-up-warrington-wolves-clash
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Andoni Iraola tells Liverpool forwards they must do more to make his system work
+**Slug (lower-third):** Andoni Iraola tells Liverpool forwards they must do more …  
+**When:** 2026-09-14 10:55 (America/Winnipeg)  •  **Published:** 2026-09-14 15:55 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Andoni Iraola tells Liverpool forwards they must do more to make his system work. The head coach was critical of his forwards' pressing in their Premier League stalemate agains Fulham at Anfield on Saturday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Andoni Iraola tells Liverpool forwards they must do more to make his system work. https://www.theguardian.com/football/2026/sep/14/andoni-iraola-says-liverpool-took-a-step-backwards-in-draw-against-fulham
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 4: Blundering VAR duo set to be blocked from officiating on Manchester United games - Paper Talk
+**Slug (lower-third):** Blundering VAR duo set to be blocked from officiating on …  
+**When:** 2026-09-14 17:10 (America/Winnipeg)  •  **Published:** 2026-09-14 22:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Blundering VAR duo set to be blocked from officiating on Manchester United games - Paper Talk. Latest transfer news and headlines include: Manchester United co-owner Sir Jim Ratcliffe sneaked into Old Trafford via a back door for the Manchester derby; Robbie Ure is set to be named in the Scotland squad; ex-Arsenal and Nottingham Forest transfer chief Edu has joined a Bulgarian club Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Blundering VAR duo set to be blocked from officiating on Manchester United games - Paper Talk. https://www.skysports.com/football/news/12040/13585971/blundering-var-duo-set-to-be-blocked-from-officiating-on-manchester-united-games-paper-talk
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -66,37 +116,13 @@ Familiar questions for Man Utd, now Carrick must find the answers. After one win
 
 ### Club Updates
 
-## Story 3: Man Utd: Pressure on Michael Carrick increasing after Man City defeat, says Gary Neville
-**Slug (lower-third):** Man Utd: Pressure on Michael Carrick increasing after Man…  
-**When:** 2026-09-14 06:46 (America/Winnipeg)  •  **Published:** 2026-09-14 11:46 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-Man Utd: Pressure on Michael Carrick increasing after Man City defeat, says Gary Neville. Manchester United failed to beat 10-man Manchester City despite Phil Fodens first-half red card; Gary Neville says Uniteds game management was poor and believes next Sundays trip to Fulham is a real pressure game for Michael Carrick after joint-worst start to a Premier League season Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Man Utd: Pressure on Michael Carrick increasing after Man City defeat, says Gary Neville. https://www.skysports.com/football/news/12040/13585707/man-utd-pressure-on-michael-carrick-increasing-after-man-city-defeat-says-gary-neville
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Arsenal to contact Pro Ref over Ezri Konsa penalty incident
-**Slug (lower-third):** Arsenal to contact Pro Ref over Ezri Konsa penalty incide…  
-**When:** 2026-09-14 06:31 (America/Winnipeg)  •  **Published:** 2026-09-14 11:31 (UTC)  
+## Story 5: Leeds 4-1 Newcastle: Matthias Jaissle handed first defeat as Magpies boss as Dominic Calvert-Lewin leads Elland Road rout
+**Slug (lower-third):** Leeds 4-1 Newcastle: Matthias Jaissle handed first defeat…  
+**When:** 2026-09-14 16:50 (America/Winnipeg)  •  **Published:** 2026-09-14 21:50 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal to contact Pro Ref over Ezri Konsa penalty incident. Arsenal will contact refereeing body Pro Ref over the incident that saw Ezri Konsa concede a penalty in Saturday's win over Sunderland. Relevance to standings and momentum.
+Leeds 4-1 Newcastle: Matthias Jaissle handed first defeat as Magpies boss as Dominic Calvert-Lewin leads Elland Road rout. Leeds United maintained their unbeaten start to the Premier League campaign with a breathless 4-1 victory over Newcastle. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -105,7 +131,7 @@ Arsenal to contact Pro Ref over Ezri Konsa penalty incident. Arsenal will contac
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Arsenal to contact Pro Ref over Ezri Konsa penalty incident. https://www.bbc.co.uk/sport/football/articles/cmg49n3g7exlo?at_medium=RSS&at_campaign=rss
+- skysports.com — Leeds 4-1 Newcastle: Matthias Jaissle handed first defeat as Magpies boss as Dominic Calvert-Lewin leads Elland Road rout. https://www.skysports.com/football/leeds-united-vs-newcastle-united/report/559479
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,13 +140,13 @@ Arsenal to contact Pro Ref over Ezri Konsa penalty incident. Arsenal will contac
 
 ---
 
-## Story 5: Ref Watch: Why did VAR get Erling Haaland goal so wrong?
-**Slug (lower-third):** Ref Watch: Why did VAR get Erling Haaland goal so wrong?  
-**When:** 2026-09-14 06:29 (America/Winnipeg)  •  **Published:** 2026-09-14 11:29 (UTC)  
+## Story 6: Highlights - Premier League - Leeds United 4-1 Newcastle United
+**Slug (lower-third):** Highlights - Premier League - Leeds United 4-1 Newcastle …  
+**When:** 2026-09-14 16:31 (America/Winnipeg)  •  **Published:** 2026-09-14 21:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Ref Watch: Why did VAR get Erling Haaland goal so wrong?. Former Premier League referee Dermot Gallagher and former Coventry striker Jay Bothroyd dissect the biggest talking point of the weekend and ask how VAR got Erling Haalands winner for Manchester City against rivals United so wrong. Relevance to standings and momentum.
+Highlights - Premier League - Leeds United 4-1 Newcastle United. Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -129,7 +155,7 @@ Ref Watch: Why did VAR get Erling Haaland goal so wrong?. Former Premier League 
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Ref Watch: Why did VAR get Erling Haaland goal so wrong?. https://www.skysports.com/watch/video/13585778/ref-watch-why-did-var-get-erling-haaland-goal-so-wrong
+- bbc.co.uk — Highlights - Premier League - Leeds United 4-1 Newcastle United. https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -138,13 +164,13 @@ Ref Watch: Why did VAR get Erling Haaland goal so wrong?. Former Premier League 
 
 ---
 
-## Story 6: WSL talking points: Olid must weather United storm, Arsenal wasteful again
-**Slug (lower-third):** WSL talking points: Olid must weather United storm, Arsen…  
-**When:** 2026-09-14 06:17 (America/Winnipeg)  •  **Published:** 2026-09-14 11:17 (UTC)  
+## Story 7: Football gossip: Madueke, Wanner, Icardi, Henderson, Dimarco, Benzema
+**Slug (lower-third):** Football gossip: Madueke, Wanner, Icardi, Henderson, Dima…  
+**When:** 2026-09-14 15:31 (America/Winnipeg)  •  **Published:** 2026-09-14 20:31 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-WSL talking points: Olid must weather United storm, Arsenal wasteful again. Manchester United must regroup after a heavy defeat at home to Chelsea while Gunners were frustrated at home to Palace Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Football gossip: Madueke, Wanner, Icardi, Henderson, Dimarco, Benzema. Atletico Madrid and Juventus track Noni Madueke, Liverpool are among the clubs looking at PSV's Paul Wanner, Lazio consider free agent Mauro Icardi, plus more. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -153,7 +179,7 @@ WSL talking points: Olid must weather United storm, Arsenal wasteful again. Manc
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — WSL talking points: Olid must weather United storm, Arsenal wasteful again. https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal
+- bbc.co.uk — Football gossip: Madueke, Wanner, Icardi, Henderson, Dimarco, Benzema. https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -162,13 +188,13 @@ WSL talking points: Olid must weather United storm, Arsenal wasteful again. Manc
 
 ---
 
-## Story 7: Premier League: How often are there no home wins in a weekend?
-**Slug (lower-third):** Premier League: How often are there no home wins in a wee…  
-**When:** 2026-09-14 05:00 (America/Winnipeg)  •  **Published:** 2026-09-14 10:00 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 8: Jamie Carragher: Arsenal boss Mikel Arteta becoming like Sir Alex Ferguson after ref criticism of Sunderland penalty
+**Slug (lower-third):** Jamie Carragher: Arsenal boss Mikel Arteta becoming like …  
+**When:** 2026-09-14 14:41 (America/Winnipeg)  •  **Published:** 2026-09-14 19:41 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Premier League: How often are there no home wins in a weekend?. BBC Sport's Ask Me Anything team explains why Monday's match between Leeds United and Newcastle United could create Premier League history Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Jamie Carragher: Arsenal boss Mikel Arteta becoming like Sir Alex Ferguson after ref criticism of Sunderland penalty. Arsenal boss Mikel Arteta described the penalty given against them in their 2-0 win over Sunderland as "unacceptable"; Gunners have sought an explanation from Pro Ref over penalty award; Jamie Carragher said: This was Mikel Arteta becoming the Alex Ferguson of the PL now Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -177,7 +203,7 @@ Premier League: How often are there no home wins in a weekend?. BBC Sport's Ask 
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Premier League: How often are there no home wins in a weekend?. https://www.bbc.co.uk/sport/football/articles/cqlwkzde10qo?at_medium=RSS&at_campaign=rss
+- skysports.com — Jamie Carragher: Arsenal boss Mikel Arteta becoming like Sir Alex Ferguson after ref criticism of Sunderland penalty. https://www.skysports.com/football/news/12040/13585895/jamie-carragher-arsenal-boss-mikel-arteta-becoming-like-sir-alex-ferguson-after-ref-criticism-of-sunderland-penalty
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -186,13 +212,13 @@ Premier League: How often are there no home wins in a weekend?. BBC Sport's Ask 
 
 ---
 
-## Story 8: Erling Haaland's goal for Man City against Man Utd was a mistake- but why did it happen?
-**Slug (lower-third):** Erling Haaland's goal for Man City against Man Utd was a …  
-**When:** 2026-09-14 04:10 (America/Winnipeg)  •  **Published:** 2026-09-14 09:10 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~25s
+## Story 9: VARs who wrongly confirmed Haaland's goal at Manchester United are stood down
+**Slug (lower-third):** VARs who wrongly confirmed Haaland's goal at Manchester U…  
+**When:** 2026-09-14 10:39 (America/Winnipeg)  •  **Published:** 2026-09-14 15:39 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Erling Haaland's goal for Man City against Man Utd was a mistake- but why did it happen?. Sky Sports answers the key questions following Erling Haalands controversial winner in the Manchester derby; Man City won 1-0 at Old Trafford and refereeing body Pro Ref admitted to an error of judgment in awarding the goal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+VARs who wrongly confirmed Haaland's goal at Manchester United are stood down. The VAR officials who failed to disallow Erling Haaland's winning goal in the Manchester derby on Sunday have been stood down this weekend Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -201,7 +227,7 @@ Erling Haaland's goal for Man City against Man Utd was a mistake- but why did it
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Erling Haaland's goal for Man City against Man Utd was a mistake- but why did it happen?. https://www.skysports.com/football/news/12040/13585716/erling-haalands-goal-for-man-city-against-man-utd-was-a-mistake-but-why-did-it-happen
+- theguardian.com — VARs who wrongly confirmed Haaland's goal at Manchester United are stood down. https://www.theguardian.com/football/2026/sep/14/vars-erling-haaland-goal-manchester-united-stood-down-wrongly-allowed
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -210,13 +236,13 @@ Erling Haaland's goal for Man City against Man Utd was a mistake- but why did it
 
 ---
 
-## Story 9: Ludek Miklosko obituary: West Ham goalkeeper whose fans still chant his name
-**Slug (lower-third):** Ludek Miklosko obituary: West Ham goalkeeper whose fans s…  
-**When:** 2026-09-14 03:59 (America/Winnipeg)  •  **Published:** 2026-09-14 08:59 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 10: World Grand Prix Darts 2026: Schedule, format, prize money, venue, dates as Luke Littler, Luke Humphries seek title
+**Slug (lower-third):** World Grand Prix Darts 2026: Schedule, format, prize mone…  
+**When:** 2026-09-14 10:00 (America/Winnipeg)  •  **Published:** 2026-09-14 15:00 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Ludek Miklosko obituary: West Ham goalkeeper whose fans still chant his name. Ludek Miklosko, who has died aged 64, was a cult figure with West Ham supporters after his move to London in 1990. Relevance to standings and momentum.
+World Grand Prix Darts 2026: Schedule, format, prize money, venue, dates as Luke Littler, Luke Humphries seek title. The draw has been set as Luke Littler looks to defend his World Grand Prix title at Leicesters Mattioli Arena; Sky Sports remains the home of darts with the Boyle Sports World Grand Prix coming up from September 28 to October 4 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -225,32 +251,7 @@ Ludek Miklosko obituary: West Ham goalkeeper whose fans still chant his name. Lu
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Ludek Miklosko obituary: West Ham goalkeeper whose fans still chant his name. https://www.bbc.co.uk/sport/football/articles/cd620083wp0o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64
-**Slug (lower-third):** Ludek Miklosko, former West Ham and QPR goalkeeper, dies …  
-**When:** 2026-09-14 03:08 (America/Winnipeg)  •  **Published:** 2026-09-14 08:08 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64. The former West Ham, QPR, Czechoslovakia and Czechia goalkeeper Ludek Miklosko has died at the age of 64 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64. https://www.theguardian.com/football/2026/sep/14/ludek-miklosko-west-ham-qpr-goalkeeper-dies
-- bbc.co.uk — Ludek Miklosko: Ex-West Ham goalkeeper dies aged 64. https://www.bbc.co.uk/sport/football/articles/c77036d68k8o?at_medium=RSS&at_campaign=rss
+- skysports.com — World Grand Prix Darts 2026: Schedule, format, prize money, venue, dates as Luke Littler, Luke Humphries seek title. https://www.skysports.com/darts/news/12040/13585772/world-grand-prix-darts-2026-schedule-format-prize-money-venue-dates-as-luke-littler-luke-humphries-seek-title
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
