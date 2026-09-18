@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-18 10:59 (America/Winnipeg)  |  2026-09-18 15:59 (UTC)
+**Generated:** 2026-09-18 15:33 (America/Winnipeg)  |  2026-09-18 20:33 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 28s
+**Estimated total video length:** ~3m 26s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Hibs: 'Living legend' Gray can be proud of record, says Newell
-- Millwall v West Ham United: 14-year wait for derby meeting ends at The Den
-- Man Utd: Michael Carrick dismisses 'ridiculous' speculation over his future
+- Jaidon Anthony heads Brentford in front against Chelsea
+- Man City 4-2 Liverpool: Lauren Hemp double bookends victory as WSL champions maintain 100 per cent record
+- Manchester City 4-2 Liverpool | WSL Highlights
 
 ---
 
-### Managerial Moves
+### Transfers
 
-## Story 1: Hibs: 'Living legend' Gray can be proud of record, says Newell
-**Slug (lower-third):** Hibs: 'Living legend' Gray can be proud of record, says N…  
-**When:** 2026-09-18 10:29 (America/Winnipeg)  •  **Published:** 2026-09-18 15:29 (UTC)  
+## Story 1: Tyrell Malacia transfer news: Former Manchester United left-back joins FC Cincinnati
+**Slug (lower-third):** Tyrell Malacia transfer news: Former Manchester United le…  
+**When:** 2026-09-18 12:39 (America/Winnipeg)  •  **Published:** 2026-09-18 17:39 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Hibs: 'Living legend' Gray can be proud of record, says Newell. Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success this season. Relevance to standings and momentum.
+Tyrell Malacia transfer news: Former Manchester United left-back joins FC Cincinnati. FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Hibs: 'Living legend' Gray can be proud of record, says Newell. Club captain Joe
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Hibs: 'Living legend' Gray can be proud of record, says Newell. https://www.bbc.co.uk/sport/articles/ck3wjlv00dn2o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Tyrell Malacia transfer news: Former Manchester United left-back joins FC Cincinnati. https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,15 @@ Hibs: 'Living legend' Gray can be proud of record, says Newell. Club captain Joe
 
 ---
 
-## Story 2: Brian Sorensen to join Republic of Ireland Women's coaching staff
-**Slug (lower-third):** Brian Sorensen to join Republic of Ireland Women's coachi…  
-**When:** 2026-09-18 09:19 (America/Winnipeg)  •  **Published:** 2026-09-18 14:19 (UTC)  
+### League & Regulation
+
+## Story 2: Patrick Vieira: Senegal job an 'absolute dream' for former Arsenal midfielder
+**Slug (lower-third):** Patrick Vieira: Senegal job an 'absolute dream' for forme…  
+**When:** 2026-09-18 12:01 (America/Winnipeg)  •  **Published:** 2026-09-18 17:01 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Brian Sorensen to join Republic of Ireland Women's coaching staff. Former Everton manager Brian Sorensen is set to join the Republic of Ireland squad for their Women's World Cup play-off qualifiers this year. Relevance to standings and momentum.
+Patrick Vieira: Senegal job an 'absolute dream' for former Arsenal midfielder. Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an "honour". Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,55 +57,7 @@ Brian Sorensen to join Republic of Ireland Women's coaching staff. Former Everto
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Brian Sorensen to join Republic of Ireland Women's coaching staff. https://www.bbc.co.uk/sport/football/articles/cqj9x8kr0dm2o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Manchester United: Michael Carrick refuses to consider job fears
-**Slug (lower-third):** Manchester United: Michael Carrick refuses to consider jo…  
-**When:** 2026-09-18 09:09 (America/Winnipeg)  •  **Published:** 2026-09-18 14:09 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester United: Michael Carrick refuses to consider job fears. Manchester United head coach Michael Carrick says there is no point wasting any time worrying if his job is under threat. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Manchester United: Michael Carrick refuses to consider job fears. https://www.bbc.co.uk/sport/football/articles/c5n4k89j1zpeo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: Liverpool: How Andoni Iraola is moving Reds on from Arne Slot era
-**Slug (lower-third):** Liverpool: How Andoni Iraola is moving Reds on from Arne …  
-**When:** 2026-09-18 08:20 (America/Winnipeg)  •  **Published:** 2026-09-18 13:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Liverpool: How Andoni Iraola is moving Reds on from Arne Slot era. BBC Sport looks at how new manager Andoni Iraola is moving Liverpool on from the Arne Slot era after their disappointing form last season. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Liverpool: How Andoni Iraola is moving Reds on from Arne Slot era. https://www.bbc.co.uk/sport/football/articles/cjn5dg7de6wdo?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Patrick Vieira: Senegal job an 'absolute dream' for former Arsenal midfielder. https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -114,10 +68,154 @@ Liverpool: How Andoni Iraola is moving Reds on from Arne Slot era. BBC Sport loo
 
 ### Club Updates
 
-## Story 5: Millwall v West Ham United: 14-year wait for derby meeting ends at The Den
+## Story 3: Jaidon Anthony heads Brentford in front against Chelsea
+**Slug (lower-third):** Jaidon Anthony heads Brentford in front against Chelsea  
+**When:** 2026-09-18 16:26 (America/Winnipeg)  •  **Published:** 2026-09-18 21:26 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Jaidon Anthony heads Brentford in front against Chelsea. Jaidon Anthony heads Brentford in front against Chelsea. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Jaidon Anthony heads Brentford in front against Chelsea. https://www.skysports.com/watch/video/13589497/jaidon-anthony-heads-brentford-in-front-against-chelsea
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: Man City 4-2 Liverpool: Lauren Hemp double bookends victory as WSL champions maintain 100 per cent record
+**Slug (lower-third):** Man City 4-2 Liverpool: Lauren Hemp double bookends victo…  
+**When:** 2026-09-18 16:15 (America/Winnipeg)  •  **Published:** 2026-09-18 21:15 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Man City 4-2 Liverpool: Lauren Hemp double bookends victory as WSL champions maintain 100 per cent record. Lauren Hemp bookended a 4-2 victory for Manchester City against Liverpool as the WSL champions maintained a winning start to their title defence. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Man City 4-2 Liverpool: Lauren Hemp double bookends victory as WSL champions maintain 100 per cent record. https://www.skysports.com/football/manchester-city-women-vs-liverpool-women/report/575769
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Manchester City 4-2 Liverpool | WSL Highlights
+**Slug (lower-third):** Manchester City 4-2 Liverpool | WSL Highlights  
+**When:** 2026-09-18 16:12 (America/Winnipeg)  •  **Published:** 2026-09-18 21:12 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City 4-2 Liverpool | WSL Highlights. Highlights of Manchester City against Liverpool in the WSL. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Manchester City 4-2 Liverpool | WSL Highlights. https://www.skysports.com/watch/video/13589490/manchester-city-4-2-liverpool-wsl-highlights
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: JJ Gabriel edging closer to Manchester United exit amid Barcelona talks about a potential move for the forward
+**Slug (lower-third):** JJ Gabriel edging closer to Manchester United exit amid B…  
+**When:** 2026-09-18 12:20 (America/Winnipeg)  •  **Published:** 2026-09-18 17:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~26s
+
+### Presenter Script (3–5 sentences)
+JJ Gabriel edging closer to Manchester United exit amid Barcelona talks about a potential move for the forward. JJ Gabriel, 15, has made it clear he wants to leave Man Utd and has asked to be de-registered to become a free agent; Barcelona and Real Madrid talks advancing, PSG and Bayern also interested in the forward Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — JJ Gabriel edging closer to Manchester United exit amid Barcelona talks about a potential move for the forward. https://www.skysports.com/football/news/12040/13589387/jj-gabriel-edging-closer-to-manchester-united-exit-amid-barcelona-talks-about-a-potential-move-for-the-forward
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Michele Kang says London City Lionesses' new training ground will set a new standard in women's football
+**Slug (lower-third):** Michele Kang says London City Lionesses' new training gro…  
+**When:** 2026-09-18 11:03 (America/Winnipeg)  •  **Published:** 2026-09-18 16:03 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Michele Kang says London City Lionesses' new training ground will set a new standard in women's football. Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier League clubs. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Michele Kang says London City Lionesses' new training ground will set a new standard in women's football. https://www.bbc.co.uk/sport/football/articles/crl69549wzro?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Premier League action, Celtic v Rangers, T20 cricket and NFL - follow with us
+**Slug (lower-third):** Premier League action, Celtic v Rangers, T20 cricket and …  
+**When:** 2026-09-18 11:05 (America/Winnipeg)  •  **Published:** 2026-09-18 16:05 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Premier League action, Celtic v Rangers, T20 cricket and NFL - follow with us. Here's how to follow along with our coverage - the finest writing and up-to-the-minute reports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Premier League action, Celtic v Rangers, T20 cricket and NFL - follow with us. https://www.theguardian.com/sport/2026/sep/18/premier-league-action-celtic-v-rangers-t20-cricket-and-nfl-follow-with-us
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Millwall v West Ham United: 14-year wait for derby meeting ends at The Den
 **Slug (lower-third):** Millwall v West Ham United: 14-year wait for derby meetin…  
 **When:** 2026-09-18 09:52 (America/Winnipeg)  •  **Published:** 2026-09-18 14:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Millwall v West Ham United: 14-year wait for derby meeting ends at The Den. More than 14 years after their most recent meeting, the rivalry between Millwall and West Ham United will be renewed at The Den on Saturday. Relevance to standings and momentum.
@@ -138,34 +236,10 @@ Millwall v West Ham United: 14-year wait for derby meeting ends at The Den. More
 
 ---
 
-## Story 6: Man Utd: Michael Carrick dismisses 'ridiculous' speculation over his future
-**Slug (lower-third):** Man Utd: Michael Carrick dismisses 'ridiculous' speculati…  
-**When:** 2026-09-18 09:45 (America/Winnipeg)  •  **Published:** 2026-09-18 14:45 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Man Utd: Michael Carrick dismisses 'ridiculous' speculation over his future. Manchester United boss Michael Carrick says talk of his future is "not on his radar" and insists their recent setbacks are far from a "catastrophe"; watch Fulham vs Man Utd on Sunday, live on Sky Sports Premier League from 4pm; kick-off 4.30pm Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Man Utd: Michael Carrick dismisses 'ridiculous' speculation over his future. https://www.skysports.com/football/news/12040/13589326/man-utd-its-not-on-the-radar-michael-carrick-dismisses-ridiculous-speculation-on-future
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Premier League team news: predicted lineups for the weekend action
+## Story 10: Premier League team news: predicted lineups for the weekend action
 **Slug (lower-third):** Premier League team news: predicted lineups for the weeke…  
 **When:** 2026-09-18 09:33 (America/Winnipeg)  •  **Published:** 2026-09-18 14:33 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Premier League team news: predicted lineups for the weekend action. Tottenham begin Saturday's action against Aston Villa while at Brighton Arsenal are aiming to keep their 100% winning record Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -178,78 +252,6 @@ Premier League team news: predicted lineups for the weekend action. Tottenham be
 
 ### Sources
 - theguardian.com — Premier League team news: predicted lineups for the weekend action. https://www.theguardian.com/football/2026/sep/18/premier-league-team-news-predicted-lineups-for-the-weekend-action
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: County Championship: Somerset's title hopes hit badly in Yorkshire defeat as Notts also miss out to leave Warwickshire in command
-**Slug (lower-third):** County Championship: Somerset's title hopes hit badly in …  
-**When:** 2026-09-18 08:52 (America/Winnipeg)  •  **Published:** 2026-09-18 13:52 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-County Championship: Somerset's title hopes hit badly in Yorkshire defeat as Notts also miss out to leave Warwickshire in command. Somerset lose leadership of Division One to Warwickshire heading into the final round of matches after hugely-costly 185-run defeat to Yorkshire at Headingley; Somerset at home to Surrey, while Warwickshire host Leicestershire in final title-deciding matches from September 24 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — County Championship: Somerset's title hopes hit badly in Yorkshire defeat as Notts also miss out to leave Warwickshire in command. https://www.skysports.com/cricket/news/12040/13589308/county-championship-somersets-title-hopes-hit-badly-in-yorkshire-defeat-as-they-drop-to-second-in-table
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Wrexham owners Ryan Reynolds and Rob Mac aim Spygate dig at Southampton
-**Slug (lower-third):** Wrexham owners Ryan Reynolds and Rob Mac aim Spygate dig …  
-**When:** 2026-09-18 07:03 (America/Winnipeg)  •  **Published:** 2026-09-18 12:03 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Wrexham owners Ryan Reynolds and Rob Mac aim Spygate dig at Southampton. Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their Championship fixture this weekend. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Wrexham owners Ryan Reynolds and Rob Mac aim Spygate dig at Southampton. https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Fear and loathing linger as Millwall and West Ham resume ferocious rivalry
-**Slug (lower-third):** Fear and loathing linger as Millwall and West Ham resume …  
-**When:** 2026-09-18 06:00 (America/Winnipeg)  •  **Published:** 2026-09-18 11:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Fear and loathing linger as Millwall and West Ham resume ferocious rivalry. The Metropolitan police have been granted special powers to tackle violence as the south and east London teams meet again on Saturday after 14 years Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Fear and loathing linger as Millwall and West Ham resume ferocious rivalry. https://www.theguardian.com/football/2026/sep/18/millwall-west-ham-rivalry-championship-game
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
