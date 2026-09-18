@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-17 22:40 (America/Winnipeg)  |  2026-09-18 03:40 (UTC)
+**Generated:** 2026-09-18 05:44 (America/Winnipeg)  |  2026-09-18 10:44 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 32s
+**Estimated total video length:** ~4m 38s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Bournemouth: From -17 to dream European start for Adam Smith and Cherries
-- Premier League: 10 things to look out for this weekend
-- Arsenal transfer news: Eli Junior Kroupi and Kevin Schade on Mikel Arteta's target list ahead of January - Paper Talk
+- Women's Super League: Eva Olid says Manchester United criticism 'normal'
+- Michael Carrick: Man Utd boss aiming to steer ship back on course at Fulham after back-to-back defeats
+- Tottenham vs Aston Villa: Paul Merson believes Saturday's 'huge' Premier League match is a 'momentum swinger'
 
 ---
 
-### Transfers
+### Managerial Moves
 
-## Story 1: Arsenal transfer news: Eli Junior Kroupi and Kevin Schade on Mikel Arteta's target list ahead of January - Paper Talk
-**Slug (lower-third):** Arsenal transfer news: Eli Junior Kroupi and Kevin Schade…  
-**When:** 2026-09-17 17:39 (America/Winnipeg)  •  **Published:** 2026-09-17 22:39 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~28s
+## Story 1: Women's Super League: Eva Olid says Manchester United criticism 'normal'
+**Slug (lower-third):** Women's Super League: Eva Olid says Manchester United cri…  
+**When:** 2026-09-18 03:42 (America/Winnipeg)  •  **Published:** 2026-09-18 08:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Arsenal transfer news: Eli Junior Kroupi and Kevin Schade on Mikel Arteta's target list ahead of January - Paper Talk. Latest transfer news and headlines include: Michael Carrick still has the backing of the Man Utd hierarchy despite poor start; Cole Palmer is set to be recalled to the England squad; Liverpool will need to pay PS130m to sign Bournemouth winger Rayan Implications for the squad and table. We'll watch for official confirmation and update as details emerge.
+Women's Super League: Eva Olid says Manchester United criticism 'normal'. Manchester United manager Eva Olid says it is "normal" to expect "constructive criticism" following their poor start to the WSL campaign. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,31 @@ Arsenal transfer news: Eli Junior Kroupi and Kevin Schade on Mikel Arteta's targ
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Arsenal transfer news: Eli Junior Kroupi and Kevin Schade on Mikel Arteta's target list ahead of January - Paper Talk. https://www.skysports.com/football/news/12040/13589073/arsenal-transfer-news-eli-junior-kroupi-and-kevin-schade-on-mikel-artetas-target-list-ahead-of-january-paper-talk
+- bbc.co.uk — Women's Super League: Eva Olid says Manchester United criticism 'normal'. https://www.bbc.co.uk/sport/football/articles/c6158xyqd7d0o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: FPL gameweek five tips: Keep or sell Man City's Rayan Cherki?
+**Slug (lower-third):** FPL gameweek five tips: Keep or sell Man City's Rayan Che…  
+**When:** 2026-09-18 01:44 (America/Winnipeg)  •  **Published:** 2026-09-18 06:44 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+FPL gameweek five tips: Keep or sell Man City's Rayan Cherki?. BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek five. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — FPL gameweek five tips: Keep or sell Man City's Rayan Cherki?. https://www.bbc.co.uk/sport/football/articles/c69qr50nynqdo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +66,13 @@ Arsenal transfer news: Eli Junior Kroupi and Kevin Schade on Mikel Arteta's targ
 
 ### Injuries
 
-## Story 2: Premier League: 10 things to look out for this weekend
-**Slug (lower-third):** Premier League: 10 things to look out for this weekend  
-**When:** 2026-09-17 18:01 (America/Winnipeg)  •  **Published:** 2026-09-17 23:01 (UTC)  
-**Virality score:** 98  •  **Estimated runtime:** ~20s
+## Story 3: Nottingham Forest vs Coventry City: Why unusually tough start should not be used to measure Frank Lampard's side
+**Slug (lower-third):** Nottingham Forest vs Coventry City: Why unusually tough s…  
+**When:** 2026-09-18 03:00 (America/Winnipeg)  •  **Published:** 2026-09-18 08:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Premier League: 10 things to look out for this weekend. Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Nottingham Forest vs Coventry City: Why unusually tough start should not be used to measure Frank Lampard's side. Coventry City have endured a miserable return to the Premier League, but all is not lost four games in - Frank Lampard is experienced enough to know that; watch Nottingham Forest vs Coventry City live on Sky Sports Main Event on Saturday; kick-off 5.30pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,7 +81,55 @@ Premier League: 10 things to look out for this weekend. Spurs and Villa meet in 
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Premier League: 10 things to look out for this weekend. https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend
+- skysports.com — Nottingham Forest vs Coventry City: Why unusually tough start should not be used to measure Frank Lampard's side. https://www.skysports.com/football/news/12040/13588558/nottingham-forest-vs-coventry-city-why-unusually-tough-start-should-not-be-used-to-measure-frank-lampards-side
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 4: FA Cup: From depression after serious injury at Chelsea to still playing at 37
+**Slug (lower-third):** FA Cup: From depression after serious injury at Chelsea t…  
+**When:** 2026-09-18 02:10 (America/Winnipeg)  •  **Published:** 2026-09-18 07:10 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+FA Cup: From depression after serious injury at Chelsea to still playing at 37. Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — FA Cup: From depression after serious injury at Chelsea to still playing at 37. https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: Today on Sky Sports Racing: Spy Chief and Catullus clash at Newbury with Newton Abbot and Wolverhampton also live on Friday
+**Slug (lower-third):** Today on Sky Sports Racing: Spy Chief and Catullus clash …  
+**When:** 2026-09-18 01:00 (America/Winnipeg)  •  **Published:** 2026-09-18 06:00 (UTC)  
+**Virality score:** 99  •  **Estimated runtime:** ~24s
+
+### Presenter Script (3–5 sentences)
+Today on Sky Sports Racing: Spy Chief and Catullus clash at Newbury with Newton Abbot and Wolverhampton also live on Friday. What a Friday we have in store! Newbury, Newton Abbot and Wolverhampton host live action before Forever Young returns at the newly-refurbished Belmont Park in the Jockey Club Gold Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Today on Sky Sports Racing: Spy Chief and Catullus clash at Newbury with Newton Abbot and Wolverhampton also live on Friday. https://www.skysports.com/racing/news/12040/13588616/today-on-sky-sports-racing-spy-chief-and-catullus-clash-at-newbury
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -68,13 +140,85 @@ Premier League: 10 things to look out for this weekend. Spurs and Villa meet in 
 
 ### Club Updates
 
-## Story 3: Bournemouth: From -17 to dream European start for Adam Smith and Cherries
-**Slug (lower-third):** Bournemouth: From -17 to dream European start for Adam Sm…  
-**When:** 2026-09-17 18:30 (America/Winnipeg)  •  **Published:** 2026-09-17 23:30 (UTC)  
+## Story 6: Michael Carrick: Man Utd boss aiming to steer ship back on course at Fulham after back-to-back defeats
+**Slug (lower-third):** Michael Carrick: Man Utd boss aiming to steer ship back o…  
+**When:** 2026-09-18 03:00 (America/Winnipeg)  •  **Published:** 2026-09-18 08:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~22s
+
+### Presenter Script (3–5 sentences)
+Michael Carrick: Man Utd boss aiming to steer ship back on course at Fulham after back-to-back defeats. Sky Sports News reporter Danyal Khan assesses the choppy waters Manchester United boss Michael Carrick has found himself in after back-to-back defeats; watch Fulham vs Man Utd on Sunday, live on Sky Sports Premier League from 4pm; kick-off 4.30pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Michael Carrick: Man Utd boss aiming to steer ship back on course at Fulham after back-to-back defeats. https://www.skysports.com/football/news/12040/13589079/michael-carrick-man-utd-boss-aiming-to-steer-ship-back-on-course-at-fulham-after-back-to-back-defeats
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Tottenham vs Aston Villa: Paul Merson believes Saturday's 'huge' Premier League match is a 'momentum swinger'
+**Slug (lower-third):** Tottenham vs Aston Villa: Paul Merson believes Saturday's…  
+**When:** 2026-09-18 03:00 (America/Winnipeg)  •  **Published:** 2026-09-18 08:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~28s
+
+### Presenter Script (3–5 sentences)
+Tottenham vs Aston Villa: Paul Merson believes Saturday's 'huge' Premier League match is a 'momentum swinger'. Sky Sports Paul Merson looks ahead to Saturdays match between two winless sides in the Premier League as Tottenham host Aston Villa; the Magic Man believes it is a momentum swinger of a game; Merse also assesses Arsenals chances of defending their Premier League title Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Tottenham vs Aston Villa: Paul Merson believes Saturday's 'huge' Premier League match is a 'momentum swinger'. https://www.skysports.com/football/news/12040/13589087/tottenham-vs-aston-villa-paul-merson-believes-saturdays-huge-premier-league-match-is-a-momentum-swinger
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Wolves v West Bromwich Albion quiz: How well do you know your derby history?
+**Slug (lower-third):** Wolves v West Bromwich Albion quiz: How well do you know …  
+**When:** 2026-09-18 02:19 (America/Winnipeg)  •  **Published:** 2026-09-18 07:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Wolves v West Bromwich Albion quiz: How well do you know your derby history?. Think you know the history of matches between Wolverhampton Wanderers and West Bromwich Albion? Put it to the test. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Wolves v West Bromwich Albion quiz: How well do you know your derby history?. https://www.bbc.co.uk/sport/football/articles/crz9zvlj7g1xo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Todd Boehly exits Chelsea diminished after having his fingers burned
+**Slug (lower-third):** Todd Boehly exits Chelsea diminished after having his fin…  
+**When:** 2026-09-18 02:00 (America/Winnipeg)  •  **Published:** 2026-09-18 07:00 (UTC)  
 **Virality score:** 99  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Bournemouth: From -17 to dream European start for Adam Smith and Cherries. Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition. Relevance to standings and momentum.
+Todd Boehly exits Chelsea diminished after having his fingers burned. The billionaire's departure will change little day-to-day but could be significant for club's stadium plans Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -83,7 +227,7 @@ Bournemouth: From -17 to dream European start for Adam Smith and Cherries. Bourn
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Bournemouth: From -17 to dream European start for Adam Smith and Cherries. https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss
+- theguardian.com — Todd Boehly exits Chelsea diminished after having his fingers burned. https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +236,13 @@ Bournemouth: From -17 to dream European start for Adam Smith and Cherries. Bourn
 
 ---
 
-## Story 4: Football gossip: Junior Kroupi, Branthwaite, Williams, Zubimendi, Rayan, Alvarez
-**Slug (lower-third):** Football gossip: Junior Kroupi, Branthwaite, Williams, Zu…  
-**When:** 2026-09-17 17:14 (America/Winnipeg)  •  **Published:** 2026-09-17 22:14 (UTC)  
+## Story 10: Why Spurs are struggling to score goals and what next?
+**Slug (lower-third):** Why Spurs are struggling to score goals and what next?  
+**When:** 2026-09-18 00:16 (America/Winnipeg)  •  **Published:** 2026-09-18 05:16 (UTC)  
 **Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Junior Kroupi, Branthwaite, Williams, Zubimendi, Rayan, Alvarez. Arsenal are eyeing Bournemouth youngster Eli Junior Kroupi, Real Madrid are considering a move for Everton's Jarrad Branthwaite, Chelsea are interested in Nico Williams, plus more. Relevance to standings and momentum.
+Why Spurs are struggling to score goals and what next?. Roberto De Zerbi's Tottenham are yet to score a Premier League goal this season, how do they fix that? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,151 +251,7 @@ Football gossip: Junior Kroupi, Branthwaite, Williams, Zubimendi, Rayan, Alvarez
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Junior Kroupi, Branthwaite, Williams, Zubimendi, Rayan, Alvarez. https://www.bbc.co.uk/sport/football/articles/crn8ez44ywqdo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Man City 5-0 Norwich: Floyd Samba debut overshadows JJ Gabriel saga
-**Slug (lower-third):** Man City 5-0 Norwich: Floyd Samba debut overshadows JJ Ga…  
-**When:** 2026-09-17 17:00 (America/Winnipeg)  •  **Published:** 2026-09-17 22:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man City 5-0 Norwich: Floyd Samba debut overshadows JJ Gabriel saga. Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Man City 5-0 Norwich: Floyd Samba debut overshadows JJ Gabriel saga. https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: Crystal Palace 4-0 Lech Poznan: Eagles breeze past Polish champions to record victory on first Europa League outing
-**Slug (lower-third):** Crystal Palace 4-0 Lech Poznan: Eagles breeze past Polish…  
-**When:** 2026-09-17 17:00 (America/Winnipeg)  •  **Published:** 2026-09-17 22:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Crystal Palace 4-0 Lech Poznan: Eagles breeze past Polish champions to record victory on first Europa League outing. Crystal Palace cruised to victory in their first-ever Europa League game with a 4-0 win over Polish champions Lech Poznan at Selhurst Park. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Crystal Palace 4-0 Lech Poznan: Eagles breeze past Polish champions to record victory on first Europa League outing. https://www.skysports.com/football/crystal-palace-vs-lech-poznan/report/577752
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Real Sociedad 1-2 Bournemouth: Justin Kluivert and Rayan goals in Europa League clash hand Cherries first-ever European win
-**Slug (lower-third):** Real Sociedad 1-2 Bournemouth: Justin Kluivert and Rayan …  
-**When:** 2026-09-17 17:00 (America/Winnipeg)  •  **Published:** 2026-09-17 22:00 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Real Sociedad 1-2 Bournemouth: Justin Kluivert and Rayan goals in Europa League clash hand Cherries first-ever European win. First-half goals by Justin Kluivert and Rayan helped Bournemouth start their maiden European campaign with a memorable 2-1 win at Real Sociedad. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Real Sociedad 1-2 Bournemouth: Justin Kluivert and Rayan goals in Europa League clash hand Cherries first-ever European win. https://www.skysports.com/football/real-sociedad-vs-bournemouth/report/577757
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Man City 5-0 Norwich: Floyd Samba enjoys dream debut with double to book place in Carabao Cup fourth round for Enzo Maresca's side
-**Slug (lower-third):** Man City 5-0 Norwich: Floyd Samba enjoys dream debut with…  
-**When:** 2026-09-17 16:21 (America/Winnipeg)  •  **Published:** 2026-09-17 21:21 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~21s
-
-### Presenter Script (3–5 sentences)
-Man City 5-0 Norwich: Floyd Samba enjoys dream debut with double to book place in Carabao Cup fourth round for Enzo Maresca's side. Floyd Samba enjoyed a dream debut by scoring twice as holders Manchester City booked their place in the Carabao Cup fourth round with a 5-0 home win over Norwich. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Man City 5-0 Norwich: Floyd Samba enjoys dream debut with double to book place in Carabao Cup fourth round for Enzo Maresca's side. https://www.skysports.com/football/manchester-city-vs-norwich-city/report/577580
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Pino kickstarts Crystal Palace's Europa League rout of Lech Poznan to ease Sage's worries
-**Slug (lower-third):** Pino kickstarts Crystal Palace's Europa League rout of Le…  
-**When:** 2026-09-17 16:03 (America/Winnipeg)  •  **Published:** 2026-09-17 21:03 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-Pino kickstarts Crystal Palace's Europa League rout of Lech Poznan to ease Sage's worries. First-half goals from Yeremy Pino, Chris Richards and Jorgen Strand Larsen and a late strike by Eddie Nketiah gave Crystal Palace a comfortable 4-0 win over Lech Poznan in their Europa League opener Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Pino kickstarts Crystal Palace's Europa League rout of Lech Poznan to ease Sage's worries. https://www.theguardian.com/football/2026/sep/17/crystal-palace-lech-poznan-europa-league-match-report
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Floyd Samba's debut double lifts Manchester City to Carabao Cup win over Norwich
-**Slug (lower-third):** Floyd Samba's debut double lifts Manchester City to Carab…  
-**When:** 2026-09-17 15:33 (America/Winnipeg)  •  **Published:** 2026-09-17 20:33 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Floyd Samba's debut double lifts Manchester City to Carabao Cup win over Norwich. Teenager Floyd Samba scored twice on his debut as Manchester City beat Norwich 5-0 in the third round of the Carabao Cup Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Floyd Samba's debut double lifts Manchester City to Carabao Cup win over Norwich. https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report
+- bbc.co.uk — Why Spurs are struggling to score goals and what next?. https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
