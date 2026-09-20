@@ -1,5 +1,5 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-20 05:49 (America/Winnipeg)  |  2026-09-20 10:49 (UTC)
+**Generated:** 2026-09-20 10:38 (America/Winnipeg)  |  2026-09-20 15:38 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
 **Estimated total video length:** ~3m 20s
@@ -8,21 +8,21 @@
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Nottingham Forest 0-1 Coventry: Jay Dasilva's winner gives Sky Blues first Premier League win in 25 years
-- Tottenham continue downward spiral as Arsenal prove they are not perfect - Premier League hits and misses
-- Football gossip: Arsenal consider Endrick, Barcelona may launch offer for Haaland
+- Leeds 0-0 Crystal Palace: Pierre Sage's side claim valuable point as Daniel Farke's team stay unbeaten in Premier League
+- Bournemouth 0-1 Liverpool | Premier League highlights
+- Man City 5-3 Sunderland: Enzo Maresca's side stay top of Premier League after chaotic eight goal thriller
 
 ---
 
-### Injuries
+### Managerial Moves
 
-## Story 1: Josko Gvardiol: How Man City defender is returning to best at left-back
-**Slug (lower-third):** Josko Gvardiol: How Man City defender is returning to bes…  
-**When:** 2026-09-19 16:31 (America/Winnipeg)  •  **Published:** 2026-09-19 21:31 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 1: WSL highlights: Arsenal 1-1 Manchester United
+**Slug (lower-third):** WSL highlights: Arsenal 1-1 Manchester United  
+**When:** 2026-09-19 17:40 (America/Winnipeg)  •  **Published:** 2026-09-19 22:40 (UTC)  
+**Virality score:** 81  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Josko Gvardiol: How Man City defender is returning to best at left-back. Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an impressive start to the new campaign. Potential impact on the lineup and upcoming fixtures.
+WSL highlights: Arsenal 1-1 Manchester United. Arsenal steal a last gasp leveller through Smilla Holmberg, denying Eva Olid her first win as Manchester United manager in her third game in charge. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,33 @@ Josko Gvardiol: How Man City defender is returning to best at left-back. Josko G
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Josko Gvardiol: How Man City defender is returning to best at left-back. https://www.bbc.co.uk/sport/football/articles/cm0e35jrqyd7o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — WSL highlights: Arsenal 1-1 Manchester United. https://www.bbc.co.uk/sport/football/videos/c8r4v5y9w1gyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **Confident, upbeat**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 2: Bournemouth 0-1 Liverpool: Alexander Isak scores winner as Andoni Iraola triumphs at his former club
+**Slug (lower-third):** Bournemouth 0-1 Liverpool: Alexander Isak scores winner a…  
+**When:** 2026-09-20 10:50 (America/Winnipeg)  •  **Published:** 2026-09-20 15:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Bournemouth 0-1 Liverpool: Alexander Isak scores winner as Andoni Iraola triumphs at his former club. Alexander Isak scored the winning goal as Liverpool beat Bournemouth 1-0 on Andoni Iraola's return to the Vitality Stadium. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Bournemouth 0-1 Liverpool: Alexander Isak scores winner as Andoni Iraola triumphs at his former club. https://www.skysports.com/football/bournemouth-vs-liverpool/report/559484
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +68,13 @@ Josko Gvardiol: How Man City defender is returning to best at left-back. Josko G
 
 ### Club Updates
 
-## Story 2: Nottingham Forest 0-1 Coventry: Jay Dasilva's winner gives Sky Blues first Premier League win in 25 years
-**Slug (lower-third):** Nottingham Forest 0-1 Coventry: Jay Dasilva's winner give…  
-**When:** 2026-09-19 14:30 (America/Winnipeg)  •  **Published:** 2026-09-19 19:30 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 3: Leeds 0-0 Crystal Palace: Pierre Sage's side claim valuable point as Daniel Farke's team stay unbeaten in Premier League
+**Slug (lower-third):** Leeds 0-0 Crystal Palace: Pierre Sage's side claim valuab…  
+**When:** 2026-09-20 11:20 (America/Winnipeg)  •  **Published:** 2026-09-20 16:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Nottingham Forest 0-1 Coventry: Jay Dasilva's winner gives Sky Blues first Premier League win in 25 years. Coventry earned their first Premier League victory in 25 years after Jay Dasilva's winner and a controversial disallowed Nottingham Forest equaliser saw the promoted side win 1-0 at the City Ground. Relevance to standings and momentum.
+Leeds 0-0 Crystal Palace: Pierre Sage's side claim valuable point as Daniel Farke's team stay unbeaten in Premier League. Crystal Palace secured a useful point at in-form and unbeaten Leeds as Pierre Sage's side produced a much-improved defensive display to hold the hosts to a goalless draw at Elland Road. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,8 +83,7 @@ Nottingham Forest 0-1 Coventry: Jay Dasilva's winner gives Sky Blues first Premi
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Nottingham Forest 0-1 Coventry: Jay Dasilva's winner gives Sky Blues first Premier League win in 25 years. https://www.skysports.com/football/nottingham-forest-vs-coventry-city/report/559492
-- bbc.co.uk — Premier League highlights: Nottingham Forest 0-1 Coventry City. https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss
+- skysports.com — Leeds 0-0 Crystal Palace: Pierre Sage's side claim valuable point as Daniel Farke's team stay unbeaten in Premier League. https://www.skysports.com/football/leeds-united-vs-crystal-palace/report/559489
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -67,13 +92,13 @@ Nottingham Forest 0-1 Coventry: Jay Dasilva's winner gives Sky Blues first Premi
 
 ---
 
-## Story 3: Tottenham continue downward spiral as Arsenal prove they are not perfect - Premier League hits and misses
-**Slug (lower-third):** Tottenham continue downward spiral as Arsenal prove they …  
-**When:** 2026-09-19 17:09 (America/Winnipeg)  •  **Published:** 2026-09-19 22:09 (UTC)  
-**Virality score:** 87  •  **Estimated runtime:** ~20s
+## Story 4: Bournemouth 0-1 Liverpool | Premier League highlights
+**Slug (lower-third):** Bournemouth 0-1 Liverpool | Premier League highlights  
+**When:** 2026-09-20 11:05 (America/Winnipeg)  •  **Published:** 2026-09-20 16:05 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Tottenham continue downward spiral as Arsenal prove they are not perfect - Premier League hits and misses. Sky Sports writers assess the Premier League action from Friday and Saturday as Chelsea, Arsenal and Tottenham all suffer embarrassing defeats... Relevance to standings and momentum.
+Bournemouth 0-1 Liverpool | Premier League highlights. FREE TO WATCH: Highlights from the Premier League match between Bournemouth and Liverpool. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -82,7 +107,7 @@ Tottenham continue downward spiral as Arsenal prove they are not perfect - Premi
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Tottenham continue downward spiral as Arsenal prove they are not perfect - Premier League hits and misses. https://www.skysports.com/football/news/12040/13589567/tottenham-continue-downward-spiral-as-arsenal-prove-they-are-not-perfect-premier-league-hits-and-misses
+- skysports.com — Bournemouth 0-1 Liverpool | Premier League highlights. https://www.skysports.com/watch/video/13590150/bournemouth-0-1-liverpool-premier-league-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -91,13 +116,13 @@ Tottenham continue downward spiral as Arsenal prove they are not perfect - Premi
 
 ---
 
-## Story 4: Football gossip: Arsenal consider Endrick, Barcelona may launch offer for Haaland
-**Slug (lower-third):** Football gossip: Arsenal consider Endrick, Barcelona may …  
-**When:** 2026-09-19 16:39 (America/Winnipeg)  •  **Published:** 2026-09-19 21:39 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
+## Story 5: Man City 5-3 Sunderland: Enzo Maresca's side stay top of Premier League after chaotic eight goal thriller
+**Slug (lower-third):** Man City 5-3 Sunderland: Enzo Maresca's side stay top of …  
+**When:** 2026-09-20 11:00 (America/Winnipeg)  •  **Published:** 2026-09-20 16:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Arsenal consider Endrick, Barcelona may launch offer for Haaland. Barcelona may launch a huge offer for Haaland, Arsenal are interested in struggling Endrick, and Liverpool insist on keeping Wirtz Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Man City 5-3 Sunderland: Enzo Maresca's side stay top of Premier League after chaotic eight goal thriller. Manchester City head into the extended international break three points clear at the top of the Premier League after edging a completely bonkers, gloriously chaotic eight-goal thriller against Sunderland, winning 5-3. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -106,7 +131,7 @@ Football gossip: Arsenal consider Endrick, Barcelona may launch offer for Haalan
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Arsenal consider Endrick, Barcelona may launch offer for Haaland. https://www.bbc.co.uk/sport/football/articles/cq1j478n0ll7o?at_medium=RSS&at_campaign=rss
+- skysports.com — Man City 5-3 Sunderland: Enzo Maresca's side stay top of Premier League after chaotic eight goal thriller. https://www.skysports.com/football/manchester-city-vs-sunderland/report/559490
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -115,13 +140,13 @@ Football gossip: Arsenal consider Endrick, Barcelona may launch offer for Haalan
 
 ---
 
-## Story 5: Jay Dasilva's goal gives Coventry City Premier League win after over 25 years
-**Slug (lower-third):** Jay Dasilva's goal gives Coventry City Premier League win…  
-**When:** 2026-09-19 15:28 (America/Winnipeg)  •  **Published:** 2026-09-19 20:28 (UTC)  
-**Virality score:** 85  •  **Estimated runtime:** ~20s
+## Story 6: Leeds extend unbeaten start to season after stalemate with Crystal Palace
+**Slug (lower-third):** Leeds extend unbeaten start to season after stalemate wit…  
+**When:** 2026-09-20 10:08 (America/Winnipeg)  •  **Published:** 2026-09-20 15:08 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Jay Dasilva's goal gives Coventry City Premier League win after over 25 years. Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues. Relevance to standings and momentum.
+Leeds extend unbeaten start to season after stalemate with Crystal Palace. Leeds enter the international break in fifth place in the Premier League after a goalless draw with Crystal Palace Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -130,7 +155,7 @@ Jay Dasilva's goal gives Coventry City Premier League win after over 25 years. C
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Jay Dasilva's goal gives Coventry City Premier League win after over 25 years. https://www.bbc.co.uk/sport/football/articles/cm209djp8d2xo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Leeds extend unbeaten start to season after stalemate with Crystal Palace. https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -139,13 +164,13 @@ Jay Dasilva's goal gives Coventry City Premier League win after over 25 years. C
 
 ---
 
-## Story 6: Warrington 35-12 Hull KR: Matty Ashton hat-trick helps Wolves set up Super League semi-final vs Leeds as Peta Hiku sees red
-**Slug (lower-third):** Warrington 35-12 Hull KR: Matty Ashton hat-trick helps Wo…  
-**When:** 2026-09-19 14:30 (America/Winnipeg)  •  **Published:** 2026-09-19 19:30 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
+## Story 7: Man City 5-3 Sunderland: How the players rated
+**Slug (lower-third):** Man City 5-3 Sunderland: How the players rated  
+**When:** 2026-09-20 09:59 (America/Winnipeg)  •  **Published:** 2026-09-20 14:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Warrington 35-12 Hull KR: Matty Ashton hat-trick helps Wolves set up Super League semi-final vs Leeds as Peta Hiku sees red. Warrington Wolves set up a Super League semi-final with Leeds Rhinos after a 35-12 victory over reigning champions Hull KR in their eliminator showdown at the Halliwell Jones Stadium. Relevance to standings and momentum.
+Man City 5-3 Sunderland: How the players rated. How Manchester City and Sunderland players rated in their eventful Premier League match on Sunday. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -154,94 +179,70 @@ Warrington 35-12 Hull KR: Matty Ashton hat-trick helps Wolves set up Super Leagu
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Warrington 35-12 Hull KR: Matty Ashton hat-trick helps Wolves set up Super League semi-final vs Leeds as Peta Hiku sees red. https://www.skysports.com/rugby-league/warrington-vs-hull-k-r/63346
+- bbc.co.uk — Man City 5-3 Sunderland: How the players rated. https://www.bbc.co.uk/sport/football/articles/ckvgyzx4jqwwo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 7: Premier League highlights: Everton 1-0 Ipswich Town
-**Slug (lower-third):** Premier League highlights: Everton 1-0 Ipswich Town  
+## Story 8: Semenyo helps chaotic Manchester City beat Sunderland 5-3 after Brobbey hat-trick
+**Slug (lower-third):** Semenyo helps chaotic Manchester City beat Sunderland 5-3…  
+**When:** 2026-09-20 09:59 (America/Winnipeg)  •  **Published:** 2026-09-20 14:59 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Semenyo helps chaotic Manchester City beat Sunderland 5-3 after Brobbey hat-trick. A thrilling contest at the Etihad Stadium was won by Enzo Maresca's side despite Brian Brobbey's hat-trick for Sunderland Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Semenyo helps chaotic Manchester City beat Sunderland 5-3 after Brobbey hat-trick. https://www.theguardian.com/football/2026/sep/20/manchester-city-sunderland-premier-league-match-report
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Wolves 1-0 West Brom: Fer Lopez scores winner after Nat Phillips error to seal derby win
+**Slug (lower-third):** Wolves 1-0 West Brom: Fer Lopez scores winner after Nat P…  
+**When:** 2026-09-20 09:00 (America/Winnipeg)  •  **Published:** 2026-09-20 14:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Wolves 1-0 West Brom: Fer Lopez scores winner after Nat Phillips error to seal derby win. A second-half goal from Fer Lopez gave Wolves a 1-0 victory in their derby meeting with West Brom in the Sky Bet Championship at Molineux. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Wolves 1-0 West Brom: Fer Lopez scores winner after Nat Phillips error to seal derby win. https://www.skysports.com/football/wolverhampton-wanderers-vs-west-bromwich-albion/report/560592
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: Premier League highlights: Brighton 3-0 Arsenal
+**Slug (lower-third):** Premier League highlights: Brighton 3-0 Arsenal  
 **When:** 2026-09-19 14:00 (America/Winnipeg)  •  **Published:** 2026-09-19 19:00 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Everton 1-0 Ipswich Town. Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Premier League highlights: Everton 1-0 Ipswich Town. https://www.bbc.co.uk/sport/football/videos/cmvgy397e5qzo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Premier League highlights: Newcastle United 2-1 Hull City
-**Slug (lower-third):** Premier League highlights: Newcastle United 2-1 Hull City  
-**When:** 2026-09-19 14:00 (America/Winnipeg)  •  **Published:** 2026-09-19 19:00 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Newcastle United 2-1 Hull City. Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Premier League highlights: Newcastle United 2-1 Hull City. https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Premier League highlights: Tottenham Hotspur 2-3 Aston Villa
-**Slug (lower-third):** Premier League highlights: Tottenham Hotspur 2-3 Aston Vi…  
-**When:** 2026-09-19 14:00 (America/Winnipeg)  •  **Published:** 2026-09-19 19:00 (UTC)  
-**Virality score:** 82  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League highlights: Tottenham Hotspur 2-3 Aston Villa. Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the league. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Premier League highlights: Tottenham Hotspur 2-3 Aston Villa. https://www.bbc.co.uk/sport/football/videos/c3j4jz7pgq5lo?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit
-**Slug (lower-third):** Manchester United Muslim fans group calls on co-owner Jim…  
-**When:** 2026-09-19 12:44 (America/Winnipeg)  •  **Published:** 2026-09-19 17:44 (UTC)  
 **Virality score:** 80  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit. Supporters' club says billionaire should stand down after 'completely unacceptable' comments on the UK and empire Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Premier League highlights: Brighton 3-0 Arsenal. Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -250,7 +251,7 @@ Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit. Sup
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit. https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos
+- bbc.co.uk — Premier League highlights: Brighton 3-0 Arsenal. https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
