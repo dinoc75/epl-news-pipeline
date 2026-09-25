@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-24 22:53 (America/Winnipeg)  |  2026-09-25 03:53 (UTC)
+**Generated:** 2026-09-25 06:22 (America/Winnipeg)  |  2026-09-25 11:22 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 30s
+**Estimated total video length:** ~4m 37s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Man Utd borrow another APS90m to take debt to more than APS1.1bn
-- Uefa fears impact of Premier League spending in transfer market
-- JJ Gabriel: Barcelona sporting director denies interest in Manchester United teenager
+- Kai Havertz returning to Arsenal to be assessed after suffering injury for Germany against Netherlands
+- Chelsea charged by FA over discriminatory chanting in win over Fulham
+- Top European leagues heighten pressure on Infantino with call for major changes at Fifa
 
 ---
 
 ### Transfers
 
-## Story 1: Uefa fears impact of Premier League spending in transfer market
-**Slug (lower-third):** Uefa fears impact of Premier League spending in transfer …  
-**When:** 2026-09-24 17:09 (America/Winnipeg)  •  **Published:** 2026-09-24 22:09 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 1: JJ Gabriel: Manchester United case at heart of academy transfer market
+**Slug (lower-third):** JJ Gabriel: Manchester United case at heart of academy tr…  
+**When:** 2026-09-25 01:32 (America/Winnipeg)  •  **Published:** 2026-09-25 06:32 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Uefa fears impact of Premier League spending in transfer market. Uefa believes "a clear two-speed system" is emerging in the transfer market due to huge spending by Premier League clubs this summer. Implications for the squad and table.
+JJ Gabriel: Manchester United case at heart of academy transfer market. BBC Sport explores why clubs at the top of English football are increasingly trading academy players and what the impact is on the youngsters themselves. Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Uefa fears impact of Premier League spending in transfer market. Uefa believes "
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Uefa fears impact of Premier League spending in transfer market. https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — JJ Gabriel: Manchester United case at heart of academy transfer market. https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +42,13 @@ Uefa fears impact of Premier League spending in transfer market. Uefa believes "
 
 ### Injuries
 
-## Story 2: Women's Champions League: What we learned from return of Europe's top tier competition
-**Slug (lower-third):** Women's Champions League: What we learned from return of …  
-**When:** 2026-09-24 08:19 (America/Winnipeg)  •  **Published:** 2026-09-24 13:19 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
+## Story 2: Kai Havertz returning to Arsenal to be assessed after suffering injury for Germany against Netherlands
+**Slug (lower-third):** Kai Havertz returning to Arsenal to be assessed after suf…  
+**When:** 2026-09-25 05:27 (America/Winnipeg)  •  **Published:** 2026-09-25 10:27 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Women's Champions League: What we learned from return of Europe's top tier competition. Arsenal, Chelsea and Manchester City start bids for European glory in unconvincing fashion. Relevance to standings and momentum.
+Kai Havertz returning to Arsenal to be assessed after suffering injury for Germany against Netherlands. Kai Havertz suffered an injury in the first half of Germanys 1-1 draw with Netherlands in their Nations League opener on Thursday; Arsenal forward is returning to his club to receive treatment, with the issue understood to be a suspected muscle strain Potential impact on the lineup and upcoming fixtures. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,10 +57,36 @@ Women's Champions League: What we learned from return of Europe's top tier compe
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Women's Champions League: What we learned from return of Europe's top tier competition. https://www.bbc.co.uk/sport/football/articles/cm1e516z2y8qo?at_medium=RSS&at_campaign=rss
+- skysports.com — Kai Havertz returning to Arsenal to be assessed after suffering injury for Germany against Netherlands. https://www.skysports.com/football/news/13591713/kai-havertz-returning-to-arsenal-to-be-assessed-after-suffering-injury-for-germany-against-netherlands
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### League & Regulation
+
+## Story 3: Chelsea charged by FA over discriminatory chanting in win over Fulham
+**Slug (lower-third):** Chelsea charged by FA over discriminatory chanting in win…  
+**When:** 2026-09-25 05:19 (America/Winnipeg)  •  **Published:** 2026-09-25 10:19 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Chelsea charged by FA over discriminatory chanting in win over Fulham. Chelsea are charged by the Football Association over alleged discriminatory behaviour by fans during their win at Fulham in August. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Chelsea charged by FA over discriminatory chanting in win over Fulham. https://www.bbc.co.uk/sport/football/articles/crvgyw9qnpl3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -68,10 +94,106 @@ Women's Champions League: What we learned from return of Europe's top tier compe
 
 ### Club Updates
 
-## Story 3: Man Utd borrow another APS90m to take debt to more than APS1.1bn
+## Story 4: Top European leagues heighten pressure on Infantino with call for major changes at Fifa
+**Slug (lower-third):** Top European leagues heighten pressure on Infantino with …  
+**When:** 2026-09-25 04:28 (America/Winnipeg)  •  **Published:** 2026-09-25 09:28 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Top European leagues heighten pressure on Infantino with call for major changes at Fifa. The Premier League, Bundesliga, La Liga and Serie A have called for fundamental reform of Fifa, saying the organisation's governance is 'not fit for purpose' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Top European leagues heighten pressure on Infantino with call for major changes at Fifa. https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 5: FA Cup: Mulbarton Wanderers and Woodford Town must replay qualifying tie after referee's error
+**Slug (lower-third):** FA Cup: Mulbarton Wanderers and Woodford Town must replay…  
+**When:** 2026-09-25 03:02 (America/Winnipeg)  •  **Published:** 2026-09-25 08:02 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+FA Cup: Mulbarton Wanderers and Woodford Town must replay qualifying tie after referee's error. Mulbarton Wanderers are "deeply upset" after being told they must replay their FA Cup qualifying tie with Woodford Town because of a referee's error. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — FA Cup: Mulbarton Wanderers and Woodford Town must replay qualifying tie after referee's error. https://www.bbc.co.uk/sport/football/articles/cmjw5x569epvo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Chelsea Women: Sonia Bompastor and Carly Telford discuss new fertility and player maternity policies in WSL first
+**Slug (lower-third):** Chelsea Women: Sonia Bompastor and Carly Telford discuss …  
+**When:** 2026-09-25 03:00 (America/Winnipeg)  •  **Published:** 2026-09-25 08:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~29s
+
+### Presenter Script (3–5 sentences)
+Chelsea Women: Sonia Bompastor and Carly Telford discuss new fertility and player maternity policies in WSL first. Chelsea are the first team in the WSL to introduce fertility and Player Maternity policies; it gives players the choice to have a family in whichever way they want to, with support during and after starting a family; Sonia Bompastor and Carly Telford explain more to Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Chelsea Women: Sonia Bompastor and Carly Telford discuss new fertility and player maternity policies in WSL first. https://www.skysports.com/football/news/13590628/chelsea-women-sonia-bompastor-and-carly-telford-discuss-new-fertility-and-player-maternity-policies-in-wsl-first
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Today on Sky Sports Racing: Worcester and Newcastle feature
+**Slug (lower-third):** Today on Sky Sports Racing: Worcester and Newcastle featu…  
+**When:** 2026-09-25 01:00 (America/Winnipeg)  •  **Published:** 2026-09-25 06:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Today on Sky Sports Racing: Worcester and Newcastle feature. Worcester and Newcastle open their gates for Fridays domestic action - live on Sky Sports Racing; Youdecide faces Merely A Detail in the Worcester feature before the Sir Alex Ferguson-owned Road To Wembley goes to post in Handicap company. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Today on Sky Sports Racing: Worcester and Newcastle feature. https://www.skysports.com/racing/news/13591041/today-on-sky-sports-racing-worcester-and-newcastle-feature
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Man Utd borrow another APS90m to take debt to more than APS1.1bn
 **Slug (lower-third):** Man Utd borrow another APS90m to take debt to more than A…  
 **When:** 2026-09-24 17:22 (America/Winnipeg)  •  **Published:** 2026-09-24 22:22 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 87  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Man Utd borrow another APS90m to take debt to more than APS1.1bn. Manchester United confirm they have borrowed another APS90m since 30 June, to take their overall debt to more than APS1.1bn. Relevance to standings and momentum.
@@ -92,106 +214,10 @@ Man Utd borrow another APS90m to take debt to more than APS1.1bn. Manchester Uni
 
 ---
 
-## Story 4: JJ Gabriel: Barcelona sporting director denies interest in Manchester United teenager
-**Slug (lower-third):** JJ Gabriel: Barcelona sporting director denies interest i…  
-**When:** 2026-09-24 16:40 (America/Winnipeg)  •  **Published:** 2026-09-24 21:40 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-JJ Gabriel: Barcelona sporting director denies interest in Manchester United teenager. Barcelona sporting director Deco says the club is not interested in Manchester United teenager JJ Gabriel. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — JJ Gabriel: Barcelona sporting director denies interest in Manchester United teenager. https://www.bbc.co.uk/sport/football/articles/cqrl67e2eye4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 5: Football gossip: Scott, Olmo, Bellingham, Alisson, Khusanov
-**Slug (lower-third):** Football gossip: Scott, Olmo, Bellingham, Alisson, Khusan…  
-**When:** 2026-09-24 15:16 (America/Winnipeg)  •  **Published:** 2026-09-24 20:16 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Football gossip: Scott, Olmo, Bellingham, Alisson, Khusanov. Chelsea target Bournemouth's Alex Scott, Bayern Munich are interested in Dani Olmo and Jude Bellingham denies Manchester City interest. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Football gossip: Scott, Olmo, Bellingham, Alisson, Khusanov. https://www.bbc.co.uk/sport/football/articles/c6eq8eygy4e5o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 6: County Championship: Warwickshire close in on title after skittling relegation-threatened Leicestershire
-**Slug (lower-third):** County Championship: Warwickshire close in on title after…  
-**When:** 2026-09-24 14:02 (America/Winnipeg)  •  **Published:** 2026-09-24 19:02 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~23s
-
-### Presenter Script (3–5 sentences)
-County Championship: Warwickshire close in on title after skittling relegation-threatened Leicestershire. Thursdays County Championship sees Warwickshire move closer to title after bowling out relegation-threatened Leicestershire for 125 at Edgbaston; Warwickshire win would guarantee a first title since the Covid-shortened 2021 campaign, with second-placed Somerset struggling against Surrey Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — County Championship: Warwickshire close in on title after skittling relegation-threatened Leicestershire. https://www.skysports.com/cricket/news/13591557/county-championship-warwickshire-close-in-on-title-after-skittling-relegation-threatened-leicestershire
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Gianni Infantino: Premier League and three other top European leagues to demand FIFA reform
-**Slug (lower-third):** Gianni Infantino: Premier League and three other top Euro…  
-**When:** 2026-09-24 13:00 (America/Winnipeg)  •  **Published:** 2026-09-24 18:00 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~26s
-
-### Presenter Script (3–5 sentences)
-Gianni Infantino: Premier League and three other top European leagues to demand FIFA reform. English footballs top flight and its counterparts in Germany, Italy and Spain will demand urgent reform of the games global governance in a joint statement on Friday, Sky News understands; the joint call comes amid the crisis engulfing its FIFA president Gianni Infantino Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Gianni Infantino: Premier League and three other top European leagues to demand FIFA reform. https://www.skysports.com/football/news/13591530/gianni-infantino-premier-league-and-three-other-top-european-leagues-to-demand-fifa-reform
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: James Garner keen to live up to 'mini-Valverde' tag after late England call
+## Story 9: James Garner keen to live up to 'mini-Valverde' tag after late England call
 **Slug (lower-third):** James Garner keen to live up to 'mini-Valverde' tag after…  
 **When:** 2026-09-24 13:00 (America/Winnipeg)  •  **Published:** 2026-09-24 18:00 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~21s
+**Virality score:** 79  •  **Estimated runtime:** ~21s
 
 ### Presenter Script (3–5 sentences)
 James Garner keen to live up to 'mini-Valverde' tag after late England call. Everton midfielder's spirit and footballing intelligence have earned him another international chance and he is eager to test himself against Rodri and co in the Nations League on Saturday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -206,16 +232,16 @@ James Garner keen to live up to 'mini-Valverde' tag after late England call. Eve
 - theguardian.com — James Garner keen to live up to 'mini-Valverde' tag after late England call. https://www.theguardian.com/football/2026/sep/24/james-garner-mini-valverde-late-england-call
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
 ---
 
-## Story 9: Former England player Andy Carroll reveals he was sexually assaulted in 2021
+## Story 10: Former England player Andy Carroll reveals he was sexually assaulted in 2021
 **Slug (lower-third):** Former England player Andy Carroll reveals he was sexuall…  
 **When:** 2026-09-24 12:18 (America/Winnipeg)  •  **Published:** 2026-09-24 17:18 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
+**Virality score:** 78  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Former England player Andy Carroll reveals he was sexually assaulted in 2021. Andy Carroll has said in his autobiography he was sexually assaulted by a man at his home during his second spell at Newcastle in 2021 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -228,30 +254,6 @@ Former England player Andy Carroll reveals he was sexually assaulted in 2021. An
 
 ### Sources
 - theguardian.com — Former England player Andy Carroll reveals he was sexually assaulted in 2021. https://www.theguardian.com/football/2026/sep/24/andy-carroll-sexually-assaulted-2021-football
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Premier League Bermuda Triangle: Do stats back Brighton, Bournemouth, Brentford social media theory?
-**Slug (lower-third):** Premier League Bermuda Triangle: Do stats back Brighton, …  
-**When:** 2026-09-24 08:27 (America/Winnipeg)  •  **Published:** 2026-09-24 13:27 (UTC)  
-**Virality score:** 84  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Premier League Bermuda Triangle: Do stats back Brighton, Bournemouth, Brentford social media theory?. Do the stats back the social media meme that Bournemouth, Brighton and Brentford form a Premier League 'Bermuda Triangle' where teams lose points? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Premier League Bermuda Triangle: Do stats back Brighton, Bournemouth, Brentford social media theory?. https://www.bbc.co.uk/sport/football/articles/c39w40g8n59yo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **Confident, upbeat**
