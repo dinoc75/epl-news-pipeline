@@ -1,16 +1,16 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-26 10:58 (America/Winnipeg)  |  2026-09-26 15:58 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2026-09-26 15:45 (America/Winnipeg)  |  2026-09-26 20:45 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 03s
+**Estimated total video length:** ~4m 31s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Charlton 0-1 Man City: Alex Greenwood's free-kick gives WSL champions narrow victory as perfect start remains intact
-- Charlton Athletic 0-1 Manchester City | WSL highlights
-- Man City chairman Khaldoon Al Mubarak responds to reports surrounding 115 charges in Premier League financial probe
+- Messi's exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson
+- London City Lionesses 2-0 Brighton | WSL highlights
+- WSL roundup: Putellas scores first London City goal, Manchester City maintain perfect start
 
 ---
 
@@ -19,7 +19,7 @@ Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked b
 ## Story 1: Liverpool rehire Julian Ward as sporting director to replace Richard Hughes
 **Slug (lower-third):** Liverpool rehire Julian Ward as sporting director to repl…  
 **When:** 2026-09-26 03:20 (America/Winnipeg)  •  **Published:** 2026-09-26 08:20 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 96  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Liverpool rehire Julian Ward as sporting director to replace Richard Hughes. Liverpool have appointed Julian Ward as their sporting director for a second time after the departure of Richard Hughes to Al-Hilal Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -44,7 +44,7 @@ Liverpool rehire Julian Ward as sporting director to replace Richard Hughes. Liv
 ## Story 2: 'Island girl' Malard aims to become a legend with Bompastor at Chelsea
 **Slug (lower-third):** 'Island girl' Malard aims to become a legend with Bompast…  
 **When:** 2026-09-26 02:00 (America/Winnipeg)  •  **Published:** 2026-09-26 07:00 (UTC)  
-**Virality score:** 91  •  **Estimated runtime:** ~20s
+**Virality score:** 84  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 'Island girl' Malard aims to become a legend with Bompastor at Chelsea. Melvine Malard left her Indian Ocean island home at the urging of her current manager and now they are working together again in pursuit of trophies at Chelsea Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
@@ -59,7 +59,7 @@ Liverpool rehire Julian Ward as sporting director to replace Richard Hughes. Liv
 - theguardian.com — 'Island girl' Malard aims to become a legend with Bompastor at Chelsea. https://www.theguardian.com/football/2026/sep/26/womens-super-league-chelsea-girl-from-island-melvine-malard-sees-reunion-sonia-bompastor-way-become-legend
 
 ### Host Notes (for NotebookLM)
-- Delivery: **High energy**
+- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -67,13 +67,13 @@ Liverpool rehire Julian Ward as sporting director to replace Richard Hughes. Liv
 
 ### League & Regulation
 
-## Story 3: Man City chairman Khaldoon Al Mubarak responds to reports surrounding 115 charges in Premier League financial probe
-**Slug (lower-third):** Man City chairman Khaldoon Al Mubarak responds to reports…  
-**When:** 2026-09-26 10:05 (America/Winnipeg)  •  **Published:** 2026-09-26 15:05 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~23s
+## Story 3: Slovenia 0-0 Scotland: What did Sebastien Pocognoli change in first game as Scottish boss since replacing Steve Clarke?
+**Slug (lower-third):** Slovenia 0-0 Scotland: What did Sebastien Pocognoli chang…  
+**When:** 2026-09-26 13:00 (America/Winnipeg)  •  **Published:** 2026-09-26 18:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Man City chairman Khaldoon Al Mubarak responds to reports surrounding 115 charges in Premier League financial probe. Reports on Friday claimed an independent tribunal has reached decisions in Manchester Citys 115 charges case - and that virtually all were found to have been proven; Man City deny all wrongdoing Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Slovenia 0-0 Scotland: What did Sebastien Pocognoli change in first game as Scottish boss since replacing Steve Clarke?. Scotland drew 0-0 with Slovenia in Sebastien Pocognolis first game in charge; it is the first time Scotland havent been led by Steve Clarke since 2019; despite failing to win, there were plenty of positives for Pocognoli to take from the game Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -82,7 +82,7 @@ Man City chairman Khaldoon Al Mubarak responds to reports surrounding 115 charge
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man City chairman Khaldoon Al Mubarak responds to reports surrounding 115 charges in Premier League financial probe. https://www.skysports.com/football/news/13592103/man-city-chairman-khaldoon-al-mubarak-responds-to-reports-surrounding-115-charges-in-premier-league-financial-probe
+- skysports.com — Slovenia 0-0 Scotland: What did Sebastien Pocognoli change in first game as Scottish boss since replacing Steve Clarke?. https://www.skysports.com/football/news/13592137/slovenia-0-0-scotland-what-did-sebastien-pocognoli-change-in-first-game-as-scottish-boss-since-replacing-steve-clarke
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -94,7 +94,7 @@ Man City chairman Khaldoon Al Mubarak responds to reports surrounding 115 charge
 ## Story 4: Manchester City charges: Khaldoon Al Mubarak confident club will prove innocence
 **Slug (lower-third):** Manchester City charges: Khaldoon Al Mubarak confident cl…  
 **When:** 2026-09-26 10:02 (America/Winnipeg)  •  **Published:** 2026-09-26 15:02 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+**Virality score:** 97  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Manchester City charges: Khaldoon Al Mubarak confident club will prove innocence. Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules. Relevance to standings and momentum.
@@ -117,13 +117,13 @@ Manchester City charges: Khaldoon Al Mubarak confident club will prove innocence
 
 ### Club Updates
 
-## Story 5: Charlton 0-1 Man City: Alex Greenwood's free-kick gives WSL champions narrow victory as perfect start remains intact
-**Slug (lower-third):** Charlton 0-1 Man City: Alex Greenwood's free-kick gives W…  
-**When:** 2026-09-26 10:30 (America/Winnipeg)  •  **Published:** 2026-09-26 15:30 (UTC)  
+## Story 5: Messi's exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson
+**Slug (lower-third):** Messi's exit leaves Argentina with impossible task of rep…  
+**When:** 2026-09-26 14:00 (America/Winnipeg)  •  **Published:** 2026-09-26 19:00 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Charlton 0-1 Man City: Alex Greenwood's free-kick gives WSL champions narrow victory as perfect start remains intact. Alex Greenwood's free-kick earned Manchester City a narrow 1-0 win against Charlton in the WSL. Relevance to standings and momentum.
+Messi's exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson. When things are going awry, Argentina will no longer be able to rely on their ultimate get-out clause after Lionel Messi's farewell against Benin Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -132,7 +132,7 @@ Charlton 0-1 Man City: Alex Greenwood's free-kick gives WSL champions narrow vic
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Charlton 0-1 Man City: Alex Greenwood's free-kick gives WSL champions narrow victory as perfect start remains intact. https://www.skysports.com/football/charlton-athletic-women-vs-manchester-city-women/report/575776
+- theguardian.com — Messi's exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson. https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -141,13 +141,13 @@ Charlton 0-1 Man City: Alex Greenwood's free-kick gives WSL champions narrow vic
 
 ---
 
-## Story 6: Charlton Athletic 0-1 Manchester City | WSL highlights
-**Slug (lower-third):** Charlton Athletic 0-1 Manchester City | WSL highlights  
-**When:** 2026-09-26 10:29 (America/Winnipeg)  •  **Published:** 2026-09-26 15:29 (UTC)  
+## Story 6: London City Lionesses 2-0 Brighton | WSL highlights
+**Slug (lower-third):** London City Lionesses 2-0 Brighton | WSL highlights  
+**When:** 2026-09-26 13:58 (America/Winnipeg)  •  **Published:** 2026-09-26 18:58 (UTC)  
 **Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Charlton Athletic 0-1 Manchester City | WSL highlights. Highlights of the WSL match between Charlton Athletic and Manchester City. Relevance to standings and momentum.
+London City Lionesses 2-0 Brighton | WSL highlights. Highlights of the WSL match between London City Lionesses and Brighton. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -156,7 +156,7 @@ Charlton Athletic 0-1 Manchester City | WSL highlights. Highlights of the WSL ma
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Charlton Athletic 0-1 Manchester City | WSL highlights. https://www.skysports.com/watch/video/13592115/charlton-athletic-0-1-manchester-city-wsl-highlights
+- skysports.com — London City Lionesses 2-0 Brighton | WSL highlights. https://www.skysports.com/watch/video/13592247/london-city-lionesses-2-0-brighton-wsl-highlights
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -165,13 +165,13 @@ Charlton Athletic 0-1 Manchester City | WSL highlights. Highlights of the WSL ma
 
 ---
 
-## Story 7: Warwickshire defeat Leicestershire at Edgbaston to win County Championship and claim first title in five years
-**Slug (lower-third):** Warwickshire defeat Leicestershire at Edgbaston to win Co…  
-**When:** 2026-09-26 09:25 (America/Winnipeg)  •  **Published:** 2026-09-26 14:25 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 7: WSL roundup: Putellas scores first London City goal, Manchester City maintain perfect start
+**Slug (lower-third):** WSL roundup: Putellas scores first London City goal, Manc…  
+**When:** 2026-09-26 13:39 (America/Winnipeg)  •  **Published:** 2026-09-26 18:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~24s
 
 ### Presenter Script (3–5 sentences)
-Warwickshire defeat Leicestershire at Edgbaston to win County Championship and claim first title in five years. Warwickshire prove too good for Leicestershire at Edgbaston as the Bears win their first Rothesay County Championship since 2021 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+WSL roundup: Putellas scores first London City goal, Manchester City maintain perfect start. Alexia Putellas scored her first WSL goal as London City Lionesses moved into second place in the WSL after beating Brighton 2-0 at home while Manchester City maintained their perfect start with a 1-0 win at Charlton Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -180,7 +180,7 @@ Warwickshire defeat Leicestershire at Edgbaston to win County Championship and c
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Warwickshire defeat Leicestershire at Edgbaston to win County Championship and claim first title in five years. https://www.skysports.com/cricket/news/13592028/warwickshire-defeat-leicestershire-at-edgbaston-to-win-county-championship-and-claim-first-title-in-five-years
+- theguardian.com — WSL roundup: Putellas scores first London City goal, Manchester City maintain perfect start. https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -189,10 +189,34 @@ Warwickshire defeat Leicestershire at Edgbaston to win County Championship and c
 
 ---
 
-## Story 8: England team news: Rio Ngumoha not in squad to face Spain in Nations League opener
+## Story 8: Manchester City chair Al Mubarak insists 'nothing has changed' after guilty verdict
+**Slug (lower-third):** Manchester City chair Al Mubarak insists 'nothing has cha…  
+**When:** 2026-09-26 09:52 (America/Winnipeg)  •  **Published:** 2026-09-26 14:52 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City chair Al Mubarak insists 'nothing has changed' after guilty verdict. Manchester City's chair Khaldoon Al Mubarak, has attempted to dismiss the club's guilty verdict as 'noise' Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Manchester City chair Al Mubarak insists 'nothing has changed' after guilty verdict. https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: England team news: Rio Ngumoha not in squad to face Spain in Nations League opener
 **Slug (lower-third):** England team news: Rio Ngumoha not in squad to face Spain…  
 **When:** 2026-09-26 05:27 (America/Winnipeg)  •  **Published:** 2026-09-26 10:27 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+**Virality score:** 90  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 England team news: Rio Ngumoha not in squad to face Spain in Nations League opener. Liverpool teenager Rio Ngumoha is not named in England's matchday squad for Saturday's Nations League opener against Spain. Relevance to standings and momentum.
@@ -213,10 +237,10 @@ England team news: Rio Ngumoha not in squad to face Spain in Nations League open
 
 ---
 
-## Story 9: Women's Super League: Analysis of Man Utd's tactics under new boss Eva Olid
+## Story 10: Women's Super League: Analysis of Man Utd's tactics under new boss Eva Olid
 **Slug (lower-third):** Women's Super League: Analysis of Man Utd's tactics under…  
 **When:** 2026-09-26 04:35 (America/Winnipeg)  •  **Published:** 2026-09-26 09:35 (UTC)  
-**Virality score:** 96  •  **Estimated runtime:** ~20s
+**Virality score:** 89  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
 Women's Super League: Analysis of Man Utd's tactics under new boss Eva Olid. Eva Olid promised high-possession attacking football at Manchester United, so why has it not worked yet? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
