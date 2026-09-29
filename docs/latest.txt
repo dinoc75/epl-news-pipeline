@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-09-28 23:44 (America/Winnipeg)  |  2026-09-29 04:44 (UTC)
+**Generated:** 2026-09-29 07:19 (America/Winnipeg)  |  2026-09-29 12:19 (UTC)
 **Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~4m 40s
+**Estimated total video length:** ~3m 28s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Pochettino: Manchester City verdicts show fans 'lived through an era of deception'
-- Football gossip: Costa, Haaland, Sterling, Willock, Howe, Tchouameni
-- Manchester City chief executive Ferran Soriano refuses to answer questions
+- Ella Toone and Chloe Kelly miss out on latest Lionesses squad
+- Chelsea's Lexi Potter: Could midfielder be England's next star?
+- Man City charges: We lived through a period of deception if club found guilty, says ex-Spurs and Chelsea boss Mauricio Pochettino
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Pochettino: Manchester City verdicts show fans 'lived through an era of deception'
-**Slug (lower-third):** Pochettino: Manchester City verdicts show fans 'lived thr…  
-**When:** 2026-09-28 17:29 (America/Winnipeg)  •  **Published:** 2026-09-28 22:29 (UTC)  
-**Virality score:** 95  •  **Estimated runtime:** ~20s
+## Story 1: Aston Villa sack manager Natalia Arroyo with club second-bottom of WSL
+**Slug (lower-third):** Aston Villa sack manager Natalia Arroyo with club second-…  
+**When:** 2026-09-29 03:58 (America/Winnipeg)  •  **Published:** 2026-09-29 08:58 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Pochettino: Manchester City verdicts show fans 'lived through an era of deception'. The former Tottenham, Southampton, and Chelsea manager lamented the situation created by the reported guilty verdicts Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Aston Villa sack manager Natalia Arroyo with club second-bottom of WSL. Aston Villa have sacked their women's manager Natalia Arroyo with the side second-bottom of the Women's Super League with two points from four matches Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,57 @@ Pochettino: Manchester City verdicts show fans 'lived through an era of deceptio
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Pochettino: Manchester City verdicts show fans 'lived through an era of deception'. https://www.theguardian.com/football/2026/sep/28/pochettino-manchester-city-verdict-tottenham-chelsea-southampton-usmnt
+- theguardian.com — Aston Villa sack manager Natalia Arroyo with club second-bottom of WSL. https://www.theguardian.com/football/2026/sep/29/aston-villa-women-sack-manager-natalia-arroyo-wsl
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 2: Aston Villa sack manager Natalia Arroyo after winless WSL start
+**Slug (lower-third):** Aston Villa sack manager Natalia Arroyo after winless WSL…  
+**When:** 2026-09-29 03:35 (America/Winnipeg)  •  **Published:** 2026-09-29 08:35 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Aston Villa sack manager Natalia Arroyo after winless WSL start. Aston Villa manager Natalia Arroyo is sacked following two defeats and two draws in their opening four matches of the Women's Super League season. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Aston Villa sack manager Natalia Arroyo after winless WSL start. https://www.bbc.co.uk/sport/football/articles/c6zxzv84dn5xo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Injuries
+
+## Story 3: Women's World Cup qualifying play-offs: Wales without seven players for Albania ties
+**Slug (lower-third):** Women's World Cup qualifying play-offs: Wales without sev…  
+**When:** 2026-09-29 04:00 (America/Winnipeg)  •  **Published:** 2026-09-29 09:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Women's World Cup qualifying play-offs: Wales without seven players for Albania ties. Ceri Holland is one of seven players who will miss out through injury when a depleted Wales squad take on Albania in their Women's World Cup play-off semi-final next month. Potential impact on the lineup and upcoming fixtures.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Women's World Cup qualifying play-offs: Wales without seven players for Albania ties. https://www.bbc.co.uk/sport/football/articles/ck1l63y88e3vo?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -42,13 +92,13 @@ Pochettino: Manchester City verdicts show fans 'lived through an era of deceptio
 
 ### League & Regulation
 
-## Story 2: Man City CEO Ferran Soriano says fight against Premier League could take years to conclude amid reports of decision in 115 charges case
-**Slug (lower-third):** Man City CEO Ferran Soriano says fight against Premier Le…  
-**When:** 2026-09-28 15:06 (America/Winnipeg)  •  **Published:** 2026-09-28 20:06 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~25s
+## Story 4: Man City charges: We lived through a period of deception if club found guilty, says ex-Spurs and Chelsea boss Mauricio Pochettino
+**Slug (lower-third):** Man City charges: We lived through a period of deception …  
+**When:** 2026-09-29 05:29 (America/Winnipeg)  •  **Published:** 2026-09-29 10:29 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Man City CEO Ferran Soriano says fight against Premier League could take years to conclude amid reports of decision in 115 charges case. Reports on Friday claimed an independent tribunal has reached decisions in Manchester Citys 115 charges case - and that virtually all were found to have been proven; Man City deny all wrongdoing Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Man City charges: We lived through a period of deception if club found guilty, says ex-Spurs and Chelsea boss Mauricio Pochettino. Reports on Friday claimed an independent tribunal had reached its decisions in Manchester City's 115-charge case - and that virtually all were found to have been proven; Man City deny all wrongdoing; Pochettino said: If its true...weve lived through a period of deception. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -57,55 +107,8 @@ Man City CEO Ferran Soriano says fight against Premier League could take years t
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man City CEO Ferran Soriano says fight against Premier League could take years to conclude amid reports of decision in 115 charges case. https://www.skysports.com/football/news/13593034/man-city-ceo-ferran-soriano-says-fight-against-premier-league-could-take-years-to-conclude-amid-reports-of-decision-in-115-charges-case
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 3: Man City ruling: Joe Harts trusts club chairman Khaldoon Al Mubarak's claims they are innocent of breaking Premier League's financial rules
-**Slug (lower-third):** Man City ruling: Joe Harts trusts club chairman Khaldoon …  
-**When:** 2026-09-28 14:24 (America/Winnipeg)  •  **Published:** 2026-09-28 19:24 (UTC)  
-**Virality score:** 92  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Man City ruling: Joe Harts trusts club chairman Khaldoon Al Mubarak's claims they are innocent of breaking Premier League's financial rules. Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Man City ruling: Joe Harts trusts club chairman Khaldoon Al Mubarak's claims they are innocent of breaking Premier League's financial rules. https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 4: County Championship: Leicestershire have eight points reinstated from 27-point deduction for poor pitch blamed on Bollywood film shoot
-**Slug (lower-third):** County Championship: Leicestershire have eight points rei…  
-**When:** 2026-09-28 12:10 (America/Winnipeg)  •  **Published:** 2026-09-28 17:10 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~28s
-
-### Presenter Script (3–5 sentences)
-County Championship: Leicestershire have eight points reinstated from 27-point deduction for poor pitch blamed on Bollywood film shoot. Leicestershire chief executive Emma White confirms club will still appeal its deduction for the poor pitch that groundsman Callum Lewis later argued was due to a Bollywood film shoot; they will appeal against decision despite having eight points reinstated from original 27-point deduction Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — County Championship: Leicestershire have eight points reinstated from 27-point deduction for poor pitch blamed on Bollywood film shoot. https://www.skysports.com/cricket/news/13592968/county-championship-leicestershire-have-eight-points-reinstated-from-27-point-deduction-for-poor-pitch-blamed-on-bollywood-film-shoot
+- skysports.com — Man City charges: We lived through a period of deception if club found guilty, says ex-Spurs and Chelsea boss Mauricio Pochettino. https://www.skysports.com/football/news/13593126/man-city-charges-we-lived-through-a-period-of-deception-if-club-found-guilty-says-ex-spurs-and-chelsea-boss-mauricio-pochettino
+- bbc.co.uk — Mauricio Pochettino on Man City charges: 'We lived through period of deception'. https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +119,13 @@ County Championship: Leicestershire have eight points reinstated from 27-point d
 
 ### Club Updates
 
-## Story 5: Football gossip: Costa, Haaland, Sterling, Willock, Howe, Tchouameni
-**Slug (lower-third):** Football gossip: Costa, Haaland, Sterling, Willock, Howe,…  
-**When:** 2026-09-28 16:10 (America/Winnipeg)  •  **Published:** 2026-09-28 21:10 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 5: Ella Toone and Chloe Kelly miss out on latest Lionesses squad
+**Slug (lower-third):** Ella Toone and Chloe Kelly miss out on latest Lionesses s…  
+**When:** 2026-09-29 06:39 (America/Winnipeg)  •  **Published:** 2026-09-29 11:39 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Costa, Haaland, Sterling, Willock, Howe, Tchouameni. Arsenal and Manchester United eye Porto defender Alberto Costa, Manchester City will not let Erling Haaland leave on the cheap if they are relegated, Liverpool retain an interest in Real Madrid midfielder Aurelien Tchouameni, plus more. Relevance to standings and momentum.
+Ella Toone and Chloe Kelly miss out on latest Lionesses squad. Manchester United midfielder Ella Toone misses out on selection for England's Women's World Cup qualifying matches this month. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +134,7 @@ Football gossip: Costa, Haaland, Sterling, Willock, Howe, Tchouameni. Arsenal an
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Costa, Haaland, Sterling, Willock, Howe, Tchouameni. https://www.bbc.co.uk/sport/football/articles/cked73ppgql3o?at_medium=RSS&at_campaign=rss
+- bbc.co.uk — Ella Toone and Chloe Kelly miss out on latest Lionesses squad. https://www.bbc.co.uk/sport/football/articles/c6y9z7dlq199o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,109 +143,13 @@ Football gossip: Costa, Haaland, Sterling, Willock, Howe, Tchouameni. Arsenal an
 
 ---
 
-## Story 6: Manchester City chief executive Ferran Soriano refuses to answer questions
-**Slug (lower-third):** Manchester City chief executive Ferran Soriano refuses to…  
-**When:** 2026-09-28 15:46 (America/Winnipeg)  •  **Published:** 2026-09-28 20:46 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester City chief executive Ferran Soriano refuses to answer questions. Manchester City chief executive Ferran Soriano declined to answer questions from Sky News as he left a meeting of the executive board of the European Football Clubs body in Copenhagen. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — Manchester City chief executive Ferran Soriano refuses to answer questions. https://www.skysports.com/watch/video/13593041/manchester-city-chief-executive-ferran-soriano-declines-to-answer-questions
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 7: Manchester City chief maintains club's innocence as rivals push for verdict to be published
-**Slug (lower-third):** Manchester City chief maintains club's innocence as rival…  
-**When:** 2026-09-28 15:30 (America/Winnipeg)  •  **Published:** 2026-09-28 20:30 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Manchester City chief maintains club's innocence as rivals push for verdict to be published. The Manchester City chief executive, Ferran Soriano, told European clubs that the club will fight the verdict Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Manchester City chief maintains club's innocence as rivals push for verdict to be published. https://www.theguardian.com/football/2026/sep/28/manchester-city-chief-executive-ferran-soriano-premier-league-rivals-urge-commission-publish-verdict
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: World Grand Prix Darts: Luke Littler in shock first-round exit as defending champion loses to Luke Woodhouse
-**Slug (lower-third):** World Grand Prix Darts: Luke Littler in shock first-round…  
-**When:** 2026-09-28 12:28 (America/Winnipeg)  •  **Published:** 2026-09-28 17:28 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~27s
-
-### Presenter Script (3–5 sentences)
-World Grand Prix Darts: Luke Littler in shock first-round exit as defending champion loses to Luke Woodhouse. World No 1 Luke Littler suffers shock 2-1 defeat to Luke Woodhouse on the opening night in Leicester as six-time champion Michael van Gerwen is also eliminated; watch day two of the World Grand Prix live on Sky Sports+ from 6pm, Tuesday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- skysports.com — World Grand Prix Darts: Luke Littler in shock first-round exit as defending champion loses to Luke Woodhouse. https://www.skysports.com/darts/news/13592991/world-grand-prix-darts-luke-littler-in-shock-first-round-exit-as-defending-champion-loses-to-luke-woodhouse
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: BBC Women's Football Weekly - Chelsea's statement win, growing Arsenal concerns & the rise of Lexi Potter - BBC Sounds
-**Slug (lower-third):** BBC Women's Football Weekly - Chelsea's statement win, gr…  
-**When:** 2026-09-28 10:04 (America/Winnipeg)  •  **Published:** 2026-09-28 15:04 (UTC)  
-**Virality score:** 86  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-BBC Women's Football Weekly - Chelsea's statement win, growing Arsenal concerns & the rise of Lexi Potter - BBC Sounds. Have Chelsea shown themselves as the biggest threat to Manchester City's title defence? Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — BBC Women's Football Weekly - Chelsea's statement win, growing Arsenal concerns & the rise of Lexi Potter - BBC Sounds. https://www.bbc.co.uk/sounds/play/p0pcwtmc?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 10: Chelsea's Lexi Potter: Could midfielder be England's next star?
+## Story 6: Chelsea's Lexi Potter: Could midfielder be England's next star?
 **Slug (lower-third):** Chelsea's Lexi Potter: Could midfielder be England's next…  
-**When:** 2026-09-28 08:33 (America/Winnipeg)  •  **Published:** 2026-09-28 13:33 (UTC)  
-**Virality score:** 83  •  **Estimated runtime:** ~20s
+**When:** 2026-09-29 05:42 (America/Winnipeg)  •  **Published:** 2026-09-29 10:42 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Chelsea's Lexi Potter: Could midfielder be England's next star?. With Sarina Wiegman set to name her latest England squad on Tuesday, there is one name everyone is talking about - Lexi Potter. Here is why. Relevance to standings and momentum.
+Chelsea's Lexi Potter: Could midfielder be England's next star?. Everyone is talking about Lexi Potter, the uncapped midfielder named in Sarina Wiegman's England squad for their World Cup qualifiers. Here is why. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -254,7 +161,103 @@ Chelsea's Lexi Potter: Could midfielder be England's next star?. With Sarina Wie
 - bbc.co.uk — Chelsea's Lexi Potter: Could midfielder be England's next star?. https://www.bbc.co.uk/sport/football/articles/cry8z31pl534o?at_medium=RSS&at_campaign=rss
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 7: Women's World Cup: Republic of Ireland call up Crystal Palace's Shanade Hopcroft for play-off
+**Slug (lower-third):** Women's World Cup: Republic of Ireland call up Crystal Pa…  
+**When:** 2026-09-29 05:23 (America/Winnipeg)  •  **Published:** 2026-09-29 10:23 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Women's World Cup: Republic of Ireland call up Crystal Palace's Shanade Hopcroft for play-off. Republic of Ireland boss Carla Ward includes Crystal Palace midfielder Shanade Hopcroft in her squad for next month's Women's World Cup play-off against Kazakhstan. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Women's World Cup: Republic of Ireland call up Crystal Palace's Shanade Hopcroft for play-off. https://www.bbc.co.uk/sport/football/articles/c60qxj1n7gn8o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 8: Liverpool: Inside the club's increasing global investment in youth
+**Slug (lower-third):** Liverpool: Inside the club's increasing global investment…  
+**When:** 2026-09-29 02:19 (America/Winnipeg)  •  **Published:** 2026-09-29 07:19 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Liverpool: Inside the club's increasing global investment in youth. Liverpool are becoming increasingly proactive in their search for global young talent. BBC Sport takes a closer look. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Liverpool: Inside the club's increasing global investment in youth. https://www.bbc.co.uk/sport/football/articles/c6e3077kkde3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 9: Today on Sky Sports Racing: Bath, Sedgefield and Wolverhampton
+**Slug (lower-third):** Today on Sky Sports Racing: Bath, Sedgefield and Wolverha…  
+**When:** 2026-09-29 02:00 (America/Winnipeg)  •  **Published:** 2026-09-29 07:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Today on Sky Sports Racing: Bath, Sedgefield and Wolverhampton. In Tuesdays feature, the talented pair Divide and Conquer and Al Qayed clash in their pursuit of a first success at Bath. We also have competitive action from Sedgefield and Wolverhampton, live on Sky Sports Racing from 2.02pm Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- skysports.com — Today on Sky Sports Racing: Bath, Sedgefield and Wolverhampton. https://www.skysports.com/racing/news/13592680/today-on-sky-sports-racing-bath-sedgefield-and-wolverhampton
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 10: 'Goodison Gazza' Billy Kenny: 'The only time I've had peace was when I was locked up'
+**Slug (lower-third):** 'Goodison Gazza' Billy Kenny: 'The only time I've had pea…  
+**When:** 2026-09-29 02:00 (America/Winnipeg)  •  **Published:** 2026-09-29 07:00 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~23s
+
+### Presenter Script (3–5 sentences)
+'Goodison Gazza' Billy Kenny: 'The only time I've had peace was when I was locked up'. Everton's great lost talent of the 90s tells Donald McRae about the drinking culture that enveloped him as a teenager, his time in jail, struggles with depression and how he got clean Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — 'Goodison Gazza' Billy Kenny: 'The only time I've had peace was when I was locked up'. https://www.theguardian.com/football/2026/sep/29/billy-kenny-goodison-gazza-everton-interview
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
