@@ -1,28 +1,28 @@
 # EPL Viral News — Presenter Pack (Last 24h)
-**Generated:** 2026-10-01 23:31 (America/Winnipeg)  |  2026-10-02 04:31 (UTC)
-**Stories in this rundown:** 9  |  **Style:** conversational broadcast
+**Generated:** 2026-10-02 07:02 (America/Winnipeg)  |  2026-10-02 12:02 (UTC)
+**Stories in this rundown:** 10  |  **Style:** conversational broadcast
 
-**Estimated total video length:** ~3m 20s
+**Estimated total video length:** ~4m 57s
 
 ## Host Script Intro
 Hey EPL fans—here are the **biggest stories from the last 24 hours**, ranked by virality. Let’s get into it.
 
 ## TL;DR (15–25s)
-- Man City not 'above the rules', says No 10 after backlash to Burnham remarks
-- Man City players told they could be entitled to rip up contracts after guilty verdict in Premier League case - Paper Talk
-- Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
+- Man City lodge appeal: Premier League club contest guilty verdict of independent commission
+- Patrick Mahomes' Kansas City Chiefs face the next Travis Kelce as Brock Bowers continues rise to NFL dominance - NFL Gameday Guide
+- Ed Brand interview: Former Chelsea coach on his 17 years at Stamford Bridge and what he learned from the experience
 
 ---
 
 ### Managerial Moves
 
-## Story 1: Man City players told they could be entitled to rip up contracts after guilty verdict in Premier League case - Paper Talk
-**Slug (lower-third):** Man City players told they could be entitled to rip up co…  
-**When:** 2026-10-01 17:41 (America/Winnipeg)  •  **Published:** 2026-10-01 22:41 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~29s
+## Story 1: Ed Brand interview: Former Chelsea coach on his 17 years at Stamford Bridge and what he learned from the experience
+**Slug (lower-third):** Ed Brand interview: Former Chelsea coach on his 17 years …  
+**When:** 2026-10-02 06:00 (America/Winnipeg)  •  **Published:** 2026-10-02 11:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Man City players told they could be entitled to rip up contracts after guilty verdict in Premier League case - Paper Talk. Plus: Cristiano Ronaldo could face a ban of six months after his Portugal walkout; Birmingham express interest in appointing former Man Utd transfer chief John Murtough; Bournemouth have no plans to sell Alex Scott in January; Real Madrid keen on Jarell Quansah Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+Ed Brand interview: Former Chelsea coach on his 17 years at Stamford Bridge and what he learned from the experience. In this exclusive interview with Sky Sports, Ed Brand discusses his journey with Chelsea from player to coach and what he has learned from his time in the academy, as a loan mentor, and with Swindon Towns first team. Now he is ready to be a head coach... Implications for the squad and table.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -31,7 +31,7 @@ Man City players told they could be entitled to rip up contracts after guilty ve
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Man City players told they could be entitled to rip up contracts after guilty verdict in Premier League case - Paper Talk. https://www.skysports.com/football/news/13594183/man-city-players-told-they-could-be-entitled-to-rip-up-contracts-after-guilty-verdict-in-premier-league-case-paper-talk
+- skysports.com — Ed Brand interview: Former Chelsea coach on his 17 years at Stamford Bridge and what he learned from the experience. https://www.skysports.com/football/news/13581172/ed-brand-interview-former-chelsea-coach-on-his-17-years-at-stamford-bridge-and-what-he-learned-from-the-experience
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -40,13 +40,13 @@ Man City players told they could be entitled to rip up contracts after guilty ve
 
 ---
 
-## Story 2: Newcastle: Matthias Jaissle learnt a lot about life after tumour aged five
-**Slug (lower-third):** Newcastle: Matthias Jaissle learnt a lot about life after…  
-**When:** 2026-10-01 01:00 (America/Winnipeg)  •  **Published:** 2026-10-01 06:00 (UTC)  
-**Virality score:** 73  •  **Estimated runtime:** ~20s
+## Story 2: Bilic is back: bravery and belief underpin second coming as Croatia manager
+**Slug (lower-third):** Bilic is back: bravery and belief underpin second coming …  
+**When:** 2026-10-02 05:20 (America/Winnipeg)  •  **Published:** 2026-10-02 10:20 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
 
 ### Presenter Script (3–5 sentences)
-Newcastle: Matthias Jaissle learnt a lot about life after tumour aged five. Newcastle United head coach Matthias Jaissle could not move his neck at one point, but went on to play before embarking on a coaching career that sees him in Tyneside. Relevance to standings and momentum.
+Bilic is back: bravery and belief underpin second coming as Croatia manager. Match against England is welcome test for former West Ham coach as he replaces history-making Zlatko Dalic Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -55,10 +55,60 @@ Newcastle: Matthias Jaissle learnt a lot about life after tumour aged five. Newc
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Newcastle: Matthias Jaissle learnt a lot about life after tumour aged five. https://www.bbc.co.uk/sport/football/articles/cq7702n27ynxo?at_medium=RSS&at_campaign=rss
+- theguardian.com — Bilic is back: bravery and belief underpin second coming as Croatia manager. https://www.theguardian.com/football/2026/oct/02/slaven-bilic-croatia-manager-second-coming-england-nations-league
 
 ### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 3: Sir Alex Ferguson on brain haemorrhage and games that shaped his life
+**Slug (lower-third):** Sir Alex Ferguson on brain haemorrhage and games that sha…  
+**When:** 2026-10-02 00:25 (America/Winnipeg)  •  **Published:** 2026-10-02 05:25 (UTC)  
+**Virality score:** 96  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Sir Alex Ferguson on brain haemorrhage and games that shaped his life. Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday. Relevance to standings and momentum.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Sir Alex Ferguson on brain haemorrhage and games that shaped his life. https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+### Transfers
+
+## Story 4: Manchester City charges: What does guilty verdict mean for players?
+**Slug (lower-third):** Manchester City charges: What does guilty verdict mean fo…  
+**When:** 2026-10-02 04:00 (America/Winnipeg)  •  **Published:** 2026-10-02 09:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City charges: What does guilty verdict mean for players?. BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market. Implications for the squad and table.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- bbc.co.uk — Manchester City charges: What does guilty verdict mean for players?. https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
@@ -66,13 +116,13 @@ Newcastle: Matthias Jaissle learnt a lot about life after tumour aged five. Newc
 
 ### League & Regulation
 
-## Story 3: Man City not 'above the rules', says No 10 after backlash to Burnham remarks
-**Slug (lower-third):** Man City not 'above the rules', says No 10 after backlash…  
-**When:** 2026-10-01 19:50 (America/Winnipeg)  •  **Published:** 2026-10-02 00:50 (UTC)  
-**Virality score:** 100  •  **Estimated runtime:** ~20s
+## Story 5: Man City lodge appeal: Premier League club contest guilty verdict of independent commission
+**Slug (lower-third):** Man City lodge appeal: Premier League club contest guilty…  
+**When:** 2026-10-02 07:00 (America/Winnipeg)  •  **Published:** 2026-10-02 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Man City not 'above the rules', says No 10 after backlash to Burnham remarks. The prime minister said he would be "really concerned" if the club's owners sell up after Premier League rule breaches. Relevance to standings and momentum.
+Man City lodge appeal: Premier League club contest guilty verdict of independent commission. Man City were found guilty of all charges related to serious breaches of Premier League financial rules by an independent commission; City have now lodged their appeal against the verdict; City were charged by the Premier League with more than 100 breaches in February 2023 Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -81,7 +131,31 @@ Man City not 'above the rules', says No 10 after backlash to Burnham remarks. Th
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Man City not 'above the rules', says No 10 after backlash to Burnham remarks. https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss
+- skysports.com — Man City lodge appeal: Premier League club contest guilty verdict of independent commission. https://www.skysports.com/football/news/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission
+
+### Host Notes (for NotebookLM)
+- Delivery: **High energy**
+- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
+- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
+
+---
+
+## Story 6: Manchester City verdict has big integrity implications, warns FA as club lodge appeal
+**Slug (lower-third):** Manchester City verdict has big integrity implications, w…  
+**When:** 2026-10-02 05:50 (America/Winnipeg)  •  **Published:** 2026-10-02 10:50 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~20s
+
+### Presenter Script (3–5 sentences)
+Manchester City verdict has big integrity implications, warns FA as club lodge appeal. The Football Association has confirmed it has powers to take disciplinary action against Manchester City and key individuals at the club Disciplinary outcome could affect availability. We'll watch for official confirmation and update as details emerge.
+
+### Why It Matters
+- Impact on standings or squad.
+
+### Context
+- Verified across reputable outlets.
+
+### Sources
+- theguardian.com — Manchester City verdict has big integrity implications, warns FA as club lodge appeal. https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -92,13 +166,13 @@ Man City not 'above the rules', says No 10 after backlash to Burnham remarks. Th
 
 ### Club Updates
 
-## Story 4: Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
-**Slug (lower-third):** Chris Mason: Why Andy Burnham's about-turn on Manchester …  
-**When:** 2026-10-01 17:22 (America/Winnipeg)  •  **Published:** 2026-10-01 22:22 (UTC)  
-**Virality score:** 97  •  **Estimated runtime:** ~20s
+## Story 7: Patrick Mahomes' Kansas City Chiefs face the next Travis Kelce as Brock Bowers continues rise to NFL dominance - NFL Gameday Guide
+**Slug (lower-third):** Patrick Mahomes' Kansas City Chiefs face the next Travis …  
+**When:** 2026-10-02 07:00 (America/Winnipeg)  •  **Published:** 2026-10-02 12:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~27s
 
 ### Presenter Script (3–5 sentences)
-Chris Mason: Why Andy Burnham's about-turn on Manchester City matters. The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes. Relevance to standings and momentum.
+Patrick Mahomes' Kansas City Chiefs face the next Travis Kelce as Brock Bowers continues rise to NFL dominance - NFL Gameday Guide. The Indianapolis Colts face the Washington Commanders at Tottenham Hotspur Stadium in the first NFL London game of the season, live on Sky Sports NFL from 2.30pm Sunday; the Philadelphia Eagles then face the Los Angeles Rams before the Kansas City Chiefs take on Las Vegas Raiders Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -107,7 +181,7 @@ Chris Mason: Why Andy Burnham's about-turn on Manchester City matters. The prime
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Chris Mason: Why Andy Burnham's about-turn on Manchester City matters. https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss
+- skysports.com — Patrick Mahomes' Kansas City Chiefs face the next Travis Kelce as Brock Bowers continues rise to NFL dominance - NFL Gameday Guide. https://www.skysports.com/nfl/news/13593596/patrick-mahomes-kansas-city-chiefs-face-the-next-travis-kelce-as-brock-bowers-continues-rise-to-nfl-dominance-nfl-gameday-guide
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -116,13 +190,13 @@ Chris Mason: Why Andy Burnham's about-turn on Manchester City matters. The prime
 
 ---
 
-## Story 5: Shaw secures WCL draw against Real Madrid as Manchester City show spirit after week of turmoil
-**Slug (lower-third):** Shaw secures WCL draw against Real Madrid as Manchester C…  
-**When:** 2026-10-01 16:08 (America/Winnipeg)  •  **Published:** 2026-10-01 21:08 (UTC)  
-**Virality score:** 94  •  **Estimated runtime:** ~20s
+## Story 8: Women's Super League live on Sky this weekend: Man City to hand further punishment to Renee Slegers and Arsenal?
+**Slug (lower-third):** Women's Super League live on Sky this weekend: Man City t…  
+**When:** 2026-10-02 05:00 (America/Winnipeg)  •  **Published:** 2026-10-02 10:00 (UTC)  
+**Virality score:** 100  •  **Estimated runtime:** ~25s
 
 ### Presenter Script (3–5 sentences)
-Shaw secures WCL draw against Real Madrid as Manchester City show spirit after week of turmoil. Khadija Shaw's 51st-minute goal earned Manchester City a 1-1 draw against Real Madrid, who led through Linda Caicedo, in the Women's Champions League Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+Women's Super League live on Sky this weekend: Man City to hand further punishment to Renee Slegers and Arsenal?. Man City host under-fire Arsenal in this weekends showpiece game with the chance to extend their lead at the top of the Womens Super League; watch all SIX WSL games live on Sky Sports this Sunday from 2pm; watch Man City vs Arsenal at 4.30pm Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -131,7 +205,7 @@ Shaw secures WCL draw against Real Madrid as Manchester City show spirit after w
 - Verified across reputable outlets.
 
 ### Sources
-- theguardian.com — Shaw secures WCL draw against Real Madrid as Manchester City show spirit after week of turmoil. https://www.theguardian.com/football/2026/oct/01/manchester-city-real-madrid-womens-champions-league-league-stage-match-report
+- skysports.com — Women's Super League live on Sky this weekend: Man City to hand further punishment to Renee Slegers and Arsenal?. https://www.skysports.com/football/news/13593893/womens-super-league-live-on-sky-this-weekend-man-city-to-hand-further-punishment-to-renee-slegers-and-arsenal
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -140,13 +214,13 @@ Shaw secures WCL draw against Real Madrid as Manchester City show spirit after w
 
 ---
 
-## Story 6: Football gossip: Quansah, Mora, Olmo, David, Endrick, Jeltsch
-**Slug (lower-third):** Football gossip: Quansah, Mora, Olmo, David, Endrick, Jel…  
-**When:** 2026-10-01 14:45 (America/Winnipeg)  •  **Published:** 2026-10-01 19:45 (UTC)  
-**Virality score:** 93  •  **Estimated runtime:** ~20s
+## Story 9: Today on Sky Sports Racing: Ascot, Hexham, Newcastle and Wolverhampton
+**Slug (lower-third):** Today on Sky Sports Racing: Ascot, Hexham, Newcastle and …  
+**When:** 2026-10-02 02:00 (America/Winnipeg)  •  **Published:** 2026-10-02 07:00 (UTC)  
+**Virality score:** 98  •  **Estimated runtime:** ~23s
 
 ### Presenter Script (3–5 sentences)
-Football gossip: Quansah, Mora, Olmo, David, Endrick, Jeltsch. Real Madrid are keen on Bayer Leverkusen's Jarell Quansah, Liverpool are monitoring Club Tijuana's teenage midfielder Giberto Mora, plus more. Relevance to standings and momentum.
+Today on Sky Sports Racing: Ascot, Hexham, Newcastle and Wolverhampton. In today's feature, Melrose winner Infraad looks to make it three on the bounce as he steps into Listed company for the first time in the Noel Murless Stakes at Ascot. We also have competitive action from Hexham, Newcastle and Wolverhampton, live on Sky Sports Racing from 1.31pm. Relevance to standings and momentum.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -155,7 +229,7 @@ Football gossip: Quansah, Mora, Olmo, David, Endrick, Jeltsch. Real Madrid are k
 - Verified across reputable outlets.
 
 ### Sources
-- bbc.co.uk — Football gossip: Quansah, Mora, Olmo, David, Endrick, Jeltsch. https://www.bbc.co.uk/sport/football/articles/cw8r6r0pdkyzo?at_medium=RSS&at_campaign=rss
+- skysports.com — Today on Sky Sports Racing: Ascot, Hexham, Newcastle and Wolverhampton. https://www.skysports.com/racing/news/13593717/today-on-sky-sports-racing-ascot-hexham-newcastle-and-wolverhampton
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
@@ -164,13 +238,13 @@ Football gossip: Quansah, Mora, Olmo, David, Endrick, Jeltsch. Real Madrid are k
 
 ---
 
-## Story 7: Luke Littler: Phil Taylor and Barry Hearn both warn world No 1 to 'get used to boos' after mixed reception at recent tournaments
-**Slug (lower-third):** Luke Littler: Phil Taylor and Barry Hearn both warn world…  
-**When:** 2026-10-01 12:43 (America/Winnipeg)  •  **Published:** 2026-10-01 17:43 (UTC)  
-**Virality score:** 90  •  **Estimated runtime:** ~31s
+## Story 10: World Grand Prix Darts: Gerwyn Price faces Jonny Clayton in all-Welsh quarter-final as Luke Humphries meets surprise package Niels Zonneveld
+**Slug (lower-third):** World Grand Prix Darts: Gerwyn Price faces Jonny Clayton …  
+**When:** 2026-10-02 01:30 (America/Winnipeg)  •  **Published:** 2026-10-02 06:30 (UTC)  
+**Virality score:** 97  •  **Estimated runtime:** ~28s
 
 ### Presenter Script (3–5 sentences)
-Luke Littler: Phil Taylor and Barry Hearn both warn world No 1 to 'get used to boos' after mixed reception at recent tournaments. Darts legend Phil Taylor and sports promoter Barry Hearn give words of advice to Luke Littler with the world No 1 subject to boos and whistling in recent tournaments; you can watch the Grand Slam of Darts in Wolverhampton from November 14-22 live on Sky Sports Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
+World Grand Prix Darts: Gerwyn Price faces Jonny Clayton in all-Welsh quarter-final as Luke Humphries meets surprise package Niels Zonneveld. Luke Humphries will not take next opponent Niels Zonneveld lightly as he says success in Leicester would be even sweeter as he looks to win first major since 2025 Premier League; watch World Grand Prix quarter-finals live on Sky Sports from 7pm, Friday Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
 
 ### Why It Matters
 - Impact on standings or squad.
@@ -179,58 +253,10 @@ Luke Littler: Phil Taylor and Barry Hearn both warn world No 1 to 'get used to b
 - Verified across reputable outlets.
 
 ### Sources
-- skysports.com — Luke Littler: Phil Taylor and Barry Hearn both warn world No 1 to 'get used to boos' after mixed reception at recent tournaments. https://www.skysports.com/darts/news/13594054/luke-littler-phil-taylor-and-barry-hearn-both-warn-world-no-1-to-get-used-to-boos-after-mixed-reception-at-recent-tournaments
+- skysports.com — World Grand Prix Darts: Gerwyn Price faces Jonny Clayton in all-Welsh quarter-final as Luke Humphries meets surprise package Niels Zonneveld. https://www.skysports.com/darts/news/13594103/world-grand-prix-darts-gerwyn-price-faces-jonny-clayton-in-all-welsh-quarter-final-as-luke-humphries-meets-surprise-package-niels-zonneveld
 
 ### Host Notes (for NotebookLM)
 - Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 8: Andy Burnham's Manchester City comments stir fresh tensions with Premier League
-**Slug (lower-third):** Andy Burnham's Manchester City comments stir fresh tensio…  
-**When:** 2026-10-01 13:10 (America/Winnipeg)  •  **Published:** 2026-10-01 18:10 (UTC)  
-**Virality score:** 89  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Andy Burnham's Manchester City comments stir fresh tensions with Premier League. Andy Burnham's intervention in the Manchester City debate has revived tensions between the Premier League and the prime minister Relevance to standings and momentum. We'll watch for official confirmation and update as details emerge.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- theguardian.com — Andy Burnham's Manchester City comments stir fresh tensions with Premier League. https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league
-
-### Host Notes (for NotebookLM)
-- Delivery: **High energy**
-- Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
-- Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
-
----
-
-## Story 9: Arsenal: Was penalty after Leah Williamson handball the correct decision in Champions League?
-**Slug (lower-third):** Arsenal: Was penalty after Leah Williamson handball the c…  
-**When:** 2026-10-01 06:29 (America/Winnipeg)  •  **Published:** 2026-10-01 11:29 (UTC)  
-**Virality score:** 81  •  **Estimated runtime:** ~20s
-
-### Presenter Script (3–5 sentences)
-Arsenal: Was penalty after Leah Williamson handball the correct decision in Champions League?. Arsenal defender Leah Williamson was at the heart of a bizarre incident in their Women's Champions League draw with Paris FC. Relevance to standings and momentum.
-
-### Why It Matters
-- Impact on standings or squad.
-
-### Context
-- Verified across reputable outlets.
-
-### Sources
-- bbc.co.uk — Arsenal: Was penalty after Leah Williamson handball the correct decision in Champions League?. https://www.bbc.co.uk/sport/football/articles/cw07l7pk2gp4o?at_medium=RSS&at_campaign=rss
-
-### Host Notes (for NotebookLM)
-- Delivery: **Confident, upbeat**
 - Emphasize named people, teams, numbers; if a fact isn’t in the sources, say: *“Not specified in the source.”*
 - Suggested b-roll: Stadium exterior and fans; Training ground drills; Press conference backdrop
 
